@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  And then my mate punched me in the face, and now I feel completely demotivated. It's like, what's the point, y'know? If I have fun, I get punched, if I'm upset, I get punched, if I say the wrong thing, I get punched, if I complain about it, I get punched! Like, what's the fucking point, y'know!?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and rejection due to being punched and criticized for various actions. This suggests a potential risk of thwarted belongingness, as the person feels that regardless of what they do, they face negative consequences and therefore question the point of trying.
+

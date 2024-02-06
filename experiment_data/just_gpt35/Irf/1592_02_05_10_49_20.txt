@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I thought my depression had lessened because i was feeling things again, but i have been sober for 2 months now and i think it was probably just the alcohol, because i don‚Äôt feel like i have been becoming a lot more numb lately, not being sad feels good at least but i think a lot of the happiness has gone with it, i feel so bored.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not exhibit the characteristics of thwarted belongingness. The individual is talking about their experience with depression, alcohol, and feeling numb, but there is no explicit mention of feeling disconnected or excluded from social interactions or relationships, which are indicators of thwarted belongingness.
+

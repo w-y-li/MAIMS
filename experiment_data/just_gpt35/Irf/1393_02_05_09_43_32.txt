@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I go out five or six nights a week, work full time, have sex yet I still feel hollow. Thought I just needed a few things but I‚Äôm depressed no matter what.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual is engaging in multiple activities such as going out frequently, working full time, and having sex, yet they still feel hollow and depressed. This could indicate a lack of fulfillment and a sense of being burdened despite their efforts to engage in enjoyable or meaningful activities.
+

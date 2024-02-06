@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm trying to plan out treatment but lodging, transportation and funding is difficult. Are there any resources or strategies that can help? I'm feeling less depressed and need to act quick before my motivation disappears  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the poster is feeling depressed and is in need of treatment. They mention difficulties with lodging, transportation, and funding, which may be causing a sense of isolation and lack of social support. This suggests a potential risk of thwarted belongingness, as they express a need to act quickly before their motivation disappears.
+

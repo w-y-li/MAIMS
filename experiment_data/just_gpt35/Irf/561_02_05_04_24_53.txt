@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I go back to school tomorrow, I absolutely hate my school but it‚Äôs my last semester before I graduate out of high school. My anxiety is really high right now and I‚Äôve had 1 panic attack, what should I do?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions hating school, high anxiety, and having a panic attack, which indicates a risk of perceived burdensomeness on the individual's mental health.
+

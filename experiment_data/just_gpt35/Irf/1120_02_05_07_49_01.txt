@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Sometimes I am so depressed that it gives me hope. Its like I think God won't let me be so sad and will help me. I suppose I cannot accept I am dealing with such depressing thoughts. So I end believing in angels. And that someone will help me  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual is feeling a deep sense of sadness and hopelessness, leading them to seek solace in the belief that God or angels will provide them with help and support. This indicates a potential risk of thwarted belongingness, as they may be experiencing a lack of social connection and support in their life.
+

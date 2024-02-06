@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I only take Lexapro. I was watching some videos on these guy that call themselves  Preppers  and they prep for the end of the world. They say that people on any types of drugs will become unstable and focused on getting their fix or whatever. Is that us?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate any risk of thwarted belongingness. It is focused on concerns about the use of medication and the impact of that on an end-of-the-world scenario.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I have severe severe depression, high magnitude of anxiety, neurotic personality and obsessive thinking. Is this treatment appropriate and normal? Total sessions: 10 days Sessions per day: 2 15 mins each session with one hour gap in between. I‚Äôm not on any medication at the moment. I was on fludacs for a while. Also my psychiatrist wrote something like - ‚ÄúD L P F C‚Äù what does this mean?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of perceived burdensomeness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I use to be more suicidal then i am now, i just feel alone.. i have no one to talk to, my mother is too busy with my sisters bull crap. and I just wish i had someone to talk to.. anyone else ever just feel alone, and thats your emotional side talking but your logical you knows that things can get better and so you cant kill yourself but you kinda just wish you'd get in a car crash or something  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of hopelessness and a desire to no longer burden others, suggesting a risk of perceived burdensomeness.
+

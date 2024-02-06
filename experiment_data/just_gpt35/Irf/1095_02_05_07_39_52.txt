@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Im about to graduate and I feel 0 desire to go to college and find a career or anything. What's the point? To while my time away because everyone else is doing it? Lol. Thanks, but no thanks. I'd much rather just not exist. This shits boring and dumb af.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a lack of interest in pursuing education and a career, along with a negative attitude towards existing. The statement 'I'd much rather just not exist' indicates a potential risk of perceived burdensomeness.
+

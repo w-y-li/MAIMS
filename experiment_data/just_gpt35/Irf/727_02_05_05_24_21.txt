@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  as I was getting ready for an interview for a new job, i was thinking  what if i kill myself? wouldn't that be easier? . I've never been diagnosed with depression or even anxiety because... I've never told doctors about it, about what I'm feeling and thinking, etc. so I don't want to kind of self diagnosed myself as depressed while there is people out there who has been and theirs may be more severe than mine. but... there's period where i constantly feel bad about myself and I just want to end it all. I just want to know if some of you here feel that way sometimes (or everytime), and how do you live with it? is ever going to change? (also, sorry I'm French so my english isn't perfect...)  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a risk of perceived burdensomeness as the individual expresses thoughts of ending their life and feeling bad about themselves. They also question if others feel the same way and how to live with it.
+

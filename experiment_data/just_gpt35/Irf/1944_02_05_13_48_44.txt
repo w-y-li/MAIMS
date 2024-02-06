@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Even though some of my friends tell me otherwise I still feel guilty of what I've done and unworthy of everything  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of guilt and unworthiness, which can be signs of thwarted belongingness. This feeling of not belonging or being unworthy can contribute to a risk of thwarted belongingness.
+

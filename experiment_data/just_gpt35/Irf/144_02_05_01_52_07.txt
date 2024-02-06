@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I have no job, no friends and no girlfriend. All I do is play video games, hang with my dog and workout for an hour. I‚Äôm so bored with life. Worse part is I don‚Äôt wanna do anything. I don‚Äôt wanna socialize, don‚Äôt wanna go out, nothing really feels worthwhile and genuinely interesting. I‚Äôm almost 30 and life has lost all purpose. All I wait for is my next hour at the gym everyday.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates the lack of social connections and a sense of purpose, which are key aspects of thwarted belongingness.
+

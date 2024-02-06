@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Hey guys, I'm lost. Quick introduction. I've had four heart attacks due to bad genetics and i'm only 25, and i need to know what i need to do next. I'm so miserable, I have fallen into deep dark severe depression of emotionless days that plagued me since 22. What would you do? I am sitting here drunk as all else, and every year has become a tipping point of despair.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and despair, suggesting the person may be experiencing thwarted belongingness. They mention feeling lost, miserable, and emotionally numb, which are potential signs of feeling disconnected from others and lacking social support.
+

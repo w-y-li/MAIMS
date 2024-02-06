@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Someone will love me one day, but I just need reassurance right now  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Not at all true for me.###The post doesn't mention anything about feeling like the people in their life would be better off without them. Instead, the post expresses a need for reassurance, which suggests that they are aware that someone will love them one day."])
+('2', ['indirectly_mention', "Somewhat true for me.###Although the post doesn't directly state that the people in their life would be happier without them, it implies that the poster is going through a difficult time and feels the need for reassurance. This suggests that they may have some doubts about their impact on others, indicating that the statement might be somewhat true for them."])
+('3', ['not_mention', "Doesn't mention at all.###The post doesn't mention feeling like a burden on society or thinking about one's death."])
+('4', ['not_mention', "Doesn't mention at all.###The post doesn't explicitly mention thinking that one's death would be a relief to others."])
+('5', ['directly_mention', "Not at all true for me###The post mentions that I just need reassurance right now, which indicates that I don't believe the people in my life want to be rid of me."])
+('6', ['directly_mention', "Not at all true for me###The post mentions that I just need reassurance right now, which suggests that I don't believe I make things worse for the people in my life."])
+('7', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster needs reassurance right now, which implies that the poster may not feel completely cared for by others. This suggests that although the belief that someone will love the poster one day exists, there might be some uncertainty or doubt about the level of care received from others currently, hence the response 'Somewhat true for me.'"])
+('8', ['indirectly_mention', "Somewhat true for me###The post implies that the poster might not feel a strong sense of belonging in the present moment, given the need for reassurance. Although the belief in future love is mentioned, the focus on seeking reassurance suggests that there might be some level of self-doubt or insecurity, resulting in a response of 'Somewhat true for me.'"])
+('9', ['not_mention', "Doesn't mention at all.###The post doesn't talk about interactions with people who care about me or having caring and supportive friends. It focuses on the need for reassurance and the hope of finding love in the future."])
+('10', ['not_mention', "Doesn't mention at all.###There is no mention or reference to having many caring and supportive friends in the post. The post is more centered around the present need for reassurance and the hope for future love."])
+('11', ['indirectly_mention', "Not at all true for me###Based on the post, the person states that they 'just need reassurance right now', which implies that they are seeking connection and reassurance from others. Feeling disconnected from other people may suggest that they feel distant or isolated from others currently. Therefore, the answer to Question 11 would be 'Not at all true for me' as they express the need for connection."])
+('12', ['indirectly_mention', "Very true for me###In the post, the person mentions that 'Someone will love me one day,' indicating a desire for love and acceptance from others. This statement aligns with feeling like an outsider in social gatherings, as they may feel disconnected from the group or struggle to fit in. Therefore, the answer to Question 12 would be 'Very true for me' as they express feeling like an outsider."])
+('13', ['indirectly_mention', 'Somewhat true for me###Based on the post, I mentioned that I just need reassurance right now. This implies that I am looking for someone to turn to in times of need, although I may not feel that there are people currently available to provide that support. Therefore, I believe it is somewhat true for me.'])
+('14', ['indirectly_mention', 'Somewhat true for me###In the post, I expressed the desire for someone to love me in the future. This suggests that I may not currently feel close to other people, but I have hope that this will change. Therefore, I would say it is somewhat true for me.'])
+('15', ['indirectly_mention', "Somewhat true for me###The post suggests that the person is seeking reassurance, which implies a need for positive interaction. Although it doesn't explicitly mention satisfying interactions, the desire for reassurance indicates a desire for positive interactions in their life."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The responses to the questions indicate a high level of perceived burdensomeness. The poster feels that the people in their life would be happier without them, that they make things worse for others, and that they often feel like an outsider in social gatherings. These feelings suggest a belief that they are a burden on others and could potentially be at risk for perceived burdensomeness.
+

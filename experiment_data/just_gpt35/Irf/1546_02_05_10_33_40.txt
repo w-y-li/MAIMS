@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  im sitting in front of a brand new laptop with my wisky in hand and i have no self worth at all. I have this constnat need for some form of human interaction that some times i get. I messege friends just to get someone to talk to and even when they are telling me that im a nice guy and a good friend i dont beleve them. I feel like there lying just to get me off there back. I feel like i talk about my feelings way to much to the people close to me and thats pushing them away but thats how i cope by talking and crying and being an alcoholic. Im lost trying to find a way out of this endless cycle of emotion that i always feel. Help?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a constant need for human interaction, a feeling of worthlessness, the belief that others are lying to them, pushing people away by talking about their feelings too much, and coping with alcohol. These factors suggest a risk of thwarted belongingness, which is the feeling of not fitting in or being disconnected from others.
+

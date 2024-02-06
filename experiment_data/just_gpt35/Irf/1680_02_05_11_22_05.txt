@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'vs noticed that whenever i walk past a mirror i look away... i can't remember the last time i've seen my reflection without feeling disgust. I can't stand to look at myself.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's feeling of disgust towards their own reflection and avoidance of looking at themselves in a mirror suggest a negative perception of self-image. This may indicate a lack of self-acceptance and a potential risk of thwarted belongingness, as they may struggle to feel accepted and connected to others due to their low self-esteem and negative self-perception.
+

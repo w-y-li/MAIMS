@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Sometimes I am so depressed that it gives me hope. Its like I think God won't let me be so sad and will help me. I suppose I cannot accept I am dealing with such depressing thoughts. So I end believing in angels. And that someone will help me  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a belief that the poster is burdened by their depression and that they rely on external factors, such as God and angels, to alleviate their sadness. This suggests a risk of perceived burdensomeness, as they may believe that they are imposing negative emotions on others around them.
+

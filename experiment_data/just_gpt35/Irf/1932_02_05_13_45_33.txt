@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I feel like a machine. I'm just functioning. I'm not happy anymore, I don't enjoy my hobbies, I don't enjoy drawing or painting, everything just doesn't make sense to me. I'm afraid of moving out, leaving my beloved cat behind, my dad and everything I've ever known. There will be so many changes.. Of course I love the thought of living with my boyfriend and I love our apartment, but I just feel like there's a tight grip around me. On New Years Eve, I told my boyfriend that I feel bad, that I'm wishing to have a car accident, that I just want everything to stop. He got angry, told me that I'm selfish and that I should stop with these thoughts. I would never ever kill myself, I could never do it. So no worries. I started hurting myself again, biting my arms, biting my lips. Nobody knows how I feel. Nobody. I feel alone even if I have a wonderful boyfriend and good friends. I want to throw everything away, destroy all the things I don't need anymore, sit down and cry, but I can't even cry anymore. I feel numb. Sorry but I had to let go of these things.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The individual expresses feelings of loneliness and isolation, despite having a wonderful boyfriend and good friends. They also mention wanting to destroy things and feeling numb, which may indicate a sense of disconnection and lack of belongingness.
+

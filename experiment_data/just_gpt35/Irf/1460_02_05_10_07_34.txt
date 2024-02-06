@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  There‚Äôs this terrible feeling that aches inside my chest. I have no words to describe it..but i feel miserable and lost. No matter how hard i try I cant find anything to make me happy.. there‚Äôs no where to run, no one to turn to..Im constantly in pain and I don‚Äôt know how to fix it. How the fuck am I supposed to fix this? My life is filled with meaningless routines.. I just want to disappear... everything is so pointless..  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of loneliness, being lost, and a lack of support or someone to turn to, indicating potential risk of thwarted belongingness.
+

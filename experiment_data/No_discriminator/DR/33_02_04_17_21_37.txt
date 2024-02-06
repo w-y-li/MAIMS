@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  How would you describe your life at this point? I literally feel like my life is a complete crap! I’ve been holding my feelings in(self doubt, emotionally unstable) it’s been rough! I just quit my job because it was causing more panic attacks ...so now I’m without a job and still depressed! Basically life sucks for me!!!!  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The poster mentioned feeling emotionally unstable and depressed, which are common symptoms of sadness. Although they did not explicitly say they feel sad, these symptoms indicate a high likelihood of experiencing sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The poster mentioned feeling self-doubt, emotionally unstable, and depressed. These feelings can often lead to a sense of discouragement about the future. Although they did not explicitly state feeling pessimistic, the mentioned symptoms suggest a high likelihood of experiencing pessimism.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The post mentions feeling like life is a complete crap, holding in feelings of self-doubt and being emotionally unstable, quitting a job, and feeling depressed. These experiences suggest a pattern of failure and difficulty, which aligns with feeling that I have failed more than the average person.'])
+('4', ['indirectly_mention', "I get very little pleasure from the things I used to enjoy.###The post mentions feeling like life sucks, having panic attacks, quitting a job, and feeling depressed. These experiences can inhibit one's ability to experience pleasure and enjoyment. Therefore, I can deduce that I get very little pleasure from the things I used to enjoy."])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The poster mentions holding in their feelings and describes themselves as emotionally unstable, which suggests a potential sense of guilt. However, since the post does not explicitly state feeling guilty, I can only deduce that they feel guilty a good part of the time.'])
+('6', ['indirectly_mention', 'I do not feel I am being punished.###The poster mentions quitting their job because it was causing panic attacks, which might indicate they felt punished by their previous job. However, since the post does not explicitly mention feeling punished, I can only deduce that they do not feel they are being punished.'])
+('7', ['indirectly_mention', 'I dislike myself###The poster mentions feeling like their life is a complete crap, holding in self-doubt and being emotionally unstable. These negative feelings and thoughts about oneself indicate a dislike for oneself.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual###The poster mentions quitting their job due to panic attacks, feeling depressed, and stating that life sucks for them. This suggests that they may be engaging in self-accusations and blaming themselves for their current situation.'])
+('9', ['directly_mention', 'I would like to kill myself.###The post mentions feeling like life is a complete crap, being emotionally unstable, having panic attacks, being without a job, and feeling depressed - all of which indicate a high level of distress and potential for suicidal thoughts.'])
+('10', ['directly_mention', 'I cry all the time now.###The post mentions feeling emotionally unstable and depressed, which could contribute to increased crying.'])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The poster mentioned feeling emotionally unstable and having panic attacks, which could indicate a higher level of restlessness and agitation compared to their usual state.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The poster mentioned feeling depressed and quitting their job, which could lead to a decrease in interest in other people or activities compared to their previous state.'])
+('13', ['indirectly_mention', "I find it more difficult to make decisions than usual.###In the post, I mentioned that I've been holding my feelings in, experiencing self-doubt, and feeling emotionally unstable. These symptoms often contribute to difficulties in making decisions, although it wasn't explicitly stated."])
+('14', ['indirectly_mention', "I feel more worthless as compared to other people.###From the post, I stated that my life is a complete crap, I've been holding my feelings in, and I feel depressed. These negative thoughts and emotions can lead to a lower sense of self-worth, although it wasn't directly mentioned."])
+('15', ['indirectly_mention', 'I do not have enough energy to do very much.###The post mentions that the poster is feeling depressed and that their life is a complete crap. These feelings are often associated with a lack of energy. Therefore, I deduce that the poster does not have enough energy to do very much.'])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###The post mentions that the poster has been holding in their feelings, feeling emotionally unstable, and experiencing panic attacks. These factors can often disrupt sleeping patterns. Therefore, I deduce that the poster is sleeping somewhat less than usual.'])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The poster mentions feeling emotionally unstable and having panic attacks, which suggests a higher level of irritability than usual.'])
+('18', ['indirectly_mention', "My appetite is much less than before.###The poster mentions feeling depressed and describes their life as 'a complete crap.' Depression can often lead to a decrease in appetite, therefore indicating a much less appetite than before."])
+('19', ['indirectly_mention', "I find I can not concentrate on anything.###Although I didn't directly mention difficulty with concentration, I described holding my feelings in, being emotionally unstable, and experiencing panic attacks. These symptoms can all contribute to difficulty in concentration, so I believe I find it hard to concentrate on anything."])
+('20', ['indirectly_mention', "I am too tired or fatigued to do most of the things I used to do.###While I didn't explicitly state feeling tired or fatigued, I mentioned feeling depressed, quitting my job due to panic attacks, and overall feeling that my life sucks. These experiences can be draining and cause fatigue. Therefore, I believe I am too tired or fatigued to do most of the things I used to do."])
+('21', ['directly_mention', 'I have lost interest in sex completely.###The post mentions feeling emotionally unstable, depressed, and that life sucks for the poster, which can all contribute to a loss of interest in sex.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the questions of the mental scale indicate symptoms of depression such as sadness, pessimism about the future, feelings of failure, loss of pleasure, guilty feelings, self-dislike, self-accusations, suicidal thoughts or wishes, crying, agitation, loss of interest, indecisiveness, worthlessness, loss of energy, changes in sleeping pattern, irritability, changes in appetite, difficulty concentrating, tiredness or fatigue, and loss of interest in sex.
+

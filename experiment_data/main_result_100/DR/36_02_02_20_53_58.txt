@@ -1,0 +1,94 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  How would you describe your life at this point? I literally feel like my life is a complete crap! I’ve been holding my feelings in(self doubt, emotionally unstable) it’s been rough! I just quit my job because it was causing more panic attacks ...so now I’m without a job and still depressed! Basically life sucks for me!!!!  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The poster mentions feeling like their life is a complete crap, holding in their feelings (self-doubt, emotionally unstable), and feeling depressed. These statements indicate the presence of sadness in their life much of the time.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post mentions quitting a job due to panic attacks, being without a job, and feeling depressed. These feelings and circumstances suggest a sense of discouragement about the future.'])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The post mentions feeling like life is a complete crap and having self-doubt, which suggests that the individual may feel like they have failed more than others.'])
+('4', ['directly_mention', 'I get very little pleasure from the things I used to enjoy.###The post mentions feeling depressed and that life sucks, indicating a loss of pleasure in things that used to bring enjoyment.'])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The poster mentions feeling like their life is a complete crap and holding in their feelings. These self-doubt and emotionally unstable feelings may lead to guilt.'])
+('6', ['indirectly_mention', 'I feel I may be punished.###The poster mentions feeling like their life is a complete crap and holding in their feelings. These thoughts and emotions may lead to feelings of being punished.'])
+('7', ['directly_mention', 'I dislike myself.###The post directly mentions feeling like life is a complete crap and still being depressed, indicating dissatisfaction and dislike towards oneself.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The post mentions holding in feelings of self-doubt and being emotionally unstable, which can indicate increased self-criticism and blaming tendencies.'])
+('9', ['indirectly_mention', "I cry all the time now.###The post mentions that I've been holding my feelings in and it's been rough. This implies that I am experiencing emotional distress, which could manifest as excessive crying."])
+('10', ['indirectly_mention', 'I have thoughts of killing myself, but I would not carry them out.###The post mentions feeling like my life is a complete crap, being without a job, and still being depressed. This suggests that I am experiencing significant emotional turmoil and may be prone to having thoughts of suicide.'])
+('11', ['indirectly_mention', 'I am so restless or wound up that it is hard to stay still.###The poster mentioned feeling emotionally unstable and having panic attacks, which can be signs of agitation.'])
+('12', ['indirectly_mention', 'It is hard to get interested in anything.###The poster mentioned feeling depressed and like their life is a complete crap, which can indicate a loss of interest in things.'])
+('13', ['directly_mention', 'I find it more difficult to make decisions than usual.###In my post, I mentioned that I have been holding my feelings in and feeling emotionally unstable. This indicates that I am experiencing indecisiveness and finding it more difficult to make decisions than usual.'])
+('14', ['directly_mention', 'I feel more worthless as compared to other people.###In my post, I mentioned that I feel like my life is a complete crap, I am without a job, and still depressed. These feelings reflect a sense of worthlessness, specifically feeling more worthless as compared to other people.'])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###The post mentions that the person has been feeling emotionally unstable and holding their feelings in, which suggests a loss of energy. They also mention quitting their job due to panic attacks, which further indicates a lack of energy.'])
+('16', ['directly_mention', "I have not experienced any change in my sleeping pattern.###The post does not mention any changes in the person's sleeping pattern. They only mention feeling depressed and quitting their job, which do not directly relate to their sleep."])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post mentions that the person has been holding their feelings in and feeling emotionally unstable, which can be indicators of irritability.'])
+('18', ['directly_mention', "My appetite is somewhat less than usual.###The post states that the person's life is a complete crap, they are depressed, and it mentions the emotional difficulties they are going through. These can potentially contribute to changes in appetite, although it does not specifically state the degree of change."])
+('19', ['indirectly_mention', "It is hard to keep my mind on anything for very long.###Although the post doesn't directly mention concentration difficulty, the poster states that they have been holding their feelings in, are emotionally unstable, and have been experiencing panic attacks. These symptoms are often associated with difficulties in concentration and focus."])
+('20', ['directly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The poster explicitly mentions that they are depressed and that life sucks for them, which suggests a high level of fatigue and lack of energy. Additionally, quitting their job due to panic attacks may have caused increased stress and exhaustion.'])
+('21', ['directly_mention', 'I have lost interest in sex completely.###I mentioned that my life is a complete crap, I have been holding my feelings in, and I am emotionally unstable. These are symptoms of depression which can often lead to a decrease in interest in sex. Therefore, I can infer that I have lost interest in sex completely.'])
+Do MS Check Record:
+('1', ['Correct', 'Ensure to maintain the balance between the description offered by the post and the psychological concepts they reflect, without adding assumptions.'])
+('2', ['Correct', 'Focus on identifying explicit or strongly suggested emotions and perspectives in a post to infer psychological states like pessimism accurately without overextending.'])
+('3', ['Correct', 'Ensure that all interpretations directly relate to the content provided in the posts. Continue to cite specific emotions and events mentioned by the poster to support your answers.'])
+('4', ['Correct', "Good job on recognizing the emotional content in the post. Keep grounding your analysis in specific terms used by the poster such as 'depressed' and 'life sucks' to accurately reflect their experiences."])
+('5', ['Correct', "Be cautious not to overgeneralize feelings of guilt from the poster's situation, and continue to rely on direct evidence from the post."])
+('6', ['Incorrect', "Avoid assuming that feeling life is 'complete crap' equates to anticipating punishment without direct evidence from the post suggesting this connection."])
+('7', ['Correct', "Continue to analyze the explicit content of posts to address questions directly related to the poster's stated feelings and experiences."])
+('8', ['Correct', 'Good job on noticing the implicit cues that suggest self-critical behavior. Continue to look for subtler emotional nuances in future evaluations.'])
+('9', ['Incorrect', 'Analyze the content more carefully to distinguish between general expressions of distress and specific references to suicidal thoughts. Look for explicit statements before assuming or inferring suicide ideation.'])
+('10', ['Incorrect', 'Refrain from making assumptions beyond what is stated. Focus on the information given about emotional state and do not infer suicidal thoughts without clear indications in the original post.'])
+('11', ['Correct', 'Ensure consistency by always referencing specific phrases from the post to back your interpretation.'])
+('12', ['Correct', "Great job deducing the poster's feelings. Remember to justify loss of interest by linking it to specific sentiments or actions of the poster."])
+('13', ['Correct', "You have correctly identified the symptoms of indecisiveness based on the poster's description of emotional instability and difficulty handling feelings. Continue to apply this method of analysis, ensuring you focus on the explicit content of the posts to guide your interpretations."])
+('14', ['Incorrect', 'Be cautious about equating a negative life evaluation with a sense of worthlessness. While the poster expresses despair, it is not evidence of feeling worthless as compared to others. Focus on separating emotional states from global self-assessments unless clearly indicated.'])
+('15', ['Correct', "Continue to analyze posts and extract relevant information. Pay attention to subtle cues that suggest the poster's mental and emotional state, as you did regarding the loss of energy."])
+('16', ['Incorrect', 'Do not ignore possible indirect cues about changes in sleeping patterns. Emotional instability and being without a job could potentially affect sleep, so abstain from definitive statements unless the post explicitly mentions sleeping patterns.'])
+('17', ['Correct', 'Ensure to continue assessing the emotional context of the post for indirect cues about the mood-related symptoms like irritability.'])
+('18', ['Incorrect', 'Refrain from making direct inferences about changes in appetite without explicit information. Look for more concrete indicators before concluding a specific change in appetite.'])
+('19', ['Correct', 'Good job on making an informed inference based on the described emotional instability and panic attacks. However, be cautious not to generalize symptoms without strong evidence; look for specific indicators that can be associated with concentration difficulty moving forward.'])
+('20', ['Correct', 'You effectively connected the explicit feelings of depression and the drastic step of quitting a job to feelings of tiredness or fatigue. When dealing with mental health constructs, continue using such direct evidence to support your assessments.'])
+('21', ['Incorrect', "Be cautious not to over-interpret a single aspect of the emotional state described, such as 'emotionally unstable', to apply to areas not mentioned, like sexual interest. Focus on the information given without assuming details not explicitly stated."])
+
+ITER 1
+Do MS Record:
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling punished or being punished."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes, as it only expresses overall distress and despair."])
+('10', ['directly_mention', "I cry all the time now.###The post mentions feeling emotionally unstable and rough, which could contribute to increased crying. The phrase 'life sucks for me' indicates a continuous negative emotional state that may lead to frequent episodes of crying."])
+('14', ['indirectly_mention', "I do not consider myself as worthwhile and useful as I used to.###Although the post does not explicitly mention worthlessness, the statement 'I literally feel like my life is a complete crap!' suggests a negative evaluation of the self. This negative self-perception can indicate a decrease in one's sense of worth and value as compared to the past."])
+('16', ['indirectly_mention', "###The post mentions feeling emotionally unstable and the poster's depression, which could potentially affect sleep patterns. However, there is no direct mention of a change in sleeping patterns. Therefore, I cannot provide a specific answer to this question based on the given information."])
+('18', ['indirectly_mention', "###The post mentions feeling depressed and the poster's job situation, which could potentially affect appetite. However, there is no direct mention of a change in appetite. Therefore, I cannot provide a specific answer to this question based on the given information."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in interest in sex."])
+Do MS Check Record:
+('6', ['Incorrect', 'While the post does not explicitly mention feelings of punishment, the intense negative emotion and drastic actions like quitting a job can imply feelings of being overwhelmed or subjected to harsh conditions. Consider the broader emotional context when addressing the concept of punishment feelings.'])
+('9', ['Incorrect', "Given the severity of the poster's distress and the mention of depressive states, it's important not to dismiss possible suicidal thoughts or wishes too hastily. Even if not explicitly stated, the language of the post suggests a level of despair that warrants a more nuanced interpretation aligned with psychological knowledge of depression."])
+('10', ['Correct', 'Your insight into the poster’s emotional state was aptly reflected in your answer, recognizing their tendency to cry as a response to their situation. Continue to use direct statements from the post to support your interpretations.'])
+('14', ['Correct', "You made a reasonable inference about the poster's sense of worth from the language they used, showing an understanding that descriptions of one’s life negatively can imply feelings of worthlessness. Ensure you maintain a balance between direct evidence and reasonable inference without overextending beyond what the post implies."])
+('16', ['Correct', 'Good job recognizing the indirect mention of emotional states that can correlate with changes in sleep. Continue analyzing posts for any implied information without making assumptions.'])
+('18', ['Correct', 'Well done on noting the lack of specific information about changes in appetite. Keep focusing on the explicit content of the post, while considering potential implications carefully.'])
+('21', ['Correct', 'Ensure that when the post does not provide information relating to a specific question, you acknowledge the lack of information instead of making unfounded inferences.'])
+
+ITER 2
+Do MS Record:
+('6', ['indirectly_mention', "I have thoughts of killing myself, but I would not carry them out.###The post mentions feeling depressed and describes life as a complete crap. These intense negative emotions can be indicative of thoughts of killing oneself, even if the post doesn't explicitly mention carrying out those thoughts."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention any feelings of being punished."])
+Do MS Check Record:
+('6', ['Incorrect', 'The post explicitly describes intense negative feelings and a sense of hopelessness, which may suggest feelings of punishment. Your response should reflect the emotional content of the post without inferring suicidal intentions not directly mentioned.'])
+('9', ['Correct', 'You correctly noted that the post does not explicitly mention suicidal thoughts or wishes. Continue to analyze the content carefully and only infer what is supported by the language used in the post.'])
+
+ITER 3
+Do MS Record:
+('6', ['directly_mention', 'I feel I am being punished.###The post explicitly describes feeling like life is complete crap, holding in feelings of self-doubt and emotional instability, and feeling depressed and without a job. These negative experiences may lead to a sense of being punished.'])
+Do MS Check Record:
+('6', ['Correct', 'You appropriately deduced from the post that the person feels a heavy sense of burden and punishment. However, ensure to keep your elaboration strictly aligned with given information and not influenced by assumptions beyond the text.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the questions of the mental scale indicate symptoms commonly associated with depression, such as feeling sad much of the time, pessimism about the future, feeling like a failure, experiencing a loss of pleasure, guilt, self-dislike, self-accusations, crying, agitation, loss of interest, indecisiveness, worthlessness, lack of energy, irritability, difficulty in concentration, and fatigue. These symptoms collectively suggest that the poster is likely suffering from depression.
+
+Correct
+Continue to analyze the available information carefully without making assumptions beyond the provided data. Remember to always consider differential diagnoses and rule out other conditions that may present with similar symptoms.

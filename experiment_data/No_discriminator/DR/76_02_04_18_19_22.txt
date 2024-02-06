@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I’m quite literally dead inside Even when I feel emotions, it’s just despair and sadness. The rest of it just pure numbness. I can’t remember half the thing I was doing today and I don’t even care. The only thing keeping me alive is video games and the hope of some new bond in the next school year. Eventually, it won’t be enough. I’ve always felt broken inside. Ever since 6th grade. But there. Just needed some of that off my chest. Sorry for bitching and wasting your time.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "I am so sad or unhappy that I cannot stand it.###The post states 'Even when I feel emotions, it’s just despair and sadness.' This indicates a high level of sadness."])
+('2', ['indirectly_mention', 'I feel I have nothing to look forward to.###The post mentions that the only thing keeping me alive is video games and the hope of some new bond in the next school year. This suggests a lack of excitement or optimism about the future.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The post mentions feeling broken and despair, which can be signs of experiencing failure in life. The mention of feeling broken inside since 6th grade suggests a pattern of perceived failure.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post mentions pure numbness, lack of care, and the reliance on video games and hope for joy in the future. These indicate a decreased ability to experience pleasure and diminished enjoyment from previously pleasurable activities.'])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###The post mentions feeling despair, sadness, and numbness, which commonly lead to feelings of guilt. The poster states that they always feel broken inside, indicating a consistent sense of guilt.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to punishment feelings. There is no information provided from which to make a deduction."])
+('7', ['indirectly_mention', 'I dislike myself.###The post mentions feeling despair, sadness, and numbness, which reflects a negative self-perception. This suggests that the person may dislike themselves.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to self-accusations or being self-critical. There is no indication of the person blaming themselves for anything."])
+('9', ['indirectly_mention', 'I have thoughts of killing myself, but I would not carry them out.###The post mentions feeling despair and sadness, as well as feeling broken inside. These feelings can be indicative of suicidal thoughts or wishes, although the post does not explicitly state the intention to carry them out.'])
+('10', ['indirectly_mention', 'I cry more than I used to.###The post mentions feeling pure numbness, which can be an indication of emotional disconnection. Additionally, the poster expresses a sense of despair and sadness, which suggests an increase in crying compared to before.'])
+('11', ['indirectly_mention', "I am so restless or agitated that it is hard to stay still.###The post mentions feeling emotions of despair and sadness, as well as numbness. The restlessness and agitation described in the question could be implied by the poster's statement of feeling broken inside."])
+('12', ['directly_mention', "I have lost most of my interest in other people or things.###The post explicitly states that the poster can't remember half of the things they were doing today and doesn't care. This suggests a loss of interest in activities and possibly other people."])
+('13', ['indirectly_mention', "I have greater difficulty in making decisions than I used to.###In the post, I mentioned that I can't remember half the things I was doing today and I don't even care. This suggests a difficulty in making decisions as I am unable to recall my activities and lack interest in them."])
+('14', ['indirectly_mention', "I feel more worthless as compared to other people.###The post mentions that I've always felt broken inside, which suggests a low sense of self-worth. Additionally, I describe my emotions as despair and sadness, indicating a negative self-perception compared to others."])
+('15', ['indirectly_mention', 'I do not have enough energy to do very much.###The post mentions having pure numbness and feeling broken inside, which indicates a significant lack of energy and motivation to do much.'])
+('16', ['indirectly_mention', 'I sleep a lot less than usual.###The post mentions not being able to remember half of what was done during the day, which suggests difficulty in falling asleep and staying asleep.'])
+('17', ['directly_mention', 'I am much more irritable than usual.###The poster mentions feeling emotions of despair and sadness, which indicates a heightened level of irritability.'])
+('18', ['directly_mention', "My appetite is much less than before.###The poster states that they don't care, experience numbness, and have no energy. These symptoms suggest a decrease in appetite."])
+('19', ['directly_mention', "It is hard to keep my mind on anything for very long.###The post mentions that the poster can't remember half the things they were doing today and they don't even care, indicating difficulty in maintaining concentration."])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post states that the only thing keeping the poster alive is video games and the hope of some new bond in the next school year, suggesting a lack of energy or motivation to engage in other activities they used to enjoy.'])
+('21', ['indirectly_mention', 'I am less interested in sex than I used to be.###The post mentions feeling pure numbness and despair, which suggests a lack of pleasure or interest in activities, including sex. This indicates a change in interest in sex compared to before.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the questions on the mental scale indicate symptoms of depression. They report feeling extreme sadness, pessimism, loss of pleasure, guilt, self-dislike, and worthlessness. They also express thoughts of suicide and have experienced changes in sleep, appetite, energy levels, and interest in sex. These symptoms align with the diagnostic criteria for depression, suggesting that the poster may be suffering from depression.
+

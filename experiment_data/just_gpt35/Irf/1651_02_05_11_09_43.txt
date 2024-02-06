@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  That's so embarrassing, humiliating and so frustrating especially on these last days of holidays. I mean, this person is with his/her loved one, people she cares about. Why do I even think about this person. It's infuriating and making this thread is giving her more attention than this one person deserve from me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The language used in the post such as 'so embarrassing, humiliating, frustrating' suggests that the person perceives themselves as a burden to others, feeling frustrated and undeserving of attention, which indicates a risk of perceived burdensomeness.
+

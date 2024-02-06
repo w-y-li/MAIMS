@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  thinking about the time of my death is the only thing that leaves me alone, do any of you feel that way totootootoowa  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests the presence of thoughts about death as a means of finding solace and isolation, which can be related to perceived burdensomeness.
+

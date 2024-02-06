@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Pristiq (desvenlafaxine er succinate 25 mg) question So a few days ago my doctor wanted me to try this cause I’ve been having a hard tine in life lately due to several negative things happening pretty much all at once. So I’ve become a little depressed. Anyways, does or has anyone taken Pristiq?.... and what are your thoughts, concerns, recommendations, etc.....? If this matters.... I also take daily: Adderall 15mg XR, Percocet 40mg, 2700mg Gabapentin and naproxen 500mg. When needed I take: baclofen 10-20mg, Xanax up to 2mg, Flexeril 10mg and Zanaflex 4mg.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentioned that they have been experiencing a hard time in life lately and feeling depressed. They also mentioned that their doctor prescribed Pristiq, which is an antidepressant medication.
+

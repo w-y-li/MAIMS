@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I just felt like jumping from a high rise building, I almost went near the edge but I don't know what made me back out. I have been on anti depressants since 2 years and was coping well. But since my mom passed away last month at the age of 50 I am not who I am. I am just not finding any meaning in life. Right now I am feeling numb and my heart is pounding. It feels terrible.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling numb, not finding meaning in life, and experiencing the loss of their mother. These factors indicate a sense of loneliness and disconnection, which aligns with thwarted belongingness, a risk factor for mental health problems.
+

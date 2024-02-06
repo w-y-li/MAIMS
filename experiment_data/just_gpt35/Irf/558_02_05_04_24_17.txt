@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  That sad part is that things could be worse and probably will be in 2018. Happy New Years everyone! Best of luck to everyone that's trapped in their own mind.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post implies a feeling of being trapped in one's own mind, which could indicate a sense of isolation or disconnection from others, potentially suggesting thwarted belongingness.
+

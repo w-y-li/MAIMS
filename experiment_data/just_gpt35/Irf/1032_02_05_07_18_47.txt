@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Today would have been my best friend's 18th birthday, we'd be going out together for the first time, we'd be sitting here making resolutions for the new year that we both know we'd never keep. None of that is even possible though, because he's gone. It was never supposed to be like this.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of loss and longing for companionship with the best friend, highlighting a potential risk of thwarted belongingness, which refers to the feeling of not experiencing satisfying and fulfilling connections with others.
+

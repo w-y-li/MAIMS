@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  People keep telling me that if I kill myself, then the depression will win the fight. Here‚Äôs the catch, they think I fucking care if it wins. I don‚Äôt give a shit anymore. I‚Äôm not even using a throwaway account because I don‚Äôt care about keeping it a secret. Why would I care if the depression wins? All I want is peace, and if it takes the depression winning over me to achieve that, then why should I care at all? I don‚Äôt. Idk why I‚Äôm even posting here. I‚Äôm not sure if I‚Äôm subconsciously looking for help, or just attention. Who knows. I don‚Äôt want to hurt my family, but at the same time I‚Äôm hurting them when I even tell them about my thoughts. I can‚Äôt fucking win anything anymore. I don‚Äôt know what to do. I‚Äôm so goddamn pathetic it‚Äôs unbelievable. Sometimes I wish I was killed by a robber or shooter just so I didn‚Äôt have to worry about my family wondering what they did wrong.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of not caring about winning against depression and seeking peace. The individual contemplates the idea of ending their life and expresses concerns about hurting their family. These feelings of not belonging and causing pain to loved ones indicate a risk of thwarted belongingness.
+

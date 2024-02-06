@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I wanted to die starting in Jan 2018, but things have only gotten worse. In summer 2018, those fucks on the Suicide Prevention chatroom called the police when I expressed suicidal ideations, so I was kidnapped and sent to a series of hospital-prisons with junk medical staff. I lost my job due to the hospital stay - and my apartment, car, and dog shortly followed. Can't get a decent job because my resume is now all fucked up and I have no connections, and I refuse to go back to miserable jobs that pay horribly. I'd rather die than do that for life. I am about to be sued on $4K debt, and then yesterday I was handed a $6.5K medical bill for treatment that would have been 100% unnecessary had I still had insurance and was able to go to regular check ups. You fucks on the Suicide Prevention line made my life demonstrably worse. You destroyed the mechanisms that kept me going as an independent and self-sufficient human. Now I have nothing and am in a far worse position (logistically speaking) to be dealing with any of this. Right now I'm sort of just waiting until where I'm currently staying kicks me out, which should be soon. After that, it's time to die. But I'll be sure to let the responsible parties know their part in this.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a lack of social connections as the poster mentions losing their job, apartment, car, and dog, and having no connections. They express a desire to die and blame the Suicide Prevention chatroom for making their life worse. This indicates a sense of thwarted belongingness, as the poster feels disconnected, unsupported, and isolated.
+

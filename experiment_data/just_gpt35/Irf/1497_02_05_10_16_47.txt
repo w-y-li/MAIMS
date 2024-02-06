@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Depression is so exhausting. I used to look forward to going to sleep at night because that was my escape, finally a break. Now it's a time machine to anther rough day. I'm not trying to be a fucking poet, I just needed to put my thoughts somewhere. I'm just tired. I wish I knew what there was to do to make me feel okay again and how to get the energy to do it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The statement 'I wish I knew what there was to do to make me feel okay again and how to get the energy to do it' suggests that the poster is feeling a perceived burdensomeness, as they are expressing a desire to find a solution to their problems and regain their energy.
+

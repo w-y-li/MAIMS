@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  My struggle I barely get out of bed, I lost my job because I got to depressed to go in, My family don’t speak to me because they don’t believe in how depressed I am, I’ve distanced myself from all my friends they don’t even check up on me anymore. I just feel like I’ve been forgotten and it hurts so, so much  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###The post directly mentions feeling sad and the extent of the sadness.'])
+('2', ['directly_mention', 'I feel discouraged about my future.###The post directly mentions feeling forgotten and the hurt associated with it, which suggests a lack of hope about the future.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The post mentions losing a job and feeling forgotten, which can be seen as failures.'])
+('4', ['directly_mention', 'I do not enjoy things as much as I used to.###The post explicitly states that the person feels forgotten and that it hurts so much.'])
+('5', ['indirectly_mention', "I feel guilty a good part of the time.###Based on the statement 'I just feel like I've been forgotten and it hurts so, so much', it suggests that the poster may feel guilty for not being able to maintain connections with friends and family, contributing to the feeling of being forgotten."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information that would indicate feelings of being punished."])
+('7', ['indirectly_mention', 'I feel the same about myself as ever.###The post mentions feeling forgotten and hurt, which suggests a negative perception of oneself and a possible sense of self-dislike. However, the post does not explicitly state any change in self-perception, so I feel the same about myself as ever.'])
+('8', ['indirectly_mention', 'I do not criticize or blame myself more than usual.###The post expresses feelings of being forgotten and hurt, which could indicate a sense of self-blame. However, there is no explicit mention of increased self-criticism or blaming, so I do not criticize or blame myself more than usual.'])
+('9', ['directly_mention', 'I have thoughts of killing myself, but I would not carry them out.###The post mentions feeling forgotten and hurt, which implies struggling emotionally. Therefore, it is possible that the individual is experiencing suicidal thoughts. However, they clarify that they would not carry out these thoughts.'])
+('10', ['indirectly_mention', 'I cry more than I used to.###The post mentions feeling forgotten and hurt, which suggests emotional distress. This emotional state may lead to increased crying. Although the post does not explicitly state that the individual cries more, the feelings expressed imply a higher level of emotional sensitivity.'])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The post mentions that the poster has distanced themselves from friends and family, indicating a change in behavior. This change in behavior could suggest increased restlessness or agitation.'])
+('12', ['indirectly_mention', "I have lost most of my interest in other people or things.###The post mentions that the poster has lost their job, family members don't speak to them, and friends have distanced themselves. These are all indicators of a significant loss of interest in people and activities."])
+('13', ['directly_mention', "I can not make decisions at all anymore.###The post mentions that I've distanced myself from all my friends and they don't even check up on me anymore. This suggests that I have difficulty in making decisions and have reached a point where I can't make decisions at all anymore."])
+('14', ['directly_mention', "I feel utterly worthless.###The post mentions that I've been forgotten and it hurts so much. This indicates that I feel utterly worthless as I believe that my existence is not important or valued by others."])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###The post mentions that the poster can barely get out of bed and has lost their job because they are too depressed to go in. This indicates a significant loss of energy.'])
+('16', ['directly_mention', 'I sleep a lot less than usual.###The post mentions that the poster has distanced themselves from friends and family, and as a result, feels forgotten and hurt. These feelings may contribute to a change in sleeping pattern, such as sleeping a lot less than usual.'])
+('17', ['directly_mention', 'I am much more irritable than usual.###The post mentions that I feel forgotten and it hurts so much, which implies that I am experiencing a heightened level of irritability compared to my usual state.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions that I struggle to get out of bed and have distanced myself from friends, which indicates a change in my functioning. These changes may include a decrease in appetite.'])
+('19', ['directly_mention', "I find I can not concentrate on anything.###The post directly mentions that 'It is hard to keep my mind on anything for very long.' This indicates difficulty with concentration."])
+('20', ['directly_mention', "I am too tired or fatigued to do most of the things I used to do.###The post directly mentions that 'I am too tired or fatigued to do most of the things I used to do.' This indicates experiencing tiredness or fatigue that affects daily activities."])
+('21', ['directly_mention', "I have almost no interest in sex.###The post mentions that I have distanced myself from all my friends and they don't even check up on me anymore, which suggests that I am feeling isolated and disconnected. Such feelings can often lead to a decrease in interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses on the mental scale indicate several key symptoms of depression, including persistent sadness, loss of pleasure, feelings of worthlessness, changes in sleeping pattern, fatigue, and lack of interest in activities. These symptoms align with the diagnostic criteria for depression, suggesting that the poster may be suffering from this mental health condition.
+

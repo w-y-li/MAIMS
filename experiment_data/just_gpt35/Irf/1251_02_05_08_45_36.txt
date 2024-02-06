@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I‚Äôm just laying in bed with tears rolling down after waking up from a long nap. My thoughts are scattered so bear with me. I feel pressure in my chest. I have work deadlines and shit I should have done over the holidays. It was an easy work day though since I left early to get a tooth fixed that I‚Äôve neglected for more than a decade. I didn‚Äôt see the point in getting it fixed though - my dentist made me. It‚Äôs a waste of time and effort on me. I went home after and had a 4 hr nap ... and woke up disoriented in the dark before it hit me that I‚Äôm still alive in this life I hate. I always find myself in this place thinking and fantasizing about the end, no matter how my day went. My day could have been amazing and I still ending up thinking about the best way to die. I have help- I have a family, a wonderful psychiatrist, a good job. I had a lot of love to give but in the end I just don‚Äôt want to live. No matter how much people try to convince me, I just don‚Äôt think I was made for living. I‚Äôve tried, I‚Äôve really tried. I exercise and run, I socialize, I work, I spend time with my family. But all I want to do is waste away. I wish I could give my body away to someone who would appreciate it more. I‚Äôm not going to end it though because I am not brave enough, so I just fantasize while laying in bed doing nothing productive at all.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post reveals a sense of burden and feeling like a waste of time and effort, combined with thoughts of fantasizing about the end of life. These thoughts and feelings indicate a risk of perceived burdensomeness, where the poster may believe that they are a burden to others and that their existence is not meaningful.
+

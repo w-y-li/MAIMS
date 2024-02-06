@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Dini ticaret haline getirenler  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not provide sufficient information to determine if the poster is suffering from depression. The content of the post appears to be unrelated to mental health and does not contain any explicit signs of depression. Therefore, it is not possible to conclude that the poster is experiencing depression based on this post alone.
+

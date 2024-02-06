@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Idk sometimes I feel like I'm sorting my issues out and getting better, I feel like I am in a better state of mind but then my SO tells me I'm not changing, I'm never going to change. I start to feel lost. I start to feel like I don't belong here  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling lost and feeling like they don't belong, which suggests a potential risk of thwarted belongingness.
+

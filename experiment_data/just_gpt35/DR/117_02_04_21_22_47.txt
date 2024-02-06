@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  No hope There is no hope left for me. The sun doesn't shine. There is no light in my life. There hasn't been for awhile. All I do is go through the motions and I give up even doing that. Why don't I have the courage to end it?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of hopelessness, sadness, and giving up, indicating symptoms commonly associated with depression.
+

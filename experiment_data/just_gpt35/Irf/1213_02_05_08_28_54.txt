@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I've lost everything. I fucked up my entire life and it's all my doing. Terrible people like me should not stay alive. I lost my relationship with a wondeful person who I treated terribly, my home, my family, my friends, my job, my car, EVERYTHING. Everything I owned was in my car and it got towed while I was living in that car just trying to get back on my feet. And I can't afford to get my car back. Now I'm on the streets and I have no one. Not even my family wants to help anymore. And who can blame them? I have been nothing but a complete disappointment to everyone who has ever had love for and showed me kindness. I have hurt and betrayed everyone in my life. I even did an analysis of my life last night and I realized that I have NEVER succeeded in ANYTHING. I have failed at absolutely everything in my life. I couldn't even finish high school. I'm a complete and total failure. Only thing that has kept me from ending it all is that I'm only 22, so I feel like maybe things could get better until I remembered that I'm most likely going to fucking JAIL because I couldn't take the classes that court appointed me to take. My life is so fucked. I'm so close to just hanging myself or jumping in front of a fucking train.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a sense of being a burden on others, as the poster expresses feelings of disappointment and betrayal towards their loved ones, believing that they have failed at everything in their life and have caused harm to those around them. The thoughts of ending their life suggest a high level of perceived burdensomeness.
+

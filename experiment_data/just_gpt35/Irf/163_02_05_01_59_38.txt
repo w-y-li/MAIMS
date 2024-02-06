@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  down for a chat  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate any explicit or implicit feelings of being a burden or perceiving oneself as burdensome to others. The poster seems to be open to having a conversation or reaching out for support.
+

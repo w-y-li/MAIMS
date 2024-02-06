@@ -1,0 +1,116 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Just ranting. It fucking annoys me when I tell someone I’m depressed and they say “why.” Like, when someone tells you they have the fucking flu do you ask why? How are people so dumb about mental illness? I have people who say “yeah, I was depressed before,” and I’m like “what did you do” and they say it just went away. Seriously? You just woke up and it was fucking gone? Poof? Everyone always has their golden fix for me too. My mom tells me to drink lemon water. My dad says “stop worrying so much.” My coworker says “meditate.” Exercise. Volunteer. Quit your job and go do what you love (which is what, exactly?). I try so, so, so hard to not be depressed. But if I’m not pushing myself 120% to stop it, it comes back, and I’m back to square one. And I can’t, I just can’t keep doing it. It’s just like pushing a rock up a mountain with no peak. My favorite are the people who say “you need to let go. Just let go of the past.” These are the people that post dumbass quotes on Facebook and Instagram who haven’t experienced a day of depression in their lives. Let go of WHAT? What does that even fucking mean? I ask these people to go into detail, and they don’t. They act like a fucking monk, and just say, “You just have to let go.” All of those people can go fuck themselves.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time###The poster expresses frustration about being depressed and feeling like they have to constantly push themselves to not be depressed. This indicates that they experience sadness frequently.'])
+('2', ['directly_mention', "I feel discouraged about my future###The poster mentions feeling like they're pushing a rock up a mountain with no peak and feeling like they're back to square one. This suggests a sense of hopelessness and pessimism about the future."])
+('3', ['indirectly_mention', "I feel I have failed more than the average person.###The post mentions that the person tries hard not to be depressed but feels like they're constantly back to square one. This indicates a sense of failure and not being able to overcome their depression effectively."])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post talks about how the person tries various things, such as pushing themselves 120% to stop feeling depressed. This suggests that they are not experiencing the same level of pleasure they used to.'])
+('5', ['directly_mention', 'I feel guilty all of the time###The post mentions feeling guilty multiple times, indicating that the person experiences guilt frequently.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about feeling punished, so it can't be determined whether the person experiences punishment feelings."])
+('7', ['directly_mention', 'I dislike myself###The poster expresses frustration and annoyance with themselves in the post, indicating self-dislike.'])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual###The poster mentions people suggesting various remedies for their depression, implying that they may blame themselves for not being able to find a solution or 'fix' for their condition."])
+('9', ['directly_mention', "I cry more than I used to.###The post states that the person tries very hard to not be depressed, but if they're not pushing themselves 120% to stop it, it comes back. This suggests that the person is experiencing a significant amount of emotional distress, which could lead to increased crying."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention anything related to suicidal thoughts or wishes."])
+('11', ['directly_mention', 'I am so restless or agitated that I have to keep moving or doing something.###The post mentions being restless and agitated, and describes feeling like pushing a rock up a mountain with no peak, which suggests a high level of restlessness and agitation.'])
+('12', ['directly_mention', 'It is hard to get interested in anything.###The post mentions trying so hard to not be depressed and pushing oneself to stop it, but still feeling like it comes back, which suggests a loss of interest in activities and difficulty getting interested in anything.'])
+('13', ['indirectly_mention', "I have greater difficulty in making decisions than I used to.###In the post, I talk about trying so hard to not be depressed, but if I'm not pushing myself 120% to stop it, it comes back, and I'm back to square one. This implies that I have difficulty in making decisions about how to manage my depression, as I struggle with finding effective ways to prevent it from recurring."])
+('14', ['indirectly_mention', "I feel more worthless as compared to other people.###I mention how people offer various suggestions and solutions to my depression, implying that they believe I'm not doing enough or I'm not as capable as others in overcoming my depression. This suggests that I may feel more worthless in comparison to others, as their opinions make me doubt my abilities to cope with my mental illness."])
+('15', ['directly_mention', "I have less energy than I used to have.###In the post, I mentioned that I try very hard to not be depressed, but if I'm not pushing myself 120% to stop it, it comes back. This suggests that I have less energy than I used to have."])
+('16', ['directly_mention', "I sleep somewhat less than usual.###In the post, I mentioned that if I'm not pushing myself 120% to stop my depression, it comes back. This suggests that I have trouble sleeping and sleep somewhat less than usual."])
+('17', ['indirectly_mention', "I am more irritable than usual.###The post mentions feeling annoyed by people's lack of understanding about mental illness and their suggestions for how to deal with depression. This could indicate increased irritability."])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions trying hard to not be depressed and pushing oneself to stop it. This effort and stress could lead to a decrease in appetite.'])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###The poster mentioned that they try hard to not be depressed but if they are not pushing themselves 120% to stop it, it comes back. This suggests that they have difficulty concentrating on anything else when they are depressed.'])
+('20', ['directly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The poster mentioned that if they are not pushing themselves 120% to stop their depression, they end up back at square one. This suggests that they experience fatigue and it affects their ability to do most of the things they used to do.'])
+('21', ['directly_mention', 'I have almost no interest in sex.###The post mentions that the person has to push themselves 120% to stop their depression, indicating a lack of motivation or desire. This lack of interest in life could also extend to their interest in sex.'])
+Do MS Check Record:
+('1', ['Correct', "Continue to use direct references from the post to support your interpretations, ensuring accuracy in capturing the poster's experiences."])
+('2', ['Correct', 'Maintain careful consideration of the expressions used by the poster to understand their mindset, but ensure not to overgeneralize beyond what is expressed.'])
+('3', ['Correct', 'Continue to use contextual clues to infer the emotional states related to the question. Be cautious not to draw inferences that are not supported by the content.'])
+('4', ['Correct', 'Good inference on the loss of pleasure. For further improvement, consider cross-referencing with other parts of the post to provide a comprehensive answer.'])
+('5', ['Incorrect', "Carefully review the social media post to ensure that your response is accurately reflecting the content. The social media post does not explicitly mention 'guilt,' so claiming that it mentions feeling guilty 'multiple times' is incorrect. Instead, the feeling conveyed is frustration and disappointment, not guilt. Consider the emotions expressed and use those to inform your response to related questions."])
+('6', ['Correct', "Your approach to Question 6 is appropriate. The poster does not mention feeling punishment, so it is accurate to say that it can't be determined based on the provided information. Continue to differentiate between what is explicitly stated and what might be inferred without supporting details from the post."])
+('7', ['Incorrect', "Consider the poster's explicit expressions of frustration and helplessness rather than assuming self-dislike; look for direct evidence in the text of self-dislike before concluding."])
+('8', ['Incorrect', 'Do not infer self-accusations without clear textual evidence; the post discusses external advice, which does not necessarily equate to self-blame or criticism.'])
+('9', ['Incorrect', 'Review the post for any expressions of hopelessness or extreme frustration that might hint at suicidal thoughts. Consider the intensity of the language used when the poster discusses their struggle with depression.'])
+('10', ['Correct', 'Good job identifying the absence of mention of suicidal thoughts or wishes. Ensure careful analysis to differentiate between expressions of distress and actual suicidal ideation.'])
+('11', ['Correct', "Ensure to use direct evidence from the post to support your assessment. If the post doesn't explicitly cover a concept, discuss how specific experiences or feelings hinted in the post align with the psychological criteria for that concept."])
+('12', ['Correct', 'Continue to use the tone and language from the post to infer the psychological states relevant to the questions. Remember to differentiate between the expression of emotions and actual manifestation of psychological symptoms when inferring loss of interest.'])
+('13', ['Incorrect', 'Examine the post for explicit statements related to decisiveness. If there is no direct expression of indecisiveness, avoid inferring such a characteristic without clear evidence.'])
+('14', ['Incorrect', 'Avoid making assumptions about worthlessness without clear indicators. Focus on the post content and identify any direct expression regarding self-worth.'])
+('15', ['Incorrect', "Be cautious not to draw inferences that aren't supported by the text. Stick to the expressions of energy or lack thereof directly mentioned."])
+('16', ['Incorrect', 'Avoid assuming a change in sleeping patterns without explicit evidence from the post. Focus on what is concretely stated about sleep.'])
+('17', ['Correct', 'Ensure to differentiate between explicitly stated feelings and broader emotional states that can be reliably inferred. Continue analyzing posts deeply to connect the dots between expressed emotions and potential symptoms.'])
+('18', ['Incorrect', 'Do not make assumptions about changes in appetite unless the post provides specific information or strong contextual clues regarding eating behaviors. Look for more direct evidence related to the question topic within the post.'])
+('19', ['Correct', 'Keep looking for implicit evidence in the posts to answer the questions when direct mentions are not provided.'])
+('20', ['Correct', 'Continue to deduce psychological states from the behavior described in the posts, as you did here with fatigue related to the effort described.'])
+('21', ['Incorrect', 'Avoid making direct inferences about topics not explicitly mentioned in the post. Focus on analyzing the language and context to answer the question based on available information, not assumptions.'])
+
+ITER 1
+Do MS Record:
+('5', ['indirectly_mention', "I feel guilty a good part of the time###The post mentions feeling frustrated and annoyed when people don't understand their depression, which indicates that the poster feels guilty for being depressed and struggles with societal attitudes towards mental illness."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to self-dislike. The main emotions expressed are frustration, annoyance, and helplessness, not self-dislike."])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual.###The poster expresses frustration and annoyance about people's lack of understanding and offers of advice, which indicates a level of self-criticism or blame."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention any thoughts of killing oneself."])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The poster expresses frustration towards people who offer solutions for their depression, indicating that they have trouble making decisions about possible treatment options.'])
+('14', ['indirectly_mention', 'I do not consider myself as worthwhile and useful as I used to.###The poster mentions feeling the need to constantly push themselves to overcome depression, suggesting a decrease in self-worth compared to their previous state.'])
+('15', ['directly_mention', "I do not have enough energy to do very much.###The post says 'I try so, so, so hard to not be depressed. But if I’m not pushing myself 120% to stop it, it comes back, and I’m back to square one. And I can’t, I just can’t keep doing it.' This indicates a lack of energy to do much."])
+('16', ['directly_mention', 'I have not experienced any change in my sleeping pattern.###The post does not mention any changes in sleeping pattern. The focus is on the aspect of mental illness, not on sleeping patterns.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions that the person tries very hard to not be depressed and if they are not pushing themselves 120% to stop it, it comes back. This suggests that their depression is affecting their appetite, although it does not explicitly state how much it is affecting it.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+('5', ['Incorrect', 'Review the post more carefully for any implicit references to guilt. The potent emotions of frustration and helplessness may imply an underlying sense of guilt or self-blame, which could be inferred without direct mention. Consider the broader context of depression and societal reactions to gauge the emotional complexity of the poster.'])
+('7', ['Correct', "While the answer is technically correct, develop a nuanced approach when analyzing posts. Explore the relationship between the poster's expressed feelings and potential underlying emotions like self-dislike that might not be directly stated but could be associated with the overall sentiment."])
+('8', ['Incorrect', 'Review the post and identify emotions that can be associated with self-blame. Even if not explicitly mentioned, the tone and context might offer insight into self-accusatory thoughts.'])
+('9', ['Correct', "Your approach to the question about suicidal thoughts is appropriate. It's important not to infer such serious issues without clear evidence from the text."])
+('13', ['Incorrect', 'Ensure that answers are based strictly on information provided in the post. Do not assume indecisiveness unless there is clear evidence of difficulty in decision-making related to the context of the question.'])
+('14', ['Correct', 'Continue to use evidence from the post to infer psychological states relevant to the questions asked. Remember to justify your inferences with direct references to the post content.'])
+('15', ['Correct', 'Be cautious to not infer beyond the content provided but continue to extract relevant information about energy levels as you did here.'])
+('16', ['Correct', 'Maintain focus on information that is explicitly mentioned in the post while avoiding assumptions about unmentioned details like sleeping patterns.'])
+('18', ['Incorrect', 'Carefully analyze the emotional content of the post. Depression often affects various aspects of life, including appetite. The intensity of emotion in the poster’s rant might suggest changes in basic life functions. Consider subtle cues that may indicate appetite changes, such as the effort mentioned in pushing oneself to function normally.'])
+('21', ['Correct', 'Good recognition that the post did not provide any information regarding sexual interest. Remember, refrain from making assumptions about topics not mentioned in the post.'])
+
+ITER 2
+Do MS Record:
+('5', ['directly_mention', "I feel guilty all of the time.###In the post, the poster expresses frustration and annoyance towards others' lack of understanding regarding depression. This ongoing frustration may imply a constant sense of guilt, as the poster mentions pushing themselves 120% to stop depression and not being able to keep doing it, suggesting feelings of personal responsibility and guilt for not being able to overcome their depression."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not directly mention self-critical or blaming thoughts. The focus of the post is more on the frustration and annoyance towards others' lack of understanding, rather than self-accusations or self-criticism."])
+('13', ['directly_mention', 'I have no appetite at all,###The post mentions that the poster tries hard to not be depressed, but if not pushing themselves 120% it comes back. This intense effort and struggle could be causing a loss of appetite, leading to having no appetite at all.'])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to indecisiveness. There is no mention or indication of difficulty in decision-making."])
+Do MS Check Record:
+('5', ['Incorrect', "Reassess the content of the post focusing on implicit emotional cues. Consider the poster's expressed struggle with depression as a potential source of guilt; they may feel guilty for not improving despite efforts."])
+('8', ['Correct', 'Continue distinguishing between direct statements and inferred emotions. Recognize that not all feelings are explicitly mentioned and maintain focus on the content provided by the poster.'])
+('13', ['Incorrect', 'Consider the emotions expressed in the post. The poster shows a high level of frustration and helplessness which might not directly indicate indecisiveness. Instead, aim to infer possible decision-making challenges they may encounter because of their depressive state, rather than unrelated symptoms like appetite.'])
+('18', ['Incorrect', "Focus on the content of the post. The poster talks about many suggested solutions they've tried, which implies they have an engagement with different activities. If changes in appetite were present, it could have been mentioned in the context of these activities. Avoid providing an answer without evidence from the post."])
+
+ITER 3
+Do MS Record:
+('5', ['directly_mention', 'I feel guilty all of the time###The poster mentions feeling guilty about not being able to overcome their depression despite trying hard.'])
+('13', ['indirectly_mention', "I have greater difficulty in making decisions than I used to###Although the post doesn't directly mention indecisiveness, the frustration and feeling of being stuck in a cycle could indicate difficulties in making decisions due to the depressive state."])
+('18', ['indirectly_mention', "My appetite is somewhat less than usual.###The poster mentions that they have tried various suggestions to alleviate their depression, such as drinking lemon water, meditating, exercising, volunteering, and quitting their job. In their description, they say that if they're not pushing themselves 120% to stop their depression, it comes back. This suggests that their appetite might be affected, as lack of motivation and decreased interest in activities are common symptoms of depression, which can result in a reduced appetite."])
+Do MS Check Record:
+('5', ['Incorrect', 'Review the post for explicit mentions of guilt rather than inferring it; focus on presented facts over interpretation.'])
+('13', ['Correct', 'Maintain the consideration of emotional context as a clue for related mental states, such as indecisiveness stemming from frustration.'])
+('18', ['Incorrect', 'Ensure that your inference is directly supported by the content of the post. The post does not provide specific information about changes in appetite. Focus on evidence present in the text when providing psychological assessments.'])
+
+ITER 4
+Do MS Record:
+('5', ['directly_mention', 'I feel guilty all of the time.###The poster expresses annoyance and frustration when talking about people who suggest remedies for depression. They also mention trying very hard to not be depressed, but it always comes back. This implies a sense of guilt and feeling responsible for their depression, as they feel the need to constantly push themselves to overcome it.'])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indications about changes in appetite. The focus is primarily on the annoyance and frustration related to others' lack of understanding and helpfulness regarding depression and mental illness."])
+Do MS Check Record:
+('5', ['Incorrect', 'Avoid assuming feelings not explicitly mentioned in the text. Instead, analyze the language used and focus on feelings that are directly related to the content provided. Look for explicit expressions of guilt rather than inferring it.'])
+('18', ['Correct', 'Keep focusing on what the text explicitly states. If a question is not directly addressed in the social media post, it is appropriate to acknowledge this in your response.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's ranting about feeling depressed along with the mentioned symptoms such as sadness, pessimism, loss of pleasure, agitation, difficulty in making decisions, worthlessness, and lack of energy are consistent with the symptoms of depression.
+
+Correct
+Ensure to avoid overgeneralizing based on limited information and to always differentiate between the subject of the post and the people around them. Continue to cross-reference symptoms with reliable mental health scales for accurate assessments.

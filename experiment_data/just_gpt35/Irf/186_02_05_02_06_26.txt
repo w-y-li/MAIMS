@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  i'm worthless and nothing to anyone. i'm going to kill myself people have ruined everything in my life for me  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of worthlessness, a lack of connection with others, and a desire to end one's life, which all suggest a risk of thwarted belongingness.
+

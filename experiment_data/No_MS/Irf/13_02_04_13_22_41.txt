@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I am feeling sick. Anxious. I need some help please  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post expresses feelings of physical sickness and anxiety, but it does not explicitly mention any feelings of being a burden to others or a desire to alleviate this perceived burden. Therefore, there is no apparent risk of perceived burdensomeness.
+
+Correct
+Remember to base your conclusions on explicit information provided in the post without making assumptions beyond the presented evidence. Continue to differentiate between the expression of personal distress and the perception of being a burden to others. Good work on avoiding over inference and keeping analysis specific to the information given.

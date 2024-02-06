@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Hey, I created an account because I honestly dont know what I am doing anymore on here. Last year was the worst of my life. My long time GF (4 years) and I broke up. She lives in a different state so I flew there to speak to her and atleast end it on good terms. The day after I started a new job. It started well with my manager happy but the next week I had another manager who joined (the person who hired me was sacked). Towards the end of the first month, I ended up having surgery on my back. This is where the issues started, The surgery and the breakup really affected me physically and mentally and I kept making errors which were easily avoidable. Eventually it got too much for them and they released me. It took me 3 years to find the job in my field which I graduated in and i honestly thought it was what I was looking for. Unfortunately, I got left with no job and now no partner. I have a job now - in my field but not exactly the same (if that makes sense) but it is really going nowhere. My manager is good and is happy with my performance but the organisation does not allow for any growth. The person who I replaced is younger than me and is already far ahead in their career than I will. To top it all off, I live in a small town and it will be hard to hide the termination. I honestly dont know what is the point anymore. No matter what I do, it feels it is never enough and I am not going anywhere  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not explicitly indicate a risk of perceived burdensomeness. Although the person expresses feeling overwhelmed and frustrated with their current situation, there is no mention of feeling like a burden to others or a desire to withdraw from social connections.
+

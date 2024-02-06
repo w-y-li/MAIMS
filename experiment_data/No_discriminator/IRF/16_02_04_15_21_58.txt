@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Someone will love me one day, but I just need reassurance right now  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Not at all true for me###I mentioned that someone will love me one day, which means that I still believe that I have value and worth in someone's eyes. This suggests that I don't think my presence is negatively impacting the people in my life."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication regarding whether the people in my life would be happier without me."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post expresses a need for reassurance, which suggests some level of insecurity or self-doubt. Feeling like a burden on society could be related, as the poster may be questioning their worth and impact on others. However, the post does not explicitly state this, so I can only make an indirect deduction.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not indicate anything related to the poster's death and its potential impact on the people in their life. There is no information provided to make a direct or indirect deduction, so the question is not mentioned."])
+('5', ['directly_mention', 'Not at all true for me.###The post mentions that the person believes someone will love them one day, which suggests a positive outlook on their relationships. This contradicts the idea that the people in their life wish they could be rid of them.'])
+('6', ['indirectly_mention', 'Somewhat true for me.###The post suggests that the person is seeking reassurance, implying that they may have concerns about making things worse for the people in their life. Although it is not explicitly stated, this indicates that they might think they make things worse.'])
+('7', ['indirectly_mention', "Somewhat true for me###The post indirectly mentions the question by stating 'I just need reassurance right now'. This implies that the person is seeking reassurance from others, which suggests that they care about what others think of them, indicating that they may believe that other people care about them to some extent."])
+('8', ['indirectly_mention', "Somewhat true for me###The post indirectly mentions the question by stating 'I just need reassurance right now'. This implies that the person's need for reassurance stems from a feeling of not belonging or being unsure about their place. Therefore, it can be inferred that they may feel like they somewhat belong, as they express the need for reassurance."])
+('9', ['directly_mention', 'Very true for me###The post explicitly mentions the need for reassurance, indicating that the person rarely interacts with people who care about them.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the person having many caring and supportive friends."])
+('11', ['indirectly_mention', "Somewhat true for me###Although the post doesn't explicitly mention feeling disconnected from other people, the statement 'Someone will love me one day, but I just need reassurance right now' implies a need for validation and reassurance from others. This suggests a potential sense of disconnection from others."])
+('12', ['indirectly_mention', "Somewhat true for me###The statement 'Someone will love me one day, but I just need reassurance right now' implies a feeling of being on the outside or not fully fitting in with social gatherings. The need for reassurance suggests a potential feeling of being an outsider in such situations."])
+('13', ['directly_mention', 'Very true for me###The post explicitly mentions the need for reassurance, which indicates a desire for support and connection with others in times of emotional need. Therefore, it is likely that the person feels that there are people they can turn to.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any explicit information or indication about the level of closeness to other people. It focuses on the need for reassurance rather than the current state of closeness to others."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having satisfying interactions."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a sense of longing for love and reassurance from others, which is indicative of a desire for belongingness. Additionally, the scores on the answered questions of the mental scale also indicate a feeling of being a burden, making things worse for others, and feeling disconnected, which further supports the presence of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Work was my only way out of the house and I have 0 friends who would talk to me outside of work I can't go pub till next Friday when I get paid I can't go OK much longer I'm gonna relapse soon my music isn't helping  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of social support and feelings of isolation, as the poster mentions having no friends outside of work and not being able to go out until payday. The mention of relapsing and music not helping also suggest a potential risk of thwarted belongingness.
+
+Correct
+Continue being attentive to the language used in posts, which conveys feelings of isolation and hints at distress. Maintain caution to avoid adding presumed negative characteristics not explicitly mentioned. Recognize the difference between direct expressions of personal mental health issues and observations about others. Good analysis on the risk factors for thwarted belongingness.

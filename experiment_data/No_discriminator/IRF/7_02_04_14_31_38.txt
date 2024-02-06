@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  :(( not sure wats wrong with me. i think i‚Äôve been feeling ok lately, content. now i‚Äôm having bad thoughts again. i‚Äôm overwhelmed. i feel so alone... no one actually gives a shit about how i feel. it won‚Äôt end :( i think i was meant to commit suicide. i feel stupid for trying to be positive. I got an actual 60% on this assignment at school and it fucked with me. i cried in the bathroom stall and cut myself up like the pathetic idiot i am. i‚Äôm so tired of myself.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Somewhat true for me###The post states that the person thinks they were meant to commit suicide and that they feel overwhelmed and alone. This suggests that they believe they are a burden to others, indicating that the people in their life might be better off without them.'])
+('2', ['directly_mention', 'Very true for me###The post mentions that the person feels alone and believes that no one cares about how they feel. This indicates that they think the people in their life would be happier without them.'])
+('3', ['directly_mention', 'Not at all true for me###The post mentions feeling overwhelmed and alone, and feeling like no one cares about how they feel. However, there is no indication that the poster specifically believes they are a burden on society.'])
+('4', ['directly_mention', 'Not at all true for me###The post mentions feeling like no one cares about how they feel and having thoughts of suicide. However, there is no indication that the poster specifically believes their death would be a relief to the people in their life.'])
+('5', ['directly_mention', "Very true for me###The post mentions feeling alone and that no one cares about how the poster feels, which suggests that the people in the poster's life might wish they could be rid of the poster."])
+('6', ['directly_mention', "Somewhat true for me###The post mentions feeling like I make things worse, as indicated by the statement 'I think I was meant to commit suicide' and 'I feel stupid for trying to be positive'. These thoughts suggest that I believe I have a negative impact on the people in my life."])
+('7', ['directly_mention', "Not at all true for me###The post mentions 'no one actually gives a shit about how I feel', indicating that the poster feels that other people do not care about them."])
+('8', ['indirectly_mention', 'Not at all true for me###The post expresses feelings of being alone and overwhelmed, which suggests a lack of belonging and support from others.'])
+('9', ['indirectly_mention', 'Not at all true for me###The post mentions feeling alone and that no one cares about how I feel, which suggests that I rarely interact with people who care about me.'])
+('10', ['directly_mention', 'Not at all true for me###The post mentions feeling alone and that no one cares about how I feel, which suggests that I do not have many caring and supportive friends.'])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling alone and that no one cares about how they feel, which implies a sense of disconnection from other people. This suggests that the individual might feel somewhat disconnected from others.'])
+('12', ['indirectly_mention', 'Somewhat true for me###The post indicates feeling like an outsider and feeling alone, which suggests that the individual might often feel like an outsider in social gatherings.'])
+('13', ['directly_mention', 'Not at all true for me###The post mentions feeling alone and that no one cares about how the poster feels, indicating a lack of people to turn to in times of need.'])
+('14', ['directly_mention', 'Not at all true for me###The post mentions feeling alone and overwhelmed, suggesting that the poster is not close to other people.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to having satisfying interactions."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of being a burden on others, as evidenced by statements such as 'no one actually gives a shit about how I feel' and 'i think the people in my life wish they could be rid of me.' These thoughts indicate a risk of perceived burdensomeness.
+

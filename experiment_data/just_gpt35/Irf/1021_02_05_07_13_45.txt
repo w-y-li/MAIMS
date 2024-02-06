@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  There are things I'd like to do sure...but this divorce has broken me. I'm tired of crying all day at work. I'm tired if not wanting to get out of bed. I'd like to try...but I'm not sure I'm capable. My motivation is completely gone. He stole every dream I had and told me to keep walking. Heartless. And I feel heartless now too. Empty. And I just want to stop feeling it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being broken, tiredness, lack of motivation, and emptiness. The poster expresses a desire to stop feeling and mentions being heartless, suggesting feelings of burden and worthlessness that could be associated with perceived burdensomeness.
+

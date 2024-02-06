@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Been dealing with depression and anxiety for the last few years. Tried to live life normally when I‚Äôm outside my room. Friends didn‚Äôt even know I had it cause I tried the hardest to not let it affect my everyday life, even though I go through lots of anxiety attacks throughout the day. Yesterday, I just needed one break from work, first time to ever do that and was told I needed to ‚Äútoughen up‚Äù. Felt really bad about it. All these years I‚Äôve been dealing with my anxiety and depression without letting it affect my work ever, and now that i just needed a day off, I get that message.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate a risk of thwarted belongingness. The individual mentions struggling with depression and anxiety, but there is no explicit mention of feelings of social isolation or lack of belongingness.
+

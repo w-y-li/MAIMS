@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I dont care about anything I honestly dont care about anything. i just drift through this pointless life.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement, 'I don't care about anything' and 'I just drift through this pointless life' indicates a lack of interest, motivation, and a general feeling of hopelessness which are common symptoms of depression.
+

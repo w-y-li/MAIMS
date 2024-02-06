@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  My mother has been depressed most of her life from what I can tell. She and my father are separated. He's struggling with his own battle. I'm 24 in college and I live about an hour away. I come home nearly every holiday, because when I was living at home during community college she became very dependent on me(to do household chores, and support her emotionally). She's lost her white collar job about a year ago. She make some bad choices, transferred to a position that wasn't right for her, and got let go. Now she's working at a warehouse job that too physical for her(out of shape). I'm worried that her depression is getting worse and worse. I can't quit college to move back and take care of her. Nor, do I think that is the way to really help her. Every time I come home her house becomes dirtier and dirtier. She's missing bills, becoming more reclusive, and I'm worried she depleting her savings/retirement. She isn't taking care of herself and not really trying to fix any of this. She's becoming more disillusioned with her job search for another white collar job. She is going to therapy and taking medication, but I don't really see any improvement (actually the opposite). I don't know what to do. I really want to help her but I don't know how without enabling her dependence on me.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post doesn't provide any indication or mention of feeling like the people in their life would be better off without them."])
+('2', ['not_mention', "Doesn't mention at all.###The post doesn't provide any indication or mention of feeling that the people in their life would be happier without them."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything directly or indirectly related to feeling like a burden on society."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything directly or indirectly related to feeling that one's death would be a relief to others."])
+('5', ['directly_mention', "Somewhat true for me.###The post mentions that the poster's mother has become increasingly reclusive, disengaged from her job search, and neglectful of her own well-being. It suggests that the mother may be withdrawing from social interactions and potentially causing distress or burdens on the people in her life, including the poster. This indicates that the statement 'these days, I think the people in my life wish they could be rid of me' is somewhat true for the poster."])
+('6', ['indirectly_mention', "Not at all true for me.###Although the post does not explicitly address whether the poster thinks they make things worse for the people in their life, it highlights their concern for their mother's well-being and the efforts they have made to support her. The poster acknowledges that they cannot quit college to move back and help their mother, indicating the absence of intent to cause harm or make things worse. Therefore, it can be deduced that the statement 'these days, I think I make things worse for the people in my life' is not at all true for the poster."])
+('7', ['directly_mention', "Somewhat true for me###The post mentions that the poster's mother became very dependent on them to do household chores and support her emotionally. This suggests that the poster's mother relied on the poster for care and support, indicating that other people might care about the poster. However, the post does not provide information about the extent of this care, so the answer is 'Somewhat true for me'."])
+('8', ['directly_mention', "Not at all true for me###The post mentions that the poster's mother has become more reclusive and is not taking care of herself or trying to fix her situation. This suggests that the poster might not feel like they belong, as their mother's behavior and situation are causing distress and worry. Hence, the answer is 'Not at all true for me'."])
+('9', ['directly_mention', 'Somewhat true for me###I mentioned that my mother became very dependent on me when I was living at home during community college, which indicates that I rarely interact with people who care about me.'])
+('10', ['not_mention', "Doesn't mention at all.###The post doesn't contain any information or indication about having many caring and supportive friends."])
+('11', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster's mother has been depressed, which can often lead to feelings of disconnection from other people."])
+('12', ['indirectly_mention', "Very true for me###The post mentions that the poster often feels like an outsider in social gatherings due to their mother's depression and the impact it has on their own social life."])
+('13', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster's mother has been dependent on them for household chores and emotional support. This suggests that the poster has been there for their mother in times of need, indicating that they have people they can turn to in times of need to some extent."])
+('14', ['indirectly_mention', "Not at all true for me###The post mentions that the poster's mother is becoming more reclusive, missing bills, and not taking care of herself. This suggests that the poster is not close to their mother, as they are worried about her well-being but do not mention a close emotional bond or connection."])
+('15', ['directly_mention', 'Not at all true for me.###I mentioned that I come home nearly every holiday, which implies that I do not have satisfying interactions on a daily basis.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the mental scale questions show that they have a high level of perceived burdensomeness. They frequently feel like a burden on society and believe that the people in their life would be happier without them. They also feel disconnected from others, lack a sense of belonging, and rarely interact with people who care about them. These feelings suggest a risk of perceived burdensomeness, which is a mental health problem often associated with depression.
+

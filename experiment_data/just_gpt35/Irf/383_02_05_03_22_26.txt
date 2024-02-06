@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I do. Every time I look back on my past and even in my present I try to justify my shitty behavior because I keep thinking that maybe I'm just a good person on the inside. I treat my family and friends like shit and get angry at them for things that are mostly my fault. I feel like I'm not the person I thought I was.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of guilt and self-blame for the way they treat their family and friends. They describe justifying their behavior as a way to believe they are a good person on the inside. This implies a low self-esteem and a sense of being burdened by their own actions.
+

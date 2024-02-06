@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôm still young. I can get along alright enough with people. I‚Äôm average looking. But I have no friends. I have people that I hang out with, have fun with, but nobody that I really connect with. I don‚Äôt have that person that you can lean on, that you could trust with secrets, that you could just sit and be fine. I don‚Äôt know what I‚Äôm going to do either. Any time I try to imagine the future, I‚Äôm just met with this crushing weight and I just wonder if it would be better to just kill myself instead of trying. And then their are my mistakes. All I can see when I look back at my life are a series of mistakes. So many fucking mistakes. Does anyone else ever fantasize about just dissapearing and starting over? Or just cutting all ties and pretending to disappear so you can kill yourself? Or wish that you could just be natural, just be your fucking self with anybody, literally anybody? Or just do anything right. Just to have a purpose. A fucking purpose. Life just seems so meaningless. Like what the fuck is the point. I just can‚Äôt seem to find anything that makes life worth living. I have hobbies and things that I can enjoy but their just distractions. They just help me from sitting and thinking and wallowing in self pity. Why can‚Äôt I just not care  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of connection with others, a desire for a trusted person to lean on, and thoughts of wanting to disappear and start over. These feelings suggest a risk of thwarted belongingness, where the individual feels a lack of fulfilling social relationships and a sense of isolation.
+

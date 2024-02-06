@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I want the attention at least. Stabbing some human trash or just suicide by cop I think I should turn myself to the police. I'm going insane  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement about wanting attention suggests a desire for connection and belonging. The mention of wanting to commit violence or seek self-harm can be seen as an expression of feeling isolated and lacking meaningful connections with others, indicating a risk of thwarted belongingness.
+

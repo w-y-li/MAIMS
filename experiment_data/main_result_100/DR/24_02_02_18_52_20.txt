@@ -1,0 +1,86 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Does anyone else get such intrusive thoughts like “I hate myself, I should cut myself, I wanna die” that are so intense you have to say it out loud? Sometimes when I get into a cycle of negative thoughts they are so strong and it’s just automatic that I say it out loud. Sometimes if just comes out as an “oh my god” but other times I actually say those thoughts to myself. Physically telling myself that I’m stupid, I have no worth, I wish I could die. Does anyone feel this compulsive need to say their thoughts out loud?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "I feel sad much of the time.###The post explicitly states that the poster experiences intense negative thoughts like 'I hate myself, I should cut myself, I wanna die.' These thoughts are often accompanied by saying them out loud. So, it can be inferred that the poster feels sad much of the time."])
+('2', ['directly_mention', "I feel discouraged about my future.###The post mentions that the poster feels compelled to say negative thoughts about themselves out loud, such as 'I'm stupid, I have no worth, I wish I could die.' This indicates a sense of discouragement and pessimism about their future."])
+('3', ['directly_mention', "I feel I have failed more than the average person.###The post mentions having negative thoughts about oneself, saying 'I'm stupid', 'I have no worth'. This suggests feelings of failure and low self-esteem."])
+('4', ['directly_mention', 'I do not enjoy things as much as I used to.###The post mentions feeling intense negative thoughts and a cycle of negative thoughts, which can indicate a loss of pleasure and decreased enjoyment in activities.'])
+('5', ['directly_mention', "I feel guilty a good part of the time.###The post mentions having intense negative thoughts such as 'I hate myself, I should cut myself, I wanna die.' These thoughts are often accompanied by feelings of guilt. The poster states that sometimes they physically tell themselves that they're stupid and have no worth, which further indicates guilt."])
+('6', ['indirectly_mention', "I feel I may be punished.###The post doesn't directly mention punishment feelings, but the intense negative thoughts and the need to say them out loud suggest that the poster may feel a need for self-punishment. The thoughts of self-hatred and wishing to die also imply a belief that they deserve punishment."])
+('7', ['directly_mention', "I dislike myself.###The post explicitly mentions that the person says things like 'I hate myself' and 'physically telling myself that I’m stupid, I have no worth.' This indicates a strong self-dislike."])
+('8', ['directly_mention', "I am more self-critical or blaming than usual.###The post mentions the person experiencing intense negative thoughts, such as 'I'm stupid' and 'I wish I could die.' These thoughts involve self-criticism and self-blaming, indicating an increase in self-accusations."])
+('9', ['directly_mention', 'I have thoughts of killing myself, but I would not carry them out.###The post explicitly mentions the thoughts of wanting to die and feeling a compulsive need to say negative thoughts out loud.'])
+('10', ['indirectly_mention', 'I cry more than I used to.###The post mentions intense negative thoughts and feeling the need to say them out loud, suggesting emotional distress which could lead to increased crying.'])
+('11', ['directly_mention', "I am so restless or agitated that I have to keep moving or doing something.###The post mentions that sometimes when I get into a cycle of negative thoughts, they are so strong and it's automatic that I say it out loud. This suggests a sense of restlessness or agitation that leads me to vocalize my thoughts."])
+('12', ['directly_mention', "I have lost most of my interest in other people or things.###The post mentions that I feel a compulsive need to say my negative thoughts out loud, specifically thoughts like 'I hate myself, I should cut myself, I wanna die.' This suggests a significant loss of interest in other people or activities as these negative thoughts and self-destructive tendencies consume my focus."])
+('13', ['directly_mention', 'I have greater difficulty in making decisions than I used to.###The post mentions that sometimes when I get into a cycle of negative thoughts, they are so strong and automatic that I say them out loud. This indicates that my intrusive thoughts have a significant impact on my decision-making process, suggesting that I have greater difficulty making decisions than I used to.'])
+('14', ['directly_mention', "I feel utterly worthless.###The post explicitly states that I physically tell myself that I'm stupid, have no worth, and wish I could die. These thoughts of self-deprecation and wanting to die reflect feelings of utter worthlessness."])
+('15', ['directly_mention', 'I have less energy than I used to have.###In the post, I mentioned that sometimes I feel so intense negative thoughts that I have to say it out loud. This indicates that I am experiencing a loss of energy because such intrusive thoughts can be emotionally draining and exhausting.'])
+('16', ['indirectly_mention', "I sleep somewhat less than usual.###Although I didn't directly mention any changes in my sleeping pattern, I did talk about getting into a cycle of negative thoughts and feeling the need to say my thoughts out loud. This suggests that my sleeping pattern might be disrupted as a result of these intense and compulsive thoughts, making me sleep somewhat less than usual."])
+('17', ['directly_mention', 'I am much more irritable than usual.###The post mentions that when I get into a cycle of negative thoughts, they are so strong and it’s just automatic that I say it out loud. This suggests that the intensity of the thoughts leads to irritability, indicating that the individual is experiencing increased irritability.'])
+('18', ['directly_mention', 'I have not experienced any change in my appetite.###The post does not mention any changes in appetite, indicating that the individual has not experienced any change in their appetite.'])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###The post mentions having intrusive thoughts that are so intense that I have to say them out loud. This indicates a difficulty in concentrating on other things.'])
+('20', ['directly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post mentions feeling a compulsive need to say negative thoughts out loud, which suggests a high level of emotional exhaustion and fatigue.'])
+('21', ['directly_mention', "I have lost interest in sex completely.###The post directly mentions a change in interest in sex, stating that sometimes the poster says 'I wish I could die.' This indicates a significant loss of interest in sex."])
+Do MS Check Record:
+('1', ['Correct', 'Continue to reference specific parts of the posts that relate to the questions like you did for sadness, ensuring a solid connection between post content and your answer.'])
+('2', ['Correct', "Keep using direct references from the posts to support your inferences about the poster's feelings, as you did with pessimism, to maintain clear and relevant connections."])
+('3', ['Correct', 'Continue to analyze the emotions and thoughts expressed in the post to connect them with relevant aspects of mental state questions. Maintain this level of detail in your interpretations.'])
+('4', ['Correct', 'Be mindful not to assume information not presented in the post but continue to draw logical inferences from the expressed feelings to relevant mental states. Good job linking the content to possible loss of pleasure.'])
+('5', ['Correct', 'Remember to distinguish between direct mentions and inferred feelings, but good job making the connection in this case.'])
+('6', ['Correct', 'Continue to infer emotions carefully from indirect cues in the post. Ensure all deductions are rooted in the content of the post.'])
+('7', ['Correct', "Continue to directly reference the original post when providing answers to ensure accuracy in representing the poster's feelings."])
+('8', ['Correct', 'Maintain a careful reading of the content to ensure the feelings and thoughts of the poster are appropriately assessed. Avoid adding assumptions not present in the post.'])
+('9', ['Correct', 'Ensure that your answers remain closely aligned with the content of the post, avoiding assumptions not supported by the text.'])
+('10', ['Incorrect', 'Do not infer emotional responses like crying without explicit evidence in the post. Stay strictly factual and only deduce from the provided information.'])
+('11', ['Correct', 'Consider exploring deeper into the nature of the agitation and determine if there are more specific indicators of it rather than a broad statement, ensuring that your answer encapsulates the full scope of the experience described in the post.'])
+('12', ['Incorrect', 'Be cautious not to confuse the expression of negative thoughts with a complete loss of interest in all other people or things. Explore the possibility that while the poster is struggling, they may still retain some interests. Aim to avoid assumptions beyond the explicit content of the post.'])
+('13', ['Correct', 'Continuously evaluate whether the thoughts expressed in a post point towards difficulty in decision making, and ensure that inferences are directly tied to explicit content or reasonable assumptions based on the content.'])
+('14', ['Correct', "You have correctly identified feelings of worthlessness from the explicit statements in the post. In future responses, maintain this level of textual evidence to support your conclusions about the poster's mental state."])
+('15', ['Incorrect', "Avoid assuming symptoms (such as loss of energy) that aren't explicitly mentioned in the post. Instead, focus on the information given and how it might indirectly relate to energy levels, considering the intensity of the intrusive thoughts."])
+('16', ['Correct', 'Good job connecting the expression of intense negative thoughts with potential sleep disturbances. However, be cautious not to overstate or infer too much without concrete evidence from the post.'])
+('17', ['Incorrect', 'Re-assess the connection between the stated negative thoughts and the manifestation of irritability. Avoid assuming a symptom based on the intensity of thoughts alone without clear evidence.'])
+('18', ['Correct', 'Good job on not inferring details beyond the content of the post. Continue to only include information that is explicitly mentioned or can be directly inferred from the post itself.'])
+('19', ['Incorrect', 'The post does imply difficulty with intrusive thoughts, but does not directly mention issues with concentration. Avoid assuming that an expressed problem in one area (intrusive thoughts) automatically indicates a problem in another (concentration). Focus on the content given and refrain from making unwarranted associations; look for specific mentions or clear implications about concentration difficulties before concluding it impacts this aspect.'])
+('20', ['Incorrect', 'While the post does discuss the intensity of negative thoughts, there is no explicit mention of tiredness or fatigue. Be cautious not to over-interpret emotional expressions as direct experiences of physical symptoms unless clearly stated. Look for specific language related to tiredness or fatigue in the post before determining it directly mentions this issue.'])
+('21', ['Incorrect', 'Review the post for explicit statements about sexual interest. Do not infer or assume details not mentioned. Stay objective and base your answers strictly on provided information.'])
+
+ITER 1
+Do MS Record:
+('10', ['directly_mention', 'I cry more than I used to.###The post mentions having intense negative thoughts and feeling the need to say them out loud. This indicates a high level of emotional distress, which could lead to increased crying.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The post discusses being in a cycle of negative thoughts and expressing feelings of worthlessness and wanting to die. These symptoms could potentially lead to a decrease in interest in other people or activities.'])
+('15', ['indirectly_mention', "I have less energy than I used to have.###The post mentions feeling intense negative thoughts and saying them out loud, which can indicate a high level of emotional distress. This distress might contribute to a decreased energy level, even though the word 'energy' is not specifically mentioned in the post."])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post mentions experiencing intense negative thoughts and feeling the need to say them out loud. This suggests a heightened level of emotional distress, which can often lead to increased irritability. The post does not explicitly state being irritable, but the indirect connection can be made based on the information provided.'])
+('19', ['directly_mention', 'I can not concentrate as well as usual.###The post mentions that sometimes I get into a cycle of negative thoughts that are so strong and it’s just automatic that I say it out loud. This indicates difficulty in concentrating on other things due to the intense and intrusive thoughts.'])
+('20', ['not_mention', "Doesn't mention at all.###There is no explicit mention or implication of tiredness or fatigue in the post. It focuses mainly on the intensity of negative thoughts and the need to say them out loud."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in interest in sex. It only talks about intrusive thoughts and compulsive need to say them out loud."])
+Do MS Check Record:
+('10', ['Correct', 'Continue to use direct statements from the post to support your answers regarding emotional symptoms.'])
+('12', ['Correct', 'Ensure that any inferences made about symptoms such as loss of interest are logically connected to the sentiments expressed in the post.'])
+('15', ['Correct', 'Ensure that you maintain the observation of the poster’s expression of emotional distress when indirectly inferring related symptoms, such as loss of energy.'])
+('17', ['Correct', 'Continue using the context of the emotional distress mentioned in the social media post to infer other emotional states like irritability, but take care not to overgeneralize beyond the information provided.'])
+('19', ['Incorrect', 'Review the post for implied difficulties, such as trouble focusing due to intrusive thoughts, rather than dismissing them because they are not explicitly mentioned.'])
+('20', ['Correct', 'Continue to base your answers strictly on the information provided in the post, avoiding assumptions about unmentioned symptoms.'])
+('21', ['Correct', 'Good job on not inferring information that is not presented in the post. Remember to analyze each post for specific content related to the question, and avoid making assumptions.'])
+
+ITER 2
+Do MS Record:
+('19', ['directly_mention', 'It is hard to keep my mind on anything for very long.###The post mentions that when I get into a cycle of negative thoughts, they are so strong that sometimes I say them out loud. This suggests that the intensity of these thoughts may make it hard for me to concentrate on anything else for very long.'])
+Do MS Check Record:
+('19', ['Correct', 'Your response indicates an attention to detail and good interpretative skills. Keep ensuring that you are meticulously analyzing the content of the post before deducing any psychological aspects.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers indicate high levels of sadness, pessimism, past failure, loss of pleasure, guilty feelings, self-dislike, self-accusations, and worthlessness. They also express thoughts of suicide and feeling utterly worthless. These symptoms align with the criteria for depression.
+
+Correct
+Ensure that any conclusions about mental health are strictly based on evidence provided by the post and relevant mental health scale answers. Avoid making assumptions that extend beyond the given information. When you analyze posts in the future, pay close attention to potential biases or overgeneralizations you may be inadvertently applying. It is pivotal to stay objective and base your evaluations solely on the responses provided, as you did successfully in this case.

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  It's like every other lonely night of the year, but with a more urgent sense of isolation, and a sadder pit of regret inside. Different year, same story.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness, isolation, and regret, which are common experiences associated with thwarted belongingness. Thwarted belongingness refers to the perception or experience of lacking meaningful connection or social support, and it seems to be present in this post.
+

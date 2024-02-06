@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  There‚Äôs a bad situation in my group home that i‚Äôm unable to handle and they just say live with it and i can‚Äôt leave bc my parents are sick of me. I have nowhere to go, and this situation is making me absolutely miserable. Well then if no one reacts ill probably be homeless next week. What a fcking shitshow  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the poster feels burdensome to their parents and is unable to handle the situation in their group home, leading them to believe they may become homeless if no one reacts. This demonstrates a risk of perceived burdensomeness, as they perceive themselves as a burden to others.
+

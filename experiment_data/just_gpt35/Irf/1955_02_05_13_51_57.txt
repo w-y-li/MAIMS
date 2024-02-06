@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  i know running away from your problems is bad but i need to get out of town i need to go on a trip i need it  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a desire to escape and run away from problems, indicating a potential risk of perceived burdensomeness.
+

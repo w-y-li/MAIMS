@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Why do people try to motivate depressives using shame? I never understand the idea of people attempting to shame me out of my depression.  How do you live like this? Why are you being like this? Your brothers aren't like this?  If we're going to have a face off over who has the lower opinion of me, I guarantee, I will win every time. Or at least I hope I will because if not they hate me more than I can imagine. I feel awful about even saying that, I see the weakness in that statement, the defeatism, but that doesn't make it any less true.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time###The poster mentions feeling awful and defeated, which suggests a persistent feeling of sadness.'])
+('2', ['indirectly_mention', 'I feel hopeless and that things cannot improve###The poster talks about having a lower opinion of themselves and feeling defeated, which suggests a pessimistic outlook on the future.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The post mentions feeling like a failure and comparing oneself to others in a negative way, which indicates a sense of past failure.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post talks about feeling awful and lacking motivation or pleasure in life, which suggests a loss of pleasure.'])
+('5', ['directly_mention', "I feel guilty all of the time.###The post mentions feeling guilty and describes it as 'I feel awful about even saying that, I see the weakness in that statement, the defeatism, but that doesn't make it any less true.' This suggests a persistent experience of guilt."])
+('6', ['directly_mention', 'I feel I am being punished.###The post describes feelings of shame and questions why people try to shame the poster out of their depression. This suggests a belief that they are being punished.'])
+('7', ['indirectly_mention', 'I feel the same about myself as ever.###The post mentions feeling awful about saying a certain statement, and the weakness and defeatism in that statement. This suggests a negative self-perception and dissatisfaction with oneself.'])
+('8', ['directly_mention', 'I am more self-critical or blaming than usual.###The post mentions the idea of people attempting to shame the poster out of their depression, which implies they are being critical or blaming themselves due to feeling depressed and being motivated using shame.'])
+('9', ['directly_mention', "I have thoughts of killing myself, but I would not carry them out.###In the post, I mentioned feeling awful and defeatist. This indicates that I have thoughts of killing myself, but I wouldn't actually carry them out. This aligns with the second option."])
+('10', ['indirectly_mention', "I cry more than I used to.###In the post, I mentioned feeling awful and defeatist. Although I didn't directly mention crying, these feelings often lead to an increase in emotional distress which can manifest as excessive crying. This aligns with the second option."])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The post mentions feeling restless and agitated, which is indicative of experiencing agitation.'])
+('12', ['indirectly_mention', 'I have lost most of my interest in other people or things.###While the post does not directly mention loss of interest, the poster mentions feeling awful and having a low opinion of themselves. These feelings are often associated with a loss of interest in activities and other people.'])
+('13', ['directly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that I have a face-off over who has the lower opinion of me, which indicates that I may have difficulty in making decisions. '])
+('14', ['directly_mention', 'I feel more worthless as compared to other people.###The post mentions that I see the weakness in my statement and that I feel awful for even saying it. This suggests that I have feelings of worthlessness and consider myself inferior to others.'])
+('15', ['directly_mention', 'I do not have enough energy to do anything.###The poster mentions feeling awful and defeated, which suggests a lack of energy and motivation to do anything.'])
+('16', ['directly_mention', 'I have not experienced any change in my sleeping pattern.###The poster does not mention any changes in their sleeping pattern.'])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post mentions feeling awful and weakness, which could be indicators of increased irritability.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions feeling awful and defeatism, which could be indicators of decreased appetite.'])
+('19', ['indirectly_mention', 'I can not concentrate as well as usual.###The post talks about feeling defeated and being unable to win, which suggests a lack of focus and concentration. This indirectly implies that the poster is experiencing difficulty concentrating.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post expresses feeling awful and defeated, which indicates a lack of energy and motivation. This indirectly suggests that the poster is experiencing tiredness or fatigue.'])
+('21', ['directly_mention', 'I have almost no interest in sex.###The post mentions feeling less interested in certain things, and specifically mentions having almost no interest in sex.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's post suggests feelings of sadness, hopelessness, guilt, self-dislike, and worthlessness. Additionally, the poster has thoughts of killing themselves and has lost interest in other people or things. These symptoms align with the criteria for depression.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm on a mobile and first time posting, long time lurker. So for that past two years I think I've been depressed, I've had to deal with a lot of losses. I thought and truly believed I was just 'tired' someone mentioned that I have zero motivation and zero interest in anything any more. I used to be the type that would rant and rave about the latest book, I couldn't tell you the last time I had an interest in a book. I work full time, come home and go to bed. I don't eat, I barley have a conversation with my family anymore and have 1 friend who I see once or twice a month. Other then that I lay in bed, in the dark and cry. I'm ready to get help, I don't want another year to pass me by, I want my old self back. Can anyone help with how I can speak to my doctor to about this, how do I open up? I've never actually said these things out loud as I have no one to speak to Thank you in advance for any help I can get!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual feels isolated, lacks social interaction, and has minimal connection with family and friends. These experiences align with the concept of thwarted belongingness, which refers to feeling disconnected and lacking a sense of belonging or connection to others.
+

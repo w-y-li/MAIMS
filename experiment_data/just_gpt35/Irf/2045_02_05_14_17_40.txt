@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  So for the last two years I thought I had depression. A few days ago I was diagnosed with depression. I'm starting to think I don't have depression and I'm just a bitch and I don't know how to tell if that's the case. The weirdest thing is, over the last month I've been increasingly feeling well. My life is shit becausd I missed lits of school and so I worry a lot, but that's normal. Other than that I feel.. fine. I don't feel depressed. Could it be that this is temporary or does this mean I don't have depression. The other thing is I was given pills but the thing is I don't want to take pills that might fuck me if I'm feeling ok atm. Advice?????? I need to make some decisions fast  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster mentions feeling well and not feeling depressed, indicating a possible improvement in their mood. They express concerns about taking medication if they are currently feeling okay. However, it is advisable for them to consult with a mental health professional to determine the best course of action for their individual situation.
+

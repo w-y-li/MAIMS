@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I **need** this year to be better. I'm nearing the end of my third year of college. The new semester is approaching quickly, and I desperately need a good one in order to save me from failing. I failed two courses last semester. I was miserably depressed the whole time and it showed on my GPA. That was my free pass; I can't afford to fail any more. If I do, I won't graduate on time. If I don't graduate on time, I don't graduate at all because they'll cut $8000 of financial aid and I can't magically come up with that money myself. But this year doesn't have to be like that. I don't believe all of the bullshit about how the new year promises change and hope. It's literally just another day, except the year is different. Still, I'm mildly optimistic. I've never been a hard worker, but that has to change now. I know exactly what I have to do to be a successful student; doing it is just impossible sometimes. My depression is like a roller coaster. Before Christmas I felt amazing, and now I feel empty and broken inside. That worries me: if it comes back in full force in the middle of the semester, that could cause a great deal of damage. Regardless, I wish you all a great new year. Hopefully this one won't be quite as shitty.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of pressure and desperation related to their academic performance and the consequences of failing. They mention the potential loss of financial aid and the fear of not graduating on time, which highlights a sense of burden. 
+

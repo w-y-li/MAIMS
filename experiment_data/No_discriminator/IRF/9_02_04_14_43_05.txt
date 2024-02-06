@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Help? I'm just feeling really shitty at how I seem to have spent the majority of my time recently lying around not doing anything, letting my room and shit get into a mess and just been consumed by negative thoughts. I'm also worse at a particular time of day. Like I've barely done anything productive this month and I hate myself for it, and I hate the fact I can't try hard enough/be bothered to help myself out of this. Some days are better than others, yes, but at the end of the day I just can't do it. I'm 17 and wasting my fucking life being lazy and doing nothing, the new year has made me realise. I want to make resolutions but I know I can't keep them so I'm not bothering. Any help/advice??  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Not at all true for me###The post mentions feeling shitty, being consumed by negative thoughts, and hating oneself for not being able to help oneself. Although the post doesn't explicitly mention the people in their life, their negative self-perception and self-hate suggests a low level of self-worth, which might lead them to believe that others would be better off without them. However, since the post doesn't directly mention others, I will go with 'Not at all true for me.'"])
+('2', ['directly_mention', "Not at all true for me###The post mentions feeling shitty, being consumed by negative thoughts, and hating oneself for not being able to help oneself. Again, although the post doesn't explicitly mention the happiness of others, their negative self-perception and self-hate suggests that they might believe others would be happier without them. However, since the post doesn't directly mention others, I will go with 'Not at all true for me.'"])
+('3', ['directly_mention', 'Somewhat true for me###The post mentions feeling like a burden on oneself and feeling like they are wasting their life, which could be an indication of feeling like a burden on society as well.'])
+('4', ['directly_mention', "Not at all true for me###The post specifically mentions that the person hates themselves for not being able to help themselves, which suggests that they don't think their death would be a relief to others."])
+('5', ['indirectly_mention', 'Somewhat true for me###The post suggests that the person feels lazy, unproductive, and hates themselves for it. This self-perception may lead to a belief that others wish to be rid of them, although it is not explicitly stated in the post.'])
+('6', ['indirectly_mention', "Somewhat true for me###The post mentions feeling consumed by negative thoughts and feeling like they can't help themselves out of the situation. This may lead to the belief that they make things worse for others, although it is not directly stated."])
+('7', ['indirectly_mention', 'Somewhat true for me###The post mentioned feeling consumed by negative thoughts and hating oneself for not being able to help out of it. This suggests a lack of self-care and self-worth, which can impact how much one feels cared for by others.'])
+('8', ['indirectly_mention', 'Not at all true for me###The post mentions feeling like they are wasting their life and being lazy. This implies a lack of belonging and connection, which can contribute to feelings of not fitting in and not feeling like they belong.'])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling consumed by negative thoughts and feeling worse at a particular time of day, which indicates a lack of positive social interactions and support from others.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information that directly or indirectly relates to having caring and supportive friends."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention feeling disconnected from other people or feeling like an outsider in social gatherings."])
+('12', ['indirectly_mention', 'Somewhat true for me.###The post mentions feeling consumed by negative thoughts and feeling worse at a particular time of day. Although it does not specifically mention feeling disconnected from other people or feeling like an outsider, these negative thoughts and emotions can contribute to a sense of being disconnected or like an outsider in social gatherings.'])
+('13', ['indirectly_mention', "Very true for me###The post mentions feeling shitty, lying around, being consumed by negative thoughts, and hating oneself. These indicate a lack of support and closeness to other people, suggesting that the poster may not feel they have people to turn to in times of need. However, since the post doesn't explicitly state this, I can only make an indirect deduction."])
+('14', ['directly_mention', "Not at all true for me###The post mentions feeling shitty, not doing anything productive, and hating oneself for it. These indicate a lack of motivation and a negative self-perception. Therefore, it can be inferred that the poster doesn't feel close to other people, making the statement 'Not at all true for me' an appropriate answer."])
+('15', ['indirectly_mention', "Somewhat true for me###The post mentions feeling consumed by negative thoughts, feeling lazy and doing nothing, and hating oneself. These thoughts and emotions may impact the quality of interpersonal interactions. While the post doesn't directly mention having satisfying interactions, it suggests a lack of fulfillment in daily life which could affect social interactions."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden on society and making things worse for the people in their life. The responses to the mental scale questions also show high levels of agreement with statements related to feeling like a burden, being disconnected from others, and feeling like an outsider in social gatherings.
+

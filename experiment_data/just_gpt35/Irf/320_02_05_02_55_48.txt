@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I feel so empty. I don‚Äôt even know what to write here because I just.. I am.. I don‚Äôt want to be in this body, in this depressed brain anymore. It doesn‚Äôt feel fair. All I‚Äôve ever done is help people. I worked in nursing homes for years. Now I work with developmentally disabled adults. I feel like I‚Äôve been grasping at a reason to live. If I‚Äôm consistently helping someone else live a happier/healthier/easier life, maybe I‚Äôll get better. Maybe I‚Äôll deserve to get better. I have only gotten worse.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of emptiness, a desire to be someone else, and a sense of not deserving to get better despite consistently helping others. These thoughts and experiences suggest a risk of thwarted belongingness, as the individual may feel disconnected from others and lacking a sense of meaningful connection or belonging.
+

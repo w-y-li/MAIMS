@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Hey everyone. First time poster. I've had depression for about 11 years now. I wanted to know if any of you with chronic depression have also experienced this... Now that I am a bit older and have had the illness for so long, I'm kinda more just okay with it? Like I used to get more triggered and depressed simply because I was self-aware that I had an illness, but now that's gone. Is this just another symptom of apathy? Or is it possible to live my life comfortable and aware that I have a mental health problem?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show a risk of perceived burdensomeness. The poster is discussing their experience with chronic depression and how their perspective has changed over time. They are questioning whether their newfound acceptance of their mental health problem is a symptom of apathy or if it is possible to live comfortably while being aware of their illness.
+

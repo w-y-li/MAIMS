@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I'm a 17 years old male and I have been diagnosed with a really fucked up case of ADHD. Some years ago, I started showing all the symptoms of depression, to the point where literally everyone began to think I was depressed from what I told them. My therapist told me that it isn't depression, but then what is it? I have ALL symptoms, and I'm in a hole so deep I can't see the sun anymore. Maybe I'm desperately trying to give my problems a name I'm faking and believing a depression? Idk. I'm so confused. Any idea what this can be?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person feels like a burden and questions their own worth and the legitimacy of their feelings. They express confusion and seek validation for the possibility that their symptoms may not be genuine. This suggests a possible risk of perceived burdensomeness, which is often associated with depression and other mental health issues.
+

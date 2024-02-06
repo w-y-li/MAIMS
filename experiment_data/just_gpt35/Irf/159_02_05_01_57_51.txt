@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  For my most of my life I wanted to be a musician. My best friend and I were in a band together and we were building something. However, as I entered my mid-20s and entered a serious relationship, I felt competing priorities and wanted to potentially pursue career paths that had more stability and less time away for things like touring. Since then, I've been locked in paralysis for over a year about I should be doing with my life. I feel a lot of regret about leaving the music path, yet don't feel confident enough to rejoin it either. Similarly, I feel hopeless attempting to commit myself to another path that will make me fulfilled. The more I think about things and analyze them, the more my brain takes me down a dangerous path of regret, anxiety, and despair. Any words of encouragement of solidarity would be greatly appreciated. Thanks.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of regret, hopelessness, and despair, which are often associated with a sense of burden and feeling like one is a burden to others. The poster's mention of feeling paralyzed and unsure about their future path suggests that they may perceive themselves as burdensome in making decisions or pursuing their dreams.
+

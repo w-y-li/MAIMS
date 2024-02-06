@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I always wear my earphones when I first wake up, when I eat my breakfast, and before going to bed. basically all of the time. I think my music is my escape from all of this bullshit in life. Btw I listen to bands like: Thy Art Is Murder, Suicide Silence, Make Them Suffer, The Amity Affliction, and Infant Annihilator.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the person is using music as an escape from the difficulties in life. This could indicate a lack of social connection or a feeling of not belonging, which is a risk factor for thwarted belongingness.
+

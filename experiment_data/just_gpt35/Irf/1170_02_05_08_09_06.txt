@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Just to give some background, I've felt pretty depressed for most of my adult/adolescent life (I'm 21 now) but have never felt able to talk to anyone about it (not even family or close friends). I have days where I'm in a slightly more positive mood, but generally I just feel pretty apathetic about everything, lethargic and extremely self-critical to the point where it stops me doing things. I don't really have physical symptoms but being this low obviously causes me to neglect my health quite a bit. My environment and lifestyle certainly have an impact; I recently moved in with my aunt who has very little understanding of depression (and just emotions generally), and I'm living in a place where I don't really know anyone. Anyway I took an NHS depression self-assessment recently and the results suggested that I should go and see my GP. However, I'm seriously doubting whether to do it, I feel like I'd just be a waste of their time. Besides I know that there's a chance that they might suggest taking anti-depressants, and I'm a little reluctant about that given everything that I've heard and read about them and their side effects. Sorry for the long post, guess I just needed to vent, but any advice would be really appreciated.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling apathetic, lethargic, and extremely self-critical, which are symptoms of depression. The poster also expresses a lack of connection and understanding in their current environment, indicating potential feelings of thwarted belongingness.
+

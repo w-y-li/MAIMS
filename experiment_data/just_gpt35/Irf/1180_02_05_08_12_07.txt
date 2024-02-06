@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  damn, at least some fcking alcohol would have made this shitty, depressing-ass night a little easier. that's what everyone else is doing anyway, getting black-out drunk. but instead, in all my sober consciousness, i got to watch a bunch of happy excited people with bright eyes out in times square kissing each other and doing anything at all in their lives at midnight tonight.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of isolation, loneliness, and a desire to fit in with others who are engaging in self-destructive behaviors. These emotions indicate a risk of thwarted belongingness, which is a psychological state arising from the perception of insufficient social connections and support.
+

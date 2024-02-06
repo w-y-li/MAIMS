@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  And no, the big rock doesn't fucking break the chest ending my disgusting endless painful life, it stays there laughing at me when I'm crying.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a desire for an end to the poster's painful life, suggesting a potential risk of perceived burdensomeness where the person feels like a burden to others or believes others would be better off without them.
+

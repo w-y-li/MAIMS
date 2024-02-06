@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I have found that one of the main issues keeping me from being productive and moving forward is my inability to believe in myself. That is, I‚Äôm too worried about what others perceive me to be, and never being able to relax and exist in the moment. I‚Äôve had therapy and medication for depression but none of it helps. If I can‚Äôt be better or get better, what‚Äôs the point? Why shouldn‚Äôt I just kill myself? I don‚Äôt want to keep trying. Life is boring. All my wildest dreams always lead to me ending up alone in some way or another. All so I can die without hurting anyone. I‚Äôve been going over the attempts at suicide I‚Äôve made in the past, and wonder if I just can‚Äôt follow through on anything. All the self harm and pushing people away are just half measures to the real solution. I‚Äôm lost and alone, 5 dollars to whoever wants a free pass to kill me.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Very true for me###The post explicitly mentions the idea that the people in the poster's life would be better off without them: 'All so I can die without hurting anyone.'"])
+('2', ['directly_mention', "Very true for me###The post explicitly states that the people in the poster's life would be happier without them: 'All my wildest dreams always lead to me ending up alone in some way or another.'"])
+('3', ['directly_mention', "Very true for me###The post explicitly states, 'These days, I think I am a burden on society.' This suggests that the poster feels like a burden to others and perceives themselves as being detrimental to society."])
+('4', ['directly_mention', "Very true for me###The post specifically mentions, 'These days, I think my death would be a relief to the people in my life.' This indicates that the poster believes their death would bring relief to others, highlighting their perception of burdening those around them."])
+('5', ['indirectly_mention', 'Somewhat true for me###The post mentions pushing people away and wanting to die without hurting anyone. This suggests that the poster believes they make things worse for the people in their life, although they express it indirectly.'])
+('6', ['indirectly_mention', "Very true for me###The post expresses the belief that all the poster's wildest dreams lead to them ending up alone, which suggests that they believe the people in their life wish they could be rid of them, although it is expressed indirectly."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to other people caring about the poster."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the sense of belonging."])
+('9', ['directly_mention', 'Very true for me###The post explicitly states that the person feels lost and alone, and even offers a free pass to kill themself. This suggests a lack of caring and supportive friends or people who care about them.'])
+('10', ['directly_mention', 'Not at all true for me###The post mentions that the person is always worried about what others perceive them to be and feels like they are always ending up alone. This implies that they rarely interact with people who care about them.'])
+('11', ['directly_mention', "Very true for me###The post explicitly states: 'I‚Äôm lost and alone' and that 'All so I can die without hurting anyone.' This indicates a sense of disconnection and feeling disconnected from other people."])
+('12', ['directly_mention', "Very true for me###The post mentions: 'All my wildest dreams always lead to me ending up alone in some way or another.' This suggests feeling like an outsider in social gatherings."])
+('13', ['directly_mention', 'Not at all true for me###The post directly mentions that the poster feels lost and alone, and is willing to offer a free pass for someone to kill them. This indicates a lack of belief that there are people they can turn to in times of need.'])
+('14', ['directly_mention', 'Not at all true for me###The post directly mentions that the poster feels alone and that their wildest dreams always lead to them ending up alone in some way or another. This suggests that they do not feel close to other people.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to having satisfying interactions."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a high level of social disconnection, feeling like an outsider, and perceiving oneself as a burden on others. The poster expresses thoughts of being better off dead and believes that their death would be a relief to the people in their life. These feelings and thoughts indicate a risk of thwarted belongingness, which is the sense of not belonging or being disconnected from others.
+

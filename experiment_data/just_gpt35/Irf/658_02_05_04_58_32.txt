@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My  family  destroyed my life I'll never see the girl I like because of them and refuse to do anything about it. Keep blaming me for everything. I'm done  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and rejection from family, suggesting a risk of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I hope I die on my way to work today  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses a desire not to exist, indicating a potential lack of belongingness or connection with others.
+

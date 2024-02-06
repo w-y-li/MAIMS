@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Not allowed to feel bad? I feel like I'm not allowed to feel bad. I'm an unimportant piece of shit and there are so many other people that need help and all the other people are a lot more important than me. I'm not considered as a person, I'm just something to use to pull yourself up. It's like I'm stuck in a swamp and all the people step on me and push me deeper down just to get out themselves. I guess I don't deserve to feel good. Noone will care if I will kill myself. They'll just use another person.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "I am so sad or unhappy that I can not stand it###The post explicitly states that the person feels like they're not allowed to feel bad and describes themselves as an unimportant piece of shit. They also express feeling stuck in a swamp and being stepped on by others, which suggests a deep sense of sadness and unhappiness that they cannot tolerate."])
+('2', ['indirectly_mention', "I feel discouraged about my future###While the post doesn't directly mention feeling discouraged about the future, it does express the belief that the future is hopeless and that things cannot improve. The person describes themselves as unimportant and that others are more deserving of help, which hints at a pessimistic outlook on their own future."])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The post mentions feeling like an unimportant piece of shit and considering oneself as a failure, indicating a sentiment of past failure.'])
+('4', ['directly_mention', 'I can not get any pleasure from the things I used to enjoy.###The post mentions not feeling allowed to feel good and not deserving to feel good, suggesting a loss of pleasure and an inability to derive enjoyment from previously enjoyed activities.'])
+('5', ['directly_mention', 'I feel guilty all of the time.###The post explicitly states that the poster feels like they are not allowed to feel bad and that they are an unimportant piece of shit. This self-deprecating language suggests a constant feeling of guilt and worthlessness.'])
+('6', ['indirectly_mention', 'I feel I may be punished.###The post implies that the poster feels like they are being used and stepped on by others. This suggests a sense of being punished by others for their own benefit.'])
+('7', ['directly_mention', "I dislike myself.###The poster explicitly states 'I'm an unimportant piece of shit' and 'I guess I don't deserve to feel good.' These statements indicate a clear self-dislike."])
+('8', ['directly_mention', 'I do not criticize or blame myself more than usual.###The post does not provide any specific indication of increased self-accusations. The poster mainly expresses feeling unimportant and being used by others, but does not mention blaming themselves for everything bad happening.'])
+('9', ['directly_mention', 'I would like to kill myself.###The post explicitly mentions that the poster feels like no one will care if they kill themselves. This suggests that they have thoughts of wanting to kill themselves.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about crying or the frequency of crying. There is no information to deduce the answer to this question."])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The post mentions feeling stuck in a swamp and people stepping on me, which suggests a sense of agitation and restlessness.'])
+('12', ['indirectly_mention', 'I have lost most of my interest in other people or things.###The post mentions feeling unimportant and not considered as a person, which suggests a loss of interest in other people and activities.'])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post mentions feeling stuck in a swamp and being stepped on by others, which implies a lack of control and agency. This feeling of being used and pushed down may lead to indecisiveness.'])
+('14', ['indirectly_mention', 'I feel more worthless as compared to other people.###The post mentions feeling like an unimportant piece of shit and that others are more important. This indicates a decrease in self-worth and an increased sense of worthlessness compared to others.'])
+('15', ['indirectly_mention', "I have less energy than I used to have.###Based on the statement 'I feel like I'm not allowed to feel bad' and 'I'm an unimportant piece of shit' it can be inferred that the poster is feeling low and depressed, which can result in a decrease in energy levels."])
+('16', ['directly_mention', "I sleep a lot less than usual.###The statement 'Noone will care if I will kill myself' suggests the poster may be experiencing sleep disturbances, indicated by the lack of sleep mentioned in the statement."])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post discusses feeling not allowed to feel bad, feeling like an unimportant piece of shit, and being stuck in a swamp where people step on the poster and push them deeper. These experiences can lead to increased irritability.'])
+('18', ['indirectly_mention', "My appetite is somewhat less than usual.###The post mentions feeling like an unimportant piece of shit and not deserving to feel good. These negative thoughts and emotions can impact one's appetite and result in a decrease in appetite."])
+('19', ['indirectly_mention', "It is hard to keep my mind on anything for very long.###In the post, I mentioned that I feel like I'm stuck in a swamp and all the people step on me and push me deeper down just to get out themselves. This suggests that my mind is preoccupied with negative thoughts and emotions which may make it difficult for me to concentrate on anything for very long."])
+('20', ['indirectly_mention', "I am too tired or fatigued to do most of the things I used to do.###I mentioned that I feel like I'm not allowed to feel bad and that no one will care if I kill myself. These feelings of hopelessness and worthlessness can contribute to a sense of exhaustion and fatigue, making it difficult for me to engage in activities that I used to enjoy or find the motivation to do so."])
+('21', ['directly_mention', 'I have almost no interest in sex.###The post mentions feeling unimportant and not deserving to feel good. This negative self-perception and lack of self-worth can often lead to a decrease in interest in sex.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to the questions indicate symptoms of depression such as sadness, pessimism, loss of pleasure, guilty feelings, self-dislike, suicidal thoughts or wishes, worthlessness, changes in sleeping pattern, irritability, concentration difficulties, tiredness or fatigue, and changes in interest in sex. These symptoms suggest that the poster may be suffering from depression.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Yep. Women use me to boost their self esteem, and then they throw me away. Why am I alive? Why was I born to be a throw away?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the person feels unwanted and disposable, indicating a potential risk of thwarted belongingness.
+

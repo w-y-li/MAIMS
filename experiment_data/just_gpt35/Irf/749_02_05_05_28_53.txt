@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I am literally useless. I can't function. Haven't left my house for 2 weeks. I have no confidence. Every time I get a positive belief about myself, my anxiety turns it into an insecurity. I get suicidal thoughts 24/7 and I can't even do things for others because I stress out too much and make it a chore for them. No matter whati I do everything is bad. I want to be normal.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness and a belief that the poster is a burden to others, as they mention stressing out too much and making things a chore for others.
+

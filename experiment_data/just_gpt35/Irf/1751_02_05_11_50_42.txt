@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I just want people to enjoy spending time with me, but I'm just a sad sack of shit and always going around being pessimistic and depressed and shit, why would anyone want to be friends with me. All I can do is drain people with my sadness. I'm such a shit friend.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the individual feels like a burden to others and believes that they can only bring sadness and negativity to their relationships.
+

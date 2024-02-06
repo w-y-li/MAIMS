@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  it's my birthday today, i am at one of the lowest mental points i have ever been. can ijust get a few wishes? compared to past birthdays i've gotten more than i could've hoped for and it means a lot in itself, helps even a little bit, but depression is a relentless parasite and in the closing hours of march third i feel so sad. so lonely. in the context of this subreddit where i feel everyone understands me it means a lot. loneliness reaching to other loneliness. this subreddit understands me at least in what im feeling, the visceral sadness and pain of it all. the way thinking about dying is so painful but just makes you feel more tired, like you just want it to happen. ive cried about this way too much to further put it to words i just want to die man  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness and a desire to die. These feelings suggest a risk of thwarted belongingness where the individual feels a lack of connection or sense of belonging to others, increasing the risk of suicide.
+

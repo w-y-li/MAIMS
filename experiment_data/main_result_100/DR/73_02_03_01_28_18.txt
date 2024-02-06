@@ -1,0 +1,125 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Close friend becoming distant.... So I’ve (f,21) had a friend (m,21) that I’ve known for over two years, and we typically text or snap daily. There are times where we are texting or snapping straight for a couple of hours or we get busy with other stuff so we reply when we have a chance. Two weeks ago we had been hanging out at his place and everything to me seemed normal. Then out of the blue this week I feel as though he’s become extremely distant. He stopped basically replying to me at all. It’s been a couple of days in a row that he only responds a couple of times in the morning and then is gone during the entire day. Since I’ve known him, he has never been this way. (I'm sure some might say he's in a relationship, but he's currently single. Plus when he was in a relationship, he didn't act this way.) So last week I had sent him something early in the day and he didn’t reply until the following day. I didn’t think much of it because the next couple of days we were chatting like nothing and I was sure he was completely busy. Keep in mind, this was a couple days before he basically went blank on me. It actually got me thinking of what I had said that first day and think why he’d be so mad possibly to respond. The day that it had all started I had told him I had applied to a place and had gotten a interview the following day. I told him this even though he’s told me he’s been applying to different places and hasn’t gotten a single interview. When I told him I didn’t think that it would affect him that much since he’s told me he’d never apply to the place I’m gonna start working at. (Like he straight up told me he’d rather die than work at that place.) However, he's not the type to be petty or take things like that extremely hard and to heart. I’m not sure how I should think about all of this.I have anxiety (which is why I’m stressing) but I’m telling myself he may be going through something and I don’t want to just push him. We’ve gotten extremely close enough to the point where we’ve discussed things that are vulnerable things. He's dealt with major stuff and so have I, so I also find it weird that he wouldn’t talk to me about any of it (if it was something personal). Should I continue waiting basically a day for a response, or let it ride out and see if he gets back to himself and talks? Do you think he’s trying to ghost me? Or should I ask him what’s happening? (And if I do what should I say so that I’m not exactly targeting him). He has depression and we have discussed serious matters so I don't want to make him feel bad. Feel free to ask any questions. Thanks!  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time###In the post, the friend expresses feeling as though the close friend has become extremely distant. This change in behavior could be perceived as a rejection or loss, which could lead to feelings of sadness.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication that directly addresses the question of pessimism."])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The poster mentions that the friend has depression and they have discussed serious matters. This implies that the poster has had conversations with the friend about their mental state, including potential feelings of failure.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication of the poster's current level of pleasure or lack thereof."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to guilty feelings. There is no indication of the poster feeling guilty in any part of the text."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to punishment feelings. There is no indication of the poster feeling punished in any part of the text."])
+('7', ['directly_mention', "I feel the same about myself as ever.###The post doesn't provide any information that indicates a change in the poster's self-perception or confidence."])
+('8', ['indirectly_mention', "I do not criticize or blame myself more than usual.###The post mentions that the friend's sudden distance may be related to something personal going on in his life. The poster wonders if she said something to upset him, but does not express self-criticism or blame herself for the friend's behavior."])
+('9', ['indirectly_mention', 'I do not have any thoughts of killing myself.###In the post, I mentioned that my friend has depression and we have discussed serious matters, which indicates that I am aware of mental health issues. However, I did not directly mention having any thoughts of killing myself, so I can indirectly mention this question.'])
+('10', ['indirectly_mention', 'I cry more than I used to.###In the post, I mentioned that I have anxiety and I am currently stressing about the situation with my friend. This indicates that my emotional state has changed, and crying more than usual could be a manifestation of increased emotional distress. Though I did not directly mention crying, I can indirectly mention this question.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to agitation."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of interest."])
+('13', ['indirectly_mention', "I find it more difficult to make decisions than usual.###In the post, I mentioned that I've been stressing and I have anxiety. These factors can contribute to indecisiveness."])
+('14', ['not_mention', "Doesn't mention at all.###There is no mention or indication of feelings of worthlessness in the post."])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post mentioned that I have been feeling extremely distant and that he stopped replying to me at all. This change in his behavior could indicate a loss of energy or motivation.'])
+('16', ['indirectly_mention', "I have not experienced any change in my sleeping pattern.###The post didn't provide any information about changes in sleeping patterns, so it can be inferred that there haven't been any changes."])
+('17', ['indirectly_mention', 'I am no more irritable than usual.###In the post, I mentioned that my friend has never acted this way before, indicating that his behavior is unusual. However, there is no direct mention of irritability in the post, so I cannot determine the exact level of irritability.'])
+('18', ['indirectly_mention', "I have not experienced any change in my appetite.###Although the post does not directly mention changes in appetite, it does provide information about my friend's behavior. If he had a significant change in appetite, it might have been mentioned as a possible reason for his distant behavior. Since this is not mentioned, it can be assumed that his appetite has not been affected."])
+('19', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to concentration difficulty."])
+('20', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to tiredness or fatigue."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+('1', ['Correct', 'Keep using context clues and personal experiences shared in the post to infer emotions like sadness, maintaining the balance between analysis and empathy.'])
+('2', ['Incorrect', "Scan the post for any hints of negative expectations for the future. If no direct evidence is present, consider how the situation described might affect the poster's outlook, without over inferring."])
+('3', ['Incorrect', 'Re-examine the post for subtle cues about feelings of failure instead of inferring from non-specific information. Focus on the explicit content and context given by the poster.'])
+('4', ['Correct', 'Continue to analyze the post as you did, acknowledging when there is no information provided on a certain topic and abstaining from making assumptions.'])
+('5', ['Correct', 'Continue to focus on the content that is explicitly presented in the social media post. Avoid making assumptions beyond the given information.'])
+('6', ['Correct', 'Keep maintaining an objective stance without inferring emotions that are not clearly stated in the post. Stick to analyzing the expressed content.'])
+('7', ['Incorrect', "Carefully analyze the emotional context of the post. The poster discusses feeling stressed and wondering about the cause of their friend's behavior, which could indicate a change in self-perception. Re-evaluate the presence of self-dislike themes in the post."])
+('8', ['Correct', "Continue to differentiate between possible external reasons for the friend's behavior and the poster's own self-reflection. Maintain focus on the direct content of the post and keep inferring based on that information."])
+('9', ['Incorrect', "Avoid assuming knowledge not presented in the post. Focus on information given and don't infer suicidal thoughts when not indicated."])
+('10', ['Incorrect', 'Be cautious not to project emotions onto the poster. Anxiety does not necessarily equate to crying. Stick to the information provided.'])
+('11', ['Incorrect', 'Analyze the emotional context and changes in behavior for indications of agitation or other underlying feelings.'])
+('12', ['Incorrect', "Consider the friend's change in communication patterns as a potential sign of loss of interest or a reaction to something and reflect on how these might relate to the poster's situation."])
+('13', ['Correct', 'Good job identifying indirect evidence of indecisiveness in the context of anxiety and stress. Continue to look for subtle clues in the text that correlate with psychological states or issues.'])
+('14', ['Incorrect', "Although the post does not explicitly mention feelings of worthlessness, as a psychology student, it's important to infer carefully without overreaching. Avoid stating something isn't mentioned at all if there may be underlying themes in the post that could suggest otherwise. Be cautious but also consider broader emotional contexts when analysing."])
+('15', ['Incorrect', "Review the post for specific mention or implications about energy levels unrelated to the friend's behavior, and avoid attributing feelings to the poster that aren't clearly expressed."])
+('16', ['Correct', "Maintain objectivity and refrain from making inferences where information isn't available in the posted content, as you did here."])
+('17', ['Incorrect', "Avoid making assumptions not evident in the text. There is no mention of the poster's irritability, so you should not infer it. Stick to the information given about the poster's feelings and thoughts."])
+('18', ['Incorrect', "Refrain from deducing information about the poster's appetite without explicit evidence. Do not transfer the subject's experience onto the poster, as the post only discusses the friend's behavior rather than the poster's own appetite changes."])
+('19', ['Correct', 'Remember to consider the context and what is explicitly mentioned in the post, but also be mindful of implicit signals.'])
+('20', ['Correct', "Continue to focus on the content and avoid making unfounded inferences about the poster's experiences which are not referenced."])
+('21', ['Correct', "When the post does not provide information related to the question about changes in interest in sex, you have correctly identified that it isn't mentioned. It's important to remain objective and not infer information that isn't present."])
+
+ITER 1
+Do MS Record:
+('2', ['indirectly_mention', 'I feel discouraged about my future###In the post, the poster mentioned having anxiety and stressing about the situation with their friend. This implies a pessimistic outlook on their future as they are worried about the outcome of their relationship with their friend.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not provide any information or cues related to past failures. The focus of the post is on the current situation with the friend's behavior, anxiety, and uncertainty about the future of their relationship."])
+('7', ['indirectly_mention', "I feel the same about myself as ever.###The post mentions that the poster has anxiety and is stressing about the situation with their friend. While it doesn't directly address self-dislike, the poster's anxiety and stress may suggest that they may be experiencing a decrease in self-confidence or self-esteem."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to thoughts of killing oneself. It primarily focuses on the poster's concern about their friend's distant behavior."])
+('10', ['directly_mention', 'I cry more than I used to.###The post states that the poster has anxiety and is currently stressing, which implies an increase in emotional distress and therefore may lead to more frequent crying.'])
+('11', ['directly_mention', 'I feel more restless or wound up than usual.###The post mentions that the poster is stressing, which suggests increased restlessness or agitation.'])
+('12', ['directly_mention', 'I have lost most of my interest in other people or things.###The poster mentions that their friend has become extremely distant and stopped replying to them. This change in behavior could indicate a loss of interest in maintaining the friendship.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention any feelings of worthlessness directly or indirectly, so it cannot be determined based on the provided information."])
+('15', ['directly_mention', 'I have less energy than I used to have.###The poster mentions feeling stressed and having anxiety, which can lead to a decrease in energy levels.'])
+('17', ['not_mention', "Doesn't mention at all.###There is no mention of the poster's irritability in the post. I can't make any inference about the poster's irritability based on the given information."])
+('18', ['indirectly_mention', "I have not experienced any change in my appetite.###The post does not mention the poster's own appetite. The focus of the post is on the friend's behavior and the poster's concern about their friend becoming distant."])
+Do MS Check Record:
+('2', ['Incorrect', "While the poster's anxiety suggests some level of negative thinking, it's a leap to label this as a pessimistic view about their overall future. Analyze whether the feelings expressed are situational or more broadly about their life."])
+('3', ['Correct', "It's appropriate not to infer about past failures when the post doesn't hint at this. Stay focused on the information provided and avoid making assumptions beyond the scope of the post."])
+('7', ['Incorrect', "Be cautious not to dismiss potential feelings of self-dislike just because it is not explicitly mentioned. Analyze context clues like the poster's anxiety and stress about the friend's behavior, which could imply issues with self-esteem. When unsure, qualify your answer to reflect the uncertainty rather than stating a definitive response."])
+('9', ['Correct', 'Good job on not inferring suicidal thoughts where there is no evidence to suggest such. Always stick to the information provided and do not make assumptions beyond the data.'])
+('10', ['Correct', 'Maintain the careful observation of emotional cues present in the post as you did here. Ensure that interpretations are closely tied to the content and context provided.'])
+('11', ['Correct', 'Continue recognizing subtle indicators of psychological states in social media posts. Be careful not to over-interpret, but in this case, the conclusion was reasonable based on the information provided.'])
+('12', ['Incorrect', "Reassess the content of the post to distinguish between feelings and behaviors. The friend's lack of response indicates a change in behavior, not necessarily the poster's loss of interest. Evaluate the poster's feelings based on the actual content shared within the post."])
+('14', ['Correct', 'Maintain the practice of not inferring feelings not explicitly mentioned. Continue to exercise caution not to overinterpret or assume emotions or states such as worthlessness when they are not indicated in the post.'])
+('15', ['Incorrect', 'Examine the context of the post more closely, looking for indirect indicators of energy levels, such as changes in communication patterns, which may suggest fluctuations in energy.'])
+('17', ['Correct', 'When no direct or indirect evidence is provided in the post, it is appropriate to refrain from making inferences. Continue to only draw conclusions based on available information.'])
+('18', ['Incorrect', 'Avoid assuming details not mentioned in the post. Instead, answer based on only the information provided or explained by the poster.'])
+
+ITER 2
+Do MS Record:
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indications related to pessimism about the future."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not provide any indications of self-dislike. Although the poster mentions anxiety and stress, it does not directly address their perception of themselves in a negative light."])
+('12', ['directly_mention', 'I have lost most of my interest in other people or things.###The poster mentioned that her friend has become extremely distant and stopped replying to her. This change in behavior could indicate a loss of interest in their friendship.'])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###The poster described feeling stressed and anxious about the situation with her friend. This emotional distress could be impacting her energy levels and leaving her with insufficient energy to do much.'])
+('18', ['directly_mention', 'My appetite is somewhat less than usual.###The poster mentions that her friend has become distant and stopped replying to her messages. This change in behavior is causing the poster stress and anxiety. Anxiety can often affect appetite, causing a decrease in appetite or a loss of appetite.'])
+Do MS Check Record:
+('2', ['Correct', 'Keep focusing on the content explicitly mentioned in the post to determine the presence of the mental scale being assessed. Ensure not to infer information that is not there.'])
+('7', ['Correct', 'Well done on identifying there are no explicit indications of self-dislike in the content. Continue to differentiate between the presence of issues like anxiety and concepts like self-dislike, which are not necessarily implied by each other.'])
+('12', ['Incorrect', "Focus on the content of the post without assuming emotions or reactions that aren’t explicitly stated. The poster discusses a friend's behavior, not their own loss of interest. Stick to the information given."])
+('15', ['Incorrect', "Do not infer the poster's energy levels based on their emotions regarding another's behavior. The post does not provide evidence that the poster has lost energy. Answer from the perspective of available information about the poster, not assumptions."])
+('18', ['Incorrect', "Carefully analyze the information given. The post does not provide details about the poster's own appetite changes. Focus on the poster's statements, not assumptions about anxiety affecting appetite."])
+
+ITER 3
+Do MS Record:
+('12', ['directly_mention', 'I am less interested in other people or things than before.###The poster mentions that their friend has become extremely distant and have stopped replying to them, which has made them think about what they said that may have made their friend mad. This indicates a decrease in interest in their friendship.'])
+('15', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information about the poster's energy levels. It only focuses on the friend's behavior and the poster's concern about their friendship."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information or mention related to changes in appetite."])
+Do MS Check Record:
+('12', ['Incorrect', 'Do not assume feelings or states not explicitly mentioned in the post. Stick to the facts and avoid generalizing behaviors to emotions or mental states.'])
+('15', ['Correct', "Good job identifying that the post does not provide information about the poster's personal energy levels. Continue to analyze posts based on the information given."])
+('18', ['Correct', "While your answer is correct, ensure you're also considering the broader psychological context. Think about how the change in communication patterns might indirectly suggest changes in behavior like appetite, even if not explicitly mentioned."])
+
+ITER 4
+Do MS Record:
+('12', ['directly_mention', 'I am less interested in other people or things than before.###The poster mentions that her friend has become extremely distant and stopped replying to her. This suggests a loss of interest in their friendship.'])
+Do MS Check Record:
+('12', ['Incorrect', "Remember, the task is to respond as if you are the poster, not to theorize about the friend's behavior. Your response should reflect how the poster feels or behaves, not the friend. In this case, the post discusses the poster's concern and anxiety about the change in the friend's behavior, not the poster's own loss of interest. Your answer should address the poster's feelings and thoughts without making assumptions about the friend's motivations or feelings."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the poster's description of their friend becoming extremely distant, not responding to messages, and exhibiting a change in behavior, it is possible that the friend is experiencing symptoms of depression. Additionally, the poster mentions that the friend has a history of depression, further suggesting that depression may be a factor in their current behavior.
+
+Incorrect
+When analyzing for mental health problems, it is important to distinguish between the person posting and the individual they are discussing. In this case, the student failed to recognize that the mental health scale results apply to the poster, not their friend. The student should assess the friend's mental health based solely on the description provided in the post. For the poster, despite the reported feelings of sadness and increased crying, with no other substantial indications of depression from the answered questions, it would be premature to conclude they suffer from depression without further evidence. It is also essential to avoid over-inferencing negative characteristics without sufficient information. The student must be careful to analyze the mental health of the correct person and not to assume conditions beyond the reported and observed evidence.
+
+ITER 1
+No
+Although the poster reports feelings of sadness and increased crying, there are no substantial indications of depression based on the answered questions. It would be premature to conclude that the poster suffers from depression without further evidence.
+
+Correct
+Ensure to maintain an objective perspective without overgeneralizing from limited information. Avoid attributing characteristics or conditions to the poster that are not supported by the evidence from their post or the answered mental scale questions. Continue to analyze the given information methodically and avoid making assumptions about the poster's mental state without adequate supportive data. If uncertain, recommending a professional evaluation would be a safe course of action rather than making a definitive diagnosis.

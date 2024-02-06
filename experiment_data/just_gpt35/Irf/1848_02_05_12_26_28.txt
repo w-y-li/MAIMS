@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  That's all I can really say. Nothing is worth the effort... I don't think I am capable of taking steps to improve my life, because I just don't even fucking care. Whatever I'm doing, wherever I go in my life, I'll find a way to be miserable. Why try... I just... ugh...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a lack of motivation to improve one's life and a sense of being unable to find happiness or satisfaction. The statement of finding a way to be miserable regardless of the circumstances implies a possible feeling of alienation or disconnection, which can be indicative of thwarted belongingness.
+

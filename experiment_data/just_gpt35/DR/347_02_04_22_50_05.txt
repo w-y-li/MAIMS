@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  I need advice please.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+Insufficient information to determine if the poster suffers from depression.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  People here write about going to therapists and whatever but I don‚Äôt want to even though my depression intensifies. A year ago I just stopped enjoying life, now I bite my inner lip, cut my hands and pile the skin off my fingers but still do not want to search for help  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the person is experiencing depression and engaging in self-harming behaviors. Expressing a lack of desire to seek help and experiencing a loss of enjoyment in life may indicate a sense of disconnection and thwarted belongingness.
+

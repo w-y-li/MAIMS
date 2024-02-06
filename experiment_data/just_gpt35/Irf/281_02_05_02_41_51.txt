@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I‚Äôve grown disgusted with myself and hating myself. Nothing i can say can seem to right the wrongs i‚Äôve done, and i‚Äôm paying for it now by losing relationships with all the ones i love. I don‚Äôt see any future where things can be mended. I‚Äôm out of ideas, and don‚Äôt want to go on anymore.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of self-disgust, self-hatred, and perceiving oneself as causing harm to others. The individual expresses a belief that they are losing relationships and cannot see a future where things can be mended. The statement 'I don't want to go on anymore' suggests a sense of overwhelm and hopelessness, which aligns with the risk of perceived burdensomeness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I want to help my papa, who suffers from obvious depression. He had a pretty tough life: loosing his mother when he was young, my grandfather made him drop out of high school to start working and earn money to leave in the house. He worked from 16 to 45 years. He had a meaningful job where he met my mom, who left the company a few weeks after starting dating him. At some point he was  promoted  but not really, and left the job shortly after. Long story short: he popped from job to job until 45 yo, and have been unemployed since. My mom works and earn enough money to feed us (although some months this becomes an issue), but her job takes her away from the family for like 2 weeks straight sometimes, which obviously she hates. At 55, and unemployed for 10 years, my dad feels depressed and guilty for not being able to give my family a better life. He tries really hard to look like he is ok, but he is depressed like noone I've ever seen. I can't do much by myself since im in college and haven't found a job yet. My brother has, but he prefers to take his SO in vacations. This subreddit has helped me in the past, so please give me opinions on how can I help a truly good man who has had bad luck in life.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+This post indicates that the poster's papa feels guilty for not being able to give the family a better life. This feeling of guilt and the desire to help despite being unable to do much reflects a risk of perceived burdensomeness.
+

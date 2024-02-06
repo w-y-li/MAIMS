@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Not all the time.when I'm with my friends or watching a funny video I can laugh and smile and feel happy. the rest of the time I'm sad. I'm so confused about my life and the people I'm surrounding myself with. I'm finding it hard to sleep because I'm always thinking. I cry all the time and I don't understand why. my mum died a couple of years ago when I was 13 and I never had time to fully grieve. I miss her so so much all the time and no one seems to understand why considering it happened so long ago. I don't know what to do. I always feel anxious and stressy, on the verge of tears, tired. even stuff that excited me alot I'm starting to dread and I'm so confused at what's happening to me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling sad, confused about life and relationships, difficulty sleeping due to constant thinking, excessive crying, unresolved grief from the loss of the poster's mother, feeling anxious and stressed, tiredness, and a shift in enjoyment towards dread. These symptoms indicate a potential risk of perceived burdensomeness, as the individual may feel overwhelmed and perceive themselves as a burden to others due to their emotional struggles.
+

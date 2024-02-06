@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  does anyone else hate school?? It has always been the main cause of my depression and anxiety. Now that school is coming up again, I'm feeling really hopeless and nauseous from nerves.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post describes school as the main cause of the poster's depression and anxiety. The feeling of hopelessness and nausea from nerves towards the upcoming school indicates a perceived burden of the school environment.
+

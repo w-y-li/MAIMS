@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I've been in a funk for a long time and it's just not getting any better. I'm really struggling with literally everything right now. My family is no help. I lost one of my jobs because the place closed and so I'm having to burn through my savings to cover everything. Last month, I was struggling with coming up with my rent money and my prescriptions. This month I've got the rent covered but now don't have enough money for the power bill, my car payment, and my car insurance ad again I'm left panicking and stressing about where I'm going to get the money and what's going to happen. I'm starting a new job in three weeks but that doesn't help me right now. It's so depressing and I honestly feel like killing myself sometimes over it. I wake up dreading what the day holds and it's horrible. My parents don't believe me when I tell them I'm depressed and won't help me with money because they think I should learn through struggling. Everything with them just adds to my state of mind. sorry for ranting and getting dark, but it's just horrible to feel like this. I feel so lost and alone.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being overwhelmed by financial struggles and a lack of support from family. The poster expresses thoughts of suicide as a result of their circumstances, which points to a perceived burden on others.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I'm tired of girls flaking on me, I'm tired of fake friends, I'm tired of getting fucked up, I'm tired of not knowing who I am, not fitting in, tired of being that stupid degenerate future dropout, I'm so fucking sick and tired of so many things. Nothing has meaning, il never find what I'm looking for, I'm better off staying in my room and not going to school at all, nothing Ive ever known was real. I just really want to die but I'm too much of a pussy to do it, id only do it for attention anyway.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post contains statements expressing exhaustion, hopelessness, and a desire for death, indicating a potential risk of perceived burdensomeness.
+

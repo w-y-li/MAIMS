@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I tried to kill myself in school..I realized a caring girlfriend would be equal to 100 friends.So except trying to get things you wouldn‚Äôt like,I‚Äôm searching for a girlfriend.I prefer online since no one would be interested in me with my social skills and the red in my neck  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of social isolation and low self-worth, as the poster mentions having poor social skills and feeling that no one would be interested in them. The statement about needing a girlfriend to replace 100 friends suggests a desire for a deep connection and validation. The mention of attempting suicide in school also reflects a deep level of despair and hopelessness.
+

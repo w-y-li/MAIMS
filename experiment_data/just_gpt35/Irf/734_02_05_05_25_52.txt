@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôm 14 and I just lost my virginity, I felt unbelievable. I was so happy. Morning came along when me and her had sobered up. She says she doesn‚Äôt regret it but now I feel awful and my paranoia is telling me that she hates me and she hates what we did. All I want to do is run a bath and have a nap with my head under the water.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a sense of guilt, feelings of being hated, and desire to escape. These indicate potential signs of thwarted belongingness, as the poster might be feeling disconnected or ostracized from others.
+

@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  tired of being alone in this world with no accomplishments yeah thats the post Please someone be my friend  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement suggests feelings of loneliness, lack of accomplishment, and a plea for friendship. These are common symptoms associated with depression.
+

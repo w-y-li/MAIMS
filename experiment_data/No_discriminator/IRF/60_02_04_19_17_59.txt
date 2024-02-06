@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  No one loves me, I have no friends, I'm spending new years alone in my bed. I refuse to take my anti depressants because I'm scared they will make me happy and I don't deserve happiness because i'm an awful person and everyone leaves me.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Not at all true for me.###The post explicitly states that I refuse to take anti-depressants because I'm scared they will make me happy. This suggests that I have a desire to feel happy, even though I may feel undeserving of it. Therefore, it is not true for me that the people in my life would be better off if I were gone."])
+('2', ['directly_mention', 'Somewhat true for me.###The post mentions that I believe I am an awful person and that everyone leaves me. This suggests that I have a negative perception of myself and fear that I contribute negatively to the lives of those around me. Therefore, it is somewhat true for me that the people in my life would be happier without me.'])
+('3', ['directly_mention', 'Very true for me###The post directly mentions feeling like a burden on society.'])
+('4', ['directly_mention', 'Somewhat true for me###The post directly mentions contemplating whether their death would be a relief to the people in their life.'])
+('5', ['indirectly_mention', 'Somewhat true for me###The post indicates that the poster believes they are an awful person and everyone leaves them, which suggests that they may think the people in their life wish they could be rid of them to some extent.'])
+('6', ['indirectly_mention', "Somewhat true for me###The post reveals that the poster believes they make things worse for the people in their life, as they mention being scared that taking anti-depressants will make them happy and they don't deserve happiness because they are an awful person."])
+('7', ['indirectly_mention', 'Not at all true for me###The post mentions that I have no friends and everyone leaves me, which indicates that I feel like other people do not care about me.'])
+('8', ['directly_mention', "Not at all true for me###The post directly states that I'm spending new years alone, which implies that I do not feel like I belong."])
+('9', ['directly_mention', 'Very true for me###The post explicitly states that no one loves me and I have no friends. This indicates that these days, I rarely interact with people who care about me.'])
+('10', ['indirectly_mention', "Not at all true for me###Although the post states that the poster has no friends, it doesn't provide any information about the number of caring and supportive friends the poster has these days. Therefore, it is difficult to determine the answer based solely on the post. However, given the overall negative tone and belief that everyone leaves the poster, it suggests that the poster may not perceive themselves as having many caring and supportive friends."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling disconnected from other people and having no friends, which suggests some level of disconnection from others.'])
+('12', ['indirectly_mention', "Very true for me###The post mentions feeling like an outsider in social gatherings and spending New Year's alone, which indicates a strong sense of not fitting in with others in social situations."])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling alone and having no friends, which suggests a lack of closeness to other people. However, it is unclear whether the person feels there are people they can turn to in times of need, so I selected ‘Somewhat true for me’.'])
+('14', ['directly_mention', "Not at all true for me###The post specifically mentions having no friends and feeling that everyone leaves them, indicating that they are not close to other people. Thus, I selected 'Not at all true for me'."])
+('15', ['indirectly_mention', "Somewhat true for me###The post mentions spending New Year's alone in bed, which implies a lack of satisfying interactions. However, it does not explicitly state whether there have been any satisfying interactions recently."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a strong sense of loneliness, feeling unloved and abandoned by others, and a belief that the people in their life would be better off without them. These feelings indicate a risk of thwarted belongingness, which is a key factor in the development of certain mental health problems, such as depression and suicidal ideation.
+

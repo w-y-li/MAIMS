@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Been feeling detached all my life from everything that make people happy. Not even drugs and alcohol. Also I've been giving less and less fucks about everything. Birthday? Don't care. Christmas? Big deal. New Year's Eve? Just fuck it. I'm supposed to have the time of my life now, but all I have are constant compulsive suicidal thoughts, loneliness/isolation issues, not being able to etc.) So here I sit in the dark, in front of the screen, listening to depressing music, feeling absolutely nothing, but this endless amount of dread and despair from the future. /rant  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of detachment, loneliness, isolation, and not caring about things that typically bring happiness. The mention of constant compulsive suicidal thoughts and despair about the future suggests a sense of hopelessness and potential risk of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  My own fucking problems aren't enough anymore. I've gotten so used to my shitty life and the thought of wanting to die that I can't cry anymore when I'm depressed. But crying helps. It comforts me and most of the time I feel better afterwards. So every time I'm in my bed and want to cry, I browse this sub. Some of the stories on here are just so sad that I can't help myself. It's weird. I know. And I kinda feel like thanking you but that would seem out of place since you're just here to find help too. I don't even know why I'm posting this here. I just wanted to tell someone and my friends don't give a fuck.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of being a burden on others and perceiving that friends don't care. This suggests a risk of perceived burdensomeness, which is often associated with suicidal ideation and depression.
+

@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Hi I don't know what the hell is going on. Today I have woken up becouse of my phone clock. I turn first of them off and went to sleep again. I'm always set few clocks to have 100% chance of woke up. After 3 clocks I turn every single one off. I don't wanna get up. I wanna just lie in my bed for all day but after few minutes i get up. I feel extremely stressed and bad. I don't have any tests today and anything that could stress me so what the hell? Why am I feeling this way? When i'm in school nothing bad I think that would happen happened but I still feel bad. Even through ppl talk to me, nothing bad happen I feel worse and worse. Then I have suicide thoughts. Realy big. Actually I may do this, there are so big if they haven't ended after some time. They and bad mood ended when I have nice conversation with friend about makeing cover of Sepultura song. I suddenly stop feel bad and feel happy for few minutes. The thoughts ended but after I came back to my house, when I'm alone I feel bad again. What the hell is happening to me? Someone on /r/suicidewatch write that I may suffer from depression. What are you thinking about this?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'Somewhat true for me###The post mentions suicide thoughts and feeling bad when alone. These indicate a negative self-perception, which indirectly suggests that the poster may believe that people would be happier without them.'])
+('2', ['indirectly_mention', 'Somewhat true for me###The post mentions suicide thoughts and feeling bad when alone. These indicate a negative self-perception, which indirectly suggests that the poster may believe that the people in their life would be better off without them.'])
+('3', ['directly_mention', 'Somewhat true for me###In the post, I mentioned having thoughts of suicide, which suggests that I may feel like a burden on society.'])
+('4', ['directly_mention', 'Somewhat true for me###In the post, I mentioned having thoughts of suicide, which suggests that I may believe my death would be a relief to the people in my life.'])
+('5', ['indirectly_mention', 'Somewhat true for me###In the post, the poster mentions feeling extremely stressed and bad for no apparent reason. This could indicate a belief that they are making things worse for the people in their life, even though there is no specific event mentioned. Therefore, I believe it is somewhat true for me.'])
+('6', ['indirectly_mention', 'Very true for me###The poster mentions having suicide thoughts and feeling extremely bad when they are alone. This suggests that they may believe the people in their life wish they could be rid of them, as they feel isolated and unsupported. Therefore, I believe it is very true for me.'])
+('7', ['directly_mention', 'Not at all true for me###The poster expresses feeling bad and stressed, and mentions having suicidal thoughts. This suggests that other people may not be showing care towards the poster.'])
+('8', ['indirectly_mention', 'Not at all true for me###The poster describes feeling bad and stressed, and mentions having suicidal thoughts, which can indicate a lack of belonging and connection to others.'])
+('9', ['indirectly_mention', "Somewhat true for me###The post mentions feeling stressed and bad, even when nothing bad is happening. This suggests a lack of support or care from others, which aligns with the option 'Somewhat true for me.'"])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding the number of caring and supportive friends the poster has, so I cannot make a deduction or answer the question."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling stressed and bad, even though nothing bad has happened. This could indicate a sense of disconnection from others, as the poster does not mention having any support or understanding from friends or peers.'])
+('12', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like an outsider, as the poster mentions feeling disconnected and expresses thoughts of suicide. This suggests a possible sense of isolation and not fitting in social gatherings.'])
+('13', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything about having people to turn to in times of need."])
+('14', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything about being close to other people."])
+('15', ['indirectly_mention', 'Very true for me###In the post, I mentioned that after having a nice conversation with a friend about making a cover of a song, I suddenly stopped feeling bad and felt happy for a few minutes. This indicates that I had a satisfying interaction, which suggests that I have at least one satisfying interaction every day.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to questions on perceived burdensomeness indicate that they feel like a burden on society, that their death would be a relief to the people in their life, and that they make things worse for the people in their life. These thoughts and feelings suggest a risk of perceived burdensomeness.
+

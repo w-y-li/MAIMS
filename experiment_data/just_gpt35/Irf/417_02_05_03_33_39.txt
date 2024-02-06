@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  8 months ago, the love of my life left me. I put everything I had into salvaging the relationship, but in the end even offering to uproot my whole life for her, it wasn't enough. I sunk really low, but I had a friend who helped me through it and did everything in his power to help me out. I went to theropy for a bit but found it far more stressful than useful, so I turned to self help books. I started to think more positively, have a bit, more confidence in my self, and felt like I genuinely self improved. That countied until a few days ago. I got rejected by someone I really cared about, and it didn't go well. After farther reflection, I haven't made progress on any of the goals I set to fix myself, even though I put in all my effort. My little confidence I gained is shattered. For the last few days, I have though about sueicde a lot, to the point where I don't go into work anymore because there is no point. That friend I had has moved up in life, to the point where I feel if I reach out to him I will just be a burden anyways. I am not close to my family at all, and if they knew I was depressed they would tell me to suck it up. I don't believe in religion, it's likely we live in a computer simulation so nothing will matter if I go. I am going to die alone, so why wait for it to happen naturally?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling like a burden to their friend and family, as well as contemplating suicide because they believe they will die alone and there is no point in living.
+

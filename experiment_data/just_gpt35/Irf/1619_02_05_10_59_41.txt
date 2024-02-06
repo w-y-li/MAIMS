@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I really don't know what to do all I want to do right now is just sit alone with no one around me and just cry like why does life have to be this terrible why and why did this have to happen to me why am I only so dumb so stupid and just useless I don't want to be like this i hate it but i don't know what to do  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of worthlessness, self-blame, and a desire to be alone and cry. These thoughts and emotions indicate a potential risk of perceived burdensomeness, which is often associated with depression and suicidal ideation.
+

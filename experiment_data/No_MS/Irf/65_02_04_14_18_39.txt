@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  and things get really bad so that i can finally kill myself. I'm so sick of not able to kill myself because there is always this voice saying it's not that bad and not having enough courage because things are not that bad. There is no point anymore in trying so hard every year when nothing gets better. I'm so tired of living like this and waiting for nothing. And happy new year to everyone with mental illness and i hope this year turn out to be great for you all.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of burden and the belief that the individual is a burden to others. They express feeling tired of living and waiting for nothing, indicating a perceived lack of worth or value in their existence.
+
+Correct
+Ensure to use direct evidence from the post to support your conclusions about mental health risk factors. Avoid reading into statements without clear support from the text. Continue to consider the context and seek tangible connections between feelings expressed and concepts like perceived burdensomeness without assuming unstated negative traits.

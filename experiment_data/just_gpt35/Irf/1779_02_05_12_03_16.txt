@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  A lot of the trouble I have is I've been down so bad for so long I don't even know what to do with myself and I start ruminating and feeling shitty. I can't keep myself frantically busy all day obviously, but the moment I stop my brain takes off into bad territory and digs up bad stuff. Help?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a pattern of feeling down for a prolonged period of time and experiencing rumination and negative thoughts. These symptoms suggest a risk of perceived burdensomeness, where the poster may feel overwhelmed by their own struggles and believe that they are a burden to others.
+

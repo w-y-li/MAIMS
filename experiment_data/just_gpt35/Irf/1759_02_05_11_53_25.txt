@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  This may seem irrelevant to depression but I‚Äôm looking for people who are gamers and have any of the platforms I ask because I‚Äôve been trying to find decent friends and I would like to start trying again I haven‚Äôt had any luck t doesn‚Äôt have to be gaming related just preferred I I just would like to find decent friends  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post doesn't indicate any risk of perceived burdensomeness. The poster is simply expressing a desire to find friends who share similar interests, specifically in gaming. There is no indication of feeling like a burden on others in this post.
+

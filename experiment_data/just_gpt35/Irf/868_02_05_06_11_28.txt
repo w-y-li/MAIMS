@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I honestly feel worthless for the millionth time. I always fuck up everything and never amount to anything special. I just feel like a fucking toy to everyone. My relationships are shit and so am I.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, loneliness, and a perception of being treated as a toy by others. These feelings suggest a lack of belongingness, leading to a risk of thwarted belongingness.
+

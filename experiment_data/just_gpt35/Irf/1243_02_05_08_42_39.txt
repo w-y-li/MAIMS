@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I‚Äôve been feeling the exact same way for years. I get momentary feelings of happiness and then they just disappear. I have little to no energy anymore and I‚Äôm not excited to talk to anyone. I don‚Äôt think any of my friends care about me and I can‚Äôt depend on my family for any support. I‚Äôm on a waiting list for a mental health service but it‚Äôs going to take a while but I don‚Äôt know how long I can keep feeling like this. I got my first job the other day and although I‚Äôve met some nice people, I still feel like shit. My parents think I‚Äôm instantly cured because of the fact I‚Äôm now working but in truth I‚Äôm thinking about just ending it all. Nothing is going to change or help. Sorry.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of hopelessness, low energy, lack of support, and contemplating ending it all. These are indicators of perceived burdensomeness, which is a risk factor in mental health.
+

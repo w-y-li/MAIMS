@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Sigh.... i was so pumped for this day, was gonna meet some old colleges (been working out and losing weight since i saw most of them last time) And was gonna meet a girl i had feelings for but who rejected me, and i was gonna show them my best side. Now the party got cancelled and i got no other plans..... So 2017 ends in depression and chinese food instead.... i hate everything :(  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of disappointment and sadness due to the cancellation of plans and the individual not having any other plans. This perceived loss and lack of alternative options suggest a potential risk of perceiving oneself as a burden to others.
+

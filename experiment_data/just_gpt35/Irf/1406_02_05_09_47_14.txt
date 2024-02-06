@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm a college student off on winter break, which means I have a lot of spare time on my hands. When I have nothing to do my depression gets 100x worse. My parents do not understand that it is hard for me to get up when there is no point to. Why would I get up when I don't have school to attend? Anyway, I was having an episode a couple of weeks ago and wanted to go home. My mother said to me   why would you want to go home? All you do is sleep anyway, it's not like you have anything to do . I am 19 years old and have alot of time left in school, which means I have a lot of time before I move out. How do I deal with my parents lack of understanding while getting the support I need? I'm not sure how to deal with this.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the individual feels a lack of understanding and support from their parents, which can contribute to a sense of thwarted belongingness.
+

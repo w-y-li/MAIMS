@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Everything is just a matter of going through the motions, why do I bother even going through them? I realize everyday I am a more hollow person as everyday passes. Nobody even cared enough to wish me a happy new year, not a single family member or friend. Why does everyone shun me? I'm not an unkind person, I try to always go out of my way yet nothing is reciprocated ever. I don't see myself making it to 2019 at this rate. I don't care about anything at this point, I just need a way out of this. I need a way out of daily despair and anguish as to why nobody wants to spend any time trying to talk to me at all.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of isolation, loneliness, and a lack of connection with others. The poster feels shunned and believes that nobody wants to spend time talking to them. This indicates a risk of thwarted belongingness, which is the feeling of not being valued or accepted by others.
+

@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Stuck living with my parents because I can't afford to leave The idea of living here forever because I can't make much more than minimum wage makes me feel suicidal.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of hopelessness, worthlessness, and suicidal thoughts, which are indicative of depression.
+
+Correct
+Remember not to generalize or extrapolate beyond the presented information. Continue to focus on specific details provided in the post, such as overt expressions of suicidal thoughts and feelings associated with hopelessness. Always consider the immediate context and stay grounded in the actual content of the post when determining mental health symptoms.

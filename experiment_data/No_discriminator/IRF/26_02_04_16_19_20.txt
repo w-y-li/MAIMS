@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I want the attention at least. Stabbing some human trash or just suicide by cop I think I should turn myself to the police. I'm going insane  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Very true for me###The post directly mentions that the people in his life would be better off if he were gone and that he is considering suicide by cop. This indicates a strong belief that the people in his life would be happier without him.'])
+('2', ['directly_mention', 'Very true for me###The post directly mentions that the people in his life would be happier without him and that he wants attention or is considering turning himself into the police. This indicates a strong belief that his presence only brings unhappiness to others.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention feeling like a burden on society or thinking that one's death would be a relief to others. The content of the post suggests feelings of despair, instability, and a desire for attention, but it does not directly address these specific questions."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention thinking that one's death would be a relief to others. Although the post talks about feeling like going insane and potentially wanting to turn oneself into the police, it does not directly address feeling that one's death would bring relief to others."])
+('5', ['indirectly_mention', "Somewhat true for me###The post mentions feeling like 'human trash' and wanting attention. This suggests a possible belief that people in the poster's life wish they could be rid of them."])
+('6', ['indirectly_mention', "Somewhat true for me###The post mentions feeling like 'human trash' and thinking about making things worse for people. This indicates a possible belief that the poster makes things worse for the people in their life."])
+('7', ['directly_mention', 'Somewhat true for me###The post states that the person wants attention, indicating a desire for others to care about them, but not necessarily believing that others currently care about them.'])
+('8', ['not_mention', 'Does not mention at all.###The post does not provide any information or indication about the person feeling like they belong or not.'])
+('9', ['directly_mention', 'Very true for me###The post mentions feeling like human trash and wanting attention, which suggests a lack of interaction with caring people.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information about having caring and supportive friends."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling disconnected from other people and having thoughts of suicide. These feelings and thoughts indicate a possible sense of detachment and disconnection from others, which aligns with feeling disconnected from other people.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling like an outsider in social gatherings."])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling the need for attention and wanting to turn to the police, which implies a desire for some form of help or support. This suggests that the person may feel that there are people they can turn to in times of need, although not necessarily to the extent of it being very true for them.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication of being close to other people, so it cannot be determined whether it is true or not for the individual."])
+('15', ['indirectly_mention', "Somewhat true for me###The post mentions feeling insane, which implies a mental state that could potentially affect the individual's daily interactions. However, it does not explicitly mention having satisfying interactions. Based on the mention of feeling insane, it is possible that the individual's daily interactions may be affected negatively, hence the judgment of 'Somewhat true for me'."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The responses to the mental scale questions indicate that the poster perceives themselves as a burden to society, believes they make things worse for the people in their life, and rarely interacts with people who care about them. Additionally, they express feelings of disconnection and isolation from others. These thoughts and feelings suggest a risk of thwarted belongingness, as the individual perceives a lack of social support and connection, which can contribute to suicidal ideation or self-destructive behaviors.
+

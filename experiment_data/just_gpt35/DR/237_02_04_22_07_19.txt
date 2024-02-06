@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  i should stop complaining i should stop complaining and shut the fuck up. or maybe the thoughts should shut the fuck up. i don’t deserve any of the happiness i have left. i don’t deserve any of the kindness i’ve gotten in the past. i’m a piece of shit. i want to desperately stop existing but i don’t want to leave my boyfriend behind. i think i’m lying to myself half of the time anyway. one moment i’m self loathing, the other i’m not. does that mean i’m just unstable? unstable and stupid? am i over-exaggerating? because i don’t think it’s a big deal that i cut myself and i want to die.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's negative self-perception, lack of self-worth, feelings of not deserving happiness or kindness, wanting to stop existing, and engaging in self-harm are indicative of depressive thoughts and behaviors.
+

@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I wish drugs weren't a temporary solution  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The post expresses a desire for drugs not to be a temporary solution, which suggests the existence of a problem. This can be linked to the feeling of sadness, as drugs are sometimes used as an escape or coping mechanism for sadness.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding the person's feelings about their future or their overall pessimism."])
+('3', ['not_mention', '###'])
+('4', ['not_mention', '###'])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The post mentions drugs as a temporary solution, which suggests that the person might feel guilty about using drugs as a coping mechanism.'])
+('6', ['indirectly_mention', 'I do not feel I am being punished.###The post only mentions drugs as a temporary solution and does not provide any indication of feeling punished.'])
+('7', ['indirectly_mention', 'I have lost confidence in myself###The post expresses a wish for drugs not to be a temporary solution. This suggests that the poster may have previously relied on drugs for some kind of relief or support, which could have led to a loss of confidence in themselves.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to self-accusations or blaming oneself."])
+('9', ['indirectly_mention', 'I cry more than I used to.###The post implies that drugs are being used as a temporary solution for something. This suggests that the person might be experiencing some emotional distress that is causing them to cry more than they used to.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the presence or absence of suicidal thoughts or wishes."])
+('11', ['indirectly_mention', 'I am so restless or agitated that it is hard to stay still.###The post mentions that drugs are a temporary solution, implying that the person may be seeking a solution for agitation and restlessness.'])
+('12', ['indirectly_mention', 'I have lost most of my interest in other people or things.###The post suggests that the person is seeking an alternative to drugs, implying a loss of interest in other people or activities that may have been affected by drug use.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything about indecisiveness or making decisions."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling worthless or self-worth."])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post mentions drugs as a temporary solution, which implies that the person is using drugs to cope with their energy levels. This suggests the possibility of having less energy than they used to have.'])
+('16', ['indirectly_mention', 'I have not experienced any change in my sleeping pattern.###The post does not directly mention changes in sleeping patterns, but it implies that the person is seeking alternatives to drugs. Since changes in sleeping patterns are not mentioned, it can be inferred that the person has not experienced any change in their sleeping pattern.'])
+('17', ['directly_mention', 'I am no more irritable than usual.###The post mentions that drugs are a temporary solution. It does not indicate any change in irritability.'])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything about appetite or changes in appetite."])
+('19', ['indirectly_mention', 'I can not concentrate as well as usual.###The post mentions drugs as a temporary solution, which implies that the person is likely experiencing some difficulties that require medication. As drugs can affect concentration, it is reasonable to assume that the person is experiencing difficulties in concentrating.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post mentions drugs as a temporary solution, suggesting that the person may be experiencing fatigue or tiredness as a result of their current situation. This implies that their energy levels have decreased, affecting their ability to engage in activities they used to do.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the person's interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers indicate several symptoms of depression, such as feeling sad much of the time, feeling guilty, loss of interest in people or things, feeling restless or agitated, having less energy, difficulty concentrating, and feeling tired or fatigued.
+

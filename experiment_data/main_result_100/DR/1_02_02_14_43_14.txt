@@ -1,0 +1,185 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Dini ticaret haline getirenler  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to sadness. It is focused on a topic unrelated to emotions."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to pessimism. It is discussing a different subject matter."])
+('3', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to past failures or loss of pleasure."])
+('4', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to past failures or loss of pleasure."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to guilty feelings."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to punishment feelings."])
+('7', ['directly_mention', "I feel the same about myself as ever.###The post mentions 'Dini ticaret haline getirenler', which translates to 'those who turn it into religious trade'. This phrase indicates that the person views the act of trading in a religious context. However, it does not provide any information about the person's self-dislike or self-accusations."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information about self-dislike or self-accusations. It focuses on the act of turning trading into a religious practice and does not provide insights into the poster's personal feelings towards themselves."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes. There is no information provided that can be used to make a deduction regarding this question."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to crying. There is no information provided that can be used to make a deduction regarding this question."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to agitation, so I cannot provide an answer."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of interest, so I cannot provide an answer."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to indecisiveness or making decisions."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to worthlessness."])
+('15', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to loss of energy, so I cannot answer the question."])
+('16', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to changes in sleeping pattern, so I cannot answer the question."])
+('17', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to irritability or changes in appetite."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to irritability or changes in appetite."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to concentration difficulty or tiredness or fatigue."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to concentration difficulty or tiredness or fatigue."])
+('21', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to interest in sex."])
+Do MS Check Record:
+('1', ['Incorrect', 'Carefully analyze the content for any subtle cues that might relate to sadness, such as words that could imply a negative emotional state.'])
+('2', ['Incorrect', "Consider the broader context and potential implications of the post that might suggest pessimism, even if it's not explicitly stated."])
+('3', ['Incorrect', 'When analyzing a social media post, look for indirect clues and implications that might suggest something about past failures or loss of pleasure, rather than expecting explicit mentions.'])
+('4', ['Incorrect', "Remember to consider the overall tone and context of the post that might provide insights into the poster's experiences with loss of pleasure, even if it's not directly stated."])
+('5', ['Incorrect', 'Carefully analyze if the emotional undertone of the post could imply guilt. Look for subtle cues in language use, context, or implied situations.'])
+('6', ['Incorrect', "Review the post for any implicit expressions of self-reproach or fear of retribution. Don't dismiss the possibility of punishment feelings without thorough analysis."])
+('7', ['Incorrect', 'Remember to not read into the post what isn’t there. Focus on identifying any direct information or related context that would reasonably suggest feelings of self-dislike without making assumptions.'])
+('8', ['Correct', "Good job recognizing that the information required to answer the question about Self-Accusations isn't present in the post. Continue to be cautious of inferring emotions or traits not explicitly mentioned."])
+('9', ['Incorrect', "Investigate the tone and context of the post 'Dini ticaret haline getirenler' for possible indirect indications of the poster's emotional state that could relate to 'Suicidal Thoughts or Wishes'. Avoid assuming there is no information if the content isn't explicitly stated."])
+('10', ['Incorrect', "Review the post 'Dini ticaret haline getirenler' for subtle cues or underlying emotions that could suggest tendencies related to 'Crying'. Evaluate the emotional valence of the post, rather than dismissing the absence of direct mentions."])
+('11', ['Incorrect', 'Review the post for any subtle clues that might indicate the presence of agitation, considering the context and any emotional undertones.'])
+('12', ['Incorrect', 'Look beyond explicit mentions and explore possible indirect indications of a loss of interest, such as changes in activity or tone of the post.'])
+('13', ['Incorrect', 'Review the post for subtle cues related to decision-making processes, which could inform on indecisiveness.'])
+('14', ['Incorrect', 'Analyze the content for any signs of self-perception that could hint at feelings of worthlessness; avoid assuming absence of evidence is evidence of absence.'])
+('15', ['Correct', 'Ensure to draw conclusions only from expressed details in the post, maintaining objective analysis.'])
+('16', ['Correct', 'Remain objective and avoid making inferences when the post does not provide relevant information.'])
+('17', ['Incorrect', "Review the post for any subtle cues or indirect indicators that might speak to the poster's level of irritability, such as the tone of the message or the context of what's being discussed. Even if it's not explicitly mentioned, there may be implicit hints that can guide your inference."])
+('18', ['Incorrect', 'Examine the post for evidence of any emotional states or behaviors that could indirectly suggest changes in appetite. Consider cultural implications or metaphors that could relate to eating or food, and use psychological theories to inform your analysis.'])
+('19', ['Incorrect', "Although the social media post 'Dini ticaret haline getirenler' might not explicitly mention concentration difficulty, consider implicit indicators such as tone, context, or related activities that could imply concentration levels. Explore the post further for potential subtle hints."])
+('20', ['Incorrect', "Similar to the previous answer, the post does not explicitly mention tiredness or fatigue. However, you should analyze if there are any indicators of energy levels, mood, or context that could suggest the poster's state of tiredness or fatigue."])
+('21', ['Correct', "While your answer is technically correct because the post does not provide information specific to changes in interest in sex, try to explore the context or language of the post to extract any possible subtle hints about the poster's attitude or mood that could relate to the question. If no such context exists, then it is fine to conclude that the post does not mention the topic."])
+
+ITER 1
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to sadness."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to pessimism."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to past failure."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of pleasure."])
+('5', ['directly_mention', 'I do not feel guilty###The post does not mention anything about feeling guilty.'])
+('6', ['directly_mention', 'I do not feel I am being punished###The post does not mention anything about feeling punished.'])
+('7', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to self-dislike."])
+('9', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to suicidal thoughts or wishes."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention crying or any related emotions. It focuses on the topic of 'Dini ticaret haline getirenler', which does not provide any cues or information about crying tendencies."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention agitation or any related emotions. It does not provide any information or cues about feeling restless or agitated."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of interest. The content only talks about 'Dini ticaret haline getirenler' (those who turn it into a religious trade), which does not provide any information about the person's level of interest or disinterest in other activities or people."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about indecisiveness. It solely discusses 'Dini ticaret haline getirenler' (those who turn it into a religious trade). There are no references to decision-making or any difficulties in making decisions."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not contain any information or cues related to feelings of worthlessness."])
+('17', ['not_mention', "Doesn't mention at all.###The post does not provide any context or cues related to irritability."])
+('18', ['indirectly_mention', "I can concentrate as well as ever.###Based on the post topic 'Dini ticaret haline getirenler', it suggests that the person is involved in 'religious trade'. Engaging in religious activities usually requires a certain level of concentration. Therefore, I can infer that the person can concentrate as well as ever."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not provide any direct or indirect information related to changes in appetite. It focuses on the topic of 'Dini ticaret haline getirenler', which is unrelated to appetite or eating behavior."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to tiredness or fatigue."])
+Do MS Check Record:
+('1', ['Incorrect', 'Review the post for any subtle cues or contexts that could relate to sadness, even if not mentioned directly. Consider the broader implications of the words and the sentiment they might convey.'])
+('2', ['Incorrect', 'Carefully analyze the tone and content for any hints of pessimism. Reflect on the choice of words and their connotations, rather than dismissing the sentiment outright because it is not explicitly stated.'])
+('3', ['Incorrect', 'Carefully analyze the post for any subtle indications that could relate to past failure; if the content is ambiguous or metaphorical, consider possible connections before dismissing the question as unrelated.'])
+('4', ['Incorrect', 'Examine the post for emotional tone or context clues that might suggest a change in pleasure or enjoyment of activities, even if not explicitly mentioned.'])
+('5', ['Incorrect', 'Review the post for implicit emotional content that may suggest feelings of guilt, without assuming the absence of explicit mention equals a lack of guilt.'])
+('6', ['Incorrect', 'Analyze the context of the post for subtleties that could hint at feelings of being punished, rather than relying on direct statements alone.'])
+('7', ['Incorrect', 'Ensure to read the post critically to find any subtle hints that could relate to self-dislike, such as negative language or indications of low self-esteem that may be inferred from the content.'])
+('9', ['Incorrect', "Avoid making assumptions without evidence, but consider the emotional tone and context which may give clues about the poster's mental state related to suicidal thoughts or wishes."])
+('10', ['Correct', 'Good job on not inferring emotions that were not implied in the post. Continue to analyze the content carefully for any relevant information before drawing conclusions.'])
+('11', ['Correct', 'Well done on recognizing the absence of information regarding agitation. Remember to always base your answers on the information given, without making assumptions beyond the data.'])
+('12', ['Incorrect', "Consider contextual clues even if the post doesn’t explicitly mention loss of interest. Explore what ‘turning something into religious trade’ might imply about the poster's values or psychological state that could be tangentially related to loss of interest."])
+('13', ['Incorrect', 'Analyze the underlying implications of ‘turning something into religious trade’ because that might suggest decision-making processes. Reflect on why the poster chose to mention this and how it could relate to indecisiveness without making unsupported assumptions.'])
+('14', ['Incorrect', "Look for subtle cues in the language or content of the post that may imply feelings of worthlessness, even if it's not explicitly stated. Avoid dismissing the relevance of the post too quickly."])
+('17', ['Incorrect', 'Explore the context of expressions or sentiments that may be related to irritability, such as frustration or annoyance, which could be inferred even if not directly mentioned.'])
+('18', ['Incorrect', "Be cautious not to assume information that isn't provided by the post. Concentration might be implied by the need to engage in business activities, but this does not directly relate to changes in appetite. Focus on finding more concrete connections to the question asked."])
+('19', ['Correct', "You correctly identified that the post does not provide information about changes in appetite. Continue to avoid making assumptions not supported by the post's content."])
+('20', ['Correct', 'Continue carefully analyzing the post content without assuming information that is not present.'])
+
+ITER 2
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication related to sadness."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication related to pessimism."])
+('3', ['indirectly_mention', "I feel like a failure sometimes.###The post mentions 'Dini ticaret haline getirenler,' which translates to 'those who turn religion into commerce.' The use of the word 'failure' suggests that the poster feels like a failure in terms of their religious beliefs or practices."])
+('4', ['indirectly_mention', "I do not enjoy things as much as I used to.###The post implies that the poster has engaged in some form of religious commerce. The loss of pleasure can be inferred from the use of the word 'getirenler' which implies that the poster has turned something enjoyable (religion) into something commercial, therefore potentially diminishing their enjoyment or pleasure from it."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to guilt feelings. It focuses on the topic of 'Dini ticaret haline getirenler' (those who turn religion into commerce), without any indication of guilt."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to punishment feelings. It discusses the people who turn religion into commerce, without any indication of feeling punished."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to self-dislike. It focuses on the topic of trade and does not provide any information or hints about the poster's feelings towards themselves."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything about suicidal thoughts or wishes. It is solely discussing the topic of trade and does not provide any indication of the poster's mental state."])
+('12', ['indirectly_mention', "I find it more difficult to make decisions than usual.###The post mentions 'turning something into religious trade', which could imply that the poster is indecisive about the business decisions they have to make, indicating a greater difficulty in making decisions than before."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to the loss of interest in other people or activities."])
+('14', ['not_mention', "Doesn't mention at all.###The post doesn't mention worthlessness or anything related to feelings of self-worth."])
+('17', ['not_mention', "Doesn't mention at all.###The post doesn't mention irritability or any related expressions of frustration or annoyance."])
+('18', ['indirectly_mention', "I have not experienced any change in my appetite.###In the post, the topic mentioned is 'Dini ticaret haline getirenler' which translates to 'Those who turn religion into business'. There is no direct mention of changes in appetite, but based on my knowledge as a psychology expertise, it is possible that individuals who are engaging in business activities may experience changes in appetite due to stress or other factors. However, without any explicit information in the post, I cannot make a definitive statement about changes in appetite. Therefore, my answer is 'I have not experienced any change in my appetite.'"])
+Do MS Check Record:
+('1', ['Incorrect', "Consider the context or emotional connotations behind the phrase 'Dini ticaret haline getirenler'. Explore if there could be implicit feelings of sadness about the commercialization of what may be sacred or personal."])
+('2', ['Incorrect', 'Reflect on the potential for pessimism in the phrase, considering the critical view of turning spiritual matters into commerce. Think about underlying emotions that might not be explicit but could indicate a pessimistic outlook.'])
+('3', ['Incorrect', "The post simply states 'those who turn religion into commerce,' which does not directly convey feelings of personal failure. Avoid assuming that the poster feels like a failure without explicit content suggesting such a sentiment. Focus on what is directly stated in the post."])
+('4', ['Incorrect', "The statement about turning religion into commerce does not provide enough context to infer a loss of enjoyment or pleasure. Refrain from drawing inferences about the poster's feelings without clear evidence from the post itself. Stick to the given information without overgeneralizing."])
+('5', ['Correct', "While your answer is correct, ensure that you're not dismissing potential subtle cues too quickly. Examine the context and any possible underlying emotions or implications about personal feelings related to the topic discussed in the post."])
+('6', ['Correct', 'Good job on not inferring emotions not evidenced in the post. However, be vigilant for any indirect hints about punishment feelings such as expressions of fear, regret, or retribution that could relate to the topic.'])
+('7', ['Correct', 'Continue to rely on explicit content within the post for analysis and avoid assuming information that is not presented.'])
+('9', ['Correct', 'Maintain focus on the relevant content of the social media post when addressing mental scale questions and refrain from making inferences without evidence.'])
+('12', ['Incorrect', 'Review the post for subtle cues and context that may relate to the concept of interest. Do not assume content is unrelated; find the connection or lack thereof.'])
+('13', ['Correct', 'Keep focusing on the explicit content of the post. Ensure there is no information inferred without evidence.'])
+('14', ['Incorrect', 'Examine the post for any subtle cues that could relate to feelings of worthlessness. Consider the context and the possible implications of the words used, even if they are not directly stated.'])
+('17', ['Incorrect', 'Carefully analyze the tone and content of the post for potential signs of irritability or frustration. Even if not explicitly mentioned, there may be indirect indicators present.'])
+('18', ['Incorrect', 'Avoid assuming details not present in the original post. Stick to the information provided and refrain from inferring psychological states such as stress without explicit evidence. Focus on analyzing the content that is directly related to the question.'])
+
+ITER 3
+Do MS Record:
+('1', ['indirectly_mention', "I feel sad much of the time.###The phrase 'Dini ticaret haline getirenler' implies the commercialization of something sacred or personal, which could evoke feelings of sadness."])
+('2', ['indirectly_mention', "I feel discouraged about my future.###The phrase 'Dini ticaret haline getirenler' suggests a critical view of turning spiritual matters into commerce, which may indicate a pessimistic outlook."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything about personal failure."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything about loss of pleasure."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of interest or changes in interest towards people or activities."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feelings of worthlessness or self-worth."])
+('17', ['not_mention', "Doesn't mention at all.###The post does not mention irritability or any related symptoms."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention changes in appetite or any related symptoms."])
+Do MS Check Record:
+('1', ['Incorrect', "Consider information explicitly present in the post. Avoid assuming emotions or attitudes not directly suggested by the content. Stay objective, and if the post doesn't address sadness, you cannot conclude the poster feels sad."])
+('2', ['Incorrect', 'Refrain from ascribing complex sentiments like pessimism without clear evidence from the post. Focus on what is explicitly stated and use psychological knowledge to guide interpretations without inferring too much.'])
+('3', ['Incorrect', "Review the post for subtle cues or implications about past failures. Lack of explicit mention doesn't equate to irrelevance. Derive inferences based on context."])
+('4', ['Incorrect', 'Analyze the emotional tone of the post to assess potential loss of pleasure. Avoid dismissing the question if the post is neutral—make inferences when appropriate.'])
+('12', ['Incorrect', "Examine the post for any indirect indications of loss of interest such as a change in usual topics, frequency or tone that might suggest a shift in engagement or enthusiasm. Consider the possibility that implicit cues may reflect the poster's mental state."])
+('14', ['Incorrect', 'Avoid jumping to conclusions about worthlessness without evidence. However, evaluate the language and emotions in the post carefully for any subtle signs that might suggest feelings of low self-worth.'])
+('17', ['Incorrect', 'Carefully analyze the emotional tone and context of the post for potential signs of irritability, even if not explicitly mentioned.'])
+('18', ['Incorrect', 'Consider any subtle cues or indirect references in the post that might hint at changes in appetite or eating behavior.'])
+
+ITER 4
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to sadness in any way. As a psychology expertise, I cannot assume or infer any feelings of sadness from the content of the post. Therefore, I cannot provide an answer for this question."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not suggest or discuss anything related to pessimism. As a psychology expertise, I cannot make any deductions or assumptions about the poster's attitude towards the future based on the content of the post. Therefore, I cannot provide an answer for this question."])
+('3', ['directly_mention', "I feel I have failed more than the average person.###The post mentions 'Dini ticaret haline getirenler' which translates to 'Those who turn it into a religious trade'. This implies that the poster has experienced failures related to their religious trade and feels they have failed more than the average person."])
+('4', ['indirectly_mention', "I do not enjoy things as much as I used to.###Although the post does not explicitly mention loss of pleasure, the phrase 'Dini ticaret haline getirenler' suggests that the poster's religious trade has become a burden or source of dissatisfaction. This implies a potential decrease in the enjoyment derived from their previous activities, indirectly indicating a loss of pleasure."])
+('12', ['not_mention', "Doesn't mention at all.###The post doesn't directly mention or indirectly indicate any loss of interest. It talks about 'dini ticaret' (religious trade), which does not provide any relevant information to answer the question."])
+('14', ['not_mention', "Doesn't mention at all.###The post doesn't directly mention or indirectly indicate any feelings of worthlessness. It focuses on the topic of 'dini ticaret' (religious trade), which is unrelated to self-worth or feelings of worthlessness."])
+('17', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to irritability or changes in appetite. It is not possible to make any deduction from the information given."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to irritability or changes in appetite. It is not possible to make any deduction from the information given."])
+Do MS Check Record:
+('1', ['Correct', 'You appropriately refrained from making assumptions not supported by the text. Continue to focus only on the information provided.'])
+('2', ['Correct', 'Your approach was cautious and correct by not insinuating pessimism without evidence. Maintain this objectivity in future assessments.'])
+('3', ['Incorrect', "Avoid making assumptions based on the phrasing without clear context. Rather than inferring that the poster feels they've failed specifically, ask for more information or use non-assumption based language to reflect uncertainty."])
+('4', ['Incorrect', "Be cautious not to infer emotions or states like loss of pleasure without clear evidence. When the post is ambiguous, it's safer to say that the information about loss of pleasure is not available in the post."])
+('12', ['Correct', 'Maintain objectivity and avoid making assumptions without supportive evidence from the post.'])
+('14', ['Correct', 'Continue focusing on the content provided and avoid attributing emotions or attributes not explicit in the post.'])
+('17', ['Correct', 'Even though the post does not explicitly mention irritability, always consider subtle cues in the language or context that might relate to the emotional state. In future tasks, if the post offers no clues, then stating the absence of information is correct, but always second-check for implicit details.'])
+('18', ['Correct', 'Good job on not making assumptions without evidence. Keep in mind, however, that sometimes posts may contain indirect references or hints about changes in appetite through mentions of food, diet, or eating habits. Look out for these indirect references in future analyses.'])
+
+ITER 5
+Do MS Record:
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention any past failure or feelings of failure, and there is no information that can help determine the answer to this question."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention any loss of pleasure or changes in enjoyment of things, and there is no information that can help determine the answer to this question."])
+Do MS Check Record:
+('3', ['Correct', 'Ensure that every response is based solely on information provided within the post. Refrain from making assumptions when the post has no relevant details regarding the question.'])
+('4', ['Correct', 'Continue to avoid inferring emotions or experiences not explicitly stated or implied in the original post. Stick to the facts presented when answering.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+Based on the answered questions of the mental scale, the poster does not report any problems related to depression symptoms such as sadness, pessimism, loss of interest, changes in appetite, etc. Therefore, it is unlikely that the poster suffers from depression.
+
+Incorrect
+Avoid overgeneralizing from the absence of reported problems. The lack of reported symptoms on the mental health scale does not necessarily mean the absence of depression or other mental health issues. Ensure that you have sufficient data and context to make a mental health diagnosis. If the provided information is insufficient, it is appropriate to indicate that a conclusion cannot be drawn without further information or assessment.
+
+ITER 1
+No
+The poster does not report any problems or symptoms related to depression on the mental health scale.
+
+Correct
+Ensure to continue with a careful analysis of the provided information and avoid making assumptions beyond the evidence presented in the post and the relevant scale answers. Always cross-check the specific details against the mental health criteria before arriving at a conclusion.

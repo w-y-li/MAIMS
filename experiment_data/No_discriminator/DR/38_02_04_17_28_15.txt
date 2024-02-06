@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  That orange message-notification... It makes me happy, wanted, feeling like I belong. I love comments because I feel so alone in all of this. Even if the comment didn't help a lot, I feel like I'm not alone. Oh god I'm so miserable. EDIT: No its not a cry for attention or likes or upvotes. I sincerely feel good when I see the people of /r/depression commenting on my posts, and I love commenting on theirs. A mutual feeling of belonging...  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time###The poster mentions feeling alone, miserable, and a mutual feeling of belonging, which suggests a negative emotional state.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future###The poster mentions feeling alone, miserable, and a mutual feeling of belonging, which indicates a lack of hope for the future.'])
+('3', ['indirectly_mention', 'I do not enjoy things as much as I used to###In the post, I mentioned that I feel alone and miserable. This suggests that I may not be experiencing the same level of pleasure from the things I used to enjoy.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to past failures."])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###The post mentions that the person feels alone and miserable, which could lead to feelings of guilt. Additionally, the person states that they feel like a burden or that they are not good enough, indicating guilt.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything about punishment feelings."])
+('7', ['directly_mention', "I dislike myself.###The poster mentions feeling miserable and feeling alone, which suggests a negative perception of oneself. This aligns with the option 'I dislike myself'."])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The poster mentions loving comments and feeling alone. This indicates a desire for validation and connection, which can lead to increased self-criticism and self-blame as the individual seeks explanations for their struggles and feelings of loneliness.'])
+('9', ['directly_mention', 'I have thoughts of killing myself, but I would not carry them out.###The post mentions feeling miserable and alone, which indicates the possibility of having thoughts of killing oneself. However, the poster explicitly states that they would not carry out these thoughts.'])
+('10', ['directly_mention', 'I cry all the time now.###The post mentions feeling miserable, which often leads to an increase in crying. The poster states that they feel alone and are seeking support through comments, emphasizing their heightened emotional state.'])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The poster mentioned feeling agitated and restless, which indicates a higher level of restlessness.'])
+('12', ['directly_mention', 'I have lost most of my interest in other people or things.###The poster explicitly stated that they feel alone and that comments make them feel less alone, suggesting a loss of interest in other people or activities.'])
+('13', ['indirectly_mention', 'I make decisions about as well as ever.###The post mentions feeling happy and wanted when receiving comments, which suggests that the individual still has the ability to make decisions. Therefore, I make decisions about as well as ever.'])
+('14', ['indirectly_mention', 'I do not feel I am worthless.###The post mentions feeling alone and miserable, but does not directly mention worthlessness. However, the individual states that receiving comments makes them feel less alone, which indicates that they do not feel entirely worthless.'])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post mentions feeling miserable and the need for comments to feel like they are not alone, which suggests a possible decrease in energy levels. However, the post does not explicitly mention a specific energy level, so I can deduce that the energy level is less than what it used to be.'])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###The post implies feelings of misery and a need for comments to feel a sense of belonging. These feelings may indicate difficulty falling or staying asleep, although the post does not provide specific information about changes in sleeping patterns. Based on the mentioned emotions, I can deduce that the poster may be experiencing some disruption in their sleep patterns, resulting in less sleep than usual.'])
+('17', ['directly_mention', 'I am more irritable than usual.###The post mentions feeling miserable, which indicates a negative emotional state. This is often associated with increased irritability.'])
+('18', ['directly_mention', 'My appetite is somewhat less than usual.###The post mentions feeling alone and miserable. It is common for individuals experiencing these emotions to have a decrease in appetite.'])
+('19', ['indirectly_mention', 'I find I can not concentrate on anything.###The post mentions that the commenter feels alone and miserable. Feeling alone and miserable can often cause difficulty in concentration.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post mentions feeling miserable, which can often lead to fatigue and a lack of energy or motivation to do things that used to be enjoyable.'])
+('21', ['indirectly_mention', 'I have noticed a recent change in interest in sex.###The post mentions that the person feels alone and miserable. These feelings can often lead to a decrease in interest in sex, indicating a possible change in interest.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the poster's responses to the questions of the mental scale, they indicate symptoms of depression such as sadness, pessimism, loss of pleasure, guilt feelings, self-dislike, self-accusations, suicidal thoughts or wishes, crying, agitation, loss of interest, loss of energy, changes in sleeping pattern, irritability, changes in appetite, concentration difficulty, tiredness or fatigue, and changes in interest in sex.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Hey guys, this is my first post in a long time back on reddit because I quit for awhile to try and sort myself out. Well life has hit me really hard again lately, so here I am. I‚Äôm just wondering if any of you can relate to never being excited as a kid? Or like things that were supposed to excite you made you anxious/embarrassed? For instance, I hated going on vacations with my family. I did not find them fun at all. I hated going to amusement parks and field trips because everyone around me would be having so much fun and I just couldn‚Äôt. I rarely got excited on any holiday except a little bit on Christmas because it was the only time of year when everything around me seemed to calm down and people seemed to be genuinely nice to each other. I never thought my birthday was a big deal and never wanted parties, even though I had a good amount of friends. I just feel like this isn‚Äôt normal for a kid and maybe I am actually clinically depressed, BUT I AM NOT LOOKING FOR A DIAGNOSIS.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of excitement as a child and feeling out of place during activities that are meant to be enjoyable. This suggests a sense of disconnection and possibly a feeling of not belonging, which aligns with the concept of thwarted belongingness.
+

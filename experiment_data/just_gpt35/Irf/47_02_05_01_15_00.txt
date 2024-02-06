@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I've recently started a blog where I'm posting my poetry and other thoughts on depression, anxiety, and life. Does anyone else blog about their depression? This is my blog, feel free to check it out: misunderstoodmammal.com  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a potential risk of perceived burdensomeness as the poster mentions blogging about their depression and anxiety, suggesting that they may feel burdensome to others and are seeking validation or support through their blog.
+

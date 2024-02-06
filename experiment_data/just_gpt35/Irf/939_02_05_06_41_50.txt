@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I don't know how can I explain what I'mfeeling rn. All i know is just im all alone in this life. Im useless. No matter how hard i try, im always just not good enough. Not a good friend. Not a good daughter.not a good person. Just sucks that no one wants and needs ur presence. Just want to disappear  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of worthlessness, being a burden, and a desire to disappear, which are indicative of perceived burdensomeness.
+

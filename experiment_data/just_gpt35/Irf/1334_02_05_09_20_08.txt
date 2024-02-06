@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm finally going in for a check up with an actual psychiatrist soon for my depression. I'm researching into the different kinds of antidepressants and found that Wellbutrin seemed best fit for my case except for the issue of it causing a person to become more anxious? Has wellbutrin worsened your anxiety/make you more anxious? I have depressive episodes where I can't get out of bed, feel numb towards emotions, want to be left alone/don't want to talk to people, unproductive. But I also feel like I have high anxiety? But the anxiety usually comes as a result as the unproductiveness (i.e. late/rushed assignments).  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of isolation, a desire to be left alone, and difficulty in social interactions, which are indicative of thwarted belongingness. This is commonly associated with depression.
+

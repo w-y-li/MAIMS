@@ -1,0 +1,88 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  [I'm not seeking any medical advice, just want to know if anyone has had similar experiences] I've just started taking Lexapro for moderate depression and anxiety. For the first week I was prescribed 5mg, 10mg thereafter. It's been two days and I have this mild feeling like I'm on ecstasy/MDMA. My body feels light and I have this weird concentration of energy above my neck at the back of my head. Has anyone felt this/experienced this?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the question about the people in the poster's life being better off if they were gone."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the question about the people in the poster's life being happier without them."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling like a burden on society or thinking one's death would be a relief to others."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling like a burden on society or thinking one's death would be a relief to others."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about how the people in my life feel about me or if they want to be rid of me."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything about making things worse for the people in my life."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to other people caring about the poster."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling like the poster belongs."])
+('9', ['indirectly_mention', "Not at all true for me.###Although the post does not directly mention whether the person interacts with people who care about them these days, it does indicate that the person is seeking advice and support from others by asking if anyone else has had similar experiences. This suggests that they may be interested in connecting with others who can relate to their situation, indicating that they may value interacting with people who care about them. However, without further information, it's difficult to determine the frequency or quality of their interactions with caring individuals."])
+('10', ['indirectly_mention', 'Somewhat true for me.###The post indirectly mentions that the person is seeking advice and support from others by asking if anyone else has had similar experiences with taking Lexapro. Although it does not explicitly state whether they have many caring and supportive friends, the fact that they are actively seeking input from others suggests that they value the support and companionship of friends to some degree.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention feeling disconnected from other people or being an outsider in social gatherings. The focus of the post is on the side effects of taking Lexapro."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention feeling disconnected from other people or being an outsider in social gatherings. The focus of the post is on the side effects of taking Lexapro."])
+('13', ['not_mention', "Doesn't mention at all.###The post doesn't discuss relationships or interactions with other people, therefore it doesn't mention either of the questions."])
+('14', ['not_mention', "Doesn't mention at all.###The post doesn't discuss relationships or interactions with other people, therefore it doesn't mention either of the questions."])
+('15', ['directly_mention', "Somewhat true for me###The post describes the poster's experience with a new medication. Sharing the feeling of being on ecstasy/MDMA suggests that the poster is having an intense and pleasurable experience, which could be interpreted as a satisfying interaction."])
+Do MS Check Record:
+('1', ['Correct', 'Continue paying close attention to the content of the post to ensure you only provide relevant information in your response.'])
+('2', ['Correct', 'Remain objective and avoid making assumptions that are not based on the provided social media post.'])
+('3', ['Correct', "Keep focusing on the content of the post without inferring beyond the provided information. However, be cautious not to dismiss potential implicit cues about the poster's state of mind."])
+('4', ['Correct', "Continue to avoid making assumptions about the poster's feelings without textual evidence. Ensure to consider the entire context of the post if relevant information is present."])
+('5', ['Incorrect', "Explore the emotional state expressed in the post, such as feeling 'light' or like being on 'ecstasy/MDMA', as this suggests some changes in self-perception due to medication which could affect interpersonal relationships. Answer the question by formulating a hypothesis based on this change in state."])
+('6', ['Incorrect', "Consider that experiencing moderate depression and anxiety, as mentioned in the post, could impact the person's social life. Reflect on how these conditions may cause someone to speculate about their effect on others. Use this insight to inform a more nuanced response."])
+('7', ['Correct', 'Good job on not making assumptions beyond the content of the post. However, to enhance your analysis, consider the context and whether such feelings described could imply anything about social support or connections.'])
+('8', ['Correct', 'You accurately refrained from inferring information not present in the post. For future tasks, think about how the mentioned symptoms might correlate with a sense of belonging without making assumptions.'])
+('9', ['Incorrect', "Ensure to analyze the post thoroughly without making assumptions about the poster's social interactions that aren't implied. Stick to the information provided without inferring beyond what is given."])
+('10', ['Incorrect', 'Avoid assuming the presence of supportive friends without clear evidence in the post. Focus on what is directly posted and do not extend the interpretation beyond the factual content.'])
+('11', ['Correct', 'This is a correct deduction. Continue to look for explicit information in the post that relates to mental scale questions.'])
+('12', ['Correct', 'You correctly identified the lack of information regarding social connectedness. Remember to differentiate between emotional states caused by medication side effects and broader social feelings.'])
+('13', ['Correct', 'Even though your answer is correct, see if there are any subtle cues in the post that might inform us about the poster’s social relationships to provide a more comprehensive role-play response.'])
+('14', ['Correct', "While correct, try to analyze if the poster's experience with the medication could indirectly affect their social closeness and use this to inform a more nuanced answer."])
+('15', ['Incorrect', 'Do not assume that unusual sensory experiences equate to satisfying social interactions. Focus on the literal content regarding social engagement as opposed to interpreting the physical sensations as interactions.'])
+
+ITER 1
+Do MS Record:
+('5', ['indirectly_mention', "Somewhat true for me###The post mentions that the person is taking Lexapro for moderate depression and anxiety. This suggests that they may have feelings of being a burden on others, leading to the belief that the people in their life wish they could be rid of them. However, since the post does not explicitly state this, I will choose 'Somewhat true for me' as a response."])
+('6', ['indirectly_mention', "Somewhat true for me###Based on the mention of taking Lexapro for depression and anxiety, it is possible that the person may feel that their presence makes things worse for the people in their life. However, since the post does not explicitly state this, I will choose 'Somewhat true for me' as a response."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to interacting with people who care about the poster. The focus of the post is on the side effects of taking Lexapro, not on social interactions."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having caring and supportive friends. The main topic is the feelings and experiences related to taking Lexapro, not the poster's social network."])
+('15', ['indirectly_mention', 'Not at all true for me###The post mentions taking Lexapro for moderate depression and anxiety. While it does not directly mention having satisfying social interactions, it indirectly suggests that the person may not be having satisfying interactions due to their current mental state.'])
+Do MS Check Record:
+('5', ['Incorrect', "Ensure that your inferences are strictly drawn from the content of the post. Avoid making assumptions about the poster's thoughts or how others view the poster unless it's directly mentioned."])
+('6', ['Incorrect', 'Focus on the information given, rather than what you might assume based on general symptoms of depression and anxiety. Stick to what the poster has explicitly stated.'])
+('9', ['Correct', 'Continue to distinguish between the content of the social media post and the questions asked. Remember, only infer information that can be directly derived from the post.'])
+('10', ['Correct', "Well done on not making assumptions about the poster's social life outside what is mentioned. Continue to focus on the specifics of the post when forming answers to the questions."])
+('15', ['Incorrect', "Avoid assuming that the use of antidepressants directly equates to a lack of satisfying social interactions. Instead, analyze the content for explicit or tangential references to the poster's social experiences."])
+
+ITER 2
+Do MS Record:
+('5', ['directly_mention', "Not at all true for me.###The post directly mentions the question by stating, 'I've just started taking Lexapro for moderate depression and anxiety.' This indicates that the person is seeking relief from their symptoms and therefore does not believe that the people in their life wish they could be rid of them."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything that can be used to deduce whether the person thinks they make things worse for the people in their life or not."])
+('15', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything about interactions or social experiences."])
+Do MS Check Record:
+('5', ['Incorrect', 'Review the post for specific emotional content before inferring how the poster believes others perceive them. There is no information provided in the post to suggest how others view the poster; stick to what is presented without assuming.'])
+('6', ['Correct', 'Maintain objectivity and avoid making inferences that are not supported by the content of the post. If the post does not mention the question, it is appropriate to refrain from making assumptions not supported by evidence.'])
+('15', ['Incorrect', 'Although the post does not explicitly mention satisfying interactions, it is reasonable to infer that someone sharing their experiences on social media is seeking interaction. Consider the act of posting as a form of communication and potential for satisfying interaction. Assess the sentiment of the content to infer the possibility of satisfying interactions.'])
+
+ITER 3
+Do MS Record:
+('5', ['indirectly_mention', "Somewhat true for me###The post mentions that the person is taking Lexapro for moderate depression and anxiety, which suggests they may be feeling down and possibly experiencing negative emotions. However, since the post does not directly mention the question, I can only infer that the statement 'I have this mild feeling like I'm on ecstasy/MDMA' could indicate some level of social disconnection or feeling unwanted by others, leading to a somewhat true response."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not provide any information that can be used to determine whether the person has satisfying interactions every day. There is no discussion of their social interactions or relationships in the post."])
+Do MS Check Record:
+('5', ['Incorrect', "Avoid making assumptions about feelings of disconnection or being unwanted without clear evidence. Focus solely on what is explicitly mentioned in the post. Stay objective. No indication of others' perceptions of the poster was given."])
+('15', ['Correct', 'Well done on not making assumptions beyond the information provided in the post. You correctly identified that the post did not mention social interactions.'])
+
+ITER 4
+Do MS Record:
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the perception or wishes of others towards the poster. It only asks if anyone has experienced similar symptoms while taking Lexapro."])
+Do MS Check Record:
+('5', ['Incorrect', "Review the post and try to infer cautiously from the poster's experience with Lexapro, considering factors like changes in mood, side effects, and self-focus, without assuming information not provided."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show any indication of risk of thwarted belongingness. The individual's concerns are focused on the physical effects of the medication and whether others have experienced similar symptoms, rather than feelings of disconnection or lack of social support.
+
+Correct
+Continue carefully differentiating between the poster's description of physical sensations due to medication and the potential for psychological symptoms. It's important to base your analyses on explicit information provided rather than making assumptions.

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Um, so I'm 13 and I have depression and anxiety, but I'm only on medication for anxiety until I get my depression medication later. So, recently, I feel like my depression has been making me dumber. I can't remember how to spell anything and I struggle to hear what people are trying to tell me and what it means. I can't do school work good anymore, which worry's me. I was one of the best in my class at english work, but now I'm failing because it's getting to difficult to spell and interpret things. I don't know what to do..  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of isolation, distress, and difficulty in social interactions, which are consistent with the risk of thwarted belongingness. The poster mentions struggling with school work and feeling dumb, indicating a potential lack of support and connection in both academic and social contexts.
+

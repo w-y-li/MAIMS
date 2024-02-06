@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I start to get my shit together, do good by eating and exercise for a couple weeks, start to feel good, then fall right back to depression. Im so tired of this. I keep doing self destructive things. What do i do  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a cycle of feeling good and then falling back into depression, accompanied by engaging in self-destructive behaviors. This suggests a pattern of inconsistent emotional well-being and self-sabotaging actions, which can be indicative of thwarted belongingness, a risk factor for mental health issues.
+

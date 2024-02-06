@@ -1,0 +1,92 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  When will this inescapable wait ever end? I feel as though this is never ending and nothing good will ever come out of it. I’m underserving. I have both a long-term mental illness and a long-term physical illness. One’s willpower is limited. I struggle everyday both physically and mentally/emotionally. It’s been years. My physical illness affects my mental illness and vice versa but they are offend uncontrollable! I suffer from chronic low self-esteem due to my illnesses. I don’t know I just feel hopeless and helpless. My willpower feels drained. I don’t know how much longer I can keep holding on. It’s not holding on that’s difficult. What’s difficult is holding on when there may be no meaning to it. What if I hold on with all my will and I find out there’s nothing to it. My whole life would’ve just been meaningless suffering. I keep trying but sometimes it’s really hard and I’m scared and lonely.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time###The post mentions feeling hopeless, helpless, scared, and lonely, which are commonly associated with sadness. Therefore, I can deduce that I feel sad much of the time.'])
+('2', ['indirectly_mention', 'I feel the future is hopeless and that things cannot improve###The post mentions feeling hopeless and uncertain about the meaning of holding on. This indicates a sense of pessimism about the future and a belief that things cannot improve.'])
+('3', ['directly_mention', "I feel I have failed more than the average person.###The post mentions 'I suffer from chronic low self-esteem due to my illnesses', which indicates that the person feels like a failure."])
+('4', ['directly_mention', "I get very little pleasure from the things I used to enjoy.###The post mentions 'I struggle everyday both physically and mentally/emotionally. It’s been years.' This suggests that the person does not enjoy things as much as they used to."])
+('5', ['directly_mention', 'I feel quite guilty most of the time.###In the post, I mention that I suffer from chronic low self-esteem due to my illnesses. Chronic low self-esteem is often associated with feelings of guilt and inadequacy, so it can be inferred that I feel guilty most of the time.'])
+('6', ['indirectly_mention', "I feel I may be punished.###Although I don't directly mention feeling punished, I express feelings of hopelessness and helplessness. These feelings are often associated with a sense of being punished or undeserving. Therefore, it can be deduced that I feel I may be punished."])
+('7', ['directly_mention', 'I dislike myself.###The post directly mentions chronic low self-esteem due to my illnesses.'])
+('8', ['directly_mention', 'I blame myself for everything bad that happens.###The post directly mentions being scared and lonely, which can lead to self-accusations.'])
+('9', ['directly_mention', 'I have thoughts of killing myself, but I would not carry them out.###The post mentions feeling hopeless, helpless, scared, and lonely, which are indicators of having suicidal thoughts or wishes. However, the post does not indicate a desire to actually carry out these thoughts.'])
+('10', ['directly_mention', 'I cry more than I used to.###The post mentions struggling physically and mentally/emotionally, feeling hopeless and helpless, and experiencing chronic low self-esteem. These are all factors that can contribute to increased crying.'])
+('11', ['indirectly_mention', 'I am so restless or agitated that I have to keep moving or doing something.###The post mentions feeling restless and struggling every day, both physically and mentally/emotionally. This suggests a high level of agitation and restlessness.'])
+('12', ['indirectly_mention', 'It is hard to get interested in anything.###The post implies a sense of hopelessness, helplessness, and low self-esteem. These thoughts and feelings can often lead to a loss of interest in activities and people.'])
+('13', ['indirectly_mention', "I have greater difficulty in making decisions than I used to.###The post mentions that one's willpower is limited and the poster struggles both physically and mentally/emotionally. This implies that the poster may have greater difficulty in making decisions compared to before."])
+('14', ['directly_mention', 'I feel more worthless as compared to other people.###The post explicitly states that the poster suffers from chronic low self-esteem. This indicates that the poster may feel more worthless compared to other people.'])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###In the post, I mentioned that I struggle everyday both physically and mentally/emotionally. This indicates that I do not have enough energy to do very much.'])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###Although I did not explicitly mention changes in sleeping pattern, I mentioned that I find it hard to hold on and that I am scared and lonely. These emotions and difficulties can often lead to insomnia, which would indicate that I sleep somewhat less than usual.'])
+('17', ['indirectly_mention', 'I am much more irritable than usual.###The post mentions feeling hopeless, helpless, scared, and lonely, which are all indicative of emotional distress and can lead to increased irritability.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions chronic low self-esteem and feeling hopeless, which can affect appetite and result in a decreased desire for food.'])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###The post mentions struggling both physically and mentally, which suggests difficulty in concentration as a result of the long-term illnesses.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post mentions physical and mental struggles, as well as feeling drained and experiencing chronic low self-esteem due to the illnesses. These factors indicate increased tiredness and fatigue leading to the inability to engage in previously enjoyed activities.'])
+('21', ['directly_mention', 'I have almost no interest in sex.###In the post, I mentioned that I struggle everyday both physically and mentally/emotionally. This indicates that my mental and physical illnesses have a significant impact on me. Given this, it is likely that my interest in sex has decreased or almost disappeared due to the challenges and difficulties I face on a daily basis.'])
+Do MS Check Record:
+('1', ['Correct', 'Ensure that you continue to draw conclusions based on explicit statements and emotional descriptions in the post, avoiding assumptions not supported by the text.'])
+('2', ['Correct', "Good deduction of pessimism from the expressions of hopelessness. Maintain careful consideration of the language used to accurately reflect the poster's emotional state."])
+('3', ['Correct', "Ensure that the analysis remains rooted in the explicit content of the post. Explore other dimensions of 'past failure' that could be included based on the given information."])
+('4', ['Correct', "Examine other areas of life where loss of pleasure may manifest, and maintain a clear link between the post's content and your inferences."])
+('5', ['Correct', 'Ensure that inferences about feelings of guilt are clearly tied to specific content or context within the post, avoiding overgeneralization.'])
+('6', ['Correct', 'Continue to use the emotions expressed in the post, such as hopelessness and helplessness, to infer related feelings like the sense of being punished, but be cautious to not infer specifics that go beyond the scope of the provided information.'])
+('7', ['Correct', 'Continue to accurately interpret the explicit details within posts that relate to the questions. Great job connecting the expressed low self-esteem to self-dislike in this case.'])
+('8', ['Incorrect', 'While the post does convey negative emotions, be cautious not to overgeneralize these feelings as self-accusations. Stick to the information given, and avoid assumptions that extend beyond the evidence provided in the post.'])
+('9', ['Incorrect', 'Review the post for direct or indirect mentions of suicidal thoughts. Do not infer beyond what is presented; the post suggests feelings of hopelessness and helplessness but does not explicitly mention suicidal thoughts. Respond based on explicit content and acknowledged feelings without assuming unstated intentions or thoughts.'])
+('10', ['Correct', 'Ensure that inferences made align with the emotional content of the post. The mention of chronic low self-esteem, hopelessness, and emotional struggles supports the inference that the poster might cry more often. Continue to use such context to inform your interpretations.'])
+('11', ['Correct', 'Ensure the distinction between direct and indirect references to emotions or behaviors is clear in future responses to maintain accuracy.'])
+('12', ['Correct', 'Keep being attentive to implied feelings that the poster may not have explicitly mentioned, drawing reasonable conclusions grounded in psychological theory.'])
+('13', ['Correct', 'Keep in mind the importance of context and nuances of language to accurately infer mental states without overextending beyond the given information.'])
+('14', ['Correct', 'Good job on identifying direct statements related to self-worth from the post. Continue to draw from explicit mentions while being cautious not to infer additional, unsupported details.'])
+('15', ['Correct', 'Ensure that when inferring based on the post, the deduction is justifiable and remains closely related to the expressed thoughts and feelings. Keep providing evidence from the post to support your answers.'])
+('16', ['Incorrect', "Avoid making assumptions about aspects that aren't mentioned or implied in the post, such as sleeping patterns. Since sleep was not discussed, focus on the information given and do not infer beyond the content provided related to the question asked."])
+('17', ['Incorrect', "Avoid making assumptions about symptoms that aren't explicitly mentioned in the post. Focus on what is directly conveyed, such as feelings of hopelessness and helplessness, rather than extrapolating symptoms like irritability."])
+('18', ['Incorrect', 'Be cautious about inferring changes in appetite without evidence from the post. Look for direct references to eating habits or appetite changes rather than assuming based on other conditions.'])
+('19', ['Correct', 'Ensure that when inferring indirect information, it relates logically to the content and tone of the post, as done appropriately in this instance.'])
+('20', ['Correct', 'Continue to draw reasonable conclusions based on the emotional state and experiences shared in the post, being careful to avoid overextending beyond what is implied.'])
+('21', ['Incorrect', "Do not insert information that is not implied in the post. Instead, indicate that the post doesn't provide enough details to determine changes in the individual's interest in sex and discuss potential ways this could relate to the issues they do express."])
+
+ITER 1
+Do MS Record:
+('8', ['directly_mention', 'I am more self-critical or blaming than usual.###The post mentions that the poster suffers from chronic low self-esteem due to their illnesses, which indicates that they are more self-critical or blaming than usual.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention any specific thoughts of killing oneself. The feelings of hopelessness and helplessness described do not directly indicate suicidal thoughts or wishes."])
+('16', ['not_mention', "Doesn't mention at all.###The post does not mention any changes in sleeping pattern."])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post mentions feeling hopeless, helpless, scared, and lonely, which can contribute to increased irritability.'])
+('18', ['directly_mention', "My appetite is much less than before.###The post states, 'My physical illness affects my mental illness and vice versa but they are often uncontrollable!' This suggests that the physical illness is impacting the mental state, which could include appetite changes."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication related to changes in interest in sex."])
+Do MS Check Record:
+('8', ['Incorrect', "Review the post to identify expressions of self-perception. Although the poster does express low self-esteem, it's important to differentiate between self-critical feelings and explicit self-accusations. Look for direct statements that show the poster is blaming themselves for specific situations or failures."])
+('9', ['Correct', 'Continue to differentiate between expressions of hopelessness and direct suicidal ideation. While the poster expresses feelings of hopelessness, you correctly noted the absence of explicit suicidal thoughts or wishes. Always exercise caution and avoid inferring beyond the information given.'])
+('16', ['Incorrect', 'Review the post carefully for potential indicated symptoms; absence of explicit mention requires careful consideration but not assumption of inclusion.'])
+('17', ['Correct', 'Good job recognizing the emotional distress that could suggest irritability; ensure inferences are supported by post content and psychological knowledge.'])
+('18', ['Correct', 'Good analysis on linking the physical and mental illness to changes in appetite. Continue to use evidence from the post to support your inferences.'])
+('21', ['Correct', 'You correctly identified that the post did not mention changes in interest in sex. Remember to only infer based on mentioned or strongly implied content.'])
+
+ITER 2
+Do MS Record:
+('8', ['directly_mention', 'I criticize myself for all of my faults.###The poster expresses chronic low self-esteem due to their illnesses, which involves being self-critical and blaming themselves for their faults.'])
+('16', ['indirectly_mention', 'I have not experienced any change in my sleeping pattern.###The post mentions struggling physically and mentally every day, but there is no direct mention of a change in sleeping pattern. However, since the post does not indicate any specific alterations in sleep, it can be inferred that the sleeping pattern has not changed.'])
+Do MS Check Record:
+('8', ['Incorrect', 'Be attentive to the details of the post that communicate emotion and thought patterns without assuming they fully describe behaviors. While self-criticism is mentioned, it does not equate to admitting fault for all issues; focus on the provided information without overgeneralizing.'])
+('16', ['Correct', 'Good job avoiding over-inference; however, stay open to possible indirect implications about changes in patterns, like sleeping, that could be affected by the described struggles. Maintain this careful analysis, but also consider the broader context of the psychological state when it comes to routine functions.'])
+
+ITER 3
+Do MS Record:
+('8', ['directly_mention', 'I criticize myself for all of my faults.###The post directly mentions chronic low self-esteem due to illnesses, which implies self-criticism. The poster states feeling underserving, helpless, and hopeless, indicating a tendency to blame oneself for their situation.'])
+Do MS Check Record:
+('8', ['Correct', 'Continue to use the information provided in the post to analyze the mental state of the poster, ensuring that each response is grounded in the text. Avoid adding assumptions beyond what is evidenced.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to the mental scale questions indicate high levels of sadness, pessimism, loss of pleasure, guilt, self-dislike, self-accusations, worthlessness, loss of energy, irritability, changes in appetite, concentration difficulty, and tiredness or fatigue. These are all symptoms commonly associated with depression.
+
+Correct
+While your conclusion is correct in this case, always ensure to differentiate between the symptoms of the poster and any secondary characters mentioned in their narrative. Avoid overgeneralizing or inferring beyond the information provided. Pay close attention to the information given and base your conclusions strictly on the assessed symptoms and their consistency with diagnostic criteria.

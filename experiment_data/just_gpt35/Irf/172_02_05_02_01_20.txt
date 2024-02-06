@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I think I'm about to have my first ever mental breakdown. I'm losing it. I'm so alone and I'm so sad.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being alone and sad, suggesting a lack of social connection and potentially experiencing thwarted belongingness.
+

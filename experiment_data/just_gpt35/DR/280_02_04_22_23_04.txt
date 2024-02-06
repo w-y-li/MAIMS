@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Hello Hi, I just wanted to post a hi for some reason, I'm not having a good week, its a little bit bad week and I'm feeling sad, so hi!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster mentions that they are having a bad week and feeling sad, but feeling sad for a week does not necessarily indicate depression. It could be a temporary low mood or situational sadness.
+

@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Hi all, I have been struggling with the idea of being too greedy. I mean: I have people who love me (family, friends, partners, pets), I have a job with an acceptable salary, I have hobbies. Lately I haven't been feeling competent, but I know I am good in my job, and also that I am a good, nice, kind person who cares about others. So, what do I have to complain about? Why am I not satisfied? Why do I want more? Meh.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me###The post indirectly mentions the question by talking about feeling competent and being good in their job. This suggests a sense of self-worth and value, indicating that the people in their life would not be better off without them.'])
+('2', ['indirectly_mention', 'Not at all true for me###The post indirectly mentions the question by expressing the belief that they are a good, nice, kind person who cares about others. This implies that the people in their life would not be happier without them.'])
+('3', ['indirectly_mention', "Somewhat true for me###The post mentions feeling incompetent and not being satisfied, which suggests a level of self-doubt. This could lead to feeling like a burden on society and potentially thinking that one's death would be a relief for others."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about feeling like a burden on society or thinking that one's death would be a relief for others."])
+('5', ['indirectly_mention', 'Not at all true for me.###The post mentions that the individual has people who love them, and they consider themselves to be a good, nice, kind person who cares about others. This suggests that they do not feel like the people in their life wish they could be rid of them.'])
+('6', ['indirectly_mention', 'Not at all true for me.###The post indicates that the individual feels competent in their job and cares about others. This suggests that they do not believe they make things worse for the people in their life.'])
+('7', ['indirectly_mention', "Very true for me###Although the post doesn't directly mention that other people care about me, it implies that I have people who love me, such as family, friends, partners, and pets. Therefore, I feel that other people care about me, which is why my answer is 'Very true for me.'"])
+('8', ['indirectly_mention', "Not at all true for me###The post doesn't directly state whether I feel like I belong or not. However, it shows signs of self-doubt and dissatisfaction, which may indicate that I don't feel like I belong. Therefore, my answer is 'Not at all true for me.'"])
+('9', ['indirectly_mention', "Somewhat true for me###The post mentions that the person has people who love them, such as family, friends, partners, and pets. However, the person also states that they haven't been feeling competent lately. This suggests that they may be experiencing a lack of interaction with people who care about them, albeit indirectly."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any direct or indirect information about the number of caring and supportive friends the person has. Therefore, it cannot be determined if they are fortunate to have many such friends based on the given information."])
+('11', ['directly_mention', "Somewhat true for me###I mentioned feeling disconnected from other people in the post when I said that lately I haven't been feeling competent, but I know I am good in my job, and also that I am a good, nice, kind person who cares about others."])
+('12', ['indirectly_mention', "Not at all true for me###Although I don't explicitly say that I feel like an outsider in social gatherings, I do mention that I have people who love me like family, friends, partners, and pets. This suggests that I have a support system and social connections, so it is unlikely that I often feel like an outsider in social gatherings."])
+('13', ['directly_mention', 'Very true for me###The post mentions that the person has people who love them, such as family, friends, partners, and pets. This indicates that there are people they can turn to in times of need, suggesting that it is very true for them.'])
+('14', ['directly_mention', "Somewhat true for me###The post states that the person has people who love them, such as family, friends, partners, and pets. Although it doesn't specifically mention being close to these people, the presence of love and care suggests that it is somewhat true for them."])
+('15', ['directly_mention', 'Somewhat true for me###In the post, the poster mentions feeling competent and being good at their job, which implies that they have satisfying interactions in their work environment.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The responses to the questions on the mental scale indicate that the poster does not perceive themselves as a burden or believe that others would be better off without them. They recognize that there are people who care about them and they have supportive friends. Therefore, there is no evidence of a risk of perceived burdensomeness in the post.
+

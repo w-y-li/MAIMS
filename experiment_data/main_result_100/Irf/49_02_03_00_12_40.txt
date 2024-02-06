@@ -1,0 +1,177 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I was diagnosed with major depression Nov 2015, since then I have found out that I'm allergic to ssris and few other medications. I remember how I was long before I was officially diagnosed with depression and how I was when before I realized the depression symptoms set in before that summer and I honestly think that I will never be that person anymore. Due to some schedule mishaps, I missed taking my meds on a reg day basis and I felt the same off of them as I do on them. I'm back on them to therapeutic level and nothing. I get moments of excitement but they fade away into the background. I can't think of one thing that I'm happy about. The only really thing I care about is my job. That's it. I do it very well. I've been under the care of a psychiatrist for a year now and in therapy for 2 years. Just putting that out there.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The post directly mentions that the only thing the person cares about is their job. It indicates a lack of happiness and fulfillment in other areas of life, but does not suggest that the person believes others would be better off without them.'])
+('2', ['directly_mention', "Somewhat true for me###The post directly mentions that the person can't think of one thing they are happy about and expresses a lack of excitement and fading moments of happiness. While it does not explicitly state that the person believes others would be happier without them, it implies a sense of personal dissatisfaction that may extend to their impact on others."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to being a burden on society."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling that my death would be a relief to the people in my life."])
+('5', ['indirectly_mention', 'Not at all true for me###The post mentions feeling like a burden on others and wondering if people wish they could be rid of me. These thoughts indicate a possible belief that I may be unwanted or a burden, which aligns with the question.'])
+('6', ['indirectly_mention', 'Not at all true for me###The post mentions thinking that I make things worse for the people in my life. This indicates a self-perception of causing harm to others, which aligns with the question.'])
+('7', ['directly_mention', 'Somewhat true for me###The post mentions that the only thing the poster really cares about is their job. This suggests that they may not feel cared about by other people, indicating a lower level of caring from others.'])
+('8', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information or indication about whether the poster feels like they belong or not. It focuses mainly on their depression symptoms, medication, and job."])
+('9', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything about interacting with people who care about me."])
+('10', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything about having caring and supportive friends."])
+('11', ['indirectly_mention', "Somewhat true for me###The post mentions feeling disconnected from other people indirectly by stating that the person can't think of one thing that they are happy about and the only thing they care about is their job. This suggests a lack of fulfillment and connection in other areas of their life."])
+('12', ['indirectly_mention', "Very true for me###The post indirectly mentions feeling like an outsider in social gatherings by stating that the person is not happy about anything and only cares about their job. This suggests that they may feel disconnected and like they don't belong in social settings."])
+('13', ['directly_mention', "Not at all true for me.###I mentioned that I can't think of one thing that I'm happy about and the only thing I really care about is my job. This implies that I do not feel there are people I can turn to in times of need."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding the person's closeness to other people. It focuses more on their depression and medication."])
+('15', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person has moments of excitement but they fade away into the background. This implies that they do experience some level of satisfaction, albeit temporarily.'])
+Do MS Check Record:
+('1', ['Incorrect', "Avoid making assumptions that are not supported by the post's content. Focus on what is explicitly stated. The post does not suggest the person believes others would be better off without them. Your answer should reflect only the information given."])
+('2', ['Incorrect', "Do not infer more than what is provided in the post. While the individual expresses personal dissatisfaction, there's no clear indication that they believe others would be happier without them. Stay close to the text and avoid overgeneralizing feelings."])
+('3', ['Incorrect', 'Examine the language and sentiment of the post to infer possible feelings of self-worth. Consider how statements about not being happy and only caring about a job might relate to feelings of being a burden.'])
+('4', ['Incorrect', "Assess the mood conveyed in the post, like the lack of happiness about anything, and how it might imply feelings about one's presence in the lives of others, without over-inference."])
+('5', ['Incorrect', 'Review the post for direct evidence of beliefs about impacting others; avoid extrapolating beyond the given information.'])
+('6', ['Incorrect', "Focus on concrete statements rather than assumptions; the poster does not specifically mention worsening others' lives."])
+('7', ['Incorrect', 'Review the post for subtle cues about interpersonal relationships. The lack of mentioning personal connections other than job involvement could suggest a sense of disconnection from others. Consider the implications of the poster’s focus on work for their social relationships.'])
+('8', ['Incorrect', 'Assess possible implications of social belonging from the context of the post. The absence of personal or social content might reflect a feeling of isolation or lack of belonging. Try inferring cautiously based on the overall tone and content of the post, rather than assuming a complete lack of information.'])
+('9', ['Incorrect', "Review the post for implicit information about social connections or lack thereof, and consider the emotional tone when inferring about the poster's social interactions."])
+('10', ['Incorrect', 'Assess the post for any indirect references to friends or support systems, and avoid making assumptions without textual evidence.'])
+('11', ['Correct', 'Your analysis of the post content in relation to feeling disconnected is on point. Keep using subtle cues from the post to support your answers. Ensure you continue to distinguish between what is explicitly stated and what is implied, maintaining careful analysis.'])
+('12', ['Correct', "You've correctly identified that the poster might feel like an outsider due to the lack of mentioned social connections or interests besides work. Ensure each answer stays true to the content of the post and continue looking for implicit information to support your conclusions."])
+('13', ['Incorrect', "Consider the specific content of the post without inferring feelings not explicitly mentioned. The post does not directly state the poster's current support system or relationships. Focus on what is explicitly stated or can be reasonably inferred without overgeneralizing or projecting additional emotions onto the poster."])
+('14', ['Correct', "Good job identifying that the post does not mention the poster's social relationships. However, ensure that future answers avoid assuming information not presented, and leave room for the possibility that just because a detail is not mentioned, it does not necessarily mean it is non-existent."])
+('15', ['Incorrect', "Remember to analyze the content of the post rigorously. The person mentions only a transient excitement, not satisfying interactions. A satisfying interaction is one that contributes positively to one's day. The poster does not mention having interactions with others, only experiencing fleeting excitement. Inferring satisfying social interactions from this is an overreach. Focus on direct information provided."])
+
+ITER 1
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about how the people in the poster's life would be better off if they were gone."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything about how the people in the poster's life would be happier without them."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person feels like they will never be the same person again and that they have moments of excitement that fade away. This could imply feelings of being a burden on society. However, the post does not explicitly state this feeling.'])
+('4', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person cannot think of one thing they are happy about and that the only thing they care about is their job. This could imply that they feel their death would be a relief to the people in their life. However, the post does not directly state this feeling.'])
+('5', ['indirectly_mention', 'Somewhat true for me.###In the post, the poster mentions feeling like they will never be the person they were before the depression diagnosis. This suggests a belief that the people in their life may wish to be rid of them, although the strength of this belief is not explicitly stated. Based on this information, I conclude that the statement is somewhat true for the poster.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not contain any explicit mention or indication of making things worse for the people in the poster's life. Therefore, there is no information available to answer this question."])
+('7', ['indirectly_mention', 'Somewhat true for me###The post indicates a sense of disconnection from others, as the poster mentions not feeling happy and only caring about their job. This suggests a lack of personal connections and social support. Therefore, it can be deduced that other people caring about the poster is somewhat true for them.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information or cues about the poster's sense of belonging. There is no mention of personal relationships or social connections, so it cannot be determined if the poster feels like they belong or not."])
+('9', ['directly_mention', 'Somewhat true for me###The post mentions that the only thing the poster really cares about is their job, implying a lack of close relationships. This suggests that the poster rarely interacts with people who care about them.'])
+('10', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information regarding the existence of many caring and supportive friends. Therefore, I can't determine whether it is true or not based on the given text."])
+('13', ['directly_mention', "Not at all true for me###The poster explicitly says 'I can't think of one thing that I'm happy about'. This indicates that they do not feel there are people they can turn to in times of need, which aligns with 'Not at all true for me'."])
+('15', ['directly_mention', "Not at all true for me###The poster explicitly states 'I can't think of one thing that I'm happy about' and 'I get moments of excitement but they fade away into the background'. This suggests that they do not experience satisfying interactions every day, which aligns with 'Not at all true for me'."])
+Do MS Check Record:
+('1', ['Incorrect', 'Review the post for emotional cues and implications about self-worth that may relate to the question; avoid dismissing potential insights due to a lack of explicit statements.'])
+('2', ['Incorrect', 'Consider the overall emotional state of the poster and how their depressive symptoms might influence their perceptions of their relationships.'])
+('3', ['Incorrect', 'Avoid assuming information that is not provided in the post. Stick to the content and feelings that are clearly expressed. If the poster does not openly express feeling like a burden, do not infer it.'])
+('4', ['Incorrect', 'Do not infer extreme beliefs such as feeling their death would be a relief to others unless the poster mentions or hints at this. Look for direct indicators before drawing such conclusions.'])
+('5', ['Incorrect', 'Avoid inferring feelings of being unwanted when the post does not explicitly mention this sentiment. Keep analysis focused on the information given, and do not assume connections to the question when they were not brought up by the poster.'])
+('6', ['Correct', 'Good job on not making assumptions beyond the information given in the post. Continue to answer only based on what is clearly expressed by the poster without adding extra interpretations.'])
+('7', ['Incorrect', "Review the post for any indirect cues about interpersonal relationships and reflect on the possible implication of being under psychiatric care and therapy, which can indicate that there are people who care about the poster's well-being. Avoid assuming the absence of explicit statements means a certain feeling or situation doesn't exist."])
+('8', ['Incorrect', "Even if not explicitly mentioned, draw inferences from the poster's mention of their job as a central aspect of their life. This could suggest some level of belonging or connection in their professional sphere. Look for subtle hints within the post that might indicate feelings of belonging, rather than dismissing the question due to lack of explicit information."])
+('9', ['Incorrect', 'Review the post for implicit information about personal relationships, rather than direct mentions. Consider how emphasis on work might imply reduced interaction with others.'])
+('10', ['Correct', 'Continue to differentiate between what is stated and what is inferable. If the post does not provide information on a topic, it is correct not to assume it.'])
+('13', ['Incorrect', "Consider the specific content mentioned in the post and avoid drawing inferences that are not directly supported. Look for indications of social support rather than assuming none exists based on the poster's expression of unhappiness."])
+('15', ['Incorrect', 'Focus on differentiating between satisfaction in interactions and the fleeting moments of excitement mentioned by the poster. Not all excitement equates to satisfaction, so reconsider the basis for your conclusion about daily interactions.'])
+
+ITER 2
+Do MS Record:
+('1', ['directly_mention', "Not at all true for me###The post mentions that the only thing the poster cares about is their job. This suggests that the people in the poster's life would not be better off without them."])
+('2', ['directly_mention', "Somewhat true for me###The post mentions that the poster can't think of one thing that they are happy about, indicating some self-doubt and potential belief that others would be happier without them."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling like a burden on society."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything about believing that their death would be a relief to others."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about how the people in the poster's life feel about them or whether they wish to be rid of them."])
+('7', ['indirectly_mention', 'Somewhat true for me.###The post mentions that the only thing the poster really cares about is their job, indicating a lack of happiness or fulfillment in other aspects of their life. This suggests that the people in their life may not contribute to their overall happiness, leading to a possible feeling that others may wish to be rid of them to some extent.'])
+('8', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything about feeling like I belong or not."])
+('9', ['indirectly_mention', 'Somewhat true for me.###The post mentions that the only thing I care about is my job and that I do it very well. This emphasis on my job may suggest that I have a level of belonging or connection in my professional sphere, although it is not explicitly stated.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having people to turn to in times of need. It mainly focuses on the poster's experience with depression and medication."])
+('15', ['indirectly_mention', 'Somewhat true for me.###While the post does not directly mention having satisfying interactions every day, the poster mentions moments of excitement that fade away. This suggests that there may be interactions that bring some level of satisfaction, even though it might not be consistent or long-lasting.'])
+Do MS Check Record:
+('1', ['Incorrect', "Assess the information in the post more meticulously before concluding the post 'directly' addresses the question. Consider the content related to how the poster values their job without assuming it speaks to the impacts on others' lives. Refrain from making direct correlations without explicit evidence."])
+('2', ['Incorrect', "Avoid inferring answers to personal questions based on limited information about the poster's happiness. The post does not provide evidence on how others perceive or would perceive the poster's absence. Focus on what is explicitly mentioned rather than extrapolating beyond the available information."])
+('3', ['Incorrect', "Avoid dismissing content that's not explicitly mentioned; psychological states can be inferred from context. Analyze the feelings of hopelessness and lack of joy described, and cautiously infer whether these could contribute to a sense of being a burden."])
+('4', ['Incorrect', "Again, do not dismiss possibilities due to lack of explicit mention. Consider the depressive symptoms and life disruptions discussed. Reflect on how they might affect the poster's perceptions of their relationships and examine possible beliefs about being a relief in death without overreaching."])
+('5', ['Incorrect', "Do not assume the absence of information equates to it being unmentioned. Infer based on the poster's expressed feelings and how they might be perceived by others. A better approach might be to consider the poster's overall mood and interactions implied in the post."])
+('7', ['Incorrect', "Avoid making inferences that are not supported by the post. The poster's focus on their job does not provide enough evidence to suggest how others feel about them. Stick to the content provided and do not extrapolate beyond the available information."])
+('8', ['Incorrect', 'Explore the content of the post for subtle cues about social belonging, such as mentions of therapy or interactions with healthcare providers. Refrain from assuming a total lack of information when the post does not explicitly answer the question.'])
+('9', ['Correct', 'Good job identifying the implied sense of involvement in the workplace as a proxy for interactions that matter to the poster. Continue to look for indirect indications within the post to inform your answers.'])
+('13', ['Incorrect', "Re-examine the post for potential indicators of social support or lack thereof. Avoid assuming information is absent; look for subtle cues or the context that may suggest the poster's social connectivity."])
+('15', ['Incorrect', 'Do not infer positivity from neutral statements. Distinguish between fleeting moments of excitement and genuinely satisfying interactions which the post lacks clear evidence of.'])
+
+ITER 3
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The post mentions that the only thing I care about is my job, which suggests that the people in my life would not be better off without me.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the happiness of the people in the poster's life without them."])
+('3', ['directly_mention', 'Not at all true for me###The poster mentions that they care about their job, indicating that they still have a sense of purpose and value in society.'])
+('4', ['indirectly_mention', 'Somewhat true for me###The poster talks about feeling the same off their medication as they do on it, and expresses a lack of happiness or excitement in life. These statements suggest a possible belief that their presence may be burdensome to others.'])
+('5', ['indirectly_mention', 'Somewhat true for me###The poster mentions feeling like they will never be the person they were before, and how they have experienced a change in their personality due to depression. This suggests that they may believe people in their life may wish to be rid of them, indicating that the statement is somewhat true for the poster.'])
+('7', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication regarding how other people care about the poster. Therefore, it cannot be determined if other people care about the poster based on the given content."])
+('8', ['indirectly_mention', 'Somewhat true for me###The post mentions being under the care of a psychiatrist for a year and in therapy for 2 years. This suggests that there may be some sense of belonging as the person has a support system in place.'])
+('13', ['directly_mention', "Not at all true for me###The post explicitly states, 'I can't think of one thing that I'm happy about.' This suggests a lack of people or things that bring joy or happiness."])
+('15', ['directly_mention', 'Not at all true for me.###The post explicitly states "I can\'t think of one thing that I\'m happy about." This strongly indicates that the person does not have any satisfying interactions every day.'])
+Do MS Check Record:
+('1', ['Incorrect', "Review the content of the post to identify any indications of the poster's perceived value to others. The focus on the job may suggest a sense of responsibility or purpose; use this to inform your response."])
+('2', ['Correct', 'Continue to analyze what is explicitly stated in the post. Refrain from making assumptions about aspects that are not mentioned or implied in the provided content.'])
+('3', ['Incorrect', 'Review the post carefully for explicit statements related to the question. The poster did not indicate that they feel like a burden; instead, they take pride in their job. Avoid assuming feelings not explicitly stated.'])
+('4', ['Incorrect', 'Be cautious not to over-interpret or infer too much from what is not stated. While the poster expresses a struggle with emotions, they do not specifically mention feelings about death or being a relief. Focus on evidence-based conclusions.'])
+('5', ['Incorrect', "Examine the poster's direct statements about their relationships or feelings toward others. They discuss their condition and feelings but don’t provide clear comments regarding others’ perceptions of them. Avoid assuming relational dynamics that aren't explicitly stated."])
+('7', ['Correct', "While the post does not specifically mention how others care for the poster, it's accurate not to infer details that are not present. Continue to focus on information given, rather than making assumptions without evidence."])
+('8', ['Incorrect', 'Review the post and analyze the feelings of the poster without assuming information not provided. The mention of psychiatric care and therapy indicates engagement with a support system, but does not confirm a positive sense of belonging, as the poster does not express feelings directly related to belonging.'])
+('13', ['Incorrect', 'Avoid making direct inferences about happiness from the lack of mention of supportive relationships. The feeling of not being happy does not directly correlate with the absence of turn-to people in times of need. Focus on the given details and differentiate between various aspects of support.'])
+('15', ['Incorrect', 'Review the post for explicit statements about social interactions rather than general happiness. Avoid assuming that a lack of happiness equates to an absence of satisfying interactions; focus on specific information about interpersonal engagements.'])
+
+ITER 4
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The post mentions that the only thing the poster cares about is their job, indicating that they have purpose and value in their life.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything about being a burden on society."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling that one's death would be a relief to others."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the perception of the people in their life wanting to be rid of them."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention or provide any information that can help determine whether the person feels like they belong or not."])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions being under the care of a psychiatrist for a year now and in therapy for 2 years. This suggests that the person may have access to support and potentially feel like there are people they can turn to in times of need, but it does not directly state how true this is for them.'])
+('15', ['directly_mention', "Not at all true for me###The post explicitly states that the person can't think of one thing that they are happy about. This suggests a lack of satisfaction in interactions with others."])
+Do MS Check Record:
+('1', ['Incorrect', "Carefully consider the emotional state conveyed in the post. The fact that the poster only cares about their job does not directly relate to how others might perceive them. Consider the poster's mention of depression and evaluate how that might influence their perception of their value to others."])
+('3', ['Correct', 'Ensure that deductions are based solely on information from the post. The absence of any mention of being a burden suggests no inference should be made in this regard. Continue to differentiate between what is explicitly stated and what is not mentioned in the post.'])
+('4', ['Correct', 'Pay attention to the explicit content of the posts without making unfounded assumptions.'])
+('5', ['Correct', 'Continue to differentiate between information provided in the post and information that is not addressed.'])
+('8', ['Incorrect', "Consider the poster's mention of a lack of interest in everything except their job. This may imply a diminished sense of belonging. Use this to infer a cautious response to the sense of belonging, avoiding the extreme of 'not_mention.'"])
+('13', ['Correct', 'Good job recognizing indirect mention of potential support systems. Continue to use contextual information to infer answers without overreaching beyond what is provided.'])
+('15', ['Incorrect', "Be careful not to generalize the poster's lack of happiness to all aspects of their life. While they did mention an overarching unhappiness, this does not necessarily mean they have no satisfying interactions at all. Look for explicit references to social interactions."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of not being the person they used to be due to major depression and the belief that they will never be that person again. They also mention that the only thing they care about is their job. These statements suggest a lack of self-worth and a possible perception of being a burden on others. Additionally, the poster indicates feeling disconnected, like an outsider in social gatherings, and lack of interaction with people who care about them, which further supports the presence of perceived burdensomeness.
+
+Incorrect
+Avoid overgeneralizing based on limited information. Focus on the explicit responses to the mental scale questions which do not indicate feelings of being a burden. The poster denies having issues with burden-related questions. Reflect on the evidence provided rather than inferring beyond it. To improve, cross-check all relevant scale responses before concluding about perceived burdensomeness.
+
+ITER 1
+No
+The poster explicitly denies having issues with burden-related questions and does not indicate feelings of being a burden or perceived burdensomeness in their responses to the mental scale questions.
+
+Incorrect
+Examine all responses critically, including subtle cues indicating negative self-perception or isolation. Even when explicit burden statements are denied, assess for indirect indications of perceived burdensomeness, such as feelings of disconnection and being an outsider.
+
+ITER 2
+Yes
+The poster expresses feelings of disconnection, being an outsider in social gatherings, and rarely interacting with people who care about them. These are indirect indications of perceived burdensomeness.
+
+Incorrect
+Avoid overinterpreting the poster's feelings of social disconnection as signs of perceived burdensomeness without clear evidence. Focus on the answers to the relevant mental scale questions, which do not suggest feelings of being a burden. Assess each response in context and avoid assuming characteristics beyond the provided information. When the answered questions specifically addressing perceived burdensomeness indicate no problem, you should not infer a 'Yes' response to the risk of perceived burdensomeness.
+
+ITER 3
+No
+The answered questions on the mental scale do not indicate any risk of perceived burdensomeness. Although the poster mentioned feeling disconnected and like an outsider in social gatherings, these feelings do not necessarily suggest they perceive themselves as a burden to others.
+
+Incorrect
+Consider the full context of the answered questions and the social media post. Though the poster affirms not having problems with questions regarding being a burden, the admission of feeling disconnected and like an outsider suggests an element of perceived burdensomeness. Integrated with their expression of existential loss (feeling they'll never be the same person as before), there is enough to suggest a low to moderate risk of perceived burdensomeness. Evaluate the individual's thoughts and feelings in their entirety when analyzing the risk of perceived burdensomeness, avoiding selective attention to specific answers.
+
+ITER 4
+Yes
+The individual's admission of feeling disconnected and like an outsider, along with their expression of existential loss, suggests a low to moderate risk of perceived burdensomeness despite affirming no problems with specific questions regarding being a burden.
+
+Incorrect
+Review the individual's responses to questions about perceived burdensomeness. While the poster shares feelings of disconnection and being an outsider, they consistently report no problem with direct questions about feeling like a burden. Focus on what the evidence shows, not on assumptions, and avoid overgeneralizing based on limited information.
+
+ITER 5
+No
+The individual consistently reports no problem with direct questions about feeling like a burden. Although they express feelings of disconnection and being an outsider, it is important to focus on the evidence provided and not make assumptions or overgeneralize based on limited information.
+
+Correct
+Continue to focus on direct evidence from the poster's responses and avoid over-inference. Maintain an objective approach in assessing perceived burdensomeness, and avoid attributing feelings that are not explicitly stated. Always match the poster's self-report with the relevant mental health scale questions without assuming additional negative characteristics.

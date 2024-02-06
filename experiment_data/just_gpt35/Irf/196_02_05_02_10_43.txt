@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I know i dont know you but i do know what you are going through. I know every morning hurts. Everyday another struggle towards the goal of no longer existing. Everyday wanting it to be over finally. I hope you keep fighting though. I hope you keep trying to live And Not living only because you dont want your death to hurt people but truly living because you want to be alive. Im not there yet and I might never be but i am going to try to keep up hope that i do. Anyone going through as much as we are deserves love and even if there is no one else there that says it know that people care. Every suicide i hurts a little because i know it could be me. I hope i don't see your name this year.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post emphasizes feelings of loneliness, struggling every day, wanting life to be over, hoping to be alive, and mentioning that every suicide hurts a little because it could be them. These expressions suggest a strong sense of thwarted belongingness, feeling disconnected from others and lacking social support.
+

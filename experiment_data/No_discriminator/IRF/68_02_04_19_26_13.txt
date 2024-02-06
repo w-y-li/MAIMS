@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm using a new account because I can't remember my old password for my main account. But yeah I'm probably dead tonight. Im 20 and moved from the East coast to St Louis about 5 months ago ( it feels longer ). I got a good job delivering but quit it almost two weeks ago because I'm a bitch and was having an anxiety attack. I don't know what's wrong with me. A bit before quitting I went into the er because I was suicidal and spent 4 days trapped and with no actual help. I faked being better to get out. My only friends were at this job and they're mad at me ( understandably ). My old roommates are holding some of my stuff hostage until I pay them a certain amount of money. I've been couch surfing for the entire time up here. This was stupid. I hate myself. Sorry if it's not making too much sense I can't think straight right now. It doesn't matter either way.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Somewhat true for me###In the post, I mentioned that I went to the ER because I was suicidal, which indicates that I believe people would be better off without me, although not completely true.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not contain any information that directly or indirectly suggests whether people would be happier without me."])
+('3', ['directly_mention', "Very true for me###The post directly mentions feeling like a burden on society: 'I don't know what's wrong with me', 'This was stupid. I hate myself.'"])
+('4', ['directly_mention', "Very true for me###The post directly mentions thinking that their death would be a relief to the people in their life: 'I'm probably dead tonight', 'My old roommates are holding some of my stuff hostage until I pay them a certain amount of money'"])
+('5', ['directly_mention', 'Very true for me.###I mentioned that my friends are mad at me and my old roommates are holding my stuff hostage, which suggests that I think the people in my life wish they could be rid of me.'])
+('6', ['directly_mention', 'Very true for me.###I mentioned that I quit my job due to an anxiety attack and that I faked being better to get out of the hospital. These actions could be seen as making things worse for the people in my life.'])
+('7', ['indirectly_mention', 'Somewhat true for me###The post indirectly mentions the question as the poster states that their friends are mad at them for quitting their job, which indicates some level of care and concern from others.'])
+('8', ['indirectly_mention', 'Not at all true for me###The post indirectly mentions the question as the poster expresses feelings of isolation and lack of belonging, mentioning that their only friends were at their previous job and that they have been couch surfing for the entire time in St Louis.'])
+('9', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information that can help determine whether the person rarely interacts with people who care about them or if they have many caring and supportive friends. The post mainly focuses on the person's current situation and feelings of self-hate and instability."])
+('10', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information about the person's current social interactions or whether they have caring and supportive friends. The post mainly discusses their struggles with their job, mental health, and relationships with roommates and colleagues."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling disconnected from other people and having no friends, which indicates some level of disconnection from others.'])
+('12', ['directly_mention', "Somewhat true for me###The post explicitly states that the person's only friends were at their previous job and that they are now mad at them, suggesting that they feel like an outsider in social gatherings."])
+('13', ['indirectly_mention', "Somewhat true for me###The post mentions that the person went into the ER because they were suicidal and spent 4 days without receiving help. This suggests a lack of support and people to turn to in times of need, indicating that the answer is 'Somewhat true for me'."])
+('14', ['indirectly_mention', "Not at all true for me###The post mentions that the person's only friends were at their previous job and now they are mad at them. This suggests a lack of closeness to other people, indicating that the answer is 'Not at all true for me'."])
+('15', ['not_mention', "Doesn't mention at all.###The post doesn't contain any information related to having satisfying interactions every day."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows high levels of perceived burden, feeling disconnected from others, being an outsider in social gatherings, and lacking satisfying interactions. These are indicative of thwarted belongingness, where the individual feels they are a burden, alienated, and disconnected from meaningful social connections.
+

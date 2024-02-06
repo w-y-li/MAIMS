@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I've taken the first step to getting help, but it seems that nowhere is taking new patients right now. The psychiatrists that are accepting appointments are booking several months out. Starting this process has been pretty nerve-wracking, and now it seems like I will never get help. This entire process seems impossible. Does anyone have advice for how to book my first appointment? Should I just bite the bullet and wait until April/May to be seen by someone?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not explicitly mention any feelings of social disconnection or rejection, which are key indicators of thwarted belongingness. The individual is primarily expressing frustration and anxiety about the challenges they are facing in accessing mental health care.
+

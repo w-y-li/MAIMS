@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I want to be succesful but I'm currently struggling with depression/anxiety. I'm 18 and I'm really lost at life, almost dropping out of high school due to the complete utter unmotivation to study whatever comes. And I have no interest in anything probably because of the depression. Thank for your time, I appreciate it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows signs of perceived burdensomeness as the person expresses feeling lost, struggling with depression/anxiety, lacking motivation, and having no interest in anything. These feelings indicate a perception of being a burden on themselves and possibly on others.
+

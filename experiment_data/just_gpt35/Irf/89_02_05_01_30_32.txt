@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Three years ago my dad died, it hardly feels like three weeks. It's like everything else in my life is so insignificant in comparison, it's like a black hole that distorts my perception of time. It's as if time passes 100x faster since it and everything before it is so long ago. People say that after a major event in their life everything feels categorised into before and after it but to me it feels like things that are it and not, but most of them are. People have been telling me since then that I probably have depression and should maybe get help but that's mostly just from seeing me because I don't open up. I feel like I've just always been a little gloomy and don't feel very different now compared to before other than the whole bending of time thing. People say they noticed a change in me, but I didn't, maybe they just expect something like that to mess up a 14 year old?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate a risk of perceived burdensomeness. The poster mainly expresses feelings of grief, time distortion, and a lack of significant change in mood before and after their father's death. There is no mention of feeling like a burden to others or having thoughts of burdening or being a burden on others.
+

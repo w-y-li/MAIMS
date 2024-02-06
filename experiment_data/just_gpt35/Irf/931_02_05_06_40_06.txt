@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Am I better? Not really, as a whole. I'm on a new cocktail of meds that keep me stable for 9 hours of the day and let me sleep at night. I'm still very depressed, i just have healthier ways of coping. At least my anxiety is better than it was, so that's good. But I don't know, it's like my attempt didn't happen, I feel the same, just not really wanting to try it again because good god I'm going through a hell of a bureaucratic process because of it. And the psych ward was terrifying. I know getting better is a slow process but I've lost my patience over the years. Last night I was at a new years party with my best friends but I had to leave at 930 because the depression got too big and I didn't want to be a party pooper. It sucks I cant make plans later in the day cause that's when the morning meds wear off and my nighttime ones don't do the same stuff. I hate this damn disease. Sorry for rambling, writing helps me some.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden to others, such as not wanting to be a party pooper and mentioning the bureaucratic process caused by their attempt.
+

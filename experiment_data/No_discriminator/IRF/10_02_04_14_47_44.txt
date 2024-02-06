@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  There‚Äôs a bad situation in my group home that i‚Äôm unable to handle and they just say live with it and i can‚Äôt leave bc my parents are sick of me. I have nowhere to go, and this situation is making me absolutely miserable. Well then if no one reacts ill probably be homeless next week. What a fcking shitshow  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The post specifically mentions that the situation in the group home is making the poster miserable and they feel like they have nowhere to go, but there is no indication that the people in their life would be better off without them.'])
+('2', ['indirectly_mention', "Somewhat true for me###The post expresses that the situation is making the poster miserable and they feel like they have nowhere to go. Although it doesn't directly state that the people in their life would be happier without them, the overall negative tone and hopelessness in their words suggest that they might believe this to some extent."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like a burden as the poster states that they are unable to handle the situation in their group home and that their parents are sick of them. This suggests that they may feel like a burden on their parents and society.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to thinking that their death would be a relief to others in their life."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about how the people in the poster's life feel about them or if they wish they could be rid of them."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything about whether the poster believes they make things worse for the people in their life."])
+('7', ['directly_mention', "Very true for me###The post explicitly mentions that the person is miserable and in a bad situation, indicating that they are not feeling cared for by others. Therefore, I believe the answer to question 7 is 'Very true for me.'"])
+('8', ['indirectly_mention', "Not at all true for me###Although the post does not directly mention feeling like one belongs, the statement 'I have nowhere to go' implies a lack of belonging or a sense of not fitting in. Based on this, I would infer that the answer to question 8 is 'Not at all true for me.'"])
+('9', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to the question about interacting with people who care about me."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to the question about having caring and supportive friends."])
+('11', ['directly_mention', "Very true for me###The post mentions feeling disconnected from other people in the line: 'There's a bad situation in my group home that I'm unable to handle and they just say live with it and I can't leave bc my parents are sick of me. I have nowhere to go, and this situation is making me absolutely miserable. Well then if no one reacts ill probably be homeless next week. What a fcking shitshow'."])
+('12', ['directly_mention', "Very true for me###The post mentions feeling like an outsider in social gatherings in the line: 'There's a bad situation in my group home that I'm unable to handle and they just say live with it and I can't leave bc my parents are sick of me.'"])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling miserable and having a bad situation in the group home. This implies that the person is in need of support. Although they mention not having anyone to turn to, they also mention their parents being sick of them, indicating that there may have been some closeness to other people in the past, but that connection seems strained now.'])
+('14', ['indirectly_mention', "Not at all true for me###The post mentions feeling miserable and having a bad situation in the group home. This implies a lack of closeness to other people. Additionally, the statement 'if no one reacts' suggests that the person feels there is no one close enough to react to their situation, indicating a lack of closeness and support in their life."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to daily satisfying interactions."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to the mental scale questions indicate a high level of distress, feelings of being a burden, and disconnection from others. They express thoughts of being better off gone and that others would be happier without them. These indicators suggest a risk of thwarted belongingness, as they feel unwanted and disconnected from those around them.
+

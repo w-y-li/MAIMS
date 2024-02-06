@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Work was my only way out of the house and I have 0 friends who would talk to me outside of work I can't go pub till next Friday when I get paid I can't go OK much longer I'm gonna relapse soon my music isn't helping  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation and a lack of social connection outside of work. The poster expresses a need for companionship and mentions the risk of relapse, suggesting a potential for thwarted belongingness.
+

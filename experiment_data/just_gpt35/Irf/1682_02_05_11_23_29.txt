@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I've always struggled with depression, but I am at the lowest I've felt in a long time, I've pushed most of my friends and boyfriend away, family hardly talks to me. On top of it, my biggest stressor, I am drowning in debt, I am unable to find better employment, I live in a rural part of California without transportation, housing is scarce and expensive. My rent was just raised and I don't know how I am going to afford it.. I don't have family to turn to financially. My parents are well into their 70s, enjoying the end of their lives, and my brother is a drug dealer. On top of that my brother lives 5 hours away and my parents two states.. I survived a car accident in December of 2018. It left me carless and in a mountain of debt, on top of my other debts. The debt, the fact I can't seem to save or get ahead, I have no one to turn to, I am not really conventionally attractive either.. I just feel lost, depressed, numb, want the stress to go away, even for a moment. I miss my best friend (passed away just a few months ago, not sure if it was intentional or not but it was definitely an overdose, I was mad at him at the time and pushed him away and encouraged his binging.) The only thing still keeping me here is that I would feel guilty if my dog was left alone for days before my body could be found, and I don't want her to end up in the wrong hands.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of social support, strained relationships with friends and family, and feelings of being pushed away. The individual also mentions feeling alone and not having anyone to turn to for financial support. These factors suggest a risk of thwarted belongingness.
+

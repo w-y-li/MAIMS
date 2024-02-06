@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  So 2018 started and everything feels the same. I'm still depressed. I'm constantly thinking about suicide and I'm steadily losing people whom I can talk to. My life is without purpose. I wish I could end it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post demonstrates signs of thwarted belongingness as the individual expresses feeling isolated and losing people they can talk to, resulting in a sense of purposelessness and thoughts of ending their life.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I'm done with people telling me that things will get better when it clearly won't. I'm still alone as always everyone around me is happy and it's pissing me off hearing that I'll find somebody someday. The friends that I have I haven't seen in along time looking back on it I feel that they were only friends with me to make themselves feel better. It really feels like there is no point no matter how much I workout and stay fit I don't feel HAPPY no matter what hobbies I pick up I still feel empty. And yet everyone keeps telling me to keep TRYING I dont do think I can try any harder. I take meds and I don't feel any better I'm always in a dark place and I'm sick emotionally lying to myself some people are destined to have a crap life and I'm proof of this. I was born a loser and I'll die a loser no amput of self improvement is able to fix that.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of worthlessness, hopelessness, and an overall negative perception of oneself. The individual feels burdened by their own existence and expresses a belief that they will always be a failure.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Keeping up the facade at work is cutting too deep these days. I feel a great deal of stress with my work and having this heaped on top certainly doesn't help. I can't sleep, I can't eat right... I'm just so tired of my shitty life and my bitterness at being so alone while the few friends I have are all happy in their relationships. I'm constantly the 3rd or 5th wheel. I know I'm a forever alone and nothing can ever change my situation but it's still just so painful, but at work I have to put on a fake smile and pretend there's nothing wrong.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling alone, being bitter about being single while friends are in relationships, feeling like a forever alone. These are all indicative of a perceived burdensomeness, where the poster feels like a burden on others and believes that nothing can change their situation.
+

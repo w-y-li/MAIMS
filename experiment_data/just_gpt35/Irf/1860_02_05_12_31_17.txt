@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I would really like to know.....I mean day in and day out worrying about bills. Today is the 2nd and I don‚Äôt have all my rent money. I‚Äôm sick of living like this year after year. Why do some people have more money than they will ever spend in two lifetimes while others can barely make ends meet? Life is not fair!! I have been employed in government service for 20 years and still struggle financially. Nothing in life makes me happy right now. Not even my kids whom I love dearly!! I‚Äôm just sick and tired and everything!!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not specifically mention feelings of loneliness or isolation, which are characteristic of thwarted belongingness.
+

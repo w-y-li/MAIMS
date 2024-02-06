@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  *night I thought I was doing ok, despite the fact my entire world has been turned upside down and my heart is broken, but it‚Äôs finally hit me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of isolation and distress, indicating a possible risk of thwarted belongingness.
+

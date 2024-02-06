@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Like i have a ok life im homeless right now its not the first time i have some fake friends not first i have little family my mom died a couple weeks ago (im 14) all this stuff is bad but im kinda use to this i losted all energy to live yet i cant kill myself because i know i would hurt maybe 2 or 3 people idk anymore haha  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the individual feels a lack of belongingness or a sense of social isolation. They mention having fake friends, a small family, and recently losing their mother. Additionally, they express feeling used to the negative experiences in their life and have lost the energy to live. The fear of hurting two or three people further suggests a desire for connection and belongingness, albeit in a somewhat strained manner.
+

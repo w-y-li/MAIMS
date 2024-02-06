@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  100% always try to be a nice friend but sometimes i dont want to, am i mean im in grad school. it will be way to long to explain the details but whenever i go out with a group of friends, this girl always texts me when she hears about it or sees pics, of why i didn't invite her. the thing is i know she's not exactly on good terms with them and i dont know how much they get a long. am i always obligated to ask her for when we go out.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about sadness."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything about pessimism."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to past failure."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of pleasure."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to guilty feelings or punishment feelings."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to guilty feelings or punishment feelings."])
+('7', ['indirectly_mention', "I dislike myself.###In the post, I mentioned that sometimes I don't want to be a nice friend. This implies that there may be moments when I dislike myself for not living up to my own expectations of being a good friend."])
+('8', ['directly_mention', "I do not criticize or blame myself more than usual.###I explicitly stated that I don't know how much the girl gets along with my friends. This indicates that I am not blaming myself for excluding her from our outings, suggesting that my self-accusations are not heightened in this situation."])
+('9', ['indirectly_mention', "I do not cry any more than usual.###The post indirectly mentions crying when stating 'but sometimes i dont want to (be a nice friend).' This suggests that the poster sometimes feels conflicted about being nice to their friend, which may result in occasional negative emotions. However, the post does not provide any information about an increased frequency of crying."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to suicidal thoughts or wishes."])
+('11', ['indirectly_mention', "I feel more restless or wound up than usual.###The poster mentions that they always try to be a nice friend but sometimes they don't want to. This implies that there may be some internal conflict or agitation when it comes to their social interactions and obligations."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any information that would indicate a loss of interest in other people or activities."])
+('13', ['indirectly_mention', "I find it more difficult to make decisions than usual.###In the post, I mentioned that sometimes I don't want to be a nice friend. This implies that I struggle with being decisive in situations where I may not want to be nice to others."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not contain any information related to feelings of worthlessness."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of energy."])
+('16', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in sleeping pattern."])
+('17', ['directly_mention', "I am more irritable than usual.###The post mentions that the person tries to be a nice friend all the time, but sometimes doesn't want to. This suggests that the person may experience irritability, which implies being more irritable than usual."])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post states that the person is in grad school and it will be too long to explain the details. This suggests that the person may be experiencing stress or busy with academic commitments. Given that changes in appetite can be associated with stress, it is reasonable to infer that their appetite is somewhat less than usual.'])
+('19', ['not_mention', "Doesn't mention at all.###The post does not talk about concentration difficulty at all."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not talk about tiredness or fatigue."])
+('21', ['indirectly_mention', "I have almost no interest in sex.###Based on the post, the poster mentions that they are in grad school and sometimes don't want to be a nice friend. This implies that they may be preoccupied with school and have little interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses indicate that they dislike themselves, feel more restless or wound up than usual, are more irritable than usual, and have almost no interest in sex. These are commonly associated with depression.
+

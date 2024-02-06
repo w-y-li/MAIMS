@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  It sucks because a flaw about your personality can easily be fixed and I doubt it has a strong impact. Being reminded constantly of body flaws is the worse in my opinion because that can just ruin someone completely. It just hits you in the heart because that's what everyone views you as. What sucks even more is that, you can be confident in your own skin and as soon as someone points out a flaw, that thought stays with you forever and will never escape your mind. All these insecurities build up and it's just horrible.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the people in their life being better off without them."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the people in their life being happier without them."])
+('3', ['indirectly_mention', "Not at all true for me###The post indirectly mentions feeling like a burden on society when the author says, 'Being reminded constantly of body flaws is the worst in my opinion... because that can just ruin someone completely.' This implies that the author may feel negatively about themselves and their impact on society, but it does not directly address the specific question."])
+('4', ['indirectly_mention', "Not at all true for me###The post indirectly mentions feeling like one's death would be a relief to the people in their life when the author says, 'What sucks even more is that, you can be confident in your own skin and as soon as someone points out a flaw, that thought stays with you forever and will never escape your mind. All these insecurities build up and it's just horrible.' This suggests that the author may have negative thoughts and insecurities, but it does not directly address the specific question."])
+('5', ['indirectly_mention', 'Somewhat true for me###The post mentions about being constantly reminded of body flaws, feeling that everyone views them a certain way, and having insecurities build up. This suggests a belief that people in their life may wish to be rid of them, although it is not explicitly stated.'])
+('6', ['indirectly_mention', 'Somewhat true for me###The post expresses the fear that as soon as someone points out a flaw, that thought stays with them forever and will never escape their mind. This indicates a belief that they make things worse for the people in their life, although it is not directly mentioned.'])
+('7', ['directly_mention', "Somewhat true for me###The post mentions that being reminded constantly of body flaws can ruin someone completely. This suggests that the opinion of others has an impact on the poster's feelings. Therefore, the answer to question 7 is somewhat true for me."])
+('8', ['indirectly_mention', 'Not at all true for me###The post discusses feeling insecure and having constant thoughts about flaws. These feelings might contribute to the belief that the poster does not feel like they belong. Therefore, the answer to question 8 is not at all true for me.'])
+('9', ['not_mention', "Doesn't mention at all.###"])
+('10', ['not_mention', "Doesn't mention at all.###"])
+('11', ['indirectly_mention', 'Not at all true for me###The post mentions feeling insecure and having insecurities build up. This suggests a lack of confidence and self-doubt, which might lead to feeling disconnected from other people.'])
+('12', ['indirectly_mention', 'Somewhat true for me###The post talks about being constantly reminded of body flaws, which can ruin someone. This implies that the person might feel like an outsider in social gatherings due to feeling self-conscious about their appearance.'])
+('13', ['indirectly_mention', "Somewhat true for me###The post mentions insecurities and how they can build up, which suggests that the person may have a need for support from others in times of need. However, the post does not directly indicate whether there are people available to turn to, so my answer is 'Somewhat true for me'."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything about being close to other people, so my answer is 'Doesn't mention at all.'"])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to having satisfying interactions every day."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of insecurity and being constantly reminded of body flaws, which can contribute to a sense of not belonging and feeling disconnected from others.
+

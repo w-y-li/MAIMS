@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I've always felt like emotions are hard for me, I always smile but thats just to make other people feel at ease around me. when something bad happens I rarely cry, I do feel aching in my heart and know that its sad I just don't feel like crying is the right way to react. Is this something you have felt? How do you get along with it? TLDR. I know emotions and know when I should be doing them but i cannot cry when I'm sad and I rarely laugh when I'm happy  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate risk of thwarted belongingness. Though the poster mentions difficulties in expressing emotions and crying, there is no explicit mention of feeling disconnected from others or lacking a sense of belonging.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I want to kill myself  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a desire to end one's life, which can be indicative of feeling isolated and lacking a sense of belonging. This suggests a risk of thwarted belongingness.
+

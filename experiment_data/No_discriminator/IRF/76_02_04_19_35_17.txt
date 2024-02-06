@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Hahahaüò¢ So sad that even when I'm not suicidal I know that it's a must for me to die because I don't see myself getting back up. Wow my life is over at just 22.I wish a disease snatches me away before I do something that I might regret  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Very true for me###The post explicitly states, 'So sad that even when I'm not suicidal I know that it's a must for me to die because I don't see myself getting back up.' This indicates that the person believes that the people in their life would be better off if they were gone."])
+('2', ['directly_mention', "Very true for me###The post states, 'I wish a disease snatches me away before I do something that I might regret.' This implies that the person believes the people in their life would be happier without them and that their presence might cause harm or regret."])
+('3', ['directly_mention', "Very true for me###In the post, I mentioned that I know it's a must for me to die because I don't see myself getting back up. This suggests that I believe I am a burden on society and my death would be a relief to the people in my life."])
+('4', ['directly_mention', 'Very true for me###I stated that I wish a disease snatches me away before I do something that I might regret, indicating that I believe my death would be a relief to the people in my life.'])
+('5', ['directly_mention', "Very true for me###The post states 'So sad that even when I'm not suicidal I know that it's a must for me to die because I don't see myself getting back up.' This implies that the person believes others in their life wish they could be rid of them, hence the answer is 'Very true for me'."])
+('6', ['directly_mention', "Very true for me###The post states 'I think a disease snatches me away before I do something that I might regret.' This suggests that the person believes they make things worse for the people in their life. Therefore, the answer is 'Very true for me'."])
+('7', ['directly_mention', "Not at all true for me###The post clearly states that I don't see myself getting back up and that my life is over. This indicates a lack of belief that other people care about me."])
+('8', ['directly_mention', "Not at all true for me###The post expresses a sense of hopelessness and despair, suggesting that I don't feel like I belong."])
+('9', ['not_mention', "Doesn't mention at all.###"])
+('10', ['not_mention', "Doesn't mention at all.###"])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling sad and not seeing myself getting back up. This suggests that I may feel disconnected from other people and feel like an outsider in social gatherings.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any information that directly or indirectly relates to feeling disconnected from other people or like an outsider in social gatherings."])
+('13', ['directly_mention', 'Somewhat true for me###The post mentions feeling sad and not seeing oneself getting back up, which indicates a need for support from others.'])
+('14', ['directly_mention', 'Not at all true for me###The post indicates a lack of closeness with others, as the author mentions feeling isolated and wishing for a disease to take them away before they do something regrettable.'])
+('15', ['directly_mention', 'Not at all true for me###The post mentions feeling sad and not seeing oneself getting back up. This suggests a lack of satisfying interactions, indicating that having at least one satisfying interaction every day is not true for me.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a strong indication of risk of thwarted belongingness based on the responses to the mental scale. The poster expresses feelings of being a burden, making things worse for others, and thinking that others would be better off without them. They also feel disconnected from others and lack a sense of belonging. These thoughts and emotions suggest a sense of isolation and a lack of social support, which are key indicators of thwarted belongingness.
+

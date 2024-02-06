@@ -1,0 +1,183 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  How I'm coping with the end of a friendship... I'm writing this partly because I find it therapeutic and partly because I'm hoping it'll help others.( I have self-proclaimed good coping skills.) So, my XBFF didn't do anything [i]to[/i] me. There was no defining moment. I just decided that (as much as I love her) she doesn't compliment my life anymore. She's having a few relationship issues. As a married woman, I empathize with her. However, over the last 6 months she's started to get a little... Crazy. I'm a very blunt and controversial person. Always have been, always will be. I keep an IG account full of controversial and offensive memes. Some people like it, some people don't. Anyway, I've been going through a rough time myself so I cope by posting passive-aggressive memes. Every single thing I post she takes personally. It got to the point in which everything I said or did (online or in the real world) she somehow thought was about her. It wasn't. It got to the point in which I was afraid to speak because I was afraid she'd take something the wrong way. Anyway, she went an entire week without speaking to me even though I sent her multiple texts. Maybe this was the moment, but I decided that I will not tolerate that type of power struggle. We're adults - you don't get to ignore someone because you don't like what they're saying and that's always been an issue with her: if she doesn't like what you have to say she comes up with delusional explanations as to why. Basically, she can never be wrong and if you think one negative thing about something related to her, she'll freak out, accuse you of being jealous even though she's the one not actually happy. The negativity is starting with her. For example, we tried to book a trip together. We've been trying for years and they never happen. Finally, I just told her that I'm no longer interested in planning trips with her because she's not willing to accommodate my demanding work schedule. Now, she's the first to admit her job is shit and it's been a huge source of insecurity for her, but when I tell her that my job doesn't allow me to book off as easily as hers (she works cash and doesn't really have a true job) she'll freak out and accuse me of putting her down. No. I'm stating the facts: You can book off your job easily. I can't. That's not me putting down your job. That's me telling you why I can't tell my boss on Friday I'm leaving for two weeks the following Monday. (This is just one example, but they all pretty much follow the same context: Something TRUE she doesn't like about herself is brought to attention and she accuses you of being a bad friend.) After a week of being MIA she decides to text me. No. It doesn't work like that. I'm not interested in what she has to say. So, I tell her to get over herself, not everything in the world revolves around her, etc. Of course, she thinks she's completely innocent and that all she was trying to do was explain HER feelings and I tell her I'm not interested. Again, it's not always about her. She did not once seek clarification about ANYTHING I said. She jumped to random conclusions and just assumed I sit here and think about her. In the end, that's what frustrates me. I just can't be friends with someone who thinks everything is about her. In sum, I just decided to protect myself.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention or provide any information pertaining to the feeling of sadness."])
+('2', ['indirectly_mention', "I feel discouraged about my future.###The post mentions that the person decided to end a friendship and states that they 'keep an IG account full of controversial and offensive memes'. This behavior can be indicative of a feeling of discouragement about their future relationships and social interactions."])
+('3', ['directly_mention', "I feel I have failed more than the average person.###In the post, I mention that I have been going through a rough time and coping by posting passive-aggressive memes. This suggests that I may feel a sense of failure in my own life, which aligns with the option 'I feel I have failed more than the average person.' "])
+('4', ['directly_mention', "I do not enjoy things as much as I used to.###I mention that my XBFF's negativity is starting to affect me, and specifically talk about how I don't enjoy planning trips with her anymore due to her lack of accommodation for my schedule. This indicates a loss of pleasure in activities I used to enjoy, supporting the option 'I do not enjoy things as much as I used to.'"])
+('5', ['not_mention', "Doesn't mention at all.###The post does not discuss or indicate any guilty feelings."])
+('6', ['indirectly_mention', 'I expect to be punished.###The post mentions that the XBFF accuses the poster of being a bad friend whenever something negative is brought up. This suggests that the poster may expect to be punished for expressing their true feelings or opinions.'])
+('7', ['directly_mention', 'I dislike myself.###In the post, I mentioned that I decided to end the friendship because my friend always thinks everything is about her. This implies that I have negative feelings towards myself for tolerating her behavior for so long.'])
+('8', ['directly_mention', 'I am more self-critical or blaming than usual.###Throughout the post, I express frustration with my friend and her tendency to jump to conclusions and accuse me of being a bad friend. This shows that I criticize myself more than usual for not being able to maintain a healthy friendship with her.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention or indicate anything related to suicidal thoughts or wishes."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention or indicate anything related to crying."])
+('11', ['indirectly_mention', 'I am more restless or agitated than usual.###The poster mentioned that they have been going through a rough time and coping by posting passive-aggressive memes. This suggests that they may be experiencing increased restlessness and agitation.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the poster's level of interest in other people or activities."])
+('13', ['directly_mention', "I make decisions about as well as ever.###The post mentions that I decided to end the friendship because she doesn't compliment my life anymore and she always comes up with delusional explanations. This shows that I have the ability to make decisions and take actions based on my own judgment."])
+('14', ['indirectly_mention', 'I do not consider myself as worthwhile and useful as I used to.###The post implies that the friendship was no longer beneficial for me and that I needed to protect myself. This indicates that I may not feel as worthwhile and useful as I used to feel in this friendship.'])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###The post mentions that the person is going through a rough time themselves and coping by posting passive-aggressive memes. This suggests a loss of energy as they are finding it difficult to engage in activities.'])
+('16', ['indirectly_mention', "I sleep somewhat less than usual.###The post doesn't directly mention changes in sleeping pattern, but it implies that the person is experiencing difficulty sleeping due to the end of the friendship. The person's frustration and emotional distress could lead to minor sleep disturbances, resulting in them sleeping somewhat less than usual."])
+('17', ['indirectly_mention', "I am more irritable than usual.###The post mentions that the XBFF's behavior has been bothering the poster and causing frustration, indicating an increase in irritability."])
+('18', ['directly_mention', 'My appetite is somewhat less than usual.###The post mentions that the poster is going through a rough time and coping by posting passive-aggressive memes. This suggests a decrease in appetite, although the extent is not specified.'])
+('19', ['indirectly_mention', "I can not concentrate as well as usual.###The post mentions that the end of the friendship has been causing a lot of distress and the poster is using writing as a coping mechanism. This suggests that the poster's ability to concentrate may be affected during this difficult time."])
+('20', ['directly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post mentions that the poster has been going through a rough time and has been coping by posting passive-aggressive memes. This could indicate that the poster is experiencing fatigue or tiredness which is impacting their ability to engage in activities they used to do.'])
+('21', ['directly_mention', 'I have not noticed any recent change in interest in sex.###The post mentions the topic of the end of a friendship and coping skills, but does not mention anything about changes in interest in sex.'])
+Do MS Check Record:
+('1', ['Incorrect', "Re-examine the post for any emotional undertones that may suggest feelings of sadness. Focus on the context in which the friendship ended and the poster's description of their coping mechanisms."])
+('2', ['Incorrect', "Avoid making assumptions about the poster's general outlook on life based on limited information about their social media behavior. Consider the specific circumstances mentioned in the post, such as the decision to end a particular friendship, without generalizing to broader life pessimism."])
+('3', ['Incorrect', "Ensure to differentiate between the poster's current coping mechanisms and feelings of failure. The post does not provide clear evidence that the poster feels they have failed more than the average person. Refrain from assuming failure when the post discusses coping strategies without direct mention of personal failure."])
+('4', ['Incorrect', 'Avoid conflating conflict with one individual and a general loss of pleasure. The post does not suggest an overall loss of pleasure in life but rather addresses specific issues with the ex-best friend. Focus on the context and avoid overgeneralization of emotions to different aspects of life.'])
+('5', ['Incorrect', "Analyze the content for any expressions of remorse or guilt related to the end of the friendship, rather than simply stating that it's unmentioned."])
+('6', ['Incorrect', "Focus on the poster's emotions regarding their actions and filter out assumptions about punishment feelings without explicit expressions from the post."])
+('7', ['Incorrect', "Look for explicit indications of self-dislike in the post, do not assume or infer underlying self-dislike from the poster's actions towards others."])
+('8', ['Incorrect', 'Identify clear evidence of self-accusations in the original post, rather than projecting self-criticism based on interpersonal issues with others.'])
+('9', ['Correct', 'Ensure to always carefully analyze the content of the post for any direct or indirect mentions related to the mental scale question before concluding. Continue to use evidence from the post to support your answers.'])
+('10', ['Correct', 'Keep focusing on what is explicitly stated or can reasonably be inferred from the post. Avoid making assumptions about emotional states such as crying without textual evidence.'])
+('11', ['Correct', "Continue carefully analyzing the emotional content and context provided in the posts to accurately infer the poster's mental state."])
+('12', ['Incorrect', 'Though the post does not explicitly mention a loss of interest, avoid assuming the absence of information means the trait in question is not present. Infer based on the context provided; the poster discontinuing efforts to plan trips could suggest a diminished interest which was previously there.'])
+('13', ['Correct', "Your answer successfully reflects the poster's decisiveness as illustrated by their action to end the friendship. Continue to focus on specific actions described in the post to justify interpretations related to the mental scale questions."])
+('14', ['Incorrect', 'Reassess the implications of worthlessness in the context of the post. The poster expresses a sense of self-preservation and confidence in their coping skills, rather than a sense of worthlessness. Answers should avoid assuming feelings not clearly expressed in the post.'])
+('15', ['Incorrect', "Focus on the explicit content related to the question. There is no specific mention of a loss of energy, only of coping through social media. Avoid assuming symptoms that aren't mentioned."])
+('16', ['Incorrect', 'Do not infer psychological states like changes in sleep patterns without any direct or indirect evidence in the post. Stick to the information provided and avoid making assumptions.'])
+('17', ['Correct', "Maintain your careful analysis of the language used in the post to correctly gauge the poster's emotional state, such as their irritability."])
+('18', ['Incorrect', "Avoid making inferences about the poster's appetite when there's no direct evidence in the post. Stick to the information provided without assuming additional symptoms."])
+('19', ['Incorrect', 'Consider whether the post provides specific evidence about concentration difficulties rather than inferring solely based on the coping mechanisms mentioned. Look for clear statements or implications about the ability to focus on tasks.'])
+('20', ['Incorrect', 'Assess the post for direct statements of tiredness or fatigue. Refrain from assuming that engaging in certain activities necessarily indicates these symptoms. Instead, focus on identifying explicit references to energy levels or changes in activity.'])
+('21', ['Correct', 'Good analysis - the post does not discuss changes in sexual interest. Continue to focus on the information given, not what is absent.'])
+
+ITER 1
+Do MS Record:
+('1', ['directly_mention', "I do not feel sad###The poster explicitly states, 'I'm writing this partly because I find it therapeutic,' indicating that writing helps them cope with their feelings. This suggests they are aware of their feelings and are actively seeking coping strategies, which is inconsistent with feeling sad all or most of the time."])
+('2', ['indirectly_mention', 'I feel discouraged about my future###The poster mentions going through a rough time themselves and coping by posting passive-aggressive memes. This suggests a degree of discontent and pessimism about their current situation, which can be tied to feelings of discouragement about the future.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to past failure."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of pleasure."])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time###The post mentions that the poster copes with the end of the friendship by posting passive-aggressive memes, which implies that they may feel guilty about their behavior.'])
+('6', ['indirectly_mention', 'I do not feel I am being punished###The post does not mention any explicit feelings of being punished, but the poster talks about deciding to protect themselves, which suggests that they do not feel they deserve punishment.'])
+('7', ['indirectly_mention', "I am disappointed in myself.###The post mentions that the poster is frustrated with their friend's behavior and finds it difficult to be friends with someone who thinks everything is about them. This can imply a form of self-disappointment for the poster, as they might feel disappointed in themselves for being unable to handle the situation effectively and maintain the friendship."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any explicit indication of self-accusations. It mainly focuses on the behavior of the friend and the poster's decision to end the friendship for self-protection."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any information or context related to loss of interest"])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information or context related to feelings of worthlessness"])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything about loss of energy."])
+('16', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in sleeping pattern."])
+('18', ['not_mention', "Doesn't mention at all.###There is no mention or indication of any change in appetite in the post."])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###The post mentions that the XBFF takes everything personally and jumps to random conclusions without seeking clarification. This suggests a difficulty in focusing and maintaining concentration on the actual content of the conversation.'])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention anything about tiredness or fatigue in relation to the end of the friendship."])
+Do MS Check Record:
+('1', ['Incorrect', 'While the poster does express a reflective sentiment regarding their feelings, they do not explicitly indicate that they feel sad. Reassess the emotional content of the post without assuming that therapeutic writing equates to the presence of sadness.'])
+('2', ['Incorrect', "Avoid conflating the poster's methods of coping with feelings of pessimism. There is no clear evidence that the poster feels discouraged about their future; instead, focus on the poster's stated feelings and actions without extrapolating beyond the provided information."])
+('3', ['Incorrect', "Carefully analyze the content of the post for any underlying themes that could suggest past failures, such as the end of the friendship or the poster's feelings about the situation."])
+('4', ['Incorrect', "Evaluate the poster's description of their coping mechanisms and their reaction to the end of the friendship to infer if there has been any change in their ability to enjoy life or pleasure in activities."])
+('5', ['Incorrect', 'Review the content of the post for explicit statements regarding guilt. The post suggests coping through posting memes, not a direct admission of guilt. Focus on what is stated rather than implying feelings not clearly expressed.'])
+('6', ['Correct', "Ensure that your analysis of punishment relates to the poster's actions and words. The absence of feelings of punishment is supported by the poster's decision to protect themselves, which indicates they don't feel they're in the wrong."])
+('7', ['Incorrect', "Analyze the post for indirect expressions of self-dislike, focusing on the poster's feelings about their actions or decisions instead of assuming an absence of such feelings."])
+('8', ['Correct', 'Continue to carefully distinguish between direct vs. indirect mentions and relevant vs. irrelevant content to the questions posed by the mental scale.'])
+('12', ['Incorrect', "Re-assess the post focusing on possible subtle indications of a 'Loss of Interest' in activities that were once considered enjoyable, such as planning trips, which could suggest a change in the poster's level of interest."])
+('14', ['Incorrect', "Analyze the post for underlying tones of 'Worthlessness'. The frustration with the friend and the expression of standing up for ones own time and emotions could hint at self-value, which opposes feelings of worthlessness."])
+('15', ['Correct', "Continue carefully analyzing the content of the posts without making unwarranted assumptions. Make sure not to infer information that isn't presented."])
+('16', ['Correct', 'Maintain a focused approach to assess each question based solely on the information given in the post. Avoid adding or assuming details not explicitly stated.'])
+('18', ['Incorrect', 'Be mindful not to disregard potential indirect signals about mental states in the post. While appetite was not mentioned, consider context clues that could hint at emotional or behavioral changes which might affect appetite. Revise your analysis process to look for implicit information.'])
+('19', ['Incorrect', 'Avoid inferring psychological states like concentration difficulty without clear evidence from the post. Focus on what is explicitly mentioned rather than assuming based on the behavior of the XBFF. Review the post and base your answers solely on the information provided about the poster, not others mentioned.'])
+('20', ['Correct', 'Continue to analyze posts thoroughly and ensure responses are directly related to the content of the post.'])
+
+ITER 2
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention or discuss feelings of sadness explicitly."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention or discuss feelings of pessimism explicitly."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything about past failures specifically. It focuses more on the dynamics of the ended friendship and the poster's coping mechanisms."])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###Although the post does not directly mention a loss of pleasure, the poster mentions going through a rough time and coping by posting passive-aggressive memes. This suggests a change in their ability to enjoy things.'])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time###The post mentions that the poster coping by posting passive-aggressive memes, which suggests they may feel guilty about their actions or behavior.'])
+('7', ['indirectly_mention', 'I am disappointed in myself###The post mentions that the poster decided to end the friendship in order to protect themselves. This decision may indicate a level of self-dislike or disappointment in themselves for allowing the negative dynamic to continue.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything about loss of interest in activities or people."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feelings of worthlessness."])
+('18', ['indirectly_mention', "My appetite is somewhat less than usual.###In the post, I mentioned that I've been going through a rough time myself and coping by posting passive-aggressive memes. It's possible that my appetite has been affected by the emotional stress I've been experiencing."])
+('19', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything about concentration difficulties. It focuses more on the dynamics of the friendship and the reasons for ending it."])
+Do MS Check Record:
+('1', ['Incorrect', 'Review the post and consider the emotions that might be associated with ending a friendship, such as sadness. Reflect this in your response.'])
+('2', ['Incorrect', 'Analyze the possible underlying sentiments in the post relating to the future or hope, which might suggest pessimism, and include this in your answer.'])
+('3', ['Incorrect', "Pay closer attention to the content of the post. Although it does not explicitly mention past failures, you should not insert assumptions that aren't supported by the text. Look for any indications of past experiences impacting current behavior without inferring facts not present."])
+('4', ['Correct', 'Your ability to infer subtle changes in behavior such as a loss of pleasure from indirect evidence in the post is commendable. Continue to use these skills to read between the lines, while ensuring not to overreach beyond what the information reasonably supports.'])
+('5', ['Incorrect', "Carefully analyze the post's content for explicit statements rather than presuming guilt based on indirect behavior. Look for clear indicators of emotional states related to the question."])
+('7', ['Incorrect', 'Avoid assuming self-dislike based on the decision to protect oneself; focus on information directly provided about self-perception and use it to guide your response to the question.'])
+('12', ['Incorrect', "Review the post and assess the emotional context; consider how ending a friendship might impact someone's interest in daily activities or hobbies as a sign of coping."])
+('14', ['Incorrect', "Analyze the poster's language for any signs of self-devaluation or feelings of worthlessness in the context of the described conflict, rather than taking lack of explicit mention as absence of sentiment."])
+('18', ['Correct', 'Continue to analyze posts with nuance and be cautious of not making inferences without textual evidence.'])
+('19', ['Incorrect', 'Avoid assuming a lack of information means the topic is not applicable; explore possible indirect references or implications in the post.'])
+
+ITER 3
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time###The post mentions that the person is going through a rough time and is coping by posting passive-aggressive memes, which suggests a negative emotional state, possibly including sadness.'])
+('2', ['indirectly_mention', "I feel I have nothing to look forward to###The post talks about the person's frustration and disappointment with their friendship, particularly highlighting the lack of accommodation for their work schedule. This negative outlook on the future can be indicative of pessimism."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to past failures. The focus is on the end of a friendship and the reasons behind it, but there is no direct or indirect mention of personal failures."])
+('5', ['indirectly_mention', "I feel quite guilty most of the time.###Although the post doesn't explicitly mention feeling guilty, there are indications of guilt throughout the text. The poster mentions posting passive-aggressive memes as a coping mechanism and feeling afraid to speak because of potential misinterpretations. These behaviors suggest a degree of guilt and self-consciousness."])
+('7', ['indirectly_mention', 'I dislike myself###The post mentions that the poster decided to end the friendship because the friend always thinks everything is about her. This suggests that the poster may have developed self-dislike due to the negative experiences in the friendship.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide information related to the loss of interest."])
+('14', ['directly_mention', "I do not consider myself as worthwhile and useful as I used to.###The poster mentions feeling frustrated by the friend's assumption that everything is about her, indicating a decrease in self-perceived worth and usefulness."])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###The poster mentions going through a rough time and coping by posting passive-aggressive memes. This suggests that their concentration may be compromised, as they are using social media as an outlet for their emotions and thoughts.'])
+Do MS Check Record:
+('1', ['Incorrect', "Carefully consider whether feelings are being directly implied by the post. Merely going through a tough time does not equate to feeling sad 'much of the time.' Seek evidence in the text for frequency and duration."])
+('2', ['Correct', "Ensure to identify specific points from the post that justify the inference of pessimism, such as the respondent's clear expression of frustration and negativity towards future plans with the friend."])
+('3', ['Correct', 'Continue to identify the literal content of the posts and avoid assuming information not evident in the text.'])
+('5', ['Incorrect', 'Avoid projecting feelings onto the poster without textual evidence. Focus on explicit mentions and tone to infer emotion, not assumptions.'])
+('7', ['Incorrect', 'Carefully analyze the post for any indications of self-perception, and avoid assuming self-dislike without clear evidence.'])
+('12', ['Incorrect', 'Review the post for any hints of changed behavior or attitudes toward activities once enjoyed, which could suggest a loss of interest.'])
+('14', ['Incorrect', "Carefully analyze the post's content for explicit mentions of self-worth. Do not presume that frustration with another's behavior implies a personal sense of worthlessness."])
+('19', ['Incorrect', "Avoid over-interpreting the poster's actions on social media as a sign of concentration difficulty without clear evidence. Focus on what is explicitly stated about their mental state."])
+
+ITER 4
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the individual's feelings of sadness."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the individual's guilty feelings."])
+('7', ['not_mention', "Doesn't mention at all.###The post doesn't contain any explicit mention or indication of self-dislike. The poster talks about the end of a friendship and her frustrations with her friend's behavior, but there is no apparent indication of self-dislike."])
+('12', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information about the poster's interest in other people or activities. It primarily focuses on the dynamics of the ended friendship and the frustration caused by her friend's behavior."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling worthless or self-worth."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything about difficulty in concentration."])
+Do MS Check Record:
+('1', ['Incorrect', 'Review the post for indications of emotional states related to the topic, such as coping mechanisms, which may suggest feelings of sadness.'])
+('5', ['Incorrect', "Consider the context and the poster's feelings toward the situation which may imply guilt, even if not explicitly stated."])
+('7', ['Correct', 'Maintain a critical eye and evaluate each statement for its content related to the question.'])
+('12', ['Correct', 'Focus on what is explicitly stated in the post when assessing loss of interest and avoid making unfounded inferences.'])
+('14', ['Incorrect', 'Reevaluate the post for subtle cues that may indicate feelings of worthlessness, such as expressions of self-doubt or rejection. While it is not explicitly mentioned, consider the implications of ending a friendship and how the poster presents their own coping skills.'])
+('19', ['Correct', 'You correctly identified that the post does not provide any information on concentration difficulty. However, ensure that a lack of mention is indeed absence of the trait and not an oversight in analysis.'])
+
+ITER 5
+Do MS Record:
+('1', ['directly_mention', "I feel quite guilty most of the time.###The post mentions feeling guilty about the decision to end the friendship and expresses frustration towards the friend's behavior, which may imply a sense of guilt on the part of the poster."])
+('5', ['indirectly_mention', 'I feel sad much of the time.###While the post does not explicitly mention sadness, the poster states that they are going through a rough time and that they cope by posting passive-aggressive memes. This suggests that they may be experiencing sadness as a result of the end of the friendship.'])
+('14', ['indirectly_mention', 'I do not consider myself as worthwhile and useful as I used to.###In the post, the poster talks about ending a friendship and explains that the friend no longer compliments their life. They mention that they cope with their own rough time by posting passive-aggressive memes, which may suggest feelings of self-doubt and questioning their own worth and usefulness in the friendship.'])
+Do MS Check Record:
+('1', ['Incorrect', 'Review the post and focus on the specific emotions described by the poster. Look for explicit statements about feelings rather than assuming them.'])
+('5', ['Incorrect', 'Avoid projecting emotions onto the poster that are not directly supported by the content of the post. Stick to the information provided to infer feelings accurately.'])
+('14', ['Incorrect', "Reevaluate the post's content to avoid projecting feelings onto the poster that aren't explicitly mentioned; focus on the poster's expressions of coping and self-protection instead of assuming feelings of worthlessness."])
+
+ITER 6
+Do MS Record:
+('1', ['directly_mention', "I feel sad much of the time###The poster explicitly states that they've been going through a rough time themselves, which implies feeling sad much of the time."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not provide any information that allows for an assessment of guilty feelings."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention feelings of worthlessness."])
+Do MS Check Record:
+('1', ['Correct', 'Ensure to maintain the focus on explicit information from the post for future responses.'])
+('5', ['Correct', 'Good job identifying the absence of information. Always look for implicit cues but do not assume emotions that are not indicated.'])
+('14', ['Incorrect', 'Consider the context in which the poster discusses their decision-making and relationship dynamics, which may imply underlying feelings. Reassess the content for potential indications of self-worth in relation to the end of the friendship.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the answers provided in the mental scale questions, the poster expresses feelings of sadness, pessimism, agitation, and irritability. Additionally, they mention a loss of pleasure and a decreased appetite. These symptoms are indicative of depressive symptoms, suggesting that the poster may be suffering from depression.
+
+Incorrect
+Carefully distinguish between feelings related to a specific event, such as the ending of a friendship, and chronic feelings indicative of depression. While the poster does describe certain negative emotions, there is not sufficient evidence from the mental health scale responses to diagnose them with depression. Avoid overgeneralizing or making inferences that are not supported by the data provided. Look for a pattern of symptoms over time that affect various aspects of life, which is key in diagnosing depression, rather than reactions to a particular life event.
+
+ITER 1
+No
+The poster does describe negative emotions related to the end of a friendship, but there is not sufficient evidence from the mental health scale responses to diagnose them with depression. The negative emotions described are more specific to the situation rather than chronic feelings indicative of depression.
+
+Correct
+Continue to avoid overgeneralizing from specific situations to broader mental health conditions without sufficient evidence. Be wary of distinguishing between situational distress and clinical depression, focusing on patterns that indicate pervasive or persistent symptoms across different contexts, as per diagnostic criteria. Maintain a cautious and evidence-based approach when interpreting emotional states from social media posts and mental health scale responses.

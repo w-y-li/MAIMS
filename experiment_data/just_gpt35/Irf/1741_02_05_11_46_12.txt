@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  really want to die  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expressing the desire to die indicates a high level of perceived burdensomeness, as the person feels overwhelmed with the idea that their existence is burdensome to others. This suggests a potential risk for perceived burdensomeness in the poster's mental health.
+

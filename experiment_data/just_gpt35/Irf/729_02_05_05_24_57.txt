@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I've invested my time into my digital marketing skills, among a variety of industries. I don't know where to head nextÖ  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of perceived burdensomeness. The poster is expressing uncertainty about their future career path, but there is no indication of feeling burdensome to others.
+

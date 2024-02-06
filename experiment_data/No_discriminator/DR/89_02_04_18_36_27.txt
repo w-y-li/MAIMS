@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  If this doesn't work, I'm accepting applications for a new bestie! Lol!  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to sadness or any indication about the poster's emotional state."])
+('2', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to pessimism or the poster's outlook on the future."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to past failure or loss of pleasure."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to past failure or loss of pleasure."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention any feeling of guilt or punishment."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to feeling guilty or deserving punishment."])
+('7', ['directly_mention', "I'm accepting applications for a new bestie! Lol!###The post explicitly mentions that the poster is accepting applications for a new bestie, which indicates a possible self-dislike or dissatisfaction with their current bestie."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention self-accusations or blaming oneself."])
+('9', ['indirectly_mention', "I do not have any thoughts of killing myself.###The phrase 'If this doesn't work' suggests that I am facing some sort of problem or challenge. The mention of 'accepting applications for a new bestie' may indicate that I am feeling upset or disappointed with my current best friend. While the post does not directly mention suicidal thoughts or wishes, the use of humor ('Lol!') suggests that I may not be feeling seriously suicidal at this moment."])
+('10', ['indirectly_mention', "I cry more than I used to.###The phrase 'If this doesn't work' implies that something is not going well in my life. The humorous tone ('Lol!') suggests that I may not be feeling severely depressed, but the mention of seeking a new best friend may indicate that I am feeling lonely or disappointed. Although the post does not directly mention crying, the overall context suggests that I may be experiencing increased emotional distress."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to agitation. It is a humorous statement about accepting applications for a new bestie if something doesn't work. There is no information provided to make any deduction about agitation."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of interest. It is a light-hearted statement about accepting applications for a new bestie. There is no information provided to make any deduction about loss of interest."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to indecisiveness."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to worthlessness."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to energy or changes in sleeping pattern. It's simply a statement about potentially looking for a new best friend."])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information about loss of energy or changes in sleeping pattern. It focuses on the possibility of finding a new best friend."])
+('17', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to irritability."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in appetite."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to concentration difficulty or tiredness and fatigue."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to concentration difficulty or tiredness and fatigue."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses indicate several symptoms of depression, such as self-dislike, crying more than usual, and thoughts of finding a new bestie. These symptoms suggest a possible depressive mood and a need for social connection.
+

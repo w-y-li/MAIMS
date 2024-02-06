@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I feel absolutely stuck in my life. That‚Äôs one of the major depressive thoughts I have. I want things to happen. But I can‚Äôt even get myself to do anything out of the ordinary because I‚Äôm petrified of change. I want things to change. But I‚Äôm afraid of things changing. What the fuck is wrong with me?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of feeling stuck and being afraid of change, which suggests a possible risk of perceived burdensomeness. The poster expresses a desire for things to change but is also fearful of that change, indicating conflicting emotions and potential feelings of being overwhelmed.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Its extremely difficult for me to ask for help. But I tried. And I got straight up ignored. Note taken, definitely best course of action just to suck it up and push it down. Even though it's just getting worse and worse.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual is experiencing difficulty in asking for help and feels ignored when they do seek assistance. This pattern of behavior may indicate a risk of perceived burdensomeness, where the person feels like a burden to others and believes that they shouldn't bother asking for help.
+

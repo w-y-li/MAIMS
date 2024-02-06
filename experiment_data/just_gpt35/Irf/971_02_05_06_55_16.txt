@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I have exams in 4 days. I haven't been studying at all this christmas, because every day I can't seem to motivate myself to do it. Honestly I'm like 'why even bother anymore, I won't make it 'till the end of the schoolyear anyway. So I just play video games to cope with my severe suicidal thoughts. Just some daily struggles I have...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests the presence of severe suicidal thoughts, indicating a perceived burdensomeness on the individual. The statement 'why even bother anymore, I won't make it 'till the end of the school year anyway' implies a sense of hopelessness and a belief that their existence is burdensome to others.
+

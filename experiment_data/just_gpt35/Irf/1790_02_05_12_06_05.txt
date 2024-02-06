@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Another day of nobody at home understanding the underlying reasons I do things . Why I sleep so much, why I'm in my room all the time, why I eat so much. I sleep so I don't have to deal with things. I'm in my room so I don't bother people. I eat so much because food is the one of the few things that make me happy anymore. I put on the facade for everyone that I'm this optimistic, happy go lucky person, but if people really knew. And God forbid I tell my mom I have depression. She'd yell and tell me I don't. I know somethings wrong. I have something, depression, BPD, ADHD, something! But I'm too poor to be diagnosed and too scared to ever confide in family, to only be told I'm saying this because I want attention. And every day I have to pretend I'm ok.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of isolation and a lack of understanding from others, which suggests a risk of thwarted belongingness. The poster mentions feeling alone, not being understood, and being scared to confide in family due to fear of being dismissed or accused of seeking attention.
+

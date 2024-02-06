@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm trying my best to take care of my mother, who suffers from mental health issues and looks like dementia (unconfirmed), who has uncontrollable rage at times towards everyone. My husband cannot understand this. I myself am bipolar. He's filing for a divorce. I don't have a job or any means to support myself. I don't want to deal with anything anymore. It's been 40 years of screaming, shouting, fighting, drama, right from childhood. I have no siblings. I can't do this anymore. My heart feels like it's just going to stop beating. I think if I didn't feel guilty about leaving my mother and my very old grandmother without support, I would have killed myself already. I'm so exhausted.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and lack of support, as well as feelings of exhaustion and wanting to escape from the situation. These are common signs of thwarted belongingness, which refers to the perception of not belonging or not having fulfilling social connections.
+

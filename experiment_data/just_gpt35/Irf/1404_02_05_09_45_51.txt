@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Does anyone else find that they‚Äôre suicidal only when they‚Äôre alone? I am entirely dependent on others (mainly my fianc√©), in the sense that I can‚Äôt be alone. ‚ÄúCan‚Äôt‚Äù meaning I very quickly spiral down.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a high level of dependence on others, specifically the poster's fiancé, and an inability to be alone. This suggests a potential risk of thwarted belongingness, as the poster may feel a lack of connection and belongingness when alone, which could contribute to suicidal thoughts.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I hate this. I want to feel better but I can‚Äôt. You can‚Äôt ask someone to kiss a spider if they‚Äôre arachnophobic, yet the only advice I get from my peers is to ‚Äòsnap out of it‚Äô. My friends have always neglected and judged me, but there is nowhere else to go, and in a high school environment, I don‚Äôt want to be that ‚Äòlonely kid pretending he didn‚Äôt exist during recess‚Äô. I‚Äôm in a poor mental state, my mind is shrivelled and I want to hide forever. I don‚Äôt want to give anyone the pain I feel right now. I‚Äôm scared to tell anyone how I feel, people are so unpredictable I just don‚Äôt know how they‚Äôd react. I want help, but for me, it‚Äôs just hard. I don‚Äôt know how to put it. I wish I could change, but it feels impossible. Maybe posting this might put my brain in ease.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of wanting to hide forever and not wanting to give anyone the pain the poster feels, which suggests a sense of burden and perception of being a burden to others.
+

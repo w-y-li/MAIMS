@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I've been going through a rough patch. I was recently diagnosed with mild depression and GAD and have worry reduction group therapy in a few weeks. I don't feel like I have anyone to talk or turn to without feeling guilty or like I am making a meal out of how i'm feeling. I try and help people who have more stressful things going on as a distraction technique but I am now feeling like I should just stop messaging or contacting people because at least then, I wont feel guilty about bothering someone. I have tried monitoring sleep but that has stopped and I am sleeping less. I tried a mood diary app on my phone but that last about a month. I also tried coming off facebook for a few weeks, but didn't notice much difference. I'm at a bit of a stand still with regards of what to do. I'm not too sure what to expect from writing this or if i'll get anything out of it. But i think the anonymity of it helps a little.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the poster feels like they don't have anyone to talk to without feeling guilty or bothering someone. They mention attempting distraction techniques and feeling guilty about contacting others. These feelings suggest a sense of thwarted belongingness, a lack of social connectedness and support.
+

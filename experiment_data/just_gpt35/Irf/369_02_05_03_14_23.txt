@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I've had help from the nhs as a teenager for my mental health, specifically with anxiety in the past but I think it just made these issues worse due to the medications and the general misunderstanding I recieved from doctors. Im 18 now and feel like I need to do something because I want to die and have been depressed for almost a decade and can't see any way of things getting better. Its just terrifying because I dont think I can cope with all the drama involved in trying to get help in this country, and its only supposed to be worse as an adult. I'm really sorry cause I know its so much harder for some people in other countries. I don't really know why I'm posting, I just don't know who to talk to. I just feel really on my own and don't know what to do.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being overwhelmed, a lack of support, and a sense of not knowing who to turn to. The mention of wanting to die and feeling depressed for almost a decade suggests a high level of distress and possibly a perception of being a burden to others. This is indicative of perceived burdensomeness, which is a risk factor for suicidal ideation and behavior.
+

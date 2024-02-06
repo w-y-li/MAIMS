@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I have no happiness in my life at all, I try and distance myself emotionally from my family because it's easier that way than feeling guilt and them not understanding. Not even music or tv shows give me a moment of happiness I just feel disgust and more sadness. It would just be better if I died Usually I use music and tv as a coping mechanism In trying to destruct myself but it's not working anymore and I'm scared at this point  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post reflects a sense of isolation and emotional distance from family, as well as a lack of happiness and enjoyment in activities that are typically pleasurable. The mention of using music and TV as coping mechanisms that are no longer effective, accompanied by a desire for death, suggests possible feelings of thwarted belongingness.
+

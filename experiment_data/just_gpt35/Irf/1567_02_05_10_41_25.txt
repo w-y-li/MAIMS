@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I'm 18 I want to commit suicide but I'm not brave enough I don't want to tell my parents or friends but they said I've been acting weird plus I haven't gone to class in a month and my parents know it yet my dad decides to say that I'm like this because of videogames, yesterday I smashed my phone into pieces because he called me just to blame me for that. I'm so lost I want to cry and share my shit with someone close but that person just don't exist  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden to others, as the poster mentions not wanting to tell their parents or friends about their suicidal thoughts and feelings. They also express a lack of someone close to share their problems with, which suggests a perceived burdensomeness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I feel as if depression has turned me into some sort of subhuman creature. Every time I talk to one of my friends, they tell me about their days stuffed full of classes and going out and traveling and somehow still fitting in basic care of themselves and their homes. They talk about living their best lives, and how they are in their prime. I feel like I am talking to a completely different species. It takes an incredible amount of mental willpower to get myself out of bed in the morning and feed myself. I can't fathom having the energy to work, go to school, take care of myself, dedicate time to friends, hygiene, cooking, cleaning, planning, and more all in one day, every day. But everyone I know around me my age seems to be managing such a busy, full life. I feel like a devolved form of them, only having the mental and physical capacity to handle a small fraction of what others continually accomplish daily. Just wondering if anyone else feels no longer human as well.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of isolation and not being able to fit in with others who are living a more fulfilling life. This indicates a potential risk of thwarted belongingness, which is a psychological state characterized by a lack of social connection and a sense of not belonging.
+

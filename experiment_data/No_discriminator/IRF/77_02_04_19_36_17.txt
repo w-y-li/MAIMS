@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Hahahaüò¢ So sad that even when I'm not suicidal I know that it's a must for me to die because I don't see myself getting back up. Wow my life is over at just 22.I wish a disease snatches me away before I do something that I might regret  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Very true for me###The post explicitly states that the people in their life would be better off and happier without them by saying 'even when I'm not suicidal I know that it's a must for me to die because I don't see myself getting back up' and 'I wish a disease snatches me away before I do something that I might regret'."])
+('2', ['indirectly_mention', "Somewhat true for me###While the post doesn't directly mention whether the people in their life would be happier without them, they express feeling that their life is over and they don't see themselves getting back up, which implies a lack of hope and potentially feeling like they are a burden to others. These feelings may contribute to a belief that others would be happier without them."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like a burden on society which is indicative of feeling somewhat true for the question.'])
+('4', ['directly_mention', 'Very true for me###The post explicitly states that the poster believes their death would be a relief to the people in their life, indicating a very true answer to the question.'])
+('5', ['indirectly_mention', "Somewhat true for me###The post expresses a feeling of sadness, hopelessness, and a desire for something to take the person away before they do something regrettable. This suggests that the person may feel like they are a burden to the people in their life, which would align with a response of 'Somewhat true for me' to Question 5."])
+('6', ['indirectly_mention', "Somewhat true for me###The post indicates a belief that the person's presence or actions may make things worse for the people in their life. This aligns with a response of 'Somewhat true for me' to Question 6."])
+('7', ['indirectly_mention', "Somewhat true for me###The post mentions feeling sad and not seeing myself getting back up, which implies that I feel like other people don't care about me. However, the post doesn't directly mention whether other people care about me or not."])
+('8', ['indirectly_mention', "Not at all true for me###The post mentions feeling sad, wanting to die, and feeling like my life is over, which suggests that I don't feel like I belong. However, the post doesn't directly mention whether I feel like I belong or not."])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling sad and not seeing myself getting back up, which suggests a lack of support and caring from others. Although it is not explicitly stated whether I interact with people who care about me, the feeling of sadness and hopelessness implies that I may not have much interaction with supportive individuals.'])
+('10', ['indirectly_mention', 'Not at all true for me###The post mentions feeling sad and contemplating regretful actions. This suggests a lack of supportive friends and hence, it is unlikely that I have many caring and supportive friends in my life.'])
+('11', ['indirectly_mention', 'Very true for me###The post mentions feeling disconnected and not seeing oneself getting back up, suggesting a sense of disconnection from other people.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention feeling like an outsider in social gatherings."])
+('13', ['indirectly_mention', "Somewhat true for me###The post indicates that the person is feeling sad and hopeless, suggesting that they may be in need of support. However, it doesn't directly mention seeking help from others, so I can only deduce that they may feel somewhat true that there are people they can turn to in times of need."])
+('14', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information about the person's closeness to other people. It focuses more on their negative emotions and thoughts rather than their relationships with others."])
+('15', ['indirectly_mention', "Somewhat true for me###The post indirectly mentions the satisfaction of interactions by stating that even when the poster is not suicidal, they don't see themselves getting back up. This suggests a lack of positive interactions in their life, indicating that having satisfying interactions is somewhat true for them."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a high risk of perceived burdensomeness based on the answers to questions 1, 2, 3, 4, 5, and 6 from the mental scale. The poster expresses thoughts of being a burden on society, feeling like they make things worse for others, and thinking that others would be better off without them. These statements reflect a strong belief in their own perceived burdensomeness.
+

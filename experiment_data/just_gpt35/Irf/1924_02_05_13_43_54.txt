@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I don‚Äôt want to die this way, but i think i inevitably will, no one can save me from myself. Everyday takes so much effort to function mediocrely. I want to live but I don‚Äôt think I can change. It‚Äôs just a waiting game. I‚Äôm not depressed enough to want to act on my thoughts, I‚Äôm too scared and I care too much about the people around me. I just want to die and take everyone‚Äôs suffering with me. I want everyone to be happy because they deserve that. I wish there was a way I could sacrifice myself and make everyone better. I‚Äôve had enough of suffering, I can‚Äôt bear to see it. I feel empathy so hard, because of the severe depressive episode I went through a few years ago. I can‚Äôt bear to imagine anyone experiencing that. It breaks my heart. I convinced myself not to die but I‚Äôve never truly felt at peace, life for me is just exhausting attempts at constantly distracting myself from the depressive thoughts that I just can‚Äôt get rid off. I‚Äôve learnt how to cope, but I‚Äôve never been cured. One day when I feel the time is right, when I‚Äôve distanced myself enough from my friends and when my parents have died, it would probably be the time I end my life.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong desire for everyone around the poster to be happy and the belief that the poster's suffering is burdensome to others. This suggests a sense of feeling disconnected and a potential risk of thwarted belongingness.
+

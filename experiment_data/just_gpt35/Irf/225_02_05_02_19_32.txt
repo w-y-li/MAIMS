@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I'm being partially hospitalized for paranoia. I'm glad I'm getting the help I need, but not feeling great that I'll have to miss work.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the poster feels burdened by the thought of missing work due to their partial hospitalization for paranoia. This suggests a risk of perceived burdensomeness.
+

@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  I need advice : what was the moment that proved and showed you that you did or didn't want kids? I'm trying to find out if I myself would one day want kids of my own. I am a female in my early 20ties and as of now the answer is no, I don't see myself having or wanting kids now or anytime in the near future. However there's still the far future; I want to know if people have a change of heart about this ? Will I stay with the oppinion I have now forever ? I'm not asking to be convinced of being a parent because I don't see having kids or not having kids as a right or wrong. I simply want to be able to find out if I will also not want any in the distant future.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster's question shows a contemplative mindset regarding the decision to have children, which is a normal and common thought process among individuals in their early 20s. The poster acknowledges that their current answer is 'no' and they do not see themselves wanting kids now or in the near future. They express curiosity about the possibility of a change in opinion in the future but emphasize that they are not asking to be convinced of being a parent. This demonstrates a level of self-awareness and open-mindedness, which does not necessarily indicate depression.
+
+Correct
+Continue to avoid making assumptions based on insufficient evidence, and maintain your focus on what is explicitly stated in the posts. Remember that lacking the desire for children at a certain age is not indicative of depression. Keep up the good work in distinguishing between contemplation and potential mental health issues.

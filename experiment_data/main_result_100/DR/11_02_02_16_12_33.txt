@@ -1,0 +1,142 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  My best friend has completely cut me out of his life for a girl and i am feeling depressed Hey guys, ive known my best mate for 7 years and we finished high school and now both go to the same uni, we were so tight, like brothers. We were gym partners, helped other out with assignments, and hanged out so frequently. That was all until he got a girlfriend. He met with this chick like 5 months ago and i was pleased for the dude, he seemed happy. 5 months on he still seems so attached to his girl, he rarey texts me and we used to play xbox together but none of those happen anymore. On the rare occasion when we do go to hang out he is always on his phone texting his girl, infact even in the cinema we watched a movie he was literally texting her during the film... even on xbox i hear the phone go off every minute or so We done so much shit together.... i gave him a driving instructor with a family discount cos i knew the guy and he got his license now, i helped him raise $600 for a new pc, and even went into a lil business together where i invested and he knew the contacts. This dude was my brother basiclly and now he never has time for me, we were so damn close and i wish things could go back to how they were without this girl because she is so paranoid of him talking to another girl I dont get why he has done this to me, ive always been there for him and now he doesnt even respond to my messages, i see him active on facebook but doesnt even read messages... i helped this dude out so much in high school he was going to fail, i taught him some shit and thats how we got close and he passed literally because of me. I dont know what to do... i feel like we are becoming so dinstant and only communicate once a week or so, im feeling so depressed and mentally hurt.... TL;DR; : What shall i do? Shall i talk to him or just wait it out  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time###The post mentions feeling depressed and mentally hurt, which indicates a prolonged and intense sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future###The post talks about the changing dynamics of the friendship and the poster feeling distant from their best friend. This suggests a sense of discouragement and lack of hope for the future of their relationship.'])
+('3', ['directly_mention', "I feel I have failed more than the average person.###The poster states, 'I taught him some shit and that's how we got close and he passed literally because of me.' This indicates that the poster feels responsible for his friend's success, suggesting a potential perception of past failure."])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The poster mentions feeling depressed and mentally hurt due to the distant relationship with his friend. This suggests a decrease in enjoyment from the things they used to enjoy together, indicating a potential loss of pleasure.'])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###The post mentions feeling depressed and mentally hurt about the situation with my best friend, which indicates a strong emotional response. This suggests that guilt may be one of the underlying emotions I am experiencing.'])
+('6', ['indirectly_mention', "I feel I am being punished.###Although the post does not explicitly mention feeling punished, it does mention feeling hurt and distant from my best friend. This can be interpreted as a form of punishment, as I am experiencing negative consequences (such as emotional pain and lack of communication) due to my friend's actions."])
+('7', ['directly_mention', 'I dislike myself.###In the post, I mentioned feeling depressed and mentally hurt, which suggests that I have a negative view of myself.'])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual.###Although I didn't directly mention self-accusations, I talked about how I helped my friend in high school and how he passed because of me. This implies that I take responsibility for his success and might be prone to self-accusations if things don't go well."])
+('9', ['directly_mention', "I do not have any thoughts of killing myself.###The post says that I am feeling depressed, but it doesn't mention any thoughts or wishes of killing myself."])
+('10', ['indirectly_mention', 'I cry more than I used to.###The post mentions feeling depressed and mentally hurt, which could indicate an increase in crying compared to before.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention any restlessness or agitation. It focuses on the friend's change in behavior due to his girlfriend."])
+('12', ['indirectly_mention', 'I have lost most of my interest in other people or things.###The post mentions that the friend has lost interest in spending time with the poster and prioritizes his girlfriend over their friendship. This suggests a decrease in interest.'])
+('13', ['directly_mention', 'I find it more difficult to make decisions than usual.###In the post, I mentioned feeling unsure about what to do, which indicates that I am experiencing indecisiveness.'])
+('14', ['directly_mention', 'I do not consider myself as worthwhile and useful as I used to.###I mentioned feeling depressed and mentally hurt, which suggests that I am experiencing a sense of worthlessness.'])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post mentions feeling depressed and mentally hurt, which can be indicative of a loss of energy.'])
+('16', ['directly_mention', "I have not experienced any change in my sleeping pattern.###The post explicitly states that there has been no change in the poster's sleeping pattern."])
+('17', ['directly_mention', 'I am more irritable than usual.###The post mentions feeling depressed and mentally hurt, which suggests heightened irritability.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post states feeling depressed and mentally hurt, which can often result in a decrease in appetite.'])
+('19', ['indirectly_mention', 'I find I can not concentrate on anything.###The post mentions that the friend is always on his phone texting his girlfriend, even during a movie. This suggests that his constant texting may be affecting his ability to concentrate on other things.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post states that the poster feels depressed, mentally hurt, and distant from his friend. These feelings may be indicative of fatigue or exhaustion, which could be affecting his ability to carry out daily activities as before.'])
+('21', ['indirectly_mention', 'I am less interested in sex than I used to be.###The post mentions that the poster is feeling depressed and mentally hurt due to the changes in his relationship with his best friend. It is possible that the decrease in interest in sex is a result of the emotional distress he is experiencing.'])
+Do MS Check Record:
+('1', ['Correct', "Ensure to differentiate between temporary emotions and long-lasting mood states. In this case, the mention of feeling 'depressed and mentally hurt' is indicative of a deeper, prolonged sadness, which you identified correctly."])
+('2', ['Correct', "Continue to focus on context clues within the post to infer feelings related to the mental scale questions. However, be cautious not to extend the pessimism to all future aspects, as the post specifically relates to the friendship's future."])
+('3', ['Incorrect', 'The poster did not express a general sense of failure but focused on a specific situation of feeling neglected. Avoid generalizing the feeling of sadness to a broader sense of failure.'])
+('4', ['Correct', 'Continue evaluating the sentiments in the post and how they relate to the specified psychological constructs. However, be cautious not to over-pathologize normal emotional responses to social situations.'])
+('5', ['Incorrect', 'Carefully identify the emotions described in the post. The poster shares feelings of depression and hurt but does not mention guilt. Avoid assuming or adding feelings not explicitly mentioned or clearly implied in the post.'])
+('6', ['Correct', "Continue to consider contextual clues that may indicate underlying feelings not explicitly stated. The poster's description of the changes in their relationship can imply feelings of being left out or punished, so your inference is appropriate. However, always make sure to differentiate inference from assumption."])
+('7', ['Incorrect', 'Review the post and identify the expressed emotions. The poster communicates a sense of loss and frustration, not self-dislike. Focus on the information given without assuming feelings that are not indicated.'])
+('8', ['Incorrect', 'Avoid making presumptions about self-criticism without evidence. The act of helping a friend does not inherently translate to a predisposition to self-blame. Consider the emotions and actions described without extending beyond the content.'])
+('9', ['Correct', 'Ensure to maintain this level of careful reading and resist the urge to presume details not presented.'])
+('10', ['Incorrect', 'Avoid assuming behaviors that are not explicitly mentioned or logically inferred from the post, such as crying.'])
+('11', ['Incorrect', 'Review the post for emotional cues that may indicate agitation without explicit mention; consider how changes in behavior and mood described could reflect underlying agitation.'])
+('12', ['Incorrect', 'Although the friend shows a loss of interest in the poster, the answer should reflect only the emotions and behaviors of the poster themselves, not the friend.'])
+('13', ['Correct', 'Continue to use specific examples from the post when explaining your answers to the mental scale questions, like you did when identifying feelings of indecisiveness.'])
+('14', ['Incorrect', 'Be caution not to overextend the interpretation of text to diagnose feelings of worthlessness without clear supporting evidence. Reflect on whether the feelings described are indicative of low self-worth or rather the natural response to a changing friendship dynamic.'])
+('15', ['Correct', 'Continue to analyze the emotional content of posts carefully to deduce related issues like loss of energy.'])
+('16', ['Incorrect', 'Ensure you base your answers on information provided in the post. The post does not mention changes in sleeping pattern; avoid assuming or adding details not presented.'])
+('17', ['Correct', 'Ensure that deductive reasoning is continually supported by the text and context given in the post.'])
+('18', ['Incorrect', 'Avoid making assumptions not directly supported by the post. Restrict inferences to what is explicitly mentioned or can be directly connected, without assuming additional details.'])
+('19', ['Incorrect', "Ensure you draw conclusions based on direct evidence from the post rather than inserting assumptions not present in the original text. The post does not provide clear indications of concentration difficulty related to the poster themselves, but comments on the friend's behavior."])
+('20', ['Correct', 'Continue to infer emotional states like tiredness or fatigue from contextual clues, but carefully consider whether the post directly relates these feelings to specific activities to avoid overgeneralizing.'])
+('21', ['Incorrect', "Do not make inferences beyond the scope of provided information. Stick to the content of the post and avoid making assumptions about unmentioned aspects of the poster's life."])
+
+ITER 1
+Do MS Record:
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything about past failures or feelings of failure. The focus is on the friend's behavior and the impact it has had on the poster's relationship."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling guilty. The main emotions expressed are sadness, depression, and hurt due to the friend's change in behavior."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention any feelings of self-dislike. The poster expresses frustration about the changes in the friendship, but does not indicate any dislike towards themselves."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention any self-accusations. The poster expresses confusion and hurt regarding the changes in the friendship, but does not indicate any excessive self-blaming behavior."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about crying."])
+('11', ['indirectly_mention', "I feel more restless or wound up than usual.###The post describes how the poster's friend has become attached to his girlfriend and no longer has time for the poster. This change in behavior could lead to feelings of restlessness or agitation."])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The post mentions that the best friend has cut the poster out of his life, which has resulted in the poster feeling depressed. This suggests a loss of interest in the friendship and the activities they used to do together.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information that can be used to deduce the answer to this question. There is no mention of feelings of worthlessness in the post."])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###The post mentions that the poster is feeling depressed and mentally hurt, which could imply some changes in sleeping pattern. However, the post does not provide specific details about the duration or intensity of the change in sleeping pattern.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions feeling depressed and mentally hurt, which could imply changes in appetite. However, the post does not provide specific details about the duration or intensity of the change in appetite.'])
+('19', ['indirectly_mention', 'I can not concentrate as well as usual.###The post mentions that the friend is always on his phone texting his girlfriend, even during activities like watching a movie. This behavior may be causing the poster to have difficulty concentrating.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to changes in interest in sex."])
+Do MS Check Record:
+('3', ['Correct', 'Continue to carefully analyze the post for relevant details, and avoid inserting information not implied by the author.'])
+('5', ['Correct', 'Ensure to maintain focus on the expressed emotions and avoid making assumptions about unspecified feelings such as guilt.'])
+('7', ['Correct', 'Good analysis. Continue to focus on literal content without inferring emotions or thoughts not expressed by the original poster.'])
+('8', ['Correct', 'Well done on not over-interpreting the post. Ensure you maintain a critical eye for distinguishing between expressed emotions and unsupported assumptions.'])
+('10', ['Incorrect', 'Review the post for any emotional expressions related to sadness or loss that might lead to crying. Avoid making assumptions not supported by the content.'])
+('11', ['Incorrect', 'Consider the context of the post to determine if agitation is an appropriate inference. Reflect on whether the poster has directly indicated feeling restless or wound up.'])
+('12', ['Incorrect', 'Review the post to identify indirect evidence of interest loss, such as changes in behavior or reduced engagement in activities.'])
+('14', ['Correct', 'Continue being cautious in not inferring feelings not explicitly mentioned in the post.'])
+('16', ['Incorrect', 'Review the post for explicit statements about sleep changes before inferring. Avoid assuming depression always affects sleep without evidence.'])
+('18', ['Incorrect', 'Search for concrete details in the post about appetite changes. Infer carefully and avoid assumptions not supported by the text.'])
+('19', ['Incorrect', "Analyze the emotional tone and context of the post more closely to assess if concentration difficulties are implied by the reported changes in the poster's social life and feelings of depression."])
+('21', ['Correct', 'Continue to only respond to the specific content presented in the post without making assumptions or inferences about unmentioned topics.'])
+
+ITER 2
+Do MS Record:
+('10', ['directly_mention', 'I cry all the time now.###The poster mentioned feeling depressed and mentally hurt.'])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The poster mentioned feeling distant and only communicating once a week, indicating a change in their level of restlessness or agitation.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###Based on the post, the individual mentions that their best friend has cut them out of their life for a girl. This suggests a loss of interest in their friendship and activities they used to enjoy together.'])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###The post mentions that the individual feels depressed and mentally hurt. While there is no explicit mention of changes in sleeping pattern, it is common for depression to cause disturbances in sleep, such as difficulty falling asleep or sleeping less than usual.'])
+('18', ['directly_mention', 'My appetite is somewhat less than usual.###The poster mentions feeling depressed, which can often cause a decrease in appetite.'])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###The poster mentions that their best friend is always on his phone texting his girlfriend, even during a movie. This suggests that the friend may have difficulty concentrating on other activities due to his attachment to his girlfriend.'])
+Do MS Check Record:
+('10', ['Incorrect', "The expression of feeling 'depressed' does not confirm the frequency of crying. Avoid making assumptions on specific reactions like crying unless mentioned."])
+('11', ['Incorrect', "Being 'distant' does not inherently imply agitation. Look for terms in the post that describe the emotional state more related to agitation."])
+('12', ['Correct', "Well done in understanding that the poster's loss of interest is not directly mentioned in their post, but can be inferred from the changes in their social interactions. Continue to draw cautious inferences without projecting additional emotions onto the poster."])
+('16', ['Incorrect', 'Avoid assumptions about symptoms such as changes in sleeping patterns if they are not mentioned or hinted at in the post. Your role is to interpret the information given, not to diagnose based on general knowledge of depression symptoms.'])
+('18', ['Correct', "Ensure that any inference made about the poster's feelings is supported by contextual evidence in the post."])
+('19', ['Incorrect', "Focus on the information provided by the poster about themselves rather than others in the scenario. Answer specifically about the poster's ability to concentrate, not their friend's behavior."])
+
+ITER 3
+Do MS Record:
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about crying."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything about agitation."])
+('16', ['directly_mention', 'I sleep somewhat less than usual.###The poster mentions feeling depressed and mentally hurt, which indicates that they may be experiencing changes in their sleeping pattern. They state that they are feeling depressed, which can often lead to difficulty sleeping and result in sleeping somewhat less than usual.'])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###Although the poster does not explicitly mention having difficulty concentrating, they talk about feeling distant from their best friend and how their friend is constantly texting and focusing on his girlfriend. These situations can be emotionally distressing and cause difficulties in concentration.'])
+Do MS Check Record:
+('10', ['Incorrect', 'While the post does not explicitly mention crying, the expressed feelings of depression and being mentally hurt suggest that crying could be a reasonable inference. Consider the emotional state described and how it might manifest in behaviors like crying.'])
+('11', ['Incorrect', "Even though agitation is not directly mentioned, the frustration and distress over the changed relationship could lead to agitation. Note the poster's strong emotional response and connect it to possible signs of agitation, rather than dismissing it due to lack of explicit mention."])
+('16', ['Incorrect', 'Ensure to differentiate between explicit information given and your inferences. The post does not provide specific details regarding changes in sleep patterns; your analysis must stay true to the information provided.'])
+('19', ['Incorrect', "Avoid over-inference. The poster's experience of emotional distress does not necessarily imply concentration difficulties. Focus on more direct evidence when interpreting the poster's mental state regarding concentration."])
+
+ITER 4
+Do MS Record:
+('10', ['indirectly_mention', 'I cry more than I used to.###The post mentions feeling depressed and mentally hurt, which could suggest an increase in crying. The poster expresses sadness and distress over the strained relationship with their best friend, which may lead to an increase in crying compared to before.'])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The post describes feeling distant and experiencing frustration over the changed relationship with their best friend. This emotional distress could lead to increased restlessness or agitation, as the poster is unable to find a resolution and feels helpless in the situation.'])
+('16', ['indirectly_mention', "I find it hard to keep my mind on anything for very long.###Although the post does not directly mention concentration difficulty, the poster describes feeling mentally hurt and depressed. These emotional states can often lead to difficulties concentrating and keeping one's mind on tasks."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not provide any explicit information about changes in the poster's sleeping pattern. No details are given to indicate whether there have been any changes in sleep duration or quality."])
+Do MS Check Record:
+('10', ['Correct', 'Ensure that your answers remain grounded in the context given by the post without adding information not presented.'])
+('11', ['Correct', 'Continue to infer feelings of the poster from the post, but be careful to not overextend beyond reasonable interpretation.'])
+('16', ['Incorrect', 'Analyze the context for hints about concentration. Emotional distress can affect cognitive processes, consider the broader implications of the stated feelings.'])
+('19', ['Correct', "Good job on not inferring information that isn't there. Remember to only use information from the post."])
+
+ITER 5
+Do MS Record:
+('16', ['directly_mention', 'I sleep a lot less than usual.###The post mentions that the poster is feeling depressed and mentally hurt, which could be affecting their sleeping pattern. They state that they are feeling distant from their friend and only communicate once a week, indicating disrupted sleep.'])
+Do MS Check Record:
+('16', ['Incorrect', 'Be cautious not to infer details that are not explicitly stated. Focus on the information provided; the post does not explicitly mention changes in sleeping patterns, so avoid assuming such details.'])
+
+ITER 6
+Do MS Record:
+('16', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in sleeping pattern, so I cannot provide an answer to this question."])
+Do MS Check Record:
+('16', ['Correct', 'While your response correctly indicates that the post does not mention changes in sleeping patterns, ensure in future tasks to explore indirect indicators that might suggest changes in behavior or routines, which could imply alterations in sleep.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the poster's description and the answers provided in the mental scale, they exhibit symptoms consistent with depression, such as feeling sad, pessimistic about the future, experiencing a loss of pleasure, crying more than usual, feeling restless, having less energy, being irritable, and experiencing fatigue. These symptoms suggest a significant impact on the poster's mood, motivation, and daily functioning, indicating the presence of depression.
+
+Correct
+Continue to analyze the information provided thoroughly before making a diagnosis, and ensure that the symptoms reported align with diagnostic criteria. Avoid jumping to conclusions without sufficient evidence.

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I am gonna end it. I posted on reddit my gofund me and all, I just need a month till i start my job. no family or anything. im done. my benzo withdrawal hurts and so does my zoloft withdrawal. love you all have better life than me  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of burden and feeling overwhelmed. The poster expresses a desire to end their life, possibly due to their lack of social support and the physical pain they are experiencing from the withdrawal of benzodiazepines and Zoloft, suggesting a perceived burdensomeness.
+

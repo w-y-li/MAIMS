@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I really can't remember. 2018 marks that I've been pretty solidly depressed for ten years.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a long duration of depression (ten years) and the mention of feeling solidly depressed during this time period. This suggests that the individual may perceive themselves as a burden to others due to their ongoing struggles with depression.
+

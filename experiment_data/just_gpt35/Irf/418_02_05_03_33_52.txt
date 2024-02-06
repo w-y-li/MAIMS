@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Growing up I just thought depression was part of life. I later found out, some people don't suffer from it at all. Who else thought it was just part of life? And when did you find out it wasn't normal?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and feeling different from others who do not experience depression. This suggests a potential risk of thwarted belongingness, which refers to feeling disconnected from others and lacking a sense of social support and acceptance.
+

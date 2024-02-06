@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  does it ever feel like your friends arent really there? I genuinely care for and love my friends so I regularly ask them how they're doing on messenger since they all live so far away. I know my friends struggle with depression so I make it a point to contact them and let them know I'm here for them. But most times I am left on  read  or get lukewarm responses, as though they are annoyed. They don't really initiate conversation with me and rarely ask me how I'm doing. I hope I don't sound selfish in any way, but it just feels weird to care so much for people who don't seem to care that much for you. It hurts sometimes that I also struggle with depression but have no one to talk to..  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###The post mentions that the poster struggles with depression and feels hurt that they have no one to talk to. This indicates a consistent feeling of sadness.'])
+('2', ['indirectly_mention', "I feel discouraged about my future.###The post mentions that the poster feels weird to care so much for people who don't seem to care that much for them. This suggests a sense of pessimism about their relationships and the future of those relationships."])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The post mentions that the poster struggles with depression and has no one to talk to. This suggests a sense of isolation and an inability to form meaningful connections, which could lead to feelings of failure compared to others who are able to establish and maintain friendships.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post indicates that the poster regularly reaches out to their friends, expressing care and concern. However, they often receive lukewarm responses or are left on read, suggesting a lack of reciprocation and enjoyment in social interactions. This could imply a loss of pleasure in connecting with friends.'])
+('5', ['indirectly_mention', "I feel guilty a good part of the time###The post mentions that the friends are not really there, and the poster feels weird to care so much for people who don't seem to care that much for them. This suggests that the poster may feel guilty about caring for others while receiving lukewarm responses in return."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication regarding punishment feelings."])
+('7', ['directly_mention', 'I dislike myself.###The post mentions feeling hurt and not having anyone to talk to, which indicates a certain level of self-dislike.'])
+('8', ['directly_mention', "I am more self-critical or blaming than usual.###The post talks about feeling weird to care so much for people who don't seem to care that much for me, suggesting a tendency for self-criticism and blaming."])
+('9', ['indirectly_mention', 'I cry more than I used to.###The poster mentions that they struggle with depression, and it hurts that they have no one to talk to. This suggests that they may be experiencing heightened emotional distress, which could include crying more than usual.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the presence of suicidal thoughts or wishes."])
+('11', ['directly_mention', 'I am so restless or agitated that I have to keep moving or doing something.###I mentioned that I struggle with depression and have no one to talk to. This implies that I feel restless or agitated to the extent that I have to keep moving or doing something.'])
+('12', ['directly_mention', "I am less interested in other people or things than before.###I expressed how my friends don't initiate conversation with me and rarely ask me how I'm doing. This indicates that I am less interested in other people than before."])
+('13', ['indirectly_mention', "I find it more difficult to make decisions than usual.###The post mentions that the poster struggles with depression and feels that their friends don't care for them. This might contribute to feelings of indecisiveness and difficulty making decisions."])
+('14', ['indirectly_mention', 'I do not consider myself as worthwhile and useful as I used to.###The post indicates that the poster feels hurt and unnoticed by their friends. This can lead to a decrease in self-worth and feelings of worthlessness.'])
+('15', ['directly_mention', 'I have less energy than I used to have.###In the post, I mentioned that I struggle with depression and have no one to talk to. This implies that I may have a loss of energy, which is a symptom commonly associated with depression.'])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###Although the post does not explicitly mention changes in sleeping pattern, I stated that I struggle with depression and have no one to talk to. Sleep disturbances, such as sleeping less than usual, are common symptoms of depression.'])
+('17', ['directly_mention', 'I am more irritable than usual.###The post mentions feeling hurt by the lukewarm responses and lack of initiation from friends, which suggests a negative emotional response, potentially leading to increased irritability.'])
+('18', ['directly_mention', "My appetite is somewhat less than usual.###The post mentions struggling with depression and not having anyone to talk to, which can negatively affect one's appetite and lead to a decreased appetite."])
+('19', ['indirectly_mention', 'I can not concentrate as well as usual.###The post mentions that the poster struggles with depression and has no one to talk to. This may indicate that they are experiencing some difficulty in concentration, as depression can affect cognitive functioning.'])
+('20', ['indirectly_mention', "I get more tired or fatigued more easily than usual.###The post discusses the poster's struggle with depression and the feeling of being left out by their friends. Depression is often associated with fatigue and decreased energy levels, so it is likely that the poster is experiencing tiredness or fatigue more easily than usual."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's response to the mental health scale questions indicates symptoms of depression, such as feeling sad much of the time, feeling discouraged about the future, feeling guilty, self-dislike, self-accusations, loss of interest in other people or things, changes in sleeping pattern, irritability, changes in appetite, difficulty concentrating, tiredness or fatigue. These symptoms align with the diagnostic criteria for depression.
+

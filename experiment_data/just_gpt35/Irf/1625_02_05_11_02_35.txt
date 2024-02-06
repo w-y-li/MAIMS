@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Now I‚Äôm having these dark thoughts for the first time in months and I just want them to go away.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual is experiencing dark thoughts and wants them to go away. This could indicate a risk of perceived burdensomeness, where the person feels overwhelmed and believes their presence or actions are a burden to others.
+

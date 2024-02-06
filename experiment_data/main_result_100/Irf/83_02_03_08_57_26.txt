@@ -1,0 +1,171 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  My mother has been depressed most of her life from what I can tell. She and my father are separated. He's struggling with his own battle. I'm 24 in college and I live about an hour away. I come home nearly every holiday, because when I was living at home during community college she became very dependent on me(to do household chores, and support her emotionally). She's lost her white collar job about a year ago. She make some bad choices, transferred to a position that wasn't right for her, and got let go. Now she's working at a warehouse job that too physical for her(out of shape). I'm worried that her depression is getting worse and worse. I can't quit college to move back and take care of her. Nor, do I think that is the way to really help her. Every time I come home her house becomes dirtier and dirtier. She's missing bills, becoming more reclusive, and I'm worried she depleting her savings/retirement. She isn't taking care of herself and not really trying to fix any of this. She's becoming more disillusioned with her job search for another white collar job. She is going to therapy and taking medication, but I don't really see any improvement (actually the opposite). I don't know what to do. I really want to help her but I don't know how without enabling her dependence on me.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', "Not at all true for me.###The post mentions that the mother is dependent on the poster for household chores and emotional support, which implies that the poster is providing some form of help and assistance. Since the post expresses concern and a desire to help the mother, it suggests that the people in the poster's life would not be better off if they were gone."])
+('2', ['indirectly_mention', "Not at all true for me.###The post highlights the poster's worry about the mother's well-being and the desire to help her improve. This indicates that the people in the poster's life would not be happier without them."])
+('3', ['directly_mention', "Somewhat true for me###In the post, the poster expresses concern about their mother's worsening depression and describes their worry about not being able to help her. This suggests that the poster may feel like a burden on their mother and society."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not contain any information or indication regarding the poster's death being a relief to the people in their life. Therefore, I cannot make any deduction or provide an answer to this question based on the given post."])
+('5', ['directly_mention', "Not at all true for me.###The post mentions that the poster is worried about their mother's worsening depression and is looking for ways to help her. This indicates that the people in the poster's life do not wish to be rid of them."])
+('6', ['directly_mention', 'Not at all true for me.###The post states that the poster is worried about making things worse for the people in their life. This shows that the poster does not believe they make things worse for others.'])
+('7', ['directly_mention', "Somewhat true for me###The post mentions that the poster's mother has been dependent on them emotionally. This indicates that the poster feels that other people care about them, but to a certain extent."])
+('8', ['directly_mention', "Not at all true for me###The post suggests that the poster's mother is becoming more reclusive and they are worried about her well-being. This implies that the poster does not feel like they belong."])
+('9', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster's mother has been depressed, which indicates a lack of interaction with caring people. The poster also mentions that they are worried about their mother's well-being and want to help her, suggesting that they care about her."])
+('10', ['indirectly_mention', "Not at all true for me###The post implies that the poster does not have many caring and supportive friends. They express concern about their mother's worsening condition and express a desire to help her, indicating a lack of support from friends."])
+('11', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster's mother has been depressed most of her life and the poster is worried about her worsening depression. This suggests a sense of emotional disconnection and feeling disconnected from other people."])
+('12', ['indirectly_mention', "Very true for me###The post mentions that the poster's mother is becoming more reclusive and not taking care of herself. This implies that the poster often feels like an outsider in social gatherings."])
+('13', ['directly_mention', 'Somewhat true for me###In the post, I mentioned that my mother has been depressed most of her life and I worry about her. This suggests that there are people I can turn to in times of need, but not to a very high extent.'])
+('14', ['indirectly_mention', "Not at all true for me###While I don't directly mention being close to other people, I do talk about feeling worried, helpless, and uncertain about how to help my mother. This suggests that I may not feel emotionally close to other people despite the significant concerns I have about my mother."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to having satisfying interactions every day."])
+Do MS Check Record:
+('1', ['Correct', 'Continue carefully analyzing the content of posts and making deductions based on available information, while not assuming details that were not provided.'])
+('2', ['Correct', "Maintain focus on explicit and implicit information presented in the post when inferring the poster's feelings and situation, avoiding assumptions that are not supported by evidence."])
+('3', ['Incorrect', 'Be cautious of attributing feelings to the poster not indicated in the text. The post discusses their mother and does not suggest the student feels like a burden. Focus on analyzing the expressed concerns without adding assumptions.'])
+('4', ['Correct', "Continue to avoid making inferences when the information is not present in the post. As there are no direct mentions or implications regarding the poster's own death or being a relief, it's appropriate not to attribute such thoughts to the poster."])
+('5', ['Incorrect', 'Review the post for explicit sentiments the poster has about themselves in relation to others, rather than assuming no information about self-perception is available.'])
+('6', ['Incorrect', 'Analyze the post specifically for indications of the poster’s views on their impact on others without overgeneralizing or inferring sentiments that are not clearly expressed.'])
+('7', ['Incorrect', 'Review the post for explicit mentions of support from people aside from the mother. Avoid making assumptions without clear textual evidence.'])
+('8', ['Incorrect', "Focus on what the post says about the poster's social and emotional state without inferring from the mother's situation. Do not extend the mother's feelings to the poster."])
+('9', ['Incorrect', "Consider only the information presented in the post to infer the answer. The poster doesn't mention their own social interactions directly, so refrain from making assumptions about the poster's social circle based on their mother's situation."])
+('10', ['Incorrect', "Avoid drawing conclusions about the poster's social life that are not supported by the content of the post. Focus on the text's description of the poster's relationship with their mother only and do not generalize this to other areas of the poster's life."])
+('11', ['Incorrect', "Do not infer your feelings based on someone else described in the post; focus on direct information about the poster's own feelings."])
+('12', ['Incorrect', "Avoid projecting emotions; ascertain the poster’s personal experiences rather than assuming based on others' behaviors."])
+('13', ['Incorrect', 'Review the post for explicit statements or hints about social support. Avoid inferring the availability of support solely based on the challenges described. Reassess your interpretation focusing on actual content related to social connections.'])
+('14', ['Incorrect', 'Do not conflate concerns for a family member with a lack of closeness to others. There is no evidence that the poster lacks other close relationships. Look for direct or indirect references to personal social interactions beyond the family context.'])
+('15', ['Incorrect', "Consider the context provided in the post, infer the likelihood of satisfying interactions based on the poster's description of their mother's situation and behaviors."])
+
+ITER 1
+Do MS Record:
+('3', ['indirectly_mention', "Not at all true for me###The post mentions that the poster's mother has become dependent on them for household chores and emotional support, and the poster is worried about enabling this dependence. This indicates that the poster does not perceive themselves as a burden on society."])
+('5', ['directly_mention', "Somewhat true for me###The post mentions that the poster's mother has become more reclusive, missing bills, and not taking care of herself. This suggests that the people in the poster's life may be concerned about them and their well-being, potentially indicating that the poster believes that the people in their life wish they could be rid of them."])
+('6', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster's mother became very dependent on them to do household chores and support her emotionally. This suggests that the poster's actions may have worsened the situation for their mother, indicating that they may feel that they make things worse for the people in their life to a certain extent."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not provide any clear indication of whether other people care about the poster. While the focus is mainly on the mother's depression and the poster's concerns, there is no mention of support or care from other individuals outside of the mother."])
+('8', ['directly_mention', "Not at all true for me###The post states that the poster often comes home to visit their mother, which indicates that they have interactions with their family members who care about them. Hence, the answer is 'Not at all true for me'."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the poster's interactions with people who care about them. Hence, the answer cannot be deduced from the given post."])
+('10', ['not_mention', "Doesn't mention at all.###"])
+('11', ['indirectly_mention', "Somewhat true for me.###The post mentions that the poster's mother has been dependent on them for emotional support and household chores, indicating that the poster may feel a sense of responsibility and may be feeling overwhelmed or disconnected from other people as a result. However, this is not explicitly stated in the post."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to feeling like an outsider in social gatherings."])
+('13', ['indirectly_mention', "Somewhat true for me.###The post mentions the poster's concern about their mother becoming more reclusive and the deterioration of their mother's social life, which could indicate a decreased sense of having people to turn to in times of need."])
+('14', ['indirectly_mention', 'Somewhat true for me###The post mentions that the poster comes home nearly every holiday to support their mother emotionally and help with household chores. This suggests that they have at least one satisfying interaction every day during those periods. However, it is not clear if they have satisfying interactions with others on a daily basis outside of this family context.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication related to the frequency or satisfaction of interactions with other people beyond the interactions with the poster's mother."])
+Do MS Check Record:
+('3', ['Correct', 'Continue to carefully analyze posts for indirect information relevant to the question, as in this instance regarding not feeling like a burden.'])
+('5', ['Incorrect', "Avoid overgeneralizing based on other people's behaviors. Stick to what the poster directly expresses about themselves and do not assume that concern equates to wanting to be rid of someone."])
+('6', ['Incorrect', "Pay closer attention to the indirect information present in the post; the student missed that the poster expresses concern for their mother's dependency on them, which correlates to the question about making things worse for others. Explore the nuance of dependency and responsibility."])
+('7', ['Correct', 'Good job identifying the lack of information on this question in the post. Continue to clearly differentiate between the absence of information and making unfounded assumptions.'])
+('8', ['Incorrect', 'Review the post to assess the context and relationship dynamics before answering. Although proximity suggests belonging, emotional state and current life stressors must be considered. Answer with inferred feelings of belonging based on evidence.'])
+('9', ['Incorrect', 'Avoid assuming the absence of information means it does not exist. Analyze the underlying emotions and situations in the post. If unsure, offer a balanced answer reflecting potential for both interaction with caring individuals and feelings of isolation.'])
+('10', ['Incorrect', "Consider the context of the post, focusing on the emotional state of the poster. The post provides insight into their family relations, but there is no direct mention of their own support network. Avoid assumptions and analyze whether the post reveals any details about the poster's friends."])
+('11', ['Incorrect', "Avoid making inferences that are not directly supported by information in the post. The post does discuss the poster's mother's dependency, but does not explicitly address the poster's feelings of disconnection. Restrict interpretations to the information provided."])
+('12', ['Incorrect', "Examine the post for implied feelings about the poster's own social connectedness, not just the facts given. Avoid assuming no information is present when the question doesn't receive a direct mention."])
+('13', ['Incorrect', "Refocus your analysis on the poster themselves rather than inferring from the situation of the person mentioned in the post. Make sure to differentiate between the poster's and others' social supports."])
+('14', ['Incorrect', 'Pay attention to the implications of interactions during home visits and consider the possibility of other social interactions in daily life beyond those explicitly mentioned.'])
+('15', ['Incorrect', 'Avoid assuming a complete absence of information. Consider inferring potential daily interactions based on the context provided, while remaining cautious not to overextend beyond available information.'])
+
+ITER 2
+Do MS Record:
+('5', ['indirectly_mention', "Somewhat true for me###The poster expresses concern about their mother's dependency on them and worries about enabling her, which suggests that they may think they make things worse for the people in their life to some extent."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any direct or indirect information about whether the people in the poster's life wish they could be rid of them. Therefore, I cannot deduce an answer for this question."])
+('8', ['directly_mention', "Not at all true for me###The poster mentions feeling worried about their mother's depression getting worse, her deteriorating mental and physical state, and her becoming more reclusive. These factors indicate a lack of belonging and social interaction."])
+('9', ['indirectly_mention', 'Somewhat true for me###The poster mentions that their mother became very dependent on them for household chores and emotional support when they were living at home during community college. This suggests that there may have been some interaction with people who cared about the poster, but it is likely to have decreased since they moved away for college.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the poster having caring and supportive friends."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the poster feeling disconnected from other people."])
+('12', ['indirectly_mention', 'Somewhat true for me###The poster mentions feeling dependent on by the mother to support her emotionally and do household chores. This suggests that the poster may feel like an outsider in social gatherings.'])
+('13', ['indirectly_mention', "Not at all true for me###The poster expresses concern about their mother's deteriorating mental health and financial situation. This implies that the poster feels like there are no people they can turn to in times of need."])
+('14', ['indirectly_mention', "Not at all true for me###The post mentions that the poster is worried about their mother's behavior and states that the mother is becoming more reclusive. This suggests a lack of close interactions for the mother, which implies that the same might hold true for the poster."])
+('15', ['indirectly_mention', "Not at all true for me###The post indicates that the mother is becoming more reclusive and is having difficulties in her social life, which indicates a lack of satisfying interactions. Since the poster is concerned about their mother's welfare, it is likely that the poster also lacks satisfying interactions in their everyday life."])
+Do MS Check Record:
+('5', ['Incorrect', "Consider the context of the poster's situation and how it relates to them individually, not just their mother. Reflect on the emotional tone of the post and think about how the poster's role in their mother's life might impact their self-perception. Avoid assuming feelings that aren't clearly expressed."])
+('6', ['Incorrect', "Review the evidence in the post more closely. The information about the poster's concern for their mother implies they feel responsible. Consider how this sense of responsibility might lead them to feel like they could be making things worse."])
+('8', ['Incorrect', "Avoid projecting your own feelings onto the poster. The post does not directly address the poster's sense of belonging, so infer only from available information and remain neutral."])
+('9', ['Incorrect', "Consider the poster's current situation only. Past dependency does not imply current social interactions. Avoid overgeneralizing from past to present context without clear indications."])
+('10', ['Incorrect', "Review the post for contextual clues about social connections, such as the impact of the poster's situation on their social life. Infer emotional state from the tone and situation described."])
+('11', ['Incorrect', "Analyze the implications of the poster's concerns and the emotional toll it may have on their social connectedness. Avoid dismissing potential clues simply because they aren't explicitly mentioned."])
+('12', ['Incorrect', 'Revisit the post and avoid inferring emotions or social tendencies not explicitly mentioned. Base your analysis solely on the information given.'])
+('13', ['Incorrect', "Do not imply the poster has no support without evidence. Focus on the post's content and avoid assumptions about the poster's support network."])
+('14', ['Incorrect', "Focus on the direct experiences and expressions of the poster, not the individuals discussed in the post. Assess encounter frequency based on the poster's own social life, not inferred from the descriptions of others."])
+('15', ['Incorrect', 'Evaluate the poster’s social interactions based on explicit cues from the post, rather than assuming similarity to the social patterns of others mentioned in the content.'])
+
+ITER 3
+Do MS Record:
+('5', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster's mother has become increasingly dependent on them for emotional support and household chores, which can be overwhelming and make the poster feel like a burden in their mother's life."])
+('6', ['indirectly_mention', "Somewhat true for me###The post suggests that the poster's mother's situation is worsening and they are unsure of how to help. This feeling of helplessness and uncertainty about making things better can lead to the belief that they may be making things worse for their mother."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the sense of belonging."])
+('9', ['indirectly_mention', "Somewhat true for me.###The post indirectly mentions that the poster rarely interacts with people who care about them. This can be inferred from the poster's concern about their mother's reclusive behavior and lack of social support as she becomes more isolated."])
+('10', ['directly_mention', "Not at all true for me###The post mentions that the poster's mother has been dependent on them for emotional support and household chores, indicating that they have a lack of support from others."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post expresses concerns about the mother becoming more reclusive, missing bills, and depleting her savings, which can lead to a feeling of disconnection from others.'])
+('12', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster feels the need to help their mother but doesn't know how without enabling her dependence on them, which implies a sense of feeling like an outsider in the responsibility of taking care of her. This suggests a feeling of being detached from social gatherings, although it is not explicitly mentioned."])
+('13', ['directly_mention', "Somewhat true for me###The post directly mentions that the poster is worried about their mother's worsening depression and expresses concern about her lack of improvement despite therapy and medication. This implies a need for someone to turn to in times of need, suggesting that there is some truth to feeling that there may be a lack of support."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything regarding the poster's closeness to other people or their social interactions. The focus of the post is primarily on the poster's concerns about their mother's depression and their own inability to provide direct help."])
+('15', ['indirectly_mention', "Not mentioned###Although the post does not directly mention having satisfying interactions, it does provide information about the deteriorating situation of the poster's mother. The poster expresses worry about their mother's increasing reclusiveness, financial problems, and lack of self-care. These factors could potentially impact the poster's ability to have satisfying interactions, but it is not explicitly stated."])
+Do MS Check Record:
+('5', ['Incorrect', "Avoid assumptions about the poster's feelings about being a burden. Focus on what the post explicitly states about the poster's perspective, not their mother's."])
+('6', ['Incorrect', "Do not infer that the poster believes they make things worse without clear evidence from the post. Focus on the poster's own statements regarding their impact on others, rather than on the situation with their mother."])
+('8', ['Incorrect', "Review the post for explicit or implicit information about the sense of belonging. Avoid assuming an absence of information equates to a particular answer. Look for clues about the poster's social connections or feelings of isolation."])
+('9', ['Incorrect', "Carefully differentiate the poster's personal feelings from the situation described regarding someone else. The post discusses the mother's isolation, not the poster's. Avoid over-inference about the poster's social interactions."])
+('10', ['Incorrect', "The post doesn't mention the poster's own social support; focus on information provided about the poster, not assumptions."])
+('11', ['Incorrect', "Be cautious of over-inference. Advise about the poster's mother doesn't equate to the poster's feelings; stick to information about the poster."])
+('12', ['Incorrect', 'Consider how the social context is presented in the post, not personal feelings. Focus on explicit content related to social isolation or engagement rather than implicit emotions.'])
+('13', ['Incorrect', "Do not infer a need for social support from expressed concerns; stick to the poster's statements about their social resources and support system."])
+('14', ['Incorrect', 'Analyze the context for possible implications without assuming information. Consider how the poster’s situation might affect their social interactions, even if not directly mentioned.'])
+('15', ['Incorrect', 'Avoid definitive answers when the information is not clear. Reflect on the potential emotional state of the poster based on the context provided and how it may influence daily social interactions.'])
+
+ITER 4
+Do MS Record:
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the thoughts or opinions of others regarding the poster's presence in their life."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or statement about the poster's perception of making things worse for the people in their life."])
+('8', ['indirectly_mention', "Not at all true for me###The post indirectly mentions the question by describing the mother's reclusiveness, deterioration in social interactions, and increasing isolation. These factors suggest a lack of a sense of belonging for the mother."])
+('9', ['not_mention', "Doesn't mention at all.###The post focuses on the mother's depression and the poster's concerns about her, but there is no explicit or implicit information provided about the poster's own interactions with people who care about them."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything that directly or indirectly relates to having caring and supportive friends."])
+('11', ['indirectly_mention', "Somewhat true for me.###The post implies that the poster feels disconnected from their mother, as they mention the mother's reclusive behavior and the lack of improvement in her therapy. However, it does not directly mention the poster's feelings of being disconnected from other people."])
+('12', ['indirectly_mention', "Somewhat true for me###The post mentions the poster feeling worried about their mother's worsening depression and her deteriorating living conditions. These concerns may make the poster feel like an outsider in social gatherings, as their focus and attention are consumed by their mother's situation."])
+('13', ['directly_mention', "Not at all true for me###The post directly states that the poster is worried about their mother's well-being and wants to help her. This indicates that the poster feels that there are people they can turn to in times of need."])
+('14', ['indirectly_mention', "Not at all true for me###The post mentions that the poster's mother has become more reclusive and is not taking care of herself. This suggests a lack of close interactions with others, which may indicate that the poster is not currently close to other people."])
+('15', ['indirectly_mention', "Not at all true for me###The post mentions that the poster's mother is becoming more reclusive, missing bills, and is not actively searching for another job. These factors may lead to a decrease in satisfying interactions, as the mother's depressive symptoms and lack of motivation may affect her ability to engage in positive interactions on a daily basis."])
+Do MS Check Record:
+('5', ['Correct', "While your answer is correct in noting that the post does not address this question, try to infer based on the context provided. The poster expresses concern for their mother, not themselves, so focus on any indirect signs that could inform on the poster's own feelings of being a burden."])
+('6', ['Correct', "You correctly identified that the post doesn't address the poster's perceptions of worsening others' lives. However, pay attention to the poster's implicit concern and responsibilities they've taken on, which may indirectly suggest how they feel about their impact on others."])
+('8', ['Incorrect', "Review the post for implicit content related to feelings of belonging, considering the context of the poster's own experiences, not only their family's."])
+('9', ['Correct', "Ensure to maintain focus on what is explicitly mentioned or closely implied about the poster's own interactions, not inferring beyond the provided information."])
+('10', ['Incorrect', "Analyze the content for implicit information about the poster's social support rather than assuming it's not mentioned. Consider the emotional tone of the post and circumstances that might affect the poster's social life."])
+('11', ['Incorrect', "Avoid inferring the poster's emotions based on the behaviors of others. Focus on what the post reveals about the poster's personal feelings toward their own social connections rather than others' behaviors."])
+('12', ['Incorrect', "Reevaluate the post's content without over inferring. The poster's mention of their personal worries and responsibilities does not necessarily translate to feeling like an outsider at social gatherings. Avoid assumptions and focus on the information provided."])
+('13', ['Incorrect', "The student's identification of a direct mention is incorrect; the post does not specify if the poster has a support system. The student should carefully read the post to determine if it mentions or implies the presence or lack of a support network and refrain from unfounded extrapolations."])
+('14', ['Incorrect', 'Ensure that your analysis clearly differentiates between information about the poster versus others mentioned in the post. Avoid making assumptions that are not directly supported by the content of the social media post.'])
+('15', ['Incorrect', "Focus on the poster's experiences and statements only. Do not infer the poster's feelings or daily interactions based on the behavior of others described in the post."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the poster's mother is experiencing depression, becoming more reclusive, and neglecting her responsibilities. The poster expresses concern about their mother's worsening condition and the impact it is having on her overall functioning. This suggests a risk of perceived burdensomeness, as the mother may feel like she is becoming a burden to others, including the poster. The poster's mention of enabling their mother's dependence also suggests that the mother may perceive herself as a burden on her child.
+
+Incorrect
+Avoid assuming the feelings of others based only on external observations. Focus on the direct responses provided from the scale when evaluating perceived burdensomeness. In this scenario, perceived burdensomeness should be answered based on the subject's perspective, not the poster's observation. Ensure the answers to the scale reflect the individual's self-assessment rather than inferred from someone else's point of view.
+
+ITER 1
+Yes
+Based on the responses to the mental scale, the individual indicated that they feel like a burden on society. This aligns with the risk of perceived burdensomeness, suggesting that they may be experiencing this aspect of mental health.
+
+Incorrect
+Review the source of the assessment data before making your diagnosis. The answered questions are from the poster's perspective, not their mother's, and they indicate that the poster does not feel like a burden. You must analyze the poster's statements about their mother separately. Avoid attributing feelings or conditions of others described in the post to the individual taking the mental health scale. Focus on the provided answers to the scale to assess the poster's mental health, not the condition of other individuals mentioned.
+
+ITER 2
+No
+The answered questions indicate that the poster does not feel like a burden. It is important to analyze the poster's statements about their mother separately and focus on the provided answers to the scale to assess the poster's mental health.
+
+Incorrect
+It appears that you may have misunderstood the poster's account of their mother's experience as reflections of the poster's own mental health. The poster is discussing their mother's situation and not their own feelings of being a burden. When analyzing the answered questions from the mental health scale, you should apply the responses directly to the individual who answered them, not to other individuals described in their narrative. Ensure to differentiate between the poster's perspective and the situation of individuals they may be describing to accurately assess the mental health question concerning perceived burdensomeness.
+
+ITER 3
+No
+The post does not show risk of perceived burdensomeness. The poster is expressing concerns about their mother's depression, employment situation, and overall well-being, but there is no indication that they believe they are a burden on others or that others would be better off without them.
+
+Correct
+Good job on analyzing the post and the answers provided. You correctly understood that the poster does not see themselves as a burden, as indicated by their responses to the mental scale questions. To improve, continue practicing how to differentiate between the poster's perspective and the situation of others mentioned in posts.

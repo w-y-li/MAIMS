@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I botched my suicide attempt, but I know where I went wrong. Since then, I've been seriously looking for good reasons to live for the last month, and I feel as useless and worthless as ever. Everyone hates me, and I am a burden at the best of times. Everyone goes out of their way to avoid me. I tell my therapist, and they just tell me not to think about it, like it's somehow a switch I can turn on and off. I've been trying to find healthier ways to cope, and have failed. Now, I've suspended my studies and live at home doing fucking nothing all day, distracting myself from thoughts of self-harming. I contact friends, and they reject and ignore me, even when I've told them all I want is to talk or do small things together. Nobody makes time for me, nobody sees any value in me, and the world would be better off without me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post reveals feelings of being useless, worthless, and a burden to others. The individual expresses that everyone hates them and avoids them, and that nobody sees any value in them. These thoughts and perceptions suggest a risk of perceived burdensomeness, where the person feels that their existence causes distress or inconvenience to others.
+

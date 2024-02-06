@@ -1,0 +1,146 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Possessive friends Hi there, this is my first post. I became friends with a girl from my new class this year (who i had never met until we came into the same class) and became good friends with each other.She has a big network of friends and is quite different from me(talks to everyone, likes everyone, an extrovert). One day, a boy who happens to be her best friend saw us talking and got angry(for the life of me, i do not know why) and started making fake rumors about me, which she blindly believed. when she came to confront me about these false allegations, i flipped out and got quite angry and i have not talked to her for 3 days. Her friends are determined to hate me for some unknown reason and at the same time the girl has to problem with this, even defending them, saying that they are just very possessive of her. I am in a dilemma on what to do, ignore the hate or to stop caring and ignore her.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###The post mentions that the poster flipped out and got quite angry, and has not talked to her friend for 3 days. This indicates a change in emotions and suggests that the poster is experiencing sadness.'])
+('2', ['not_mention', "Doesn't mention at all.###There is no information in the post that directly or indirectly suggests the presence of pessimism."])
+('3', ['directly_mention', "I feel I have failed more than the average person.###In the post, I mentioned that a boy started making fake rumors about me, and my friend blindly believed them. This incident could make me feel like a failure, as I didn't handle the situation well and it led to a loss of trust and friendship."])
+('4', ['indirectly_mention', "I do not enjoy things as much as I used to.###While the post doesn't explicitly mention a loss of pleasure, it does indicate that I have been upset and angry for the past 3 days, which suggests a decrease in my overall enjoyment and pleasure."])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The post mentions that the boy made fake rumors about me, causing my friend to confront me. I flipped out and got quite angry, indicating that I may feel guilty for my reaction.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about feeling punished."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to self-dislike. The focus is on the dilemma with the friend and the hate received from her friends."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to self-accusations. The main concern is the conflict with the friend and the hate received from her friends."])
+('9', ['indirectly_mention', 'I do not have any thoughts of killing myself.###Although the post does not directly mention suicidal thoughts or wishes, the poster states that they are in a dilemma on what to do. This suggests that the situation is causing some emotional distress and internal struggle. However, since the post does not provide any explicit information related to suicidal thoughts or wishes, I can infer that the individual does not have any thoughts of killing themselves.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information or content related to crying. There are no explicit mentions of increased crying or inability to cry. Therefore, I cannot determine the individual's crying patterns or frequency based on the given post."])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The post mentions that the poster flipped out and got quite angry in response to the false allegations. This suggests that the poster is experiencing a higher level of agitation or restlessness compared to their usual state.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The post indicates that the poster is in a dilemma about what to do and whether to ignore the hate or stop caring. This suggests a decrease in interest in the situation and the people involved.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to indecisiveness. There is no information provided that can help me deduce the answer to this question."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to worthlessness. There is no information provided that can help me deduce the answer to this question."])
+('15', ['indirectly_mention', 'I do not have enough energy to do very much.###The post mentions that the poster got quite angry and flipped out when confronted about false allegations. This suggests a loss of energy as anger can be draining and exhausting.'])
+('16', ['indirectly_mention', 'I have not experienced any change in my sleeping pattern.###The post does not directly mention changes in sleeping pattern. However, it is implied that the poster is upset and angry about the situation. This emotional turmoil may disrupt their sleep temporarily, but it does not mention any significant changes in sleeping patterns.'])
+('17', ['not_mention', "Doesn't mention at all.###The post does not mention anything about irritability."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in appetite."])
+('19', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to concentration difficulty."])
+('20', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to tiredness or fatigue."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in interest in sex."])
+Do MS Check Record:
+('1', ['Incorrect', 'Consider the context and possible emotional responses to the situation described. Expressing anger and a three-day silence could also be indicative of sadness due to the conflict and loss of friendship. Reflect on other emotions that might not be directly stated but could be inferred from the situation.'])
+('2', ['Correct', 'Your observation is accurate, as the post does not explicitly mention feelings of pessimism. However, be cautious not to overlook subtle hints. Analyze if any aspects of the situation, like the response to the dilemma, might implicitly suggest a pessimistic attitude and adjust your interpretation accordingly.'])
+('3', ['Incorrect', 'Review the post carefully to identify specific evidence related to feelings of failure. Avoid assuming the incident necessarily means the poster feels like a failure; instead, analyze the language used and the expressed emotions to draw more accurate conclusions.'])
+('4', ['Incorrect', 'Do not infer a loss of pleasure solely based on a short period of being upset. Examine the post for specific statements about changes in interests or mood that can suggest a loss of pleasure. Avoid overgeneralizing based on limited information.'])
+('5', ['Incorrect', 'Consider the context in which emotions may arise. The anger in the post may stem from being wronged rather than guilt. Carefully analyze the reasons for emotions before inferring guilt.'])
+('6', ['Correct', 'Good job on not over-inferencing beyond the information given in the post. Remember to only deduce feelings of punishment from explicit expressions or clear context.'])
+('7', ['Incorrect', "Review the post for potential underlying sentiments that could hint at self-dislike, such as the strong reaction to being confronted and the ensuing isolation. Consider how emotions in the situation might relate to one's self-perception."])
+('8', ['Incorrect', "Assess the post for emotional responses that might lead to self-accusations, like the reaction to the rumors and the poster's subsequent behavior. Explore how these feelings could reflect internal self-blame."])
+('9', ['Incorrect', 'Avoid making assumptions about emotional states not explicitly mentioned. Focus on analyzing the post for any direct or indirect indicators related to the question at hand. If there is no information on suicidal thoughts, it is accurate to state that it is not mentioned.'])
+('10', ['Correct', 'Continue to answer only based on information provided in the post. Refrain from inferring or assuming details not present in the original content.'])
+('11', ['Correct', 'Continue to carefully analyze the emotional content implied in social media posts, as you did with recognizing the agitation described.'])
+('12', ['Incorrect', 'Be cautious not to overinfer emotional states; the post does not provide clear evidence of a loss of interest in people or things in general, but rather a specific dilemma regarding a social issue.'])
+('13', ['Correct', 'Continue to focus on information explicitly provided in the post, as you did here by not inferring indecisiveness where the post did not suggest it.'])
+('14', ['Correct', 'Maintain a cautious approach in your interpretations and avoid reading into the text what is not there, as you correctly avoided doing with this question on worthlessness.'])
+('15', ['Incorrect', "Carefully analyze the post for explicit indications of energy levels instead of assuming anger equates to a loss of energy. Remember that being angry isn't necessarily related to a general loss of energy."])
+('16', ['Correct', 'Continue to avoid inferring too much from the post. It is good that you recognize the absence of direct information about sleep patterns. Remain objective and base your answers on the content provided.'])
+('17', ['Incorrect', "Consider the emotional tone in the post. The description of a conflict and a strong emotional response (anger) may suggest irritability. Answer the question by inferring how the poster's described experiences could relate to their own irritability."])
+('18', ['Incorrect', 'Be cautious not to dismiss potential connections too hastily. Changes in appetite can be associated with stress or emotional distress. Use the context of the social conflict described to infer if there might have been any changes in behavior, including appetite, without making unsupported assumptions.'])
+('19', ['Correct', 'Good analysis, but always consider implicit cues that might suggest concentration issues, such as a described conflict, to ensure no details are overlooked.'])
+('20', ['Correct', 'Accurate response given the provided information; continue to be vigilant for subtle hints that may indicate the presence of symptoms like fatigue.'])
+('21', ['Correct', 'Good attention to detail. In future tasks, ensure to maintain a distinction between what is explicitly stated and what might be tempting to assume.'])
+
+ITER 1
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###Based on the context of the post, the poster mentions feeling angry about the rumors made by the boy and the subsequent confrontation with the girl. This indicates a high level of emotional distress and suggests that the poster may be experiencing sadness.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not provide any explicit information about past failures. It mainly focuses on the current conflict with the girl and her possessive friends. There is no direct mention or indication of past failures."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of pleasure. It primarily focuses on a conflict between the poster and their friend."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to guilty feelings. The emotions expressed in the post are primarily anger and frustration towards the friend who believed fake rumors."])
+('7', ['indirectly_mention', 'I am disappointed in myself###The post mentions that the poster flipped out and got quite angry when confronted about the false allegations. This strong emotional reaction suggests that the poster may be disappointed in themselves for not handling the situation better.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual###The post suggests that the rumors made by the boy and blindly believed by the friend have caused the poster to be in a dilemma. This may indicate that the poster is being self-critical and maybe blaming themselves for the situation.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention any thoughts of killing oneself."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not indicate any loss of interest in people or activities in general. It focuses on a specific social issue and the dilemma the poster is facing."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of energy. It mainly focuses on the conflict with the friend and the dilemma the poster is facing."])
+('17', ['indirectly_mention', "I am more irritable than usual.###Although the post does not directly mention irritability, the description of becoming angry and flipping out indicates a heightened level of irritability. The poster's strong emotional response to the situation suggests that they are experiencing more irritability than usual."])
+('18', ['indirectly_mention', 'My appetite is much less than before.###The post mentions that the protagonist flipped out and got quite angry, which indicates a strong emotional reaction. It is possible that this emotional distress has led to a decrease in appetite, as changes in appetite can be associated with stress and emotional distress.'])
+Do MS Check Record:
+('1', ['Correct', 'Though the direct emotion depicted was anger, the situation implies a justified level of sadness due to the social conflict and isolation. Maintain consideration for underlying emotions in complex social situations.'])
+('3', ['Correct', 'Good job on focusing on the information provided in the post without inferring details not mentioned. Continue to differentiate between current circumstances and historical context.'])
+('4', ['Incorrect', "Consider how the conflict and social tension described could affect enjoyment of daily activities, potentially leading to a loss of pleasure in the poster's life. Look for indirect cues and context to address questions not explicitly mentioned in the post."])
+('5', ['Incorrect', "Reflect on how being accused falsely might induce feelings of guilt, despite not being at fault, and how this can impact the poster's emotional state. Assess how defensive reactions could be related to an internal sense of guilt or injustice."])
+('7', ['Incorrect', 'Review the post for direct evidence of self-dislike. Avoid making assumptions that are not clearly supported by the text.'])
+('8', ['Incorrect', "Do not infer self-accusations without textual evidence. Focus on what is explicitly stated or can be reasonably deduced from the poster's experiences."])
+('9', ['Correct', 'The response accurately reflects the content of the post in regards to suicidal thoughts or wishes. Continue to differentiate between what is explicitly mentioned and what is not to avoid over-inference.'])
+('12', ['Incorrect', "Review the post for any subtle indications of changes in the poster's mood or behavior that could suggest a loss of interest. While direct mention may be absent, careful analysis of their situation could provide insights."])
+('15', ['Incorrect', 'Read the post carefully to determine if symptoms or states related to the question are implied. Loss of energy is a specific symptom and must be inferred cautiously. Consider daily activities or emotional states that might hint at energy levels.'])
+('17', ['Correct', 'Good inference on irritability based on the emotional response described in the post. Continue to draw conclusions based on behaviors and emotions related to the psychological concepts in question.'])
+('18', ['Incorrect', "Avoid assuming emotional reactions directly correlate to physical changes like appetite without clear evidence. Analyze the content critically to find explicit or more nuanced clues about the subject's state that could relate to appetite."])
+
+ITER 2
+Do MS Record:
+('4', ['indirectly_mention', "I do not enjoy things as much as I used to###The conflict and social tension described in the post, specifically the fake rumors and the hate from the girl's friends, can potentially lead to a loss of pleasure in my life. The stress and negative emotions associated with the situation may have affected my ability to enjoy things as much as I used to."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not provide any information that directly or indirectly relates to feelings of guilt. The focus is primarily on the conflict with the girl and her friends, rather than the poster experiencing guilt."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the poster's feelings towards themselves."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the poster's level of self-accusation."])
+('12', ['indirectly_mention', 'It is hard to get interested in anything.###The post mentions that the poster is in a dilemma on what to do and is considering ignoring the hate or ignoring the friend. This suggests a decreased interest in maintaining the friendship and engaging with the situation.'])
+('15', ['indirectly_mention', "I have less energy than I used to have.###The post describes how the poster 'flipped out' and got quite angry when confronted about false allegations. This display of anger and emotional distress could be indicative of a decreased energy level."])
+('18', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to changes in appetite."])
+Do MS Check Record:
+('4', ['Incorrect', 'While the post does not mention a loss of pleasure directly, you should explore more subtly how the social conflict might affect enjoyment in life. Consider the implications of social isolation and stress on hedonic tone.'])
+('5', ['Correct', 'Your answer is appropriate as the post does not provide information about guilty feelings. Continue to differentiate between personal feelings and external conflicts when analyzing such posts.'])
+('7', ['Incorrect', "Delve deeper into the poster's emotional state in the given scenario to infer possible feelings of self-dislike. The hostility they are experiencing could contribute to negative self-perceptions. While it's not explicitly mentioned, consider how being a target of rumors and social exclusion might influence someone's self-view."])
+('8', ['Incorrect', "Analyze the context to infer if the poster might engage in self-accusations as a result of the conflict. While not directly stated, the poster's reaction to being confronted suggests a strong response to accusations. Consider the likelihood of internalizing blame or guilt when faced with rumors and a friend's reaction."])
+('12', ['Incorrect', "While the poster expresses feelings of being upset, it does not directly relate to general loss of interest. Be cautious not to overinterpret specific situations as indicative of a broader mental state without clear evidence. Instead, focus on discerning if the poster's feelings towards other interests outside the mentioned conflict have declined."])
+('15', ['Incorrect', 'The display of anger in the post is an acute reaction to a specific incident rather than an indication of overall loss of energy. Analyze if there are mentions of sustained changes in vitality or motivation in other aspects of life before inferring a loss of energy.'])
+('18', ['Correct', 'While your answer is technically correct because there was no direct mention of changes in appetite, always remember that sometimes information can be inferred indirectly from the emotional or psychological state described in the post. However, in this case, there was not enough information to make such an inference, and you refrained from overstepping.'])
+
+ITER 3
+Do MS Record:
+('4', ['not_mention', "Doesn't mention at all.###There is no mention of loss of pleasure in the post. The post mainly revolves around a social conflict with a friend and the resulting dilemma."])
+('7', ['indirectly_mention', 'I am disappointed in myself.###While the post does not explicitly mention self-dislike, the situation described, including being targeted by fake rumors and experiencing hostility and social exclusion, could lead to feelings of disappointment in oneself.'])
+('8', ['directly_mention', 'I criticize myself for all of my faults.###The post mentions that the poster flipped out and got angry when confronted with false allegations, which suggests that the poster may engage in self-criticizing and blaming behavior.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###Although the post does not directly mention a loss of interest, the poster states feeling angry and not talking to the friend for three days. This suggests a possible decline in interest in the friendship and other people due to the conflict.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of energy."])
+Do MS Check Record:
+('4', ['Incorrect', "Consider the emotional content of the situation described. Analyze if the conflict and resulting social isolation could possibly affect the poster's enjoyment of daily activities, connecting this to the concept of loss of pleasure."])
+('7', ['Correct', "Ensure your answer captures the nuances of the poster's feelings toward themselves in light of the social conflict. The inference of disappointment is a logical deduction; continue to draw such connections carefully."])
+('8', ['Incorrect', "Re-evaluate the poster's message and avoid adding personal bias. Focus on what is explicitly mentioned—self-accusations need clear indicators of self-blame beyond getting angry."])
+('12', ['Incorrect', 'Assess context more carefully; a loss of interest cannot be inferred from a brief hiatus in communication. Look for descriptions of disengagement from activities or broader social withdrawal.'])
+('15', ['Incorrect', "While the post does not directly mention 'loss of energy', consider the context of the situation. Being involved in conflict and social exclusion could potentially lead to feeling drained or a loss of energy. Reflect on the emotional undertones of the situation to make a more nuanced inference about the poster's mental state."])
+
+ITER 4
+Do MS Record:
+('4', ['indirectly_mention', 'I get very little pleasure from the things I used to enjoy.###In the post, the poster mentions that she flipped out and got quite angry when confronted about false allegations made by the boy. This suggests that she is not enjoying the things she used to enjoy, possibly indicating a loss of pleasure.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention any self-accusations or indications of excessive self-criticism or blame. The focus of the post is primarily on the conflict with the friend and the dilemma of whether to ignore the hate or stop caring."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of interest. It mainly focuses on the conflict and dilemma in the friendship."])
+('15', ['indirectly_mention', "I have less energy than I used to have.###Although the post doesn't directly mention 'loss of energy,' the poster describes feeling angry and has not talked to the friend for 3 days. The emotional turmoil and conflict could potentially lead to a decrease in energy and motivation."])
+Do MS Check Record:
+('4', ['Incorrect', "The student has overinferred a loss of pleasure from the action of getting angry, which is not equivalent to loss of pleasure in activities. Instead, focus on analyzing whether the event has influenced the poster's daily enjoyment or hobbies."])
+('8', ['Correct', "The answer is appropriate as the post doesn't contain any self-accusations. Continue to avoid making assumptions that are not supported by the given information."])
+('12', ['Incorrect', "Don't dismiss potential relevancies; explore how the described emotions might affect interest levels in other areas as a form of indirect information."])
+('15', ['Correct', 'Continue considering indirect evidence in posts, but ensure your inferences are plausible and grounded in the post content.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster does not exhibit significant symptoms of depression based on the provided answers to the mental scale questions. Although the poster seems to be experiencing negative emotions such as anger and disappointment, these emotions alone do not indicate depression. Additionally, the absence of symptoms such as sadness, pessimism, guilt feelings, self-accusations, and changes in sleeping pattern suggest that depression may not be the primary mental health problem in this case.
+
+Incorrect
+Review the answered questions carefully before concluding. The individual does express feelings of sadness and disappointment in themselves, as well as signs of irritability, restlessness, and lower energy levels. These symptoms can be indicative of depression and should not be overlooked. To improve, crosscheck the mental health scales with the post details, and consider the context and frequency of reported symptoms. Be cautious not to under infer or dismiss symptoms simply because some typical depression markers are absent. Approach your analysis with a balanced view, considering both the presence and absence of symptoms holistically.
+
+ITER 1
+Yes
+The poster expresses feelings of sadness, disappointment in themselves, irritability, restlessness, and lower energy levels, which are indicative of depression.
+
+Incorrect
+Avoid overgeneralizing based on a few symptoms. Consider each symptom's context and duration, and whether they significantly impair daily functioning, as required by DSM criteria for a depression diagnosis. Assess if the poster has been experiencing these symptoms consistently for at least two weeks. Additionally, verify that the symptoms and the feelings described are directly from the poster, rather than inferred or about others.
+
+ITER 2
+No
+The poster's responses to the mental scale questions do not indicate significant symptoms of depression. While the poster expresses feelings of disappointment in themselves, restlessness, irritability, and decreased energy, these symptoms may be attributed to the current situation with their possessive friend rather than a depressive episode. It is important to consider the duration, consistency, and impairment caused by these symptoms when assessing for depression, and in this case, the symptoms do not meet the criteria for a diagnosis of depression.
+
+Correct
+The student's analysis appears appropriate, as there is no indication from the responses to the mental health scale that the poster meets the criteria for a diagnosis of depression. Remember to evaluate each symptom in the context of the individual's life events and duration of the symptoms. Avoid diagnosing based on a single situation and ensure to gather information about how these symptoms affect the individual's daily functioning before coming to a conclusion.

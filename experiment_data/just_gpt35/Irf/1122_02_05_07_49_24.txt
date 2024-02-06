@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  What can you recommend? Movies, music, tv, activities, new hobbies, etc. Anything to get my brain on something else besides my own worthlessness  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The usage of the term 'worthlessness' and the request for recommendations to distract from this feeling suggest a lack of belonging and a potential risk of thwarted belongingness.
+

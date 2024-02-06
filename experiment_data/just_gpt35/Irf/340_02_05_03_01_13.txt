@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  It bothers me that you can have fun unless you drink and act dumb with other people. It makes me sad that i rarely get invited to parties. So I just sit home alone. It just bothers me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post reflects feelings of sadness and isolation stemming from not being invited to parties or being able to have fun unless drinking and acting dumb with others. This suggests a lack of social connection and a potential risk of thwarted belongingness, which is a component of certain mental health issues.
+

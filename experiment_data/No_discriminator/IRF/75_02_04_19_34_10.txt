@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I don‚Äôt know why I am so fucked up but I never feel like I can trust my parents word. My siblings are completely self successful and on their straight path to be coming everything the world wants them to be but me? I‚Äôm stuck in reverse. Sitting at home too anxious or exhausted to even shower or brush my teeth. My parents tell me they love me and they don‚Äôt care how long it takes me to succeed but I don‚Äôt believe them. I want to... but a part of me will always never believe them.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The post directly mentions feeling anxious and exhausted, which suggests the person may be struggling with mental health issues. However, there is no indication that they believe their absence would make others better off or happier without them.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything about whether the person believes their absence would make others happier without them."])
+('3', ['indirectly_mention', 'Not at all true for me###The post mentions feeling stuck and being anxious or exhausted, which suggests a lack of self-confidence and low self-esteem. However, there is no direct mention of feeling like a burden on society.'])
+('4', ['indirectly_mention', "Somewhat true for me###The post expresses feelings of low self-worth and a lack of trust in one's parents. While there is no direct mention of thinking one's death would be a relief to others, the mention of feeling stuck and not believing that one's parents care could indicate some level of emotional distress and possible thoughts of being a burden to others."])
+('5', ['directly_mention', "Somewhat true for me###I mentioned that I never feel like I can trust my parents' word, so it is natural for me to think that they might wish they could be rid of me."])
+('6', ['directly_mention', 'Somewhat true for me###I mentioned that I feel stuck and unable to succeed like my siblings, so I might think that I make things worse for the people in my life.'])
+('7', ['directly_mention', "Somewhat true for me###I mention that I don't feel like I can trust my parents' word, which suggests that I may doubt whether other people care about me."])
+('8', ['indirectly_mention', 'Not at all true for me###I mention that I feel stuck, anxious, and exhausted, which may indicate a lack of belonging and feeling disconnected from others.'])
+('9', ['indirectly_mention', "Somewhat true for me###The post mentions feeling anxious and exhausted, which suggests a lack of social interaction. Although it doesn't directly say that they rarely interact with people who care about them, it implies a sense of isolation and not having a strong support system."])
+('10', ['indirectly_mention', "Not at all true for me###The post indicates that the poster doesn't trust their parents' words and has difficulty believing that they are loved and supported. This suggests a lack of trust and support within their immediate family, which could make it less likely for them to have caring and supportive friends."])
+('11', ['directly_mention', "Somewhat true for me###In the post, the person mentions feeling anxious and exhausted, which could contribute to feeling disconnected from other people, therefore making the statement 'These days, I feel disconnected from other people' somewhat true for me."])
+('12', ['directly_mention', "Somewhat true for me###The person mentions feeling like an outsider in social gatherings by stating, 'I'm stuck in reverse. Sitting at home too anxious or exhausted to even shower or brush my teeth.' This suggests that the person may not feel comfortable or included in social gatherings, making the statement 'These days, I often feel like an outsider in social gatherings' somewhat true for me."])
+('13', ['indirectly_mention', "Somewhat true for me###The post mentions feeling anxious and exhausted, which suggests that the person may be in need of support from others. Although they do not explicitly mention turning to other people in times of need, their statement about not trusting their parents' words implies a lack of trust and reliance on others. Therefore, it can be inferred that the person may feel somewhat true about turning to others in times of need."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything about being close to other people. There is no information provided that can help deduce the answer to this question."])
+('15', ['indirectly_mention', "Not at all true for me###Although the post does not directly mention having satisfying interactions, the mentioning of feeling stuck, anxious, and not believing their parents' words suggests that the poster may not be having satisfying interactions in their daily life."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden on others, such as not believing when parents say they don't care how long it takes to succeed, feeling stuck, and feeling exhausted or anxious to the point of being unable to take care of oneself.
+

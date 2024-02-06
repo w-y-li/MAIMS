@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I had a failed suicide attempt on Christmas, and since then, I‚Äôve been ‚Äúglad‚Äù to be alive but so violently depressed My birthday, the 26th, was spent working and alone. Nobody remembered it, as always. My New Years is also going to be spent alone. I‚Äôm out of my anxiety meds, and have to wait until January to get more. I want to cry all the time. Even trying to get myself to wash my hair is hard. I can‚Äôt even do that most of the time. I can only sit here wishing I was crying, but nothing is coming out. It‚Äôs just tough right now guys. I haven‚Äôt had interaction with anyone other than coworkers, and my parents for weeks. My mother, who I take care of, doesn‚Äôt believe depression is even crippling. She takes it as a stunned toe, ‚Äújust walk it off‚Äù. I‚Äôm ready to feel normal again. I‚Äôm tired of wanting any kind of attention just to feel loved for even a split second. I feel so absolutely useless in this world, but I‚Äôm too exhausted to want to kill myself again. It‚Äôs more of a ‚ÄúI‚Äôm glad to be alive I guess but if something killed me right now I would be okay‚Äù My life is a mess  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a deep sense of loneliness and isolation, particularly with the lack of social interaction, the disappointment in not being remembered on their birthday, and the longing for attention and love. These feelings suggest a risk of thwarted belongingness, where the individual feels disconnected and unsupported in their relationships.
+

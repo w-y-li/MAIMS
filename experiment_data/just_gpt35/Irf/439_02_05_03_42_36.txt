@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Sometimes without even meaning to, I will just sit here and think about the accumulative shit that went on in my childhood that has resulted in this depressed mess. Like, it isn't one thing, but rather a whole string of things that eventually connect when you think back on it. Sometimes it keeps me up at night (posting this at 5:05 am right now)  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a pattern of negative experiences in the poster's childhood that has resulted in a depressed state. This accumulation of negative events may contribute to a perceived burdensomeness, as the poster mentions how thinking about these experiences keeps them up at night. This indicates a potential risk of perceiving themselves as a burden to others.
+

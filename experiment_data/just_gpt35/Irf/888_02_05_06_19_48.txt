@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My mom who's 57 years of age has fallen into depression. A choice I made that involved who I want to spend my life with has really hit her hard (girl from different culture). For a very long time she's had her views on things and it was very hard to convince her otherwise but I'm scared that the depression this time is really getting to her and might shorten her life. This is the last thing I want. I love her to death I don't want to force her to accept any decision I make I just need help in trying to get her out of her depression. We've tried as a family to get her to go to the doctor but failed. She's always been creative and outgoing but since we talked about my decision, she's barley left the house, gained weight, and is in constant anger. I don't know what to do and to add to all of this I'm not there with her. I live away from my family and that's made it even harder. Any advice would be appreciated. Her cultural background is Arab if that helps at all.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of thwarted belongingness
+

@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Stuck living with my parents because I can't afford to leave The idea of living here forever because I can't make much more than minimum wage makes me feel suicidal.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad all the time.###The post mentions that the idea of living with my parents forever makes me feel suicidal. Feeling suicidal is a strong indication of persistent sadness.'])
+('2', ['indirectly_mention', "I feel the future is hopeless and that things cannot improve.###The post mentions that I can't afford to leave and can't make much more than minimum wage. These circumstances can lead to a feeling of hopelessness and a belief that things cannot improve."])
+('3', ['indirectly_mention', "I feel I have failed more than the average person.###The post mentions feeling like a failure because the person cannot afford to leave their parents' house and can only make minimum wage. This suggests that they may feel that they have failed in their ability to achieve financial independence and success."])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post mentions feeling suicidal due to the idea of living with their parents forever and not being able to make much more than minimum wage. This suggests that the person is experiencing a loss of pleasure or enjoyment in their life circumstances.'])
+('5', ['directly_mention', 'I feel guilty all of the time.###In the post, I mentioned that the idea of living with my parents forever because of my low income makes me feel suicidal. This implies a strong sense of guilt, as if I am responsible for my situation.'])
+('6', ['indirectly_mention', "I feel I am being punished.###Although I did not directly mention feeling punished, the mention of feeling suicidal because I cannot afford to leave my parents' house suggests that I may perceive my situation as a form of punishment. It indicates that I believe my circumstances are a consequence of something I did wrong or deserve."])
+('7', ['directly_mention', 'I dislike myself.###The post mentions feeling suicidal, which indicates a deep level of self-dislike.'])
+('8', ['directly_mention', "I criticize myself for all of my faults.###The post mentions feeling stuck and unable to leave the parents' house due to financial constraints. This implies a tendency to blame oneself for the current situation, indicating self-accusations."])
+('9', ['indirectly_mention', "I have thoughts of killing myself, but I would not carry them out.###The post mentions feeling suicidal in relation to not being able to leave their parents' house due to financial constraints. This suggests that they have thoughts of killing themselves, but they would not actually carry them out."])
+('10', ['directly_mention', 'I cry all the time now.###The post explicitly mentions feeling suicidal and the idea of living with their parents forever. This can be associated with a high level of distress and emotional pain, which is commonly expressed through crying.'])
+('11', ['indirectly_mention', 'I am so restless or agitated that I have to keep moving or doing something.###The post mentions feeling suicidal due to the idea of living with their parents forever because of their low income. This indicates a high level of distress and agitation.'])
+('12', ['indirectly_mention', 'It is hard to get interested in anything.###The post mentions feeling suicidal due to the idea of being stuck living with their parents forever. This suggests a loss of interest in their current situation and a difficulty in finding interest in anything.'])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that the idea of living with their parents forever makes them feel suicidal, which suggests a high level of distress and hopelessness. This emotional state can often lead to increased difficulty in making decisions.'])
+('14', ['directly_mention', 'I feel more worthless as compared to other people.###The post states that the idea of living with their parents forever due to low income makes them feel suicidal. This indicates a strong feeling of worthlessness, especially when comparing themselves to others who are financially independent.'])
+('15', ['indirectly_mention', 'I do not have enough energy to do very much.###The post mentions feeling suicidal because of being stuck living with their parents. This suggests that the poster is experiencing significant distress, which could manifest as a lack of energy or motivation to engage in activities.'])
+('16', ['indirectly_mention', "I sleep somewhat less than usual.###The post indicates feeling suicidal due to being unable to afford to leave their parents' place. This distress may disrupt their sleep patterns, resulting in somewhat less sleep than usual."])
+('17', ['directly_mention', 'I am much more irritable than usual.###The post mentions feeling suicidal, which suggests the person is experiencing intense distress. Irritability is often associated with depressive symptoms, so it is likely that the person is more irritable than usual.'])
+('18', ['indirectly_mention', "My appetite is much less than before.###The post mentions feeling suicidal and being stuck living with their parents due to financial constraints. Severe emotional distress can often lead to changes in appetite, including a significant decrease in eating. Therefore, it can be inferred that the person's appetite is much less than before."])
+('19', ['indirectly_mention', 'I can not concentrate as well as usual.###The post mentions feeling suicidal due to the idea of living with their parents forever, which suggests an elevated level of stress and a negative impact on their mental well-being. Concentration difficulties are commonly associated with heightened stress levels and could be inferred from the post.'])
+('20', ['indirectly_mention', "I am too tired or fatigued to do most of the things I used to do.###Living in a situation that makes the poster feel suicidal could be indicative of chronic stress and emotional exhaustion. The post mentions feeling trapped and unable to afford to leave their parents' home, which suggests a state of fatigue. Thus, it is reasonable to assume that the poster experiences tiredness and fatigue that affect their ability to engage in activities they used to enjoy."])
+('21', ['directly_mention', 'I have lost interest in sex completely.###The post mentions feeling suicidal because the idea of living with parents forever due to low income. This suggests a significant level of distress and loss of hope, which can lead to a loss of interest in activities such as sex.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers indicate symptoms of depression, including feelings of sadness, hopelessness, guilt, self-dislike, thoughts of suicide, loss of pleasure, changes in appetite, concentration difficulty, and loss of energy.
+

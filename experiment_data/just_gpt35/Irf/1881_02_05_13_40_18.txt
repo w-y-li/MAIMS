@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  So, pretty much. I‚Äôve been dealing with depression &amp; anxiety for quite a number of years, but I‚Äôve going through a real low, rough patch at the moment. My self hatred has been growing rapidly &amp; to top it off, me and my now ex girlfriend broke up the other day. I was just wondering if any of you could just comment some positive things like inspiration and whatnot? Thank you all in advance. I hope everyone that‚Äôs reading this right now are coping alright, you‚Äôre never alone ‚ù§Ô∏è  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feelings of self-hatred, depression, and anxiety, which may indicate a sense of perceived burdensomeness. Additionally, the breakup with the ex-girlfriend could further contribute to these feelings.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Got into an argument with my partner a couple days ago and haven‚Äôt stopped thinking about it. I have severe depression, not medicated because i don‚Äôt have insurance, but I see a volunteer therapist every couple weeks. I live with my partner, we‚Äôve been together for a little over a year. Partner is getting depressed because they feel like all they do is make me feel better. I feel so selfish because I can‚Äôt help them help me. I feel worthless and like a burden and I just wish I could find the motivation to get out of bed in the morning without bothering them. How do I help myself, so my partner won‚Äôt resent me in a few years? I‚Äôm so afraid of losing them because of my mental illness  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, burden, and fear of losing the partner due to their mental illness. These feelings suggest a risk of perceived burdensomeness, where the individual believes they are a burden to their partner because of their depression and inability to help themselves.
+

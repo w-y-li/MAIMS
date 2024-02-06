@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Ive been really depressed lately... My math subject at school failed, i keep thinking i wont graduate, i have no energy to go to school anymore so i fake everything and go to a nearby computer cafe even though i only have enough money to commute to my school. I know lifes hard but theres something in my brain that broke... Im not crazy though just uncaring. But i noticed i suddenly grew an interest on one of our kitchen knives, not like to hurt people, its just an odd interest where you imagine the knife killing you painlessly. But the thing is, i have a phobia of sharp things so i grew up cautious with sharp objects including knives... Its not really bad, i just do stabbing motions on myself, but the point is i consider doing that normal. I also keep daydreaming while walking and oddly enough i daydream about me getting in a car crash or something similar, which i has a high chance of happening considering im daydreaming. Another point is my fake laughter, i dont know why i keep doing it. I know im probably mentally ill but i have no why of knowing since psychiatrists and therapists costs very much in my country. Anyway im just rambling about my problems but i have a feeling itll all end soon. Just a feeling...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows signs of perceived burdensomeness as the poster expresses feelings of being a burden, lack of energy to go to school, faking actions, and contemplating self-harm with a kitchen knife.
+

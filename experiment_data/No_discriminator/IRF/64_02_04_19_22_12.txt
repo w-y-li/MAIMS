@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  and things get really bad so that i can finally kill myself. I'm so sick of not able to kill myself because there is always this voice saying it's not that bad and not having enough courage because things are not that bad. There is no point anymore in trying so hard every year when nothing gets better. I'm so tired of living like this and waiting for nothing. And happy new year to everyone with mental illness and i hope this year turn out to be great for you all.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Very true for me###The post explicitly states, 'These days, the people in my life would be better off if I were gone.' This implies that the poster believes their presence is burdensome and that others would be better off without them."])
+('2', ['directly_mention', "Very true for me###The post directly mentions, 'These days, the people in my life would be happier without me.' This shows the poster's belief that their absence would lead to greater happiness for others."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like a burden and not having the courage to kill myself because things are not that bad, which suggests that the person may feel like a burden on society to some extent.'])
+('4', ['indirectly_mention', "Not at all true for me###The post does express the desire to end one's life, but it doesn't directly mention the person's death being a relief to others. Therefore, it is more likely that the person does not feel that their death would be a relief to the people in their life."])
+('5', ['directly_mention', 'Very true for me###The post mentions feeling like a burden and making things worse for the people in their life, indicating that they think the people in their life wish they could be rid of them.'])
+('6', ['directly_mention', 'Very true for me###The post explicitly states that the person believes they make things worse for the people in their life, making this statement very true for them.'])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to other people caring about me or feeling like I belong."])
+('8', ['directly_mention', 'Not at all true for me.###The post mentions feeling tired of living like this and waiting for nothing, indicating that the person does not feel cared for by others.'])
+('9', ['directly_mention', "Not at all true for me###The post mentions that I have people around me who care for me, such as saying 'happy new year to everyone with mental illness and I hope this year turns out to be great for you all'."])
+('10', ['indirectly_mention', "Somewhat true for me###The post suggests that I may not have many caring and supportive friends, as the person expresses feelings of isolation, tiredness, and disillusionment. However, it is not explicitly stated whether I have 'many' or 'few' friends, so a definitive answer cannot be given."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling disconnected and tired of living like this which could indicate a sense of disconnection from other people.'])
+('12', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like an outsider and not being able to fully connect with others due to the struggles they are going through.'])
+('13', ['directly_mention', "Not at all true for me###I mentioned that I feel like I have no one to turn to in times of need. This implies that I don't feel that there are people I can turn to in times of need."])
+('14', ['indirectly_mention', "Not at all true for me###I mentioned that I'm tired of living like this and waiting for nothing. This implies that I feel a sense of disconnection and lack of closeness to other people."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having satisfying interactions on a daily basis."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the poster's statements and scores on the relevant mental scale questions, it is evident that they are experiencing feelings of being a burden, making things worse for others, and thinking that people would be happier without them. These thoughts and emotions indicate a risk of thwarted belongingness, a perception of not belonging or being disconnected from others.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I don't think I'm depressed. Not really sure how it works, but I'm kind of done If that makes any sense. This past semester of school has just been, weird, any time I get an assignment I feel overwhelmed, even though it's no different from any previous semester. I failed my first math test, I haven't started my senior project, behind in everything else. I want to get caught up, but I just have no desire to do anything. I live at home (community college) and have a life I'm sure many others would kill for, but still. As cringe as it sounds, I've been pointing our .357 at my skull and dry firing it. I hate the idea of my family and friends having to deal with the fallout, but I really can't see a future for myself. I'm not going to do anything but I thought I post because why not.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation, lack of desire to do anything, and thoughts of self-harm. These are classic symptoms of thwarted belongingness, which is a risk factor for various mental health issues including depression.
+

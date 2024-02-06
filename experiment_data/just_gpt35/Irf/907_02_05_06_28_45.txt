@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Well I think about doing it but I can't even commit to doing just because of the pressure of being the only male to carry the family name  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of burden and pressure to carry the family name, which suggests a risk of perceived burdensomeness.
+

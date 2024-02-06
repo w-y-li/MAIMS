@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  A friend I've met in Discord is having problems with not only his ADHD, Depression and Anxiety but with his manipulative uncle. He's living with his uncle but he can't really do anything, he yells at him, disconnects him from the internet for weeks for laughing and is one of the reasons he's depressed. I want to know what would be the best way to help him? He has already tried contacting the police but the situation seems to become worse by the week. I don't live near him (and by that i mean within a 500km radius) so I can't help him directly  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions that the person is experiencing depression, anxiety, and living in a challenging and potentially abusive environment. The situation with the manipulative uncle and the feeling of being trapped can contribute to a perceived sense of burdensomeness.
+

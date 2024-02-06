@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I have no job, no friends and no girlfriend. All I do is play video games, hang with my dog and workout for an hour. I‚Äôm so bored with life. Worse part is I don‚Äôt wanna do anything. I don‚Äôt wanna socialize, don‚Äôt wanna go out, nothing really feels worthwhile and genuinely interesting. I‚Äôm almost 30 and life has lost all purpose. All I wait for is my next hour at the gym everyday.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post describes feelings of boredom, lack of motivation, and a loss of purpose in life. The individual expresses a lack of interest in socializing and going out, suggesting a withdrawal from social connections. These symptoms can indicate a risk of perceived burdensomeness, where the poster may feel like they are a burden to others and may see themselves as lacking value or worth in relationships and activities.
+

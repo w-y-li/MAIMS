@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Possessive friends Hi there, this is my first post. I became friends with a girl from my new class this year (who i had never met until we came into the same class) and became good friends with each other.She has a big network of friends and is quite different from me(talks to everyone, likes everyone, an extrovert). One day, a boy who happens to be her best friend saw us talking and got angry(for the life of me, i do not know why) and started making fake rumors about me, which she blindly believed. when she came to confront me about these false allegations, i flipped out and got quite angry and i have not talked to her for 3 days. Her friends are determined to hate me for some unknown reason and at the same time the girl has to problem with this, even defending them, saying that they are just very possessive of her. I am in a dilemma on what to do, ignore the hate or to stop caring and ignore her.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to sadness. There is no indication that the poster is feeling sad in any way."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to pessimism. There is no indication that the poster feels discouraged about their future or has a negative outlook on things."])
+('3', ['directly_mention', "I feel I have failed more than the average person.###In the post, I mention that the boy made fake rumors about me and the girl blindly believed them. This situation can be seen as a failure because it resulted in a conflict between me and the girl, causing me to 'flip out' and become angry. Thus, it suggests that I feel I have failed more than the average person."])
+('4', ['indirectly_mention', "I do not enjoy things as much as I used to.###Though the post does not explicitly mention a loss of pleasure, it does describe the dilemma I am facing due to being hated by the girl's friends. This situation can cause distress and negatively impact the enjoyment of activities I used to enjoy. Therefore, based on the given information, it can be inferred that I do not enjoy things as much as I used to."])
+('5', ['not_mention', "Doesn't mention at all.###The post doesn't talk about feeling guilty or having guilt. It is focused on the dynamic between the poster and their friend."])
+('6', ['not_mention', "Doesn't mention at all.###The post doesn't mention feeling punished or having any expectation of punishment. It is more about the conflict between the poster and their friend."])
+('7', ['indirectly_mention', "I feel the same about myself as ever.###The post doesn't directly mention the question, but it does provide some information about the poster's emotional state. The poster mentions getting angry and flipping out when confronted, indicating a possible emotional reaction. However, there is no explicit mention of self-dislike, so my answer is based on deduction."])
+('8', ['indirectly_mention', "I do not criticize or blame myself more than usual.###The post doesn't directly mention the question, but it does provide some information about the poster's behavior. The poster mentions getting angry and not talking to the friend for three days. While this may indicate some self-criticism, there is no explicit mention of self-accusations, so my answer is based on deduction."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to crying."])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The post states that when confronted about false allegations, I flipped out and got quite angry. This suggests a high level of agitation and restlessness.'])
+('12', ['not_mention', "Doesn't mention at all.###There is no mention of any loss of interest in the post. The focus is on the conflict with the possessive friends, not on a lack of interest in activities or people."])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post mentions being in a dilemma about what to do, which suggests difficulty in making decisions.'])
+('14', ['indirectly_mention', 'I do not consider myself as worthwhile and useful as I used to.###The post mentions feeling hated by her friends and being confronted with false allegations, which can influence feelings of worthlessness.'])
+('15', ['directly_mention', "I have as much energy as ever.###In the post, I didn't mention anything about feeling a loss of energy or having less energy. Therefore, I can confidently say that I have as much energy as ever."])
+('16', ['directly_mention', "I have not experienced any change in my sleeping pattern.###In the post, I didn't mention any changes in my sleeping pattern. So, I can confirm that I have not experienced any such changes."])
+('17', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to irritability."])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions that the poster has not talked to her friend for 3 days due to the conflict. This indicates a change in behavior and emotional state, which could suggest a decrease in appetite.'])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention any difficulty with concentration. It focuses on the situation with the friend and does not provide any indication of the person's ability to concentrate."])
+('20', ['indirectly_mention', 'I get more tired or fatigued more easily than usual.###The post mentions that I have not talked to my friend for 3 days, which suggests that there may be a problem or conflict causing emotional stress. Emotional stress can lead to fatigue and feeling tired more easily.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex. It focuses on the situation with the friend and the dilemma the poster is facing."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the answered questions of the mental scale, the poster expresses feelings of failure, reduced pleasure, self-dislike, difficulty in making decisions, worthlessness, and increased restlessness. These symptoms align with the criteria for depression, suggesting that the poster may be experiencing depression.
+

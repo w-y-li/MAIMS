@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My girlfriend just dumped me. She was the last thing in this world I actually cared about... and now she‚Äôs just gone. Idk how I can live anymore honestly I feel like maybe this world would be better without me in it. I‚Äôm here as a last resort... maybe someone here can save me from doing what I‚Äôm thinking about doing tonight.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of loss and despair after the breakup, as the poster mentions that their girlfriend was the last thing they cared about in the world. The statement of feeling like the world would be better without them suggests a lack of belongingness and connection, which can be indicative of risk for thwarted belongingness.
+

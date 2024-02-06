@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Due to medical treatment I have been throwing up for what feels like most of the night. I feel so shit! Why do I have to go through this?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate any risk of thwarted belongingness. The poster is expressing feelings of physical discomfort due to medical treatment, but there is no mention of social isolation or lack of social support.
+

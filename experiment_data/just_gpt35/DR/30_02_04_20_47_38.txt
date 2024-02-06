@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Looking for friends. I'm a socially awkward college student that'd like to make some friends. Not necessarily hangin out (would be nice sometimes) but just want people to talk too, so it's all good if you don't live near me. :)  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster's desire to make friends and connect with others suggests a willingness to engage socially, which is not typically associated with depression. However, feeling socially awkward may indicate some level of social anxiety.
+

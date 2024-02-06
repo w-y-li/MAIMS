@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I hate to say goodbye to her, I hate to cry this hard, but either way I'd hate to live to see the sun rise in the morning.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong negative emotional state and a desire to avoid living. This suggests a risk of perceived burdensomeness, which is a key component of suicidal ideation.
+

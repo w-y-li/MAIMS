@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  What do you think about anti depressants? Do they work, are they bs, do they only trick you into feeling better at the beginning? Want to know people's take on meds.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a search for connection and understanding regarding the effectiveness of antidepressants. This suggests a potential experience of thwarted belongingness, as the individual is seeking validation and perspectives from others on a mental health topic.
+

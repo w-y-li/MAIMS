@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I had an awful time in high school, I didn't have friends, I pushed everyone away, I didn't date anyone or go to dances or kiss anyone or have sex and now I'm 20 and I wish I had fun when I was younger bc I can't figure out how to now and I don't know how to tell any future partner I may have that  oh yeah I'm 20 whatever years old and I've never kissed anyone  how fucking embarrassing  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation, pushing people away, and a strong desire for social connection. This suggests a potential risk of thwarted belongingness, which is a key factor in mental health problems such as depression and suicidal ideation.
+

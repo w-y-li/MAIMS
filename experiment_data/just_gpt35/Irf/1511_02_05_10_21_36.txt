@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  If I down a bottle of sleeping pills and painkillers, would it take me?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's question suggests feelings of hopelessness and a desire to escape from perceived burdens, which are indicative of a risk of perceived burdensomeness.
+

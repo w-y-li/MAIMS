@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  and please, not the psycho scary type.. just someone that cares about me, willing to talk once in a while, and someone i can just count on. everytime i feel like i had a special connection with someone it just fades off.. is anything real  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of loneliness and difficulty in forming and maintaining strong connections with others, which suggests a risk of thwarted belongingness.
+

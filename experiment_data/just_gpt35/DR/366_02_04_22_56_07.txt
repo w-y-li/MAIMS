@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  It's been almost 7 years.. 7 years.. Holy shit.. It'll be 7 years in May.. It still feels like yesterday when I got that call from your dad, telling me what happened. And I remember dropping everything I was doing at work, and rushing to the hospital. Slowly walking into the room, with your family gathered around you, that's when it hit me, and I broke down.. I lost it.. Couldn't control myself, and I couldn't stop crying. When I had to say goodbye, it broke my fucking heart.. Losing my best friend, my fiancé, was the hardest day of my life. But every year after, the pain slowly faded away, and it didn't haunt me anymore. But last week, when your dad called me and said that he'd be in town for work, and wanted to get together, it made my day. Hadn't seen/heard from him in about 6 months. But last night, when your sister called, and told me that your dad passed away in his sleep from a heart attack, it was like the whole world had stopped spinning again.. Fuck, it's been a long weekend. And damnit, it's gonna be a long week.. P.S. Mr Rhodes, give Elaina a hug for me, and tell her I miss her, and that I'm doing alright. I'll see you both again one day.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's prolonged feelings of sadness, grief, and loss, along with the mention of crying, inability to control emotions, and the impact on daily functioning suggest symptoms consistent with depression.
+

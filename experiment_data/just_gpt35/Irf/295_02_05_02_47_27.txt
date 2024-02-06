@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I got my gf pregnant. I don't know what to do and say. I havent slept for 3 days since we found out. She's 4 weeks pregnant and already thinking about  medical abortion . She's not talking to me. I'm having thoughts about killing myself to escape all of this. Its the most dumb thing to do but i feel like im running out of choices. We're not financially stable. I'm a student. I should have wore a condom. What should i do.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being overwhelmed and trapped, with thoughts of suicide as a means of escape. These thoughts suggest a perceived burden that the poster feels unable to handle.
+

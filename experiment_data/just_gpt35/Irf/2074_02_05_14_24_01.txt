@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I hate myself, i hate everything I am. I wish I didn't. Or maybe I really don't. Maybe I just can't take the negative thoughts, the pain, the apathy, the endless battle you can never win anymore. I feel like I'm worthless, like I mean nothing to anyone. I'm always trying to live up to impossible expectations from a person that doesn't exist. I hurt, and hurt, and hurt and hurt so much that my heart may as well explode and nothing changes. I go to bed, I wake up the next day and repeat that for however long I get to till I'm back here. Knowing that there will never be a point where I don't come back here till the day I die. Why don't I get to be normal? Why don't I get to be happy without the looming sadness and anger? What did I do to deserve this? Is it because I exist? Not letting me live wasn't enough punishment. I had to be cursed to live a life where I wake up everyday hating myself more and more and more till the white noise becomes a ringing that becomes banging in my head screaming  YOU ARE WORTHLESS  in a mask of my own voice. I just want to be free of this curse.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of worthlessness and isolation, indicating a lack of belongingness. The poster mentions feeling like they mean nothing to anyone and struggling to live up to impossible expectations. These thoughts and emotions suggest a risk of thwarted belongingness.
+

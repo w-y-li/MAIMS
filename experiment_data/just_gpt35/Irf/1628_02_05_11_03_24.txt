@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  You don't understand why I stopped being a lawyer and became a writer. You don't understand why I want to move abroad and left the city I always wanted to live in. You don't understand any of my choices. I understand you. You want me to be safe. What you don't know I'm fighting depression and suicidal thoughts. I need to be happy. I know I should already know how to be happy being 30 years old, but I don't. Some days I even don't know who I am. Who I really am. I am only surviving. I wish you could understand how I am feeling.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post includes feelings of isolation and the desire for understanding and support from others. The poster expresses that they feel misunderstood and their choices are not understood by others. This suggests a potential lack of social connection or thwarted belongingness.
+

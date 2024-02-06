@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  So my boyfriend has pretty severe depression. I'm the only person he talks to about it, and it's good that he can at least talk to someone, but I think he should tell his parents so he could try to get professional help. He refuses to talk to anyone but me about it and believes that a therapist can't help him, no matter how hard I've tried to convince him. He also believes taking medicine wouldn't help, even though I have tried to convince him. He is suicidal at least once a day and I'm worried that one day he will just do it. Any ways to help him (I know everyone is different but any general advice) would be appreciated.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows apparent risk of thwarted belongingness as the poster's boyfriend only talks to the poster about his severe depression and refuses to seek professional help from a therapist or involve his parents. This isolation and resistance to seeking appropriate support can indicate a lack of belongingness and connection, exacerbating the severity of his depressive symptoms.
+

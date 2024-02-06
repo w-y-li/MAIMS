@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Anyone else just drive? Idk, just like exploring places and stuff while listening to music. Can be kinda fun  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster expresses enjoyment and a sense of fun in the activity of driving and exploring places, along with listening to music. This suggests a positive outlook and the absence of depressive symptoms.
+

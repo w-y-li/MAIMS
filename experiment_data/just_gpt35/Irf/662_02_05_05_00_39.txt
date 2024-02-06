@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  If nothing changes by the end of the year I've decided to kill myself. I can't live like this anymore. I'm so tried. I'm sick of failing in life again and again and again I'm sick of people calling me crazy I'm of being treated like crap I'm sick of life. If nothing changes by the end of the year I plan on killing myself before I turn 20. IM SO TRIED I WANT IT TO END I WANT RELIEF  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and feeling unheard, which may suggest a risk of thwarted belongingness.
+

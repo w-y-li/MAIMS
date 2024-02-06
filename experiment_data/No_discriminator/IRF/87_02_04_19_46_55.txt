@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I‚Äôm frustrated with my life. I have very few friends, and as a 20 year old college student about to turn 21 it‚Äôs driving me crazy to realize that I can‚Äôt celebrate it with anyone. My closest friends are all younger than me, and 2 of the closest are 16 (don‚Äôt worry, I met them through my job, I‚Äôm not a pedophile), so I feel pathetic for being unable to make friends my own age. It‚Äôs just plain creepy. Only thing that keeps people from calling me out is that I look only a year older than them. I‚Äôm gay, in a hyper conservative family, so I can‚Äôt please anyone in it. I live at home, so my life is restricted a lot (due to paying college expenses). My parents frequently remind me of my lack of friends and constantly question if I‚Äôm trying to sleep with every male I talk to, and particularly question my friendship with anyone younger than me. They think that because I‚Äôm gay, I‚Äôm a pedophile. The few friends I had my own age ditched me because they think me being gay is disgusting. I try approaching the LGBT groups on campus but I feel like they‚Äôll ostracize me for other reasons. I feel like I was cheated my teenage years by my restrictive parents, now I‚Äôm lonely and angry at everyone around me for having what I couldn‚Äôt. My siblings are successful, and I feel like the dissappointment and failure of the family. I have much more anger but these are the ones that keep popping up today, and I just wanted to vent about it somewhere.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not provide any indication or mention of the first question."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any indication or mention of the second question."])
+('3', ['directly_mention', 'Somewhat true for me###I feel like the disappointment and failure of the family. This suggests that I might think I am a burden on society.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information to make a deduction about whether my death would be a relief to the people in my life."])
+('5', ['directly_mention', "Not at all true for me###In the post, I expressed frustration with my life, loneliness, and anger towards those around me. However, I did not mention anything about people in my life wishing they could be rid of me. Hence, the answer is 'Not at all true for me'."])
+('6', ['directly_mention', "Not at all true for me###In the post, I mentioned feeling like the disappointment and failure of the family, but I did not indicate that I make things worse for the people in my life. Therefore, the answer is 'Not at all true for me'."])
+('7', ['indirectly_mention', 'Not at all true for me###The post mentions feeling frustrated, angry, lonely, and like a disappointment and failure. These emotions suggest that the person may not feel cared for by others.'])
+('8', ['indirectly_mention', 'Not at all true for me###The post mentions feeling frustrated, lonely, and angry at everyone around them. These emotions suggest that the person may not feel like they belong in their social circle.'])
+('9', ['directly_mention', 'Not at all true for me###The poster mentions feeling frustrated with their life, having very few friends, and feeling lonely and angry at everyone around them. This suggests that they rarely interact with people who care about them.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide enough information to determine whether the poster has many caring and supportive friends."])
+('11', ['directly_mention', 'Very true for me.###The post mentions feeling frustrated with a lack of friends and unable to celebrate their birthday with anyone, indicating a disconnect from other people.'])
+('12', ['directly_mention', 'Very true for me.###The post mentions feeling like an outsider in social gatherings due to having very few friends and feeling unable to make friends their own age.'])
+('13', ['directly_mention', 'Not at all true for me###The post states that the person feels frustrated and lonely, with very few friends. This indicates that they do not feel they have people to turn to in times of need.'])
+('14', ['directly_mention', 'Not at all true for me###The post mentions that the person feels lonely and unable to make friends their own age. This suggests that they do not feel close to other people.'])
+('15', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person is frustrated with their life and feels lonely and angry at everyone around them. Having at least one satisfying interaction every day could help alleviate some of these negative emotions.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the poster feels like a burden on society and perceives themselves as a disappointment and failure to their family. They also express feelings of being cheated by their restrictive parents and feeling lonely and angry at everyone around them. These thoughts and emotions suggest a risk of perceived burdensomeness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I've thought about talking to someone but I can't get past the feeling that they will start to worry way too much and I don't want to be a nuisance. If I talk to either my mother or my brother they will probably force me to go back home or try to change my lifestyle somehow. Am I overthinking this? Probably. Has anyone talked about this to someone? How did it go? What measures did they take to help you? I feel like hearing some other experience about this might make it easier to do myself...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the poster has concern about being a nuisance and worries about others worrying too much. This suggests a possible risk of perceived burdensomeness, where the individual feels that they are a burden to others and does not want to impose on them.
+

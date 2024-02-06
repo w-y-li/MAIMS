@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  i hate how i isolate myself and then complain i hate myself since i know what i have to do but i cant choose it because i seem to love being sad / depressed i hate myself since i cant self harm like i desire i hate myself since i cant go back and change what has happened i hate myself since i put myself in these situations i hate myself since i just hate myself why cant i just die.. nobody would care if it happened this cruel world is sickening and i just wish i could put everyone that's made all of us suicidal on suicide watch. i hate the human race so much like i dont even know how i feel anymore all i know is sadness at the moment and pretending to be happy on the internet. like ive tried co2 poisoning for a short period of time with a towel covering my nose and mouth but i got scared and i didnt want anyone walking in on me attempting since i dont have my own room. i just wish i was able to do what many of you brave souls have realized on this reddit nobody understands at all and im just confused at the moment i dont even know why i wrote this but i hope you have a good new year. if you wasted your time reading this im sooo sorry please please pleaseee just try to get the time you spent on this back.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Somewhat true for me###The post mentions the feeling of hating oneself, wanting to die, and feeling like nobody would care. These thoughts suggest that the people in the poster's life would be better off without them."])
+('2', ['directly_mention', "Very true for me###The post explicitly states that the people in the poster's life would be happier without them. They mention wishing they could put everyone who has made us suicidal on suicide watch, indicating that they believe their presence causes unhappiness in others."])
+('3', ['indirectly_mention', "Somewhat true for me###The post expresses feelings of self-hatred and a desire to die. These thoughts could indicate a belief that the poster is a burden on society, which aligns with the option 'Somewhat true for me'."])
+('4', ['indirectly_mention', "Very true for me###The post mentions a wish for others to be placed on suicide watch, indicating a belief that the poster's death would be a relief to the people in their life. This aligns with the option 'Very true for me'."])
+('5', ['directly_mention', "Very true for me###The poster states 'nobody would care if it happened' and expresses a wish to put everyone on suicide watch, suggesting they believe people want to be rid of them."])
+('6', ['directly_mention', 'Very true for me###The poster expresses self-hatred and a desire to harm themselves, indicating they think they make things worse for the people in their life.'])
+('7', ['indirectly_mention', 'Somewhat true for me###The post suggests that the person feels isolated and hates themselves, but also wishes for someone to care about them. This indicates that there may be some desire for others to care, albeit with a sense of disbelief or doubt.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about how the person feels about belonging or if they currently feel like they belong."])
+('9', ['indirectly_mention', 'Not at all true for me###The post mentions feelings of isolation and a lack of support from others, which indirectly suggests that the person rarely interacts with people who care about them.'])
+('10', ['indirectly_mention', 'Not at all true for me###The post mentions a lack of caring and supportive friends, which indirectly suggests that the person does not have many caring and supportive friends.'])
+('11', ['indirectly_mention', 'Somewhat true for me###The post indicates feelings of isolation and disconnectedness which align with the question about feeling disconnected from other people.'])
+('12', ['indirectly_mention', 'Very true for me###The post mentions feeling like an outsider in social gatherings, which aligns with the question about feeling like an outsider.'])
+('13', ['directly_mention', 'Not at all true for me.###The post mentions feeling isolated and complaining about hating oneself. This suggests a lack of social support and the feeling of being alone in times of need.'])
+('14', ['directly_mention', 'Not at all true for me.###The post expresses hatred towards the human race and a general sadness, which indicates a lack of closeness to other people.'])
+('15', ['indirectly_mention', 'Not at all true for me###The post mentions feeling isolated and hating oneself, which suggests a lack of satisfying interactions with others. However, the post does not explicitly mention having satisfying interactions every day.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows several indicators of perceived burdensomeness, such as feelings of self-hatred, desire for self-harm, regret for past actions, and a belief that nobody would care if they died. These thoughts and emotions suggest a strong sense of feeling like a burden to others and contemplating the idea that their absence would be beneficial for those around them.
+

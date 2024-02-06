@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Life is really hard even tho my life is relatively good for now but I am not happy. Everyday I question why I‚Äôm in college hating every second of it. To work for the rest of my life? For what? Why am I so lazy and unmotivated. My least favorite thing about college is the PEOPLE. I just want to stay inside. I had to skip therapy this week because I have too much pointless school work to do. I‚Äôm lucky to even have therapy but I won‚Äôt anymore when I turn 25. I am 23 now.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation and a desire to avoid people, suggesting a potential risk of thwarted belongingness. The poster mentions hating college and questioning the purpose of their current path in life, which may contribute to feelings of disconnection and lack of motivation.
+

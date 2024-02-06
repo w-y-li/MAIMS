@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Now I‚Äôm having these dark thoughts for the first time in months and I just want them to go away.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person is experiencing dark thoughts, which can be a sign of feeling isolated or disconnected from others. Thwarted belongingness refers to a sense of not belonging or lacking social connections, which can increase the risk of mental health problems, including the development of dark thoughts.
+

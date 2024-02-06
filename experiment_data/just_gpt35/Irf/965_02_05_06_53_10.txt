@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  My mood fluctuations have not changed over the past year at all, despite me starting medication. However what I have noticed is that I'm able to contextualise thoughts and feelings a lot easier these days. For example I'm feeling fairly rubbish at the moment, but instead of the thoughts of loneliness and inadequacy I used to get with these feelings, I now just look forward to not feeling like this. It comes in waves and always has done, but I'm feeling it is affecting my productivity a lot less than it used to, obviously I'm more productive when I'm not feeling like this, but by Monday I probably won't feel like this. I used to have thoughts of ending it, still do sometimes but I'm glad I didn't. I'm much happier now that I know it's not constant. I hope anyone who currently feels as though they're in a trough can see that it won't always be this way, and there are sunnier days ahead.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate a risk of perceived burdensomeness. The poster mentions mood fluctuations and feeling rubbish at the moment, but there is no explicit mention of feeling like a burden to others or expressing thoughts of being a burden.
+

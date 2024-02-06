@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  All I want is for people in my everyday life at school to care about me  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a desire for others in the poster's everyday life to care about them, suggesting that they may feel a lack of social support. This can be indicative of perceived burdensomeness, where the individual believes they are a burden or do not contribute positively to the lives of others.
+

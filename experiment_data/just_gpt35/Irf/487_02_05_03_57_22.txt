@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Any other late night r/depression browsers using reddit to avoid going to sleep because of the dread you feel for tomorrow? :)  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a desire to avoid going to sleep due to feeling dread for tomorrow. This suggests a potential risk of perceived burdensomeness, as the poster may be feeling overwhelmed by the thought of facing the challenges and responsibilities of the next day.
+

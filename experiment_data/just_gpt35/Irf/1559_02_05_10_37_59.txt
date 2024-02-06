@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  These past two years have been such a letdown for how little I've gotten done. But even worse, who I thought I was turned our to be wrong. I need purpouse. I need the story of my life to, for one actually read like a story, and to have a meaning. I have absolutely no clue how to live without that emotional connection to who I am and the pride that comes with that.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong need for purpose and a meaningful story in life. The lack of accomplishment and a sense of identity are causing emotional distress. This suggests a risk of perceived burdensomeness, as the poster feels they are not living up to their expectations and may view themselves as a burden to others.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I've suffered with Depression myself and managed to help myself out of it on my own; however, I know it's different for everyone. My brother has been to the therapy to treat his depression but he is still struggling and I don't know what to do. He always believes that there's no light at the end of the tunnel and that he'll never be happy no matter what he does. He even said he can't even take his own life because that would be to selfish of him, in other words he's only alive because he has to be for my family. You can tell him one thing to make him feel better like   You re not alone  or something that is very similar to the way he feels and he will completely dismiss it. please I don't know what to do.. I don't want to lose my brother..  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the poster's brother is experiencing feelings of being a burden to others, which is a characteristic of perceived burdensomeness. This is evident from the statement that he believes he is only alive for the sake of the family and that he can't take his own life because it would be selfish. This suggests a sense of responsibility and guilt, along with a lack of self-worth and hope for a better future.
+

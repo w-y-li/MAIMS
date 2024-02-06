@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I just don‚Äôt know why I don‚Äôt commit suicide and die Life is full of pain and misery I have done nothing wrong and I have tried so hard but i just cannot find the happiness that I deserve My Lord I ask you for nothing but my happiness  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me###In the post, I express my belief that I have done nothing wrong and ask for happiness, which suggests that I do not think the people in my life would be better off without me.'])
+('2', ['not_mention', "Doesn't mention at all.###The post doesn't explicitly state anything about the happiness of the people in my life without me, so I cannot determine whether they would be happier without me or not."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post talks about feeling pain and misery, indicating that the person may feel like a burden on society.'])
+('4', ['indirectly_mention', 'Somewhat true for me###The post mentions not being able to find happiness and feeling undeserving of it, which could lead to thinking that their death would be a relief to others.'])
+('5', ['directly_mention', 'Very true for me###I mentioned that life is full of pain and misery and that I have tried so hard but cannot find happiness. This implies that I believe I make things worse for the people in my life and that they may wish they could be rid of me.'])
+('6', ['not_mention', "Doesn't mention at all.###I did not mention or imply anything about the people in my life wishing to be rid of me."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything about other people caring about the poster or the sense of belonging."])
+('8', ['indirectly_mention', 'Somewhat true for me.###The post implies that the poster is struggling with finding happiness and feels a lack of belonging. This suggests that the poster may not feel completely disconnected from others, but also not fully supported or included.'])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions that life is full of pain and misery, which suggests a lack of support and care from others, leading to a somewhat true response for Question 9.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having many caring and supportive friends, so Question 10 is not mentioned."])
+('11', ['indirectly_mention', 'Very true for me###The post mentions that the person feels disconnected from others and states that they cannot find the happiness they deserve. This suggests a feeling of being disconnected from social connections, which aligns with feeling like an outsider in social gatherings.'])
+('12', ['indirectly_mention', 'Very true for me###The post expresses a deep sense of pain, misery, and a lack of happiness. This emotional state can lead to feeling disconnected from others and experiencing social gatherings as an outsider.'])
+('13', ['indirectly_mention', "Somewhat true for me###Although the post doesn't directly mention whether there are people to turn to in times of need, the poster expresses feelings of pain and misery. This suggests that the poster may feel the need for support and help from others, indicating that it is somewhat true for them."])
+('14', ['indirectly_mention', "Not at all true for me###While the post doesn't explicitly state whether the poster is close to other people or not, the mention of experiencing pain and misery suggests feelings of isolation and disconnection. Therefore, it is likely that being close to other people is not at all true for the poster."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having satisfying interactions every day."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's response to the answered questions of the mental scale indicates a risk of thwarted belongingness. They feel like a burden on society, believe their death would be a relief to others, and think that people in their life wish they could be rid of them. They also feel disconnected from others, often feel like an outsider in social gatherings, and have few satisfying interactions. These sentiments suggest a lack of social connection and a sense of not belonging, which aligns with the concept of thwarted belongingness.
+

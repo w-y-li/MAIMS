@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I feel sad for myself when I see a couple walking holding hands or kissing.. I don't want to feel that way.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The mention of feeling sad when seeing couples suggests a sense of loneliness and a desire for connection, indicating a potential risk of thwarted belongingness.
+

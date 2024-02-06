@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  These past two years have been such a letdown for how little I've gotten done. But even worse, who I thought I was turned our to be wrong. I need purpouse. I need the story of my life to, for one actually read like a story, and to have a meaning. I have absolutely no clue how to live without that emotional connection to who I am and the pride that comes with that.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not explicitly mention feelings of social disconnection or lack of belongingness. The individual is expressing a desire for purpose and a meaningful life, but there is no clear indication of feeling disconnected from others or lacking a sense of belonging.
+

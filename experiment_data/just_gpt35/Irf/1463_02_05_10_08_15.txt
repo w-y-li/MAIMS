@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  People are starting try and understand depression a little. But the empathy just is not there for anxiety and ADHD. I wish things were halfway as easy as neurotypical people think. All people see when they look at me is a lazy failure. Most days that's all I believe about myself. I think when people say they want to help and support people who struggle with mental illness and disorders, what they really want is for us to shut up and quietly suffer so they don't have to think about it or see it anymore. I talked to a counselor at my university the other day. She didn't pay attention to a single thing I said and only wanted to verify that I wouldn't kill myself. As long as I don't stain the university's reputation it doesn't matter if my quality of life is shit and I end up killing myself after leaving college.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post reflects a sense of burdensomeness, as the poster feels that others see them as a 'lazy failure' and they believe that people want them to 'shut up and quietly suffer'. They express feelings of worthlessness and contemplating suicide after leaving college, suggesting a perceived burden on others.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm getting really bad grades in a class I used to be really good at. And in another class I'm being really disorganized losing sheets and not getting homework done on time. Truth is, Im exhausted from the moment I wake up so I'll just sleep when i get home, or I'll need to distract myself with a low effort activity rather than concentrate on homework to calm myself down from wanting to hurt myself. But I'm just lazy right? It's so frustrating being seen as careless when I'm just trying to survive. But my teachers expect me to get over myself because everyone goes through hard times. I'm already seeing a school counsellor who's not helping in any way and it's in secret because my parents wont let me see a proper therapist. Yesterday when I got 2 essays back I got E on both of them and I just wanted to tear my hair out because I'm trying so hard to balance everything out but it's not good enough. Seriously, all I can think about is killing myself and it's good enough that I actually come into school when I dont want anyone to see me because I feel too ugly, and I try to socialise with people and not zone out in class for like 8 hours. I just want everyone to know I have depression and help me out in any way but no. They dont give a shit. So I'll just fail and theyll never know why.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a desire for connection and support from others, but the poster feels like they are not being heard or understood. This feeling of being ignored or neglected can contribute to a sense of thwarted belongingness, which is a risk factor for mental health issues.
+

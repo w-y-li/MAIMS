@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I feel sad for myself when I see a couple walking holding hands or kissing.. I don't want to feel that way.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not indicate any thoughts or feelings about whether the people in the poster's life would be better off if they were gone."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not indicate any thoughts or feelings about whether the people in the poster's life would be happier without them."])
+('3', ['indirectly_mention', 'Not at all true for me###The post mentions feeling sad when seeing couples holding hands or kissing, which implies a desire for a romantic relationship. This suggests that the person may not feel like a burden on society.'])
+('4', ['indirectly_mention', 'Not at all true for me###The post expresses a desire to change the feeling of sadness when seeing couples together, indicating that the person does not believe their death would be a relief to others in their life.'])
+('5', ['indirectly_mention', "Not at all true for me###The post expresses feeling sad when seeing couples being affectionate. However, it doesn't directly mention whether people in the poster's life wish they could be rid of them or if they make things worse for them. Based on the post alone, I can deduce that the feeling of sadness is directed towards oneself rather than a belief that others want to get rid of the poster or that the poster makes things worse for others."])
+('6', ['not_mention', "Doesn't mention at all.###The post focuses on the poster's feeling sad when seeing couples being affectionate. It doesn't provide any information or hint regarding the belief that the people in the poster's life wish they could be rid of them or if the poster makes things worse for others. Therefore, the post doesn't mention these questions at all."])
+('7', ['directly_mention', 'Not at all true for me###The post explicitly mentions feeling sad when seeing couples, which suggests that other people may not care about the poster.'])
+('8', ['indirectly_mention', 'Not at all true for me###The post expresses the desire to not feel sad when seeing couples, which implies a lack of feeling like belonging to a romantic relationship. This suggests that the poster may not currently feel like they belong.'])
+('9', ['indirectly_mention', "Somewhat true for me###The post implies that the person feels sad and doesn't want to feel that way when they see couples showing affection. This suggests a lack of interaction with people who care about them, but it's not explicitly stated. However, it's possible to infer that the person may not have many individuals in their life who offer emotional support."])
+('10', ['indirectly_mention', 'Not at all true for me###The post suggests that the person feels sad and desires not to experience those emotions when witnessing romantic displays of affection. This indirectly implies that they may not feel fortunate to have many caring and supportive friends.'])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling sad when seeing couples, which suggests a potential disconnection from other people. However, the intensity of this feeling is not specified, so I cannot confidently say it is very true for me.'])
+('12', ['indirectly_mention', 'Somewhat true for me###The post implies feeling like an outsider when in social gatherings because the poster expresses sadness when witnessing affectionate interactions between couples. However, the frequency or intensity of feeling like an outsider is not specified, so I cannot confidently say it is very true for me.'])
+('13', ['directly_mention', 'Not at all true for me###I feel sad for myself when I see a couple walking holding hands or kissing, which suggests that I do not feel that there are people I can turn to in times of need.'])
+('14', ['directly_mention', 'Not at all true for me###The post mentions feeling sad when seeing couples, indicating that I am not close to other people.'])
+('15', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling sad when seeing couples holding hands or kissing, which indicates a desire for romantic connection. This suggests that the poster may not have a satisfying interaction every day, but may have some interactions that are somewhat satisfying.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to question ID 3, 7, 8, 9, 12, 13, and 14 suggest feelings of being a burden, lack of care and belonging, disconnection, and lack of close relationships. These factors indicate a risk of perceived burdensomeness.
+

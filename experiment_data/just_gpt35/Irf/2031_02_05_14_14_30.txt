@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Everything has just gone pear shaped. I had a great year on the whole, things really started to look up until they came crashing down. My mental state has been in decline for a few months and it's finally culminating in the destruction of everything good in my life. 2018 is shaping up to be utter dog shite. I can't even tell the story, it is so complicated and spans over 3 years. It's all becoming too much and I really just want out. I don't even want to end it all, I just want to start again. I'm about to lose my girlfriend and that feels like the final straw. I walked out to the bridge last night, I really wanted to do it but on the way I talked myself out of it. It felt like as I walked there I left the reality that was torturing me and then as I approached my house on the way back, all the anxiety and fear and pain started to kick back in. I just got back in and cried for hours. My just-about-still girlfriend spoke to me and managed to level me. Today I'm back to square one where I think she's going to leave me, I can tell she wants and she should after that way I've treated her recently. I took my problems out on her and treated her terribly. I'm getting my just deserts. When she leaves me, I'll fail my exams, drop out and who knows. I don't know how I'm going to cope. My life was once so good.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden to others, especially towards the end where the poster mentions taking their problems out on their girlfriend and treating her terribly. This suggests a perception of being burdensome in relationships.
+

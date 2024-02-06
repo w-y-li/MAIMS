@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  When my ego dies, will it take me with it? It's a selfish creature. It needs to be the best. It needs to be important. It needs people to agree with it. It throws tantrums. It lashes out when it's made to feel small. It thrives when it elevates itself above others. It thrives when it acts as if I am its personal chariot. It beats me down, demanding more than I could ever give. It piles on while I lie on the floor. It lives in a fantasy world full of delusion and self importance. But I withstand. I persist. It's all I know. It hurts. I suffer at its hands. I'm blinded. I was blinded. Now I see. Its time has passed. Once it goes, I can live without imagined fear. Once it's gone, I can truly live. Tonight I go deeper. Tonight it howls in pain. Only the void listens. Tonight I will cry, but I won't turn. Tonight is the night my ego will die. Putting you out of your misery. Tomorrow I'll awake, but you'll no longer be here. I won't miss you.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of burden and a desire to relieve oneself from the perceived burdensome nature of their ego, as expressed through statements such as 'It beats me down, demanding more than I could ever give' and 'Putting you out of your misery.' These indicate a potential risk of perceived burdensomeness.
+

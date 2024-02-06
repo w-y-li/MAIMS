@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I usually didnt care anymore about how I look but I just had a breakdown because i am just ugly. And it's not one of those situations where I'm just saying, no, I'm genuinely ugly. People have called me ugly. I know what I see in the mirror and in photos. I am the farthest thing from physically (or socially) appealing and now I'm suicidal because I can't hang out with anyone anymore without wanting to die. I feel so embarrassed just by being present anywhere because of how hideous and cringy I am. I hate myself. There's no one I'm more disgusted at than myself. I look like a monster.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of self-disgust, embarrassment, and a belief in being physically unattractive. The poster also mentions suicidal thoughts and not being able to hang out with anyone due to these negative feelings. These aspects suggest a risk of perceived burdensomeness, as the individual feels they are a burden to others due to their perceived ugliness.
+

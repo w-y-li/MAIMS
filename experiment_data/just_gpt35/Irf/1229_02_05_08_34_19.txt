@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I feel like recently especially I have turned into a robot. While I cry myself to sleep occasionally, over time I've learned to deal with the pain to the point of numbness. Nowadays I feel like I don't have a reaction to anything, nothing burdens me or makes me really happy anymore. It's just always the same blank stare for me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster describes feeling numb and lacking reactions to both positive and negative emotions. This suggests a sense of emotional detachment and a potential risk of perceived burdensomeness, as they may feel that their emotions or struggles are burdensome to others.
+

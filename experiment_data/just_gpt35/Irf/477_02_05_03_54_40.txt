@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I finally decided after several attempts on my life that this will be the last one. Theres an overpass for a busy interstate by my house. The height and speed of the cars should be enough to take me out once and for all. I'm so god damn alone and I feel guilty that people care about me. All i have to keep me going is my dog but I dont think she'll stop me this time. I'm a total fuck up who's ruined every positive thing in his life. I'm 17 and have no future no will to live. It's been this way everyday for over three years. My times come and I'm not afraid to say goodbye anymore.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of burden and guilt for having people who care about them. This is reflected in statements such as 'I feel guilty that people care about me' and 'All I have to keep me going is my dog but I don't think she'll stop me this time.' These feelings of burden and guilt contribute to a risk of perceived burdensomeness.
+

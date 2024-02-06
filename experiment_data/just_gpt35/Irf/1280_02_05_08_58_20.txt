@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Wish I could catch a break  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of being overwhelmed and in need of respite, indicating a potential sense of thwarted belongingness. Catching a break can signify a desire for relief from stress and a longing for a sense of connection with others.
+

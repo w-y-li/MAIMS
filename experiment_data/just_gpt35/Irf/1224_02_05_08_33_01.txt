@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Hey people, I'm M17 and I struggle with depression for quit a long time. For a few months I thought everything would get better. But lately my mental health got worse and I'm really thinking about suicide very often (several times a day) . Nothing makes sense anymore and I feel like nobody, but one person, actually cares about me. If she wouldn't encourage me everyday to not do it I already would have done it. My mind is forcing me into dangerous situations or is constantly thinking about it. Please, can anyone help me. I want this to end. I thought about picking up self harm again after I've been clean for nearly a month. Should I really do it?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation and a lack of support from others. The poster mentions that they feel like nobody cares about them, except for one person. This sense of not belonging and not being supported can contribute to feelings of thwarted belongingness, which is a risk factor for suicide.
+

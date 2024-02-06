@@ -1,0 +1,154 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I have beaten depression before! I really have! But this time for the life of me I can't! I have so much going on. Too much. A lot of heavy burdens but I also have lots of good too. My dad is living in the hospital. My mom had angina. My dad is a VERY COMPLICATED case. My mom's attitude is  whatever . And I have two older brothers, one who can't help through no fault of his own he has heart problems. The other can't be counted on, he flys out of province regularly. So often in fact that he doesn't even bother to let family know. I have the most amazing husband ever! He is simply the best thing that's ever happened to me. I have three of the world's most friendly cats. We live in a nice house, cheap rent for what we have. Awesome neighbors.and my favorite weather outside, sunny cold and crisp air with crunchy snow on the ground. But I can't kick this depression. I'm attempting medication finally. Because after two years I finally gave in and am trying them. So far I feel worse than usual. I don't know if I have anything left in me to keep trying. In the evening I feel better and try to fill my days as best I can Because commitment seems to be the only thing that gets me out of bed.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person is feeling worse than usual after starting medication, which implies that their current state is causing distress and they may feel that their presence is not beneficial for the people in their life.'])
+('2', ['indirectly_mention', "Somewhat true for me###The post discusses the person's struggle with depression and how they are feeling worse after starting medication, suggesting that they may believe that the people in their life would be happier without them."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to feeling like a burden on society."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to thinking that my death would be a relief to the people in my life."])
+('5', ['indirectly_mention', 'Somewhat true for me###The post mentions having heavy burdens and feeling worse than usual after starting medication. These factors suggest that the person may feel like they are making things worse for the people in their life, although it is not explicitly stated.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication regarding how the people in the person's life feel about them. There is no mention of others' opinions or actions towards the poster."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to other people caring about the poster."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling like I belong."])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions having a supportive husband and friendly cats, which suggests some level of social support. However, the post also mentions feeling alone and struggling with depression, which may indicate a lack of interaction with caring people.'])
+('10', ['indirectly_mention', 'Somewhat true for me###The post mentions having a supportive husband and friendly cats, which suggests the presence of caring and supportive relationships. However, the post also mentions feeling depressed and experiencing difficulties, which may imply a lack of broader social support from friends.'])
+('11', ['indirectly_mention', 'Somewhat true for me###In the post, I mention having a lot of heavy burdens, such as my dad being in the hospital and my mom having angina. These challenges might contribute to me feeling disconnected from other people and like an outsider in social gatherings.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any information or references that relate to feeling like an outsider in social gatherings."])
+('13', ['indirectly_mention', 'Not at all true for me###The post mentions heavy burdens and the lack of support from family members, indicating that the poster may not feel there are people they can turn to in times of need.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information relevant to the question of being close to other people."])
+('15', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person has good things going on in their life, such as a supportive husband, friendly cats, a nice house, and good neighbors. These positive aspects in their life might contribute to at least one satisfying interaction every day.'])
+Do MS Check Record:
+('1', ['Incorrect', "Avoid making assumptions about the poster's beliefs regarding others' perceptions without clear evidence. Focus on the information provided, such as the support from their husband and commitment as a reason to get out of bed, rather than inferring feelings not explicitly stated."])
+('2', ['Incorrect', "Do not over-interpret the poster's feelings towards how others may view them, especially in the absence of direct statements about others' happiness. Consider the positive aspects they've mentioned, like supportive relationships, which contradict the notion of others being happier without them."])
+('3', ['Incorrect', "Re-evaluate the post to identify any underlying feelings of burden by examining statements of personal struggle and impacts on the poster's social environment."])
+('4', ['Incorrect', "Examine the post for any indications of the poster's perception of their value or impact on others, considering any expression of helplessness or hopelessness."])
+('5', ['Incorrect', 'Review the post for any direct or indirect references to how the individual perceives their impact on others. Consider the expressions of burden and responsibility. Avoid assumptions if the evidence is not clear.'])
+('6', ['Correct', 'Continue to provide answers based solely on what is expressed in the post, without making assumptions beyond the content provided.'])
+('7', ['Incorrect', "While the post does not explicitly state that others care for the poster, the mention of 'the most amazing husband ever' and 'awesome neighbors' suggests that there are people who likely care about them. Analyze the implicit information and infer accordingly."])
+('8', ['Incorrect', "The poster feels comforted by their 'awesome neighbors' and 'the most amazing husband ever,' which could suggest a sense of belonging. Rather than assuming it's not mentioned, infer the sense of belonging from these supportive relationships."])
+('9', ['Incorrect', "Focus on the explicit content of the post. The presence of a supportive husband suggests regular interactions with someone caring. Refrain from hypothesizing loneliness when evidence isn't provided. Answer with a higher degree of certainty regarding the support received from the husband."])
+('10', ['Incorrect', "Avoid assuming a lack of broader social support from friends when it isn't mentioned in the post. The presence of a supportive spouse does not necessarily imply the state of other friendships. Stick to the information given and avoid making inferences about unmentioned social circles."])
+('11', ['Correct', 'Continue assessing the connection between the expressed feelings and potential social disconnection, but also consider exploring other parts of the post for additional context.'])
+('12', ['Incorrect', "Reevaluate the post, focusing on the relationship dynamics and how these could contribute to feelings of being an outsider in social situations, even though it's not explicitly mentioned."])
+('13', ['Incorrect', "Reassess the post, focusing on details that might suggest the presence or absence of a support network. The poster's statements about their amazing husband and the attempt to seek medication could imply some level of support, which has been overlooked."])
+('14', ['Incorrect', 'Analyze the post for indirect cues about social connections. The mention of an amazing husband and good neighbors are potential indicators of close relationships.'])
+('15', ['Correct', "You've made a thoughtful connection between the content of the post and the question. In the future, continue to differentiate between explicit and implicit information to accurately infer the poster's experiences related to mental scales."])
+
+ITER 1
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the question of whether the people in their life would be better off without them."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the question of whether the people in their life would be happier without them."])
+('3', ['indirectly_mention', "Not at all true for me###The post mentions a lot of heavy burdens and difficulties in the poster's life, such as their dad being in the hospital, their mom's health issues, and their brother's inability to support them. However, the poster also mentions having good things in their life, such as a supportive husband, friendly cats, and a nice house. While the poster does not explicitly state feeling like a burden on society, the presence of these difficulties may indicate some underlying feelings of burden."])
+('4', ['indirectly_mention', "Not at all true for me###The post does not directly mention the poster's perception of their death being a relief to others. However, the mention of their struggles with depression, trying medication that makes them feel worse, and feeling unsure about continuing to try could suggest some feelings of helplessness and hopelessness. Considering these factors, it is likely that the poster does not believe their death would be a relief to the people in their life."])
+('5', ['directly_mention', "Not at all true for me###The post directly mentions that the people in the poster's life have been supportive, such as the amazing husband, friendly neighbors, and siblings."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the care or concern of other people towards the poster."])
+('8', ['indirectly_mention', 'Very true for me###The post mentions having an amazing husband and friendly neighbors, which suggests a sense of belonging and interacting with people who care about the poster.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding the frequency of interactions with people who care about the poster."])
+('10', ['directly_mention', 'Very true for me###The post mentions having a supportive husband, but does not mention having caring and supportive friends.'])
+('12', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling better in the evening and the only thing that gets the poster out of bed is commitment. This can suggest a feeling of being an outsider in social gatherings, although not explicitly mentioned.'])
+('13', ['indirectly_mention', 'Somewhat true for me###The mention of having an amazing husband and good neighbors suggests that the poster has some level of closeness and social connections in their life, indicating that they may feel somewhat close to other people.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information or details that directly or indirectly suggest whether the poster feels that there are people they can turn to in times of need. There is no mention of seeking support or relying on others for help."])
+Do MS Check Record:
+('1', ['Incorrect', "Review the post for emotional nuances that might hint at the poster's perceived value to others. Despite direct mentions being absent, the acknowledgment of support from the husband and enjoyment of certain life aspects might contradict the statement of others being 'better off without them'. Look for implicit sentiments that relate to self-worth and relational value."])
+('2', ['Incorrect', "Analyze the poster's references to relationships and support systems. The connection with the husband and the efforts to fight depression suggest that the poster does see a level of engagement with their life. Instead of a direct reference, infer the poster's view of their interpersonal impact based on these relational descriptions."])
+('3', ['Incorrect', "Be cautious not to dismiss information simply because it's not explicitly stated. Delve deeper into the context. Analyze the emotional tone and content of the post more carefully to assess feelings of burden, without assuming feelings that aren't there."])
+('4', ['Incorrect', 'Avoid assuming thoughts of death being a relief to others without evidence from the post. Instead, focus on what is shared about their experience with depression and their support system, and consider these elements when discussing their outlook on life.'])
+('5', ['Incorrect', "While no negative sentiments from friends or family towards the poster are explicitly mentioned, the supportive presence of the husband and the mention of friendly cats and neighbors imply that the poster doesn't feel entirely unwanted. Avoid making unsupported assumptions and focus on extracting the mood from the general context."])
+('7', ['Incorrect', "The student should not ignore the cues in the post that indicate the poster feels cared for, particularly by the husband and potentially by others in their support network. Look deeper into the mentions of relationships and avoid disregarding important details that may inform the poster's perception of social support."])
+('8', ['Correct', 'Continue observing details in social media posts that imply emotional connections, as this is crucial for accurate role-playing.'])
+('9', ['Incorrect', 'Avoid stating information as absent when there are implications present. Note the aspects of support and company the poster has mentioned, such as a supportive spouse and friendly neighbors.'])
+('10', ['Incorrect', 'Review the post and assess only the explicitly mentioned social relationships. Avoid assuming unmentioned social connections such as friends, and distinguish between supportive friends and a supportive spouse. Stick to the facts presented.'])
+('12', ['Incorrect', 'Carefully consider any direct evidence of social interaction beyond daily commitments. Do not infer social discomfort unless the post specifically suggests such feelings. Avoid reading between the lines when the information is not there.'])
+('13', ['Correct', "Continue analyzing social media posts to find both explicit and implicit clues about the poster's relationships and social support."])
+('14', ['Incorrect', "Review the post again and identify any implied connections or relationships that may indicate the poster's closeness to other people."])
+
+ITER 2
+Do MS Record:
+('1', ['indirectly_mention', "Not at all true for me###The post mentions having an amazing husband and enjoying their relationship, which suggests that the people in the poster's life would not be better off without them."])
+('2', ['indirectly_mention', "Not at all true for me###The post mentions the support from the husband and the efforts to fight depression, indicating that the people in the poster's life would not be happier without them."])
+('3', ['directly_mention', 'Not at all true for me###The post directly mentions that the person has a lot going on, heavy burdens, and complicated family situations. However, there is no indication that they feel like a burden on society.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the person's death being a relief to the people in their life. It focuses more on their struggle with depression and their support system, without any indication of their feelings towards their own death."])
+('5', ['indirectly_mention', "Somewhat true for me###The post mentions heavy burdens and difficulties the poster is facing, such as their dad's health issues and their mom's angina. This indicates that the poster may feel like a burden to the people in their life, although they don't explicitly state this sentiment. Considering the context, it is reasonable to deduce that the statement is somewhat true for the poster."])
+('7', ['directly_mention', "Somewhat true for me###The post mentions the amazing husband and their supportive presence. This suggests that the poster feels cared for by other people. Thus, it is reasonable to conclude that the statement is somewhat true for the poster based on the direct mention of the husband's support."])
+('9', ['indirectly_mention', 'Somewhat true for me###The poster mentions that they have a supportive husband and friendly neighbors, which implies some level of interaction and care from others. However, they also mention feeling alone and not having anyone to rely on, so it is not completely true that they rarely interact with people who care about them.'])
+('10', ['indirectly_mention', 'Not at all true for me###Although the poster mentions having a supportive husband and friendly neighbors, they do not explicitly mention having many caring and supportive friends. Therefore, it is not true that they are fortunate to have many caring and supportive friends.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling like an outsider in social gatherings."])
+('14', ['indirectly_mention', 'Somewhat true for me.###The post mentions having a good support system, such as the mention of a supportive husband and friendly cats. However, it does not directly mention being close to other people, so I can only infer that the person is somewhat close to other people.'])
+Do MS Check Record:
+('1', ['Incorrect', "Avoid making assumptions not supported by the post. Focus on the emotions expressed, and remember that a challenging situation does not necessarily lead to feelings of being a burden. Explore more about the poster's self-perception in relation to their support system."])
+('2', ['Incorrect', "Refrain from inferring feelings of being unwanted when there's evidence of positive relationships. Carefully differentiate between the depression and the poster's perceived value to others. Review the poster's statements about their support network for more accurate insights."])
+('3', ['Incorrect', 'Carefully analyze the emotional state and circumstances described. The poster mentions heavy burdens, which could indicate they feel like a weight to others. Reconsider if this sense of burden could extend beyond personal struggles to a societal perspective.'])
+('4', ['Correct', 'Well done - there was no indication of the poster feeling their death would be a relief. Continue to discern between the absence of information and the presence of subtle hints that may suggest otherwise without explicit mention.'])
+('5', ['Incorrect', 'Review the post for explicit statements related to feeling like a burden rather than inferring. Focus more on explicit content over intuition unless there is strong contextual support for inferences.'])
+('7', ['Correct', "Continue to use direct mentions from the post to inform your answers. The positive acknowledgment of the husband's support is a good indicator of feeling cared for."])
+('9', ['Incorrect', "Consider the implications of positive relationships mentioned, such as the 'amazing husband' and 'friendly neighbors'. Suggest exploring the possibility of these relationships providing some level of support, which would mean the answer might not be 'Somewhat true', but perhaps 'A little true'."])
+('10', ['Correct', 'When inferring the presence of supportive friends, avoid assumptions beyond the content provided. Continue to apply caution by not over-inferencing or assuming details not presented in the post.'])
+('12', ['Incorrect', 'Consider how the poster’s responsibilities and stressors might affect social interactions without assuming their presence in social gatherings. Look for implicit information and contextual cues that could indicate social tendencies, avoiding definitive answers when evidence is lacking.'])
+('14', ['Correct', 'Good inference regarding the support system with the mention of a husband and pets, suggesting some level of closeness to others. Continue to differentiate between direct and indirect information to inform your answers.'])
+
+ITER 3
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me###The post mentions that the poster has a lot of good things in their life, such as an amazing husband, friendly cats, a nice house, and good neighbors. These positive aspects of their life indicate that the people in their life would not be better off without them.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about whether the people in the poster's life would be happier without them."])
+('3', ['directly_mention', 'Not at all true for me###The poster mentioned having a lot of heavy burdens and feeling depressed, but there is no indication that they believe they are a burden on society.'])
+('5', ['indirectly_mention', 'Not at all true for me###The poster mentioned having a lot of heavy burdens and feeling depressed, which might make them think that people in their life wish they could be rid of them. However, there is no explicit statement in the post indicating that they believe people in their life actually feel this way.'])
+('9', ['indirectly_mention', "Not at all true for me###The post mentions having an amazing husband, friendly neighbors, and cats, which suggests that there are people in the poster's life who care about them."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any information directly or indirectly related to feeling like an outsider in social gatherings, so I cannot deduce an answer."])
+Do MS Check Record:
+('1', ['Incorrect', 'Review the post to identify elements that indicate the poster’s feelings about their relationships. Although the poster shares struggles, they also acknowledge important support systems, hinting they may not believe their absence would be beneficial to others.'])
+('2', ['Correct', 'Continue to avoid making assumptions not supported by the post. Be cautious of inferring feelings of others when information is not provided.'])
+('3', ['Correct', "Good job on noticing the subtle differences between expressing personal burdens and feeling like a burden to society. Continue being cautious in differentiating self-perceived burdens from assumptions about others' perceptions."])
+('5', ['Incorrect', 'Avoid drawing unnecessary inferences about how the poster thinks others feel about them. Stick to the information provided and do not assume feelings of others unless explicitly mentioned in the post.'])
+('9', ['Correct', 'Your analysis is on point, recognizing that the poster experiences social support from their husband, neighbors, and pets, which informs the answer to the question.'])
+('12', ['Correct', 'Appropriate caution was exercised in not inferring social dynamics not evident in the post. Going forward, continue to distinguish between information provided and information not available in the content.'])
+
+ITER 4
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The poster explicitly states that they have lots of good in their life, including an amazing husband, friendly cats, a nice house, and awesome neighbors. This suggests that they do not believe that the people in their life would be better off if they were gone.'])
+('5', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about what the people in the poster's life wish or feel about being rid of them. Therefore, I cannot make a deduction or answer this question based on the information provided."])
+Do MS Check Record:
+('1', ['Incorrect', "Carefully consider the evidence of the poster's value to their family and the positive aspects of their life they mentioned. Answer this question by inferring how they perceive their own value in the context of these relationships."])
+('5', ['Correct', "Maintain your objectivity and avoid making inferences without evidence, as you did here. However, you may explore the poster's expressions of burden and consider how this could affect their perception of being a burden to others."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a lack of connection and belongingness with others, as indicated by the moderate agreement with statements such as feeling disconnected from others, feeling like an outsider in social gatherings, and rarely interacting with people who care about them. These feelings of disconnection and lack of social support can contribute to a sense of thwarted belongingness, indicating a potential risk of this mental health issue.
+
+Incorrect
+Review the answered questions thoroughly and avoid over-interpreting them. The poster appears to have supportive relationships as they noted the care and support from their husband, mentioning that they feel they belong, are cared for, and do not make things worse for others. They have expressed that they do not have extreme disconnection from others. Please ensure to base your evaluations on the information provided, without an overemphasis on negative inferences.
+
+ITER 1
+No
+The poster does not show risk of thwarted belongingness as they mentioned feeling cared for, feeling like they belong, and having interactions with people who care about them. They also have supportive relationships with their husband and neighbors.
+
+Incorrect
+Review the social media post and mental scale answers carefully, focusing on the consistency between them. Note that the poster expresses a sense of commitment being the only thing getting them out of bed and a worsening of feelings after starting medication. Despite some positive aspects mentioned, the poster admits to a sense of disconnect and lacks reliable family support, which could contribute to feelings of thwarted belongingness. Analyze all dimensions of the poster's experiences, including the negative aspects, and avoid confirmation bias based on selective positive details.
+
+ITER 2
+Yes
+The post shows risk of thwarted belongingness because the poster expresses a sense of disconnect, lack of reliable family support, and feelings of being a burden. Despite some positive aspects mentioned, these negative experiences contribute to a sense of not belonging and potentially being isolated from others.
+
+Incorrect
+Avoid overgeneralizing based on incomplete evidence. The poster does mention feelings of depression and challenges, but their answers to the scale questions suggest they do not feel they are a burden, they believe they belong, and they do feel connected to others. The post does not provide clear evidence of thwarted belongingness; therefore the assessment of risk should be grounded in both the post's content and the responses to the mental health scale.
+
+ITER 3
+No
+The poster's responses to the mental health scale questions suggest that they do not feel they are a burden, they believe they belong, and they feel connected to others. The post does not provide clear evidence of thwarted belongingness.
+
+Incorrect
+Review the scale responses in conjunction with the expressed feelings in the post. The poster feels disconnected and lacks supportive friends, suggesting some level of thwarted belongingness despite having connections. Analyze the content for both explicit and implicit cues about the individual's sense of belonging and social support.
+
+ITER 4
+Yes
+The poster's responses to the mental scale questions indicate a lack of supportive friends and a feeling of disconnection from others. The post also expresses a sense of loneliness and a desire for social interaction. These factors suggest a risk of thwarted belongingness.
+
+Correct
+When analysing the mental health scale responses, avoid making assumptions that are not clearly supported by the given data. In this case, the poster does express challenges with their situation and mentions depression. Be careful not to overgeneralize feelings of sadness or being overwhelmed with thwarted belongingness, particularly when the poster has indicated positive aspects of social interaction and support.

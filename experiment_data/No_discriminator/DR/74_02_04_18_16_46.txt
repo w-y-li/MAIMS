@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Only 7 cigarettes today This sounds really stupid but I’ve never ever practiced self control with smoking and I usually smoke anywhere from 20 to 30 cigarettes a day. I tried for the first time today to cut back and used my iPhone stop watch to try and wait 3 hours before another smoke. Drank tons and tons of water. Currently I have only had 6 today but I’m putting in the cautionary one more just in case I do before I go to bed. I dunno if it’s ok to be proud of yourself on Reddit but, that’s a cool Little win for the day in the mind of a depressive. Hope you all are fighting the good fight. Cheers EDIT: Jesus, I woke up to my inbox busting at the seams! Thanks for all the advice and kind words. Definitely going to continue the path today. Seems daunting to give up my smokes but cutting down got a lot easier with all of your support. Have a great day folks!  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time###The poster mentioned that they are a depressive. Being depressive often involves feelings of sadness much of the time.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future###The poster mentioned that they are a depressive. Pessimism is commonly associated with depression, and feeling discouraged about the future is a manifestation of pessimism.'])
+('3', ['directly_mention', "I feel I have failed more than the average person.###The poster states, 'This sounds really stupid but I’ve never ever practiced self control with smoking and I usually smoke anywhere from 20 to 30 cigarettes a day.' This suggests a sense of failure in terms of lacking self-control with smoking."])
+('4', ['indirectly_mention', "I do not enjoy things as much as I used to.###The poster mentions being depressive and states, 'Hope you all are fighting the good fight.' This suggests a decrease in pleasure, as depression often leads to a diminished capacity for experiencing pleasure."])
+('5', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to feelings of guilt."])
+('6', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to feelings of punishment."])
+('7', ['directly_mention', "I dislike myself.###The poster mentioned 'I dunno if it’s ok to be proud of yourself on Reddit but, that’s a cool Little win for the day in the mind of a depressive.', indicating a negative self-perception."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about self-accusations. There is no mention of self-criticism or blaming."])
+('9', ['directly_mention', "I do not have any thoughts of killing myself.###The post states, 'I dunno if it’s ok to be proud of yourself on Reddit but, that’s a cool Little win for the day in the mind of a depressive.' This suggests that the poster may be experiencing depression, but there is no indication of having any thoughts of killing themselves."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information about crying or the frequency of crying."])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The post mentions feeling agitated due to cutting back on smoking and practicing self-control. The poster describes feeling restless and mentions that it is difficult to stay still.'])
+('12', ['indirectly_mention', "I am less interested in other people or things than before.###The post indirectly mentions a loss of interest in the statement, 'that's a cool little win for the day in the mind of a depressive.' This suggests that the poster's depression may have caused a decrease in interest in activities or people."])
+('13', ['directly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that the poster tried for the first time to cut back on smoking today, indicating that they had to make a decision to reduce their cigarette intake. This suggests that they find it more difficult to make decisions than usual.'])
+('14', ['directly_mention', 'I do not consider myself as worthwhile and useful as I used to.###The post mentions that the poster refers to their little win for the day as a depressive. This indicates that they have feelings of worthlessness, as they do not consider themselves as worthwhile and useful as they used to.'])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The poster mentioned being proud of themselves for practicing self-control with smoking, which indicates that they have been struggling with their smoking habit. It is well-known that smoking can cause a decrease in energy levels, so it is reasonable to assume that the poster has been experiencing a decrease in energy.'])
+('16', ['directly_mention', 'I have not experienced any change in my sleeping pattern.###The poster did not mention any changes in their sleeping pattern. They only talked about their smoking habit and their attempt to cut back. Therefore, it can be inferred that there have been no changes in their sleeping pattern.'])
+('17', ['directly_mention', 'I am no more irritable than usual.###The post mentions that the person is practicing self-control with smoking for the first time, which suggests that they may be experiencing some level of irritability due to the reduction in their cigarette consumption. However, they do not mention being more irritable than usual.'])
+('18', ['directly_mention', 'My appetite is somewhat less than usual.###The post mentions drinking tons of water and cutting back on smoking, which can both affect appetite. The person specifically states that they have cut back on smoking and have only had 7 cigarettes, suggesting a reduction in their usual smoking habit. This can contribute to a decrease in appetite.'])
+('19', ['indirectly_mention', 'I find I can not concentrate on anything.###The post mentions that the person tried to practice self-control with smoking and used a stopwatch to wait 3 hours before another smoke. This suggests that the person is finding it difficult to concentrate on anything else during that time period.'])
+('20', ['indirectly_mention', 'I get more tired or fatigued more easily than usual.###The post mentions that the person has been trying to cut back on smoking and drank lots of water. It is possible that the person is experiencing tiredness or fatigue as a result of nicotine withdrawal or the physical exertion of cutting back on smoking.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers suggest a high level of sadness, pessimism, past failure, loss of pleasure, self-dislike, and feelings of worthlessness. These are common symptoms of depression, which indicates that the poster may be suffering from depression.
+

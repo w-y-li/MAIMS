@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I need help someone help me please  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses a need for help and a plea for someone to assist, indicating a potential lack of social connection or feelings of exclusion. This could suggest a risk of thwarted belongingness, which is the perception of not being valued or accepted by others.
+

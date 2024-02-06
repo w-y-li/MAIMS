@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  isolate my self  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a desire to isolate oneself, which suggests a lack of connection or belonging with others. This can be indicative of thwarted belongingness, a risk factor for certain mental health problems such as depression and suicidal ideation.
+

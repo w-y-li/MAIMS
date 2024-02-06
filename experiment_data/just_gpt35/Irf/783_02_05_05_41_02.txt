@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  We ended up arguing and he told me I was spoilt and I was being manipulative?? I started crying and kept repeating the same things over and over again. I'm so extremely embarrassed and I wish more than anything I hadn't told him. I feel stupid and pathetic because of how much I kept repeating myself...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The repetitive behavior, feeling embarrassed and pathetic, and the mention of being called manipulative suggest a risk of perceived burdensomeness.
+

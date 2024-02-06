@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  i have 34 375 mg tablets and alcohol. i just want to know if it will hurt and how long it will take.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual is contemplating self-harm by consuming a large number of tablets along with alcohol. This indicates a risk of perceived burdensomeness, where the person may perceive themselves as a burden to others and may be considering ending their life as a way to relieve that burden.
+

@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Work was my only way out of the house and I have 0 friends who would talk to me outside of work I can't go pub till next Friday when I get paid I can't go OK much longer I'm gonna relapse soon my music isn't helping  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling lonely and having no friends outside of work. This could contribute to the feeling that people in my life would be better off without me, although it is not explicitly stated.'])
+('2', ['directly_mention', "Very true for me###The post mentions feeling like relapsing soon and that their music isn't helping. This suggests a high level of distress and potentially thinking that people in their life would be happier without them."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like a burden and not having friends outside of work. This suggests a possible belief that the person may be a burden on society.'])
+('4', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like a burden and suggests that the person believes their death would bring relief to others. This implies that the person may think their death would be a relief to the people in their life.'])
+('5', ['indirectly_mention', "Somewhat true for me###Based on the statement '0 friends who would talk to me outside of work' and feeling the need to go to a pub to socialize, it suggests that the person feels lonely and isolated, which could lead to thinking that people in their life wish they could be rid of them."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to this question."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything about whether other people care about the poster or not."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the sense of belonging."])
+('9', ['directly_mention', 'Not at all true for me.###The post mentions that the poster has 0 friends who would talk to them outside of work, indicating a lack of social interaction and a lack of people who care about them.'])
+('10', ['directly_mention', 'Not at all true for me.###The post mentions that the poster has 0 friends who would talk to them outside of work, suggesting a lack of a supportive social network.'])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions that the poster has zero friends who would talk to them outside of work, indicating a disconnection from other people. This suggests that the poster may feel disconnected from others, though the extent is not explicitly stated.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the poster's experiences in social gatherings, so it cannot be determined whether they often feel like an outsider in such settings."])
+('13', ['directly_mention', "Not at all true for me###The post explicitly states that the poster has 0 friends who would talk to them outside of work and they can't go to a pub until next Friday. This suggests a lack of people the poster can turn to in times of need."])
+('14', ['indirectly_mention', "Not at all true for me###The post mentions that the poster's music isn't helping, which implies that they are using music as a coping mechanism. This suggests a lack of closeness to other people, as they are relying on music instead."])
+('15', ['indirectly_mention', "Not at all true for me.###Although the post doesn't directly mention having satisfying interactions, it does mention the lack of friends and social interactions outside of work. This suggests that the person may not have any satisfying interactions in their daily life, leading me to believe that it is not at all true for me."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The responses to the questions of the mental scale indicate that the individual feels like a burden on society, thinks their death would be a relief to the people in their life, and believes that the people in their life wish they could be rid of them. These thoughts suggest a risk of perceived burdensomeness, where the person perceives themselves as a burden to others and feels that they would be better off without them.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  But for me, it wouldn't stop me. My cat is an amazing boy and would probably be better off with someone better than me. He would get adopted in a heartbeat  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of inadequacy and self-doubt, indicating a potential risk of thwarted belongingness. The poster believes that their cat would be better off with someone else, implying that they may feel unworthy of love and connection.
+

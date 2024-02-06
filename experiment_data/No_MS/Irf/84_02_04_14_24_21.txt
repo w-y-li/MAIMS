@@ -1,0 +1,21 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  How do you explain depression to someone who just doesn‚Äôt get it or understand it at all?  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of thwarted belongingness. It is simply a question seeking advice on how to explain depression to someone who does not understand it.
+
+Incorrect
+Be careful not to dismiss the subtle signs of emotional experiences that posters might be conveying. Although the post does not explicitly state feelings of not belonging or being misunderstood, asking about how to explain depression implies that the poster may feel isolated or not comprehended by their peers. Reflect on the underlying emotions that could lead someone to ask for advice on explaining depression and assess the presence of possible signs of thwarted belongingness before concluding.
+
+ITER 1
+Yes
+The post shows risk of thwarted belongingness because the poster is seeking advice on how to explain depression to someone who doesn't understand it, suggesting a potential feeling of isolation or not being comprehended by others.
+
+Correct
+Avoid overgeneralizing based on limited information. The post indicates they are seeking a way to explain depression to someone who does not understand it. Focus on what is explicitly stated rather than implying emotions or states that aren't clearly expressed in the post.

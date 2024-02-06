@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Back to work tomorrow after a week and a half off. I love my job, but I am so uncomfortable around my coworkers. I've been thinking about transferring but that is hard for a lot of reasons. Knowing I have to go to work tomorrow has me really just messed up in the head.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the poster feels uncomfortable around their coworkers and is contemplating transferring, suggesting a possible lack of a sense of belonging at their current workplace, which is a potential risk factor for thwarted belongingness.
+

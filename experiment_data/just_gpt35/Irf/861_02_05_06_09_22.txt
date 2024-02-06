@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  All of us on here are probably feeling alone and lonely and depressed and like everyone else out there is having an awesome time except us, so why don't we have our own  party ? (In a way). Let's get to know each other! What is something really funny to you guys? It can be a joke/a meme/a video/a story of yours/whatever. Let's help each other feel less alone.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the person is feeling alone, lonely, and depressed, and believes that others are having a better time than them. They propose having a party to alleviate these feelings and make themselves feel less alone. This suggests a potential risk of perceived burdensomeness, as they may believe that their presence or participation might burden or bother others, leading to feelings of loneliness and depression.
+

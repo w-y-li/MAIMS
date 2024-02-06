@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Hello all, I have been feeling down for weeks now and I just check Google just now all the depression symptoms. And I match almost all of them but one. I am still enjoy what I like. Like game (dota 2) and I really love watching movies and TV series. I still have those enjoyment I felt before now. How can I know if I am really depressed or not? I can't go to get a professional help cause I'm broke as fuck right now. Your help would be pretty cool. Thanks  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show any direct indication of perceived burdensomeness. Although the poster expresses feeling down and identifies with symptoms of depression, they also highlight still enjoying activities they previously liked. Perceived burdensomeness typically involves feeling like a burden to others, a sense of worthlessness, or a belief that others would be better off without them. None of these specific indicators are evident in the given post.
+

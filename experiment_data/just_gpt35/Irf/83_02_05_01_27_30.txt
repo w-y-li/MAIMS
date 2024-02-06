@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  My mother has been depressed most of her life from what I can tell. She and my father are separated. He's struggling with his own battle. I'm 24 in college and I live about an hour away. I come home nearly every holiday, because when I was living at home during community college she became very dependent on me(to do household chores, and support her emotionally). She's lost her white collar job about a year ago. She make some bad choices, transferred to a position that wasn't right for her, and got let go. Now she's working at a warehouse job that too physical for her(out of shape). I'm worried that her depression is getting worse and worse. I can't quit college to move back and take care of her. Nor, do I think that is the way to really help her. Every time I come home her house becomes dirtier and dirtier. She's missing bills, becoming more reclusive, and I'm worried she depleting her savings/retirement. She isn't taking care of herself and not really trying to fix any of this. She's becoming more disillusioned with her job search for another white collar job. She is going to therapy and taking medication, but I don't really see any improvement (actually the opposite). I don't know what to do. I really want to help her but I don't know how without enabling her dependence on me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the poster's mother has become increasingly dependent on them for emotional support and household chores. The mother's declining mental health, unemployment, and lack of motivation to improve her situation suggest a perceived burdensomeness on the part of the mother.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I'm new to reddit as of today. Recently, my depression has been super bad and I've been hoping for some other support besides the usual  but your life seems to be going well  and  dont be to hard on yourself  that I get from my parents. I dont really have anyone I feel I can connect to, so hopefully I can find someone here that is going through something similar. The few people ive talked to about it tell me that I have no reason to be sad because Im super high in my class rank, get high grades, got into a college with some big scholarships, and have been first chair hornist in my school band (or they say im just stressed out, which i am, but its just adding to my depression and making me feel even worse). Truth is, I have never really fit in or connected with anyone at school, leaving me with many shallow friendships and no one I feel I can trust. Work isnt any better either. Minimum wage for a shitty retail job and the only coworker who i got close to and who could understand me refuses to talk to me now for literally no reason given. Hell, im only 17 and I already feel stuck in an endless cycle of anger and disappointment that im going to be in stuck in for 2017 and the rest of my fucking life. If anyone is going through even a somewhat similar situation please let me know because i feel so alone with this.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of being burdened, as the poster mentions feeling stuck in an endless cycle of anger and disappointment. They also mention not fitting in or connecting with anyone at school, only having shallow friendships, and feeling alone. These feelings of isolation and lack of support can contribute to a sense of burden.
+
+Correct
+While your answer was correct, ensure that you're not over-inferring negative characteristics that aren't directly stated in the post. Focus on the information given, but avoid assuming extra negativity or problems beyond what the poster has communicated. For future tasks, pay attention to distinguishing between posts about the poster and posts about others to accurately assess who the mental health concerns pertain to.

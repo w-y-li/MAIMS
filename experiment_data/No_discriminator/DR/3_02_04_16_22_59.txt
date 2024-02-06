@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I've been having suicidal thoughts more than ever... I feel like I fail at everything, I don't have any motivation to clean or really do anything. I feel like I'm no good at anything and have gotten really lazy. I'm not the best wife and I've made many mistakes. If i asked my husband to do something and he didn't I'd complain to try and get help. If he's not doing anything I wouldn't either. Now that he's moved out I feel like I don't really have any reason to live. I used to smoke weed but had to stop a little under a month ago cause I got arrested (on my anniversary) and am facing felony charges on something that's legal. I've had to hire a lawyer and everything to try to keep my record clean. I've had suicidal thoughts since I was in high school and kind of turned smoking a bowl into my medicine so I would always refuse depression meds. I've heard mixed things about them, and I'm scared on how they would take effect on me. But since the arrest I've been getting progressively worse and worse. My husband was the one who initially got me to quit hurting myself and the thoughts keep haunting me more than ever. One of the biggest reasons I haven't been able to bring myself to doing it again is I care for others more than myself. I couldn't hurt my friends and family like that but I'm mentally going insane...  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time###The poster mentions having suicidal thoughts and feeling like a failure, which are indicative of sadness.'])
+('2', ['directly_mention', "I feel I have nothing to look forward to###The poster mentions feeling like they don't have any reason to live and having a pessimistic outlook on the future."])
+('3', ['directly_mention', "I feel I have failed more than the average person.###The post mentioned 'I feel like I fail at everything', which indicates a sense of failure."])
+('4', ['directly_mention', "I get very little pleasure from the things I used to enjoy.###'I don't have any motivation to clean or really do anything' suggests a lack of pleasure in previously enjoyable activities."])
+('5', ['directly_mention', "I feel guilty all of the time.###In the post, I mentioned that I feel like I fail at everything, don't have any motivation to do anything, and feel like I'm no good at anything. These thoughts and feelings are often accompanied by a sense of guilt, suggesting that I feel guilty all the time."])
+('6', ['indirectly_mention', "I expect to be punished.###Although I did not explicitly mention punishment, I did mention that I got arrested and am facing felony charges. This suggests that I may have a fear or expectation of punishment as a result of my actions, which aligns with the option 'I expect to be punished'."])
+('7', ['directly_mention', "I dislike myself.###In the post, I mention that I feel like I fail at everything, I feel like I'm no good at anything, and I've made many mistakes. These statements indicate that I have a dislike for myself."])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual.###In the post, I mention that I used to smoke weed as a way to cope with my thoughts and I refused depression meds because I've heard mixed things about them. This suggests that I have been using self-criticism and blame as a means of dealing with my emotions, which indicates that I am more self-critical or blaming than usual."])
+('9', ['directly_mention', "I have thoughts of killing myself, but I would not carry them out.###The poster directly mentions having suicidal thoughts more than ever and feeling like there's no reason to live. They also mention being scared to hurt their friends and family, indicating that they have thoughts of killing themselves, but would not carry them out."])
+('10', ['indirectly_mention', "I cry all the time now.###Although the post does not directly mention crying, the poster mentions feeling like they're failing at everything, having no motivation, and feeling lazy. These feelings of hopelessness and low self-esteem could lead to increased crying, indicating that the person may cry all the time now."])
+('11', ['directly_mention', 'I am so restless or agitated that I have to keep moving or doing something.###The post mentions feeling lazy and lacking motivation to do anything, which suggests a restlessness and agitation.'])
+('12', ['directly_mention', 'It is hard to get interested in anything.###The post mentions losing interest in activities and feeling like a failure at everything, indicating a significant loss of interest.'])
+('13', ['directly_mention', "I have greater difficulty in making decisions than I used to.###In the post, I mentioned that I don't have any motivation to clean or do anything. This lack of motivation and feeling of being unable to do anything indicates that I am experiencing greater difficulty in making decisions than I used to."])
+('14', ['directly_mention', "I feel utterly worthless.###In the post, I mentioned that I feel like I fail at everything, that I'm no good at anything, and that I made many mistakes. These feelings of failure, incompetence, and making mistakes are strong indicators that I feel utterly worthless."])
+('15', ['directly_mention', "I do not have enough energy to do anything.###In the post, I mentioned that I feel like I don't have any motivation to clean or really do anything. This indicates that I have a loss of energy and lack the motivation to engage in activities."])
+('16', ['directly_mention', 'I sleep a lot less than usual.###I mentioned that I have been experiencing suicidal thoughts and feeling progressively worse. This indicates that there has been a change in my sleeping pattern, specifically that I sleep a lot less than usual.'])
+('17', ['indirectly_mention', 'I am much more irritable than usual.###The post mentions feeling like a failure, having no motivation, being lazy, and making mistakes. These thoughts and feelings can contribute to increased irritability.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions not having any motivation to clean or do anything, which indicates a decrease in appetite.'])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###In the post, I mentioned that I have difficulty in concentrating, stating that I cannot concentrate on anything.'])
+('20', ['directly_mention', 'I am too tired or fatigued to do most of the things I used to do.###I explicitly mentioned that I am too tired or fatigued to do most of the things I used to do, indicating a high level of fatigue.'])
+('21', ['directly_mention', 'I have almost no interest in sex.###The post mentions feeling lazy, losing motivation, and not having any reason to live. These symptoms are often associated with depression, which can lead to a decrease in interest in sex.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to the questions on the mental scale indicate several symptoms of depression, including feelings of sadness, pessimism, guilt, self-dislike, and worthlessness. They also express loss of pleasure, loss of interest, changes in sleeping pattern, exhaustion, and difficulty concentrating. Additionally, the poster has mentioned having suicidal thoughts. These symptoms and thoughts are commonly associated with depression.
+

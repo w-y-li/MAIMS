@@ -1,0 +1,142 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Tomorrow is my 35th birthday. So tomorrow is my 35th birthday. I really thought I would have a family, have a husband or wife and just be happy having this awesome life. Nope. At 35, I am miserably in debt, unhappy, no family and I'm very far from all of my friends. So, yay I guess.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###In the post, I mentioned that I am unhappy and miserably in debt. This implies that I am experiencing sadness on a regular basis.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###Although the post does not explicitly mention feeling discouraged about the future, I stated that I thought I would have a family and be happy at this point in my life. However, since I am not, it can be inferred that I may feel discouraged about what the future holds.'])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###In the post, I mention that I am miserably in debt, unhappy, and far from my friends. These circumstances can be considered as failures in my life, indicating that I feel I have failed more than the average person.'])
+('4', ['indirectly_mention', "I do not enjoy things as much as I used to.###Although I don't explicitly mention a loss of pleasure in the post, I state that I thought I would have a family, be happy, and have an awesome life. However, I describe my current situation as being unhappy and lacking a family. From this, it can be inferred that I am not experiencing the same level of pleasure as I expected, indicating a potential loss of pleasure."])
+('5', ['indirectly_mention', 'I feel guilty all of the time.###In the post, I mentioned being unhappy and miserably in debt. These negative situations can often lead to feelings of guilt, as I may blame myself for not being able to achieve the family and happiness I hoped for at this age.'])
+('6', ['indirectly_mention', 'I feel I am being punished.###The post mentions being unhappy, in debt, and far from friends, which can all contribute to feelings of punishment. I may feel like these negative circumstances are a result of my own actions or choices, leading to the perception of being punished.'])
+('7', ['directly_mention', 'I am disappointed in myself.###The post mentions that at 35, I am miserably in debt, unhappy, no family and far from all of my friends. This suggests that I am disappointed in myself for not achieving the goals and expectations I had for my life by this age.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any indication or mention of self-accusations or blaming oneself for anything."])
+('9', ['not_mention', "Doesn't mention at all.###"])
+('10', ['indirectly_mention', 'I cry more than I used to.###The post mentions that the poster is unhappy and miserable. The increase in crying can be seen as a symptom of heightened emotional distress and unhappiness.'])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The post mentions being unhappy and in debt, which can contribute to feelings of restlessness and agitation.'])
+('12', ['directly_mention', 'I am less interested in other people or things than before.###The post mentions not having a family, being far from friends, and feeling unhappy, which can all contribute to a decrease in interest in other people or activities.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to indecisiveness. The content mainly focuses on the poster's debt, unhappiness, and distance from friends."])
+('14', ['indirectly_mention', 'I do not consider myself as worthwhile and useful as I used to.###Although the post does not directly mention feelings of worthlessness, the poster expresses unhappiness, debt, and lack of a family, which can indicate a decrease in self-worth compared to their previous expectations and desires.'])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post mentions being unhappy, in debt, and far from friends, which suggests a level of stress and dissatisfaction. These factors can contribute to a decrease in energy levels.'])
+('16', ['indirectly_mention', "I sleep somewhat less than usual.###The post mentions feeling unhappy and being in debt, which can lead to difficulty sleeping. While the post doesn't explicitly state a change in sleeping pattern, it indirectly suggests that the person may be experiencing some sleep disturbances due to their current situation."])
+('17', ['indirectly_mention', 'I am more irritable than usual.###In the post, I mentioned that I am unhappy and miserable. This suggests that I may be feeling more irritable than usual as unhappiness and misery can often lead to increased irritability.'])
+('18', ['directly_mention', 'My appetite is somewhat less than usual.###In the post, I mentioned that I am unhappy and in debt. These negative emotions can often affect appetite and lead to a decrease in appetite. Based on this, I can say that my appetite is somewhat less than usual.'])
+('19', ['directly_mention', "I find I can not concentrate on anything.###The post explicitly mentions that at 35, the poster is 'miserably in debt, unhappy, no family and very far from all of my friends'. These negative life circumstances can lead to difficulty in concentration."])
+('20', ['directly_mention', "I am too tired or fatigued to do a lot of the things I used to do.###The post states that the poster is 'unhappy' and has an 'awesome life' and also mentions being 'miserably in debt' and 'very far from all of my friends'. These negative emotions and stressful situations can cause tiredness or fatigue."])
+('21', ['indirectly_mention', 'I have almost no interest in sex.###The post mentions being unhappy and in debt, which suggests a general lack of satisfaction in life. As such, it is reasonable to assume that the person may have a decreased interest in sex due to their overall emotional state.'])
+Do MS Check Record:
+('1', ['Correct', 'Ensure to maintain a balanced perspective and consider ways the post might also imply positive emotions or coping mechanisms to avoid a biased interpretation towards negativity.'])
+('2', ['Correct', "Good inference on pessimism. It's important to stay mindful of the language in posts for hints on the poster's outlook and avoid overextending beyond what is suggested."])
+('3', ['Correct', 'Ensure to continue analyzing the explicit content of the post carefully, as you did, to avoid omitting valuable information. Use direct statements from the post to support your analysis and maintain this systematic approach for future tasks.'])
+('4', ['Correct', "Good job inferring underlying emotions from the post's context. Remember, though, that while it is important to read between the lines, always be cautious to avoid overgeneralizing based on limited information. Keep up the careful consideration of the poster's expressed sentiments versus assumed emotions."])
+('5', ['Incorrect', 'Avoid assuming emotions that are not explicitly stated. Focus on the given information without adding interpretations about guilt.'])
+('6', ['Incorrect', 'Do not extrapolate feelings of punishment without supportive context. Limit your assumptions to what is directly implied by the post.'])
+('7', ['Incorrect', 'Your interpretation of self-dislike is too general. The poster explicitly states aspects of their life they are unhappy with, suggesting specific disappointments that go beyond a broad sense of self-dislike. Reflect on the specifics given in the post and how these might relate to self-dislike in more concrete terms.'])
+('8', ['Incorrect', 'The post implies a sense of regret and disappointment, which are often linked to self-accusations. The mention of debt and lack of familial ties suggests the poster might blame themselves for these circumstances. Analyze the emotional content of the post for potential implicit self-accusations.'])
+('9', ['Incorrect', 'Do not dismiss potential implications outright; consider emotional tone and context to deduce possible undisclosed feelings or states, such as suicidal thoughts.'])
+('10', ['Incorrect', 'Avoid making assumptions beyond the provided information. The stated unhappiness does not directly imply an increase in frequency of crying; stick to what can be inferred without overreaching.'])
+('11', ['Incorrect', 'Consider the actual words in the post and avoid adding feelings or thoughts that are not explicitly mentioned. The poster talks about being unhappy but does not mention agitation. Focus on identifying direct evidence in the post for each feeling or experience.'])
+('12', ['Correct', "Continue to connect the poster's expressions of situation and feelings to potential changes in interest levels, but ensure there is clear evidence in the text to support the inference."])
+('13', ['Incorrect', 'Focus on cues related to decision-making in the post. Identify emotions or behaviors that could imply indecisiveness rather than assuming its absence.'])
+('14', ['Correct', 'Continue being perceptive to indirect expressions of emotions, like worthlessness, which might be evident through descriptions of life situations and unmet expectations.'])
+('15', ['Correct', 'Make sure to continue substantiating your inferences with information provided in the post, relating the feelings and situations described to potential symptoms without assuming details not presented.'])
+('16', ['Correct', 'Continue to infer carefully from the emotional context without making explicit assumptions. Sleep disturbances can be a reasonable deduction from stress and unhappiness, but always note it as an informed guess rather than a fact.'])
+('17', ['Correct', 'Ensure that your inferences are supported by the emotional state described in the post. While your deduction is reasonable, be cautious not to overgeneralize based on limited information. Look for specific language that might indicate irritability.'])
+('18', ['Incorrect', 'Avoid making direct assertions about symptoms not explicitly mentioned in the post. The mention of unhappiness and financial stress does not necessarily equate to changes in appetite. Focus on extracting information that is clearly stated or strongly implied without making unsupported assumptions.'])
+('19', ['Incorrect', "Be cautious to avoid conclusions not directly supported by the post's content. The post does not mention concentration difficulties; focus on explicit statements or closely related inferences."])
+('20', ['Incorrect', 'Do not add information or interpret beyond what the post provides. The original post does not specifically mention symptoms of tiredness or fatigue. Stick to the facts and implications closely tied to them.'])
+('21', ['Incorrect', 'Do not infer psychological states or interests not evident from the post. Focus on what is explicitly mentioned or can be reasonably deduced from the content. Refrain from making assumptions about aspects like sexual interest without clear indications from the post.'])
+
+ITER 1
+Do MS Record:
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention any feelings of guilt."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to feeling punished."])
+('7', ['indirectly_mention', 'I am disappointed in myself.###The post mentions being unhappy, in debt, and far from friends, which can all contribute to feelings of disappointment in oneself. This suggests a level of self-dislike and dissatisfaction with their current situation.'])
+('8', ['indirectly_mention', 'I criticize myself for all of my faults.###The post mentions being in debt, unhappy, and lacking a family, indicating negative circumstances that the poster might blame themselves for. This suggests a tendency towards self-accusations and self-criticism.'])
+('9', ['indirectly_mention', 'I do not cry any more than usual.###The post mentions being unhappy and in debt, but it does not directly mention crying. However, based on the given information, it can be inferred that the person does not cry any more than usual. There is no indication of a change in crying frequency.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes. The person expresses unhappiness and dissatisfaction with their current situation, but there is no indication of any thoughts or desires for self-harm or suicide."])
+('11', ['indirectly_mention', 'I have greater difficulty in making decisions than I used to.###The post mentions being unhappy and having a disappointing life. These negative emotions can often lead to difficulties in making decisions.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything about agitation or restlessness."])
+('18', ['directly_mention', 'My appetite is much less than before.###The post explicitly states that the poster is unhappy and in debt, which can be strongly associated with a decrease in appetite.'])
+('19', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to concentration difficulties. It focuses on the poster's financial and social situations."])
+('20', ['indirectly_mention', 'I have lost interest in sex completely.###The post mentions being unhappy and not having a family or partner. These factors may contribute to a loss of interest in sex.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not provide any direct or indirect information related to tiredness or fatigue."])
+Do MS Check Record:
+('5', ['Incorrect', 'Review the post for emotional content. The poster expresses several negative emotions that could imply feelings of guilt, particularly about life achievements by the age of 35. Analyze the emotional tone and context to infer possible guilt.'])
+('6', ['Incorrect', "Examine the implicit emotional nuances. While the post does not explicitly mention punishment, feeling 'miserably in debt' and 'unhappy' can be associated with feelings of being punished. Infer subtle emotional states related to the content provided."])
+('7', ['Correct', 'Ensure all inferences of self-dislike are based on explicit or reasonably implicit content within the post. Continue being careful not to assume emotions not clearly indicated by the poster.'])
+('8', ['Incorrect', 'Avoid assuming the poster is critical of themselves unless it’s explicitly stated. Consult the context; self-accusation needs stronger evidence from the language used in the post.'])
+('9', ['Incorrect', 'Carefully review the post for implicit emotional expressions related to the question. Consider the connection between expressing unhappiness and possible changes in crying frequency.'])
+('10', ['Incorrect', 'Do not infer thoughts or feelings not explicitly mentioned in the post. Stick to the information provided and do not make assumptions about suicidal thoughts without evidence.'])
+('11', ['Incorrect', 'Review the original post for emotional cues that may indicate a difficulty in decision-making due to unhappiness or life dissatisfaction, and consider these cues when answering the question on agitation.'])
+('13', ['Incorrect', 'Note that indecisiveness can be related to feelings of unhappiness and being stuck in life. Reflect on the emotional content of the post to infer potential indecisiveness without assuming information not provided.'])
+('18', ['Incorrect', 'Assess the subtleties within the post. Emotional distress can indirectly affect appetite. Explore possibilities without conclusive statements unless the post provides direct evidence.'])
+('19', ['Correct', 'Good restraint from making assumptions where details are absent. Encourage exploration of possible but not explicit impacts of the stated emotional state on concentration, without over-inference.'])
+('20', ['Incorrect', 'Consider the emotional tone when deducing related issues like tiredness. The feeling of unhappiness and isolation mentioned could infer a state of tiredness or fatigue. Analyze the emotional context more critically.'])
+('21', ['Incorrect', 'Do not dismiss potentially related issues. The expression of unhappiness and a lack of a family life at 35 might suggest changes in interest in sex, as this can be affected by emotional well-being. Try to connect emotional states to related behavior changes.'])
+
+ITER 2
+Do MS Record:
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The post mentions feeling unhappy and miserable, which could imply feelings of guilt regarding their current life situation.'])
+('6', ['indirectly_mention', 'I feel I am being punished.###The post mentions being in debt and feeling unhappy, which can be associated with feelings of punishment.'])
+('8', ['directly_mention', 'I criticize myself for all of my faults.###The poster mentions being unhappy and feeling miserably in debt, which suggests a negative self-evaluation. Based on this, it can be inferred that the poster criticizes themselves for their faults.'])
+('9', ['indirectly_mention', "I have thoughts of killing myself, but I would not carry them out.###The post mentions being unhappy, in debt, and distant from friends. These factors contribute to a negative emotional state. While there is no explicit mention of suicidal thoughts, the combination of unhappiness and distress indicates that the poster might have some thoughts related to that. However, the use of the word 'yay' suggests some level of ambivalence and reluctance to act upon those thoughts."])
+('10', ['indirectly_mention', "I cry more than I used to.###In the post, the poster mentions being unhappy and miserable, which indicates a potential increase in emotional distress. While it doesn't directly state crying, it implies a change in emotional state and suggests that the poster cries more often than before."])
+('11', ['indirectly_mention', "I feel more restless or wound up than usual.###The post describes the poster as being unhappy, in debt, and far from friends, which can contribute to increased restlessness or agitation. Though it doesn't explicitly mention feeling agitated, the overall tone suggests a heightened state of unrest and dissatisfaction with life."])
+('13', ['indirectly_mention', "I have no appetite at all###The post mentions being 'unhappy' and having 'this awesome life'. This suggests that the poster is experiencing emotional distress, which can indirectly affect appetite. Therefore, it is possible that the poster has no appetite at all."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the poster's decision-making abilities or difficulties. Therefore, it does not mention anything related to indecisiveness."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to tiredness or fatigue."])
+('21', ['indirectly_mention', "I am less interested in sex than I used to be.###The post mentions being unhappy, in debt, and far from friends, which could potentially affect the poster's interest in sex. The absence of a family life at 35 might also contribute to a decrease in interest."])
+Do MS Check Record:
+('5', ['Incorrect', 'Be cautious about inferring emotions not explicitly stated. Instead of guessing that the poster feels guilty, consider reflecting on information given without assuming additional emotions.'])
+('6', ['Incorrect', 'Avoid assuming feelings of punishment without clear evidence. Focus on interpreting only the emotions that are presented, such as unhappiness, without extending it to the concept of punishment.'])
+('8', ['Correct', 'Continue analyzing the content critically, ensuring to differentiate between the explicit content and the emotional tone. However, be cautious not to overextend beyond what is contained within the post.'])
+('9', ['Incorrect', 'Avoid assuming the presence of suicidal thoughts without explicit evidence in the post. While it is important to be sensitive to emotional distress, do not infer grave mental health concerns that are not clearly presented.'])
+('10', ['Correct', "Ensure you're supporting your assumptions with cues from the language used in the post, which you did well here by connecting the poster's expressed unhappiness to the possibility of crying more often."])
+('11', ['Correct', "While giving your answer, continue to look for subtle emotional clues in posts like the expressed feelings of being 'miserably in debt' and 'far from friends' that can justify inferences of agitation, as done here."])
+('13', ['Incorrect', 'Review the content of the post to find any implicit information related to the scale question. Avoid inferring symptoms that are not suggested by the post. Focus on the emotional state mentioned and how it could potentially affect behaviors like appetite.'])
+('18', ['Correct', "Continue to approach each question by strictly analyzing the information given in the post. Avoid making inferences that are not supported by the post's content. Maintain objectivity when determining if the post mentions certain characteristics or behaviours."])
+('20', ['Incorrect', 'Avoid making assumptions not supported by the text. Focus on what is explicitly stated regarding feelings and conditions, and do not infer additional symptoms or states that are not mentioned.'])
+('21', ['Incorrect', 'Do not over-interpret the text to infer psychological states that are not directly related to the content of the post. A lack of explicit mention of changes in interest in sex should lead to a neutral or non-assuming answer.'])
+
+ITER 3
+Do MS Record:
+('5', ['directly_mention', 'I feel guilty a good part of the time.###The post explicitly states that the poster is unhappy and miserably in debt, which can contribute to feelings of guilt.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information about punishment feelings. It focuses more on unhappiness and lack of fulfillment."])
+('9', ['directly_mention', 'I find it more difficult to make decisions than usual.###The post mentions being unhappy and in debt, which suggests a negative emotional state. This negative emotional state can affect decision-making abilities, making it more difficult for me to make decisions.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to suicidal thoughts or wishes. It mainly focuses on feelings of unhappiness, debt, and loneliness."])
+('20', ['indirectly_mention', 'I have almost no interest in sex.###Although the post does not explicitly mention changes in interest in sex, it does convey a sense of unhappiness and lack of fulfillment in life. These feelings, combined with the mention of being miserably in debt, unhappy, and far from friends, suggest a general loss of interest in various aspects of life, including sex.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention tiredness or fatigue. The focus is primarily on feelings of unhappiness, debt, and lack of fulfillment, without any indication of changes in energy levels or physical exhaustion."])
+Do MS Check Record:
+('5', ['Incorrect', "Re-evaluate the post, consider the context of unhappiness and debt which may lead to feelings of guilt about one's situation, without jumping to conclusions. Analyze the emotions tied to the life circumstances described in the post to answer about guilty feelings."])
+('6', ['Correct', 'Good observation on the lack of information about punishment feelings. However, be mindful not to miss subtle cues in the future that may suggest such feelings indirectly through the expression of their life situation.'])
+('9', ['Incorrect', 'Carefully analyze the emotions conveyed in the post. While the poster expresses unhappiness and a sense of failure, this does not directly infer difficulty in making decisions. Address the specified question without implying information not presented.'])
+('13', ['Incorrect', 'The student has confused the questions. Question 9 pertains to suicidal thoughts, yet the student has answered it as if it were question 13 on indecisiveness. Reverse the provided answers for questions 9 and 13 to align appropriately with the content of the post and the subject of the questions.'])
+('20', ['Incorrect', 'Review the content for implied emotional states that may affect aspects like sexual interest. Avoid equating unhappiness with sexual disinterest without evidence.'])
+('21', ['Correct', 'Continue to differentiate between what is explicitly stated and what is implied, focusing on the information given without making assumptions unrelated to the content.'])
+
+ITER 4
+Do MS Record:
+('5', ['indirectly_mention', 'I do not feel guilty###The post mentions being unhappy and in debt, which can lead to feelings of guilt. However, the post does not explicitly state that the person feels guilty.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes."])
+('13', ['indirectly_mention', "I have greater difficulty in making decisions than I used to.###Although the post doesn't directly mention indecisiveness, the poster expresses their unhappiness and dissatisfaction with their current life situation. This could suggest that they may be experiencing greater difficulty in making decisions compared to before."])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post mentions being unhappy, in debt, and far from friends, which may contribute to increased tiredness or fatigue. The combination of these negative aspects of life could result in the poster feeling too tired or fatigued to engage in most of the activities they used to do.'])
+Do MS Check Record:
+('5', ['Incorrect', "You should consider the emotional context of the post. The mention of being 'unhappy' and 'miserably in debt' can sometimes be associated with guilt, even if not explicitly stated. Analyze the feelings that may be implied by the situation described."])
+('9', ['Correct', 'Your approach to not infer suicidal thoughts or wishes from a post that does not explicitly mention them is appropriate, as it avoids overgeneralization and respects the information given.'])
+('13', ['Incorrect', "Avoid asserting emotions or mental states that aren't explicitly mentioned or clearly implied in the post. Focus on the information provided and analyze it without inferring additional, unsubstantiated feelings or states of mind."])
+('20', ['Correct', 'Your inference about tiredness or fatigue based on the context of unhappiness and life stressors mentioned in the post is reasonable. Keep using contextual clues to inform your answers, but always be cautious of overextension.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the poster's answers to the questions of the mental scale, they express feelings of sadness, pessimism, past failure, loss of pleasure, self-dislike, self-accusations, worthlessness, loss of energy, changes in sleeping pattern, irritability, and tiredness or fatigue. These symptoms align with the criteria for depression, indicating that the poster may be suffering from depression.
+
+Correct
+Continue utilizing evidence from the poster's responses to support your analyses. Ensure not to over-infer beyond the information provided and always ascertain whether the responses you're analyzing correspond directly to the poster's conditions and not to others mentioned in the posts.

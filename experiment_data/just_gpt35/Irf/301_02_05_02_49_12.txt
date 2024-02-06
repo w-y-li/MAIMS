@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  That's it. There's nothing else to it. People just don't want me around I guess.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the poster feels unwanted and believes that people don't want them around, indicating a possible sense of burden or feeling like a burden to others.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I just really don‚Äôt know what to do anymore. My mind keeps trying to kill me while my body is trying to keep me alive. I‚Äôm starting to not feel anything at all, except being empty and depressed. Then, I get more depressed because I feel empty and I feel more empty because I‚Äôm depressed. I‚Äôve asked for help. I‚Äôve asked for so much help. But no one sees it, even the people who are payed to care. I have to keep talking myself off this ledge and I don‚Äôt even know why I do it. I‚Äôve lost everything. My family, my true friends, my baby. Everything that I care about either leaves or dies. And I‚Äôve become such a cold, empty person because of it. I feel like I‚Äôm one untied shoelace away from blowing my stack in front of everyone. Please, someone help.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of being a burden to others, stating that the person has asked for help but no one sees it, even the people who are paid to care. This suggests a risk of perceived burdensomeness.
+

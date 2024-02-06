@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  All I want is a moment of peace and silence. I'm tired of being told to shut up everything I try to voice my opinion on any subject (family decisions that affect me one way or another). I'm tired of being laughed at. I'm tired of being humilliated. I'm tired of being bullied on a daily basis by the people who should make me feel safe. As I write this my mom is laughing in the kitchen because my brother said something that made me cry. Making me cry seems to be their favorite game. Going out makes me anxious and being at home is driving me nuts. If I want to get better I need to get away from these people.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling tired of being told to shut up, being laughed at, being humiliated, and being bullied by family members. These experiences can indicate a lack of belongingness and acceptance within the family, which suggests a potential risk of thwarted belongingness.
+

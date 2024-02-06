@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Am I surrounding myself with people who will positively influence me? Am I going to be fucked over in this relationship like the one before? What's going to happen to me I almost don't really want to find out  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement about being surrounded by people who will positively influence them and the fear of getting hurt in relationships suggests a possible risk of perceived burdensomeness. They express a lack of desire to find out what will happen to them, which could indicate feelings of worthlessness and the belief that they may burden others with their problems.
+

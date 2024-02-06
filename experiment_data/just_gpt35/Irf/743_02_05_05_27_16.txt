@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Hi all. A few months back I found I have anxiety and severe depression, still trying to find the right combo of meds and the right doctor. Anyway, I'm 21 and work with pastries, and just really need some new friends....  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling the need for new friends, which could indicate a sense of loneliness or isolation. This, coupled with their experience of anxiety and severe depression, suggests a potential risk of perceived burdensomeness.
+

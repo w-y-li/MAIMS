@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Suppressive friends How to deal with people who would like to hold you back??? What is the consensus on why sb behaves like this  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster's question suggests that they are seeking advice on how to deal with people who hold them back. While this situation may cause frustration or stress, it does not necessarily indicate depression. The question focuses on interpersonal relationships rather than symptoms of depression.
+

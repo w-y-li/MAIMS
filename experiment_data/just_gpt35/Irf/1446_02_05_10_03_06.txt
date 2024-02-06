@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Another shitty summer, another Christmas...I can't do it. I lost my job. Most friends are gone. Parents don't speak to me. Most recent humiliation was a guy from my past. No one loves me. I wanna go.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation, loneliness, and a lack of social support. The poster mentions losing their job, friends leaving, parents not speaking to them, and feeling unloved. These factors contribute to a heightened risk of thwarted belongingness, which is a perception of not belonging or lacking meaningful connections with others.
+

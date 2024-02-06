@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I sometimes overflood with emotions, i feel more anxious around this time.. its a warning sign to make me aware again of social situations i think. Its just part of who i am. I want to think less negative, and keep structure in my days  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show any indication of perceived burdensomeness. The individual expresses feelings of anxiety and a desire to think less negatively but there is no mention or indication of feeling like a burden to others or expressing thoughts of being a burden.
+

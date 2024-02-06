@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  friend help I’m in community college and I have some friends but they’re all very busy now with either relationships or other friends. I feel very lonely what do I do to make new friends?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster is experiencing feelings of loneliness due to a lack of close friendships, but this does not necessarily indicate depression. Loneliness is a common emotion that can be experienced by individuals who are socially isolated or have difficulty forming new connections. It does not meet the criteria for a diagnosis of depression, which requires persistent feelings of sadness, loss of interest in activities, changes in appetite or sleep patterns, and other associated symptoms.
+

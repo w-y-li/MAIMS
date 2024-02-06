@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  “I wonder how the world would be if they didn’t have me” I heard this lyric and it sticks with me....fuck  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement about wondering how the world would be without them, coupled with expressing frustration and use of profanity, suggests feelings of worthlessness, hopelessness, and possibly depression.
+

@@ -1,0 +1,135 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  My mom caught me with someone, I lied and now she is mad... tl;dr: Mom caught me with someone and also caught me in a big lie. My mom (F54) caught me in a huge lie as well after that, because I was trying to get her out of the house, things have been complicated since I've been lying. Today she arrived sooner than expected and well what i was trying to avoid happened. She is telling me I'm like a 14 year old and doesn't understand why i've done this. That I don't do shit despite me doing house stuff, and working. That  I was your age too  conversation happened. I'm 22 years old and I'm thinking about moving out and doing my own thing, but I feel like I don't need to update people every 10 minutes, is that just me? I don't think I have been lying to her, I just didn't told her I was seeing someone, and to be honest what was she expecting me to say?? To be honest I don't know what to do, can you guys help me dealing with this?? I kinda feel worthless at this point too because of all the things she said to me  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time###The post mentions feeling worthless and the things that were said to me. These statements indicate a level of sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future###The post mentions feeling worthless and the things that were said to me. These statements indicate a level of pessimism about the future.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The poster mentions feeling worthless and the negative things their mom said to them, which indicates a sense of failure.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the poster's loss of pleasure in activities they used to enjoy."])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###In the post, I mentioned that my mom caught me in a huge lie and that I feel worthless because of all the things she said to me. This indicates that I feel guilty for lying and for disappointing my mom.'])
+('6', ['directly_mention', "I feel I am being punished.###The post mentions that my mom is mad at me and telling me that I'm like a 14 year old. This suggests that I feel like I am being punished for my actions."])
+('7', ['directly_mention', 'I dislike myself.###In the post, I mentioned that I feel worthless and mentioned that my mom said things that made me feel this way, which shows that I have a negative view of myself.'])
+('8', ['directly_mention', 'I am more self-critical or blaming than usual.###I mentioned that my mom caught me in a big lie and called me a 14-year-old. This indicates that I am being self-critical and blaming myself for the situation.'])
+('9', ['indirectly_mention', "I cry all the time now.###In the post, I mentioned that my mom is mad at me and said hurtful things to me, which made me feel worthless. Feeling worthless and being hurt by someone's words can often lead to increased crying. Therefore, I believe that I cry all the time now."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes. There is no information that can help me deduce an answer to this question."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything that indicates agitation or restlessness."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything that indicates a loss of interest in other people or activities."])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The poster mentioned that things have been complicated since they started lying and they are unsure about what to do, which suggests indecisiveness.'])
+('14', ['directly_mention', 'I feel utterly worthless.###The poster mentioned feeling worthless due to all the things their mom said to them.'])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post mentions that things have been complicated since lying and the person feels worthless due to the things their mom said. These emotions and conflicts can contribute to a decrease in energy levels.'])
+('16', ['indirectly_mention', "I sleep somewhat less than usual.###The post suggests that the person is experiencing turmoil and stress due to their mom's reaction. This can impact their sleeping patterns, causing them to sleep less than usual."])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post mentions that my mom caught me in a huge lie and is mad at me. This situation would likely cause me to feel more irritable than usual.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions that I feel worthless and that my mom said hurtful things to me. These experiences can often lead to a decrease in appetite.'])
+('19', ['indirectly_mention', "I can not concentrate as well as usual.###The post mentions that things have been complicated since the poster has been lying to their mom. This suggests that the poster's ability to concentrate may have been affected by the stress and guilt associated with lying."])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post expresses feeling worthless and mentions all the things that the mom said to the poster. These negative experiences could potentially contribute to feelings of fatigue and exhaustion.'])
+('21', ['directly_mention', "I have not noticed any recent change in interest in sex.###The post mentions that my mom caught me with someone, but it doesn't provide any information about my interest or lack of interest in sex."])
+Do MS Check Record:
+('1', ['Correct', "Continue to use the indirect indicators of emotions present in the post to understand the poster's feelings. Make sure to justify your inferences with specific statements from the post."])
+('2', ['Correct', "Keep identifying nuanced emotional states based on the text. However, be cautious of overgeneralizing feelings based on limited information, and strive for precision in your language to match the poster's implied sentiments."])
+('3', ['Incorrect', 'Examine the emotional tone of the post more carefully. The poster mentions feeling worthless, which can be linked to a sense of personal failure. Reflect this by acknowledging the implied emotions rather than claiming direct mention when it is not clearly stated.'])
+('4', ['Correct', 'Good job on not inferring beyond the information provided. The post indeed does not explicitly mention loss of pleasure, so maintaining the poster’s perspective without adding assumptions is key here.'])
+('5', ['Correct', 'Good analysis of the emotional state implied by the poster’s words. Continue to pay close attention to the language used to express feelings and make sure to differentiate between direct evidence and assumptions.'])
+('6', ['Incorrect', "Be cautious not to conflate frustration or conflict with a feeling of being punished. Consider other ways the poster might interpret their mother's reaction that don’t necessarily imply punishment. Look for explicit indicators of feeling punished before drawing that conclusion."])
+('7', ['Correct', 'Ensure that you continue to reference specific parts of the post when providing your answers to maintain the accuracy of your role-play.'])
+('8', ['Incorrect', 'Be cautious not to confuse the poster being labeled by others with self-accusation. Focus on whether the poster is expressing guilt or blame towards themselves, not simply recounting criticism from others.'])
+('9', ['Incorrect', "Carefully analyze the text for any signs of emotional distress or language that could hint at suicidal thoughts; don't assume or add information that isn't there."])
+('10', ['Correct', "Revise your assessment process to ensure that deductions about the poster's feelings are directly supported by evidence in the post."])
+('11', ['Incorrect', 'Explore the subtleties in the post that may indicate emotional states related to agitation, such as the stress of lying and the conflict with the mother.'])
+('12', ['Incorrect', "Assess the poster's feelings towards their activities and relationships to ascertain potential disinterest indirectly expressed through their situation and contemplate the emotional impact of feeling 'worthless'."])
+('13', ['Incorrect', 'Re-evaluate the post for explicit expressions of indecisiveness rather than inferring it from the situation. Look closely for phrases that directly indicate difficulty in making decisions.'])
+('14', ['Correct', 'Continue to acknowledge direct mentions from the poster concerning their feelings, such as expressions of worthlessness, while ensuring that these mentions correspond accurately to the questions asked.'])
+('15', ['Incorrect', "Eschew assumptions about the subject's energy levels without explicit evidence in the post. Focus on analyzing the content provided and avoid adding information that is not present."])
+('16', ['Incorrect', 'Avoid inferring details about the subject’s sleeping pattern that are not clearly stated. Consider only the information that is directly related to the topic in the post.'])
+('17', ['Correct', "Ensure you're drawing conclusions based on implicit emotional cues in the post, as you've done here by connecting irritability with the conflict described."])
+('18', ['Correct', 'Good job on connecting emotional distress with potential changes in appetite, but ensure that the connection is always clear and specific to the information given in the post.'])
+('19', ['Incorrect', 'Re-examine the text focusing on explicit statements rather than inferring psychological states that are not directly mentioned or implied.'])
+('20', ['Incorrect', 'Avoid drawing conclusions that are not supported by the post. Assess tiredness by looking for explicit signs of fatigue in the original text.'])
+('21', ['Incorrect', 'Review the post for behavioral implications rather than explicit statements and avoid making assumptions without textual evidence.'])
+
+ITER 1
+Do MS Record:
+('3', ['indirectly_mention', "I feel I have failed more than the average person.###The poster mentions feeling worthless, which can be linked to a sense of personal failure. Although they don't explicitly state feeling like a failure, the negative self-perception and the mother's criticism imply a feeling of inadequacy and failure."])
+('6', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information or indicators that directly relate to punishment feelings. It primarily focuses on the conflict between the poster and their mother, rather than any personal feelings of being punished."])
+('8', ['indirectly_mention', "I do not criticize or blame myself more than usual.###Although the post mentions that the poster's mom accuses them of not doing enough and being like a 14-year-old, there is no direct mention of self-criticism or blaming. However, the poster indicates feeling worthless due to the things their mom said, which suggests a lowered self-esteem. Based on this, I would infer that the poster does not criticize or blame themselves more than usual."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not contain any information that directly or indirectly suggests the presence of suicidal thoughts or wishes. It is important to remember that we should not assume or add information that isn't there in the text."])
+('11', ['indirectly_mention', "I am more restless or agitated than usual.###The poster mentions that things have been complicated since they've been lying, and their mother caught them in a big lie. This suggests that the poster is experiencing increased restlessness or agitation due to the consequences of their deception."])
+('12', ['indirectly_mention', "I am less interested in other people or things than before.###The poster expresses feeling worthless due to things their mother said to them, which may indicate a decrease in interest or enjoyment in their relationships and activities. Additionally, the poster's contemplation of moving out and doing their own thing suggests a potential disinterest in their current living situation."])
+('13', ['indirectly_mention', '###The post mentions feeling worthless, which could be an indication of low energy and loss of motivation. However, no explicit evidence of loss of energy is provided in the post.'])
+('15', ['not_mention', '###The post does not mention anything related to question 13 about indecisiveness. There is no explicit evidence or mention of difficulty in making decisions.'])
+('16', ['indirectly_mention', "I sleep somewhat less than usual.###The post mentions that things have been complicated since the poster has been lying. This suggests that the poster may be experiencing some level of stress or anxiety, which could potentially result in difficulty sleeping. However, since the post does not explicitly state a change in sleeping pattern, we can only infer that the poster is experiencing some decrease in sleep quality, hence 'I sleep somewhat less than usual.' is the most appropriate answer."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not contain any information that would indicate a change in concentration difficulties. There is no explicit mention of the poster having difficulty concentrating or keeping their mind on anything for very long."])
+('20', ['indirectly_mention', "I am too tired or fatigued to do most of the things I used to do.###The post mentions that the person's mom said they don't do anything despite doing house stuff and working. This implies that the person might be feeling exhausted and fatigued from their responsibilities, leading to a decrease in energy for other activities they used to enjoy."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not provide any information or hints related to changes in interest in sex."])
+Do MS Check Record:
+('3', ['Correct', 'Keep considering the underlying emotions that may not be directly stated in posts but can be inferred from context, such as feelings of worthlessness being linked to a sense of failure.'])
+('6', ['Correct', 'Good job recognizing the limits of what can be inferred from the post. Remember to differentiate between specific content like feelings of punishment and general conflict.'])
+('8', ['Correct', 'Ensure to differentiate between self-accusation and feelings of worthlessness, and focus on what is explicitly stated or clearly implied in the post when formulating answers according to the prompt.'])
+('9', ['Correct', 'Continue to avoid making assumptions beyond the content of the post. Remember that a lack of evidence for a claim in a post means the safest approach is to not infer such a claim.'])
+('11', ['Incorrect', 'Avoid implying agitation without clear evidence. Focus on the poster’s words, which do not directly indicate increased restlessness or agitation. Stick to the facts presented.'])
+('12', ['Incorrect', "Do not infer loss of interest solely from feeling worthless, as it doesn't necessarily indicate a broader disinterest in life. Avoid overgeneralization and look for specific indications related to loss of interest."])
+('13', ['Incorrect', 'Review the post for emotional state indicators. Worthlessness can imply indecisiveness due to low self-esteem; consider how this emotion could affect decision-making.'])
+('15', ['Incorrect', "Analyze the poster's actions and emotional state for implicit signs of energy loss, such as feeling overwhelmed or discouraged by the situation."])
+('16', ['Incorrect', 'Ensure to avoid assumptions not explicitly mentioned in the post. Stick to evidence within the content for your analysis, and do not infer issues like changes in sleeping pattern without clear indications.'])
+('19', ['Correct', 'Continue to focus on the explicit content of the post when answering questions. Avoid making assumptions beyond the provided information. Your response appropriately reflected the absence of evidence regarding concentration difficulty.'])
+('20', ['Correct', 'Good job recognizing the indirect mention of potential tiredness, which could be inferred from the context of housework and employment. Keep using context clues to infer underlying feelings when they are not explicitly mentioned.'])
+('21', ['Correct', "Well done identifying that the post does not provide information about changes in sexual interest. Continue being cautious not to make unfounded inferences about the poster's experiences not mentioned in the original post."])
+
+ITER 2
+Do MS Record:
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to restlessness or agitation."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of interest."])
+('13', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to indecisiveness."])
+('15', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to loss of energy."])
+('16', ['indirectly_mention', "I sleep somewhat less than usual.###The post mentions that the person's mother is mad at them and has been saying negative things to them, which could lead to stress or anxiety. This could potentially cause the person to experience some difficulty sleeping and result in sleeping somewhat less than usual."])
+Do MS Check Record:
+('11', ['Incorrect', "Review the post for emotional cues and the context suggesting agitation, such as the poster's situation with their mother and feelings expressed. Avoid dismissing details too quickly."])
+('12', ['Incorrect', "Consider the poster's statement of feeling 'worthless' as a potential indicator of loss of interest or pleasure in activities, instead of assuming the absence of information."])
+('13', ['Incorrect', "Examine the context of the post - while indecisiveness isn't directly mentioned, the poster's behavior and dilemma about moving out could imply indecision. Analyze the nuances of the situation to infer psychological states."])
+('15', ['Incorrect', "Consider emotional undertones in the post, like feeling 'worthless,' which may suggest a loss of energy or motivation. Look for indirect cues in the language used that could point to the answer."])
+('16', ['Incorrect', 'Do not infer psychological states or changes like sleep patterns without direct evidence from the post. Stay objective and only connect the post content directly to the mental scale question when clear information is provided.'])
+
+ITER 3
+Do MS Record:
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The poster mentions feeling agitated and restless because of the situation with their mother. They describe their mom being mad at them, telling them they are like a 14 year old, and feeling worthless because of the things she said. These emotional cues suggest an increase in restlessness.'])
+('12', ['indirectly_mention', "I am less interested in other people or things than before.###The poster expresses feeling worthless and mentions that their mom doesn't understand why they did what they did. These statements, along with the mention of feeling like they don't need to update people every 10 minutes, suggest a potential decrease in interest or pleasure in activities and relationships."])
+('13', ['indirectly_mention', 'I have greater difficulty in making decisions than I used to.###The poster mentions feeling complicated and unsure about what to do, which could suggest indecisiveness in the given situation of wanting to move out and deal with the aftermath of being caught lying.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indications about the poster's energy levels or any decrease in energy, therefore it does not mention loss of energy."])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to changes in sleeping pattern. The post mainly focuses on the conflict with the poster's mother and their thoughts on moving out, without mentioning any sleep-related issues."])
+Do MS Check Record:
+('11', ['Incorrect', 'Do not assume agitation based solely on expressions of frustration. Look for explicit signs of restlessness or anxiety in the text.'])
+('12', ['Incorrect', 'Avoid inferring a loss of interest without clear evidence from the post. Focus on direct statements rather than interpreting emotions as symptoms.'])
+('13', ['Incorrect', "Consider the context in which the poster mentions their situation. They express a desire to move out and a feeling of worthlessness, which could be interpreted as hesitation or second-guessing their choices—key indicators of indecisiveness. Analyze the nuances of the text to better appreciate the poster's decision-making process."])
+('15', ['Correct', 'Good job recognizing the absence of direct information regarding loss of energy. However, remember that feelings of worthlessness could be emotionally draining. In future interpretations, consider looking for indirect signs that could suggest a loss of energy.'])
+('16', ['Correct', 'Ensure to only infer from explicit information present in the post or reasonably deduced from it. Refrain from speculating about details that are not provided.'])
+
+ITER 4
+Do MS Record:
+('11', ['indirectly_mention', 'I am more restless or wound up than usual.###Although the post does not explicitly mention feeling restless or agitated, the poster describes feeling worthless and mentions being called a 14-year-old by their mother. These statements suggest that the poster may be experiencing a heightened emotional state, potentially indicating restlessness or agitation.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any direct information or indications regarding loss of interest in other people or activities. Thus, it does not mention the question specifically."])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that I have been lying, trying to get my mom out of the house, and considering moving out. These actions and thoughts suggest that I am experiencing difficulty in making decisions and may be feeling indecisive about my current situation.'])
+Do MS Check Record:
+('11', ['Incorrect', 'Review the emotional context of the post and consider subtler cues indicating agitation rather than looking for explicit mentions.'])
+('12', ['Correct', 'Maintain your approach of seeking direct evidence before inferring psychological states not clearly indicated in the post.'])
+('13', ['Incorrect', "Avoid over-interpreting the post. Focus only on what the post directly indicates about indecisiveness. The action of lying doesn't necessarily correlate with difficulty in making decisions. Look for explicit expressions of indecisiveness rather than inferring it from actions mentioned."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the answered questions of the mental scale, the poster expresses feelings of sadness, pessimism, past failure, guilty feelings, self-dislike, and worthlessness. These are common symptoms of depression, indicating that the poster may be suffering from depression.
+
+Incorrect
+Be cautious not to diagnose without comprehensive assessment. The evidence from the social media post and answered questions indicates symptoms associated with depression, such as sadness, pessimism, and feelings of worthlessness. However, proper diagnosis requires a structured clinical interview and cannot be made solely on this basis. Avoid over-inference or assuming characteristics not explicitly stated. Focus on objectively reported feelings and behaviors without adding attributions about the individual's character or unstated experiences.
+
+ITER 1
+Yes
+Symptoms associated with depression, such as sadness, pessimism, and feelings of worthlessness are indicated in the post and the answered questions.
+
+Correct
+Ensure that you consistently cross-reference the social media post with the answers from the mental health scale. Avoid over-inferencing by only drawing conclusions based on provided evidence. Focus on specific indicative symptoms mentioned in both the post and the scale responses, like sadness, discouragement about the future, feelings of guilt, self-dislike, irritability, and fatigue. Avoid attributing symptoms or inferring issues that are not explicitly mentioned or supported by the scale responses. Continue to differentiate between the poster's emotions and the emotions or mental states of others mentioned in the post. Remember to always remain objective and rely on the information given.

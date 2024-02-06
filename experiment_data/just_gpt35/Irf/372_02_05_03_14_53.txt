@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I feel like like I'm always running away from something and, at the same time, striving and longing for something else I don't even know what. It is like a videogame where you are always facing the final boss or feel it coming right around the corner, while simultaneously gathering supplies and ammo. But you don't ever die and come back to life for a second chance in real life.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of dissatisfaction, restlessness, and longing for something unknown. This feeling of constantly running away from something and striving for something else can be a sign of thwarted belongingness, which refers to a lack of meaningful connections and a feeling of being disconnected from others.
+

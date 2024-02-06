@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Hi I don't know what the hell is going on. Today I have woken up becouse of my phone clock. I turn first of them off and went to sleep again. I'm always set few clocks to have 100% chance of woke up. After 3 clocks I turn every single one off. I don't wanna get up. I wanna just lie in my bed for all day but after few minutes i get up. I feel extremely stressed and bad. I don't have any tests today and anything that could stress me so what the hell? Why am I feeling this way? When i'm in school nothing bad I think that would happen happened but I still feel bad. Even through ppl talk to me, nothing bad happen I feel worse and worse. Then I have suicide thoughts. Realy big. Actually I may do this, there are so big if they haven't ended after some time. They and bad mood ended when I have nice conversation with friend about makeing cover of Sepultura song. I suddenly stop feel bad and feel happy for few minutes. The thoughts ended but after I came back to my house, when I'm alone I feel bad again. What the hell is happening to me? Someone on /r/suicidewatch write that I may suffer from depression. What are you thinking about this?  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of stress, bad mood, and thoughts of suicide. They mention feeling better after conversations with a friend, suggesting a struggle with a sense of belonging and connection to others. This indicates a potential risk of thwarted belongingness.
+
+Correct
+Ensure that your conclusions about the poster's mental health are based solely on the information provided. Avoid making assumptions beyond the evidence in the post. Continue to look for specific instances in the post that directly relate to the mental health concepts you are being asked about, like you did when identifying the poster's feelings and behaviors associated with thwarted belongingness.

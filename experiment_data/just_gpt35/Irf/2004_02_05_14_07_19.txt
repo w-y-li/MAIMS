@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I got a great internship that will look good on my resume. I had my first day today and I honestly don't know how I will make it through the next four months. It wasn't terrible, but I don't really like the people I have to work wIth and I honestly don't even know if I can do the work. I am such an awkward person. And because of my depression I already feel tired without doing anything. How am I supposed to get through basically working a fulltime job? üò¢  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of not liking the people the poster has to work with and feeling like an awkward person. These feelings suggest a lack of connection and belongingness, which can be indicative of thwarted belongingness.
+

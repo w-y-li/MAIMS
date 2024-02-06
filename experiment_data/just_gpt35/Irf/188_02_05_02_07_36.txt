@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  For a long time I feel like I am just going through the motions. Feel empty, last funeral (late 2016) I went to a very close family friend who treated me like a grandson but I felt nothing. I just felt nothing, like I was waiting for it to end. For last 3-4 years it has been hard for me to feel anything. I haven't been feeling suicidal at all but I wish I could feel. I haven't been happy for awhile, just want to lie in bed all day. I don't even know what to do anymore. I feel like a hamster in a wheel, just moving in place. I have always been the odd one in the family, I try to put on a smile. I smile on the outside but inside is nothing. The family disappointment, the one who everyone sees as the family loser. Its like I try to feel something. I try to make myself angry so I can feel something, anything so I feel alive.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling empty, not being able to feel anything, and wanting to feel alive. These feelings of emptiness and lack of emotional connection with others can be indicative of thwarted belongingness, which is a risk factor for mental health problems such as depression.
+

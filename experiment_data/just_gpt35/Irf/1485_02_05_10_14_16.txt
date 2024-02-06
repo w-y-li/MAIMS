@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  On his deathbed in the hospital, he pointed at me, shaking his head and said,  You're no good.  That was 9 years ago? I've always thought that it was all nonsense, I don't believe in the whole 'dying person's prophecies' as my family calls it. But now that I'm in my early 20s, still plagued with depression, and having a mindset of not wanting to work... I'm starting to worry that I'm starting to turn out as the 'no good' person my grandpa said that I'll become. I know fate is our own to carve, I don't want to get into the whole determinism VS free-will debate but I believe that we should all be responsible for our choices. And right now, although I'm still employed, I have seriously considered quitting several times, and what's my reason? I'm tired of work. Real tired of working. My only consolation is that I'm thrifty and sensible. BUT, my dad spends a lot thanks to his illnesses, cigarettes, lottery and luxurious meals, EVEN THOUGH WE'RE POOR. Sigh... Life is a meaningless trudge, we all die some day, so why can't I die soon? Maybe if I know that I'll die soon, I could quit my job and not worry about saving for retirement! Wishful thinking... If you've read so far, thank you for your time. I hope I get some replies.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, being a burden to others, and contemplating thoughts of death as a way to escape from responsibilities and hardships. These thoughts and emotions suggest a risk of perceived burdensomeness, which is commonly associated with depression and suicidal ideation.
+

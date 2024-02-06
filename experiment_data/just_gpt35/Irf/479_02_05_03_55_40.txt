@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Like I am in so much pain but I can‚Äôt seem to cry I just sit feeling so fucking numb and I just don‚Äôt know how to feel anything. I have many reasons To live but selfishly I do not care. I want to die  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a sense of feeling numb and a lack of emotion. The statement of wanting to die despite having reasons to live suggests a possible risk of perceived burdensomeness.
+

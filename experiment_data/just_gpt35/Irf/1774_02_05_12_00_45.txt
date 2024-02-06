@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm 14 and I've been depressed since my dad died when I was 11 I've never had friends I'm unattractive never even hugged a girl I've been bullied since the 4th grade and to top it off my will probably send me to a military school I don't know what to do  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness, lack of social connection, and isolation. The poster mentions never having friends, being unattractive, never hugging a girl, and experiencing bullying. These factors contribute to a sense of thwarted belongingness, which refers to the perception of not having fulfilling and meaningful social relationships.
+

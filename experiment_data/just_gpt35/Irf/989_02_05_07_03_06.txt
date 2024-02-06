@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  But I don‚Äôt know if I can come back from this. I feel like I have nowhere to turn because I‚Äôve alienated everyone. I‚Äôm sick of being the fuck-up all the time. For everyone else‚Äôs sake i should just do it and not chicken out like last time. I‚Äôm thinking about stealing my roommates bottle of Ativan &amp; taking all of it w/ the liquor I have. It‚Äôs over.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of being a burden to others and includes thoughts of self-harm, which suggests a risk of perceived burdensomeness.
+

@@ -1,0 +1,129 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Finding help Dealing with problems by yourself is hard. I can’t go to my family with my problems, they are in denial. My family is wealthy, I have a good job, I am getting my degree in math and kicking ass at it too. Nobody fucking believes me, thst 20 year olds like me can have problems I just need someone to talk to I guess. Ive been depressed and had bad anxiety before, but not to the point where it is now where I have attacks at work and even tear up sometimes. I feel like I’m going crazy. It’s all because of one girl. Amazing what one beautiful women can do to you. We talk everyday but I can’t help but feel like she thinks I’m a joke. The worst part is, I work with her...  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###The post explicitly states that the poster has been depressed and had bad anxiety before, and now experiences attacks at work and even tears up sometimes. These symptoms indicate a persistent feeling of sadness.'])
+('2', ['indirectly_mention', "I feel discouraged about my future.###The post mentions that the poster feels like they are going crazy, and it's all because of one girl. This suggests a possible sense of pessimism about the future since their current situation is negatively affecting their mental state."])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The post mentions that the person has had past experiences with depression and anxiety, which can often be associated with feelings of failure or inadequacy.'])
+('4', ['directly_mention', 'I do not enjoy things as much as I used to.###The post states that the person is currently experiencing depression and anxiety, which can lead to a decreased ability to find pleasure in activities that used to be enjoyable.'])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The poster mentioned feeling depressed, having bad anxiety, and having attacks at work. These are all indicators of emotional distress, which can often lead to feelings of guilt.'])
+('6', ['indirectly_mention', 'I feel I may be punished.###The poster mentioned feeling like they are going crazy and having attacks at work. These experiences can create a sense of punishment or being reprimanded for something, even if it is not explicitly mentioned in the post.'])
+('7', ['directly_mention', 'I dislike myself.###The post mentions that the person feels like they are going crazy, have anxiety attacks at work, and tear up sometimes. These are signs of self-dislike.'])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual.###The post indicates that the person's problems are because of one girl and that they feel like she thinks they are a joke. This suggests that the person might engage in self-accusations and be more self-critical or blaming than usual."])
+('9', ['directly_mention', 'I cry all the time now.###In the post, I mentioned that I tear up sometimes and have attacks at work. This indicates that I cry more than I used to.'])
+('10', ['indirectly_mention', "I have thoughts of killing myself, but I would not carry them out.###Although I did not explicitly mention any suicidal thoughts or wishes, I stated that I have been depressed and had bad anxiety. Additionally, I mentioned feeling like I'm going crazy. These statements suggest that I have thoughts of killing myself, but I would not carry them out."])
+('11', ['directly_mention', "I am so restless or agitated that I have to keep moving or doing something.###The post mentions that the person has attacks at work and feels like they're going crazy. This suggests that they are experiencing a high level of restlessness and agitation."])
+('12', ['directly_mention', 'It is hard to get interested in anything.###The post mentions that the person has been depressed and feeling anxious, to the point of having tearful episodes at work. This indicates a loss of interest in activities and difficulty in finding enjoyment in anything.'])
+('13', ['directly_mention', 'I find it more difficult to make decisions than usual.###In the post, I mentioned that I have attacks at work and even tear up sometimes, which indicates that I am experiencing increased anxiety. Indecisiveness is commonly associated with anxiety, so I can say that I find it more difficult to make decisions than usual.'])
+('14', ['directly_mention', "I feel more worthless as compared to other people.###In the post, I mentioned that I can't help but feel like the girl I talk to thinks I'm a joke. This feeling of being judged and not being taken seriously can contribute to a sense of worthlessness compared to others."])
+('15', ['directly_mention', 'I have less energy than I used to have.###The post states that the person is experiencing depression and anxiety, which are often associated with a loss of energy.'])
+('16', ['directly_mention', 'I wake up 1-2 hours early and can not get back to sleep.###The post mentions that the person is experiencing anxiety attacks at work and sometimes even tears up. These symptoms indicate that the person may have difficulty sleeping and may wake up early.'])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post states that the poster has been experiencing anxiety attacks and feeling like they are going crazy, which suggests a heightened level of irritability.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions that the poster has been feeling depressed and anxious, and these psychological states can affect appetite, often leading to a decrease in appetite.'])
+('19', ['directly_mention', 'I can not concentrate as well as usual.###In the post, I mentioned that I have had bad anxiety and feel like I’m going crazy. These symptoms are indicative of difficulty concentrating.'])
+('20', ['directly_mention', 'I am too tired or fatigued to do most of the things I used to do.###I mentioned that I have attacks at work and even tear up sometimes. Feeling tired or fatigued to the point where it affects daily activities is consistent with the information provided in the post.'])
+('21', ['directly_mention', 'I have almost no interest in sex.###The poster mentions feeling depressed, having bad anxiety, and experiencing attacks at work and even tearing up. These symptoms are linked to mental health issues which can also cause a decrease in sexual interest.'])
+Do MS Check Record:
+('1', ['Correct', 'Continue to accurately reference specific parts of the post when attributing emotions like sadness. Always ensure the cited emotions are explicitly mentioned or strongly implied by the poster.'])
+('2', ['Incorrect', "Be cautious not to overextend inferences about the poster's emotions. Focus on what is explicitly stated or clearly implied about pessimism, and consider the context of the source of distress when drawing conclusions about future outlook."])
+('3', ['Incorrect', 'Review the post and assess only what is explicitly stated or strongly implied about past failures, without assuming failure beyond what is described. Focus on actual events or feelings clearly related to past failures mentioned in the post.'])
+('4', ['Correct', "Ensure future responses remain grounded in the post's content when inferring loss of pleasure, as your inference aligns with the symptoms of depression and anxiety described."])
+('5', ['Incorrect', 'Be cautious not to interpret expressions of distress as admissions of guilt. Focus on what is explicitly stated; the poster mentions feelings of anxiety and appearing as a joke to someone, but does not express an ongoing feeling of guilt. Assess the content more carefully for direct or indirect evidence of guilt.'])
+('6', ['Incorrect', 'Avoid assuming a feeling of punishment without clear indicators. Examine the post for explicit references to punishment or reprimand. Differentiate between the effects of personal distress and the presence of internalized punishment feelings. Seek concrete evidence in the text before making such inferences.'])
+('7', ['Correct', 'Ensure to maintain objective analysis and avoid assuming emotions that aren’t clearly stated in the post. Look for explicit cues in the text to support your interpretations.'])
+('8', ['Correct', "Good inference based on the post's content. However, be cautious of overgeneralizing feelings based on limited information. Focus on what is explicitly stated to avoid assumptions."])
+('9', ['Incorrect', "Assess the provided information carefully without making assumptions beyond what is presented. Focus on the exact language used; the poster mentions crying but does not equate this to 'all the time.' Use precise wording from the post in your answers."])
+('10', ['Incorrect', "Do not infer suicidal thoughts or wishes if they are not explicitly mentioned or strongly implied in the post. Anxiety and feelings of being overwhelmed do not directly imply suicidal ideation. Reflect closely on the text to ensure answers are based on the poster's actual statements."])
+('11', ['Correct', 'Ensure to continue citing specific information from posts that reflect the psychological states being inquired about, as you did with the connection between restlessness and agitation.'])
+('12', ['Correct', 'Good job identifying symptoms indicative of a loss of interest. Just be cautious not to overextend beyond the information given in the post.'])
+('13', ['Correct', 'Be cautious not to infer too much from mentions of anxiety. Continue using direct information from the post to support your answers.'])
+('14', ['Correct', 'Ensure that feelings of worthlessness are inferred from clear indications in the post, and avoid overgeneralizing based on limited information.'])
+('15', ['Incorrect', 'Re-evaluate the information provided and avoid adding details not mentioned. Focus on the explicit statements about feelings and behaviors relevant to energy levels.'])
+('16', ['Incorrect', 'Analyze the post for any explicit mentions of sleeping patterns before inferring such details. Ensure your inference is closely tied to the information given in the post.'])
+('17', ['Correct', 'Ensure that the inferences made are directly tied to the content of the post. While irritability was not explicitly mentioned, deducing irritability from described emotional distress is reasonable. Continue to look for indirect evidence in the post that may relate to the question.'])
+('18', ['Correct', 'Good job identifying that changes in appetite are often associated with symptoms of depression and anxiety. However, be cautious not to assume specific details not mentioned in the post. Remain attentive to the language of the post and keep justifying your inferences with relevant psychological knowledge.'])
+('19', ['Incorrect', "Review the post carefully to find any mention or implication of concentration difficulties without inferring beyond the information provided. Focus on specific details that suggest concentration issues, such as the mentions of 'going crazy' and 'attacks at work', to support your answer."])
+('20', ['Correct', 'Good deduction. Continuing in this manner, always substantiate your conclusions with specific references to the text, like the mentions of attacks at work and tearing up, which can be indicative of tiredness or fatigue.'])
+('21', ['Incorrect', 'Avoid assuming details not presented in the post. The poster does not mention a change in interest in sex. Focus on the information given and do not extrapolate beyond that.'])
+
+ITER 1
+Do MS Record:
+('2', ['indirectly_mention', "I feel discouraged about my future###The poster mentions feeling depressed and having bad anxiety, which can contribute to feeling discouraged about the future. Additionally, the statement 'I feel like I’m going crazy' indicates a sense of hopelessness and lack of control, which aligns with feeling discouraged about the future."])
+('3', ['directly_mention', "I feel I have failed more than the average person###Based on the statement 'I’ve been depressed and had bad anxiety before, but not to the point where it is now where I have attacks at work and even tear up sometimes,' it suggests that the poster feels that they have experienced more failures than the average person. The mention of depression and anxiety also suggests ongoing difficulties and past struggles, which can be associated with a sense of failure."])
+('5', ['directly_mention', 'I feel guilty a good part of the time###The poster explicitly mentions feeling like a joke to someone, which could imply guilt in relation to their behavior or actions.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not contain any direct or indirect evidence of punishment feelings. The focus is mainly on anxiety, depression, and feeling like a joke."])
+('9', ['indirectly_mention', 'I cry more than I used to.###The poster mentions that they tear up sometimes at work, which indicates that they cry more than they used to before.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes."])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post mentions feeling depressed, having bad anxiety, and having attacks at work. These symptoms are often associated with a decrease in energy levels.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any explicit information about changes in sleeping patterns."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not contain any mention or implication of concentration difficulties."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention any recent change in interest in sex."])
+Do MS Check Record:
+('2', ['Correct', 'Keep using evidence from the post to support your answers, and continue to incorporate psychological concepts when analyzing the emotions and state of mind of the poster.'])
+('3', ['Incorrect', 'Avoid overstating or assuming details that are not present in the post. Stick to the information given and avoid attributing a sense of failure to the poster without clear evidence from the post to support it.'])
+('5', ['Incorrect', 'Consider the context and specific language used in the post. The poster expresses feelings of not being believed and difficulties with emotional issues, but guilt is not directly mentioned. Avoid overinterpreting or inserting emotions not clearly stated.'])
+('6', ['Correct', "Maintain an objective approach when information is not mentioned in the post. It's important to avoid assuming emotions or psychological states that have not been expressed or implied by the individual."])
+('9', ['Incorrect', "While the post mentions crying at work, it doesn't directly relate to frequency. Instead of assuming increased frequency, ask about current emotional experiences compared to the past."])
+('10', ['Incorrect', 'Though the post does not explicitly mention suicidal thoughts, it expresses significant distress. Answer by acknowledging the distress while avoiding assumptions about suicidality.'])
+('15', ['Correct', 'Ensure to maintain this level of analysis - recognizing the implied symptoms like decreased energy linked with mood and anxiety symptoms, but avoid stating feelings not directly expressed or hinted at in the post.'])
+('16', ['Incorrect', "Even though the post does not mention sleep patterns explicitly, avoid absolute statements ('Doesn't mention at all'). Instead, recognize the potential for sleep disturbances given the context of depression and anxiety, and provide a more nuanced answer that leaves room for inferred issues."])
+('19', ['Incorrect', 'Review the content for any indirect indicators related to cognitive impacts that might suggest concentration difficulties, such as descriptions of the problems at work stemming from an emotional cause.'])
+('21', ['Correct', 'Continue to base your answers on explicit information when the question is highly specific and the post does not contain relevant information.'])
+
+ITER 2
+Do MS Record:
+('3', ['directly_mention', "I feel guilty a good part of the time.###The poster states, 'Ive been depressed and had bad anxiety before, but not to the point where it is now where I have attacks at work and even tear up sometimes. I feel like I’m going crazy.' This suggests that the poster experiences feelings of guilt, as they mention feeling anxious and having attacks at work."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not directly mention or provide any clues about the poster's perception of themselves as a failure."])
+('9', ['directly_mention', 'I do not cry any more than usual.###The post mentions tearing up sometimes, but does not indicate an increase in crying.'])
+('10', ['indirectly_mention', 'I have thoughts of killing myself, but I would not carry them out.###The post mentions feeling depressed, having bad anxiety, and feeling like going crazy, which indicates significant distress. However, the post does not directly mention suicidal thoughts or wishes, so I cannot determine the intensity of the thoughts.'])
+('16', ['indirectly_mention', 'I find I can not concentrate on anything.###The post mentions that I have been experiencing depression and anxiety, which can often lead to difficulties with concentration. The poster also mentions having attacks at work and feeling like they are going crazy, which can further suggest problems with concentration.'])
+('19', ['indirectly_mention', 'I sleep somewhat less than usual.###Although the post does not explicitly mention any changes in sleeping patterns, the poster describes feeling depressed, having anxiety attacks, and even tearing up at times. These symptoms are often associated with sleep disturbances, such as difficulty falling or staying asleep.'])
+Do MS Check Record:
+('3', ['Incorrect', 'Reexamine the post to identify references to feelings specific to guilt or shame rather than anxiety or depression.'])
+('5', ['Correct', 'Ensure that deductions about guilt are based on explicit evidence within the post; continue avoiding unfounded inferences.'])
+('9', ['Incorrect', 'Review the original post for explicit expressions of emotion and avoid inferring emotional states not clearly indicated. The post does express distress but not explicitly in terms of increased crying frequency.'])
+('10', ['Incorrect', "Do not extend the poster's descriptions of emotions to assumptions of suicidal thoughts unless they are mentioned. Focus on what is shared directly and avoid assuming unmentioned feelings."])
+('16', ['Incorrect', 'The response to the question about sleeping pattern is mistaken. While you correctly identified that the poster mentioned having depression and anxiety, these do not directly correlate to changes in sleep. Focus on the explicit information provided about sleeping habits, if any, and avoid inferring details not mentioned.'])
+('19', ['Correct', "Your answer to the question about concentration difficulty aligns with the poster's experiences of emotional distress, which can plausibly be connected to concentration issues. However, ensure you cite specific details from the post to solidify the link between the experiences and the symptoms in question."])
+
+ITER 3
+Do MS Record:
+('3', ['directly_mention', "I feel I have failed more than the average person.###The poster states that they have had past failures and currently feel like they are going crazy. Though they don't explicitly mention feeling like a failure as a person, the mention of past failures indicates a feeling of failure beyond the average person."])
+('9', ['indirectly_mention', 'I do not have any thoughts of killing myself.###The poster reveals that they have been depressed and had bad anxiety before, which suggests that they are struggling with mental health. However, there is no mention of having thoughts of killing oneself explicitly, indicating that they do not have suicidal thoughts or wishes.'])
+('10', ['indirectly_mention', 'I sleep a lot less than usual.###The poster mentioned having attacks at work and tearing up sometimes, which suggests increased anxiety levels. Anxiety can lead to sleep disturbances, such as difficulty falling asleep or staying asleep, resulting in a decrease in the amount of sleep.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to crying. There is no mention or description of the frequency of crying in the post."])
+Do MS Check Record:
+('3', ['Incorrect', "Your conclusion may be an overextension of the post's content. The poster talks about their current struggles and feelings of craziness, but does not equate this to a feeling of failure. Focus on the information given without adding your interpretation of their emotional state as indicative of feeling like a failure more than the average person."])
+('9', ['Correct', 'You did well in refraining from inferring suicidal thoughts where none were explicitly or implicitly mentioned. Continue to closely analyze the content of the posts for any mention or hint of the scale in question and respond based solely on that information.'])
+('10', ['Incorrect', 'Review the post for specific emotional expressions and relate them directly to the question. Realize that tearing up signifies crying and connect it clearly to the question on crying.'])
+('16', ['Correct', 'Remember to look for explicit mentions or clear implications about the topic in the post. In this case, continue to differentiate between different behaviors and emotions the poster expresses.'])
+
+ITER 4
+Do MS Record:
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling like a failure."])
+('10', ['indirectly_mention', 'I cry more than I used to.###The post mentions tearing up sometimes, which implies that the person cries more than they used to.'])
+Do MS Check Record:
+('3', ['Incorrect', "Review the post for indications of self-perception particularly regarding achievements and setbacks. Consider the impact of the situation described on the poster's self-view."])
+('10', ['Correct', 'Good analysis of the emotional state described in the post. Continue to link specific emotions and behaviors to relevant questions.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the questions on the mental scale indicate symptoms of depression, such as feeling sad most of the time, feeling discouraged about the future, loss of pleasure in activities, self-dislike, being more self-critical, and having less energy. These symptoms suggest a possible diagnosis of depression.
+
+Incorrect
+To improve accuracy in assessment, avoid overgeneralizing based on limited information. Focus on the specific evidence presented in the post and answered questions without inferring negative characteristics not explicitly indicated. Reflect on the answered questions and assess if the responses meet the diagnostic criteria for depression without assuming unstated details.
+
+ITER 1
+Yes
+The poster's responses to the answered questions of the mental scale indicate symptoms of depression, such as feeling sad much of the time, feeling discouraged about the future, loss of pleasure, self-dislike, self-accusations, crying more than usual, agitation, loss of interest, indecisiveness, feeling more worthless than others, less energy, more irritability, and fatigue.
+
+Correct
+Ensure that when analyzing future posts, maintain objectivity and avoid making assumptions that aren't supported by the provided data. It's important to base your conclusions strictly on the evidence from the individual's self-reported symptoms and statements without inferring additional unwarranted negative characteristics.

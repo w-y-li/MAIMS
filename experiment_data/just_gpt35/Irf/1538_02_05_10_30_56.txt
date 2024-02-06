@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Don‚Äôt usually drink, but do you ever feel so useless and depressed you just want to drink yourself into oblivion?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of uselessness and depression, which can be signs of thwarted belongingness. The desire to drink oneself into oblivion may be an attempt to escape these negative emotions and feel a sense of connection or belonging through alcohol.
+

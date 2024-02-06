@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  My own fucking problems aren't enough anymore. I've gotten so used to my shitty life and the thought of wanting to die that I can't cry anymore when I'm depressed. But crying helps. It comforts me and most of the time I feel better afterwards. So every time I'm in my bed and want to cry, I browse this sub. Some of the stories on here are just so sad that I can't help myself. It's weird. I know. And I kinda feel like thanking you but that would seem out of place since you're just here to find help too. I don't even know why I'm posting this here. I just wanted to tell someone and my friends don't give a fuck.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Somewhat true for me###The post mentions the thought of wanting to die and the feeling of being depressed, indicating that the poster may believe that the people in their life would be somewhat better off without them.'])
+('2', ['directly_mention', 'Somewhat true for me###The post mentions the thought of wanting to die and the feeling of being depressed, indicating that the poster may believe that the people in their life would be somewhat happier without them.'])
+('3', ['indirectly_mention', "Somewhat true for me###The post mentions feeling like a burden to friends who don't care and wanting to tell someone, which suggests a sense of burden on society."])
+('4', ['directly_mention', 'Somewhat true for me###The post directly mentions thinking that their death would be a relief to the people in their life, indicating a belief that others would be better off if they were gone.'])
+('5', ['directly_mention', "Somewhat true for me###In the post, I mentioned that my friends don't give a fuck. This implies that I feel like I am a burden to the people in my life, which aligns with the question."])
+('6', ['directly_mention', "Very true for me###In the post, I state that I've gotten so used to my shitty life and wanting to die. This suggests that I believe I make things worse for the people in my life, indicating that it is very true for me."])
+('7', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster feels like their friends don't care, which implies that they might feel that other people don't care about them. This suggests that their answer to Question 7 is 'Somewhat true for me.' However, the post does not provide explicit information about other people caring about the poster, so it is an indirect mention."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information about whether the poster feels like they belong or not. There is no mention or indication of their sense of belonging, so the post does not mention Question 8."])
+('9', ['directly_mention', "Not at all true for me.###The post mentions 'my friends don't give a fuck' which implies that the poster rarely interacts with people who care about them."])
+('10', ['indirectly_mention', "Somewhat true for me.###The post mentions 'I kinda feel like thanking you but that would seem out of place since you're just here to find help too.' This suggests that the poster doesn't have many caring and supportive friends, although they may have a few."])
+('11', ['indirectly_mention', "Somewhat true for me###The post mentions feeling disconnected from other people, and the fact that the poster feels their friends don't care indicates a sense of disconnection."])
+('12', ['directly_mention', "Very true for me###The post explicitly states feeling like an outsider in social gatherings. The poster mentions that their friends don't care, which can contribute to feeling like an outsider."])
+('13', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster's friends don't care about their problems and that they wanted to tell someone. This suggests that the poster feels a lack of support from their friends and is seeking someone to turn to in times of need, albeit indirectly."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything about being close to other people. It focuses more on the lack of support from friends and the desire for comfort and connection through browsing this sub."])
+('15', ['indirectly_mention', "Not at all true for me###The post mentions that the poster's friends don't give a fuck, which implies that the poster doesn't have satisfying interactions with their friends. Since the post doesn't mention satisfying interactions with anyone else, I can deduce that the poster doesn't have any satisfying interactions."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong feeling of being a burden on others, with statements such as 'I've gotten so used to my shitty life and the thought of wanting to die' and 'my friends don't give a fuck.' These statements suggest a high risk of perceived burdensomeness.
+

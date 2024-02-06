@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  2017 was a shit show. I sat in my room alone last night and watched the ball drop. Today I woke up still depressed. Just a reminder to anyone else struggling that nothing is going to change instantly for you just cause it‚Äôs a new year, take it one day at a time. We‚Äôll be alright.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show any indication of perceived burdensomeness. The poster is expressing their struggle with depression and offering support to others, but there is no mention of feeling like a burden to others.
+

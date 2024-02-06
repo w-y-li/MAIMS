@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  So I got a psychosis and it really sucked, it was the scariest experience in my life by far. I've googled the way people get help with the psychosis etc. But it's basically meds... I hate meds so much. I also haven't slept much yet, I can't sleep cause I keep hearing things which is driving me crazy..  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the individual is experiencing psychosis, which can be a distressing and challenging experience. The statement expressing dislike towards medication and the difficulties with sleep due to hallucinations suggest a potential risk of perceived burdensomeness, where the individual may feel that their mental health issues are overwhelming and burdensome to themselves and others.
+

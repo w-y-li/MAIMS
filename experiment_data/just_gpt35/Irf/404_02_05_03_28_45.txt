@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I'm from a very fucked up country where finding any kind of meds (even antibiotics) is almost impossible. I really need my meds, this depression is getting very bad everyday, it's consuming me, I can't focus on simple things anymore and I need to study and work. I'm being abused everyday at home, it's impossible to afford a personal room and my only chance to get out of here is doing very well in college but it's so hard... I really need to succeed but I can't find any motherfucking medicine. What can I do? Whatever is a good advice, the abuse and thw pressure of succeed are killing me, if quit college things will be worse for me at home. I've heard self-cutting helps to cope the emotional pain, what's your experience with it? I don't care if ot leaves scars, I'll do anything to survive this hell. It's only one year of college, once I finish this year I'll finally be able to gtfo and find proper medicine and psychological help. It's only one year more. I need to survive no matter what I do. Edit: I made it shorter and easier to read.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation and a lack of support or belonging. The poster mentions being abused at home, the difficulty in finding medication, and the pressure to succeed in college. These factors contribute to a sense of thwarted belongingness.
+

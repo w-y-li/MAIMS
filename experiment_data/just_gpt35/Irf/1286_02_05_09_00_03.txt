@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Because maybe I'm called  weak ,  a pussy , or an  attention seeker  when I do. One of the WORST things about having depression is dealing with ignorant assholes and the stigma. The stigma itself is why we refuse to tell anyone. I just want to know when people will wake up and realize that this thing isn't some kind of joke and that it is KILLING people.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a need for social connection and belonging, as the individual expresses concern about being called names and the stigma surrounding depression. This suggests a potential risk of thwarted belongingness, which is a psychological factor associated with increased risk of suicide.
+

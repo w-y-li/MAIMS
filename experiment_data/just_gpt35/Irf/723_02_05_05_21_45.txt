@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I turn 53 in a few weeks. I feel like I have nothing left to look forward to in life. My kids are getting older and don‚Äôt really need me anymore, my body aches all the time and when I look in the mirror I see an aging, tired face. I‚Äôm getting old. I always get a kick out of those posters to this forum who are 18 or 21 and complain that they‚Äôve had enough of life. They haven‚Äôt even gotten started yet. They have everything to look forward to. Their journeys are just beginning. But for those of us on the down side of the hill, who‚Äôve seen too many things, who‚Äôve tasted bitter disappointments, whose hearts have been broken so many times they can‚Äôt be repaired anymore, living every day can just be sad.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being no longer needed, physical discomfort, negative self-perception, and a sense of hopelessness, which are all signs of perceived burdensomeness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I don't feel good. I am in a really bad place in my head. my hands are shaking because I just had a heated argument with my ex  friend . I really want to fucking kill him an the others. I wasted my time with them and they just think they can throw me away like a fucking tissue. I don't know what to do. The others don't look at me or communicate with me , maybe because I remind them of what they did. I really want to fucking batter their skulls in with a heavy rock.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of social exclusion, anger, and a desire for revenge, which are characteristic of thwarted belongingness.
+

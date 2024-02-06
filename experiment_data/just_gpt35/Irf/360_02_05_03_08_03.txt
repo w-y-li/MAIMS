@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I was hoping I wouldn't feel like complete shit because I started Prozac a couple months ago, but here I am!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that despite being on Prozac for the past couple of months, the poster still feels like complete shit. This suggests that the medication may not be effectively addressing their mental health concerns, leading to a potential sense of thwarted belongingness.
+

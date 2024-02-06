@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Hi all, I have been struggling with the idea of being too greedy. I mean: I have people who love me (family, friends, partners, pets), I have a job with an acceptable salary, I have hobbies. Lately I haven't been feeling competent, but I know I am good in my job, and also that I am a good, nice, kind person who cares about others. So, what do I have to complain about? Why am I not satisfied? Why do I want more? Meh.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of thwarted belongingness as the individual mentions having people who love them, a job with an acceptable salary, and hobbies. However, they express feeling unsatisfied and wanting more, which may indicate another underlying mental health issue.
+
+Correct
+Ensure to differentiate between an individual’s feelings of dissatisfaction and thwarted belongingness. Thwarted belongingness implies a lack of connection or a feeling of loneliness, which the poster does not exhibit since they clearly state they have supportive relationships. However, continue to be cautious not to over-infer. Explore other possible mental health concerns that could relate to the feelings of dissatisfaction and the desire for more.

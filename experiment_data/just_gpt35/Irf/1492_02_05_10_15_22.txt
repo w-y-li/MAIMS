@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Anyone else spending the night alone? I'm just gonna fry me up some pork chops, smoke some bud, and play video games. No one to hang out with and I've already been hit by one drunk driver so bars are a no go. O well fuck it! Right?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions spending the night alone and not having anyone to hang out with. This indicates a lack of social connection and potential feelings of loneliness or thwarted belongingness.
+

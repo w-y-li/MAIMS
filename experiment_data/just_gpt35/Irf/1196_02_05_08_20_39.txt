@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  It‚Äôs been a good break so far, as school is the source of most of my triggers for depression and I‚Äôm also in Florida which helps combat seasonal depression, but something‚Äôs off. I just feel unsatisfied. Like, now that I‚Äôm feeling better, I‚Äôm seeing how bad I‚Äôve been living. I see what I want to improve now, but it‚Äôs overwhelming. I‚Äôm so close to having energy to take on these challenges, but right now I still hardly have energy to get out of bed. Any suggestions?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of dissatisfaction and a desire for improvement. The mention of triggers for depression and lack of energy to get out of bed indicate a potential lack of fulfillment or connection with others, which is a key aspect of thwarted belongingness.
+

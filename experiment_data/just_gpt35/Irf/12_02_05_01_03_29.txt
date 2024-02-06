@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I am feeling sick. Anxious. I need some help please  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The feelings of being sick and anxious, coupled with the plea for help, indicate a potential sense of isolation and disconnection from others, which is indicative of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I‚Äôve had friends in the past tell me they think I have depression and that I should seek help, but if anything this makes me irritated and want to get help even less. Why is this? Does this happen to anyone else?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person feels irritated by the suggestion to seek help for depression, which suggests a potential risk of perceiving themselves as a burden to others.
+

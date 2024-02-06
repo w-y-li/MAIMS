@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  She's happier after she broke up with me, I feel like its my fault i lost her it probably was, bipolar disorder OCD and anxiety just get to be to much for me and i either say things i don't mean or make dumb jokes. I honestly feel like i could never love anyone else but i'm just glad she's happy now.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of low self-worth, guilt, and a sense of being responsible for the breakup. These feelings are indicative of thwarted belongingness, as the poster believes that their mental health issues contributed to the loss of their relationship.
+

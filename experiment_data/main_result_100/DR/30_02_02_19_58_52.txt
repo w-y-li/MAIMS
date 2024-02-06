@@ -1,0 +1,136 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Looking for friends. I'm a socially awkward college student that'd like to make some friends. Not necessarily hangin out (would be nice sometimes) but just want people to talk too, so it's all good if you don't live near me. :)  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The post mentions that the poster is socially awkward, which might lead to feelings of sadness. Although the post does not directly state feeling sad, it implies that the person is seeking friendship, which suggests a need for connection and potential underlying sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post indicates that the poster is socially awkward and desires to make friends. This may imply a sense of pessimism about the future, as the person is expressing a need for companionship and social interaction.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not provide any information that relates to past failures."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information that relates to loss of pleasure."])
+('5', ['indirectly_mention', 'I feel quite guilty most of the time.###In the post, I mentioned that I am a socially awkward college student. Socially awkwardness can often lead to feelings of guilt in social situations. Therefore, I can deduce that I feel quite guilty most of the time.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about feeling punished or expecting to be punished. Therefore, I cannot answer this question based on the post alone."])
+('7', ['indirectly_mention', "I feel the same about myself as ever.###The post mentions that I'm a socially awkward college student. Being socially awkward may indicate a lack of confidence or self-dislike. However, the post does not specifically mention how I feel about myself, so I can only assume that I feel the same about myself as ever."])
+('8', ['indirectly_mention', 'I do not criticize or blame myself more than usual.###The post does not directly mention self-accusations. However, as a socially awkward college student looking for friends, I might be more self-critical or blaming than usual due to potential difficulties in social interactions. However, since the post does not specifically address this, I can only assume that I do not criticize or blame myself more than usual.'])
+('9', ['directly_mention', "I do not cry any more than usual.###The post mentions that I just want people to talk to, so it's all good if you don't live near me. Since there is no direct mention of crying, I assume that I do not cry any more than usual."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes. Therefore, I cannot answer this question based on the post."])
+('11', ['indirectly_mention', "I am no more restless or wound up than usual.###Although I didn't specifically mention feeling restless or agitated, I did describe myself as socially awkward. Being socially awkward often leads to feelings of discomfort or unease in social situations, which can manifest as restlessness or agitation. Since I mentioned being socially awkward, it is likely that I am no more restless or wound up than usual."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not contain any information that directly or indirectly suggests a loss of interest. It simply states that I am a socially awkward college student looking for friends to talk to. There is no indication of a lack of interest in people or activities."])
+('13', ['indirectly_mention', "I make decisions about as well as ever.###The post states that I am socially awkward, which implies that I might have difficulty in making decisions. However, it doesn't explicitly mention whether I have more difficulty, less difficulty, or the same difficulty in making decisions as before. Therefore, I can conclude that I make decisions about as well as ever based on the information provided."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about my feelings of worthlessness. Therefore, it doesn't mention the question of worthlessness at all."])
+('15', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to loss of energy, it solely focuses on the desire to make friends."])
+('16', ['indirectly_mention', "I have not experienced any change in my sleeping pattern.###The post doesn't explicitly mention any changes in sleeping pattern. However, since the person is seeking friends to talk to and is not necessarily looking to hang out, it implies that they may have a regular or flexible schedule. Therefore, it can be inferred that their sleeping pattern might not have been affected."])
+('17', ['directly_mention', 'I am no more irritable than usual.###The poster mentions that they are socially awkward, which could suggest some level of anxiety or discomfort in social situations. However, there is no indication of increased irritability specifically.'])
+('18', ['indirectly_mention', 'I have not experienced any change in my appetite.###The poster mentions that they are looking for friends and want people to talk to. This suggests a desire for social connection, but there is no information provided that indicates any changes in appetite.'])
+('19', ['directly_mention', 'I can not concentrate as well as usual.###The post mentions being socially awkward, and the desire to make friends. Social awkwardness can often be associated with difficulty concentrating, as individuals may feel self-conscious or anxious in social situations. Therefore, I believe I cannot concentrate as well as usual.'])
+('20', ['indirectly_mention', 'I am no more tired or fatigued than usual.###Although the post does not specifically mention tiredness or fatigue, it implies a desire for social connection and conversation, rather than physical activities that may cause tiredness. Thus, based on this information, I can deduce that I am no more tired or fatigued than usual.'])
+('21', ['directly_mention', "I have not noticed any recent change in interest in sex.###The post doesn't mention anything about changes in interest in sex."])
+Do MS Check Record:
+('1', ['Incorrect', "Be careful not to assume feelings of sadness based on the information given. While it's possible the poster may experience sadness, they did not mention feeling sad in their post. Instead of assuming, consider the direct information provided and analyze the feelings that can be directly linked to the content of the post."])
+('2', ['Incorrect', 'Avoid making inferences about pessimism without evidence from the post. Although the poster is seeking social connection, this does not necessarily imply they are pessimistic about their future. Consider sticking to the information provided and avoid adding interpretations that cannot be supported by the text.'])
+('3', ['Incorrect', 'Review the post for any subtle hints about past failures like social challenges, and try to infer cautiously without assuming details not presented.'])
+('4', ['Incorrect', 'Consider the context of seeking social interaction and assess whether it implies a change in interest or pleasure levels, without overextending the information provided.'])
+('5', ['Incorrect', 'Refrain from assuming feelings of guilt based solely on the mention of social awkwardness. Focus on the language used in the post and look for explicit indicators of emotions rather than inferring them from a single characteristic.'])
+('6', ['Correct', "Continue to look for direct cues or clear implications in the post. When information isn't present, it's appropriate to acknowledge the absence of it rather than guessing or inferring without evidence."])
+('7', ['Incorrect', "Review the post for explicit emotional content. Do not assign feelings of self-dislike unless the text provides clear indications. Base your role-playing on given information and avoid adding conjecture about self-esteem that isn't evident in the post."])
+('8', ['Incorrect', "Avoid making assumptions about the individual's tendencies to self-criticize without clear evidence in the post. If the poster does not express self-accusations, do not infer it; stick to the content and tone provided."])
+('9', ['Incorrect', 'Review the post objectively without inferring emotions or behaviors not explicitly mentioned. Focus on the content provided to answer the question accurately. Do not assume the presence or absence of crying based on a desire for friendship.'])
+('10', ['Incorrect', 'Carefully analyze the post for any potential indicators of mood or emotional state that could relate to the question. Do not add information that isn’t there, but consider the implications of expressing a desire for social interaction on emotional wellbeing.'])
+('11', ['Incorrect', 'Avoid assuming that social awkwardness directly implies agitation. Focus on what the poster explicitly says about their feelings or behaviors related to the mental scale question. If the post does not provide enough information, it is acceptable to reflect that uncertainty in your answer.'])
+('12', ['Correct', 'Your analysis is appropriate; the post does not explicitly state loss of interest. Continue to differentiate between the content provided and assumptions that are not supported by the text.'])
+('13', ['Incorrect', 'Avoid assuming traits like social awkwardness directly correlate with indecisiveness. Look for explicit information related to decision-making processes in the post.'])
+('14', ['Correct', 'Maintain objectivity and do not infer characteristics not evident in the post, such as feelings of worthlessness, when they are not mentioned.'])
+('15', ['Incorrect', 'Do not dismiss potential content in the post. Analyze sentiments and context to see if they could hint at loss of energy. For instance, social awkwardness may be a sign of social fatigue, which could relate to loss of energy. Look for indirect clues.'])
+('16', ['Incorrect', "Avoid making unsubstantiated inferences about the poster's sleeping pattern based on the information given. Stick to what is directly stated or reasonably implied by the post without adding personal assumptions."])
+('17', ['Correct', 'Continue to analyze posts carefully and avoid making assumptions not supported by the content. Stick to the information provided.'])
+('18', ['Correct', 'Maintain objectivity when evaluating posts and do not infer characteristics or states that are not evidenced in the post.'])
+('19', ['Incorrect', 'Review the post carefully and avoid adding information that is not presented. Focus only on the information provided without making assumptions. The post does not provide any clear indication of concentration difficulties, so do not infer such from the statement about social awkwardness.'])
+('20', ['Correct', 'Continue to analyze the given information without assuming details that are not present. Your deduction regarding tiredness or fatigue not being explicitly mentioned in the context of the question is appropriate, but remain vigilant and avoid drawing inferences that are not supported by the content.'])
+('21', ['Incorrect', 'Review the post carefully to assess what is explicitly stated versus what requires inference. Avoid making assumptions about topics that are not addressed in the post. Stick to information given and acknowledge when the post does not provide insights into specific questions.'])
+
+ITER 1
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling sad or experiencing sadness."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling discouraged or having a negative outlook on the future."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention past failures or any indication of feeling like a failure."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention a loss of pleasure or any indication of not enjoying things as much as before."])
+('5', ['indirectly_mention', 'I feel the same about myself as ever.###The post mentions being socially awkward but does not provide any explicit information about self-dislike or loss of confidence. Therefore, I would say that I still feel the same about myself as ever.'])
+('7', ['not_mention', "Doesn't mention at all.###The post does not provide any explicit information about feelings of guilt, so I cannot deduce an answer to this question."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to self-accusations."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes."])
+('10', ['indirectly_mention', 'I am no more restless or wound up than usual.###The post does not directly mention agitation, but the poster describes themselves as a socially awkward college student looking for friends. Social awkwardness does not necessarily imply agitation or restlessness. Therefore, based on the information provided, I would say that I am no more restless or wound up than usual.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention crying or any related emotions or behaviors. It solely focuses on the poster's desire to make friends and have someone to talk to. Therefore, I cannot derive an answer to this question from the post."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to indecisiveness."])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###While the post does not directly mention loss of energy, the description of being socially awkward may be indicative of social fatigue, which could be related to a decrease in energy levels.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not mention any changes in sleeping pattern."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention any difficulty in concentration."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the individual's interest in sex."])
+Do MS Check Record:
+('1', ['Incorrect', "Carefully analyze the language of the post. The phrase 'socially awkward' may suggest potential for feelings of sadness due to challenges in socialization. Reflect on the psychological implications of the described social struggle and incorporate that in your answer."])
+('2', ['Incorrect', "Consider the broader psychological context of the post. Though it doesn't explicitly mention pessimism, the fact that the poster is seeking friends while acknowledging their social awkwardness might imply a cautious or less optimistic view of their social life. Use nuanced inference rather than a literal approach."])
+('3', ['Incorrect', "Analyze the language and context of the post for hints of past failures, such as expressions of frustration or regret. You should avoid assuming there's no information when the request for friends could imply past difficulties in socializing."])
+('4', ['Incorrect', "Look for subtleties that may suggest a change in the poster's enjoyment of social interactions. A statement expressing a desire for friends, even if indirect, could hint at the loss of pleasure in previously satisfying relationships."])
+('5', ['Correct', 'Well done on not over-inferencing guilt from the post. Keep focusing on the explicit content while considering any subtle cues that are relevant to the scale questions.'])
+('7', ['Correct', 'Good job identifying that the post does not mention self-dislike. Continue to distinguish between what is directly conveyed and what would be an assumption beyond the available information.'])
+('8', ['Correct', "Keep focusing on the explicit content of the post. Remember to distinguish between what is directly mentioned and what might be implied, without assuming information that isn't there."])
+('9', ['Correct', 'Continue to answer based solely on the given information without inferring details that are not presented. This will help you maintain objectivity in your analysis.'])
+('10', ['Incorrect', "Although social awkwardness doesn't directly indicate crying, avoid making assumptions absent of evidence. Focus on the explicit content and context within the post to infer emotional states."])
+('11', ['Correct', 'Good job refraining from inferring agitation without evidence. Continue to focus on the information provided in the post to answer such questions.'])
+('13', ['Incorrect', "Instead of presuming a lack of relevance, explore subtle cues in the post that may provide insights into the poster's indecisiveness. Avoid stating 'doesn't mention at all' and instead consider potential implications or the absence of decisive language in the post."])
+('15', ['Incorrect', "Be cautious of over-interpreting the phrase 'socially awkward' to mean 'loss of energy'. Not all social challenges stem from a lack of energy. It would be prudent to either not infer such characteristics without more substantial evidence or frame the answer with qualifiers that reflect the uncertainty."])
+('16', ['Correct', "Keep in mind that not all aspects of a person's mental state can be inferred from a social media post. Be careful not to insert information not present in the original content."])
+('19', ['Correct', 'Good job avoiding assumptions not supported by the text. Remember to only answer based on the information given and not to over infer.'])
+('21', ['Correct', 'Continue to distinguish between what is explicitly mentioned in the post and what is not. Avoid making assumptions about unmentioned topics.'])
+
+ITER 2
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The post mentions being socially awkward and wanting to make friends. Social awkwardness can be a source of distress and may lead to feelings of sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post suggests a desire for connection and acknowledgment of social struggles. This may imply a cautious or less optimistic view of their social life, which can translate into feeling discouraged about the future.'])
+('3', ['indirectly_mention', "I do not enjoy things as much as I used to###Although the post does not directly mention a loss of pleasure, the statement 'I'm a socially awkward college student that'd like to make some friends' implies a desire for social interaction, suggesting a possible decrease in enjoyment of social activities."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information that suggests the person's perception of themselves as a failure or any mention of past failures. The focus of the post is primarily on seeking companionship and conversation."])
+('10', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The poster describes themselves as socially awkward and expresses a desire to make friends, indicating a potential difficulty in making decisions, such as initiating conversations or reaching out to others.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not provide any information or context related to crying or emotional states. It solely focuses on the poster's desire to make friends and have someone to talk to."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of energy."])
+Do MS Check Record:
+('1', ['Incorrect', 'Avoid assuming that social awkwardness equals sadness. Look for explicit expressions of emotions related to sadness in the post before drawing conclusions.'])
+('2', ['Incorrect', 'Be cautious of inferring pessimism without clear indicators. Desiring connection does not necessarily mean being discouraged about the future. Seek more concrete evidence of pessimism.'])
+('3', ['Incorrect', 'Avoid drawing inferences about emotions or experiences not explicitly stated in the post. Focus on the content provided and base your answers on observable information only.'])
+('4', ['Correct', 'Good job on not inferring beyond what is presented in the post. Continue to differentiate between what is explicitly stated and what is assumed.'])
+('10', ['Incorrect', 'Revisit the post and consider the nuances that might indicate issues with decision-making, such as hesitancy to hang out, which might suggest difficulty in making social choices rather than general indecisiveness. Refrain from drawing conclusions not supportable by the post content.'])
+('13', ['Correct', "Continue to distinguish between the information provided and the questions asked. Ensure that inferences about the poster's emotional state are directly related to text in the post. Good work not inferring beyond the given information."])
+('15', ['Incorrect', "While the post does not explicitly mention loss of energy, you should avoid giving blanket statements that something isn't mentioned at all. Instead, infer from the context. An individual seeking social interaction but acknowledging social awkwardness could imply a level of energy investment in social interactions or a possible reduction in energy due to isolation. Reflect on how social behaviors can be linked to energy levels and provide a reasoned response."])
+
+ITER 3
+Do MS Record:
+('1', ['indirectly_mention', 'I do not feel sad###The post mentions being socially awkward but does not explicitly state feeling sad. However, the use of emoticons such as the smiling face suggests a positive emotional state.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not contain any information related to pessimism or the future. It primarily focuses on the desire to make friends and have conversations."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feelings of failure or past failures. It is focused on the person's desire to make friends and have someone to talk to."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information about crying habits or changes in crying frequency. It is solely about the person's intention to find friends and have conversations."])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post mentions being socially awkward, which can lead to feelings of anxiety and exhaustion when engaging in social interactions. This suggests a possible reduction in energy levels compared to before.'])
+Do MS Check Record:
+('1', ['Incorrect', 'Avoid dismissing potential emotional states. Explore the reasons behind stating social awkwardness and link it with possible feelings of loneliness or isolation, which could be associated with sadness.'])
+('2', ['Correct', 'Continue to analyze the post carefully and do not infer emotional states or traits that are not suggested by the text. Keep focusing on the information provided.'])
+('3', ['Correct', 'Continue to rely on explicit information within the post and avoid making assumptions about unmentioned topics.'])
+('10', ['Correct', 'Maintain focus on the content provided in the post and refrain from inferring details that are not present.'])
+('15', ['Incorrect', 'Avoid assuming information not explicitly presented in the post. Focus on evidence provided and refrain from inferring mental states such as energy levels without clear indication.'])
+
+ITER 4
+Do MS Record:
+('1', ['indirectly_mention', "I have less energy than I used to have.###The statement 'I'm a socially awkward college student' suggests that the poster may feel uncomfortable or anxious in social situations. This potential feeling of unease can be associated with lower energy levels, indicating a loss of energy."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not provide any explicit information or indications of sadness. It solely focuses on the desire to make friends and have someone to talk to."])
+Do MS Check Record:
+('1', ['Incorrect', 'Review the post for implicit emotional cues and avoid overinterpreting content not present; consider how statements about social awkwardness might hint at feelings relevant to the question on sadness.'])
+('15', ['Correct', 'Good observation in noting the lack of explicit information on energy levels. Continue to discern between stated facts and possible implications without inferring beyond the content provided.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster does not show any symptoms related to depression based on the answered questions of the mental scale.
+
+Correct
+Continue to base your conclusions on evidence provided and avoid making inferences without supportive data. Be mindful not to overgeneralize or project issues onto individuals when information is not directly indicative of such problems.

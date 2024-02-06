@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  We were all going to the same school. I don't have any friends beside them. I thought they liked me, because we hung out sometimes, but I've recently discovered that they have been partying all together, without me. New Year's Eve was no exception.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of isolation and exclusion from social events, suggesting a potential risk of thwarted belongingness.
+

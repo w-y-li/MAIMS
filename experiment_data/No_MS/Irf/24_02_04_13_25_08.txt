@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  It just blows my mind. Are there really people out there that wake up, don't continue to lay in bed, and just start doing things? I dunno how they do it. I don't get how someone could enjoy whatever their hobbies are, and enjoy them without ever stopping due to how pointless it is, or how pointless all of life is. I can't imagine what it's like to have a family that loves you, or to be an important person to anyone else. Some people can get so much out of life with minimal effort, and all I can really do is lay in bed and cry about how nothing makes me feel good, how I can't enjoy anything, and how incredibly lonely and alien I feel. Classic question: Why me?  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness, alienation, and the perception that others are able to enjoy life and have meaningful connections while the poster feels disconnected and unimportant. These feelings suggest a potential risk of thwarted belongingness.
+
+Correct
+Continue to carefully examine the content for explicit expressions of feelings related to belongingness. Avoid overextending inferences beyond what the post explicitly mentions, and be wary of attributing unrelated negative characteristics to the poster. Keep distinguishing between the poster's feelings and the situation of those they describe. Good job reflecting the poster's expressed feelings in your assessment.

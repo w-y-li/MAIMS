@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I thought my depression had lessened because i was feeling things again, but i have been sober for 2 months now and i think it was probably just the alcohol, because i don‚Äôt feel like i have been becoming a lot more numb lately, not being sad feels good at least but i think a lot of the happiness has gone with it, i feel so bored.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of perceived burdensomeness. The poster primarily describes their experience with depression, feeling numbness, and boredom, without explicitly mentioning any feelings of burden or perceived burdensomeness.
+

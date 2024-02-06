@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I guess not: What's the point of having no friends,girlfriend or social life basicly... I'am only alive because of my family... I dont want to make them sad and to think that they're responsible for they're son death..I don't know man,I hope this year atlest bring some happines to me, but i've really lost my hope about everything...Anyways i wanted to share that with u guys..Have a happy new year and be blessed all &lt;3 Peace.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a lack of social connections, feelings of loneliness, and a reliance on family for emotional support. The poster expresses a hope for happiness and does not want to burden their family with the responsibility for their potential death. These factors indicate a risk of thwarted belongingness, as the individual may feel disconnected and isolated from others.
+

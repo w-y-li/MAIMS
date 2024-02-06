@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  new venusualean friends at rabun county  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not provide enough information to determine if the poster suffers from depression. The content of the post seems to be related to making new friends in a specific location, but it does not indicate any specific symptoms or experiences related to depression.
+

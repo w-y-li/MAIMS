@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  How can I be so fucking stupid that I manage to fuck everything up? I was dating a girl, and then we broke up because I‚Äôm such a problematic fuck that she just pretends I don‚Äôt even exist anymore, and me, a stupid cunt thinks that one day I‚Äôll feel fine and loved again haha! I really don‚Äôt wanna do anything anymore, my parents hate me, all my friends are running away from me and those who aren‚Äôt doing it are lovely and I really appreciate it... but I don‚Äôt wanna have to go to a place where everyone hates me and they don‚Äôt even bother telling that I‚Äôm going to be the next one to suicide in that fucking school... I deserve it don‚Äôt I? I‚Äôm such a possessive narcissist cunt... maybe I should just accept that this thing isn‚Äôt for me... I should kill myself  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of isolation, rejection, and thoughts of suicide, indicating a risk of thwarted belongingness.
+

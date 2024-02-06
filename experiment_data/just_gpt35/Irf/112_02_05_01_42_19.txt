@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I really am having a hard time with life. Nothing in my life seems worth achieving or working for. I'm emotionally filled with self hatred to the point where I just want to end it all. I harm myself fairly often and it does little to quell my disgust in myself. I am barely holding on. I would have done it earlier but I couldn't find any blades.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of connection and belonging, as well as feelings of self-hatred and contemplating self-harm, which are indicative of risk of thwarted belongingness.
+

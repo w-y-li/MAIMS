@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I'm 16 and I have had frequent thoughts about dieing and killing myself. I think of new ways of doing it like cutting and hanging and stuff and have cut my self a lot. I have had a rough childhood and recently something awful happened to me. I am lucky because I have supportive friends and family but I still feel empty and lonely. I might just do it soon...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post reveals frequent thoughts of dying and killing oneself, along with the mention of self-harm and feeling empty and lonely. These aspects suggest the presence of perceived burdensomenes.
+

@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I don't have the motivation for anything anymore. I just don't. Not even for the things that i love. I've always struggled with depression, i've had it for like 6 years now. But lately for some reason it has gotten really bad, to the point that i can't even live my life anymore. I can't concentrate on school, i don't feel like talking to people, i don't feel like replying to messages. I don't even feel like crying anymore, i just feel like a mess. All i do everyday now is listen to music, listen to music and daydream. Daydream of all the things that i really want to do, but i just can't find the motivation to actually do. I feel lost. I really don't even know where i stand anymore.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "I am so sad or unhappy that I can not stand it.###The poster states that they don't have motivation for anything anymore, they feel like a mess, and they don't even feel like crying anymore. These statements suggest a high level of persistent sadness."])
+('2', ['directly_mention', "I feel the future is hopeless and that things cannot improve.###The poster mentions that they feel lost and don't even know where they stand anymore. This demonstrates a sense of hopelessness and pessimism about the future."])
+('3', ['directly_mention', "I feel I have failed more than the average person.###The post mentions that the person feels like a mess and struggles with depression, which could be interpreted as feelings of failure. However, the person does not mention feeling like a complete failure as a person, so the answer is 'I feel I have failed more than the average person.'"])
+('4', ['directly_mention', "I get very little pleasure from the things I used to enjoy.###The post directly mentions that the person doesn't have the motivation for the things they love and that they can't get any pleasure from the things they used to enjoy. Therefore, the answer is 'I get very little pleasure from the things I used to enjoy.'"])
+('5', ['directly_mention', 'I feel quite guilty most of the time.###In the post, the poster mentioned feeling lost, not having motivation, and struggling with depression. These feelings often lead to a sense of guilt, as if one is not living up to expectations or responsibilities.'])
+('6', ['directly_mention', 'I feel I am being punished.###The post mentions feeling lost, not having motivation, and struggling with depression. These negative emotions can often make individuals feel as if they are being punished or deserve to be punished.'])
+('7', ['directly_mention', 'I dislike myself.###The post mentions feeling lost, having no motivation, and struggling with depression. These feelings can contribute to a general dislike for oneself.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The post mentions struggling with depression and feeling like a mess. These feelings can often lead to increased self-criticism and self-blame.'])
+('9', ['indirectly_mention', "I have thoughts of killing myself, but I would not carry them out.###The poster mentioned that they don't have the motivation for anything anymore, including the things they love. They also said they feel lost and don't know where they stand anymore. These statements suggest a sense of hopelessness and despair, which could indicate the presence of suicidal thoughts. However, since the post does not clearly state an intention to carry out these thoughts, the answer would be 'I have thoughts of killing myself, but I would not carry them out.'"])
+('10', ['indirectly_mention', "I used to be able to cry, but now I cannot cry even though I want to.###The poster mentioned that they don't even feel like crying anymore, which implies a change in their ability to express emotions. This change could indicate an increase in emotional distress, leading to a decrease in the ability to cry. Based on this information, the answer would be 'I used to be able to cry, but now I cannot cry even though I want to.'"])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The post mentions feeling restless and agitated, and states that it is hard to concentrate on school and stay still.'])
+('12', ['directly_mention', 'I have lost most of my interest in other people or things.###The post explicitly states that the person has lost interest in the things they love and feels unmotivated.'])
+('13', ['directly_mention', "I find it more difficult to make decisions than usual.###The post mentions that I can't concentrate on school and I feel lost. These indicate difficulties in decision-making."])
+('14', ['directly_mention', 'I feel more worthless as compared to other people.###The post explicitly mentions feeling like a mess, feeling lost, and not knowing where I stand anymore. These indicate a sense of worthlessness compared to others.'])
+('15', ['directly_mention', "I do not have enough energy to do very much.###The post mentions that the person doesn't have the motivation for anything anymore, including the things they love. They also mention that they can't concentrate on school and don't feel like talking to people or replying to messages. This suggests a loss of energy and lack of motivation to engage in activities."])
+('16', ['directly_mention', 'I sleep a lot less than usual###The post mentions that the person has been struggling with depression for six years and that it has recently gotten worse. They also mention that they listen to music and daydream all day. These are signs of changes in sleeping patterns, as the person is likely staying up later than usual and not getting enough sleep.'])
+('17', ['directly_mention', "I am much more irritable than usual.###In the post, I mentioned that I don't feel like talking to people and don't feel like replying to messages. This indicates a lack of motivation and interest in social interactions, which can result in increased irritability."])
+('18', ['directly_mention', "My appetite is much less than before.###I stated that I can't concentrate on school and mentioned not feeling like doing anything I love, including eating. This suggests a significant decrease in appetite, leading to the conclusion that my appetite is much less than before."])
+('19', ['directly_mention', "I find I can not concentrate on anything.###The post mentions that the person can't concentrate on school, which indicates difficulties in concentration."])
+('20', ['directly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post states that the person is too tired or fatigued to live their life, suggesting an extreme level of tiredness or fatigue.'])
+('21', ['directly_mention', 'I have almost no interest in sex.###The post mentions that the person has lost interest in many things that they used to love, and this could include a diminished interest in sex.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's response to the mental scale questions indicates high levels of sadness, pessimism, loss of pleasure, guilt, self-dislike, self-accusations, and concentration difficulty. Additionally, the poster mentions struggling with depression for six years and experiencing worsening symptoms. These factors suggest that the poster is likely suffering from depression.
+

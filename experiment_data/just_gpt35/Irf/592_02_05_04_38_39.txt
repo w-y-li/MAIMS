@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Hope you are all okay. https://imgur.com/gallery/Za7hG  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show explicit signs of risk of thwarted belongingness. It is a general greeting and does not indicate feelings of exclusion or isolation.
+

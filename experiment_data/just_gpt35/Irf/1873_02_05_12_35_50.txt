@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I tried. I did my best. I loved him with all my heart and soul. But it wasn‚Äôt enough. I can‚Äôt live through another heartbreak. I chose not to. I have nothing left. I am hollow. He was my happiness. My joy in life. My soulmate. My heart is shattered into a million pieces. I can‚Äôt do this without him.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a belief that the person is a burden on others and that their loved one was their happiness and joy in life. The statement 'I can't do this without him' suggests a strong dependence on the other person for emotional support and a lack of belief in their ability to cope with the heartbreak.
+

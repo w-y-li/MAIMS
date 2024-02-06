@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Today do some self care. A moment to yourself. You are worth it. Remember, new year, new you. Lets make this a year we kick depressions ass.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post focuses on self-care, positivity, and overcoming depression, which does not indicate a risk of thwarted belongingness.
+

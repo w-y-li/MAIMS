@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I dont want to call myself depressed, because I am happy sometimes I don‚Äôt want to say I‚Äôve been emotionally biasd, because it‚Äôs wasn‚Äôt as bad as others and I don‚Äôt remember most of it I don‚Äôt want to say my dad left, because I still talk to him but I haven‚Äôt seen him in almost a full year I don‚Äôt want to say I have anxiety, because I don‚Äôt have panic attacks anymore I don‚Äôt want to say I used to cut, because I only did it for a few months I don‚Äôt want to make people mad because my problems aren‚Äôt that bad, so I just keep my mouth shut. Until someone asks, then I let loose. Yet, it‚Äôs still not bad enough to be anything worth while....  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of feeling misunderstood and not being able to express one's problems fully. The poster mentions not wanting to label their experiences and downplaying their own struggles, possibly to avoid burdening others or to avoid invalidating their own emotions. This suggests a potential risk of thwarted belongingness, as they may feel disconnected from others and struggle to find someone who understands and validates their experiences.
+

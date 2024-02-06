@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Another shitty summer, another Christmas...I can't do it. I lost my job. Most friends are gone. Parents don't speak to me. Most recent humiliation was a guy from my past. No one loves me. I wanna go.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of hopelessness, social isolation, and a desire to escape. These can be indicators of perceived burdensomeness, where the individual feels like a burden to others and believes that their presence is causing harm or distress to those around them.
+

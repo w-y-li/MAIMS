@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  It's like this: when I can't leave my bed, when I'm crying all the time, when I'm constantly late to work, when I haven't showered in weeks, I can tell myself: these are very clear, objective signs of depression. No wonder you're struggling with everything. Be kind to yourself. When I'm able to hold a steady job without screwing up, when I can keep in touch with family pretty consistently, when I can clean my apartment: it makes all the things I still struggle with seem to be due to personal failings rather than disorder. So I hate myself. I can't focus enough to watch a movie or read a book? Well, you can be on the internet for hours, so you're not trying hard enough to focus. I've completely ghosted most of my friends? Well, you can still contact your family and two of your friends, so you're not really socially anxious; you're just an asshole. I'm slow to speak and struggle to find words? Your brain is working better than when you were REALLY depressed, so you're a boring person with nothing interesting to say. By the way, you're a lot dumber now because the real depressive episodes ruined a bunch of brain matter. I feel  meh  and numb all the time? You're not trying hard enough to experience new things. You get up to go to work; you should be able to easily get up and take a walk when you have the day off. I don't know where I'm going with this.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and feeling disconnected from others due to the person's struggles and self-perceived failings.
+

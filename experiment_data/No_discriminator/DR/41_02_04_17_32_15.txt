@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Help.. So, I have a friend, who's had quite a tough life.(prefer not to go into details) I've always had severe anxiety issues, mostly social Such was the cause for major bullying. This, combined with family issues, put me into a deep depression, bringing me to contemplate suicide. All of this was before I knew this friend. I brought this up to him the other day, and he replied with  all the shit ive been through in my life and im STILL GOING THROUGH and you you think about suicide because of your social awkwardness?  He now has me blocked on all social media, and I'm not exactly sure how to go about this.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I am sad all the time.###The poster mentions that they were brought into a deep depression, contemplating suicide. This indicates a constant feeling of sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The poster mentions severe anxiety issues, social awkwardness, and bullying, which are all factors that can contribute to feeling pessimistic about the future.'])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The post mentions that I have had a tough life with family issues and severe anxiety, which suggests that I may feel like I have failed more than the average person.'])
+('4', ['directly_mention', 'I get very little pleasure from the things I used to enjoy.###The post mentions that I have been in a deep depression, which can often lead to a loss of pleasure in activities that were once enjoyed.'])
+('5', ['directly_mention', 'I feel guilty all of the time.###The poster mentions having severe anxiety issues, which can often lead to feelings of guilt. Additionally, the poster mentions contemplating suicide, which is often accompanied by feelings of guilt.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information that can be used to deduce the answer to this question."])
+('7', ['indirectly_mention', 'I dislike myself.###The post mentions that I have had severe anxiety issues and have experienced major bullying, which can contribute to developing a dislike for myself.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The post indicates that I contemplate suicide due to my social awkwardness, which suggests that I am likely more self-critical and self-blaming than usual.'])
+('9', ['indirectly_mention', 'I would like to kill myself.###The post mentions that the person has contemplated suicide due to their social anxiety and depression.'])
+('10', ['directly_mention', 'I cry more than I used to.###The post states that the person was brought to a deep depression, which implies an increase in their crying behavior.'])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The post mentions that I have had severe anxiety issues, which is a symptom of restlessness and agitation.'])
+('12', ['directly_mention', 'It is hard to get interested in anything.###The post mentions that I am in a deep depression and have contemplated suicide, which can cause loss of interest in activities and people.'])
+('13', ['directly_mention', 'I find it more difficult to make decisions than usual.###In the post, I mentioned that I have severe anxiety issues and have experienced major bullying. These experiences can contribute to increased difficulty in making decisions.'])
+('14', ['indirectly_mention', "I do not consider myself as worthwhile and useful as I used to.###Although I didn't directly mention feeling worthless, I talked about being depressed, contemplating suicide, and comparing my struggles to my friend's. These experiences can lead to a decrease in self-worth and feelings of not being as worthwhile as other people."])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###In the post, I mentioned that I have been through a lot of tough experiences, including severe anxiety issues, social bullying, and deep depression. These experiences can be emotionally and physically draining, which can result in having less energy than before.'])
+('16', ['indirectly_mention', 'I have not experienced any change in my sleeping pattern.###Although the post does not directly mention any changes in sleeping patterns, it does not provide any information indicating a change. Since the post focuses more on the emotional struggles and interactions with the friend, it can be deduced that there is no significant change in sleeping pattern.'])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post mentions severe anxiety issues and major bullying which can cause increased irritability.'])
+('18', ['indirectly_mention', 'My appetite is much less than before.###The post mentions deep depression and contemplating suicide, which can result in changes in appetite, specifically a decrease in appetite.'])
+('19', ['directly_mention', 'I can not concentrate as well as usual.###In the post, I mentioned severe anxiety issues which often lead to difficulty in concentration. So, I cannot concentrate as well as usual.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###Although tiredness or fatigue is not directly mentioned, I did mention being in a deep depression and contemplating suicide due to my tough life and family issues. These experiences can often cause exhaustion and fatigue, so I am too tired or fatigued to do most of the things I used to do.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the mental scale questions indicate symptoms of depression. They express feelings of sadness, discouragement about the future, past failure, loss of pleasure, guilt, self-dislike, self-accusations, suicidal thoughts, increased crying, agitation, difficulty finding interest in things, indecisiveness, worthlessness, loss of energy, irritability, decreased appetite, difficulty concentrating, and tiredness or fatigue. These symptoms align with the criteria for depression.
+

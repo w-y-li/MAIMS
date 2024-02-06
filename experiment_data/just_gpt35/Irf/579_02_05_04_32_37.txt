@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Nothing fuckin changes... I am alone. I will always be alone in this world.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of hopelessness and isolation, suggesting a risk of perceived burdensomeness.
+

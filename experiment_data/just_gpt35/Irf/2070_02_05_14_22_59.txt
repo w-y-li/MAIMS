@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  This summer I was very depressed after a break up and existential crisis. I ended up isolating myself in my room by not leaving often and my friend that stayed for the summer happens to be the one that loves belittling me, so they loved to see this. For some reason she is always so competitive and went out of her way to show that she had other friends and made fun of me for being in my room all the time. She was also the friend I was rooming with for the summer. I ended up failing my classes and taking the fall semester off because my depression became so bad. During the fall when I was at home I was fine, but now that im back at school all of the feelings came rushing back. I'm back at school by myself while my old friend group are probably getting together having fun somewhere. They didnt even contact me over the fall so i doubt that they care. I don't want to succumb to my depression again. I want to fit in somewhere this semester and do well. Any advice for this would be greatly appreciated.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses a sense of isolation, loneliness, and a desire to fit in somewhere. They mention feeling left out by their old friend group and the fear of succumbing to depression again. These feelings suggest a risk of thwarted belongingness.
+

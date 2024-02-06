@@ -1,0 +1,124 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  My friends fall out with the rest of the group as we don’t agree with them on genders. I’m just going to get straight to the point, I have these two friends ( I’ll call them Ava and Chloe) who fall out with me and the rest of my friends as they believe there’s more that two genders and the rest of us don’t believe that (I’m not saying they can’t believe that but I’m just saying the way that they act when we say we don’t is bad). They usually talk to us the day after and act like nothing happened, but it bothers me. So here’s a summary of what happens. Someone brings up the topic of genders, and then will say how they think there’s two, then either Ava or chole will get mad and will storm of or start shouting at us. Ava once called my boyfriend a “close minded cunt” simply because he said he didn’t agree with her. If they believe that there’s more than two genders, I am totally ok with that, it’s just that they try and make the rest of us believe it too and then put the blame onto us and it’s starting to bug me. So if anyone knows what I can do about this, I’d be really glad if you could help me out. Thank you for reading :)  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to sadness. It discusses a disagreement about beliefs on gender but does not indicate any feelings of sadness."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to pessimism. It discusses a disagreement about beliefs on gender but does not indicate any feelings of discouragement or hopelessness about the future."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything about past failure."])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post mentions that the behavior of Ava and Chloe bothers me, indicating a decrease in pleasure from the friendship.'])
+('5', ['directly_mention', "I feel guilty all of the time.###The post mentions that the poster's friends get mad and shout at them when they express their belief in only two genders. This could lead to the poster feeling guilty for their friends' reaction and for not agreeing with them."])
+('6', ['directly_mention', "I expect to be punished.###The post mentions that the poster's friends react angrily and call the poster's boyfriend offensive names for expressing disagreement. This could create an expectation of being punished for having different beliefs."])
+('7', ['directly_mention', 'I am disappointed in myself.###The post mentions that the behavior of my friends bothers me, indicating that I am disappointed in myself for not being able to handle the situation better or assert my own beliefs.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information or context indicating self-accusations or self-criticism."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes."])
+('10', ['indirectly_mention', 'I cry more than I used to.###The post mentions that the situation bothers me and it is starting to bug me, which indicates an increase in emotional distress. Although it does not specifically mention crying, the increased emotional distress suggests that I cry more than I used to.'])
+('11', ['indirectly_mention', "I am so restless or agitated that it is hard to stay still.###In the post, I mentioned that my friends get mad and start shouting at us when we don't agree with their beliefs on genders. This shows that their reactions to opposing viewpoints cause agitation and restlessness."])
+('12', ['indirectly_mention', "I am less interested in other people or things than before.###In the post, I mentioned that the situation bothers me and that I am starting to feel bugged by my friends' behavior. This suggests a decrease in interest in my friends and the topic of discussion."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to indecisiveness."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to worthlessness."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to loss of energy. "])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to changes in sleeping patterns."])
+('17', ['directly_mention', "I am more irritable than usual.###The post mentions that I am bothered by my friends' actions, which implies that I am experiencing irritability."])
+('18', ['indirectly_mention', "My appetite is somewhat less than usual.###The post doesn't directly mention changes in appetite, but it does mention that my friends' behavior bothers me. This emotional distress can potentially lead to changes in appetite, such as experiencing a somewhat reduced appetite."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to concentration difficulty."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to tiredness or fatigue."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+('1', ['Correct', 'Ensure to maintain objective analysis based on explicit content within the post when assessing emotions that are not directly mentioned.'])
+('2', ['Correct', 'Continue to differentiate between the topics being discussed and the emotional state, such as pessimism, which must be clearly evidenced in the post to infer such a characteristic.'])
+('3', ['Incorrect', 'Carefully analyze the post for relevant information regarding past failures. Only make inferences that are supported by evidence from the post itself.'])
+('4', ['Incorrect', 'Do not infer a loss of pleasure based solely on a disagreement or conflict. Ensure your answers stay true to what is specifically stated or clearly implied in the post.'])
+('5', ['Incorrect', 'Review the post for explicit mentions of personal feelings related to guilt to avoid assumptions not supported by the text.'])
+('6', ['Incorrect', 'Focus on the information given by the poster about their own experiences, rather than inferring feelings of punishment without evidence.'])
+('7', ['Incorrect', "The post does not directly express indications of self-dislike. Be cautious not to infer emotions from opinions or disputes. Focus on information that explicitly reflects the poster's feelings about themselves, not the situation."])
+('8', ['Correct', 'The student appropriately identified that the post does not mention self-accusations. Continue to assess posts based on direct information and avoid making assumptions without evidence from the text.'])
+('9', ['Correct', 'Your response accurately reflects the content of the post where no mention of suicidal thoughts or wishes is present, so there is no indication to assume such thoughts exist for the poster. Continue to analyze posts literally for what is mentioned and what is not, avoiding assumptions beyond the given information.'])
+('10', ['Incorrect', "Avoid extrapolating emotions that are not explicitly stated. There is no mention of crying or increased tearfulness. Stick to the information provided and do not infer emotional responses that are not indicated. Instead, if a question regarding emotional distress is raised and crying is not directly mentioned, it is safer to respond with 'Not Mentioned,' or 'Doesn't Apply' as per the content of the post."])
+('11', ['Incorrect', 'Avoid assuming emotional states that the poster did not explicitly state. Focus on the information provided without adding your interpretations of emotions or reactions. Stick to what the post conveys directly about the poster, not the friends.'])
+('12', ['Incorrect', 'Do not infer loss of interest in people or activities based on annoyance with an isolated incident. Assess interest levels more holistically rather than from a single event, particularly if the post does not mention losing interest in general.'])
+('13', ['Incorrect', "Review the post and consider any underlying emotions or implications that could suggest indecisiveness, such as the poster's difficulty in handling the disagreements."])
+('14', ['Incorrect', 'Analyze the post for any signs of feeling undervalued or diminished because of the conflict, which could hint at feelings of worthlessness.'])
+('15', ['Correct', 'Continue to distinguish between the information provided in the post and the questions asked. Remember that if a topic is not mentioned, it is appropriate to indicate its absence.'])
+('16', ['Correct', 'Maintain your careful reading of the post and only infer answers that are supported by the content. Like with loss of energy, absence of evidence indicates that claiming an answer without information is unwarranted.'])
+('17', ['Correct', 'Ensure that your interpretation of irritability is grounded in observable behavior or language in the post, as was done accurately in this case.'])
+('18', ['Incorrect', 'Avoid assuming a change in appetite without explicit evidence. Instead, focus on what is directly mentioned or closely related to the content of the post.'])
+('19', ['Correct', 'While your answer is correct because the post does not directly mention concentration difficulties, remember to consider the context that may imply such issues indirectly. In future tasks, look for subtle cues that could indicate the mental state of the poster.'])
+('20', ['Correct', 'You have correctly identified that the post does not address tiredness or fatigue explicitly. However, when analyzing similar posts, be sure to consider any emotional states or stressors that could suggest these conditions indirectly.'])
+('21', ['Correct', 'Remember to only infer based on what the poster explicitly mentions or what can be logically deduced from the context. Avoid making assumptions beyond the content provided.'])
+
+ITER 1
+Do MS Record:
+('3', ['indirectly_mention', "I do not enjoy things as much as I used to.###The poster mentions that their friends' behavior bothers them and it is starting to bug them. This could indicate a decrease in pleasure from activities they used to enjoy due to the conflict with their friends."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding past failures."])
+('5', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to guilt feelings."])
+('6', ['indirectly_mention', 'I feel I may be punished.###The post mentions that the friends who fall out with the rest of the group due to a disagreement on genders get mad and storm off or start shouting. This behavior can make the poster feel like they might be punished for expressing their own beliefs.'])
+('7', ['not_mention', "Doesn't mention at all.###The post does not directly express indications of self-dislike."])
+('10', ['not_mention', "Doesn't mention at all.###Avoid extrapolating emotions that are not explicitly stated. There is no mention of crying or increased tearfulness."])
+('11', ['directly_mention', 'I feel more restless or wound up than usual.###The post mentions that the poster gets bothered when their friends act a certain way and it bothers them.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to losing interest in people or activities."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to indecisiveness."])
+('14', ['indirectly_mention', "I feel more worthless as compared to other people.###The poster describes how their friends fall out with the rest of the group because they disagree on the concept of genders. This disagreement has caused the poster's friends to get mad and shout at them, which can lead to feelings of being devalued or less worthwhile compared to their friends who hold different beliefs."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in appetite."])
+Do MS Check Record:
+('3', ['Incorrect', "Carefully analyze the emotional content of the post. Consider the impact of interpersonal conflict on one's enjoyment of social interactions."])
+('4', ['Correct', 'Good observation that the post does not directly comment on past failures. Avoid making assumptions without evidence.'])
+('5', ['Correct', 'Ensure you also consider implicit emotional content in future posts, as not all feelings related to a subject are directly stated.'])
+('6', ['Incorrect', "Avoid assuming feelings not explicitly stated in the text; focus on the content given, and refrain from inferring punishment feelings unless there's clear evidence in the post."])
+('7', ['Correct', "Make sure to analyze the post for any potential indirect hints that could relate to the mental scale question, even if the answer may still be that it doesn't mention the topic directly."])
+('10', ['Correct', 'Remember to avoid inferring emotional states that are not evident from the post. Stick to the information provided to accurately role-play the poster.'])
+('11', ['Incorrect', "Analyze the emotional tone when poster describes friends' interaction; agitation can be implied by expressions of being 'bothered' or upset."])
+('12', ['Incorrect', "Consider the potential for disinterest indirectly; the poster's continued engagement with friends suggests no loss of interest."])
+('13', ['Incorrect', 'Carefully analyze the content for evidence relating to indecisiveness; avoid assumptions not supported by the post.'])
+('14', ['Incorrect', 'Do not infer feelings of worthlessness without explicit cues; remain objective and avoid overgeneralization based on the conflict described.'])
+('18', ['Correct', 'While your answer is technically correct since the post does not mention changes in appetite, to enhance your analytical skills, try extrapolating information that may imply emotional or stress-related responses, which can sometimes be linked to changes in appetite. However, be careful not to make unfounded inferences.'])
+
+ITER 2
+Do MS Record:
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The poster mentions that their friends fall out with them and the rest of the group for not agreeing on genders. This conflict may lead the poster to feel that they have failed in maintaining a harmonious relationship with their friends.'])
+('6', ['indirectly_mention', 'I feel I may be punished.###The poster mentions that their friends get mad, storm off, and shout at them when the topic of genders is brought up. This negative reaction from their friends may make the poster feel that they could be punished for expressing their disagreement.'])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The post mentions that the behavior of Ava and Chloe bothers me. This implies that I am feeling more restless or wound up than usual because of their actions.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding loss of interest. It mainly focuses on the disagreements and conflicts related to genders."])
+('13', ['indirectly_mention', 'I have greater difficulty in making decisions than I used to.###The post mentions that the friends fall out with the rest of the group due to a disagreement on genders. The poster expresses that it bothers them when their friends get mad or shout at them for not believing in more than two genders. This suggests that the poster may have difficulty making decisions about their own beliefs on gender.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to feelings of worthlessness. It focuses primarily on the conflicts arising from differing beliefs on genders."])
+Do MS Check Record:
+('3', ['Incorrect', 'Review the post and ensure your interpretation aligns with the content provided. Focus on analyzing the expressed emotions and opinions without extrapolating beyond the information given. Avoid assumptions of failure unless explicitly mentioned.'])
+('6', ['Incorrect', "Assess the emotions conveyed in the post without attributing feelings of punishment where they are not indicated. Consider the poster's perspective on the conflict without inferring unstated feelings of fear or anticipation of punishment."])
+('11', ['Incorrect', "Re-examine the post for subtle cues about the poster's emotional state; agitation could be inferred from expressions of being 'bothered' by friends' behavior."])
+('12', ['Correct', 'Continue to distinguish between the absence of information and the presence of information that does not directly answer the question.'])
+('13', ['Incorrect', 'Avoid reading into the post information that is not present. Focus on specific details provided in the post and avoid extrapolating beyond what is explicitly stated to infer indecisiveness.'])
+('14', ['Correct', "Continue to differentiate between what is explicitly mentioned and what is not. Avoid making assumptions not supported by the post's content."])
+
+ITER 3
+Do MS Record:
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention or allude to any personal failure experiences."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention or allude to any feelings of punishment."])
+('11', ['indirectly_mention', 'I am more restless or wound up than usual.###In the post, the poster mentions being bothered by the behavior of their two friends. This suggests a sense of restlessness or agitation, which indicates a higher level of agitation than usual.'])
+('13', ['directly_mention', 'I find it more difficult to make decisions than usual.###The poster explicitly mentions being bothered by the actions of their friends when it comes to discussing genders. This suggests a difficulty in making decisions regarding what to do about the situation, implying a higher level of indecisiveness than usual.'])
+Do MS Check Record:
+('3', ['Correct', 'Your answer to Question 3 is accurate in reflecting the content of the post. Continue to focus on the given information and avoid making assumptions beyond the available evidence.'])
+('6', ['Correct', 'In response to Question 6, you managed to avoid the common mistake of over-inference since the post does not provide information about punishment feelings. Remember to maintain this level of careful reading and analysis in future tasks.'])
+('11', ['Incorrect', 'Do not infer emotions or reactions that are not explicitly mentioned in the post. Stay objective and only utilize information given. The poster does not mention personal feelings of restlessness or being wound up.'])
+('13', ['Incorrect', 'Avoid inferring indecisiveness when the poster does not express difficulty in making decisions. The poster is asking for advice but does not indicate a personal struggle with decision-making.'])
+
+ITER 4
+Do MS Record:
+('11', ['directly_mention', 'I am more restless or agitated than usual.###The poster mentions that Ava or Chloe will get mad and storm off or start shouting when the topic of genders is brought up. This behavior suggests heightened agitation and restlessness.'])
+('13', ['not_mention', "Doesn't mention at all.###The poster does not provide any information regarding indecisiveness. The focus of the post is on the friends' disagreements over gender, not decision-making."])
+Do MS Check Record:
+('11', ['Incorrect', 'Carefully distinguish between the emotions and behaviors attributed to others in the post versus those expressed by the poster themselves. Avoid projecting the agitation described as being experienced by others onto the poster.'])
+('13', ['Correct', 'When the post does not provide information relevant to a particular question, it is appropriate to indicate that the information is not mentioned. Continue to analyze posts with the same level of detail.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster's response to the mental scale questions does not indicate symptoms of depression. Although the poster mentioned feeling bothered by the situation with their friends, this does not necessarily indicate a depressive disorder. Further assessment and information would be needed to make a more comprehensive analysis of the poster's mental health.
+
+Correct
+You have appropriately analyzed the provided social media post and the answers from the mental health scale. In the absence of symptoms or characteristics of depression in the answers provided, it is correct to infer that there is no clear evidence of depression in the poster's information. However, ensure to consider the context and details of each individual case, remaining cautious not to overlook subtle signs of mental health issues that could be present beyond the concrete answers to the scale. Encourage continuous observation and gathering more information for an accurate assessment. Be mindful of the ethical implications of assessing mental health and refrain from making conclusive judgments without comprehensive evaluation.

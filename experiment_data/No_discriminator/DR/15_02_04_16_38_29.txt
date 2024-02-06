@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  dealing with an emotionally unavailable best friend I see my best friend a lot. I dont wear my heart on my sleeve but I'm emotional. I definitely give too much in a relationship and end up getting hurt because of it. My friend has troubles expressing her emotions and generally gets very annoyed when she has to  prove herself  because she feels like people should just trust her. She doesn't have many friends because of this. I always express my irrational feelings but when shes angry she doesnt want to say anything because she doesnt want to hurt me. I don't want her to hold anything in but I know that I would suffer because of the truth. How do I balance our give and take? Is there anyway I can help her open up? Or is that impossible?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The post mentions that the poster is emotional and ends up getting hurt because of giving too much in a relationship. This indicates a pattern of sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post suggests that the poster is questioning how to balance their give and take in a friendship. This uncertainty about the future can contribute to feelings of discouragement and pessimism.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###In the post, I mentioned that I give too much in a relationship and end up getting hurt because of it. This implies that I may feel like I have failed in some way by not being able to maintain a balanced and healthy relationship.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information about loss of pleasure or enjoyment of activities. It focuses more on the dynamics of the friendship and emotional expression rather than changes in pleasure experiences."])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###In the post, I mentioned that I give too much in relationships and end up getting hurt. This suggests that I may feel guilty about not setting boundaries or taking care of myself.'])
+('6', ['indirectly_mention', "I feel I may be punished.###In the post, I mentioned that my friend gets annoyed when she has to prove herself and that she doesn't have many friends because of it. This suggests that she may punish me by withdrawing or being distant when she feels pressured to express her emotions."])
+('7', ['indirectly_mention', "I feel the same about myself as ever.###The post mentions that the poster is emotional and tends to give too much in a relationship, which suggests that they may have self-doubt or low self-esteem. However, since they don't directly mention self-dislike, it can be inferred that they feel the same about themselves as ever."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about self-accusations. There is no mention of the poster criticizing or blaming themselves more than usual or in any specific manner."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not provide any information or mention about suicidal thoughts or wishes."])
+('10', ['indirectly_mention', "I cry more than I used to.###The post mentions that the poster is emotional and expresses their irrational feelings. Although the post doesn't explicitly mention crying, it suggests that the poster experiences emotional distress, which may manifest as increased crying."])
+('11', ['indirectly_mention', 'I am so restless or agitated that I have to keep moving or doing something.###The post mentions that the friend gets very annoyed when she has to prove herself, which can be a sign of agitation. Additionally, the poster mentions feeling emotional and giving too much in a relationship, which could contribute to feelings of restlessness or agitation.'])
+('12', ['indirectly_mention', "I am less interested in other people or things than before.###The post mentions that the friend has troubles expressing her emotions and doesn't have many friends as a result. This could lead to a decreased interest in other people or things, as the focus may primarily be on the difficulties in expressing emotions and building relationships."])
+('13', ['directly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that I give too much in a relationship and end up getting hurt because of it. This suggests that I may have difficulty making decisions about how much to give and how to protect myself from getting hurt.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not contain any information or hint related to feelings of worthlessness."])
+('15', ['directly_mention', 'I have less energy than I used to have.###In the post, I mentioned that I give too much in a relationship and usually end up getting hurt because of it. This suggests that I may be experiencing a loss of energy due to the emotional toll of the relationship.'])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###Although the post does not directly mention changes in sleeping patterns, it does hint at the potential impact of the relationship on my sleep. I express irrational feelings and worry about the truth, which could contribute to restlessness and sleeping somewhat less than usual.'])
+('17', ['directly_mention', 'I am more irritable than usual.###In the post, I mentioned that my friend gets very annoyed when she has to prove herself because she feels like people should just trust her. This suggests that I may be more irritable than usual.'])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in appetite."])
+('19', ['indirectly_mention', 'I find I can not concentrate on anything.###The post mentions that the friend has trouble expressing her emotions and gets annoyed when she has to prove herself. This suggests that she may have difficulty concentrating or focusing on her emotions, which indirectly implies difficulty in concentration.'])
+('20', ['not_mention', "Doesn't mention at all.###The post does not provide any information or hints that would allow me to deduce the answer to this question."])
+('21', ['indirectly_mention', "I have not noticed any recent change in interest in sex.###Although I don't explicitly mention changes in my interest in sex, I do mention that I am emotional and tend to give too much in a relationship. This suggests that my emotional state may be affecting my interest in sex, but it's not clear if there has been a recent change or not."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster scores high on several indicators of depression, such as feeling sad much of the time, feeling discouraged about their future, feeling they have failed more than the average person, feeling guilty a good part of the time, crying more than they used to, having less interest in other people or things than before, finding it more difficult to make decisions than usual, having less energy than they used to have, finding it difficult to concentrate on anything, and being more irritable than usual.
+

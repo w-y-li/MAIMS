@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I tell myself this every year. But I am fed up with living every day. I don't want to get out of bed, I just want to die. I hate my home I hate my family and I hate my life. I have tried to kill myself ever since I was 5, I was not meant to be in this world. I am very sick as well, and hate being sick. I had a fun New Years up until I got home. It's 3:02 and I'm disappointed with myself again. I've been to therapy and a psychiatrist but nothing works. I have a job already but I lack the skills to talk to others, I try and have improved a lot but other times I always feel like they're talking bad about me. I work hard but I never think it's hard enough. I think I'll have to get three jobs soon due to starting college and I honestly don't want to be 30 or 40 still having to pay student loans. I think I am going to kill myself this year. I made a post on here similar to this but ended up not doing it because I couldn't leave my friend alone. But now we barley talk.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden to others and a desire to end one's own life due to these perceived feelings. This suggests a risk of perceived burdensomeness.
+

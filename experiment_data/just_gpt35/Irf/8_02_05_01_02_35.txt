@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Help? I'm just feeling really shitty at how I seem to have spent the majority of my time recently lying around not doing anything, letting my room and shit get into a mess and just been consumed by negative thoughts. I'm also worse at a particular time of day. Like I've barely done anything productive this month and I hate myself for it, and I hate the fact I can't try hard enough/be bothered to help myself out of this. Some days are better than others, yes, but at the end of the day I just can't do it. I'm 17 and wasting my fucking life being lazy and doing nothing, the new year has made me realise. I want to make resolutions but I know I can't keep them so I'm not bothering. Any help/advice??  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation, low self-worth, and lack of motivation, which are potential signs of thwarted belongingness.
+

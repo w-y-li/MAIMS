@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Tonight my roommates and I watched a movie together, then they left to go have dinner with her parents. And I sat at home and cried. I left my job 2 weeks ago, but no one has called me back about my resume. I barely eat, but am gaining weight. I'm tired yet oversleeping. My dad told me that the doctors give him a year, maybe. It's all so much. I'm so... not done. I can't say done. Done is... not an option. So... here's to a better year. Here's to the last year ill have with my dad. I want to make it a good one.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a sense of burden, as the person feels overwhelmed by multiple difficulties such as unemployment, weight gain, and their father's illness. They express feelings of being 'not done' and wanting to make the last year with their dad a good one.
+

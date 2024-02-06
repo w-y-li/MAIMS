@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  When I was in highschool the same thing, I was kind of happy to be around other people at school but obviously couldn‚Äôt wait for the day to be over so I could go home. When I would get home I would just feel empty and lonely and sad. I remember when I met my first and only ever girlfriend, My depression literally disappeared the moment I met her. She left me 8 months later and there is a very good chance I will never speak to her again. It‚Äôs been 3 months and I thought I was depressed before I had ever met a girl, but my god, the depression is 10x worse after I had one and she left. I‚Äôm so lonely even sometimes when I‚Äôm with friends I‚Äôm lonely. I can‚Äôt take this anymore.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of loneliness and emptiness, both in past and present. The individual expresses feeling lonely even when they are with friends, suggesting a lack of connection and belonging. The mention of the depression being exacerbated after the breakup and longing for the first and only girlfriend also points towards a risk of thwarted belongingness.
+

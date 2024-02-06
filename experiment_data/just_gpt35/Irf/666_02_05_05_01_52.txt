@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Not sure how to start this. So ill start by telling a few things about my life. I am a 23 years old male, living in brazil, currently working with IT. My parents and my girlfriend are really supportive and i don't really have big problems in my life, which leads to the big issue: i feel like complete shit. Despite having a job, a car, a girlfriend, a place with people that i know that love me that i can call home, i still feel like complete shit and knowing these things and not understanding why i feel like this makes me feel even worse. I have tried suicide in the past and these thoughts are behind me, but the feeling of being worthless and that im not accomplishing anything haunt me everyday. I would appreciate some help on this. Thank you and Sorry for the rant.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling worthless and not accomplishing anything, which suggests a sense of disconnect or lack of belonging. Additionally, the poster mentions previous suicide attempts and feeling like complete shit despite having supportive relationships and material possessions.
+

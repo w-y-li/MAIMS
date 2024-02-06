@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Does anybody feel like their life is meaningless if they don’t have a relationship or crush In my opinion it feels like love is the only medicine strong enough to cure my depression. Whenever I’m in love or lust I’m on top of the world I feel so good everything feels great, but once something happens to it I fall down this hole and my depression comes back even stronger. I need to learn to be their for me to grow love for myself. That almost seems impossible but I won’t give up and I’m going to work on becoming a better me. Better for myself, better for my life, and kicking my depression away once and for all.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling depressed and implies that they rely on love or lust to temporarily alleviate their depression. They also express a desire to learn to love themselves and work towards overcoming their depression.
+
+Correct
+Your response is appropriate as you have correctly identified indications of depression from the post. The poster explicitly mentions their struggle with depression and its correlation with their romantic life. Continue to analyze the provided information carefully and ensure that your inferences are supported by the post content without overgeneralizing or making assumptions beyond the given information.

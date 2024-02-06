@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I don‚Äôt talk to any of my friends I leave them on read for months, makes me feel like absolute dog shit. I‚Äôve failed multiple classes and this semester I only have 6 credit hours, still well on the way to failing. I can‚Äôt get out of bed much less actually do class work. I‚Äôm probably gonna end up dropping out of college I don‚Äôt know what I would do after, I really wish something would just kill me. I‚Äôm surrounded by so many caring people but I just push them all away, soon I‚Äôll end up alone and that‚Äôs what I deserve. I‚Äôve tried so fucking hard to get better it doesn‚Äôt do anything. Nothing makes me happy anymore. I‚Äôve had such a perfect life anyone else in my shoes would be so successful and happy then there‚Äôs me just rotting away in my bed for literally no god damn reason. I just want to fall asleep and never wake up.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a sense of burden and feeling like a failure, expressing a desire for something to kill them and stating that they deserve to be alone. These thoughts and feelings suggest a risk of perceived burdensomeness.
+

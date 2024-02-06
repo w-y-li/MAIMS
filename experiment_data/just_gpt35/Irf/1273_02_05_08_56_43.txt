@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  EVERYTHING IS WRONG. But I can't really talk to my coworker about it... I just apologized for interrupting his workflow.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster states that everything is wrong but feels unable to talk to their coworker about it, indicating a risk of perceived burdensomeness.
+

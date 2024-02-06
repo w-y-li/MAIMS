@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Please try watching The Joy of Painting with Bob Ross It may not have the same effect on you as it does me, hence why I say  please try . That show calms me, makes me feel better, and helps me sleep. Bob Ross has a soothing voice and I love his mindset. You can watch the entirety of the show on the official Bob Ross YouTube channel.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentioned that watching The Joy of Painting with Bob Ross makes them feel better and helps them sleep. This could be an indication that they are seeking ways to cope with or find relief from negative emotions or feelings, which is commonly associated with depression.
+

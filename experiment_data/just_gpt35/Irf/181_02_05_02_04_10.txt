@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Right now I'm feeling very alone I live in a city and don't know very many people because with depression and anxiety that I haven't treated for 7 years keeps me from wanting to meet new people because out in the real world it's scary. Always afraid that I will mess up what I say and that people will think I'm stupid. The people I do know half turned out to be horrible people that have now resorted to trying to tear me down daily. I love my daughter and my boyfriend but sometimes you want to talk to someone else. I don't know how else to explain it I just feel really trapped. End sad rant.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness, anxiety, and fear of being judged by others. The poster mentions that they feel trapped and have negative experiences with people close to them. These feelings of isolation and rejection may suggest a risk of perceiving themselves as a burden to others.
+

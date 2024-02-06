@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I have exams in 4 days. I haven't been studying at all this christmas, because every day I can't seem to motivate myself to do it. Honestly I'm like 'why even bother anymore, I won't make it 'till the end of the schoolyear anyway. So I just play video games to cope with my severe suicidal thoughts. Just some daily struggles I have...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of loneliness and feeling disconnected from others, as evidenced by the lack of motivation to study and the use of video games as a coping mechanism for severe suicidal thoughts. These feelings of isolation and disconnection can be indicative of thwarted belongingness, a risk factor for suicide.
+

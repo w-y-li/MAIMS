@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôm either gonna kill myself then or cut my wrists bad enough I have to be admitted. I‚Äôm a failure at school, I‚Äôm a failure at my job, I‚Äôm a failure at keeping a relationship, I‚Äôm a failure at making friends and I‚Äôm a failure at being my own fucking gender. Everyone hates me and they‚Äôve began to stop hiding it. I know it‚Äôd relieve everyone if I just died. Only question is, how should I do it? Cutting myself hasn‚Äôt worked the other times, so I‚Äôll probably poison myself with carbon monoxide or overdose. I wish I had a reason to stay and I wish I didn‚Äôt have to, but life never gets better and I have to at this point.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post demonstrates a deep sense of isolation, rejection, and the belief that the person is a failure at various aspects of their life. They express feeling like a burden to others and that everyone hates them. These feelings are indicative of a risk of thwarted belongingness, which is the sense of not belonging or being disconnected from others.
+

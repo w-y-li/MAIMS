@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Lately, most often at night, I'll get extremely anxious and begin feeling like I'm not me. Like I was someone else who was placed into this body. I also get the physical feeling that the world stops existing, and that I am isolated to my area. I feel like I'm going insane. This has started recently (last 2-3 months), I'm 17, and have not begun taking, or have stopped taking any medications. Is this an anxiety attack? I'm either numb, or this, and I'm scared this is forever.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of feeling disconnected from oneself, experiencing world depersonalization, and fear of going insane. These symptoms are often associated with anxiety and may indicate a risk of perceived burdensomeness.
+

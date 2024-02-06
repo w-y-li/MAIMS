@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I wish you knew that... I feel alone. I feel like I have no purpose. Nobody understands me. Nobody understands how much hurt I go through. How it feels to feel like this. To have two faces. To make is seem like I am happy when I feel like ending it all. But I’m not that good at hiding it anymore. If only you knew. If only you knew how I feel. If you knew how I cry every time I am alone. How I cry myself to sleep some nights. How it feels to feel like you have no one. Like no one cares about you. Like no one is there for you. Do you know now why I don’t smile anymore? Why I have a bad “tone”? Why I always seem tired? Upset? Why I always want to be by myself? Why I don’t want to go out? I wish you knew. I wish I could talk to you. I wish I wasn’t so scared to talk to you. I wish I could tell anyone about my sadness. About the thoughts I have. About how many times I have thought about killing myself. About why I feel this way. I wish you would be there for me. I wish you would let me know that there is hope. That there are people who love me. That I can live. That I can be happy too.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of loneliness, having no purpose, feeling misunderstood and hurt. They mention crying themselves to sleep, thoughts of ending it all, and feeling like they have no one. These thoughts and emotions align with symptoms of depression.
+

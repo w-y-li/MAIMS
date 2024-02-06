@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I just don‚Äôt know why I don‚Äôt commit suicide and die Life is full of pain and misery I have done nothing wrong and I have tried so hard but i just cannot find the happiness that I deserve My Lord I ask you for nothing but my happiness  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feelings of pain, misery, and the desire for happiness. The mention of not knowing why they don't commit suicide and the request for happiness from a higher power indicates a potential risk of thwarted belongingness, which is a psychological term associated with the feeling of not belonging or being socially isolated.
+
+Correct
+Continue to carefully consider the emotions expressed by individuals in posts to infer their mental health state without assuming additional unfounded negative characteristics. Also, ensure you are always analyzing the mental health of the person writing the post, rather than others they may mention.

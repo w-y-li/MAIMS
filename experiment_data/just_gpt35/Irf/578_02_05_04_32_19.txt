@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Nothing fuckin changes... I am alone. I will always be alone in this world.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses a strong sense of loneliness and feeling alone in the world, suggesting a possible risk of thwarted belongingness.
+

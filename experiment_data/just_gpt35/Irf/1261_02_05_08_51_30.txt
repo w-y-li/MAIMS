@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Hi there. My name is Jonah I'm 17 and I struggle a bit with depression. Not as bad as it used to be but it comes and goes, especially in the winter. These are some things that happen to me when I have a bad day, and please, if you expierence the same or have anything to say about these, let me know: I usually want to eat salty foods. I don't get extra hungry, but I crave chips and popcorn. Stuff like that. I masterbate a lot more. I don't necessarily want to sleep more, but I like to lay in bed more. I get antisocial. I get the urge to start using again, although I know that if I do, it will only make things worse so I don't. I take comfort in smaller things. Usually stuff like videogames and youtube videos. Anyone have anything similar?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions experiencing depression, craving salty foods, increased masturbation, desire to stay in bed, social withdrawal, and the urge to use substances. These factors indicate a potential risk of perceived burdensomeness, which is a known component of depression and can be associated with suicidal ideation.
+

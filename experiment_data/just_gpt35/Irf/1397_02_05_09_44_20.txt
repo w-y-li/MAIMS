@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Life just hasn‚Äôt been enjoyable for me anymore, I did attempt hanging myself a year ago but failed. I was going to jump off a roof after that but my grandparents by a miracle called me before it to wish me a good weekend and I couldn‚Äôt bring myself to hurt them immediately after that. I was going to wait for them to die but I don‚Äôt think I can go on longer, there‚Äôs a shotgun in my house and it seems like the best getaway option. I don‚Äôt feel loved but at the same time I haven‚Äôt brought myself to end it because i‚Äôm scared i‚Äôll hurt someone. Everything is just too much, i‚Äôm not doing it tonight but it‚Äôs going to happen this year.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the individual feels like a burden to others and expresses thoughts of not wanting to hurt others but still contemplating suicide.
+

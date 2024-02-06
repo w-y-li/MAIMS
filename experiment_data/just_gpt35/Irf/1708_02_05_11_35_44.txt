@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  *Posting on behalf of friend* Basically I'm perpetually sad, but for no apparent reason (I work a lot at 17, but that seems normal) I think suicide is a valid option, as I would be at peace, but I do not want to commit suicide due to friends and family feeling bad. I also feel lonely, even around friends and family which leads to me think this is depression. Is this depression, or is this just a phase? Thanks for reading.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of loneliness and a desire for belonging, which are indicators of thwarted belongingness.
+

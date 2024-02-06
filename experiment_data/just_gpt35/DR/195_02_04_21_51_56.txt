@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  It’s just grey Everyone around me treats me like dirt. I’m my friends personal punching bag, my parents hate me, the love of my life essentially uses me... everything seems so bleak all the time. Like just an endless void of hurting and I have no idea what to do or who to turn to. I had friends that would try to help me but idk if they just got sick of me not getting any better or if I was a bad friend or what... I’m only 17 but I’ve felt this meaninglessness since I was eight. It’s one of the few things I even remember from back then. I’m very strongly Christian but even then I feel like God made me on accident. Like my entire existence is a mistake. I don’t know what to do.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster describes feeling hopeless, having a bleak outlook, being treated poorly by others, feeling like a mistake, and experiencing meaninglessness for a long time. These are common symptoms associated with depression.
+

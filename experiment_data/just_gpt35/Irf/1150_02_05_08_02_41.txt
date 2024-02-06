@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôm hoping there‚Äôs an active forum somewhere online I can chat with others at. Talking to someone 1 on 1 on reddit has always bothered me, so I appreciate anyone who offers but I‚Äôm definitely looking more for a casual group setting so I don‚Äôt feel like I‚Äôm the center of attention. I may feel like I want to die but I‚Äôm definitely not going to do it tonight, others could use the help.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a desire for social connection and a preference for group settings, suggesting a need for belongingness. The mention of feeling like wanting to die but not taking immediate action may also indicate a sense of isolation or disconnect from others, further highlighting the risk of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I fucking whine and moan about how I want to kill myself, but I know I'm too pussy to actually fucking do it. I'm an asshole who people don't like. You've made nobodies 2016 better, and nobody wants you in there 2017. Nobody invited you to a party, nobody ever will. You're pathetic. Why would people want to be with a sad sack of shit who has no positive qualities. I have nothing I'm good at, and the one thing I'm interested in I absolutely blow at. I'm a loser. Nobody loves you, hell, nobody even *likes* you. You're garbage. You're a fucking idiot. I hate you so much, I hate that you can't even kill yourself. Fuck you and everything you stand for: whining, complaining, cynicism, pessimism. All you do is bring and tear people down. Why is the only time you can be fun and happy and optimistic are when you're drunk? Fuck I suck. I hate myself so much. Here's to another garbage fucking year, hopefully I don't live to see the end of it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, self-hatred, and thoughts of suicide, which are associated with perceived burdensomeness.
+

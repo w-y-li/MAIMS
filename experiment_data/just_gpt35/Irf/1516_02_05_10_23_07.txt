@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  hopefully this is my last new years alive so yay. i should celebrate  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a desire for the last New Year celebration, which could imply a feeling of disconnect or lack of belongingness to others. This feeling of isolation might indicate a risk of thwarted belongingness.
+

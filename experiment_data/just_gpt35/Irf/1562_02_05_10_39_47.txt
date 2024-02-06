@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I have never felt so bad, I'm feeling like going to the bathroom and poisoning myself instantly since I'm finally brave enough to kill myself. I have no one, Fucked up my future, disappointed my parents and family (many times), I'm useless and all I do is, is to waste space. Got no one to talk to except some good internet friends, I might finally kms now.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of isolation and loneliness, stating that the person has no one to talk to except for internet friends. They also express feeling useless, like a waste of space, and mention disappointments involving their family. These feelings of social disconnection and lack of belongingness suggest a risk of thwarted belongingness, which is a common factor in suicidal ideation.
+

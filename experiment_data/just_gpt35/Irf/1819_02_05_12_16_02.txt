@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I have never felt this broken before. My girlfriend and I broke up over a month ago and it hasn't gotten any better. It's probably gotten worse to be honest, going through the holidays alone when I could've had someone with me. I should be feeling great about my life, I'm about to graduate college and begin the next phase of my life. Except I'm not. I don't feel excited about anything anymore. The only thing that routinely makes me happy is my cat, but he isn't enough. I used to be an optimist about nearly everything but I just can't do it anymore. It's hard to be optimistic about the future when your field of study is all about the environment and the incoming administration doesn't give a damn about it. I don't feel like myself. I find joy in making other people happy and all I've been able to do lately is bemoan to them about my problems. I don't feel anything anymore and randomly break down and cry. Sorry for the rant, just wanted to get this out to someone that I haven't already told dozens of times.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual feels like a burden to others as they mention feeling guilty for bemoaning their problems to others. They also express a lack of excitement about the future, which may indicate feelings of hopelessness and further reinforce the perception of being burdensome.
+

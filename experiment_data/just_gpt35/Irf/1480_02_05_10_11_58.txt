@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I make fun of my friend for being skinny and punch her around. I jab at my other friend everytime she makes a little mistake. I'm an asshole. I just make fun of people out of instinct, and complain when people do the same to me. I'm a toxic ass hypocrite. yet I complain, sit on my ass, and don't change. ironic.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a pattern of engaging in harmful behavior towards others, including physical aggression and mocking. This can suggest a lack of empathy and difficulty in forming and maintaining positive relationships, which is a risk factor for thwarted belongingness.
+

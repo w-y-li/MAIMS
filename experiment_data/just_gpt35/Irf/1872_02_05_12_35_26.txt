@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I tried. I did my best. I loved him with all my heart and soul. But it wasn‚Äôt enough. I can‚Äôt live through another heartbreak. I chose not to. I have nothing left. I am hollow. He was my happiness. My joy in life. My soulmate. My heart is shattered into a million pieces. I can‚Äôt do this without him.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of extreme loneliness and despair, highlighting a deep sense of belonging to the person mentioned. The individual mentions that they cannot live through another heartbreak and feel hollow without their loved one, suggesting a risk of thwarted belongingness.
+

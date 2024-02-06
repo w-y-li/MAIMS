@@ -1,0 +1,158 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  dealing with an emotionally unavailable best friend I see my best friend a lot. I dont wear my heart on my sleeve but I'm emotional. I definitely give too much in a relationship and end up getting hurt because of it. My friend has troubles expressing her emotions and generally gets very annoyed when she has to  prove herself  because she feels like people should just trust her. She doesn't have many friends because of this. I always express my irrational feelings but when shes angry she doesnt want to say anything because she doesnt want to hurt me. I don't want her to hold anything in but I know that I would suffer because of the truth. How do I balance our give and take? Is there anyway I can help her open up? Or is that impossible?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The post mentions that the poster gets hurt because of giving too much in a relationship and expresses irrational feelings. These are signs that the poster often feels sad.'])
+('2', ['indirectly_mention', "I feel discouraged about my future.###The post mentions that the poster's friend has troubles expressing her emotions and feels annoyed when she needs to prove herself. This can lead the poster to feel discouraged about their future interactions and the potential for emotional connection."])
+('3', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to past failures. The focus is on the dynamics of the friendship and the emotional availability of the best friend."])
+('4', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to loss of pleasure. The main concern is about balancing the give and take in the friendship and helping the emotionally unavailable friend to open up."])
+('5', ['indirectly_mention', "I feel quite guilty most of the time.###The post mentions that the poster 'always express irrational feelings' but is afraid of suffering because of the truth. This suggests a potential guilt and self-blame for expressing their emotions, which is why I feel quite guilty most of the time."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to punishment feelings. There is no mention or indication of feeling punished in any way, so I cannot deduce an answer to this question."])
+('7', ['indirectly_mention', 'I feel the same about myself as ever.###The post mentions that I am emotional and give too much in relationships, which indicates that I may feel the same about myself as ever.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The post mentions that I always express my irrational feelings and that I would suffer because of the truth. This suggests that I may be more self-critical than usual in this situation.'])
+('9', ['directly_mention', 'I cry more than I used to.###The post states that I am emotional and I express my irrational feelings. This implies that I cry more than I used to because crying is often associated with expressing emotions.'])
+('10', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to suicidal thoughts or wishes. Therefore, it doesn't mention this question at all."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to agitation or restlessness."])
+('12', ['indirectly_mention', 'I feel less interested in other people or things than before.###The post mentions that the friend has troubles expressing her emotions and does not have many friends. This indicates a potential loss of interest in other people or activities.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to indecisiveness."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feelings of worthlessness."])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post mentions that the poster feels like they give too much in a relationship and end up getting hurt because of it. This could contribute to a loss of energy as constantly giving too much can be emotionally draining.'])
+('16', ['directly_mention', "I have not experienced any change in my sleeping pattern.###The post mentions that the poster always expresses their irrational feelings, but their friend doesn't want to say anything when she's angry in order to not hurt the poster. There is no mention of any change in the poster's sleeping pattern."])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post mentioned that the poster gives too much in a relationship and ends up getting hurt because of it. This suggests that the poster may be more irritable than usual due to the emotional strain in the relationship.'])
+('18', ['indirectly_mention', "My appetite is somewhat less than usual.###The post mentioned that the poster doesn't want the friend to hold anything in but is afraid of suffering because of the truth. This suggests that the poster may have some changes in appetite, as they may feel anxious or depressed about the potential hurtful truth."])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###The post specifically mentions that the friend has trouble expressing emotions and gets annoyed when she has to prove herself. This suggests that the friend may have difficulty concentrating on her emotions and expressing them.'])
+('20', ['directly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post mentions that I give too much in a relationship and end up getting hurt because of it. This implies that I may be experiencing fatigue from investing too much emotional energy in relationships.'])
+('21', ['directly_mention', 'I have not noticed any recent change in interest in sex.###The post does not mention anything related to changes in interest in sex.'])
+Do MS Check Record:
+('1', ['Correct', "Ensure that your interpretations remain consistent with the content and implications of the post, as you've done here by correlating the poster’s feelings of getting hurt and emotional expressions with experiencing sadness."])
+('2', ['Incorrect', "Avoid projecting feelings onto the poster that are not clearly implied by the post. Here, focus more on what the poster directly expresses about themselves rather than their perceptions or speculations about their friend's feelings and behaviors."])
+('3', ['Correct', 'Continue to analyze the content with respect to the question asked, and avoid making assumptions beyond what is stated.'])
+('4', ['Correct', 'Keep your analysis specific to the content provided and maintain an objective stance unless the post gives clear indications of the topic in question.'])
+('5', ['Incorrect', 'Consider the specific context and emotional expressions described in the post. Avoid inferring guilt without clear evidence. Focus on the statements made by the poster concerning their feelings and use those to address the question on guilty feelings.'])
+('6', ['Correct', 'Your approach to answering the question was appropriate given the absence of explicit information in the post regarding punishment feelings. Continue to differentiate between information that can be analyzed and that which cannot be inferred.'])
+('7', ['Incorrect', 'Examine the post for explicit self-referential emotions or statements. The post does not provide evidence of persistent self-dislike; focus on identifying direct or implied information related to the construct of the question.'])
+('8', ['Incorrect', 'Assess whether the feelings described in the post are generalized self-accusations or context-specific reactions. The evidence in the post suggests situational self-criticism rather than an overall increase in self-blaming behavior.'])
+('9', ['Incorrect', 'Review the post for indicators of emotional expression, not direct mentions of crying; correlate emotional tendencies with potential changes in behavior.'])
+('10', ['Correct', 'Maintain critical analysis of the post content; statements about suicide should be identified explicitly before making any inferences.'])
+('11', ['Correct', 'Ensure that you carefully consider whether the post explicitly mentions the concept in question or if it can reasonably imply it without making unwarranted assumptions.'])
+('12', ['Incorrect', 'Be cautious not to overinterpret the information in the post. Stick to the presented facts and avoid inferring psychological states that are not clearly indicated by the poster.'])
+('13', ['Correct', 'Good job identifying the absence of information related to indecisiveness. Continue to carefully analyze the text and base your responses strictly on available information.'])
+('14', ['Correct', "Your assessment is accurate. The post doesn't discuss feelings of worthlessness. Be cautious not to infer unwarranted details that are not present in the post."])
+('15', ['Incorrect', "Review the post for emotional cues that align with energy levels without assuming feelings that aren't explicitly stated."])
+('16', ['Correct', 'Continue to differentiate between explicitly stated information and assumptions. Avoid inferring beyond the provided details.'])
+('17', ['Incorrect', "Avoid making assumptions about the poster's emotional states that are not directly supported by the content of the post. In this case, the poster discusses emotional giving and receiving in a relationship, not their own irritability. Focus on the information given and do not extrapolate beyond what is evident."])
+('18', ['Incorrect', "Do not infer changes in appetite from emotional experiences unless there is explicit evidence in the post. Anxiety about the truth from a friend does not necessarily imply changes in one's appetite. Be cautious of overgeneralizing from the information provided."])
+('19', ['Incorrect', "Re-evaluate the content of the post and focus on the details provided by the poster about their own experiences, rather than inferring issues about concentration based on the friend's behavior. Concentration difficulty must relate directly to the poster, not the friend."])
+('20', ['Incorrect', "Consider the specifics of the poster's expressions about their own feelings of being hurt and avoid extrapolating those feelings into symptoms like fatigue without explicit evidence from the post."])
+('21', ['Incorrect', 'Review the post for explicit information before making inferences about topics not directly mentioned. Stay objective and base your answers only on given information.'])
+
+ITER 1
+Do MS Record:
+('2', ['directly_mention', 'I feel discouraged about my future.###The poster mentions that they give too much in a relationship and end up getting hurt because of it. This suggests that they may feel discouraged about their future relationships.'])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to guilt or guilty feelings."])
+('7', ['indirectly_mention', 'I criticize myself for all of my faults.###The poster mentions that they always express their irrational feelings, indicating a tendency towards self-criticism. They also mention being hurt in relationships, suggesting that they may blame themselves for these negative experiences.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any explicit or implicit information regarding self-dislike."])
+('9', ['directly_mention', 'I do not have any thoughts of killing myself.###The post does not mention any thoughts of killing oneself.'])
+('12', ['indirectly_mention', 'It is hard to get interested in anything.###The post mentions that the friend has troubles expressing her emotions and gets annoyed when she has to prove herself. This suggests a lack of interest in social interactions and an emotional disengagement.'])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post mentions that the poster gives too much in a relationship and ends up getting hurt because of it. This suggests that the poster is expending a lot of emotional energy, which could lead to a decreased overall energy level.'])
+('17', ['directly_mention', 'I am more irritable than usual.###The post mentions that the friend gets very annoyed when she has to prove herself. This indicates a heightened irritability in certain situations.'])
+('18', ['indirectly_mention', 'My appetite is much less than before.###The poster mentioned that they give too much in a relationship and end up getting hurt because of it. This indicates that they may be experiencing emotional distress, which can sometimes lead to a decrease in appetite.'])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###The poster mentioned that their friend has troubles expressing emotions and gets very annoyed when they have to prove herself. This can create a stressful environment and difficulty in focusing for both the poster and their friend.'])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to tiredness or fatigue."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+('2', ['Incorrect', 'Reassess the content for implicit emotional cues that could indicate pessimism.'])
+('5', ['Incorrect', 'Consider the context in which guilt might not be directly stated but could be inferred.'])
+('7', ['Correct', 'Continue to analyze posts for emotional cues that may not be explicitly stated, and to connect these cues to relevant aspects of psychological scales.'])
+('8', ['Incorrect', "Look for implicit content related to the scales' questions. Although the post doesn't explicitly mention self-accusations, aspects such as getting hurt in relationships and giving too much may hint at a predisposition towards self-blame. Analyze the emotions and behaviors described in the post for subtler indications of the scale's concepts."])
+('9', ['Incorrect', 'Ensure to examine the content closely for any explicit or implicit mention related to the question. If the post does not explicitly address suicidal thoughts or wishes, do not infer it does. Stay objective and avoid adding details not present in the original post.'])
+('12', ['Incorrect', "Avoid making inferences about the poster based on descriptions of others. Focus on what the post reveals about the poster's own experiences and feelings, rather than the attributed characteristics of friends mentioned in the post."])
+('15', ['Correct', 'Make sure to connect your reasoning to specific parts of the post, as you did by linking the feeling of giving too much and getting hurt to a loss of energy. Keep providing evidence from the post for your answers.'])
+('17', ['Incorrect', 'Remember not to over-infer based on the behavior of someone else mentioned in the post. Focus on what the poster is expressing about themselves. In this case, reassess if the poster has described their own irritability or if it’s a characteristic of their friend.'])
+('18', ['Incorrect', "Your inference about the poster's appetite is speculative based on their emotional state, not directly from the post. Focus on the information given and avoid making assumptions about aspects like eating behaviors unless explicitly mentioned."])
+('19', ['Incorrect', 'The poster does not specifically mention having concentration difficulties. Be cautious not to overgeneralize or infer issues like concentration difficulty without clear evidence from the post.'])
+('20', ['Incorrect', 'Even though the post does not explicitly mention tiredness or fatigue, you can deduce certain feelings based on the context. The emotional investment and mention of getting hurt suggests a level of emotional fatigue. Analyze the post for implied sentiments that relate to the question.'])
+('21', ['Incorrect', "The absence of a direct statement about changes in interest in sex does not mean the question should be dismissed. Reflect on how emotional challenges can indirectly affect one's sexual interest. For example, dealing with an emotionally unavailable friend could influence the poster's overall emotional state, which, in turn, might affect their sexual interests."])
+
+ITER 2
+Do MS Record:
+('2', ['indirectly_mention', 'I feel discouraged about my future.###In the post, the person mentions that they give too much in a relationship and end up getting hurt because of it. This suggests a sense of discouragement and pessimism about their future relationships.'])
+('5', ['directly_mention', 'I feel guilty all of the time.###The person explicitly mentions that they always express their irrational feelings and fear that if their friend were to open up, they themselves would suffer because of the truth. This constant expression of irrational feelings and fear suggests a persistent sense of guilt.'])
+('8', ['directly_mention', 'I do not criticize or blame myself more than usual.###The post mentions that the poster gives too much in a relationship and ends up getting hurt because of it. This suggests that the poster does blame themselves to some extent, but it does not state that it is more than usual.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes."])
+('12', ['directly_mention', "I have lost most of my interest in other people or things.###The poster mentions that they always express their irrational feelings, but when their friend is angry, they don't want to say anything because they don't want to hurt the poster. This suggests that the poster might have lost most of their interest in other people or things, as they prioritize their friend's emotions over their own."])
+('17', ['directly_mention', 'I am more irritable than usual.###The post mentions that the friend gets very annoyed when she has to prove herself, which suggests that there might be some irritability in their relationship. Additionally, the poster expresses that they constantly give too much in a relationship and end up getting hurt, which implies a certain level of irritability on their part. Therefore, it can be inferred that the poster is more irritable than usual.'])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to changes in appetite."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to concentration difficulties."])
+('20', ['indirectly_mention', 'I am less interested in sex than I used to be.###The post mentions that the poster gives too much in a relationship and ends up getting hurt because of it. This emotional investment and the resulting emotional fatigue may indirectly affect their interest in sex.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention tiredness or fatigue explicitly, nor does it provide any information that can help me deduce the answer to this question."])
+Do MS Check Record:
+('2', ['Incorrect', 'Avoid inferring emotions not directly expressed in the post. Focus on the information given; the poster discusses being hurt, but does not necessarily express pessimism about their future. Analyze the content for direct hints of pessimism before making this assumption.'])
+('5', ['Incorrect', "Carefully distinguish between guilt and other emotions. The poster communicates a potential for feeling hurt by the truth, which is different from feeling guilty 'all of the time.' Focus on identifying explicit evidence of guilt in the post and do not overgeneralize the emotional state of the poster."])
+('8', ['Incorrect', 'Reflect on the text to determine where the poster implies self-blame. Recognize that disclosing feelings of being hurt by giving too much indicates a tendency to self-accusation. Your answer should acknowledge this aspect.'])
+('9', ['Correct', 'Maintain vigilance for any content hinting at self-harm. As the post does not allude to suicidal thoughts, your response is appropriate. Continue to differentiate between emotional distress and suicidal ideation.'])
+('12', ['Incorrect', "Review the post for explicit statements about loss of interest rather than infer based on the dynamics with the friend. Stick to information directly pertaining to the poster's own feelings and behaviors."])
+('17', ['Incorrect', "Focus on the poster's description of their own feelings. Do not infer irritability without direct evidence from the poster's behaviors or emotions."])
+('18', ['Correct', 'Good observation on the absence of information regarding appetite changes. Always keep in mind not to infer beyond the given details.'])
+('19', ['Correct', 'Correct in noticing the lack of data on concentration difficulties. Remember to focus on the content of the post and avoid assumptions.'])
+('20', ['Incorrect', 'Reexamine indirect cues within the post that may pertain to the question, such as emotional strain potentially leading to fatigue.'])
+('21', ['Correct', 'Maintain careful analysis in distinguishing between absence of information and information that is implicitly connected to the question.'])
+
+ITER 3
+Do MS Record:
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything regarding pessimism, so I cannot provide an answer."])
+('5', ['indirectly_mention', "I feel quite guilty most of the time.###Although the post does not explicitly mention feeling guilty, the poster states that they always express their irrational feelings. This implies that they may feel guilty for expressing these emotions. However, it is important to note that the post does not provide enough evidence to conclude that the poster feels guilty 'all of the time'."])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The post mentions that the poster gives too much in a relationship and end up getting hurt because of it. This implies self-criticism and self-blame for getting hurt when giving too much.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the poster's interest in other people or activities. There is no mention of a loss of interest."])
+('17', ['directly_mention', 'I am more irritable than usual.###The poster mentions that they always express their irrational feelings, which suggests they may experience heightened irritability.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The poster mentions that they give too much in a relationship and end up getting hurt. This can lead to emotional strain and fatigue.'])
+Do MS Check Record:
+('2', ['Incorrect', "Be mindful not to dismiss content too quickly. Analyze subtleties within the post that may relate to the questioned trait. For pessimism, consider how the poster's experiences and expressions could influence a pessimistic view."])
+('5', ['Correct', 'Good job inferring feelings of guilt from the context provided. However, ensure to avoid overgeneralization and be specific about the degree to which the poster feels guilty, based on the information available.'])
+('8', ['Correct', 'Ensure to incorporate implicit information from the post that hints at self-assessment and self-criticism. Continue recognizing subtle cues that address the scale question.'])
+('12', ['Incorrect', 'Consider all aspects of emotional experiences presented in the post, including those not directly related to the main issue. Reflect on how being emotionally invested may affect broader areas of interest, and use this to infer if a loss of interest in general could be related.'])
+('17', ['Incorrect', 'Revisit the original post and look for explicit evidence of irritability. Emotional expression does not necessarily equate to irritability.'])
+('20', ['Incorrect', 'Consider the context of tiredness in relation to physical versus emotional exhaustion. Look for more direct indications of fatigue impacting daily activities in the post.'])
+
+ITER 4
+Do MS Record:
+('2', ['indirectly_mention', 'I have lost most of my interest in other people or things.###The post mentions that the friend has troubles expressing her emotions and gets very annoyed when she has to prove herself, which can lead to difficulties in forming and maintaining friendships. This suggests a loss of interest in other people.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything that directly relates to Pessimism."])
+('17', ['indirectly_mention', "I am more irritable than usual.###The post mentions that the friend gets very annoyed when she has to prove herself and doesn't have many friends because of it. This suggests a level of irritability that goes beyond the usual."])
+('20', ['not_mention', "Doesn't mention at all.###There is no mention of tiredness or fatigue in the post. The post mainly focuses on emotional dynamics and interpersonal relationships."])
+Do MS Check Record:
+('2', ['Incorrect', 'Review the content of the post for specific emotional cues and compare them with the psychological construct of pessimism without over-inference or assumptions. Focus on the stated facts and behaviors only.'])
+('12', ['Correct', 'Good job on not inferring loss of interest from the post. However, ensure to base your analysis on the information within the post concerning the poster, not just the absence of information.'])
+('17', ['Incorrect', 'Reassess the content for emotional tone and effect rather than explicitly stated emotions to infer irritability levels.'])
+('20', ['Correct', 'Continue focusing on what is explicitly mentioned in the post, avoiding assumptions about unstated feelings such as tiredness or fatigue.'])
+
+ITER 5
+Do MS Record:
+('2', ['directly_mention', 'I feel discouraged about my future.###The poster mentions that they give too much in a relationship and end up getting hurt because of it, indicating a feeling of discouragement about their future relationships.'])
+('17', ['indirectly_mention', "I am more irritable than usual.###The poster mentions that their friend gets very annoyed when she has to prove herself and that the poster doesn't want to know the truth because they would suffer. These statements imply a higher level of irritability in both individuals compared to usual."])
+Do MS Check Record:
+('2', ['Incorrect', "Review the post to assess emotions specific to the poster. Focus on the poster's expressed experiences rather than assuming future feelings."])
+('17', ['Incorrect', 'Carefully distinguish between the emotions of the poster and their friend. Do not infer irritability in the poster without direct evidence.'])
+
+ITER 6
+Do MS Record:
+('2', ['directly_mention', 'I feel I have nothing to look forward to###In the post, I mentioned that I give too much in relationships and end up getting hurt. This shows a sense of hopelessness and feeling like there is nothing to look forward to in the future.'])
+('17', ['not_mention', "Doesn't mention at all.###The post does not provide any information that can help me deduce the answer to this question."])
+Do MS Check Record:
+('2', ['Incorrect', "Although pessimism is not directly expressed in the post, a feeling of hopelessness could be inferred from the phrase 'I definitely give too much in a relationship and end up getting hurt because of it.' Advise the student to look for indirect cues and underlying emotions that could indicate pessimism."])
+('17', ['Correct', 'Good restraint shown by not inferring irritability when the post does not provide clear indications of this trait. In the future, continue to differentiate between what is explicitly stated and what is speculative.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the mental scale indicate symptoms of depression, such as feeling sad much of the time, feeling guilty most of the time, self-criticism or blaming, and having less energy than before.
+
+Correct
+Ensure to differentiate between the emotions and behaviors of the poster and those of the people around the poster. In this case, continue to carefully analyze the information provided by the poster in the context of relevant scales or questionnaires to make informed evaluations about their mental health without overgeneralizing or making assumptions not supported by evidence. Keep using direct responses from the poster to substantiate your conclusions, as was done here.

@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I wish drugs weren't a temporary solution  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post suggests an awareness of the temporary nature of drugs as a solution, indicating a desire for a more long-term and effective solution. This does not necessarily indicate depression but may suggest frustration or dissatisfaction with using drugs as a temporary fix.
+

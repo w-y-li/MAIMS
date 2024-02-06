@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Does anybody feel like their life is meaningless if they don’t have a relationship or crush In my opinion it feels like love is the only medicine strong enough to cure my depression. Whenever I’m in love or lust I’m on top of the world I feel so good everything feels great, but once something happens to it I fall down this hole and my depression comes back even stronger. I need to learn to be their for me to grow love for myself. That almost seems impossible but I won’t give up and I’m going to work on becoming a better me. Better for myself, better for my life, and kicking my depression away once and for all.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling depressed and describes their depression coming back even stronger when something happens to their relationship or crush. They also express the need to learn to love themselves and the goal of kicking their depression away once and for all, indicating they are struggling with depression.
+

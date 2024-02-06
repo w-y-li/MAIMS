@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  All these people lying to me and going behind my back every day has made me bitter and cold. I really miss the feeling of meeting someone new and being interested but I just assume the worst in people and can‚Äôt seem to be happy in a relationship. Anyone else agree!??  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post reflects a sense of bitterness and mistrust towards others, along with difficulty in forming and maintaining relationships. This suggests a possible risk of thwarted belongingness, which refers to the perception of not belonging or experiencing rejection from others.
+

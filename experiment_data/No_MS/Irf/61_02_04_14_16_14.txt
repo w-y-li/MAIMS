@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  No one loves me, I have no friends, I'm spending new years alone in my bed. I refuse to take my anti depressants because I'm scared they will make me happy and I don't deserve happiness because i'm an awful person and everyone leaves me.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a belief of being an awful person and feeling undeserving of happiness. This suggests a risk of perceived burdensomeness, as the poster may perceive themselves as a burden to others and feel that their presence in others' lives is unwanted.
+
+Correct
+Great job in identifying the risk of perceived burdensomeness based on the poster's expressions of feeling unworthy of happiness and seeing themselves as a burden. Continue to base your assessments on explicit information provided in the post, and be cautious not to infer beyond the provided information.

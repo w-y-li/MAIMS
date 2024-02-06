@@ -1,0 +1,78 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  i hate how i isolate myself and then complain i hate myself since i know what i have to do but i cant choose it because i seem to love being sad / depressed i hate myself since i cant self harm like i desire i hate myself since i cant go back and change what has happened i hate myself since i put myself in these situations i hate myself since i just hate myself why cant i just die.. nobody would care if it happened this cruel world is sickening and i just wish i could put everyone that's made all of us suicidal on suicide watch. i hate the human race so much like i dont even know how i feel anymore all i know is sadness at the moment and pretending to be happy on the internet. like ive tried co2 poisoning for a short period of time with a towel covering my nose and mouth but i got scared and i didnt want anyone walking in on me attempting since i dont have my own room. i just wish i was able to do what many of you brave souls have realized on this reddit nobody understands at all and im just confused at the moment i dont even know why i wrote this but i hope you have a good new year. if you wasted your time reading this im sooo sorry please please pleaseee just try to get the time you spent on this back.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Very true for me###In the post, I mentioned that nobody would care if I died, and I expressed a desire for death. This indicates that I believe the people in my life would be better off without me.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any information that directly or indirectly implies whether the people in my life would be happier without me. It solely focuses on my self-hatred and desire for death."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions feelings of self-hatred and a desire to die. This suggests that the poster may feel like a burden on society and believes their death would be a relief to others.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention the impact of the poster's death on the people in their life."])
+('5', ['directly_mention', 'Very true for me###The post expresses a strong feeling of being unwanted and disliked by others, indicating that the person believes the people in their life wish they could be rid of them.'])
+('6', ['directly_mention', 'Very true for me###The post implies that the person feels they make things worse for the people in their life and expresses self-blame by saying they put themselves in difficult situations. This suggests that they believe they make things worse for others.'])
+('7', ['not_mention', "Doesn't mention at all.###The post does not contain any information related to whether other people care about me or not."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not contain any information related to feeling like I belong or not."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything about interacting with people or having caring and supportive friends. It focuses more on the poster's feelings of self-hatred and isolation."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having many caring and supportive friends. It primarily expresses feelings of sadness, self-hatred, and a desire for death."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feelings of isolating oneself and feeling disconnected from others, which indicates a sense of disconnection from other people.'])
+('12', ['indirectly_mention', 'Very true for me###The post mentions feeling like an outsider in social gatherings, which indicates a sense of feeling disconnected from social interactions and gatherings.'])
+('13', ['directly_mention', 'Not at all true for me###The post mentions feeling isolated, complaining about oneself, and hating oneself. This suggests a lack of support or people to turn to in times of need.'])
+('14', ['directly_mention', 'Not at all true for me###The post expresses a sense of isolation, sadness, and a feeling of not being understood, which indicates a lack of closeness to other people.'])
+('15', ['directly_mention', 'Not at all true for me###The post mentions feeling isolated and complaining about hating themselves, which indicates a lack of satisfying interactions.'])
+Do MS Check Record:
+('1', ['Correct', "You conducted a careful analysis of the posted message and correctly identified the theme of the poster feeling as though nobody would care if they were gone. Your answer reflects an understanding of the poster's mindset regarding their perceived lack of worth. Keep up the methodical approach in connecting post content to mental scale questions."])
+('2', ['Incorrect', 'Although the post does not explicitly state that people would be happier without the poster, it does convey a sense of self-loathing and the belief that their existence is a burden to others. Based on this, infer that the poster might also think that people would be happier without them. Look deeper into the sentiment of the post to guide your answers on related questions.'])
+('3', ['Incorrect', 'Revisit the post and pay closer attention to the expressed feelings of self-hatred and implications that the poster sees themselves negatively impacting others. Link these sentiments to the question about being a burden to society, as both are related to feelings of self-worth and the impact on others.'])
+('4', ['Correct', "While the student's analysis is correct in stating that the death's impact on others is not mentioned, the student could further elaborate by connecting the poster’s desire for non-existence and feelings of self-hatred to how they perceive their presence affects the people in their life."])
+('5', ['Correct', 'Ensure you continue to identify explicit statements that align with the questions from the mental scale, as done correctly here.'])
+('6', ['Correct', "Good job on interpreting self-deprecating statements to infer the beliefs about the person's impact on others. Maintain attention to detail in such expressions."])
+('7', ['Incorrect', 'Even though the post explicitly does not mention others caring, the overall tone and content imply a strong sense of isolation and neglect which can be interpreted as feeling uncared for. Reassess the content and infer more deeply about the implications of the expressed feelings.'])
+('8', ['Incorrect', 'The poster expresses a deep sense of isolation and self-hatred, which suggests feelings of not belonging. Use context clues to infer underlying emotions and potential beliefs about belonging, rather than looking for explicit mentions.'])
+('9', ['Incorrect', 'Consider the emotional tone and context of the post to infer the level of interaction with caring people. The tone suggests a feeling of isolation; reflect this in your answer.'])
+('10', ['Incorrect', "Though not explicitly mentioned, the post's sentiment implies a lack of supportive relationships. Use this to infer a likely lack of caring friends."])
+('11', ['Correct', "You successfully identified the connection between the poster's expression of isolation and the feeling of disconnection from others. Keep using the content of the post to support your answers."])
+('12', ['Incorrect', 'The poster does not directly mention feeling like an outsider in social gatherings. Avoid inferring feelings not explicitly stated in the post. Focus more on the content provided and look for clear indicators relating to the question.'])
+('13', ['Correct', 'Continue utilizing direct statements from the post to inform your answers, ensuring they are specific to the questions from the mental scale.'])
+('14', ['Correct', "Maintain careful analysis of the sentiments expressed in the posts to accurately represent the poster's likely feelings about relationships with others."])
+('15', ['Incorrect', 'Re-examine the post for any direct or indirect references to satisfying social interactions rather than focusing solely on the expressed negative emotions.'])
+
+ITER 1
+Do MS Record:
+('2', ['indirectly_mention', 'Somewhat true for me###The post expresses a strong sense of self-hatred and a belief that the poster is a burden to others. It mentions how they isolate themselves, complain, hate themselves, and desire self-harm. These feelings suggest that the poster may believe that the people in their life would be happier without them, although it is not explicitly stated.'])
+('3', ['indirectly_mention', 'Very true for me###The post conveys a deep sense of self-hatred and guilt, mentioning how the poster puts themselves in negative situations and wishes they could change the past. This indicates that the poster may believe they are a burden on society, as they feel responsible for the difficulties they face and believe they should protect others from their presence.'])
+('7', ['indirectly_mention', 'Not at all true for me###The post mentions a strong sense of isolation, feeling uncared for, and wanting to die. These feelings suggest a lack of belief that other people care about the poster.'])
+('8', ['indirectly_mention', 'Not at all true for me###The post indicates a deep sense of isolation, self-hatred, and not wanting to belong. These feelings imply a strong belief that the poster does not feel like they belong to any group or community.'])
+('9', ['not_mention', "Doesn't mention at all.###There is no direct or indirect mention of the level of interaction with people who care about me in the post."])
+('10', ['indirectly_mention', 'Not at all true for me###The post expresses a sense of isolation and a lack of support from others, suggesting that the individual rarely interacts with people who care about them.'])
+('12', ['indirectly_mention', 'Not at all true for me###The post mentions isolating oneself and feeling like an outsider. Based on this information, it can be inferred that the poster may feel like an outsider in social gatherings. However, the post does not explicitly state this feeling.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention any satisfying interactions in daily life. It mainly focuses on feelings of sadness, isolation, and self-hate."])
+Do MS Check Record:
+('2', ['Correct', 'Ensure the answer maintains the focus on information provided in the post and continue to avoid inferring facts not presented, as was done effectively here.'])
+('3', ['Correct', "Well done on sensitively engaging with the content of the post. Remember to justify your interpretations with clear references to the post's content to support your viewpoint."])
+('7', ['Correct', 'Continue to analyze the emotions and context of the post to infer the feelings of the poster accurately. Beware of not projecting any additional negative traits onto the poster without textual evidence.'])
+('8', ['Correct', 'Maintain your focus on the expressed emotions related to isolation and belonging. Be careful not to overextend inferences that are not supported by the content of the post.'])
+('9', ['Incorrect', 'Review the post and consider the expressions of isolation and self-loathing as potential indicators of withdrawal from social support, suggesting that interaction with caring people may be minimal.'])
+('10', ['Correct', 'Keep looking beyond the direct message for contextual clues suggesting feelings of support. However, ensure that you do not over-infer beyond what is provided in the post.'])
+('12', ['Incorrect', 'Review the post for implicit emotional content that relates to the feeling of being an outsider. Consider the context of self-isolation when inferring feelings about social situations.'])
+('15', ['Correct', 'Continue to avoid inferring details not provided in the post and maintain focus on the information that is directly mentioned.'])
+
+ITER 2
+Do MS Record:
+('9', ['directly_mention', "Very true for me###The post mentions isolating oneself and feeling like an outsider in social gatherings, which implies a lack of interaction with people who care about them. This indicates that the answer to Question 9 is 'Very true for me'."])
+('12', ['directly_mention', "Very true for me###The post expresses feeling like an outsider in social gatherings, which suggests that the answer to Question 12 is 'Very true for me'."])
+Do MS Check Record:
+('9', ['Correct', 'Continue to carefully analyze the emotional content of the posts to accurately respond to the mental scale questions.'])
+('12', ['Correct', "Maintain your diligence in connecting the expressions of feelings in the post to the questions provided, ensuring accurate representation of the poster's stated emotions."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post demonstrates feelings of isolation, hatred of self, desire for self-harm, and a wish for death. The poster also expresses a hatred for the human race and a lack of understanding of their own feelings. These feelings of isolation, self-hatred, and a desire to be rid of oneself indicate a potential risk of thwarted belongingness.
+
+Correct
+The student correctly identified the presence of thwarted belongingness as evidenced by the poster's explicit statements of feeling disconnected, not cared for, and perceiving themselves as a burden. The poster's feelings of isolation and self-hatred align with the characteristics of thwarted belongingness. Remember to maintain objectivity, avoid over-inferencing, and base your conclusions strictly on the evidence provided in the post and the answered questions.

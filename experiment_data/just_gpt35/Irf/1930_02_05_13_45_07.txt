@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I hate college. I hate myself. I hate everyone else who attends my college. I wish I could just lay in my bed in my dorm room all day, so I would not have to see anybody or do anything. I have no passions or interests, only tasks that I must complete so that I can return to laying in my bed. I used to be a high achieving student in high school in academics and athletics. Now I am a washed up bum who can not perform the simplest of tasks correctly; I am so pathetic. I had such high hopes of using the ivy-league college I worked hard to get into as a spring board for a successful career, but I have already failed miserably. I do not have the skills one needs to make it in the real world. I feel so lethargic and weak. I struggle my way through sports practice everyday. I do not know how much longer I can keep going. I wish I could just disappear and never be seen by anyone again. I am a complete fucking failure.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of social isolation, hatred towards oneself and others, and a wishing for disappearance and avoidance from social interactions. These are common symptoms and indicators of thwarted belongingness, which refers to a perceived lack of social connection and belongingness to others.
+

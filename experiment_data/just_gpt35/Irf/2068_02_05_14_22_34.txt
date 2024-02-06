@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Hi, everyone. I thank you in advance for reading this post. I feel trapped, I don't know what to do. Today I realized the fact of no longer having a family. My mom has a really rare type of cancer, my dad abandoned us when I was 1 year old, so I don't know anything about him. I haven't graduated college yet, I work to sustain myself, pay rent and food, while trying to finish my career and get my degree. But, my extended relatives who used to support me financially (since my mom never did it) insulted me for not spengind New Year's Eve with them. I got to live in another city because of my studies, and I am glad because I don't live with them anymore. I didn't do it for the sake of my mental health, I constantly get verbally and physically abused by those relatives and that has been like that since I was born. My aunt even tried to kill me. They didn't care about my depression, anxiety or suicide attempts. Depression started for me since I was 12, today I am 22. I have battling with disease alone, no meds, got therapy just twice because I couldn't afford more, but still they say I have no right to complain since  they had horrible childhoods and I didn't have to sell anything on the streets . I am really scared because I am afraid of losing my job and I don't want them to hurt me. I don't know what to do if I lose my job, I don't have close friends and my boyfriend is poor and still lives with his parents Any advice or opinion? I need help. Thank you. :)  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation, lack of familial support, and experiences of abuse and neglect. The poster expresses feeling trapped and mentions having no close friends, which suggests a lack of belongingness and social support. These factors contribute to a higher risk of thwarted belongingness.
+

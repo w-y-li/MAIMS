@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  All these fucking people celebrating for no reason, setting off fireworks, and disturbing my life and depression. I hate other people. I am an outcast from society and everything about it pisses me off  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a strong sense of isolation, anger towards others, and feeling like an outcast from society. These feelings indicate a possible risk of thwarted belongingness, which refers to the perception of not belonging or lacking supportive relationships.
+

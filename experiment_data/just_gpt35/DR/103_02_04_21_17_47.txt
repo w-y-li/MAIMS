@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Birthday Vent I haven’t celebrated my birthday for years now. The most i’ve received is a happy birthday from my family, while the rest of my family gets full blown celebrations/dinners, etc. So considering everything I went into today expecting just the congratulations and that’s it, turns out my entire family went out to eat and celebrate the birthday of a family friend and left me behind. It hurt, but i guess people eventually get used to being ignored. Happy 20  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's feelings of being ignored, hurt, and the belief that people eventually get used to being ignored suggest a possible symptom of depression. Additionally, the lack of celebration and the contrast with the rest of the family's celebrations also indicate a potential depressive mood.
+

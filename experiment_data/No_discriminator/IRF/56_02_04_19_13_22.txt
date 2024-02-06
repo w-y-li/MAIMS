@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Long story short: In december I talked to my mother about how I feel and that I currently don't get my shit together; Mainly work. She asked whether it's ok if my family would know (If they asked questions after christmas etc) and I told her it would be ok. First thing she did was going to my aunt and telling her and now my whole family knows and everyone is super protective and sending help, which is exactely what I don't need. When I critizied her, she started the whole  everything I do is wrong -bullshit and now even my father called me, who is currently in hospital because of his weak heart and told me I should start using my brain. While I'm writing this my mother sits crying in the kitchen after she told me that she can't deal with this whole current situation and that I  don't live alone on this planet . I do the fuck not know how to deal with this shit either. Getting drunk now. Thx for reading.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention anything related to the question. There is no information that can help me make a deduction regarding the question."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention anything related to the question. There is no information that can help me make a deduction regarding the question."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling like a burden on society."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to thinking one's death would be a relief to others."])
+('5', ['directly_mention', "Not at all true for me###The post specifically mentions that my family is super protective and sending help, which indicates that they care about me and don't wish to be rid of me."])
+('6', ['directly_mention', "Not at all true for me###The post mentions that my mother told me she can't deal with the current situation and that I don't live alone on this planet, which suggests that I am not making things worse for the people in my life."])
+('7', ['directly_mention', 'Very true for me###In the post, I mentioned that my whole family knows about my situation and everyone is super protective and sending help. This indicates that other people care about me.'])
+('8', ['indirectly_mention', "Not at all true for me###Although the post doesn't directly mention feeling like I belong, the fact that my family knows about my situation and is being overly protective implies that I don't feel like I belong. If I felt like I belonged, I might not have expressed a desire for them to stop sending help. Therefore, it is likely that the statement 'Not at all true for me' reflects my feelings of belonging in this current situation."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to how often the poster interacts with people who care about them."])
+('10', ['indirectly_mention', "Somewhat true for me.###The post mentions that the whole family knows about the poster's situation and is sending help, which the poster mentions is exactly what they do not need. This implies that the poster may feel overwhelmed and not appreciate the level of care and support they are receiving."])
+('11', ['directly_mention', 'Very true for me###In the post, I mentioned that I feel disconnected from other people and it seems that I am not getting the support I need from my family. This suggests that I am feeling disconnected from others.'])
+('12', ['indirectly_mention', 'Somewhat true for me###Although the post does not explicitly state that I feel like an outsider in social gatherings, it does mention that my family is being super protective and sending help, which is something that I do not need. This implies a sense of being an outsider or not fitting in with my family.'])
+('13', ['indirectly_mention', 'Somewhat true for me###In the post, the poster mentioned that their family knows about their current situation and everyone is super protective and sending help. Although the poster expressed that this is not what they need, it can be inferred that they still feel that there are people they can turn to in times of need, albeit in a complicated and overwhelming manner.'])
+('14', ['indirectly_mention', 'Not at all true for me###The post suggests that the poster is not feeling close to other people at the moment. They mentioned how their mother criticized them and how their father told them to start using their brain, which can contribute to a sense of distance and lack of closeness with loved ones.'])
+('15', ['directly_mention', 'Somewhat true for me###In the post, I mentioned that my whole family knows about my situation and they are being protective and sending help. Although I mentioned that this is not what I need, it does indicate that my family is interacting with me and trying to support me.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a risk of thwarted belongingness because the poster expresses feeling disconnected from other people, feeling like an outsider in social gatherings, and not feeling close to other people. These feelings indicate a lack of connection and belonging, which are key components of thwarted belongingness.
+

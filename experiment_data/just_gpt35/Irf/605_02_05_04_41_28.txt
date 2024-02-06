@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Let me start by saying I'm not an addict, but it was my first time trying opiates. Everything was going fine until I started sweating buckets, getting an intense itch, throwing up, and falling in and out of consciousness. I was incredibly fucking stupid and irresponsible. But coming that close to death has shaken me to my core and I don't know how to handle it. I could've lost everything because of one night.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of perceived burdensomeness. The poster is expressing regret and fear after a dangerous experience with opiates, but does not indicate feelings of being a burden on others.
+

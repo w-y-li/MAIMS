@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  I have a friend who mentioned she wants to make new friends and when I made suggestions like getting a job would help her make some friends, she said she doesn't need my help or advice. Why would she bring it up if she didn't want some sort of reaction/ advice from me?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster does not mention any specific symptoms or behaviors indicative of depression. They are simply confused about their friend's behavior and seeking an explanation.
+

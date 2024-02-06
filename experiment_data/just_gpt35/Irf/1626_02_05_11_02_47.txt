@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  This week I‚Äôve been crying a lot and the thought of food makes me feel nauseated. I haven‚Äôt been in to work. How can I get myself to get up and try to live my life?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions crying, loss of appetite, and missing work, which could be indicators of thwarted belongingness and a feeling of isolation or disconnection from others.
+

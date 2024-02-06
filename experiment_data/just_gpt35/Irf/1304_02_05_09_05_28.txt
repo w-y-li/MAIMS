@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  There are very few songs that strike a chord with my for being sad enough anymore? SO many songs are entirely about breakups and sadness surrounding that, but I'm not sad about that? I don't know if this makes any sense - but it almost feels like there isn't much music relatable to how low and depressed I am over life?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a lack of connection or relatability to others, specifically in regards to feelings of low mood and depression. This may indicate a sense of thwarted belongingness, where the individual feels isolated and unable to find music or songs that accurately reflect their emotions and experiences.
+

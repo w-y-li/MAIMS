@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  school starts in 1 days,most important exam in my life that can effect how successful of a guy I am is coming in exactly 7 months,and here I am,haven't got my shit together,dealing with depressive thoughts,addicted to internet,and a overall anti social cuntsack wish me luck  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not explicitly mention feelings of isolation or exclusion from social relationships. The individual mentions being anti-social, but this does not necessarily indicate a risk of thwarted belongingness.
+

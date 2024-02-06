@@ -1,0 +1,28 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Welp, just got done with another batch of doctors visits and the results are in, I will be crippled for the rest of my life. But that's not what bothers me, I've had plenty of time to come to terms with my condition and the affect it will have on my quality of life and my life expectancy. What bothers me is the soul crushing loneliness, I havent had a girlfriend in years and I haven't been physically touched in what seems like forever. I spend all day in a shitty little side room by myself writing and hardly see hide nor hair of another person besides my dad most of the time. I'm pretty done with it all to be honest, I don't really see any reason to continue living like this.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden on others due to the physical condition and lack of social interaction, which suggests a risk of perceived burdensomeness.
+
+Incorrect
+Reassess the post carefully without inferring feelings of perceived burdensomeness unless explicitly stated by the poster. Focus on the information provided and avoid overgeneralization. The sense of loneliness and despair may point towards depressive symptoms but do not necessarily indicate a risk of perceived burdensomeness on others. Consider alternative interpretations and avoid assumptions about the poster's mental state regarding perceived burdensomeness without direct evidence from the post.
+
+ITER 1
+No
+The post does not explicitly mention or indicate a risk of perceived burdensomeness on others. The focus is on the individual's feelings of loneliness and despair, which may suggest depressive symptoms but not necessarily perceived burdensomeness.
+
+Incorrect
+Review the concept of perceived burdensomeness and its indicators. Consider how expressions of hopelessness, discussing the impact of one’s condition on life quality, and mentioning the lack of purpose could signal a sense of being a burden. Reflect on these aspects in the context of the poster's statement to provide a more nuanced analysis.
+
+ITER 2
+Yes
+The post indicates a sense of being a burden due to the mention of feeling crippled for life, the impact on quality of life, and lack of purpose. The poster expresses hopelessness and mentions a lack of physical touch and companionship, which could contribute to the perception of burdensomeness.
+
+Correct
+Ensure that your inferences about the poster's feelings of perceived burdensomeness are grounded in the information provided. In this case, you correctly identified the risk based on the poster's expression of hopelessness, lack of companionship, and statements about their physical condition and its impact. Future analyses should continue to be grounded in the content of the post without inferring beyond the provided information. Distinguish carefully between the poster's experiences and feelings and those of the people around them.

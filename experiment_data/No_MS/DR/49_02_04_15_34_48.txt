@@ -1,0 +1,21 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Does anyone else get droopy face When i feel extra crap (half the time) my face and eyelids feel heavy. I'm sure it's the mood cos i don't get it when I'm feeling ok. I used to get my whole body feeling like that when i was super depressed...  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling extra crap and experiencing a heavy droopy face when feeling depressed. They also mention previously experiencing a similar feeling in their whole body when super depressed.
+
+Incorrect
+Consider only current symptoms and avoid assuming a diagnosis based on past feelings. The post does mention feeling 'extra crap' and physical symptoms that could be associated with depression but does not provide definitive evidence of current depression. Focus on the information provided without over inferring past conditions as current ones. A more cautious approach could be recommending a professional evaluation for a potential depression diagnosis.
+
+ITER 1
+No
+The post does mention feeling 'extra crap' and physical symptoms that could be associated with depression but does not provide definitive evidence of current depression. The post mentions experiencing heavy face and eyelids when feeling extra crap, which may indicate a correlation between mood and physical symptoms. However, a more cautious approach is recommended, and a professional evaluation is suggested to determine if the poster is currently suffering from depression.
+
+Correct
+Compliment the student for not jumping to conclusions about the poster's mental health based on limited information. Reinforce the importance of not over-generalizing or inferring negative characteristics that are not substantiated by the post. Encourage the student to maintain this cautious approach, emphasizing the need for a professional evaluation when it comes to diagnosing mental health issues.

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I almost ended up in the psych ward, kinda voluntarily because they asked me if i want to stay or go home and i said to go home but i kinda regret that now, idk why tbh  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The use of phrases like 'almost ended up in the psych ward' and 'regret' suggest a potential sense of isolation and a lack of belonging, indicating a risk of thwarted belongingness.
+

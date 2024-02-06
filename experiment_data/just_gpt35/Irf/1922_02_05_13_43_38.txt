@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I am at a hotel in a foreign country. There is a party going on in the lobby that all my friends are at. I left to lie in bed (where I currently am). They are coming to get me soon even though I really don‚Äôt want to go back down there. This year has been the toughest in my life and I just found out next year I likely won‚Äôt be accepted to med school. Idk how to move on. I know I‚Äôm being a buzzkill tonight but I seriously just can‚Äôt bring myself to get back down there. To everyone feeling shitty this New Year‚Äôs Eve, you are not alone. Hopefully we all find a way forward.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of isolation and a reluctance to socialize, suggesting a potential risk of thwarted belongingness.
+

@@ -1,0 +1,106 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  My own fucking problems aren't enough anymore. I've gotten so used to my shitty life and the thought of wanting to die that I can't cry anymore when I'm depressed. But crying helps. It comforts me and most of the time I feel better afterwards. So every time I'm in my bed and want to cry, I browse this sub. Some of the stories on here are just so sad that I can't help myself. It's weird. I know. And I kinda feel like thanking you but that would seem out of place since you're just here to find help too. I don't even know why I'm posting this here. I just wanted to tell someone and my friends don't give a fuck.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Very true for me###The post explicitly mentions that the poster has been thinking about wanting to die and that their friends don't care. This suggests that they believe that the people in their life would be better off without them."])
+('2', ['directly_mention', "Not at all true for me###The post states that the poster feels comforted and better after crying and reading sad stories on the subreddit. This suggests that they don't believe the people in their life would be happier without them."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions that the thought of wanting to die is recurring and that the person feels like a burden in their life. This suggests that they may feel like a burden on society as mentioned in the question.'])
+('4', ['indirectly_mention', "Somewhat true for me###The post implies that the person's friends don't care about their feelings, which may contribute to the belief that their death would be a relief to the people in their life. However, since the intensity of this feeling is not explicitly mentioned, I choose 'Somewhat true for me' as the answer."])
+('5', ['directly_mention', "Somewhat true for me###In the post, I mention that my friends don't give a fuck. This implies that they might not care or wish they could be rid of me."])
+('6', ['indirectly_mention', "Somewhat true for me###While the post doesn't explicitly state that I make things worse for the people in my life, the mention of my shitty life and the fact that my friends don't give a fuck suggest that I might contribute to worsening situations for others."])
+('7', ['directly_mention', "Not at all true for me###In the post, I mentioned that my friends don't give a fuck, which implies that other people don't care about me. Therefore, the answer is 'Not at all true for me.'"])
+('8', ['indirectly_mention', "Somewhat true for me###Although the post doesn't directly mention whether I feel like I belong or not, it indirectly implies that I feel somewhat of a connection to the community on this subreddit. I mentioned that I feel like thanking the people here, which suggests that I have some sense of belonging among this group. Therefore, the answer is 'Somewhat true for me.'"])
+('9', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster's friends don't give a fuck. This suggests a lack of caring and support from friends, indicating that the poster rarely interacts with people who care about them."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding the poster's fortune of having many caring and supportive friends."])
+('11', ['directly_mention', 'Very true for me###The post explicitly mentions feeling disconnected from other people.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not indicate feeling like an outsider in social gatherings."])
+('13', ['directly_mention', "Somewhat true for me###The post mentions that the poster's friends don't care, but doesn't state whether there are other people the poster can turn to in times of need. However, the fact that the poster is seeking comfort in this subreddit suggests that they do feel that there are people they can turn to, albeit anonymously."])
+('14', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information about how close the poster is to other people. It focuses more on the lack of support from friends and seeking comfort online."])
+('15', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to having satisfying interactions."])
+Do MS Check Record:
+('1', ['Correct', 'Ensure that your interpretation always aligns with the explicit content of the post. Keep recognizing those direct emotions and thoughts shared by the poster.'])
+('2', ['Incorrect', "Be cautious not to ignore implicit sentiments. The poster's statement about friends not caring implies a belief that their presence might not be essential or positive for others, which could point towards a perception of making others unhappy."])
+('3', ['Incorrect', "Carefully examine the poster's words for explicit sentiments before inferring feelings of being a burden. Restrict conclusions to given information; avoid generalizing the poster's personal plight to societal levels without clear evidence."])
+('4', ['Incorrect', "Do not assume feelings towards death without explicit expression. Consider the complexity of emotions in the post. Avoid affirming beliefs about how others would feel about the poster's death without direct statements to support such a claim."])
+('5', ['Correct', 'Continue to analyze the social media post carefully and consider the implied feelings and social context. Keep considering subtle cues in the text to inform your answers.'])
+('6', ['Incorrect', 'Avoid making assumptions that are not supported by the content of the post. Stick to the information given and look for direct or indirect evidence before inferring negative characteristics or effects on others.'])
+('7', ['Correct', "Be cautious about not overgeneralizing based on limited information; however, in this case, your analysis of the social media post aligns with the sentiments expressed by the poster regarding their friends' attitudes."])
+('8', ['Incorrect', "Avoid assuming a sense of belonging when the poster indicates feelings of isolation from friends and seeks comfort in anonymous interactions online. Focus on capturing the nuances in the poster's experiences rather than inferring a positive connection that isn't explicitly stated."])
+('9', ['Correct', 'Ensure you continue analyzing posts for implied information that can answer the questions, as you did correctly here by picking up on the poster’s implied social isolation.'])
+('10', ['Incorrect', 'Even if the post does not explicitly mention the question, you must infer based on the tone and context provided. Acknowledge the negative sentiment towards friends to suggest that the poster does not feel they have many caring and supportive friends.'])
+('11', ['Incorrect', "Carefully analyze the emotional content of the post. The poster's expression of not being able to cry anymore and stating friends 'don't give a fuck' suggests feelings of disconnection. Use this to infer internal states related to the questions."])
+('12', ['Correct', 'Maintain this level of specificity. The post does not provide evidence of feeling like an outsider at social gatherings. Ensure not to overextend beyond provided information.'])
+('13', ['Incorrect', "Consider the poster's sentiments towards their friends and the contrasting behavior of seeking solace in the subreddit. Avoid assuming the post's silence on other potential support systems reflects the actual situation. Look deeper into the implied social connections beyond direct mentions."])
+('14', ['Correct', "Notice how the post doesn't provide sufficient detail about other close relationships. In future responses, maintain your focus on the information given, but also consider context clues for a more nuanced understanding, without over-speculating."])
+('15', ['Incorrect', "Review the post for emotional cues that might imply satisfaction from interactions, such as the poster seeking comfort from others' stories, which may suggest a form of satisfying interaction. Answer by inferring the poster's feelings about their interactions."])
+
+ITER 1
+Do MS Record:
+('2', ['directly_mention', "Very true for me###The post directly mentions feeling like a burden on society by stating 'I don't even know why I'm posting this here' and 'my friends don't give a fuck.' This implies a belief that they are burdening their friends and society at large."])
+('3', ['indirectly_mention', "Somewhat true for me###While the post does not explicitly state that the people in their life would be happier without them, it does mention that their friends 'don't give a f***' and they feel the need to post their thoughts online. These statements suggest a belief that their presence may not be valued by others and could potentially make others happier if they were no longer around."])
+('4', ['directly_mention', 'Very true for me###The poster states that they have the thought of wanting to die and that they have gotten used to their shitty life. This suggests that they believe their death would be a relief to the people in their life.'])
+('6', ['indirectly_mention', "Somewhat true for me###The poster mentions that they feel like they make things worse for the people in their life indirectly by saying that their friends don't give a fuck about them. This suggests that they have some belief that they have a negative impact on others, although it is not explicitly stated."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling like I belong."])
+('10', ['indirectly_mention', 'Not at all true for me.###The poster indicates a lack of support and care from friends, which suggests that they do not feel fortunate to have many caring and supportive friends.'])
+('11', ['directly_mention', "Very true for me###The post directly mentions feeling disconnected from other people, specifically mentioning that the poster's friends 'don't give a fuck.' This suggests a lack of emotional support and connection."])
+('13', ['indirectly_mention', "Somewhat true for me###While the post does not explicitly state whether there are people the poster can turn to in times of need, it indirectly suggests that the poster feels unsupported by their friends. The fact that the poster mentions wanting to tell someone but feeling like their friends don't care implies a lack of available support."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to having satisfying interactions."])
+Do MS Check Record:
+('2', ['Incorrect', 'Avoid assuming direct statements of burden where not specified. Focus on the conveyed feelings without inferring beyond the content.'])
+('3', ['Incorrect', 'Carefully differentiate between self-perception and perceived societal burdens. The post expresses personal distress, not necessarily a societal burden.'])
+('4', ['Correct', 'This response aligns well with the content of the post. The poster expresses feelings of hopelessness and burdensomeness, which supports the idea that they may think their death would be a relief to others. No changes are necessary, but ensure that you always use direct quotes from the post to support your inferences.'])
+('6', ['Incorrect', "Be cautious not to infer too much from the statement about the poster's friends. The post does indicate a sense of isolation and feeling uncared for, but it does not provide enough evidence to conclude the poster believes they make things worse for others. Focus on what is explicitly stated and avoid making assumptions beyond the data provided."])
+('8', ['Incorrect', 'Review the post for emotional cues and related content that could suggest feelings of belonging or isolation. Avoid assumptions if information is missing.'])
+('10', ['Correct', 'Continue using indirect information to infer emotional states or beliefs, but ensure that the conclusions are firmly grounded in the post content.'])
+('11', ['Incorrect', "Review the post for explicit statements related to the question. Avoid assuming emotions or connections that aren't clearly stated. Focus on what the poster actually shares about their social connections."])
+('13', ['Correct', "Good inference on the lack of support based on the poster’s expression of their friends’ indifference. Continue to use indirect cues when direct information is not available, ensuring that you're not overextending the interpretation beyond what is reasonable."])
+('15', ['Incorrect', 'Reconsider the tone and content of the post, which may suggest feelings of isolation and lack of support, possibly implying unsatisfying social interactions.'])
+
+ITER 2
+Do MS Record:
+('2', ['directly_mention', "Somewhat true for me###The post mentions feeling like a burden on others when the poster says 'These days, the people in my life would be happier without me.' The statement indicates a belief that their presence negatively affects the happiness of others, implying a feeling of being burdensome to those around them."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything that directly relates to feeling like a burden on society. The focus is on the poster's own struggles and feeling like a burden on the people in their life, rather than society as a whole."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything about making things worse for the people in their life."])
+('8', ['indirectly_mention', 'Not at all true for me.###The post indicates a sense of isolation and feeling uncared for, which may suggest that the poster does not feel like they make things worse for the people in their life.'])
+('11', ['indirectly_mention', "Somewhat true for me###The poster mentions feeling disconnected from friends, stating that their friends don't care. This suggests that the poster may feel disconnected from other people."])
+('15', ['indirectly_mention', "Not at all true for me###The poster expresses a lack of satisfying interactions, stating that their friends don't care. This implies that the poster does not have at least one satisfying interaction every day."])
+Do MS Check Record:
+('2', ['Incorrect', 'Analyze the emotional content of the post more closely to determine the poster’s self-perception in relation to others, and consider all implications of their words, not just direct mentions.'])
+('3', ['Correct', 'Continue to differentiate between specific types of burden feelings, as in this case, where societal burden is not mentioned, and apply this careful distinction to future analyses.'])
+('6', ['Incorrect', 'Review the post carefully, looking for emotional expressions related to their impact on others. Focus on the content and context relevant to the question.'])
+('8', ['Incorrect', 'Do not assume an emotional state indicates answers to unrelated questions. Address the question directly, using information provided in the post.'])
+('11', ['Correct', 'While you correctly inferred a sense of disconnection from the post, continue to cite specific content from the post to support your answers, as you did with the mention of unsupportive friends.'])
+('15', ['Correct', 'Good job identifying the lack of satisfying interactions from the post. Remember to always base your inferences on explicit or strong implicit evidence in the text.'])
+
+ITER 3
+Do MS Record:
+('2', ['directly_mention', 'Very true for me###The poster mentions feeling that their own problems and wanting to die are not enough anymore, suggesting that they believe others would be happier without them.'])
+('6', ['indirectly_mention', "Very true for me###The poster expresses feeling like they make things worse for the people in their life by mentioning that their friends don't care about their problems, indicating a belief that they have a negative impact on others."])
+('8', ['indirectly_mention', 'Somewhat true for me###The poster mentions feeling comforted and feeling better after crying, which suggests a sense of belonging in some way. Additionally, the poster expresses gratitude towards the subreddit community, indicating a level of connection and belonging.'])
+Do MS Check Record:
+('2', ['Incorrect', "Do not infer certainty about the poster's beliefs concerning others' happiness without supportive evidence. Instead, analyze the emotional undertones and relational context expressed in the post."])
+('6', ['Correct', "Continue to identify indirect references that reveal the poster's perspective on their impact on others, but ensure there is a clear connection to avoid over-inference."])
+('8', ['Incorrect', "Avoid making assumptions about the poster's sense of belonging based on their use of the subreddit as a means to feel better. Instead, focus on what is explicitly stated about their feelings of connection to friends or others."])
+
+ITER 4
+Do MS Record:
+('2', ['directly_mention', "Somewhat true for me###The poster expresses feeling like their friends don't care, which suggests a lack of connection and could lead to the belief that their presence would not make others happier."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the poster's sense of belonging and connection to others."])
+Do MS Check Record:
+('2', ['Incorrect', 'The post implies feelings of loneliness and a lack of support, which could reasonably lead to sentiments of being a burden. Answer should reflect an inference based on these cues, not a direct mention.'])
+('8', ['Incorrect', "The lack of support from friends and seeking comfort in others' stories hints at a sense of disconnection. Infer about belonging by considering this context, instead of seeking explicit mention."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a high risk of perceived burdensomeness based on the answers to the mental scale questions. The poster expresses feeling like a burden on society, thinking their death would be a relief to others, believing others wish they could be rid of them, and feeling disconnected from other people. These thoughts and feelings indicate a strong perception of being burdensome to others.
+
+Correct
+Great job analyzing the poster's mental health. Your response was on target, identifying the poster's risk of perceived burdensomeness. Remember to maintain a balance between drawing inferential conclusions and sticking to provided information. That said, avoid any temptation to presume details not directly supported by the post or the answered questions when analyzing in future tasks.

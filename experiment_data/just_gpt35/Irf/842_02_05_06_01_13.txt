@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôve said my goodbyes. I think I‚Äôm ready and I broke up with my boyfriend, hopefully since he‚Äôll find out later and/or not at all or won‚Äôt hurt him. I just have no more energy left for the life I‚Äôm living.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and a desire to disconnect from relationships, which aligns with the concept of thwarted belongingness.
+

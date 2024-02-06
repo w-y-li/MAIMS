@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  It's totally arbitrary, and that really isn't a problem (any made-up reason to celebrate is fine) except that it makes me think about how miserable I was last New Year's, and every year as far back as I can remember - which is something I would never otherwise think about. I mean, if I am depressed on May 3rd, I am not also upset that I was depressed on May 3rd last year too, because it cannot help but escape my notice. But I know I was depressed on New Year's Eve of 2016, and every year I can remember before that. It's the same every year, and that makes me feel even worse than I normally do. What's worse, it marks another year during which I was totally miserable. Every New Year's Eve, I am made to reflect that I felt just as bad over the last year as I did the year before, often worse. I don't feel any better about anything in my life after a whole year having passed. Every year I tell myself that I am trying harder than I ever have to be better, and that there is some prospect that in the next year there will be something in my life that makes it worth living, that takes a little bit of the pain away. But every year have to realize that I was wrong. I was thinking exactly the same thing earlier this year, but now I realize that I was wrong last year and I will be wrong this year too. I would not be thinking about any of this if it weren't New Year's Eve.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of feeling burdened and trapped in a cycle of misery and depression, specifically related to New Year's Eve. The poster expresses feelings of hopelessness and a lack of improvement in their life despite their efforts to be better each year. These thoughts and emotions suggest a risk of perceived burdensomeness, where they feel like a burden to themselves and others due to their ongoing struggles and inability to find relief or happiness.
+

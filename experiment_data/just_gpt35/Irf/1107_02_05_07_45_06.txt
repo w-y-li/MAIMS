@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  For years, I have battled depression. I have battled suicidal ideations. I thought to myself, hospitalization and IOP would do the trick. Would get me out of this state. However, I realized a few days ago, maybe a week, that IOP doesn't give a shit about me. They just care about my insurance copay. I am tired. I realized that I will never get better. My life is shit. I don't care about my job, I am barely hanging on to my life in general. I am losing friends by the minute. Why the fuck does my life even matter? I just wish I had a gun, a rope, something, to end this misery. That's what I am right now, miserable. Not just now, for the past week, I have been miserable. But, the fact of the matter is, I don't want to get better anymore. The only way people know how treat me is to hospitalize me or IOP me or PHP me etc... These solutions clearly don't solve the problem. Maybe this is my farewell note to the world, I don't know. I just need an exit strategy that limits the fallout. I don't want to shoot myself because that's too nuclear. I wish there was a full proof way of OD'ing. That way my family (the last vestige of people who care) would be able to see me at peace. I am Humpty Dumpty. Some things can't be repaired. Maybe that's OK and maybe that's why we have suicide.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of worthlessness, feeling like a burden, and expressing thoughts of wanting to end their life. These thoughts and feelings suggest a risk of perceived burdensomeness.
+

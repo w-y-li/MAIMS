@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I'm very lonely lately, I'd like to find someone who can feel like I do and help me through it all. I'd like to exchange private messages, as there's no real life people I can really turn to with my problem. So feel free to pm me, I appreciate all help.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness and a desire to find someone who can understand and support the poster. The mention of having no real-life people to turn to suggests a lack of social support, which can contribute to perceived burdensomeness.
+

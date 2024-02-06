@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I've realized I was fucked from the day I was born.My mother from another country is disabled &amp; lived off SSI her whole life.My father,a paranoid schizophrenic who punished me for not  loving Jehovah enough  has never worked a day in his life.Family of five lived off the income of one (two SSI incomes count as one). My brothers becoming violent &amp; angry over having no future.Myself being anxious,depressed,possible Aspergers,hearing loss &amp; tinnitus has guaranteed my life is fucked. I wrote several suicide notes,just as a practice back in December when I turned 30.Yeah,I'm one of those aspiring actor types that refuses to work at Wal-Mart because they hate unions &amp; a living wage. No decent rich actor will ever want me.I would prefer to have a partner working in an area I have shared interests in like film.I live off of donations because my area has a lot of homeless shelters plus I get financial aid. Maybe I can make up the man of my dreams in my imagination.Its the closest I'll ever get to someone like Michael Fassbender,Taron Egerton or Dan Stevens.Every day I wake up &amp; ask why.......just why?Often I hope not to wake up at all.The only peace I have is in sleep.Sadly beeause of insomnia I cant even have peace.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of being a burden on others, such as relying on donations and financial aid, and not having a future. The mention of suicide notes and hope to not wake up indicate a perceived burden on oneself.
+

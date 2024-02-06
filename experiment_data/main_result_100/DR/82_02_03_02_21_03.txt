@@ -1,0 +1,122 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Should I still communicate with my father? Hello everyone. So the past few days my mom caught my dad cheating on her (2 women specifically). Now my mom sent him a closure to cut the ties (we live on the US while my dad is on another country). I'm angry and familiar with this feeling as well because my previous girlfriend cheated on me too (I guess it runs on the blood to be cheated on). Right now I don't know if I should cut my ties as well, as I can't forgive someone who broke my mom's heart and also someone who can't be contented at all. I'm 24 and take full responsibility on her. Our little family is all what my mom have, as she never worked her whole life and expended it to nurture us her children, giving up her career and dreams.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###The post states that my mom caught my dad cheating on her, which would likely lead to feelings of sadness.'])
+('2', ['indirectly_mention', "I feel discouraged about my future.###Although the post doesn't directly mention feeling discouraged about the future, the poster mentions being cheated on in the past and now facing another betrayal. This could potentially lead to feelings of pessimism and discouragement about the future."])
+('3', ['directly_mention', "I feel I have failed more than the average person.###The post mentions that both the poster's father and previous girlfriend cheated on them, which may lead to feelings of failure and inadequacy."])
+('4', ['indirectly_mention', "I do not enjoy things as much as I used to.###The post talks about the anger and negative emotions the poster is currently experiencing due to their father's infidelity, which suggests a decrease in pleasure and enjoyment."])
+('5', ['directly_mention', "I feel guilty a good part of the time###I mentioned that I'm angry and familiar with this feeling because my previous girlfriend cheated on me. This suggests that I feel guilty for not being able to prevent or stop the cheating."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention any feelings of punishment or being punished. It mainly focuses on the anger and guilt related to the cheating situation, but not on the feeling of being punished specifically."])
+('7', ['directly_mention', "I dislike myself.###In the post, I mentioned that I can't forgive someone who broke my mom's heart and someone who can't be contented at all. This implies that I have a negative view of myself and find it difficult to forgive others, indicating self-dislike."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication regarding self-accusations. It is focused on the situation with my father and the impact on my mother."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to crying."])
+('11', ['indirectly_mention', '###In the post, I mentioned that I am angry and familiar with this feeling because my previous girlfriend cheated on me. This suggests that I may be experiencing agitation as a result of the current situation with my father cheating on my mom.'])
+('12', ['indirectly_mention', "###I mentioned that I can't forgive someone who broke my mom's heart and can't be contented at all. This lack of forgiveness and inability to find contentment suggests a possible loss of interest in relationships (specifically, maintaining a relationship with my father) and finding joy or satisfaction in general."])
+('13', ['directly_mention', "I find it more difficult to make decisions than usual.###I mentioned that I don't know if I should cut ties with my father, indicating my indecisiveness in the situation."])
+('14', ['indirectly_mention', "I do not consider myself as worthwhile and useful as I used to.###Although I don't directly state that I feel worthless, I mention that I take full responsibility for my mother and emphasize her sacrifices. This suggests that I may feel a diminished sense of worth compared to how I used to perceive myself."])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post mentions that the poster feels angry and familiar with the feeling of being cheated on. Being cheated on can be emotionally draining and can lead to a loss of energy.'])
+('16', ['indirectly_mention', 'I have not experienced any change in my sleeping pattern.###Although the post does not directly mention sleeping patterns, there is no indication that the poster has experienced any changes in their sleep due to the situation with their father.'])
+('17', ['directly_mention', 'I am more irritable than usual.###The post mentions feeling angry and familiar with the feeling of being cheated on, which implies a heightened level of irritability.'])
+('18', ['directly_mention', "My appetite is somewhat less than usual.###The post mentions being unable to forgive someone who broke their mom's heart, which can lead to a decrease in appetite as a result of emotional distress."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to concentration difficulty. The focus is primarily on the poster's relationship with their father and the aftermath of their father's infidelity."])
+('20', ['indirectly_mention', "I am too tired or fatigued to do most of the things I used to do.###While the post does not explicitly mention tiredness or fatigue, the poster shares their anger and familiarity with the feeling of being cheated on. This emotional turmoil and stress can often lead to feelings of tiredness or fatigue, particularly when combined with the responsibilities they are shouldering as a result of their father's actions."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+('1', ['Correct', 'Ensure that all of your responses directly reference specific elements from the post to support your conclusions as you did in answering this question.'])
+('2', ['Correct', 'Good work capturing the implications of the post that were not explicitly stated. Continue to practice identifying underlying sentiments in future tasks.'])
+('3', ['Incorrect', "Consider the direct information in the post and avoid assuming unmentioned feelings of failure; focus on facts related to the post's context."])
+('4', ['Incorrect', 'Limit inferences to what the post suggests about current emotions, without assuming long-term changes in pleasure or enjoyment.'])
+('5', ['Incorrect', "Avoid inferring guilt where it isn't explicitly mentioned or implied. Consider if the emotions expressed are directly related to guilt, which is a self-blaming emotion, not just anger or sadness."])
+('6', ['Correct', 'Good work recognizing the absence of any mention of punishment feelings. Avoid over-inference by not attributing emotions to the poster that are not evident from the post.'])
+('7', ['Incorrect', "Carefully analyze the post for implicit emotional content. Look for signs of the poster's feelings towards themselves, not just towards others. Assess whether the feelings towards the situation could reflect back on their self-view. Refrain from making direct assumptions about self-dislike without clear evidence in the post."])
+('8', ['Correct', "Continue to distinguish between the subject of the post and personal emotions or characteristics. The post does indeed focus on the father's actions and their impact on the mother; there's no direct mention of self-accusation. Keep maintaining a clear boundary between what is explicitly stated and what is inferred."])
+('9', ['Correct', "While the student's answer that the post doesn't mention suicidal thoughts or wishes is correct, ensure you are not dismissing such an important topic hastily. Always keep in mind that the absence of explicit statements doesn't rule out the possibility of such feelings. Look for underlying tones or implications that might suggest the presence of such thoughts."])
+('10', ['Correct', "You have correctly observed that the post doesn't explicitly mention crying. However, when assessing emotional states from social media posts, consider the context and emotional cues that might imply sadness or grief, which could lead to crying. Be attentive to subtle emotional expressions."])
+('11', ['Correct', "Ensure to continue grounding your answers in specific information from the post, avoiding unnecessary assumptions about the poster's emotional state not evident in the post."])
+('12', ['Incorrect', "Avoid extending the analysis to broad generalizations about loss of interest without clear evidence from the post. Focus on what is explicitly stated or directly implied about the poster's current feelings and interests."])
+('13', ['Correct', 'Continue to refer to specific information from posts to support your interpretations, as you did by connecting your indecisiveness to the expressed uncertainty regarding the decision to cut ties with your father.'])
+('14', ['Incorrect', 'Avoid making inferences that are not strongly supported by the evidence in the post. There is no direct indication of feelings of worthlessness—focus on the information given rather than inferring emotions that are not explicitly stated.'])
+('15', ['Correct', 'Ensure to provide justification based on evidence from the post when inferring emotional consequences such as loss of energy.'])
+('16', ['Incorrect', 'Avoid making definitive statements about unmentioned details like sleeping patterns; instead, acknowledge the absence of information and describe potential implications or uncertainties.'])
+('17', ['Correct', 'Good inference based on the contextual clues about irritability. In future responses, continue to look for explicit and implicit cues that relate to the psychological constructs in the questions.'])
+('18', ['Incorrect', 'Be careful not to assume direct effects on physiological aspects such as appetite without specific evidence. Instead, ask yourself if the feelings described can necessarily be linked to changes in appetite or if further information is required.'])
+('19', ['Incorrect', 'Review the post for emotional cues or statements that may indirectly suggest issues with concentration. Avoid dismissing content due to lack of explicit mention.'])
+('20', ['Correct', 'Good inference on emotional stress possibly leading to tiredness or fatigue. In the future, qualify your reasoning by linking it to specific content in the post.'])
+('21', ['Correct', 'Ensure future answers continue to focus solely on the information provided in the post without making assumptions.'])
+
+ITER 1
+Do MS Record:
+('3', ['directly_mention', "As I look back on my life, all I can see is a lot of failures.###The post mentions that the poster feels angry and familiar with the feeling of being cheated on, implying a sense of past failure in relationships. The post also mentions the previous experience of the poster's girlfriend cheating on them, which can contribute to a feeling of failure."])
+('4', ['indirectly_mention', "I do not enjoy things as much as I used to.###The post expresses the poster's uncertainty about cutting ties with their father, highlighting their anger and inability to forgive the person who broke their mother's heart. These negative emotions may impact the poster's ability to experience pleasure and enjoyment in activities as they used to."])
+('5', ['directly_mention', "I feel quite guilty most of the time.###The post explicitly states that the poster feels angry and familiar with the feeling of being cheated on. Although guilt is not directly mentioned, feeling guilty is often associated with such situations, especially considering the emotional impact it has on the poster's mother."])
+('7', ['indirectly_mention', 'I feel disappointed in myself.###While self-dislike is not directly mentioned, the post suggests that the poster is concerned about the well-being of their mother and takes full responsibility for her. The feeling of disappointment towards oneself can be inferred from the sense of responsibility the poster expresses, as they may question their ability to protect and support their family in such a situation.'])
+('12', ['directly_mention', 'I am less interested in other people or things than before.###The poster explicitly mentions being angry and unfamiliar with the feeling of being cheated on. This suggests a decrease in interest in others.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to feelings of worthlessness and the poster's self-perception."])
+('16', ['directly_mention', 'I sleep somewhat less than usual.###The poster mentions being angry and familiar with the feeling, indicating that their emotional state may be affecting their sleep. However, since the post does not provide specific details about changes in sleep patterns, it is uncertain whether the change is significant or temporary.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The poster mentions feeling angry and unable to forgive, which can lead to a decrease in appetite. However, the post does not provide specific information about changes in appetite, making it uncertain whether it is a significant change or temporary.'])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###In the post, the poster mentions feeling angry and upset about their father cheating on their mother. This emotional distress can make it difficult for the poster to concentrate on other things, as their mind may be preoccupied with these thoughts and feelings.'])
+Do MS Check Record:
+('3', ['Incorrect', "Analyze the post carefully to differentiate between the poster's actual experiences and feelings of failure versus general life outcomes. Avoid assuming that the poster views their entire life as a failure based on one specific event."])
+('4', ['Incorrect', 'Focus on the information explicitly provided in the post. Assess the presence of loss of pleasure without generalizing the impact of one negative event on all aspects of enjoyment in life.'])
+('5', ['Incorrect', 'Review the original post for explicit statements about guilt. Avoid inferring guilt where it is not clearly expressed. Focus on the emotions and thoughts that are directly mentioned.'])
+('7', ['Incorrect', 'Avoid assuming feelings of self-dislike when they are not mentioned or clearly implied. Instead, base your answers on the emotions and perspectives that the poster has explicitly shared.'])
+('12', ['Incorrect', 'Review the content for subtle cues about emotional states and changes in behavior that may indicate a loss of interest, and avoid jumping to conclusions without support from the post.'])
+('14', ['Correct', 'Continue to analyze the post carefully to determine whether it contains information related to the question, and remember not to infer feelings or attributes that are not supported by the text.'])
+('16', ['Incorrect', 'Examine the content for explicit details about sleep patterns before inferring. Avoid assuming sleep changes without concrete evidence and consider asking clarifying questions regarding sleep if interacting with the poster.'])
+('18', ['Incorrect', 'Do not infer changes in appetite without direct information from the post. While emotions can affect appetite, avoid presuming it without clear reference. Focus on what is explicitly mentioned about eating habits to answer related questions.'])
+('19', ['Correct', 'Ensure your interpretations are supported by the context of the post. Maintain this level of careful analysis of the content and emotional state expressed in the post to accurately infer psychological states.'])
+
+ITER 2
+Do MS Record:
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The poster mentioned feeling familiar with the feeling of anger due to being cheated on, indicating a sense of personal failure and disappointment in relationships.'])
+('4', ['directly_mention', "I do not enjoy things as much as I used to.###The poster expressed uncertainty over whether they should cut ties with their father, indicating a reduced level of pleasure in their relationship with him due to the negative impact of his actions on their family and their mother's emotional well-being."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention any feelings of guilt explicitly or implicitly."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention any feelings of self-dislike explicitly or implicitly."])
+('12', ['directly_mention', 'I am less interested in other people or things than before.###The poster mentions feeling angry and familiar with the feeling of being cheated on. This suggests a level of disinterest in other people or activities.'])
+('16', ['not_mention', "Doesn't mention at all.###The poster does not mention any changes in sleeping patterns."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication regarding changes in appetite."])
+Do MS Check Record:
+('3', ['Incorrect', "Ensure that your inferences are grounded in the content of the post. The post does not specify a sense of personal failure; focus on what is written rather than assumptions about the poster's feelings of failure."])
+('4', ['Incorrect', 'Do not extrapolate feelings of pleasure based on a single incident. The post discusses a specific relationship issue, not a general loss of pleasure in life. More evidence from the post is needed to support your answer.'])
+('5', ['Correct', 'Continue to analyze the explicit content of posts for information relevant to the question. Avoid making assumptions not supported by the text.'])
+('7', ['Incorrect', 'Consider the emotions that may arise from the situation described. While the post does not explicitly mention self-dislike, reflect on whether the experiences shared (e.g., being cheated on by a girlfriend and the betrayal by the father) might relate to feelings that could lead to self-dislike.'])
+('12', ['Incorrect', 'Avoid assuming emotions like anger imply a loss of interest. Explore nuances in the post that may suggest specific changes in behavior or feelings towards activities and people.'])
+('16', ['Correct', 'Acknowledging the absence of information is good. However, consider indirect indicators or read between the lines to infer possible disruptions in daily routines, including sleeping patterns.'])
+('18', ['Correct', 'While your answer is correct because the post does not mention changes in appetite, remember to analyze posts carefully for any indirect or implicit information that could suggest something about the question at hand. Even if there is no direct mention, there might be relevant contextual details worth considering in your assessment.'])
+
+ITER 3
+Do MS Record:
+('3', ['directly_mention', "I feel I have failed more than the average person.###The post mentions that both the poster's father and previous girlfriend cheated on him, indicating a sense of failure in relationships."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide sufficient information to determine the answer to this question."])
+('7', ['directly_mention', 'I am disappointed in myself.###The post mentions feeling angry and familiar with the feeling of being cheated on, which may contribute to feelings of self-disappointment.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The post discusses being angry and unsure about whether to cut ties with the father due to his actions, which may suggest a decrease in interest in maintaining relationships with others.'])
+Do MS Check Record:
+('3', ['Correct', 'Ensure to contextualize personal failures within the specific scenario without generalizing beyond the evidence presented.'])
+('4', ['Correct', 'Maintain an objective analysis and avoid making assumptions when information is not explicitly stated.'])
+('7', ['Incorrect', "Analyze the content for direct expressions of self-perception instead of inferring from related sentiments. Look for explicit statements about the poster's view of themselves."])
+('12', ['Incorrect', 'Do not assume changes in interest based solely on anger or decision-making about relationships. Focus on specific stated changes in activities or enthusiasm for interests that the poster used to enjoy.'])
+
+ITER 4
+Do MS Record:
+('7', ['indirectly_mention', 'I have lost most of my interest in other people or things.###The poster mentions feeling angry and unable to forgive their father, which suggests a loss of interest in their father and potentially other people or activities.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any information that directly or indirectly addresses the question about self-dislike."])
+Do MS Check Record:
+('7', ['Incorrect', 'Re-evaluate the post focusing on the emotional tonality. Consider the implications of the poster’s experiences with betrayal on their self-perception and overall interest in relationships or activities.'])
+('12', ['Correct', 'For future tasks, ensure you differentiate between different constructs like self-dislike and loss of interest, and evaluate the post for any subtle hints that could relate to the questions.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses indicate symptoms of depression such as feeling sad much of the time, discouragement about the future, feeling like they have failed more than the average person, difficulty making decisions, having less energy, being more irritable than usual, and finding it hard to keep their mind on anything for very long. These symptoms suggest a potential diagnosis of depression.
+
+Correct
+Ensure that you base your analysis strictly on the evidence presented in both the social media post and the results of the mental health scale. While the analysis in this instance was correct, remember not to infer additional negative characteristics without clear evidence. Moreover, carefully distinguish between the mental health of the poster and others mentioned in the post to avoid confusion. Maintain a disciplined approach to each individual case based on the presented data to avoid overgeneralization and assumption.

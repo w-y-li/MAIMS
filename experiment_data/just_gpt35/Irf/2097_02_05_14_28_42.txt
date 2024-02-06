@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I can't function like a normal human being. I try, I fcking try but things just get worse and idk if this a signal but I believe the world wants me dead. My anxiety makes impossible going to university; i can't make presentations or anything that involves people. Panic just drowns me and tears start to appear. It's pathetic I'm pathetic; walking with my head down, ashamed of whatever i have. I'm so ashamed of myself, I feel guilty for existing. Things don't get better Thats a fcking lie Suicidal thoughts come and go If i had a knife rn maybe Just maybe... I just want this to be over.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, shame, and a desire for the suffering to be over. The poster expresses guilt for existing and describes feeling like a burden. Suicidal thoughts are also mentioned, further suggesting a sense of perceived burdensomeness.
+

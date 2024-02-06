@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I'm taking jobs. I'm making a video game. Hell, I'm even getting married this fall. We plan to honeymoon in Japan, and I've been no-less-seriously-than-usual kicking around the idea of wandering into the Aokigahara while we're there and never walking out. I'm also semi-seriously making career / retirement plans, and thinking about the futures of my parents and niblings and sister and in-laws. But none of this has any substantial meaning to me. It's just shit that might need to be taken care of before my depression-disease becomes terminal. I'm empty inside, and like skipping rocks on a bottomless lake, I'm just keeping myself amused by throwing pointless nothings into the void. /melodrama  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of emptiness and a lack of meaning in life, which can be a sign of perceived burdensomeness. The poster mentions engaging in various activities, such as taking jobs, making a video game, getting married, and planning a honeymoon, but explicitly states that none of these activities have any substantial meaning to them. This suggests that the individual may feel like a burden to themselves and find no purpose or fulfillment in their actions.
+

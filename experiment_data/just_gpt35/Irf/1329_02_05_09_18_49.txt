@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I am a male and am 16 years old, I took biology, chemistry, maths and philosophy for my A levels, and I don't know what to do. I had in mind that I would become a doctor, but then I read, that they have to mostly spend weekends working and work overtime. That made me depressed. I thought I had it all figured but, then I realised that I don't really know anymore if I want to become a doctor. I really don't know that much about myself, but I know that I can't be bothered to work over hours. I like to make songs, and sing, and edit videos, but I really don't know what career to take from those, especially since I have already started a level with those subjects. I was thinking of giving YouTube a go, but my parents most likely won't approve at all. Do I keep doing a medical course or stop? Should I try some new things whilst studying? I really need help, I am starting to just waste my life being depressed and thinking on how good all these social stars get paid, and don't have to go to college, whilst I am here just depressed thinking about my future.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not specifically mention feeling like a burden to others or expressing thoughts related to being a burden.
+

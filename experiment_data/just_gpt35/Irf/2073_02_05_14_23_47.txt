@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Yep. Women use me to boost their self esteem, and then they throw me away. Why am I alive? Why was I born to be a throw away?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post reflects feelings of being used and discarded by women, along with questioning the purpose and value of the person's existence. These thoughts and experiences are indicative of a perceived burdensomeness, where the individual feels like a burden to others and believes that their life is worthless.
+

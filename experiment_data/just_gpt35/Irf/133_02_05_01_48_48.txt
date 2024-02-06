@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I can't look at myself. I'm revolting in the inside and the outside, the more I look at myself the more I want to tear my face off, I deserve to die like the horrid monster I am. That's what goes through my mind every day all day  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement indicates a strong sense of self-disgust and feeling like a burden. The mention of wanting to tear their face off and believing they deserve to die suggests a high level of self-hatred and a perceived burden to others. This indicates a risk of perceived burdensomeness.
+

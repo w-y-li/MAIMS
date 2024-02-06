@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Starting antipressants Hi, I'm a male in my early 30's and going to meet with an intake doctor tomorrow. I will probably wind up on antidepressants, so I have been looking up the side effects, and REALLY don't want to have erectile dysfunction and gain weight. Do any males have experience with taking medicine and their effects?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions meeting with a doctor, looking up side effects of antidepressants, and expressing concerns about erectile dysfunction and weight gain. These factors suggest that the poster is seeking medication for depression and is worried about the potential side effects, which are commonly associated with antidepressant use.
+

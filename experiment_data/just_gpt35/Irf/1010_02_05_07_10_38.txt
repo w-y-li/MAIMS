@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I fucking lost at life. Always. Can maybe. Maybe. Scrap by for groceries but I need food more than tampons. Fuck being a woman.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and dissatisfaction with life, suggesting a potential risk of thwarted belongingness.
+

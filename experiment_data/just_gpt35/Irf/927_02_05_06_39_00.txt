@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I told a couple friends I was considering suicide,they looked worried. Some people gotta care,right? I have not killed myself yet because I was thinking how it would affect them. They care,even if they don't talk to me a lot and I'm an idiot. If it wasn't for them I woul probably be hanging in the closet  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person believes they are a burden to others and that their suicide would affect their friends. This suggests a risk of perceived burdensomeness, which is a common factor in suicidal ideation.
+

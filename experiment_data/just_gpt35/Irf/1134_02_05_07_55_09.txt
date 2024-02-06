@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I fucked up by accepting a job offer and leaving my old comfortable job. Now I want to die. I can‚Äôt keep going on like this... depressed and afraid of everything.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong feeling of isolation and lack of connection, as the person expresses regret for leaving their old job and feeling depressed and afraid of everything. These feelings suggest a potential risk of thwarted belongingness, which is a psychological term used to describe the feeling of not fitting in or not satisfying one's need for social connection and belonging.
+

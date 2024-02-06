@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I can't take life anymore. But my dad already killed himself 4 years ago and I know how devastating it is to family. I don‚Äôt know how to deal with this pain anymore but I don‚Äôt want my family and girlfriend to go through a tragic death.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of burden and a desire to protect loved ones from potential harm, which are indicative of perceived burdensomeness.
+

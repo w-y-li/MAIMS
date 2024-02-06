@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  All these fucking people celebrating for no reason, setting off fireworks, and disturbing my life and depression. I hate other people. I am an outcast from society and everything about it pisses me off  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of being an outcast from society and being bothered and pissed off by other people's actions. These feelings could indicate a sense of perceived burdensomeness, where the poster perceives themselves as a burden or nuisance to others, and as a result, they may feel unimportant, rejected, or unaccepted by society.
+

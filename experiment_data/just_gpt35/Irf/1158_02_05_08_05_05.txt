@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Hey guys! I‚Äôm new here, and I have been hesitant to speak on this. My depression started around 3 years ago during my sophomore year in high school, and I‚Äôve tried to suppress it as much as possible, but unfortunately it still plagues me in small instances while being in my second semester of college. One of them that I can‚Äôt seem to shake, is not being interested in literally anything. I used to love video games, now I can‚Äôt play one for 5 minutes without getting bored or annoyed. I used to love skateboarding, and now I can‚Äôt stand to go out and do it. Can anyone give me tips or solutions?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling uninterested in things they used to enjoy, which could indicate a sense of disconnection and lack of belonging. This may be a sign of thwarted belongingness, a risk factor for mental health problems like depression.
+

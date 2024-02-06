@@ -1,0 +1,21 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I was diagnosed with major depression Nov 2015, since then I have found out that I'm allergic to ssris and few other medications. I remember how I was long before I was officially diagnosed with depression and how I was when before I realized the depression symptoms set in before that summer and I honestly think that I will never be that person anymore. Due to some schedule mishaps, I missed taking my meds on a reg day basis and I felt the same off of them as I do on them. I'm back on them to therapeutic level and nothing. I get moments of excitement but they fade away into the background. I can't think of one thing that I'm happy about. The only really thing I care about is my job. That's it. I do it very well. I've been under the care of a psychiatrist for a year now and in therapy for 2 years. Just putting that out there.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the individual feels like they are not the same person anymore due to their depression. They also mention that they can't think of one thing that makes them happy, except for their job. These sentiments suggest a potential risk of perceived burdensomeness.
+
+Incorrect
+Be cautious not to confuse a lack of interest or enjoyment in activities (anhedonia) with perceived burdensomeness. Perceived burdensomeness specifically refers to an individual's belief that they are a burden on others. While the post does convey a struggle with depression and a loss of former self, it does not provide evidence that the individual feels like they are a burden to others. Instead, they find value in their job performance. Focus on the available information and avoid making inferences beyond what is stated.
+
+ITER 1
+No
+The post does not provide evidence of perceived burdensomeness. The individual expresses a lack of happiness and excitement, but they find value in their job and do it well.
+
+Correct
+Continue to examine the content of the post carefully without over-inferencing. Remember to differentiate between lack of happiness and perceived burdensomeness, focusing on the information given without presuming additional negative traits. Maintain objectivity in analyzing posts, especially when there is no direct evidence of the issue in question.

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  And then my mate punched me in the face, and now I feel completely demotivated. It's like, what's the point, y'know? If I have fun, I get punched, if I'm upset, I get punched, if I say the wrong thing, I get punched, if I complain about it, I get punched! Like, what's the fucking point, y'know!?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of hopelessness, feeling trapped, and questioning the point of life. The person feels that no matter what they do, they end up in a negative situation. This suggests a possible risk of perceived burdensomeness, where the individual may feel like a burden to others and that their existence causes harm or inconvenience to those around them.
+

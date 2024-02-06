@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Today is my 45th birthday. Today is my 45th birthday. Being 45 doesn't bug me as much as the lack of accomplishments and life lived in those years. I've spent the last 20 years lost in depression. I'm tired, hopeless, ashamed, and emotionally defeated. I go to bed scared and wake up disappointed. People ask if I am suicidal, and my answer is,  I'm open to the possibility.  People ask if I'm planning, and I say,  No, not actively. I've already planned it out.  I can't understand why I am still here nor do I understand why I stay.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's description of feeling lost in depression, feeling tired, hopeless, and emotionally defeated, as well as experiencing thoughts of suicide and having planned it out, are all indicative of depressive symptoms.
+
+Correct
+Ensure that all conclusions about the poster's mental health are directly supported by the information provided in the post. Avoid over-inferences and assumptions beyond the given evidence. Distinguish between the poster's experiences and those around them.

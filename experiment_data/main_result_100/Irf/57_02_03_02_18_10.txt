@@ -1,0 +1,112 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Long story short: In december I talked to my mother about how I feel and that I currently don't get my shit together; Mainly work. She asked whether it's ok if my family would know (If they asked questions after christmas etc) and I told her it would be ok. First thing she did was going to my aunt and telling her and now my whole family knows and everyone is super protective and sending help, which is exactely what I don't need. When I critizied her, she started the whole  everything I do is wrong -bullshit and now even my father called me, who is currently in hospital because of his weak heart and told me I should start using my brain. While I'm writing this my mother sits crying in the kitchen after she told me that she can't deal with this whole current situation and that I  don't live alone on this planet . I do the fuck not know how to deal with this shit either. Getting drunk now. Thx for reading.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', "Not at all true for me###The post mentions that my family is being overprotective and sending help, which is something I don't need. This suggests that they care about me and my well-being, indicating that they would not be better off without me."])
+('2', ['indirectly_mention', 'Not at all true for me###The post mentions that my family is crying and expressing their inability to deal with the current situation. This suggests that my presence is important to them and that they would not be happier without me.'])
+('3', ['indirectly_mention', 'Not at all true for me###The post mentions feeling like a burden on society and not being able to deal with the situation, suggesting a possible feeling of being a burden. However, the post does not directly answer the question or provide enough information to make a clear deduction.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to thinking one's death would be a relief to others, so there is no information to provide an answer to this question."])
+('5', ['directly_mention', "Very true for me###The post clearly states that the whole family knows about the situation and they are being super protective and sending help, which the poster mentions is exactly what they don't need. This implies that the people in the poster's life wish they could be rid of them."])
+('6', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster's mother believes that everything they do is wrong and even their father criticized them by saying they should start using their brain. This could imply that the poster makes things worse for the people in their life to some extent."])
+('7', ['directly_mention', 'Very true for me###In the post, I mentioned that everyone in my family is super protective and sending help, which indicates that other people care about me.'])
+('8', ['indirectly_mention', "Not at all true for me###Although the post does not directly mention feeling like I belong, the fact that my family knows about my situation and is not understanding or supportive suggests that I don't feel like I belong."])
+('9', ['directly_mention', 'Somewhat true for me###The post mentions that my whole family knows about my situation and everyone is super protective and sending help, which indicates that there are people who care about me, but I am not feeling fortunate to have them.'])
+('10', ['indirectly_mention', "Somewhat true for me###The post implies that my mother is crying in the kitchen because she can't deal with the situation, suggesting that she might be emotionally affected and cares about me. Therefore, I am fortunate to have at least one caring and supportive person in my life."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling disconnected from other people and not knowing how to deal with the situation, which suggests a sense of disconnection and difficulty in social interactions.'])
+('12', ['directly_mention', 'Very true for me###The post explicitly mentions feeling like an outsider in social gatherings and not knowing how to deal with the current situation, which indicates a strong feeling of being excluded and isolated.'])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions that the whole family knows about the current situation and is being overly protective, which may imply that there are people the poster can turn to in times of need. However, since the post also mentions that the help received is not what the poster needs, the answer is only somewhat true.'])
+('14', ['indirectly_mention', "Not at all true for me###The post expresses discomfort and frustration with the family's reaction to the current situation, suggesting that the poster is not close to other people at the moment."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to having satisfying interactions every day."])
+Do MS Check Record:
+('1', ['Correct', 'Continue to analyze the emotional context of posts to infer the relationships and feelings involved. In this case, the student accurately assessed that the poster’s family cares for them, thereby rejecting the idea that they would be better off without the poster.'])
+('2', ['Correct', "Good job recognizing the implications of the family's reactions. Make sure to always seek direct and indirect cues in the post about the poster’s impact on others' happiness, as the student successfully did here by noting the family’s distress."])
+('3', ['Incorrect', 'Be more nuanced in your analysis. The post conveys feelings of frustration and being overwhelmed, which could align with feeling like a burden. Reflect on these emotions and how they might relate to the question, without making strong assumptions.'])
+('4', ['Correct', 'Continue to avoid making assumptions beyond the content of the post. Maintain this careful analysis in distinguishing between what is explicitly stated and what might be inferred.'])
+('5', ['Incorrect', 'Do not assume emotions or thoughts beyond what the post explicitly provides. Instead of stating the family wishes to be rid of the poster, consider that their protective behavior may stem from concern. Reassess the post focusing only on the expressed feelings of being overwhelmed rather than being unwanted.'])
+('6', ['Incorrect', "Avoid overinterpreting statements to infer guilt or perceived burden. While the post shows family distress, it does not clearly indicate that the poster feels they make things worse. Carefully differentiate between expressing family problems and the poster's own belief about their impact on others."])
+('7', ['Correct', "Continue to use direct information from the post to answer related questions and consider the poster's explicit expressions as evidence of their feelings."])
+('8', ['Incorrect', "Avoid assuming that a lack of understanding or support equates to not feeling like one belongs. Instead, focus on the poster's feelings as expressed, and draw inferences only when there is clear evidence in the post relating to the question."])
+('9', ['Correct', 'Ensure you continue to analyze posts in context, noting that the existence of interaction does not necessarily imply positive feelings towards those interactions.'])
+('10', ['Incorrect', "Avoid assuming that the expression of concern by one person equates to having many caring friends. Instead, focus on the poster's attitude towards the support received to determine their perception of social support."])
+('11', ['Incorrect', "Review the post for explicit statements about feelings of disconnection and avoid making assumptions that aren't directly supported by the content."])
+('12', ['Incorrect', 'Focus on the information given without inferring additional emotional states, particularly about social gatherings, which are not mentioned in the post.'])
+('13', ['Correct', "Ensure to maintain the balance between the literal content of the post and the implicit emotional subtext when inferring the poster's feelings."])
+('14', ['Incorrect', "Avoid making assumptions about the poster's feelings towards others based solely on negative experiences; consider the nuances and context of the situation."])
+('15', ['Incorrect', 'Consider the emotional context of the post. The poster expressed feelings of being overwhelmed and misunderstood by family, which may impact daily interactions. Reflect on how these feelings could influence the frequency of satisfying interactions and include a nuanced interpretation in your response.'])
+
+ITER 1
+Do MS Record:
+('3', ['indirectly_mention', 'Somewhat true for me###The post expresses feelings of being overwhelmed and unable to handle the situation, which could align with feeling like a burden on society.'])
+('5', ['indirectly_mention', 'Not at all true for me###The post does not explicitly mention that the people in their life wish to be rid of them. Instead, it indicates that the family is being protective and offering help, suggesting concern rather than a desire to be rid of the poster.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not contain any information related to feeling like one belongs."])
+('8', ['indirectly_mention', 'Somewhat true for me###The post describes the poster expressing their frustration with how their family is reacting to their situation. This suggests that they may feel like they make things worse for the people in their life, although it is not expressly stated.'])
+('10', ['directly_mention', "Not at all true for me###The poster explicitly mentions that everyone in their family is being super protective and sending help, which is exactly what they don't need. This suggests that they do not feel fortunate to have caring and supportive friends, as they feel overwhelmed and burdened by their family's actions."])
+('11', ['indirectly_mention', "Somewhat true for me###While the poster doesn't explicitly state that they feel disconnected from other people, their description of the situation implies a sense of disconnection. They mention feeling criticized by their mother and their father's comment about using their brain, and how they feel alone in dealing with their current situation. These statements suggest a certain level of disconnection from their family and possibly others."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling like an outsider in social gatherings."])
+('14', ['directly_mention', "Not at all true for me.###The post explicitly states, 'I do the fuck not know how to deal with this shit either. Getting drunk now.' This suggests that the person is not close to other people."])
+('15', ['indirectly_mention', 'Not at all true for me###Based on the post, the poster expresses feelings of being overwhelmed and misunderstood by their family. This negative emotional state is likely to impact their daily interactions and reduce the likelihood of satisfying interactions.'])
+Do MS Check Record:
+('3', ['Correct', "Continue to carefully analyze the sentiments expressed in the post. Ensure to distinguish between the poster's own feelings and external perspectives when interpreting the post's content in relation to the mental scale questions."])
+('5', ['Correct', 'Good job recognizing that the post does not exhibit signs of the poster feeling that others wish to be rid of them. Remember to always closely read for any explicit or implicit signs relating to the questions and to avoid making assumptions not supported by the post.'])
+('6', ['Incorrect', "Review the post to identify expressions of guilt or responsibility for problems in relationships. Consider the implications of the poster's actions and statements on their family's emotional state."])
+('8', ['Incorrect', "Examine the context of the poster's relationships and feelings of belonging. A feeling of not belonging could be inferred from their frustration with family's involvement and criticism, despite lack of a direct statement."])
+('10', ['Incorrect', 'Consider the context of support mentioned and avoid assuming it equates to a lack of fortune. Reevaluate whether the poster’s situation with their family support truly aligns with the sentiment of the question regarding friends.'])
+('11', ['Correct', "Good job identifying the implied sense of disconnection from the poster's family, which can extend to a general feeling of disconnection. Continue to look for indirect cues in the post that reveal the poster's emotional state."])
+('12', ['Incorrect', "Consider the emotional context and broader implications of the post. Although the poster doesn't explicitly say they feel like an outsider, the emotional strain and family dynamics suggest potential feelings of isolation. Suggesting the poster doesn't mention it at all overlooks subtle cues that could indicate such feelings. Assess the post's emotional tone and context more carefully."])
+('14', ['Incorrect', 'Do not make direct inferences without textual evidence. The statement about getting drunk does not necessarily indicate a lack of closeness to others. It could be a response to stress or seeking a coping mechanism, not a reflection on social relationships. Avoid overinterpreting or inferring negative characteristics without support from the post.'])
+('15', ['Incorrect', "Avoid making assumptions not supported by the post's content. Focus on the information given, and do not add interpretations that infer a consistently negative emotional state without evidence. Instead, mention that the post indicates a situation which may temporarily affect the satisfaction of daily interactions, and not a permanent state of dissatisfaction."])
+
+ITER 2
+Do MS Record:
+('6', ['indirectly_mention', 'Somewhat true for me###In the post, the poster mentions that their family is super protective and sending help, which implies that they may feel like they make things worse for the people in their life because their family is intervening and trying to fix the situation.'])
+('8', ['indirectly_mention', "Not at all true for me###The post indicates that the poster feels overwhelmed and frustrated by their family's actions and criticism. This suggests that they may not feel like they belong, as their family's behavior seems to hinder rather than support them."])
+('10', ['indirectly_mention', "Somewhat true for me###The post mentions that the whole family knows about the poster's problems and is being overly protective. This implies that the family is trying to provide support, which can be seen as caring and supportive friends in this context."])
+('12', ['directly_mention', "Not at all true for me###The post mentions that the poster's mother started criticising them and calling everything they do wrong. This suggests that the poster doesn't feel like an outsider in social gatherings because their mother is involved in their life and opinions."])
+('14', ['indirectly_mention', 'Somewhat true for me###The post mentions that the whole family knows about the situation and is being super protective, which indicates that the poster might feel some level of closeness to their family members, even though they express frustration and criticism towards them.'])
+('15', ['indirectly_mention', "Not at all true for me###The post mentions that the poster doesn't know how to deal with the situation and is getting drunk as a response. This indicates that they might not be having satisfying interactions every day, as they are likely experiencing distress and negative emotions due to the current situation."])
+Do MS Check Record:
+('6', ['Incorrect', 'Avoid assuming the poster feels they are making things worse. Look for explicit statements reflecting self-perception before drawing conclusions.'])
+('8', ['Incorrect', 'Do not infer feelings of belonging from expressions of frustration. Distinguish between current conflicts and overall sense of belonging.'])
+('10', ['Incorrect', 'Focus on direct evidence in the post for social support rather than assuming family as friends. Take note of the ambivalence towards the protective actions.'])
+('12', ['Incorrect', "Avoid inferring social comfort from negative interaction. Criticism doesn't equate to feeling included at social gatherings."])
+('14', ['Correct', "Good job on considering the context mentioned in the post without making unnecessary assumptions. However, be mindful not to overinterpret information that isn't explicit. It's crucial to distinguish between implied sentiments and direct statements."])
+('15', ['Incorrect', "You should avoid jumping to conclusions about the poster's daily interactions. While the post demonstrates stress, it does not provide clear information on the quality of their daily interactions. Focus on what's explicit and avoid assuming the absence or presence of satisfying interactions without sufficient evidence."])
+
+ITER 3
+Do MS Record:
+('6', ['directly_mention', "Very true for me###The poster explicitly states that they feel like they are making things worse for the people in their life: 'she started the whole everything I do is wrong -bullshit and now even my father called me, who is currently in hospital because of his weak heart and told me I should start using my brain.'"])
+('8', ['indirectly_mention', "Not at all true for me###Based on the frustration expressed in the post, and the statement that the poster does not know how to deal with the current situation, it can be inferred that the poster does not feel like they belong: 'I do the fuck not know how to deal with this shit either.'"])
+('10', ['directly_mention', 'Somewhat true for me###The post mentions that the whole family knows about the situation and is being protective, which indicates that the poster has caring and supportive family members. However, the poster also expresses that this level of support is not what they need right now, suggesting some ambivalence towards the support received.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any direct or indirect information regarding feeling like an outsider in social gatherings. It mainly focuses on the family dynamics and work-related issues."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not provide any information or mention about the frequency of satisfying interactions in the poster's life."])
+Do MS Check Record:
+('6', ['Correct', 'Be cautious not to overstate feelings not explicitly mentioned in the post, but in this case, your interpretation aligns with the explicit content provided.'])
+('8', ['Incorrect', 'Avoid assuming feelings such as not belonging without clear evidence from the post. Look for explicit cues that indicate such feelings instead of inferring based solely on the negative situation described.'])
+('10', ['Incorrect', "Review the post for indications of the poster's feelings toward receiving support and reconsider how this sentiment might relate to feelings of being cared for by friends, not just family."])
+('12', ['Correct', "Continue to differentiate between the content of the post and the question's focus, ensuring that assumptions are not made without evidence from the post."])
+('15', ['Incorrect', 'Consider the emotional context of the poster, such as feeling overwhelmed, to infer the possible quality of daily interactions. Recommend reflecting on the supportive but overbearing family dynamics as a potential barrier to satisfying interactions.'])
+
+ITER 4
+Do MS Record:
+('8', ['directly_mention', 'Not at all true for me###The post mentions that the whole family is super protective and sending help, which is exactly what the poster does not need. This implies that the poster does not feel like they belong and does not feel supported by their family.'])
+('10', ['indirectly_mention', 'Somewhat true for me###Although the post does not specifically mention having many caring and supportive friends, it indicates that the family knows about the current situation and is offering help. This suggests that the poster may also have friends who are caring and supportive, even if not explicitly mentioned.'])
+('15', ['indirectly_mention', 'Not at all true for me###The poster expresses feelings of being overwhelmed, criticized, and not feeling understood or supported by their family. These negative interactions described in the post suggest that the poster may not have satisfying interactions on a daily basis.'])
+Do MS Check Record:
+('8', ['Incorrect', "Review the post carefully to identify feelings of belonging exclusively from the poster's perspective and avoid assumptions not supported by the text."])
+('10', ['Incorrect', "Avoid over-inferring about the support system that isn't mentioned in the post. Focus solely on what is explicitly stated or can be directly deduced about friends."])
+('15', ['Incorrect', 'Avoid assuming the absence of positive interactions; focus on analyzing the post for explicit information relevant to satisfying interactions. Observe if the poster articulates any moments that could be interpreted as positive or satisfying, rather than only inferring from the negative aspects.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to the mental scale questions indicate that they feel somewhat disconnected from other people, often feel like an outsider in social gatherings, and rarely interact with people who care about them. They also believe they make things worse for the people in their life and think they are a burden on society. These feelings suggest a risk of perceived burdensomeness.
+
+Correct
+Your analysis is on track, showcasing an understanding of the relationship between the poster's feelings and the concept of perceived burdensomeness. Continue to integrate multiple pieces of evidence from posts and scale responses to inform your conclusions. Remember to avoid overgeneralizing based on limited information and ensure your analysis remains grounded in the evidence provided.

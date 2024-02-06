@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  It feels like a vicious cycle. Im not allowed to leave my room until my HW's done (with the exception of eating meals). And because I cant focus, I don't get my work done. So I stay in my room like 80% of the time. The inablity to do anything stresses me out and makes me depressed. And because Im depressed, I cant focus on my work. So the work just piles up and up while I sit in my room, unable to get anything done. I try and try to get my work done, and I know I can do it, *but it just doesnt happen*. It makes me feel like a big screwup compared to my sister, who when she was my age, almost always got grades above a B. I need to brake the cycle, but I dont know where. Ive tried taking medicine to help me focus, but it doesnt seem to work. My semester ends in 2 weeks and I dont know what to do.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of inadequacy and comparison to a sibling, which may contribute to a perceived burdensomeness.
+

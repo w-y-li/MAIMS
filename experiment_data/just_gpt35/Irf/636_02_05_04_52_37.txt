@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  i went to inpatient a couple weeks ago after staying out of hospitals for about a year, and this time i cried because i felt like i could finally move on and it was  over . i recognize that i will still have to maintain my habits and medicine but it felt like i could do that, not giving a fuck about myself was over. I got released a couple of days after that and it all felt apart. i'm failing my classes, i'm single now, i don't have friends, i got into a fight with my sister and now we don't talk, and i feel like shit all the time and i cant talk to anyone about it because i have no one. i feel like the only option is to kill myself. this is a throw away account but i would like some help maybe? maybe some reason to live or a goal because i dont really have any.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of social support and connections, as the poster mentions being single, having no friends, and not being able to talk to anyone. This sense of isolation and lack of belongingness can contribute to feelings of hopelessness and being a risk factor for suicide.
+

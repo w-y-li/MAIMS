@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I've read a couple of chapters and this is probably the first self-help book that is working for me. What are your thoughts? Would you recommend?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show any evidence of risk of thwarted belongingness. It simply asks for thoughts on a self-help book and whether it is recommended.
+

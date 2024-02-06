@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Ugh. I so don‚Äôt have the energy for this, but 15 people (family and really REALLY close friends of mine- my support network) are coming. Doesn‚Äôt help that I am in the postdrome of a migraine. I just want to hide and cry in my room. T-1hr. 7pm. Then 5hrs of socializing. Ugh. HELP!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of energy for socializing and a desire to hide and cry in their room, suggesting a feeling of not wanting to be around others. This can be a sign of thwarted belongingness, a feeling of not fitting in or not having satisfying social connections.
+

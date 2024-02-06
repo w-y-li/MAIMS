@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I really can't remember. 2018 marks that I've been pretty solidly depressed for ten years.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates long-term depression, which can often lead to a feeling of being disconnected and alone. This suggests a potential risk of thwarted belongingness.
+

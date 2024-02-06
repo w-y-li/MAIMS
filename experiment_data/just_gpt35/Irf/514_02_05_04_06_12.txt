@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I really consider suicide, i really have no strength to fix things. I keep crying all the time because I'm so hopeless! I just want to end it forever. It's so hard to keep my happy face. I don't see the point of living this way, I want out...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of hopelessness, a desire to end life, and a lack of strength to fix things. These are common signs of thwarted belongingness, which is a risk factor for suicide.
+

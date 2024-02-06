@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  What would you do in this case... I asked my girlfriend if she could help me with some family issues, but its like I didnt say anything she ignored me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not provide enough information to determine if the poster suffers from depression. It is a single incident of the girlfriend ignoring the request for help with family issues, which could have various explanations.
+

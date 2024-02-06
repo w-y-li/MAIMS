@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Me and my friends grew up together, we all have common interests, all 3 of us tried out for a team and we all made it, however, the past 2 weeks have made me feel I‚Äôve reached the end of the line, my 2 other friends accelerated and improved sharply while I didn‚Äôt, I later learned from one of them, let‚Äôs call him A, that I could possibly could get kicked should I not improve my level, however, our friendship blew up today when our other friend, P, spread a rumor about A and I unknowingly helped spread it, afterwards, A started hating me while P got mad at me for telling him who started the rumor, so now I‚Äôm now practically friendless and about to get kicked from the team of my favorite sport, I don‚Äôt feel I can continue in this shithole of my life.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the poster is experiencing a lack of belongingness. They mention feeling friendless and at risk of being kicked from the team, which can contribute to a sense of isolation and disconnection from others.
+

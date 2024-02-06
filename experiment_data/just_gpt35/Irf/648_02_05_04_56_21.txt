@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I have such intense flashbacks about the trauma I had through therapy and being held at a hospital where the staff were horrible to the patients, I break down crying. I feel like I'm living it all over again and it's impossible to break out of until the flashback ends How do I handle these? It feels so real at the time and it stops me doing day to day things at the time it happens I'm not going back into therapy before anyone suggests that, and I'm already on anti depressants  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the individual is experiencing intense flashbacks and distress related to traumatic experiences. These flashbacks are described as feeling very real and making day-to-day activities difficult. This could be an indication of a mental health problem, such as post-traumatic stress disorder (PTSD), where individuals may experience flashbacks that re-traumatize them and impair their daily functioning. Thwarted belongingness, a feeling of being socially disconnected or isolated, is not explicitly mentioned in the post but could be implicated as a potential risk factor given the trauma experienced and perceived hostility from staff at a hospital.
+

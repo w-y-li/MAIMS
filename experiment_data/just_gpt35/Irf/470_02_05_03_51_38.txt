@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Every  day  is the fucking same. Wake up, shower, eat, then sit around until I can fucking sleep. This is a never ending cycle of hell. I don't even keep track of the date anymore, it's just more so light and darkness now.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post reflects a sense of hopelessness and isolation, suggesting a risk of thwarted belongingness.
+

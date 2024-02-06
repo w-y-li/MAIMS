@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Life shouldn’t be this miserable Overwhelming anxiety is ruining me  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post mentions overwhelming anxiety but does not provide any clear evidence or symptoms of depression. Therefore, it is not definitive to conclude that the poster is suffering from depression based on this single post.
+

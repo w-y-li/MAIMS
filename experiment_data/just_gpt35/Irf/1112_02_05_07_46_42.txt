@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm tired of faking confidence, because if you're not confident, no one will talk to you. I'm tired of faking happiness. I'm tired of being me. If you look at my post history, its all just complaining because I have no one else to tell, so I come to reddit. Complaining is all I'm good for. I dont have any worth, and my whole life is evidence that proves it. If I had the balls to actually kill myself, I probably would, but I'm afraid of hurting myself and death. I just can't take it anymore. I know that no one will save me, so I guess I'm just doomed to a life of below negative self esteem, perpetual loneliness and feeling sorry for myself.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of perpetual loneliness, worthlessness, and self-pity. The poster mentions having no one to talk to and feeling like they have no worth. These feelings indicate a sense of thwarted belongingness, a lack of social connection and feeling isolated from others.
+

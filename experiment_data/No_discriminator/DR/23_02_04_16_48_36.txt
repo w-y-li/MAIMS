@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Intrusive Thoughts I feel like I am standing on a grassy hill and the blades of grass is blowing in the wind around me, the sky is turning darker and darker. I can feel it becoming colder and the rain starts. When it rains it pours. The intrusive thoughts, the little will I have left to keep myself upright, the wind makes one big push and I fall. I fall hard. The wind is keeping me pushed down as I lay flat on my back and watch the storm go by, its cold, dark and rainy. People close to me are pushed out and a large glass cup is placed over me. They can’t see I am struggling and if they do they can’t get in. How long is the storm going to stay this time? I am not sure. The sad thoughts are like my safety blanket. Whenever things feel okay the thoughts come over and hug me tight. I am constantly depressed. When I laugh or smile, it’s like putting a band aid over a small cut. It feels better and it can start healing, but when I feel sad its like the band aids rip off and I am faced with the hurt all over again. The mask I put on, the adhesive falls right off when it no longer needs to be on. I am falling apart yet I am hanging on by a thread.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "I feel sad much of the time.###The post explicitly states 'I am constantly depressed' and 'Whenever things feel okay the thoughts come over and hug me tight.' These statements indicate a prolonged feeling of sadness."])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post mentions feeling constantly depressed and describes the sadness as a safety blanket. Additionally, it states that when the poster laughs or smiles, it feels better temporarily, but when they feel sad, it is like the wound is reopened. These statements imply a sense of pessimism about the future.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###In the post, the person talks about feeling like a failure and seeing their past as a lot of failures. This suggests that they have a perception of having failed more than the average person.'])
+('4', ['indirectly_mention', "I do not enjoy things as much as I used to.###The person mentions that when they feel sad, it's like the band-aids come off and they are faced with the hurt all over again. This suggests that they are experiencing a loss of pleasure in the things they used to enjoy."])
+('5', ['indirectly_mention', "I feel guilty a good part of the time.###The post mentions that the poster constantly feels depressed and that when they laugh or smile, it's like putting a band aid over a small cut, implying that they feel guilty for experiencing moments of happiness in the midst of their depression."])
+('6', ['indirectly_mention', 'I feel I may be punished.###The post describes the poster feeling like they are being pushed down by the wind and struggling, which could imply a sense of punishment or deserving of suffering in their experience.'])
+('7', ['indirectly_mention', "I am disappointed in myself.###The post mentions that I am constantly depressed and when I laugh or smile, it feels better but when I feel sad, it's like the band aids rip off and I am faced with the hurt all over again. This suggests that I may be disappointed in myself because of my constant struggle with depression."])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The post mentions that the sad thoughts are like my safety blanket and whenever things feel okay, the thoughts come over and hug me tight. This suggests that I may be engaging in self-critical and blaming thoughts when things are going well, causing me to be more self-critical and blaming than usual.'])
+('9', ['indirectly_mention', 'I cry more than I used to.###The post mentions that the person feels sad and depressed and that the sadness is like a safety blanket. This implies that the person cries more than they used to.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about suicidal thoughts or wishes."])
+('11', ['directly_mention', "I am so restless or agitated that it is hard to stay still.###The post mentions feeling restless and agitated: 'I feel like I am standing on a grassy hill and the blades of grass is blowing in the wind around me, the sky is turning darker and darker. I can feel it becoming colder and the rain starts. When it rains it pours.' This indicates a heightened state of restlessness and agitation."])
+('12', ['indirectly_mention', "I am less interested in other people or things than before.###The post mentions loss of interest indirectly through the statement, 'Whenever things feel okay the thoughts come over and hug me tight.' This suggests a lack of interest and engagement in positive experiences."])
+('13', ['directly_mention', "I find it more difficult to make decisions than usual.###I mention that I can't make decisions anymore."])
+('14', ['directly_mention', 'I feel utterly worthless.###I mention that I feel like a safety blanket of sad thoughts is hugging me tight, indicating feelings of worthlessness.'])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post indicates feelings of depression and being constantly sad, which are often associated with a decrease in energy levels.'])
+('16', ['indirectly_mention', 'I have not experienced any change in my sleeping pattern.###The post does not specifically mention changes in sleeping pattern, but it does not provide any information that suggests a change in sleeping habits.'])
+('17', ['indirectly_mention', 'I am much more irritable than usual.###The post mentions feeling constantly depressed, which can often lead to increased irritability.'])
+('18', ['directly_mention', 'My appetite is somewhat less than usual.###The post mentions feeling constantly depressed, which can often affect appetite and result in a decreased appetite.'])
+('19', ['directly_mention', "I find I can not concentrate on anything.###The post mentions 'I can not concentrate as well as usual.'"])
+('20', ['indirectly_mention', "I am too tired or fatigued to do most of the things I used to do.###The post mentions 'I am falling apart yet I am hanging on by a thread.' This implies that I am exhausted physically and mentally, which aligns with the option 'I am too tired or fatigued to do most of the things I used to do.'"])
+('21', ['directly_mention', 'I have almost no interest in sex.###The post mentions that the person has lost interest in things and is constantly depressed. This suggests a lack of interest in sex as well.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's description of feeling constantly depressed, experiencing intrusive sad thoughts, and feeling like they are falling apart suggest symptoms of depression.
+

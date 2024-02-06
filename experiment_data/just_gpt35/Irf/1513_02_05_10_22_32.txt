@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I need the confidence I have when I‚Äôm drunk. I‚Äôm just a better person and not a little bitch I need help why can‚Äôt I just remove the insecurities from my life and just live my life please just help me. I‚Äôm really Fucked right now and I just wish i felt like this all the time  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual feels burdened by their insecurities and wishes to remove them. This perceived burdensomeness is evident in their desire to be a better person without insecurities, indicating a risk of perceived burdensomeness.
+

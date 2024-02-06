@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I don't want to work, I don't want to travel, I don't want to go back to college, learn new things, go out, meet people, date, exercise, cook, read books, write, eat, or anything else. I have nothing to live for and I don't think that's going to change. The only thing I can honestly say I want to do is to be dead.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong desire to be dead and a lack of interest or motivation in any activities. This suggests a significant level of perceived burdensomeness, where the individual feels that their existence is a burden on others and that they have no purpose in life.
+

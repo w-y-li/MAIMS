@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I'm going to be doing one of those  Year in pixels  things to track how much my depression actually affects my day to day life. This time next year (or maybe monthly) I'll post my results. Wish me luck. This year is already at a bad start. Maybe this will benefit some people and be a good tool for psychology students to study.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions tracking how much their depression affects their day to day life, suggesting a perception of burden. Additionally, they express a negative outlook on the current year and hope that this tracking tool will benefit others, which could indicate a sense of feeling burdensome.
+

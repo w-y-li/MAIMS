@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  So I was recently on Snapchat. Well...my sister was. And she came across something, like a reading for 2018. Reading mine, I really thought about what it said. It actually got to me. It said to strengthen ties with friends and that they can support or help you. But...why? How would it know that I‚Äôm going through stuff? Idk...it just confused me. Maybe I should tell people about how I feel. Maybe I do need help. I‚Äôve spent my life holding everything in. From tears to rages of anger. But now...I feel like I‚Äôve hit a breaking point. I‚Äôve felt like I‚Äôve had hit points like this before but they‚Äôre nothing compared to this. I‚Äôm just really confused and I can think straight. I feel alone and scared of the world, scared of myself. I hate myself to the point where getting off the bus for school gives me so much anxiety I could start crying. I always feel judged, my friends are starting to fade. Maybe that‚Äôs why I need to strengthen the ties with them, so I don‚Äôt lose them. I just hope the year ahead can be better than the previous. I need my life back, I don‚Äôt want to keep living like this.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation, low self-worth, and a desire to strengthen ties with friends to avoid losing them, which are indicative of perceived burdensomeness.
+

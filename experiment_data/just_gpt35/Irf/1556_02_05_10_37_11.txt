@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  \*glasses clink* Cheers! ~_^ Happy new year.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show any indication of thwarted belongingness. The poster is expressing happiness and excitement about the new year, implying a sense of belonging and positive social connection.
+

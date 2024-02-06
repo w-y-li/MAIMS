@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  All types of depression fucking suck. Mine feels like a daily battle and a war of attrition. But what I really want in life is to love someone again or to make people laugh. Will you go look in your mirror (or use the camera on your phone) and just make a silly face or a smile, please? For one depressed person to another? (Don't take a picture or anything). Just make a silly face or smile. I understand if you don't want to and no need for an explanation, but you are physically able to do so. Love to you all.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not explicitly show risk of perceived burdensomeness. The poster expresses their struggle with depression and their desire to experience love and make people laugh, but does not indicate feeling like a burden to others.
+

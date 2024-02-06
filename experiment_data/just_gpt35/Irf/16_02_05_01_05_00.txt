@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Someone will love me one day, but I just need reassurance right now  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a longing for reassurance and the hope of being loved in the future, which indicates a potential risk of thwarted belongingness, the feeling of not belonging or being valued by others in a meaningful way.
+

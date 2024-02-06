@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Hi, do any of you have practical advice and methods on how to overcome fear? There are some things I have to do which, when I try to start them, cause me to have this intense freezing fear. In my case it can be opening various mail or even starting to read some book. It could even be when I decide to rent a movie. I know I shouldn‚Äôt be afraid and I do not see rational reasons for it, but I get waves of fear that feel like there is a predator that is going to attack. I feel it and I am gripped with stillness and fear as if I am hiding and can‚Äôt move or breathe heavily because it could reveal my position. Because of this I end up not doing things I have to do, missing some deadlines, not going to the dentist. Well the dentist is understandable since no one wants to go to them. In my case it is mundane things. This is probably a symptom of PTSD I am diagnosed with, but I still need to find ways to overcome these irrational fears.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the people in the poster's life being better off if they were gone."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the people in the poster's life being happier without them."])
+('3', ['directly_mention', "Not at all true for me###The post does not mention anything about feeling like a burden on society, so the answer is 'Not at all true for me' because it doesn't mention it."])
+('4', ['directly_mention', "Not at all true for me###The post does not mention anything about thinking their death would be a relief to others, so the answer is 'Not at all true for me' because it doesn't mention it."])
+('5', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling intense freezing fear and waves of fear that feel like there is a predator that is going to attack. This indicates a high level of fear and anxiety. It is possible that this fear and anxiety might make me feel like the people in my life wish they could be rid of me, although it is not directly stated in the post.'])
+('6', ['indirectly_mention', 'Somewhat true for me###The post describes the fear and anxiety causing the person to miss deadlines and avoid certain tasks, such as opening mail or reading a book. This behavior may lead the person to think that they make things worse for the people in their life by not being able to complete tasks on time. However, it is not directly stated in the post.'])
+('7', ['directly_mention', 'Very true for me###The post directly mentions that the fear causes the poster to miss deadlines and not go to the dentist. This suggests that the fear is causing them to avoid important tasks and responsibilities, which indicates a lack of confidence and belief that others care about them.'])
+('8', ['indirectly_mention', 'Somewhat true for me###Although the post does not directly mention feeling like they belong, the intense fear and sense of hiding and not being able to move or reveal their position may imply a sense of not fitting in or feeling disconnected. This suggests that the poster may not feel like they belong, but it is not explicitly stated.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything about interacting with people who care about me."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having caring and supportive friends."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feelings of disconnection and fear, which could indicate a sense of disconnection from others.'])
+('12', ['indirectly_mention', 'Very true for me###The post mentions feeling like an outsider in social gatherings because of intense fear and the need to avoid certain situations.'])
+('13', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to feeling supported by others or having people to turn to in times of need."])
+('14', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to being close to other people."])
+('15', ['directly_mention', 'Not at all true for me.###The post directly mentions that the person is afraid of doing certain tasks, which indicates a lack of satisfying interactions in their daily life.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden on others and that their death would be a relief to those in their life. This suggests a risk of perceived burdensomeness.
+

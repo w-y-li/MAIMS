@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Idk sometimes I feel like I'm sorting my issues out and getting better, I feel like I am in a better state of mind but then my SO tells me I'm not changing, I'm never going to change. I start to feel lost. I start to feel like I don't belong here  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show direct evidence of perceived burdensomeness. The individual expresses feelings of self-improvement and a better state of mind, but they mention feeling lost and like they don't belong, which may indicate feelings of sadness, disconnection, or alienation.
+

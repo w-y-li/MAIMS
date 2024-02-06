@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I feel so betrayed by people in my life I can't take it anymore I can't trust people I only had one true friend in my life and he was killed in front of me I ended up getting ptsd therapy isn't working anymore I feel alone my depression worse I just had two deaths in the family so there goes my support in my family it's all so dark I feel suppressed alone scared and weak I feel like I was just burned because every friend I try to be nice to treats me like dirt or lies and I catch them I would die tomorrow if it meant fixing my life so I could be happy again my entire life has been nothing but pain and torture emotionally I intend on ending my life tonight since no one seems to get how I feel or care  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden on others, as the poster mentions feeling alone, suppressed, scared, and weak. Additionally, the mention of wanting to fix their life to be happy again and feeling that no one understands or cares about their pain suggests a risk of perceived burdensomeness.
+

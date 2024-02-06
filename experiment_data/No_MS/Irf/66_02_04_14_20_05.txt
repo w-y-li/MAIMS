@@ -1,0 +1,56 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Hello. I'm not depressed, but my friend is terribly blue. Their life is crumbling and I can't bear to see them like this. I care about them very much. I don't want to reveal much information and I hope you understand. To summarize for you all: * They were involved in some deep stuff. * Some time back, they got their house broken into and while fighting the intruder(s) off, they received an injury in their head. * The injury increased the mental illnesses they had, one of them being Post Traumatic Stress Disorder. &gt; And this resulted a rise on violent seizures, traumatizing flashbacks, haunting voices that returned to the time they were in that deep stuff, not to mention that they can barely get out of bed. * They tried contacting with their family and friends, they tried going to professionals for help for their bodily and mental dysfunctions, but to their dismay, they (the doctors) gave up in the last moment. * Their friends just turned their back on them and they treat them unpleasantly. I'm one of the few friends they have left and I'm distant from them in location and I don't think there's a chance I would be able to be with them. What can I do?  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the individual is feeling isolated and distant from their friends and support system. They mention that their friends have turned their back on them and treat them unpleasantly, and they themselves are unable to physically be with their friend. This indicates a sense of thwarted belongingness, where the person is lacking the social connections and support they need, which can be detrimental to their mental health.
+
+Incorrect
+Review the distinction between the subject of the post (the friend) and the poster. The question pertains to the poster, but your analysis is focused on the friend's experiences. Avoid assuming that the feelings described by someone about another person are indicative of their own mental health.
+
+ITER 1
+Yes
+The post indicates that the friend is experiencing a sense of loneliness and feeling disconnected from others. The statement that their friends have turned their back on them and treating them unpleasantly suggests a lack of social support, which is a key factor in thwarted belongingness.
+
+Incorrect
+Remember to distinguish between information provided about the poster and the individual they are describing. The question asked about the poster's experience of thwarted belongingness, not their friend's. Carefully assess who the subject of the mental health question is and avoid making inferences about individuals not directly mentioned in the post. Focus on analyzing only the information given without additional assumptions.
+
+ITER 2
+Yes
+The post indicates that the poster's friend is experiencing a sense of isolation and rejection. The friend's family and other friends have turned their back on them and treat them unpleasantly. The poster also mentions being distant from the friend and unable to physically be with them. These factors suggest a potential risk of thwarted belongingness.
+
+Incorrect
+Be cautious not to attribute the experiences or mental health issues of others to the poster. In this case, the question regards the poster's experience of thwarted belongingness, not their friend's. Focus on analyzing the poster's feelings of connection or loneliness, rather than transferring the friend's situation onto the poster.
+
+ITER 3
+Yes
+The post indicates that the poster's friend is experiencing a difficult time and the poster feels helpless in supporting them. They mention that their friend's family and friends have turned their back on them, indicating a lack of social support. This suggests a potential risk of thwarted belongingness for the poster.
+
+Incorrect
+Remember to differentiate between the experiences of the poster and their friend. The question asks specifically about the risk of thwarted belongingness for the poster, not their friend. Focus on the information given about the poster's own experiences and feelings to accurately answer the mental health question.
+
+ITER 4
+Yes
+The poster mentions feeling distant from their friend in location and unable to be with them. This can contribute to a sense of isolation and can increase the risk of thwarted belongingness, which refers to a perceived lack of social connection or support.
+
+Incorrect
+Be careful not to confuse the mental health of the person mentioned in the post with the person who wrote it. The post is about the poster’s friend, not the poster themselves. The question is regarding the poster's risk of thwarted belongingness, not their friend's. Refocus your evaluation on the mental health indication of the poster solely, without inference from their friend’s condition.
+
+ITER 5
+Yes
+The poster expresses concern for their friend who is experiencing difficulties and is feeling distant from them in location. This suggests a potential risk of thwarted belongingness, as the poster wants to support their friend but feels unable to do so due to their physical distance.
+
+Incorrect
+Carefully distinguish between the poster and the third party they are describing. The question refers to the mental health risk of the post's author, not their friend. Focus on information pertaining directly to the poster for this question.
+
+ITER 6
+Yes
+The post shows that the poster is feeling distant from their friend in location and unable to be with them. They express concern and care for their friend, indicating a need for belongingness. However, they also mention that their friend's other friends have turned their back on them and treat them unpleasantly, suggesting that the poster may fear a similar rejection and feel a lack of belongingness themselves.
+
+Incorrect
+Focus on analyzing the mental health situation as described for the correct individual in the post. Do not infer information that is not present, and be cautious of attributing emotions or experiences from other individuals in the post to the subject of inquiry. The question is about the friend's risk of thwarted belongingness, not the poster's. Re-evaluate the post and the question to direct your analysis solely towards the friend's experiences.

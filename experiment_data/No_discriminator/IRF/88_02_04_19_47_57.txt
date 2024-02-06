@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Three years ago my dad died, it hardly feels like three weeks. It's like everything else in my life is so insignificant in comparison, it's like a black hole that distorts my perception of time. It's as if time passes 100x faster since it and everything before it is so long ago. People say that after a major event in their life everything feels categorised into before and after it but to me it feels like things that are it and not, but most of them are. People have been telling me since then that I probably have depression and should maybe get help but that's mostly just from seeing me because I don't open up. I feel like I've just always been a little gloomy and don't feel very different now compared to before other than the whole bending of time thing. People say they noticed a change in me, but I didn't, maybe they just expect something like that to mess up a 14 year old?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me###The post mentions that people have been telling me since the death of my father that I probably have depression and should maybe get help. This indicates that the people in my life do not think that they would be better off or happier without me, as they are concerned about my well-being and suggest seeking help.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the people in my life being happier without me. There is no information provided to deduce an answer to this question."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person has been feeling gloomy and that people have been telling them that they probably have depression and should consider getting help. This suggests that the person may feel like they are a burden on society.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the person's perception of their death being a relief to the people in their life. The focus of the post is primarily on the distortion of time and the impact of their father's death."])
+('5', ['indirectly_mention', 'Very true for me###The post mentions that people have been telling that the poster probably has depression and should get help. This suggests that the poster might think that people in their life wish they could be rid of them.'])
+('6', ['indirectly_mention', 'Somewhat true for me###The post mentions that the poster feels like they make things worse for the people in their life. This suggests that the poster might think that they make things worse for others.'])
+('7', ['indirectly_mention', "Somewhat true for me###In the post, I mention that people have been telling me to get help and that it's mostly just because they see me and I don't open up. This implies that other people care about me to some extent, even if I don't always feel it."])
+('8', ['indirectly_mention', 'Not at all true for me###In the post, I talk about feeling like everything in my life is insignificant compared to the death of my dad, and how it distorts my perception of time. This suggests that I may not feel like I belong and that I am detached from others.'])
+('9', ['directly_mention', 'Somewhat true for me###The post mentions that people have been telling me since my dad died that I probably have depression and should maybe get help, indicating that I have limited interaction with people who care about me.'])
+('10', ['indirectly_mention', "Not at all true for me###The post mentions that people say they noticed a change in me since my dad died but I didn't, indicating that I don't feel fortunate to have many caring and supportive friends."])
+('11', ['directly_mention', "Somewhat true for me###The post mentions feeling disconnected from other people: 'People have been telling me since then that I probably have depression and should maybe get help but that's mostly just from seeing me because I don't open up.' This suggests a disconnection from others."])
+('12', ['directly_mention', "Not at all true for me###The post mentions feeling like an outsider in social gatherings: 'People say they noticed a change in me, but I didn't, maybe they just expect something like that to mess up a 14 year old?' This suggests not feeling like an outsider in social gatherings."])
+('13', ['indirectly_mention', "Somewhat true for me###The post mentions that people have been telling me since then that I probably have depression and should maybe get help but that's mostly just from seeing me because I don't open up. This implies that the poster does not feel comfortable opening up to others, but there are people who are aware of their situation. Therefore, it is likely that the poster feels somewhat true that there are people they can turn to in times of need."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the poster being close to other people. There is no indication in the text to make a deduction or assumption about the poster's closeness to others."])
+('15', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling gloomy and not feeling very different now compared to before, which suggests that the poster may not have satisfying interactions every day. However, since the post does not directly mention satisfying interactions, I can only make an indirect deduction based on the given information.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post exhibits signs of thwarted belongingness based on the answers to the mental scale questions. The poster expresses feelings of being a burden, making things worse for others, and feeling disconnected from people. Additionally, they indicate that they rarely interact with people who care about them and do not feel like they belong. These feelings of isolation and lack of social support suggest a risk of thwarted belongingness.
+

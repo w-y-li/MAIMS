@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  When someone is depressed you shouldn‚Äôt try to ‚Äúfix them‚Äù you can‚Äôt love someone‚Äôs depression away but you can love someone through depression when someone all of a sudden is really happy and maybe starts giving out gifts or just dismisses depression entirely, ask them what‚Äôs up because most of the time they aren‚Äôt happy, they‚Äôre at peace with the decision they‚Äôve made to kill themselves and finalized their decision, I don‚Äôt think I have any real friends, they aren‚Äôt phased when I‚Äôm noticeably sadder than normal and they just don‚Äôt really care if I‚Äôm there or not in general but I‚Äôm friends with them because they put up with me at least, the second someone finds out about my mental health issues that‚Äôs all they know me as, the kid who wants to kill himself I‚Äôm doing shit in school too I‚Äôm a junior and this is my do or die year this decides if I graduate or not but I can‚Äôt find motivation for anything I have an assignment due tomorrow but I just can‚Äôt bring myself to do it, anyways if you‚Äôre in this sub I assume you‚Äôre a nicer person than most but still id like to say a simple compliment to someone can go a long way  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of being a burden on others and not feeling cared for by friends. The mention of the decision to kill oneself suggests a perception of burdensomeness and a lack of support, which are indicators of risk of perceived burdensomeness.
+

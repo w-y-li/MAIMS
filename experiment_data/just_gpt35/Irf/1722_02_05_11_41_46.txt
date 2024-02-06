@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I got diagnosed with a pretty serious autoimmune disease about 5 months ago. The prognosis isn't great. I can take steroids and a few other drugs to halt the progress, but eventually, it's gonna destroy my stomach/GI tract. I might make it to 70, but that's not really realistic. All I know is that my life is going to be painful. It already is, but long term, it's just gonna get worse. For those of y'all with chronic illness, how do you deal with the knowledge that things are only going to get worse? How can you maintain hope when there really isn't any reason to have it? I'm never going to be able to live a normal life. What woman would ever want to date a guy who is gonna die in his 60's? On the off chance that I can have kids without fucking them up with my disease, is it even ethical to do it when I can't commit to being there for them? I just feel sad, and I don't think I can ever get to a point in my life where it won't be this way.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of isolation and a concern about being rejected by a potential partner due to the poster's condition. These thoughts indicate a risk of thwarted belongingness, which is feeling disconnected from others and lacking a sense of social support.
+

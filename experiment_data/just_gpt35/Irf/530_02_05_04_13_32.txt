@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I don't really give a shit about celebrating, because it feels like I'm celebrating nothing except for my own mental decline as the years drag on. I'm gonna sit alone in my room doing jack squat because I'm too embarrassed to ask the 1.5 friends I have what they're doing because it implies I'm a loser with no plans and also because I literally don't care. This year has been primarily a grind with very little reward. Every year we tell ourselves we will get better only for things to feel more and more blah. Everyone expects me to do something but I just don't see why. God I just wanna sleep these upcoming 24 hours away  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation and a lack of connection with others, suggesting a potential risk of thwarted belongingness.
+

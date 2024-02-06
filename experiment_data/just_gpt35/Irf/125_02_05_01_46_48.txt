@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Just curious, as last year I have lost most if not all of my friends and in the New Year even my sibling has told me  I don't want to be around negative people  and proceeded to cut me out in all social platforms and in real life. I just can't help but think that I don't choose to be this way, it's just how I am...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of being burdened by negative perceptions of oneself, as evidenced by the loss of friends and sibling cutting off contact due to the perception of being a negative person. This aligns with the concept of perceived burdensomeness, which is associated with certain mental health issues.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I feel like if I was my non-depressed self, I would be able to get myself out of the situation that's making me depressed.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of isolation and a lack of support, which can contribute to thwarted belongingness.
+

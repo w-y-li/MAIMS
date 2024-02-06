@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  So I got a psychosis and it really sucked, it was the scariest experience in my life by far. I've googled the way people get help with the psychosis etc. But it's basically meds... I hate meds so much. I also haven't slept much yet, I can't sleep cause I keep hearing things which is driving me crazy..  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show a risk of thwarted belongingness. The poster's main concern seems to be about their experience with psychosis and their dislike for medication, as well as the difficulty they are facing in sleeping due to hearing things.
+

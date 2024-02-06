@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I'm ending 2016 having to fight through a situation I have no energy to deal with. I am being victimised once more and have little hope of getting help, yet I have no choice but to fight. I feel so much despair and anguish, and the NYE celebrations going on around me only make it worse. I honestly don't know if I can live through to the new year. God or someone help me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows signs of thwarted belongingness as the poster feels victimized and lacks hope of getting help. They express despair and anguish, feeling disconnected from the NYE celebrations happening around them. The mention of not knowing if they can live through to the new year indicates a potential risk of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  It‚Äôs just sad that there‚Äôs a bigger chance of me killing myself than things getting better this year.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a sense of hopelessness and a belief that the individual is a burden, as they perceive a higher likelihood of ending their life rather than things improving.
+

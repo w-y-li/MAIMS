@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  So inconceivably lonely, but I have family that loves me dearly. I don't know if I have depression or not but every minute I spend on this earth, I feel crushed by this looming sense of solitude.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feeling inconceivably lonely and crushed by a looming sense of solitude, which are common symptoms of depression.
+

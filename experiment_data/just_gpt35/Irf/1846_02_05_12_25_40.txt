@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  If you guys want the story as to why, there's an earlier post I made about my story. Though not hugely dramatic, it is too much for me to bear. What should I do? I hate myself, I don't have friends anymore and I hate my life. I've just thought about taking a loaded shotgun and ending things just like that, but... I'm afraid to die. What do I do?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation, lack of friends, and a strong feeling of self-hatred. The poster also expresses thoughts of ending their life, but is afraid to die, which may reflect a sense of being trapped and feeling like they don't belong. This suggests a potential risk of thwarted belongingness, as they feel disconnected and alone.
+

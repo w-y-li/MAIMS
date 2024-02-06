@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Hey people, I'm M17 and I struggle with depression for quit a long time. For a few months I thought everything would get better. But lately my mental health got worse and I'm really thinking about suicide very often (several times a day) . Nothing makes sense anymore and I feel like nobody, but one person, actually cares about me. If she wouldn't encourage me everyday to not do it I already would have done it. My mind is forcing me into dangerous situations or is constantly thinking about it. Please, can anyone help me. I want this to end. I thought about picking up self harm again after I've been clean for nearly a month. Should I really do it?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a clear risk of perceived burdensomeness. The poster mentions feeling like nobody cares about them, and their mind is forcing them into dangerous situations. They are contemplating self-harm and have thoughts of suicide multiple times a day.
+

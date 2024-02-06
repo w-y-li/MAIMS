@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I have severe anxiety, probably middle ground depression. My girlfriend loves me, she always says I‚Äôm perfect and that everything is perfect with us, I know she‚Äôll never cheat on me or do me wrong, but my anxiety and depression means I‚Äôm constantly thinking I‚Äôm not good enough or that she‚Äôs talking to other guys or flirting with them or dancing with guys at clubs. I just wish it would go away.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a sense of insecurity and irrational thoughts about the girlfriend's loyalty, which can be indicative of thwarted belongingness.
+

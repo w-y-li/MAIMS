@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I didn‚Äôt sleep very well last night and I returned to work after several days off and it has thoroughly and completely exhausted me. I did want to share something that I read last night that I have thought about ever since I read it. I started his book The Noonday Demon last night in order to properly understand my own struggles with depression. His article Anatomy of Melancholy (http://andrewsolomon.com/articles/anatomy-of-melancholy/) he wrote in 1999 for The New Yorker in which he talks about his own personal battles with depression have made him a huge advocate for depression and is very informative. Andrew also has done a couple of TED talks. My personal favorite of his can be found here (https://www.ted.com/talks/andrew_solomon_depression_the_secret_we_share).  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show any indication or mention of thwarted belongingness. The poster mainly discusses their difficulty with sleep, returning to work, and their interest in reading about depression and mental health.
+

@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I’m an empty shell of a person I only show emotion I don’t feel it when society dictates that I should laugh or cry I do but I don’t feel happy or sad just nothing. It makes day to day things hard because I can’t emotionally connect with people and they usually end up hating me for it, I want more than anything to be able to feel something again  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "I am so sad or unhappy that I cannot stand it.###The post mentions that they don't feel happy or sad, just nothing. This indicates a lack of emotions and the possibility of feeling extreme sadness or unhappiness that they cannot tolerate."])
+('2', ['directly_mention', 'I feel I have nothing to look forward to.###The post mentions that they are an empty shell of a person and cannot emotionally connect with people. This indicates a sense of pessimism and a lack of hope for the future.'])
+('3', ['indirectly_mention', "I feel I have failed more than the average person.###The post mentions that day to day things are hard because the poster can't emotionally connect with people and they usually end up hating the poster for it. This indicates a feeling of failure in interpersonal relationships."])
+('4', ['indirectly_mention', "I get very little pleasure from the things I used to enjoy.###The post mentions that the poster can't emotionally connect with people and that they want more than anything to be able to feel something again. This suggests a loss of pleasure in activities and an inability to derive enjoyment from them."])
+('5', ['indirectly_mention', "I feel guilty a good part of the time.###The poster mentions that they can't emotionally connect with people and they usually end up hating them for it. This suggests a feeling of guilt, as they might blame themselves for their inability to connect and maintain relationships."])
+('6', ['indirectly_mention', 'I feel I am being punished.###The poster describes themselves as an empty shell of a person and expresses difficulty in emotionally connecting with others. This could be seen as a form of punishment, as they are missing out on the ability to feel happiness or sadness and the emotional connection with others.'])
+('7', ['directly_mention', "I dislike myself.###In the post, I mentioned that people usually end up hating me for my inability to emotionally connect with them. This suggests that I have negative feelings about myself, which aligns with the option 'I dislike myself.'"])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual.###Although I didn't explicitly state that I criticize or blame myself, I mentioned that I am an empty shell and don't feel happy or sad. This lack of emotional connection may lead to self-criticism or blaming. Therefore, option 'I am more self-critical or blaming than usual' seems appropriate."])
+('9', ['indirectly_mention', "I don't have any thoughts of killing myself.###The post mentioned that day to day things are hard for me because I can't emotionally connect with people and they usually end up hating me for it. This implies that I may be experiencing feelings of isolation and rejection, but it does not directly mention suicidal thoughts or wishes."])
+('10', ['indirectly_mention', "I used to be able to cry, but now I cannot cry even though I want to.###The post talks about being an empty shell of a person and not being able to emotionally connect with people. This suggests a lack of emotional expression, including the inability to cry. While the post doesn't directly mention crying, it indirectly suggests the inability to cry despite the desire to feel something again."])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The post mentions that day to day things are hard, which suggests that there is a level of restlessness or agitation present. The poster also mentions the difficulty in emotionally connecting with people, which further indicates a higher level of restlessness or agitation.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The post mentions that the poster cannot emotionally connect with people, which implies a decreased interest in other people. Additionally, the poster states that they want more than anything to be able to feel something again, suggesting a loss of interest in things.'])
+('13', ['directly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that day to day things are hard, which suggests that the person is experiencing difficulty in making decisions.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling worthless."])
+('15', ['directly_mention', 'I do not have enough energy to do anything.###The post mentions that day to day things are hard for me, suggesting a lack of energy to engage in activities.'])
+('16', ['directly_mention', 'I sleep a lot less than usual.###The post indicates difficulty in emotional connection with others, which can cause sleep disturbances and result in waking up earlier than normal.'])
+('17', ['directly_mention', "I am irritable all the time.###The post mentions that I can't emotionally connect with people and they usually end up hating me for it, which implies that the person is experiencing frequent irritability."])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post states that I am an empty shell of a person and that I want more than anything to be able to feel something again. This suggests a lack of interest or pleasure, which could potentially result in a decreased appetite.'])
+('19', ['indirectly_mention', "I find I can not concentrate on anything.###The poster mentions that day to day things are hard for them because they can't emotionally connect with people. This implies that their lack of emotional connection affects their ability to concentrate on things."])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do a lot of the things I used to do.###The poster mentions that day to day things are hard for them, which suggests that they may be experiencing tiredness or fatigue that is affecting their ability to engage in activities they used to do.'])
+('21', ['indirectly_mention', "I have almost no interest in sex.###The poster mentioned that they can't emotionally connect with people, which can hinder their sexual interest and desire."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the poster's description, they exhibit several symptoms commonly associated with depression. They express feeling empty, disconnected from emotions, and unable to connect with others. Additionally, they mention a desire to feel something again, indicating a possible loss of pleasure and interest in activities. These symptoms align with the diagnostic criteria for depression, suggesting that the poster may be suffering from this mental health condition.
+

@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  My mom caught me with someone, I lied and now she is mad... tl;dr: Mom caught me with someone and also caught me in a big lie. My mom (F54) caught me in a huge lie as well after that, because I was trying to get her out of the house, things have been complicated since I've been lying. Today she arrived sooner than expected and well what i was trying to avoid happened. She is telling me I'm like a 14 year old and doesn't understand why i've done this. That I don't do shit despite me doing house stuff, and working. That  I was your age too  conversation happened. I'm 22 years old and I'm thinking about moving out and doing my own thing, but I feel like I don't need to update people every 10 minutes, is that just me? I don't think I have been lying to her, I just didn't told her I was seeing someone, and to be honest what was she expecting me to say?? To be honest I don't know what to do, can you guys help me dealing with this?? I kinda feel worthless at this point too because of all the things she said to me  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time###The poster mentioned feeling worthless and mentioned all the things their mom said to them, which implies that they are feeling sad much of the time.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future###The poster mentioned feeling worthless and being unsure about what to do, which implies a sense of pessimism and discouragement about their future.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The poster mentions feeling worthless based on the things their mom said to them. This suggests that they may feel like they have failed in some way.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The poster mentions feeling worthless and the things their mom said to them. It is likely that their current situation is causing a decrease in pleasure and enjoyment in their life.'])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling guilty."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling punished."])
+('7', ['directly_mention', 'I dislike myself.###In the post, I mentioned feeling worthless and all the things my mom said to me. These indicate that I have a negative view of myself.'])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual.###Although I didn't explicitly state that I criticize or blame myself, I mentioned that my mom said I don't do anything and compared me to a 14-year-old. This suggests that I may be more self-critical or blaming than usual."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything about suicidal thoughts or wishes. No information is provided that can help me deduce the answer."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about crying. No information is provided that can help me deduce the answer."])
+('11', ['indirectly_mention', "I am more restless or agitated than usual.###The post mentions that the person's mom is mad at them for lying and caught them with someone. This situation can cause feelings of restlessness and agitation."])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The post mentions that the person feels worthless and mentions feeling negatively about themselves due to the things their mom said. This suggests a potential loss of interest in other people or activities.'])
+('13', ['directly_mention', "I find it more difficult to make decisions than usual.###In the post, I mentioned that I don't know what to do. This indicates that I am having difficulty making decisions."])
+('14', ['directly_mention', 'I feel more worthless as compared to other people.###In the post, I mentioned that I feel worthless at this point because of all the things my mom said to me. This indicates that I feel more worthless as compared to others.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not contain any information related to loss of energy."])
+('16', ['directly_mention', 'I have not experienced any change in my sleeping pattern.###The post mentions that the person is thinking about moving out and feeling worthless, but there is no mention or indication of any change in their sleeping pattern.'])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The poster mentions feeling worthless and all the things their mother said to them, indicating a negative emotional state and potential irritability.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The poster mentions feeling worthless and the things their mother said to them, which can potentially affect their appetite. They also mention not knowing what to do, which may cause some stress and decreased appetite.'])
+('19', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to concentration difficulty."])
+('20', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to tiredness or fatigue."])
+('21', ['not_mention', "Doesn't mention at all.###There is no mention of changes in interest in sex in the post."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the answers to the mental scale questions, the poster expresses feelings consistent with depression such as sadness, pessimism about the future, past failure, loss of pleasure, self-dislike, self-accusations, feeling worthless, agitation, less interest in others, difficulty making decisions, irritability, decreased appetite, and fatigue.
+

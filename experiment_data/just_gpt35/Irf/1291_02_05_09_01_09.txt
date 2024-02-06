@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I feel lonely because it's another NYE and it just reminds me that I've gone another year without finding anyone to connect with, share life with. Nobody to share stupid resolutions that we'll break with. Nobody to say  happy New years!  at midnight to. I feel like 2018 is just going to be another repeat of work, school, sleep, eat, again... and that I won't make any meaningful connection with anyone, won't achieve my goal of completing a degree, and it won't be any different from the last 5 years. I realize that this is probably part of my depression kicking in, but I'm really sad I haven't even got a friend to chat with tonight.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness, lack of connection with others, and a sense of hopelessness about the future. These are all factors associated with perceived burdensomeness, which is a risk factor for mental health problems such as depression and suicidal ideation.
+

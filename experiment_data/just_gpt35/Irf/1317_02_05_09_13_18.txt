@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I get it. I'm awkward at parties. I'd probably say no if you invited me to a huge party anyway. Doesn't mean I don't want to be invited. And when it's 4 or 5 of my 'closest friends' all having fun and playing board games together and no one wanted me to be there it makes me feel the worst I've felt since I started taking antidepressants. I don't want to feel like this any more. I don't want to feel anything any more. I spent so long trying to convince myself that there's no huge fucking glaring flaw with my personality that drives people away but I guess the universe just keeps trying to convince me otherwise. Why is this so hard  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, rejection, and a desire to not feel anything anymore. These feelings may indicate a risk of perceived burdensomeness, as the individual may believe that their presence is a burden to others and that they are not wanted or valued.
+

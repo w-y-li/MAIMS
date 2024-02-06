@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôm about to turn 20 soon, and lately I realized I don‚Äôt even enjoy living. Everyday I wake up, I don‚Äôt even want to get out of bed I just want to lay there. When I do get out of bed I just hate doing anything. It doesn‚Äôt matter what I‚Äôll be doing I just rather be dead all the time so I don‚Äôt have to do anything? Maybe I‚Äôm lazy or something but I just hate doing stuff? I rather just be dead lol, so I can just be in peace.. I‚Äôm on antidepressants and they help but I still don‚Äôt enjoy life, there‚Äôs more why I don‚Äôt enjoy life mostly cause I can‚Äôt hold a job, or keep any friends or even talk to anyone. I just feel like a fucking ghost. Been thinking about just ending up, but can‚Äôt get enough courage to do it. Hopefully soon I just say fuck it and do it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of isolation, difficulty maintaining relationships, and a desire to be dead. These factors indicate a potential risk of thwarted belongingness, as the individual feels disconnected from others and lacks a sense of belonging.
+

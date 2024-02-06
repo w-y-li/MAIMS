@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôm 20 years old unemployed and just got an email saying I might not be able to stay in university next year. I have zero friends and speak to my family at most once a month. I haven‚Äôt been eating properly and have very little motivation to do anything. I‚Äôve tried many times to fix this but I‚Äôm ready to just end it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of isolation, lack of social connections, and potential thoughts of suicide, which are all indicative of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I‚Äôve sat in a dark room for 5 hours staring at a wall, doing nothing. Yet I still felt as bored as if I were to just watch Netflix or play games. I feel bored and scared. Scared that I lost my mind and will never be normal again.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post describes feeling bored and scared, but does not mention or imply any feelings of burden or perceived burdensomeness.
+
+Correct
+When analyzing posts, it's important to focus on the specific information provided and avoid making assumptions beyond the evidence. Continue to assess the expressed feelings carefully and avoid attributing feelings or experiences to the poster that are not clearly stated. This will maintain the integrity of your mental health analysis.

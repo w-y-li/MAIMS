@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Everyone's out there celebrating. People you know brandishing how far they've come and how they're gonna take control of the upcoming year. Bring in more blessings. Get more out of life. While I'm here. I've slept all day. I've been stuck in my bed for days. And I'm probably just gonna sleep again and try to forget I'm living this useless life. I've been here for years. And I haven't moved. I'm fucking miserable. Nothing's changed and nothing probably will.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of hopelessness, worthlessness, and self-perceived burden. The poster expresses a feeling of being stuck and having a useless life, suggesting a risk of perceived burdensomeness.
+

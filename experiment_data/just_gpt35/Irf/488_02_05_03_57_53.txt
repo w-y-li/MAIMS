@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I can't shake the feeling that the next year is going to be as bad as the last. I feel like I'm meant to be someone better in the new year. Like I had a whole year to improve my life, but here I am still depressed. Hope everyone has a good 2018.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of isolation and a sense of not belonging, as the poster expresses dissatisfaction with their current state and highlights the lack of improvement in their life despite having a whole year. This feeling of being disconnected or not fitting in may indicate a risk of thwarted belongingness.
+

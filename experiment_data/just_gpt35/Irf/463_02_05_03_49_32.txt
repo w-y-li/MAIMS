@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Everyday I could be fine but eventually the thought of my death creeps in to my thought and it makes me sad. I have been questioning what is on the other side all my life and sometimes I just think I should kill myself to get it over with. My friends don't help either most of the are sorta surface level and the ones closest to me are the most negative. I just want to have fun in life I'm only 16 why do I think about it so much ? I don't even care to experience homeschool anymore I am just trying to go to college.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates recurring thoughts of death and a desire to end one's life, which could be indicative of a sense of perceived burdensomeness.
+

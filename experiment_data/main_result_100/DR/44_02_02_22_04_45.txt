@@ -1,0 +1,100 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Help.. So, I have a friend, who's had quite a tough life.(prefer not to go into details) I've always had severe anxiety issues, mostly social Such was the cause for major bullying. This, combined with family issues, put me into a deep depression, bringing me to contemplate suicide. All of this was before I knew this friend. I brought this up to him the other day, and he replied with  all the shit ive been through in my life and im STILL GOING THROUGH and you you think about suicide because of your social awkwardness?  He now has me blocked on all social media, and I'm not exactly sure how to go about this.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I am sad all the time.###In the post, I mentioned that I have had a tough life, severe anxiety issues, bullying, and deep depression, which led me to contemplate suicide. These experiences indicate that I am sad all the time.'])
+('2', ['indirectly_mention', 'I feel the future is hopeless and that things cannot improve.###Although the post does not directly mention pessimism, it does reveal that I have had a tough life and contemplate suicide because of my social awkwardness. These experiences suggest that I may feel the future is hopeless and that things cannot improve.'])
+('3', ['indirectly_mention', "I feel I have failed more than the average person.###The post mentions the poster's severe anxiety issues, bullying, and depression, indicating that they have experienced significant challenges and may perceive themselves as having failed more than the average person."])
+('4', ['indirectly_mention', "I get very little pleasure from the things I used to enjoy.###The post talks about the poster's deep depression and contemplation of suicide, suggesting a loss of pleasure in previously enjoyed activities."])
+('5', ['indirectly_mention', 'I feel quite guilty most of the time.###The post mentioned severe anxiety issues, bullying, and deep depression. These experiences can often be associated with feelings of guilt, especially when the person blames themselves for their struggles.'])
+('6', ['indirectly_mention', "I do not feel I am being punished.###While the post doesn't directly mention punishment feelings, the description of the friend's response and subsequent blocking on social media may suggest a form of punishment. However, based on the limited information provided, it is not possible to determine the poster's exact feelings regarding punishment."])
+('7', ['directly_mention', 'I dislike myself###The post mentions that I brought up contemplating suicide, which indicates a deep level of self-dislike.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual###The post mentions severe anxiety issues, social awkwardness, major bullying, and family issues, which could contribute to increased self-criticism and blaming.'])
+('9', ['directly_mention', 'I would like to kill myself.###The post explicitly states that the poster has contemplated suicide.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to crying."])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The poster mentions having severe anxiety issues, which can often lead to feelings of restlessness and agitation that make it hard to stay still.'])
+('12', ['directly_mention', 'I am less interested in other people or things than before.###The poster mentions going through a deep depression as a result of their difficult life circumstances, which often leads to a loss of interest in activities and people.'])
+('13', ['directly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that I have severe anxiety issues, which can often contribute to difficulties in making decisions. Therefore, I can say that I find it more difficult to make decisions than usual.'])
+('14', ['indirectly_mention', "I do not consider myself as worthwhile and useful as I used to.###Although the post doesn't explicitly mention feelings of worthlessness, it does mention that I have experienced major bullying and deep depression. These experiences can often lead to feelings of diminished self-worth and worthlessness. Therefore, I can say that I do not consider myself as worthwhile and useful as I used to."])
+('15', ['indirectly_mention', 'I do not have enough energy to do very much.###Although the post does not directly mention energy loss, the mention of a deep depression and contemplating suicide suggests a lack of energy to engage in activities.'])
+('16', ['indirectly_mention', 'I have not experienced any change in my sleeping pattern.###While the post does not directly mention changes in sleeping patterns, there is no indication of any changes, and the focus is mainly on mental health issues rather than sleep disturbances.'])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post mentions severe anxiety issues and major bullying, which can both contribute to increased irritability.'])
+('18', ['directly_mention', 'My appetite is somewhat less than usual.###The post mentions being in a deep depression, which can often lead to changes in appetite such as decreased interest in eating or a decrease in appetite.'])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###In the post, I mentioned that I have severe anxiety issues and that it caused major bullying. This, combined with family issues, led me into a deep depression and contemplating suicide. These experiences indicate a high level of distress and likely affect my ability to concentrate on anything.'])
+('20', ['directly_mention', 'I am too tired or fatigued to do most of the things I used to do.###In the post, I mentioned that my tough life, severe anxiety, social awkwardness, bullying, and family issues have put me into a deep depression. Depression often includes symptoms of fatigue and decreased energy, which could explain why I feel too tired or fatigued to do most of the things I used to do.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+('1', ['Correct', 'Ensure the depth of your analysis reflects the details provided; sadness is supported by the context.'])
+('2', ['Incorrect', 'Avoid assuming feelings not explicitly supported; focus on the evidence provided without over-inference.'])
+('3', ['Correct', 'Ensure you continue to cite specific aspects of the post when justifying your role-played responses; this strengthens your analysis and deduction.'])
+('4', ['Correct', "Maintain your focus on explicit information from the post, and relate your answers directly to the poster's expressed experiences, as you did in this instance."])
+('5', ['Correct', 'Ensure that you continue to relate the mental scale questions to the emotional content or implicit messages in the post. Be cautious not to overstate, but reflect any subtle hints the post may provide.'])
+('6', ['Incorrect', 'While inferring feelings from context is important, be careful not to assume emotions such as feeling punished without clear evidence from the post. Focus on the explicit content when the connection is tenuous.'])
+('7', ['Correct', "While your conclusion about self-dislike is accurate, make sure to clarify the logical connection between expressing suicidal thoughts and the self-dislike, rather than stating it as obvious. Look for specific language in the post that could indicate the person's feelings about themselves."])
+('8', ['Correct', "Good job noting the indirect references to self-accusations. Continue to use the context of the post to infer the poster's mindset. Be cautious of not extending beyond the information provided when inferring self-critical behavior."])
+('9', ['Correct', "This response accurately reflects the content of the poster's message regarding suicidal thoughts. Maintain a focus on explicit information for concrete answers."])
+('10', ['Incorrect', "While the post does not mention crying, avoid stating 'My answer is doesn't mention at all.' Consider other indicators of sadness or emotional distress that could imply a tendency to cry, and provide a more nuanced answer."])
+('11', ['Incorrect', 'Examine the language of the post carefully to determine if it directly mentions agitation or if you are inferring based on the mention of anxiety. Restlessness and agitation are potential symptoms of anxiety, but the post does not specifically mention the inability to stay still. Focus on the words used in the post more precisely.'])
+('12', ['Correct', "Continue to carefully correlate the symptoms mentioned in the post with the attributes of the mental scales. The poster's reference to deep depression does hint at a loss of interest, which is a common symptom, and you have related it well to the question."])
+('13', ['Correct', 'Continue analyzing the post for subtle indications of mental states related to the questions and make informed connections.'])
+('14', ['Correct', 'Maintain the practice of interpreting experiences and symptoms mentioned in the post to inform your understanding of related mental states.'])
+('15', ['Incorrect', "You should avoid assuming conditions that aren't explicitly mentioned in the post. Focus on concrete information provided to gauge energy levels, without adding assumptions."])
+('16', ['Correct', 'Continue to carefully consider what is actually mentioned in the post and avoid making assumptions. Your response correctly reflects the absence of information regarding sleeping patterns.'])
+('17', ['Correct', 'Ensure you continue to analyze the content of the posts as carefully as you did here, linking psychological concepts to the expressed emotions and situations.'])
+('18', ['Incorrect', 'Avoid assuming specific symptoms such as changes in appetite that are not mentioned in the post. Stick to the information given and infer cautiously if needed.'])
+('19', ['Correct', 'Ensure you continue to draw logical connections between symptoms and their potential effects while avoiding assumptions not supported by the post.'])
+('20', ['Correct', 'Maintain the use of evidence from the post to support your answers regarding mental states, but always be cautious not to overextend beyond what is shared in the post.'])
+('21', ['Correct', 'While your answer was correct because the post does not explicitly mention changes in interest in sex, ensure that you closely examine the text for any potential implicit information related to the question in future tasks.'])
+
+ITER 1
+Do MS Record:
+('2', ['directly_mention', "I feel discouraged about my future.###The post mentions that the person has severe anxiety issues, has been a victim of bullying, and is currently in a deep depression. These factors can contribute to feeling discouraged about one's future."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any explicit evidence or information related to punishment feelings."])
+('10', ['indirectly_mention', 'I feel more restless or wound up than usual.###The post mentions severe anxiety issues and major bullying, which can be sources of distress and restlessness.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not provide any information about crying or the frequency of crying."])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###The post mentions that the person has severe anxiety issues and has had a tough life. They also mention being in a deep depression and contemplating suicide, which are often associated with loss of energy.'])
+('18', ['indirectly_mention', "My appetite is much less than before.###The post mentions having family issues, severe anxiety, bullying, and being in a deep depression, which are often associated with changes in appetite. Although the post doesn't explicitly mention a change in appetite, the combination of the mentioned experiences suggests that the person's appetite may have been affected."])
+Do MS Check Record:
+('2', ['Correct', 'Continue to use explicit statements from the post to support your answers. Be wary of making assumptions beyond the information given.'])
+('6', ['Incorrect', 'Although the poster does not explicitly mention punishment feelings, considering the depth of their emotional state, it is likely they may feel undeserving or have self-critical thoughts. Infer cautiously from the context without overreaching.'])
+('10', ['Incorrect', "Examine the post for emotional language that could indicate the poster's feelings. Restlessness can be a symptom of severe anxiety, which the poster mentioned. Your answer about restlessness is confusing when the question is about crying, so make sure to address the correct emotional response related to the query."])
+('11', ['Correct', 'Continue to avoid over-inferencing when the post does not provide specific details related to the question. Focus on the presented information to answer questions about the mental state mentioned in the post.'])
+('15', ['Correct', 'Ensure to continue analyzing posts deeply, looking for both direct and indirect cues related to the psychological scales in question.'])
+('18', ['Correct', "Good inference. Remember to always justify your answers with relevant information from the post when the questions aren't explicitly addressed."])
+
+ITER 2
+Do MS Record:
+('6', ['indirectly_mention', "I cry all the time now.###Although the post directly mentions severe anxiety issues and deep depression, it does not explicitly mention crying. However, the phrase 'bringing me to contemplate suicide' suggests that the poster is experiencing intense emotional distress, which could manifest as frequent crying."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not contain any information that suggests feelings of punishment."])
+Do MS Check Record:
+('6', ['Incorrect', 'Consider the context in which emotional distress is expressed; deep depression and contemplating suicide indicate a severe level of suffering, which may include crying. Link the emotional state to potential behaviors such as crying.'])
+('10', ['Incorrect', "Avoid making assumptions when information is not provided. In the absence of direct evidence about punishment feelings, refrain from suggesting that it doesn't apply. Instead, focus on the information given or acknowledge that the post does not mention feelings related to punishment."])
+
+ITER 3
+Do MS Record:
+('6', ['indirectly_mention', 'I cry more than I used to.###The post mentions being in deep depression and contemplating suicide, which suggests a severe level of emotional distress. Based on this information, it is reasonable to infer that the person may cry more than they used to.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feelings related to punishment, so I cannot provide an answer to this question."])
+Do MS Check Record:
+('6', ['Correct', 'Your inference about crying more often is plausible given the context of depression and past thoughts of suicide. Continue to draw reasonable conclusions based on the provided information.'])
+('10', ['Incorrect', "It seems there's confusion regarding the questions. Question 6 relates to Punishment Feelings, not Crying. Review the post to evaluate if there's any indication of self-criticism or feelings of being punished and answer accordingly. The answer for Question 10 should be about Crying, which you've addressed in your response to Question 6. Refrain from swapping the responses to the questions and carefully analyze to provide the most accurate answers."])
+
+ITER 4
+Do MS Record:
+('10', ['indirectly_mention', 'I cry more than I used to.###The post mentions that the poster has severe anxiety issues and has been through major bullying, which has led to deep depression and contemplation of suicide. These experiences are highly distressing and could potentially lead to increased crying as a way to release emotions.'])
+Do MS Check Record:
+('10', ['Correct', 'Ensure to consider the emotional context of the post. Crying can be a natural response to the issues described, so your inference here is appropriate. Continue to use empathy and psychological knowledge when analyzing posts.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the information provided, the poster is displaying several symptoms of depression, such as constant sadness, pessimism, feelings of past failure, loss of pleasure, guilty feelings, self-dislike, self-accusations, suicidal thoughts or wishes, increased crying, loss of interest, indecisiveness, feelings of worthlessness, loss of energy, irritability, changes in appetite, difficulty concentrating, tiredness or fatigue. These symptoms align with the diagnostic criteria for depression.
+
+Correct
+Continue to carefully evaluate the evidence from self-reports and ensure not to make assumptions beyond the provided data. Avoid overgeneralizing or attributing traits or feelings to the person in question based on biases or limited information. Be mindful of distinguishing the mental health status of individuals mentioned in the post from the poster themselves.

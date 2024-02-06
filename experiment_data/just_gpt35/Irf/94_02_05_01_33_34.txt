@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I gave up all the weed and alcohol that I was doing last semester, but it was the only thing that helped. I feel like I have no one at all. I ruin everything and every friendship i have. If I don't get on something that takes me away from this dark, dark room that's my head, I cannot last long. This is all too much. Is there anybody out there even reading this? Will anyone care?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of isolation, a lack of relationships, and a desire for escape from negative thoughts. This suggests a potential risk of thwarted belongingness.
+

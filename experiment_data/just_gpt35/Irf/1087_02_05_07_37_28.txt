@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I better stop being a coward and end it. I‚Äôm scared that a gunshot wound won‚Äôt be fast enough and I don‚Äôt have any bitcoin so I can‚Äôt order the right drugs online. But whatever. Even if it hurts this has to be the year I get the strength  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions wanting to end their life and expresses a desire to acquire drugs. These are signs of perceived burdensomeness and suicidal ideation.
+

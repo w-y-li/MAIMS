@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Even though some of my friends tell me otherwise I still feel guilty of what I've done and unworthy of everything  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of guilt and unworthiness, which could indicate a sense of perceived burdensomeness.
+

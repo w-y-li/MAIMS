@@ -1,0 +1,28 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Life shouldn’t be this miserable Overwhelming anxiety is ruining me  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post mentions overwhelming anxiety as the main issue, not specifically depression.
+
+Incorrect
+Be cautious not to overlook comorbidity. Anxiety can coexist with depression, and the phrase 'Life shouldn’t be this miserable' could suggest depressive symptoms. Assess all information for a comprehensive analysis, including mood, thought patterns, and expressed emotions.
+
+ITER 1
+Yes
+The phrase 'Life shouldn’t be this miserable' suggests depressive symptoms and the overwhelming anxiety could potentially coexist with depression.
+
+Incorrect
+Avoid overgeneralizing based on limited information. The post mentions 'overwhelming anxiety' which is not sufficient to diagnose depression. Look for symptoms specific to depression such as persistent sadness, loss of interest, and changes in sleep or appetite before concluding that the poster suffers from depression. Anxiety and depression can co-occur but are not the same condition. Seek more information to make an accurate assessment.
+
+ITER 2
+No
+The post mentions overwhelming anxiety, but does not provide enough information to diagnose depression. Symptoms specific to depression such as persistent sadness, loss of interest, and changes in sleep or appetite are not mentioned. It is important to seek more information to make an accurate assessment.
+
+Correct
+Continue to avoid overgeneralizing based on limited information and remember to only consider information provided in the post when making mental health assessments. Be cautious not to diagnose without sufficient evidence.

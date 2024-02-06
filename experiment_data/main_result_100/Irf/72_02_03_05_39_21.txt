@@ -1,0 +1,135 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Anyone gotten off this drug? I am reading the inter webs and having the crap scared out of me. Been on it about 18 months...  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The post mentions that the person is scared after reading about the drug on the internet. There is no direct indication or implication that the person feels that the people in their life would be better off without them.'])
+('2', ['directly_mention', 'Not at all true for me###The post mentions that the person is scared after reading about the drug on the internet. There is no direct indication or implication that the person feels that the people in their life would be happier without them.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling like a burden on society."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to thinking that their death would be a relief to the people in their life."])
+('5', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything about how people feel about the poster."])
+('6', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything about how the poster thinks they make things worse for others."])
+('7', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person has been on a drug for about 18 months and is now scared after reading about it online. This suggests that the person may be experiencing some level of uncertainty or fear, which could impact their sense of belonging and how much they feel cared for by others. Based on this, I believe the person may feel somewhat true that other people care about them and somewhat true that they feel like they belong.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the feeling of being cared for or belonging. It focuses on the person's concern and fear after reading about a drug on the internet."])
+('9', ['directly_mention', 'Very true for me###The post mentions that the person is scared and reading negative information online. This suggests that they may be feeling isolated and lacking supportive friendships.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the number or quality of the person's friendships, so it is not possible to determine their level of social support from this post."])
+('11', ['directly_mention', "Not at all true for me###The post doesn't provide any specific information about feeling disconnected from other people, so I can only assume that it is not true for me."])
+('12', ['directly_mention', "Not at all true for me###The post doesn't mention anything about feeling like an outsider in social gatherings, so I can confidently say that it is not true for me."])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling scared after reading information online. This suggests that the person may be feeling vulnerable and in need of support, indicating that they may not feel fully supported by others.'])
+('14', ['indirectly_mention', 'Not at all true for me###The post mentions feeling scared and seeking information online, suggesting that the person might not feel close to others or have someone they can turn to.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything about satisfying interactions, so there is no information to deduce an answer from. The topic of the post is about being scared and seeking information regarding a particular drug."])
+Do MS Check Record:
+('1', ['Incorrect', 'Ensure that inferences about the poster’s feelings are based solely on explicit content or clear implications within the post. Avoid making assumptions without textual evidence, and be sure to differentiate between direct mentions and your own inferences.'])
+('2', ['Incorrect', 'Refrain from attributing feelings or thoughts to the poster that are not clearly expressed in the social media post. Focus on what is stated rather than what is absent, and avoid making leaps in judgment without support.'])
+('3', ['Correct', "Continue to analyze the content of the posts carefully without inferring information that isn't there."])
+('4', ['Correct', 'Maintain objective analysis and avoid adding sentiments or thoughts not explicitly mentioned in the social media post.'])
+('5', ['Incorrect', "Examine the emotional undertones of the post, as it may give insight into the poster's perception of themselves in relation to others, even if not explicitly stated."])
+('6', ['Incorrect', 'Consider the context of discussing a medication and the fear it induces as potential hints to feelings of self-efficacy and impact on others which may relate to the question.'])
+('7', ['Incorrect', 'Avoid making assumptions about emotional states without direct information from the post. Focus on the content provided and analyze it without inferring feelings or relationships not explicitly mentioned. Reevaluate the post for any clues specific to whether others care about the poster or not.'])
+('8', ['Correct', 'Good job on not making assumptions where the post does not provide information. Continue to analyze posts based on the evidence present and avoid extrapolating beyond the given data.'])
+('9', ['Incorrect', 'Avoid assuming emotions not explicitly mentioned in the post. Focus on the content given without inferring feelings or experiences beyond the scope of the text. Analyze the language used for any direct or indirect references before drawing conclusions about social interactions.'])
+('10', ['Correct', 'Continue to discern carefully between what is stated and what is not. This restraint from making assumptions when information is lacking is essential for an accurate analysis.'])
+('11', ['Incorrect', "Avoid assuming the absence of information is equivalent to a negative response. Analyze possible indirect cues in the post that may hint at the person's feelings of connectedness."])
+('12', ['Incorrect', "Do not default to a negative response just because the post does not explicitly mention social gatherings. Explore subtler indications of social experience from the post's context."])
+('13', ['Incorrect', 'Avoid assuming vulnerability equates to a lack of support. Analyze the content for direct or indirect references to social support rather than inferring solely based on the feeling expressed.'])
+('14', ['Incorrect', "Do not overgeneralize isolated emotions to broader social relationships. Seek explicit information about the poster's interactions with others before concluding their level of closeness."])
+('15', ['Incorrect', "Carefully analyze the content for potential indirect cues about the user's social interactions and avoid dismissing the question when the post does not explicitly mention the topic. Seek for subtle hints in the language used that could imply the nature of their social life, such as the implication of reaching out to a community for help, which might suggest at least some level of satisfying interaction."])
+
+ITER 1
+Do MS Record:
+('1', ['indirectly_mention', 'Somewhat true for me###The post mentions being scared by what the poster read on the internet, which suggests they may be feeling distressed or worried about the potential negative effects of the drug. This could lead to them feeling that the people in their life would be somewhat better off without them.'])
+('2', ['indirectly_mention', 'Somewhat true for me###The post mentions being scared by what the poster read on the internet, which suggests they may be feeling distressed or worried about the potential negative effects of the drug. This could lead to them feeling that the people in their life would be somewhat happier without them.'])
+('5', ['indirectly_mention', 'Somewhat true for me###The post mentions being scared by the information found on the internet about a drug that the poster has been on for 18 months. This suggests that the poster is concerned about the potential negative effects of the drug, which could lead to feelings of being a burden or unwanted by others in their life.'])
+('6', ['indirectly_mention', 'Somewhat true for me###The post indicates that the poster is worried about the drug they have been taking, and this worry may extend to thinking that they are making things worse for the people in their life due to potentially negative effects of the drug. Thus, it indirectly suggests that the poster feels somewhat true that they make things worse for others.'])
+('7', ['directly_mention', 'Not at all true for me###The post directly mentions that the person is scared, implying a need for care from others. However, it does not provide any information about whether others actually care about the poster.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything about interacting with people who care about the poster, nor does it provide any information that can help deduce an answer."])
+('11', ['indirectly_mention', 'Somewhat true for me###The poster mentions feeling scared after reading about the drug on the internet. This suggests a potential fear of negative reactions from others, which could lead to feeling disconnected and like an outsider in social gatherings.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any information or cues related to feeling like an outsider in social gatherings."])
+('13', ['indirectly_mention', 'Somewhat true for me###The post expresses fear and concerns about the drug, which suggests a need for support. Although the post does not explicitly mention turning to people for help, it indirectly suggests a desire for support by discussing concerns and seeking information on the internet.'])
+('14', ['indirectly_mention', 'Not at all true for me###The post mentions feeling scared and reading information online that is causing fear. Although it does not explicitly mention being close to other people, the expression of fear and seeking information suggests a potential lack of closeness to others in times of distress.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to daily satisfying interactions."])
+Do MS Check Record:
+('1', ['Incorrect', "Avoid assuming that distress about a drug translates to beliefs about one's impact on others' lives. Focus on what is explicitly stated or strongly implied by the post."])
+('2', ['Incorrect', "Do not infer feelings of self-worth based on limited information about reactions to medication. Look for direct evidence before drawing conclusions about the poster's beliefs regarding others' happiness."])
+('5', ['Incorrect', 'Be cautious not to infer emotions or thoughts not evidenced in the post. Focus on the content provided and avoid assuming the poster feels like a burden without explicit indicators.'])
+('6', ['Incorrect', "Avoid projecting additional worries onto the poster without clear information from the post. Stick to the facts presented and do not assume thoughts about the poster's influence on others."])
+('7', ['Incorrect', "Avoid assuming feelings that are not expressed in the post. Instead, focus on the information given. The post does not mention whether others care about or do not care about the poster, so 'Not at all true for me' is an unsupported inference. Consider the possibility that the poster is seeking advice or support without implying the absence of care from others."])
+('9', ['Correct', "Good job on not making assumptions beyond the provided information. Since the post does not discuss interactions with others, it was correct to choose 'Doesn't mention at all'. Continue to distinguish between what is stated and what is unstated in the material."])
+('11', ['Incorrect', 'Re-examine the content of the post for implicit emotions and thoughts that may influence social connectivity. Avoid over-interpretation; focus on tangible sentiments expressed.'])
+('12', ['Correct', 'Continue to avoid assumptions without explicit evidence in the post. Maintain objectivity when assessing for information not directly mentioned.'])
+('13', ['Incorrect', 'Remember to avoid over-inference. The post does not provide explicit information about the support network of the poster. Instead of assuming a desire for support based on fear, focus on direct information related to the scale question. Take time to analyze the post for explicit or strongly implied points instead of making broad assumptions.'])
+('14', ['Incorrect', "Be cautious of implying a lack of closeness to others from a statement about fear. The post does not address the poster's relationships or sense of closeness with others. Limit your inferences to what is squarely presented in the post or what can reasonably be deduced without assuming negative characteristics absent from the text."])
+('15', ['Incorrect', "Look for contextual clues in the post that might hint at the individual's interactions, such as the action of reaching out for advice or sharing their experiences. The act of posting implies a desire for interaction, which may be considered a satisfying moment."])
+
+ITER 2
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me.###The post explicitly states that the person is scared about the information they have read online about the drug. There is no indication that they believe the people in their life would be better off without them.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the person's belief regarding others' happiness without them. It only focuses on their own concerns about the drug they have been taking."])
+('5', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person is reading scary information online about a drug they have been taking for 18 months. This indicates that they may be concerned about the potential negative effects of the drug, which could make them feel like a burden to others.'])
+('6', ['indirectly_mention', 'Not at all true for me###The post mentions that the person is reading scary information online about a drug they have been taking for 18 months. Although they express fear about the potential negative effects, there is no indication that they believe they make things worse for others.'])
+('7', ['directly_mention', 'Not at all true for me###The post mentions feeling scared and disconnected from others, indicating a lack of feeling cared about.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not provide any information that can help deduce the answer to this question."])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions that the poster is scared about reading information about a drug they have been taking for 18 months. This suggests that the poster may be feeling a sense of fear or anxiety, which could potentially affect their trust in others and their ability to rely on them in times of need. However, the post does not directly mention anything about people they can turn to, so I can only infer that their trust in others may be somewhat true.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the poster's closeness to other people. It solely focuses on the fear and concerns about a specific drug. Therefore, I cannot gather any information about the closeness of the poster to other people based on this post."])
+('15', ['indirectly_mention', 'Somewhat true for me###The poster mentioned being scared after reading the internet and seeking advice. This implies a desire for interaction and a need for reassurance, suggesting that having satisfying interactions is important to them, but they may not experience it every day.'])
+Do MS Check Record:
+('1', ['Incorrect', "Review the post for any emotional expressions that might imply a desire to withdraw or a sense of burdening others, even if it's not directly stated."])
+('2', ['Correct', 'Continue to focus on the content provided and not infer beyond what is presented. Avoid assumptions or adding sentiments not expressed by the poster.'])
+('5', ['Incorrect', 'Be cautious not to infer feelings of being a burden based simply on the expressed fear about drug effects. Instead, focus on what is explicitly stated or strongly implied about social relationships in the post. The post does not provide enough context to support the answer.'])
+('6', ['Correct', 'Good job not over inferring negative consequences onto others from the post. Stay objective and base answers on the information provided, as done here.'])
+('7', ['Incorrect', 'Review the content of the post again, focusing on evidence present. Avoid assumptions about emotions not explicitly stated. The feeling of being scared does not necessarily mean the individual feels uncared for by others. Stick to the information given.'])
+('11', ['Incorrect', "You’ve mistaken omission for negation. The post does not provide information about the poster's social connections, but it should not be interpreted as a 'Doesn't mention at all' scenario. Instead, infer cautiously based on related sentiments expressed in the post."])
+('13', ['Incorrect', 'Re-examine the content of the post without adding unjustified assumptions. Focus strictly on the expressed concerns and avoid inferring emotions or social support without evidence.'])
+('14', ['Correct', 'Continue to distinguish between the content of the post and the information not provided. Avoid making inferences about unrelated aspects such as social relationships when they are not mentioned in the post.'])
+('15', ['Incorrect', 'Avoid assuming details that are not evident in the post. The desire for interaction does not necessarily imply that they have satisfying interactions every day. Stick closely to the explicit information in the post and avoid over-inference.'])
+
+ITER 3
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to Question 1."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to Question 5."])
+('7', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to other people caring about me or feeling disconnected from other people. It solely focuses on the fear induced by reading information on the internet about being on a specific drug for 18 months."])
+('11', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information about feeling disconnected from other people. It only talks about being scared by the information found online about the drug."])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions being scared and reading negative information online. This suggests that the person may be in need of support or reassurance. However, the post does not directly state anything about turning to others in times of need. Therefore, it can be inferred that the person might feel somewhat true about having people to turn to in times of need.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having satisfying interactions every day. It only focuses on the person's concerns about a specific drug and the information they have read online. Therefore, there is no evidence to answer this question."])
+Do MS Check Record:
+('1', ['Incorrect', "Please review the post carefully to identify any subtle indications of the individual's emotional state or attitudes towards self-perception that may relate to the questions."])
+('5', ['Incorrect', "Avoid dismissing the content too quickly. Instead, consider the context and underlying emotions that could reflect the individual's relationships with others, which may inform your response to the question."])
+('7', ['Incorrect', "Review the post for any hints about social connections or the poster's emotional state that may indirectly relate to how cared for they feel by others."])
+('11', ['Incorrect', 'Consider the emotional implications of the post content, such as fear and concern, which might indicate a sense of isolation or disconnection.'])
+('13', ['Incorrect', 'Consider the context of the post more closely. Though the poster mentions fear from reading online, this does not necessarily correlate with their social support system. Refrain from assumptions and look for explicit or strongly implied content related to the question. Stick to the information given.'])
+('15', ['Correct', 'Good job recognizing the absence of mention regarding daily satisfying interactions. Continue to differentiate between the topics explicitly mentioned in the post and those that are not addressed. Stay objective and base your response on the direct content.'])
+
+ITER 4
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to the question."])
+('5', ['indirectly_mention', 'Somewhat true for me.###The post indicates that the person is scared by something they have read on the internet, expressing a negative emotion. This suggests a possibility that they may have some self-doubt or perceive themselves as a burden on others, leading to a somewhat true response to the question.'])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything about whether other people care about the poster or not."])
+('11', ['indirectly_mention', 'Somewhat true for me.###The post indicates that the poster is scared and concerned after reading about the drug on the internet. This fear and concern may imply a sense of disconnection from others, as the poster may not feel supported or understood in their experience with the drug.'])
+('13', ['indirectly_mention', "Not at all true for me###The post does not explicitly mention anything about people the poster can turn to in times of need. However, since the poster is expressing fear and concern, it can be inferred that they may not feel that there are people they can turn to for support. Hence, I believe the answer is 'Not at all true for me'."])
+Do MS Check Record:
+('1', ['Incorrect', 'Do not jump to conclusions if the post does not provide information regarding the emotional state related to self-worth or existence. Stick to the content provided and avoid making assumptions about content that is not explicitly mentioned.'])
+('5', ['Incorrect', 'Refrain from inferring negative characteristics that are not substantiated by the post. Focus on the poster’s stated concerns without extrapolating feelings of self-doubt or perceived burden unless there is clear evidence in the post to support such inferences.'])
+('7', ['Incorrect', 'Avoid making assumptions when the post does not provide explicit information. Instead, indicate that the content is not mentioned or not enough data is provided in the post to answer the question.'])
+('11', ['Incorrect', 'Do not infer emotions or feelings that are not directly supported by the content of the post. Stick to the information given without overinterpreting or adding implications that are not present.'])
+('13', ['Incorrect', "Avoid assuming negative characteristics that are not evident in the post. The poster's expression of fear does not necessarily mean they lack a support system. Focus on what is explicitly stated or can be reasonably inferred without adding subjective negativity."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the poster's answers to the mental health scale, it is evident that they feel like an outsider in social gatherings, rarely interact with people who care about them, and do not feel fortunate to have many caring and supportive friends. These feelings of social alienation and lack of social support indicate risk of thwarted belongingness, which is a key component of many mental health problems.
+
+Incorrect
+Avoid making assumptions about the poster's feelings without evidence. The poster did not indicate feeling like an outsider, a lack of interaction with caring people, or a lack of supportive friends in their responses. Instead, they specifically stated they 'don't have any problem' with these questions, suggesting a lack of issues in these areas. Your response should be based on the information provided, indicating the appropriate answer is 'No'. It's crucial to evaluate the information provided objectively and avoid inferring negative characteristics that aren't supported by the data.
+
+ITER 1
+No
+The poster did not indicate any risk of thwarted belongingness. In their responses to the relevant questions, they stated that they don't have any problem with feeling like a burden, thinking their death would be a relief, or making things worse for others. They also stated that they feel like they belong and have many caring and supportive friends. Therefore, there is no evidence to suggest a risk of thwarted belongingness in this post.
+
+Correct
+Continue to reference the specific answers from the mental health scale questions to support your analysis, as you have done correctly in this task. Make sure to avoid making assumptions beyond the provided data and maintain a focus on the individual's expressed experiences rather than infer unmentioned issues. Excellent work on assessing the absence of thwarted belongingness based on the information given.

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I had a patient who was unconscious due to a large spontaneous brain hemorrhage. I remember just gazing at their face and thinking, they don't feel anything. Nothing can hurt them or make them feel sad. Part of me wondered whether it would just be better if they didn't wake up at all and I realized that I must be very sad at the moment to think in such a way. Of course I want them to wake up, be well again, and for the medical team to strive to save their life. I'm just really in a sad place right now.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows risk of thwarted belongingness because the poster expresses feelings of sadness and contemplating the idea of it being better if the patient did not wake up, indicating a sense of disconnection or lack of belonging.
+

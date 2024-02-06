@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I want to die, but I love my boyfriend with all my heart. He's the only person in my life who has shown me what it is to just love someone. He's the only part of being alive that I like. My job sucks. My family sucks and without him I would have killed myself a year ago. I still don't want to live, and my functioning is going downhill fast. I want to figure out how to want this life. I want the desire to be present because it's not just me anymore, but I don't know where or how to start. How do I escape this pain?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of dependent attachment to the boyfriend as the only source of love and support in the poster's life. The poster mentions feeling suicidal and states that without the boyfriend, they would have killed themselves. This suggests a lack of belongingness and a high level of dependence on the relationship for emotional support, increasing the risk of thwarted belongingness.
+

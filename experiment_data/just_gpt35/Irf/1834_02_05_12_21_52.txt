@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I posted it here and people didn't believe me back then, I cared about it before but I don't care anymore. I'm serving in the military and I feel shit about it. I feel broken inside, I changed in a very bad way. I started having brake-downs and even wetting the bed. I feel embarrassed, ashamed, and the worse part is that I still have 2 years left (I served 1 year so far). I haven't told anyone about wetting the bed as I'm not 4 years old. And frankly speaking I just don't want to think about it. I'm thinking about just ending it sometimes... But I don't want to cause my family and friends any unnecessary sorrow. I hate it. I hate myself. I hate my life. If you read so far, thank you.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation and a lack of support from others, which are common signs of thwarted belongingness. The poster mentions not feeling believed or understood by others and feeling embarrassed and ashamed. They also express thoughts of ending their life, suggesting a deep sense of disconnection and hopelessness.
+

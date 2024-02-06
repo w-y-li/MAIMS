@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  This is a weird question, but is there someplace I can call and talk to someone before I go? I don't want to be talked out of it. I just want one last, good conversation.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the person wants to have one last conversation before they go, indicating a possible feeling of burden and a desire to make sure someone understands their reasons.
+

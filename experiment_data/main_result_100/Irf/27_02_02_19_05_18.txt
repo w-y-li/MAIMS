@@ -1,0 +1,160 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I want the attention at least. Stabbing some human trash or just suicide by cop I think I should turn myself to the police. I'm going insane  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Very true for me.###The post directly mentions that the people in the poster's life would be better off without them, as they mention wanting to commit suicide by cop or turning themselves into the police."])
+('2', ['directly_mention', "Very true for me.###The post directly mentions that the people in the poster's life would be happier without them, as they express thoughts of self-harm and committing acts of violence towards others."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like human trash and wanting to turn themselves into the police, which implies feeling like a burden on society. Therefore, it indirectly suggests that the person feels they are a burden on society.'])
+('4', ['directly_mention', 'Very true for me###The post explicitly states that they think their death would be a relief to the people in their life, indicating that they strongly believe this statement.'])
+('5', ['directly_mention', 'Somewhat true for me###The post mentions feeling like people in their life wish they could be rid of them.'])
+('6', ['indirectly_mention', 'Not at all true for me###The post suggests a desire to harm others or oneself, which may inadvertently make things worse for the people in their life.'])
+('7', ['directly_mention', 'Not at all true for me.###The post mentions wanting attention and feeling like going insane, which suggests that the person believes other people do not care about them.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to feeling like belonging or not."])
+('9', ['directly_mention', 'Very true for me###The post mentions that the person wants attention and is considering turning themselves in to the police. This suggests a lack of caring or supportive friends, indicating that they rarely interact with people who care about them.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the number of caring and supportive friends the person has."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling disconnected from other people and going insane, which suggests a sense of detachment or disconnection from others.'])
+('12', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like an outsider in social gatherings, indicating a sense of not fitting in or feeling socially isolated.'])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling insane, which implies that the poster may be going through a difficult time and in need of support. However, it is not clear if they currently have people to turn to.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information or context that would suggest whether the poster is close to other people or not."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having satisfying interactions."])
+Do MS Check Record:
+('1', ['Incorrect', "Avoid assuming information that's not presented. The post shows distress but doesn't specify how others would feel about the poster's absence."])
+('2', ['Incorrect', "Do not make inferences about others' emotions without clear evidence. Focus on analyzing the content that is actually given in the post."])
+('3', ['Incorrect', 'Review the content carefully to identify if it implicitly addresses the question without assuming information not presented.'])
+('4', ['Incorrect', 'Ensure that inferences are based strictly on the information given in the post rather than assumptions.'])
+('5', ['Incorrect', "Carefully examine the post's wording; it does not explicitly state that others wish to be rid of the poster. Focus on what is written, not what you infer."])
+('6', ['Incorrect', "Avoid assuming the poster's intentions or effects on others without direct evidence from the post. Stick to information presented within the post."])
+('7', ['Incorrect', "Review the post for emotional underpinnings and relate them to the question. Look for covert signs that suggest how the poster perceives others' care, rather than dismissing the relevance."])
+('8', ['Incorrect', "Analyze the implication of seeking attention in relation to belonging. Feeling 'insane' and turning to extreme acts may indicate a lack of belonging."])
+('9', ['Incorrect', 'Carefully analyze the emotions and intent behind the post. The statement implies a sense of isolation but does not necessarily confirm the person rarely interacts with those who care. Avoid assumptions and consider alternative interpretations, such as a cry for help or attention.'])
+('10', ['Correct', 'When the post lacks explicit information, it is appropriate to acknowledge this. However, be cautious not to overlook potential implicit cues about social supports that could be inferred from the general tone and content of the post.'])
+('11', ['Incorrect', 'Review the original post and avoid assuming emotions or feelings not explicitly mentioned; stick to the information given.'])
+('12', ['Incorrect', 'Do not infer feelings of being an outsider unless it is directly stated or strongly implied by actions or statements in the post.'])
+('13', ['Incorrect', 'Consider the implications of seeking attention and assess whether this hints at a lack of supportive relationships. Avoid assuming the presence or absence of support without evidence.'])
+('14', ['Correct', 'Continue to refrain from drawing inferences that are not supported by the text. Stay objective when information is not provided.'])
+('15', ['Incorrect', 'Consider the emotional state implied by the post and deduce whether a person expressing such feelings is likely to have satisfying interactions. Avoid dismissing the content too quickly.'])
+
+ITER 1
+Do MS Record:
+('1', ['directly_mention', 'Somewhat true for me###The post mentions feeling like the people in their life would be better off without them and expresses thoughts of suicide or turning themselves into the police. This suggests that the poster may believe that their absence would benefit others, but not to an extreme extent.'])
+('2', ['directly_mention', 'Somewhat true for me###The post mentions feeling like the people in their life would be happier without them. This suggests that the poster may believe their absence would bring happiness to others, but not to a very high degree.'])
+('3', ['directly_mention', 'Very true for me###The post explicitly states that the poster thinks their suicide would be a relief to the people in their life.'])
+('4', ['directly_mention', 'Not at all true for me###The post explicitly states that the poster wants attention and is considering turning themselves into the police, which indicates that they do not believe they are a burden on society.'])
+('5', ['indirectly_mention', "Somewhat true for me###The post mentions that the people in their life might want to be rid of them, indicated by the statement 'I want the attention at least.' This suggests that the poster feels unwanted and believes that others may also want to get rid of them."])
+('6', ['indirectly_mention', "Somewhat true for me###The post suggests that the poster believes they make things worse for the people in their life, as indicated by the statement 'I think I should turn myself to the police.' This implies that they see themselves as a burden and causing harm to others."])
+('7', ['indirectly_mention', 'Somewhat true for me###The post suggests that the person wants attention and is considering extreme measures to achieve it. This could indicate a desire for others to care about them, although it is not explicitly mentioned in the post.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information or implication regarding the feeling of belonging. It primarily focuses on the desire for attention and the thought of engaging in harmful acts."])
+('9', ['indirectly_mention', 'Somewhat true for me###The statement implies a sense of disconnect from other people, but does not explicitly state the level of disconnection. The mention of wanting attention and feeling like going insane suggests that the person may feel disconnected from others, but the intensity is not clear. Therefore, I would say the statement is somewhat true for me.'])
+('11', ['indirectly_mention', 'Somewhat true for me###The statement suggests a feeling of disconnection from other people. The mention of wanting attention and feeling like going insane indicates a potential disconnection. However, the intensity of the disconnection is not clearly stated. Therefore, I would say the statement is somewhat true for me.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention feeling like an outsider in social gatherings."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention people to turn to in times of need."])
+('15', ['indirectly_mention', 'Somewhat true for me###The post indicates that the person is craving attention and feeling extremely distressed, suggesting that they may not have many satisfying interactions. However, the post does not directly mention having satisfying interactions, so I can only make an indirect deduction based on the emotional state expressed by the person.'])
+Do MS Check Record:
+('1', ['Incorrect', 'Review the post to identify explicit mentions of how the poster believes their presence affects people in their life; infer only what is directly implied without adding assumptions.'])
+('2', ['Incorrect', "Ensure that inferences about the poster's beliefs concerning others' happiness are grounded in the post's content; avoid extrapolating beyond what is presented."])
+('3', ['Incorrect', 'Review the post for explicit statements about societal burden. Avoid inferring thoughts not explicitly stated.'])
+('4', ['Incorrect', "Reassess the post content to accurately reflect the poster's thoughts on self-perceived burden vs. desire for attention."])
+('5', ['Incorrect', 'Review the original post and avoid assuming emotions or intentions not explicitly mentioned. Focus on the exact words used and do not infer additional feelings or desires without clear evidence in the text.'])
+('6', ['Incorrect', "Do not extend the poster's statement beyond its clear intent. Turning oneself into the police may not necessarily reflect a belief of making things worse for others; explore alternative explanations for the statement within the post."])
+('7', ['Incorrect', "Consider implicit cues within the post related to the need for attention, which could suggest a plea for others' concern. Your response should reflect nuances in the post, like identifying any indirect signals of wanting to be cared for."])
+('8', ['Incorrect', "Avoid dismissing possibilities outright when the post doesn't explicitly mention a concept. Analyze the context of seeking attention to infer potential feelings of isolation or alienation, which may relate to a sense of belonging."])
+('9', ['Incorrect', 'Be cautious not to project additional feelings or attitudes onto the poster without clear evidence from the post. Focus on analyzing the content provided, mentioning if certain emotions or behaviors are directly indicated rather than assuming unmentioned details.'])
+('11', ['Incorrect', 'Avoid assuming a level of intensity in feelings of disconnection without explicit information from the social media post. Stay objective and base your answers strictly on the information presented, highlighting the direct implications rather than inferring hidden meanings.'])
+('12', ['Incorrect', 'Although the post does not directly mention feeling like an outsider, the context implies a sense of isolation and potential distress. More attention to the emotional tone and the possible implications about social connectedness is needed. Infer the possible feelings of the poster related to being an outsider without assuming details not provided.'])
+('13', ['Incorrect', 'The tone of the post suggests a lack of support or guidance, given the consideration of extreme actions. Use the emotional context to infer the lack of perceived social support without adding details that are not in the post. Reflect on the underlying emotions that could lead someone to express a desire for attention through negative actions.'])
+('15', ['Incorrect', 'Carefully consider the content of the post and avoid assumptions. The post suggests distress but does not provide specific information about daily interactions. Focus only on the information given.'])
+
+ITER 2
+Do MS Record:
+('1', ['directly_mention', 'Very true for me###The poster explicitly states that people in their life would be better off without them and mentions that they are considering suicide by cop, indicating a belief that their absence would improve the lives of those around them.'])
+('2', ['directly_mention', 'Very true for me###The poster explicitly states that people in their life would be happier without them, as they mention suicidal thoughts and wanting to turn themselves in to the police, implying that they believe their absence would bring happiness to others.'])
+('3', ['directly_mention', "Very true for me###The post explicitly states 'These days, I think I am a burden on society.' This indicates that the individual feels like a burden on society."])
+('4', ['directly_mention', "Not at all true for me###The post explicitly states 'These days, I think my death would be a relief to the people in my life.' This indicates that the individual does not believe their death would be a relief to the people in their life."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the people in their life wishing to be rid of them or making things worse."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything about making things worse for the people in their life."])
+('7', ['directly_mention', "Not at all true for me###The post explicitly states 'I want the attention at least', indicating a desire for attention and care from others."])
+('8', ['indirectly_mention', "Not at all true for me###The mention of feeling like 'going insane' suggests a potential feeling of isolation, which may relate to a lack of belonging or feeling disconnected from others."])
+('9', ['indirectly_mention', 'Not at all true for me###The post suggests feeling disconnected and wanting attention, which may indicate a desire for social interaction and caring from others.'])
+('11', ['directly_mention', 'Very true for me###The post explicitly states feeling disconnected from other people.'])
+('12', ['directly_mention', 'Somewhat true for me###The post expresses feeling isolated and in distress, which implies a sense of being an outsider in social gatherings.'])
+('13', ['indirectly_mention', 'Not at all true for me###The post suggests a lack of support or guidance, given the consideration of extreme actions, indicating that the poster does not feel there are people to turn to in times of need.'])
+('15', ['indirectly_mention', 'Not at all true for me.###The post suggests that the person is experiencing distress and wanting attention, which may indicate a lack of satisfying interactions. However, without specific information about the frequency or quality of their interactions, I cannot definitively determine if they have at least one satisfying interaction every day.'])
+Do MS Check Record:
+('1', ['Incorrect', "The post does not explicitly state that the people in the poster's life would be better off if they were gone. Avoid making assumptions beyond the post content; instead, analyze the language used for direct implications about the self or others."])
+('2', ['Incorrect', "The post does not provide specific information on whether the poster believes others would be happier without them. Do not extrapolate emotions of others based on the poster's actions or intentions; focus only on what is directly conveyed."])
+('3', ['Incorrect', 'Re-evaluate the post to identify direct expressions about being a burden, and avoid assuming statements that are not present.'])
+('4', ['Incorrect', "Carefully analyze the post for explicit statements about death being a relief to others and refrain from inferring meanings that aren't supported by the text."])
+('5', ['Incorrect', 'Review the post for emotional cues, which may imply the poster feels they could be a burden, and reconsider your response in light of these cues.'])
+('6', ['Incorrect', "Consider the implications of the poster's expressed thoughts about their actions on others, even if not directly stated."])
+('7', ['Incorrect', "Examine the context in which the desire for attention is mentioned. The statement 'I want the attention at least' could indicate a need for care from others. Consider more empathetic interpretations relative to the feeling of being noticed or valued."])
+('8', ['Incorrect', "Be cautious not to over-interpret the phrase 'going insane' as a definitive statement about belonging. Instead, explore other parts of the post that could hint at the individual's social connections or isolation to better assess feelings of belonging."])
+('9', ['Incorrect', "Analyze the post for explicit and implicit information. Your answer should reflect the poster's possible feelings without adding unsupported details. Avoid inferring the extent of social interactions without clear evidence."])
+('11', ['Correct', 'Ensure that your answers remain grounded in the content of the post when assessing the presence of specific emotions or states of mind mentioned by the poster.'])
+('12', ['Incorrect', 'Review the post for explicit mentions of social gatherings before assuming feelings of being an outsider at such events.'])
+('13', ['Incorrect', 'Consider alternative interpretations of the post that may suggest different levels of social support rather than jumping to extreme conclusions.'])
+('15', ['Incorrect', 'Avoid assuming the absence of information means a negative outcome. Instead, base your response on the tone and context of the post, considering that a person expressing extreme distress might not be engaging in satisfying social interactions. Consider providing a nuanced answer that acknowledges the lack of explicit information about daily interactions while drawing from the overall tone of distress in the post.'])
+
+ITER 3
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The post mentions feeling like turning oneself into the police, which suggests a desire for help or intervention rather than a belief that others would be better off without them.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not directly address whether the people in the poster's life would be happier without them. It is important to stick to the information provided without making assumptions."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to being a burden on society or thinking that death would be a relief to others."])
+('4', ['indirectly_mention', 'Somewhat true for me.###The post describes feeling like going insane, which can contribute to feeling like a burden on society. However, it does not directly express this sentiment.'])
+('5', ['indirectly_mention', "Somewhat true for me###Based on the post, the poster expresses feelings of wanting attention and going insane, which could imply that they feel like they are a burden to the people in their life. Although the exact phrase 'wish they could be rid of me' is not mentioned, the post suggests a sense of feeling unwanted."])
+('6', ['indirectly_mention', "Somewhat true for me###The post mentions thoughts of stabbing someone or suicide by cop, which could be seen as actions that would make things worse for the people in the poster's life. Although the exact phrase 'make things worse' is not mentioned, the post suggests a belief that the poster is causing harm or negative consequences for others."])
+('7', ['indirectly_mention', "Somewhat true for me###The statement 'I want the attention at least' suggests a desire for care and attention from others, which indicates that the individual may have some level of belief that others care about them, albeit to a certain extent."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any relevant information that could be used to deduce the answer to this question regarding belonging. The phrase 'going insane' does not directly provide insight into feelings of belonging."])
+('9', ['indirectly_mention', 'Somewhat true for me###The post indicates a desire for attention and mentions feeling like an outsider, which suggests a lack of social interaction. However, the extent of social interactions is not explicitly stated.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention any social gatherings specifically. Therefore, it cannot be inferred whether the person feels like an outsider in social gatherings."])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling the need for attention, which can be seen as a form of reaching out to others. This suggests that the person may have some level of desire for social support, although it is unclear whether they actually have people they can turn to.'])
+('15', ['not_mention', "Doesn't mention at all.###The post expresses distress and a desire for attention or a drastic action, but it doesn't provide any information about the person's daily interactions or satisfying interactions with others."])
+Do MS Check Record:
+('1', ['Incorrect', 'Review the emotional tone of the post. Desperation or a cry for help suggests possible self-doubt about personal worth to others. Consider how this may imply an underlying belief that others might be better off without the poster.'])
+('2', ['Correct', 'Good job on not inferring beyond the information given. Continue to take the posts at face value and avoid assumptions that are not supported by the content.'])
+('3', ['Incorrect', 'Examine the post for emotional tone and context clues. The mention of wanting attention and considering extreme actions could imply feelings of being a burden.'])
+('4', ['Incorrect', 'Avoid assuming feelings not explicitly mentioned. Instead, correlate sentiments of extreme distress and the desire for police attention with potential underlying thoughts about self-worth and relationships.'])
+('5', ['Incorrect', "Review the post to identify direct evidence of the poster's feelings towards others. Refrain from making assumptions without clear indications from the post."])
+('6', ['Incorrect', 'Analyze the content carefully for specific evidence that the poster feels they make things worse, rather than inferring based on extreme scenarios that may not reflect typical interactions.'])
+('7', ['Incorrect', "Although the poster mentions a desire for attention, this doesn't necessarily translate to feeling cared about by others. Avoid assuming indirect evidence as confirmation of the question's context. Look for more explicit mentions or clearer implications related to the care of others."])
+('8', ['Incorrect', 'The expression of extreme distress and the desire to act out violently can be indicative of a lack of belonging or alienation from society. You should infer cautiously but not ignore potential implications about belonging found in emotional expressions within the post.'])
+('9', ['Incorrect', "Be cautious not to infer information that isn't present. The post does not provide clear details about social interactions, therefore stating it is 'somewhat true' is an assumption without evidence. Focus solely on the information given."])
+('12', ['Correct', 'Good job on not over-inferring from the post. Since there is no mention of social gatherings, your answer remains grounded in the information provided. Continue to avoid making assumptions beyond the explicit content of the post.'])
+('13', ['Incorrect', "Reassess the post's content for implied information. An expressed need for attention may indicate an underlying support network the poster wishes to engage with. Reflect on subtle cues that suggest the poster's state of mind and potential relationships."])
+('15', ['Correct', 'Continue to focus on the explicit content of the posts. The absence of direct information regarding daily interactions justifies a conservative approach, but remain open to interpreting implicit cues in future posts.'])
+
+ITER 4
+Do MS Record:
+('1', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like a burden on society and considering extreme actions, which suggests some self-doubt about personal worth to others.'])
+('3', ['directly_mention', 'Very true for me###The post explicitly mentions wanting attention and thoughts of suicide, which implies a belief that others would be better off without the poster.'])
+('4', ['indirectly_mention', 'Not at all true for me###The post mentions wanting attention and feeling like going insane. While it does not explicitly state that the poster thinks their death would be a relief to others, the idea of seeking attention suggests underlying feelings of low self-worth. This indirectly implies that the poster may believe their death would be a relief to the people in their life.'])
+('5', ['indirectly_mention', "Somewhat true for me###The post mentions wanting attention and feeling like going insane. While it does not directly state that the people in the poster's life wish they could be rid of them, the idea of seeking attention and expressing self-destructive thoughts indicates underlying beliefs that others may not value their presence or want to be rid of them."])
+('6', ['indirectly_mention', 'Somewhat true for me###The post suggests that the poster wants attention and is considering extreme actions like stabbing someone or turning themselves in to the police. This behavior could potentially cause negative consequences for the people in their life, indicating that the poster may feel they make things worse for others.'])
+('7', ['not_mention', "Doesn't mention at all.###The post does not directly mention or imply anything about other people caring about the poster. While the poster mentions a desire for attention, it does not necessarily mean that others care about them."])
+('8', ['directly_mention', 'Not at all true for me###The poster mentions feeling insane and having a desire to harm others or themselves, indicating a lack of belonging or connection.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the poster's interpersonal interactions or relationships."])
+('13', ['directly_mention', 'Not at all true for me###The poster states that they want attention and are feeling insane. This suggests that they do not feel they have people they can turn to in times of need.'])
+Do MS Check Record:
+('1', ['Incorrect', "Assess whether the poster's expression of extreme thoughts can conclusively indicate that they perceive themselves as a burden; more nuanced analysis is necessary."])
+('3', ['Correct', "Carefully differentiate between the poster's direct and indirect messages; consider the extreme actions mentioned as an indicator of feeling burdensome."])
+('4', ['Incorrect', "Revisit the post and avoid adding information not explicitly mentioned or implied. Focus on the words used by the poster and their direct implications without assumption of their beliefs about their death's impact on others."])
+('5', ['Incorrect', "Pay close attention to the actual content of the post; try not to infer too much beyond what is presented. While it is clear the poster is expressing distress, there is not enough information to conclude the perception of others' desires to be rid of him or her."])
+('6', ['Incorrect', 'Review the post for implied emotional states that may affect others, such as the potential for harmful actions. Avoid taking the literal absence of information as a lack of relevance to the question.'])
+('7', ['Correct', 'Continue to avoid over-inference when the post does not provide direct information about a topic. However, be mindful to nuances and subtleties that might suggest indirect references to the relationships with others.'])
+('8', ['Incorrect', 'Review the post for any clues about a sense of belonging, even indirectly. The violent ideation implies alienation; infer answers with caution from the emotional tone.'])
+('9', ['Incorrect', "Infer interpersonal relationships by the emotional state and context of the post. A feeling of 'going insane' might imply isolation; consider a nuanced approach rather than a direct mention."])
+('13', ['Incorrect', "Re-examine the post for explicit mentions of interpersonal connections before concluding about the poster's support system. Avoid making assumptions without textual evidence."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's response to the question 'These days, I think I am a burden on society' indicates a high level of agreement, suggesting a strong risk of perceived burdensomeness.
+
+Correct
+Continue to use direct responses from the mental health scale to inform your analysis and avoid inferring negative characteristics without supporting evidence. Cross-reference with the self-reporting in the posts to ensure accurate assessment of the individual's state, and maintain caution to avoid overgeneralizations.

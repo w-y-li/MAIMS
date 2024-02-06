@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Sometimes, I stand in front of the mirror and think  why would anyone ever love you?  Why is it so hard for people to accept me?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's negative self-perception, questioning their worth and difficulty in accepting oneself indicate symptoms of depression.
+

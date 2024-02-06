@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Why im i still alive Why im i still alive Why im i still alive Why im i still alive Why im i still alive Why im i still alive Why im i still alive Why im i still alive ? another year has passed and i feel like im in the exact same place as before and everybody seems so happy and im just here thinking the same stuff still getting nothing done and i wonder if this even makes sense? am i happy, am i feeling awful? both? i dont know... but i know that im stuck  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of being stuck, thinking the same negative thoughts, and getting nothing done, which suggests a sense of perceived burdensomeness. The repetitive questioning of why the person is still alive and feeling stuck indicates a potential risk of perceiving themselves as a burden to others.
+

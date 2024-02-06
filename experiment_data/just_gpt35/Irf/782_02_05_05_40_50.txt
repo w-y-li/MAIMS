@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  We ended up arguing and he told me I was spoilt and I was being manipulative?? I started crying and kept repeating the same things over and over again. I'm so extremely embarrassed and I wish more than anything I hadn't told him. I feel stupid and pathetic because of how much I kept repeating myself...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of thwarted belongingness. The poster describes feeling embarrassed and stupid, but does not mention a lack of social connection or a desire for belonging.
+

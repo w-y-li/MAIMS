@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I'm using a new account because I can't remember my old password for my main account. But yeah I'm probably dead tonight. Im 20 and moved from the East coast to St Louis about 5 months ago ( it feels longer ). I got a good job delivering but quit it almost two weeks ago because I'm a bitch and was having an anxiety attack. I don't know what's wrong with me. A bit before quitting I went into the er because I was suicidal and spent 4 days trapped and with no actual help. I faked being better to get out. My only friends were at this job and they're mad at me ( understandably ). My old roommates are holding some of my stuff hostage until I pay them a certain amount of money. I've been couch surfing for the entire time up here. This was stupid. I hate myself. Sorry if it's not making too much sense I can't think straight right now. It doesn't matter either way.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Very true for me###I mentioned that I am probably dead tonight, which suggests that the people in my life would be better off without me. This directly answers the question.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any information that directly or indirectly answers the question."])
+('3', ['directly_mention', 'Very true for me###I mentioned that I hate myself and feel like a burden. This indicates that I think I am a burden on society.'])
+('4', ['directly_mention', "Not at all true for me###Although I mentioned that I feel like I'm dead tonight, I didn't say anything about my death being a relief to the people in my life. Therefore, it is not true for me."])
+('5', ['directly_mention', 'Very true for me###The post states that the person thinks they are hated by the people in their life and that they have caused trouble for them.'])
+('6', ['directly_mention', 'Very true for me###The post explicitly mentions that the person thinks they make things worse for the people in their life.'])
+('7', ['directly_mention', 'Not at all true for me###The post mentions that the poster went into the ER because they were suicidal and spent 4 days trapped without any help. This suggests that the poster does not feel like other people care about them. '])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information that directly or indirectly indicates whether the poster feels like they belong or not."])
+('9', ['directly_mention', 'Not at all true for me.###The poster mentions that their only friends were at their previous job and currently those friends are mad at them.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the number or supportiveness of the friends the poster has."])
+('11', ['directly_mention', "Very true for me###The post mentions feeling disconnected from other people: 'My only friends were at this job and they're mad at me.' This implies a lack of connection and indicates feeling disconnected from others."])
+('12', ['directly_mention', "Very true for me###The post mentions feeling like an outsider in social gatherings: 'My only friends were at this job and they're mad at me.' When friends are mad or upset with me, I can feel like an outsider within social gatherings."])
+('13', ['directly_mention', 'Not at all true for me###The post mentions that the poster went into the ER because they were suicidal, spent 4 days trapped and with no actual help, and faked being better to get out. This indicates a lack of support and availability of people to turn to in times of need.'])
+('14', ['directly_mention', "Not at all true for me###The post mentions that the poster's only friends were at their previous job and they're mad at the poster now. This suggests that the poster is not currently close to other people."])
+('15', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling suicidal, having anxiety attacks, and feeling trapped without help. These experiences may make it difficult for the person to have satisfying interactions every day, but it is not explicitly stated in the post.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to the mental scale questions indicate a high level of perceived burdensomeness. They express feelings of being a burden on society, making things worse for the people in their life, and feeling like others would be better off without them. These thoughts and beliefs suggest a risk of perceived burdensomeness.
+

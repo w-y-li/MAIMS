@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  It's going to be shit,I know it, you know it, we all do. Some will achieve happiness some will kill themselves. I'll just do the usual, sleep and play videogames, maybe go out to take some fresh air and then go to sleep again.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of hopelessness and a negative outlook on life, with references to suicide and lack of motivation. These thoughts may indicate a perceived burden on oneself and a feeling that life is not worth living.
+

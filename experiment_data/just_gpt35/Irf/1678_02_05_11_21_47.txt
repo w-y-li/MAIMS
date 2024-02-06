@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I just want to sleep all the time because if I'm sleeping, I'm not hurting. I'm too young to drink legally and I don't currently have a fake so I can't really self-medicate with alcohol too frequently. I'm about to go on a higher dose of meds which will hopefully numb me out more. Lately my main way has been escaping all negative thoughts through sleeping or video games. Maybe going back to college in a few weeks will help me? Idk. I want some suggestions for dealing with pain  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and loneliness, as the poster mentions wanting to numb themselves and escape from negative thoughts through sleeping and video games. This suggests a possible risk of thwarted belongingness, as they may be lacking a sense of connection and support in their life.
+

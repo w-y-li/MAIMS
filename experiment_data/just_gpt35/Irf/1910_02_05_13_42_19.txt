@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I swore 2016 wouldn't be another 2015 and then it all fell apart. I got incredibly depressed around March and suffered a breakdown and dropped out of school. I haven't finished a semester of college since December 2013 even though I've enrolled in classes several times since. I had a couple opportunities to get a job but in my usual fashion I totally blew it (caught the flu when I was supposed to go in for an interview). I'm 21 and am doing nothing with my life. I know I'm young but at this rate I'll just be living with my mom until I die. I don't know how to fix this. This is the worst. My health has deteriorated as well. I've gained about 50 pounds and have a poor diet in general. I always feel like shit. I know the solution is to just stop eating so much but it's hard when food is the only thing that makes you feel good.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and lack of connection, as the poster mentions feeling depressed, dropping out of school, and struggling to find a job. The statement about living with their mom until they die further suggests a feeling of not belonging or fitting in. These factors contribute to the risk of thwarted belongingness.
+

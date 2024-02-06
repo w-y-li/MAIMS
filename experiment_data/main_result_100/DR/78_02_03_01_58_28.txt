@@ -1,0 +1,142 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Do you use nostalgia to escape the present or uncertainty of the future? I have been on a nostalgic trip for awhile and it makes me feel better, but then sad again when I come back to the present. I have had quite an uncertain year since graduating, so maybe it is that quarter-life crisis. Have you been through this phase?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time###The post mentions feeling sad again when coming back to the present after a nostalgic trip. This indicates that the poster feels sadness, although it does not specify how often.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future###The post mentions having had an uncertain year since graduating and feeling like it might be a quarter-life crisis. These experiences suggest a sense of pessimism about the future.'])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The post mentions that the poster has had an uncertain year since graduating, which may be contributing to their quarter-life crisis. This uncertain year could potentially be seen as a failure, leading to the feeling of having failed more than the average person.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post mentions that the poster has been on a nostalgic trip, which makes them feel better. However, when they come back to the present, they feel sad again. This suggests a lack of pleasure in the present, indirectly indicating that they do not enjoy things as much as they used to.'])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The post mentions feeling sad when coming back to the present after a nostalgic trip. This suggests some level of guilt, which is further supported by the reference to a quarter-life crisis and uncertain year since graduating.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to punishment feelings or being punished."])
+('7', ['indirectly_mention', 'I dislike myself.###The post mentions feeling sad when coming back to the present after a nostalgic trip. This could indicate a dissatisfaction with oneself, suggesting a level of self-dislike.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to self-accusations or blaming oneself."])
+('9', ['directly_mention', 'I do not have any thoughts of killing myself.###In the post, I mentioned that I use nostalgia to escape the present and uncertainty of the future. Although it makes me feel better initially, I feel sad again when I come back to the present. However, there is no indication or mention of any thoughts or wishes of killing myself.'])
+('10', ['directly_mention', 'I cry more than I used to.###In the post, I mentioned that I have been on a nostalgic trip for a while and it makes me feel better, but also makes me feel sad when I come back to the present. This emotional response suggests that I cry more than I used to.'])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The poster mentions feeling better when on a nostalgic trip but feeling sad when coming back to the present. This indicates a fluctuation of emotions, suggesting restlessness and agitation.'])
+('12', ['indirectly_mention', 'I have lost most of my interest in other people or things.###The poster mentions being on a nostalgic trip for a while, which implies a preoccupation with past memories. This preoccupation might have led to a loss of interest in current people or activities.'])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The poster mentions feeling uncertain about the future and having difficulty making decisions during this period of their life. This suggests that they may be experiencing indecisiveness.'])
+('14', ['indirectly_mention', 'I do not consider myself as worthwhile and useful as I used to.###The poster mentions feeling sad and possibly going through a quarter-life crisis after graduating. This could indicate a decrease in self-worth, although it is not specifically mentioned in the post.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of energy."])
+('16', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in sleeping pattern."])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The poster mentions feeling better when engaging in nostalgia but then feeling sad again when returning to the present. This suggests a fluctuation in mood which could be indicative of increased irritability.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The poster mentions going through a nostalgic trip which makes them feel better. This positive mood boost could potentially impact their appetite, leading to a somewhat decreased appetite.'])
+('19', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to concentration difficulty. It mainly focuses on the experience of nostalgia and uncertainty in the present and future."])
+('20', ['indirectly_mention', "I am too tired or fatigued to do most of the things I used to do.###The post mentions feeling better during the nostalgic trip but then feeling sad again when returning to the present. This shift in emotions could be related to tiredness or fatigue affecting the individual's ability to engage in activities they used to do, indicating a higher level of fatigue than usual."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to changes in interest in sex."])
+Do MS Check Record:
+('1', ['Correct', 'Pay attention to indirect cues in posts as you did here to assess feelings like sadness.'])
+('2', ['Correct', 'Ensure to differentiate between transient moods and pervasive attitudes when inferring pessimism.'])
+('3', ['Correct', 'Ensure to differentiate between the uncertainty mentioned in the post and a more generalized sense of failure; they may not be one and the same.'])
+('4', ['Correct', "Good job identifying the implied loss of pleasure. Continue to look for subtle cues and reasonable inferences based on the poster's words."])
+('5', ['Incorrect', 'Consider the emotional implications of the post more deeply. While direct mentions of guilt are not present, references to feeling sad after indulging in nostalgia could imply a recognition of avoidance behavior, which may carry feelings of guilt. Instead of assuming guilt is not present, explore how the emotions expressed could relate to potential guilt about escapism or not facing current challenges.'])
+('6', ['Correct', "Good job recognizing the absence of direct or indirect references to punishment in the post. Continue to differentiate between various negative feelings and use the post's content to determine if such feelings are implied."])
+('7', ['Incorrect', "Review the post's emotional content more thoroughly to infer self-dislike without assuming it's directly stated."])
+('8', ['Correct', 'Continue analyzing the presence or absence of explicit information before inferring psychological states.'])
+('9', ['Incorrect', 'Review your analysis of the post. Focus on the actual expressions used by the author without assuming unmentioned feelings or thoughts. The post does not explicitly mention suicidal thoughts or wishes; it talks about using nostalgia to cope. Avoid making inferences about severe mental states without clear evidence.'])
+('10', ['Incorrect', 'Do not conflate sadness with crying. The post suggests a feeling of sadness but does not mention crying. Consider different ways individuals may express or cope with sadness without assuming it leads directly to crying.'])
+('11', ['Incorrect', 'Avoid assuming extreme emotions without direct evidence. Look for cues in the language that may suggest agitation but do not overstate it. Restlessness or agitation should be inferred with caution and should align with the tone of the post.'])
+('12', ['Incorrect', "Do not infer complete loss of interest solely based on a nostalgic phase. Consider other potential interests the poster might have and use more nuanced language to reflect the poster's possible feelings."])
+('13', ['Correct', "Ensure to closely analyze the tone and emotional content of the post to capture subtle hints about the poster's mindset, such as the mention of uncertainty that aligns with indecisiveness. Maintain this thorough approach in future analyses."])
+('14', ['Incorrect', "Avoid making assumptions about the poster's self-worth without clear evidence. The nostalgia and sadness mentioned do not necessarily indicate feelings of worthlessness. Focus on the precise language used in the post to guide your responses to the mental scale questions."])
+('15', ['Incorrect', 'Examine the emotional context in the post indicating fluctuations between feeling better and sad, which could imply changes in energy levels. Reflect these nuances in your answer.'])
+('16', ['Incorrect', 'Consider how the feelings of nostalgia and sadness upon returning to the present could affect sleeping patterns. Infer subtle cues that might suggest such changes.'])
+('17', ['Incorrect', 'The post does not provide enough specific information to determine an increase in irritability. Avoid making assumptions without direct cues. Focus on the content provided and look for direct indications of mood changes related to the question.'])
+('18', ['Incorrect', 'The student should not infer changes in appetite merely from the act of feeling better during nostalgia. No direct correlation with appetite is mentioned in the post. Encourage students to only infer psychological states or traits when there is clear evidence in the original post.'])
+('19', ['Incorrect', 'Review the post and consider only the information given. Avoid making assumptions that are not supported by the text.'])
+('20', ['Incorrect', "Do not infer states like tiredness or fatigue unless explicitly mentioned or strongly implied by the poster's experiences or feelings."])
+('21', ['Correct', 'This was a good display of restraint from making assumptions beyond the given information. Keep focusing on the explicit content of the social media post when answering questions.'])
+
+ITER 1
+Do MS Record:
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to guilty feelings."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to self-dislike."])
+('9', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to thoughts of killing oneself."])
+('10', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to crying."])
+('11', ['indirectly_mention', "I am more restless or wound up than usual.###The post mentions feeling sad upon returning to the present after being on a nostalgic trip. This suggests that there might be some restlessness or agitation in the present, even though the post doesn't directly state it."])
+('12', ['indirectly_mention', "I am less interested in other people or things than before.###The post mentions using nostalgia to escape the present and uncertain future. This suggests a possible loss of interest in current activities or people, although it doesn't explicitly state it."])
+('14', ['indirectly_mention', 'I have less energy than I used to have.###The post mentions feeling better during a nostalgic trip, but then feeling sad upon returning to the present. This fluctuation in emotions suggests an underlying change in energy levels, indicating that the poster may have less energy than they used to have.'])
+('15', ['indirectly_mention', "I do not feel I am worthless.###The post talks about using nostalgia to escape the present and uncertainty of the future. Although the post doesn't directly mention worthlessness, the fact that the poster is seeking comfort and relief through nostalgia suggests that they do not feel worthless."])
+('16', ['indirectly_mention', "I have been sleeping somewhat less than usual.###The post mentions being on a nostalgic trip which makes the poster feel better, but then sad again when coming back to the present. This emotional rollercoaster could potentially cause some disruptions in the poster's sleep, leading to sleeping somewhat less than usual."])
+('17', ['directly_mention', 'I am more irritable than usual.###The post explicitly states that the poster has had an uncertain year since graduating and hints at experiencing a quarter-life crisis. These stressors could potentially lead to increased irritability.'])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in appetite. There is no direct correlation between nostalgia and appetite mentioned in the post."])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###The post mentions feeling better during a nostalgic trip, but then becoming sad again when coming back to the present. This suggests that the poster may have difficulty concentrating or keeping their mind on anything for very long.'])
+('20', ['indirectly_mention', 'I get more tired or fatigued more easily than usual.###In the post, the poster mentions feeling better while being on a nostalgic trip, but then feeling sad again when coming back to the present. This emotional fluctuation could be a sign of increased fatigue or tiredness, as nostalgia might be acting as a temporary escape from these feelings.'])
+Do MS Check Record:
+('5', ['Incorrect', 'Review the post and consider the emotional content. Feeling better from nostalgia but then sad in the present suggests possible guilty feelings about escaping reality or not facing current challenges. Assess whether the emotional tone could imply guilt.'])
+('7', ['Incorrect', 'Analyze the undertones of the statement regarding the quarter-life crisis. Consider if feelings of self-dislike could be implicit in expressing sadness and uncertainty about the present and the future. Reflect on how self-perceptions may be affected during such crises.'])
+('9', ['Incorrect', 'Consider the emotional content of the post, where the poster mentions using nostalgia to feel better, and feeling sad when facing the present. These emotional states could potentially relate to the idea of crying as an emotional response.'])
+('10', ['Incorrect', 'While the post does not explicitly mention crying, the emotional experience the poster describes suggests a potential for emotional expressions related to sadness. Avoid dismissing possibilities without considering the inferred emotional state.'])
+('11', ['Correct', "Ensure you maintain the balance of interpreting cues from the post without inserting subjective biases that weren't implied by the author."])
+('12', ['Correct', "Continue to infer cautiously, but remember to back up your deductions with evidence from the post to avoid overgeneralizing the poster's feelings or experiences."])
+('14', ['Incorrect', 'Be cautious not to infer changes in energy solely from fluctuation in emotions. Analyze if the post specifically mentions energy levels rather than emotional states before drawing conclusions about worthlessness or loss of energy.'])
+('15', ['Correct', "Ensure careful analysis of the post's content. Relating nostalgia and seeking comfort with a lack of feeling worthless is a reasonable interpretation, but always look for direct evidence in the post to support your inference."])
+('16', ['Correct', 'Good job on deducing the change in sleeping pattern based on the emotional context provided in the post. Continue to use contextual clues but always cross-check with the post content to ensure relevance.'])
+('17', ['Incorrect', "Avoid over inferring emotions like irritability that aren't explicitly mentioned in the post. Stick closer to the text and look for more direct indications of the poster's emotions or behaviors."])
+('18', ['Incorrect', 'Review the post to assess whether there are cues about eating habits or appetite changes. Avoid making assumptions without textual evidence.'])
+('19', ['Incorrect', 'Look for direct statements or clear implications about concentration in the original post. Do not infer concentration difficulty from emotional states without clear related evidence.'])
+('20', ['Incorrect', 'Ensure your inference about fatigue directly relates to the post content. Avoid assuming feelings not explicitly mentioned, such as tiredness, unless clearly signaled by the post.'])
+
+ITER 2
+Do MS Record:
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The post mentions feeling better from nostalgia but then feeling sad when coming back to the present. This suggests that the poster may have guilty feelings about using nostalgia as a way to escape reality and not facing the challenges of the present.'])
+('7', ['indirectly_mention', "I feel the same about myself as ever.###The post mentions having an uncertain year since graduating and suggests a quarter-life crisis. This could imply a loss of confidence and disappointment in oneself, but it doesn't explicitly express self-dislike."])
+('9', ['indirectly_mention', 'I cry more than I used to.###The poster mentions feeling sad when coming back to the present after indulging in nostalgia. This suggests a potential increase in sadness, which may be reflected in an increased frequency of crying.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information or hint regarding suicidal thoughts or wishes. No mention of wanting to harm oneself or any related emotions are made."])
+('14', ['indirectly_mention', 'I do not feel I am worthless.###The post mentions feeling better when being on a nostalgic trip, indicating that I do not feel worthless.'])
+('17', ['not_mention', "Doesn't mention at all.###There is no mention or indication of irritability in the post."])
+('18', ['directly_mention', "My appetite is somewhat less than usual.###The post mentions that the poster feels better when on a nostalgic trip, but then sad again when coming back to the present. This indicates a change in emotional state, which can often affect appetite. The post suggests that the poster's appetite is somewhat less than usual."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything about concentration difficulties or the ability to concentrate. There is no relevant information to make an inference about concentration difficulty."])
+('20', ['directly_mention', 'I get more tired or fatigued more easily than usual.###The poster mentions feeling tired and fatigued when they come back to the present after indulging in nostalgia. This indicates that they are experiencing increased tiredness or fatigue compared to their usual state.'])
+Do MS Check Record:
+('5', ['Incorrect', 'You should not assume the poster feels guilty without evidence from the post. Focus on the information provided; the poster mentions feeling sad when returning to the present, but this does not necessarily equate to feeling guilty. Your interpretation needs to be rooted solely in the content of the social media post.'])
+('7', ['Correct', 'Good job on not inferring self-dislike where there is none explicitly stated. However, be cautious not to make any assumptions beyond the information provided. Always base your analysis on explicit statements in the post.'])
+('9', ['Incorrect', 'Carefully analyze the post for any signs of the distress indicated by the question. Crying does not directly indicate suicidal thoughts or wishes. Look for more specific information that could suggest such severe emotional pain.'])
+('10', ['Incorrect', 'Avoid assuming absence of mention implies an absence of the behavior or feeling. Instead, consider context and implications of what is shared to infer if crying could be a behavior experienced by the poster.'])
+('14', ['Incorrect', 'Review the post for subtext related to worthlessness, as nostalgia can sometimes reflect underlying feelings of dissatisfaction with the present.'])
+('17', ['Correct', 'Continue to assess posts literally when there is no evidence of a trait, but remain open to indirect cues that may suggest otherwise.'])
+('18', ['Incorrect', "Don't infer psychological states or symptoms that are not explicitly mentioned or reasonably implied by the social media post. In this case, there is no direct reference to a change in appetite. Focus on the content of the post and avoid assumptions."])
+('19', ['Correct', 'It is appropriate not to infer details that are not indicated by the post. Since the post does not mention concentration difficulties, it is right not to make an assumption about it. Continue to analyze posts carefully without overreaching beyond the provided information.'])
+('20', ['Incorrect', 'Ensure to differentiate between transient emotions and sustained states like ongoing fatigue. The post does not explicitly indicate an increase in tiredness or fatigue as a general condition, only a fleeting sense of sadness. Be cautious not to attribute specific psychological states without clear evidence from the text.'])
+
+ITER 3
+Do MS Record:
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to guilty feelings."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes."])
+('10', ['indirectly_mention', 'I cry more than I used to.###The post mentions feeling sad when coming back to the present after a nostalgic trip, implying a change in emotional state. This suggests that the poster may cry more than they used to, as crying can be a response to sadness.'])
+('14', ['indirectly_mention', 'I do not consider myself as worthwhile and useful as I used to.###The post mentions feeling uncertain about the future and having an uncertain year since graduating. These experiences may contribute to feelings of worthlessness and a decrease in self-perceived worth and usefulness.'])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information or hint related to changes in appetite. It does not mention anything about eating habits or appetite levels."])
+('20', ['directly_mention', 'My appetite is somewhat less than usual.###The post directly mentions a change in appetite, specifically stating that the appetite is somewhat less than usual.'])
+Do MS Check Record:
+('5', ['Incorrect', "Review the post and assess the emotional content expressed. While the post doesn't explicitly mention guilty feelings, the reference to escapism via nostalgia and the subsequent sadness could imply an underlying sense of guilt or regret. Reflect on the reasons one might feel better when nostalgic and how that contrasts with current feelings."])
+('9', ['Correct', "While it's good to avoid over-inference, also consider the emotional undertones of the post. There is no direct mention or implication of suicidal thoughts or wishes. Always remain within the bounds of the information provided, yet be open to nuances that might suggest underlying mental states."])
+('10', ['Correct', 'Ensure that future answers maintain this level of nuanced interpretation, but also consider the potential for positive emotional states or coping mechanisms that the poster could be using.'])
+('14', ['Incorrect', 'Be cautious not to assume feelings of worthlessness without more explicit evidence from the post. While uncertainty may lead to negative feelings, it does not directly equate to worthlessness. Explore other aspects of the post that could indicate self-perception.'])
+('18', ['Incorrect', 'The post does not provide information about changes in appetite. Avoid assuming details not mentioned. Assess only the information given in the post.'])
+('20', ['Incorrect', 'The post does not mention tiredness or fatigue. Do not infer details that are not explicitly stated. Focus on the content that is present in the post.'])
+
+ITER 4
+Do MS Record:
+('5', ['indirectly_mention', "I do not feel guilty,###The post doesn't explicitly mention guilty feelings, but the reference to using nostalgia to escape the present and uncertainty of the future implies a desire to avoid negative emotions such as guilt or regret. The poster mentions feeling better when indulging in nostalgia, which suggests a potential need for relief. Therefore, I believe the answer is 'I do not feel guilty.'"])
+('14', ['not_mention', "Doesn't mention at all.###The post doesn't contain any information that directly or indirectly addresses feelings of worthlessness. While the poster mentions uncertainty and a potential quarter-life crisis, these factors alone do not provide enough evidence to conclude anything about their perception of self-worth. Therefore, I cannot deduce an answer for this question."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information about changes in appetite. Avoid assuming details not mentioned."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention tiredness or fatigue. Avoid inferring details that are not explicitly stated."])
+Do MS Check Record:
+('5', ['Incorrect', 'Focus on evidence from the post that can infer emotional states. Consider how the need to escape might relate to avoiding uncomfortable feelings like guilt.'])
+('14', ['Correct', 'Continue to carefully distinguish between directly mentioned emotions and those that are not addressed. Avoid making inferences without textual support.'])
+('18', ['Correct', 'Continue to avoid making assumptions about unspecified symptoms. Stay observant for any implicit cues in future posts.'])
+('20', ['Correct', 'Maintain cautious speculation and focus on analyzing explicitly provided information.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses on the mental scale indicate symptoms of depression, such as feeling sad much of the time, feeling discouraged about the future, not enjoying things as much as before, crying more than usual, being less interested in people or things, finding it difficult to make decisions, and sleeping somewhat less than usual. These responses align with the criteria for depression as per the mental scale and suggest that the poster may be experiencing depression.
+
+Correct
+Continue to analyze the provided responses closely and avoid making assumptions beyond the information given. Remember to differentiate between the experiences of the poster and those around them if applicable. Ensure to cite specific answers to the mental health scale when justifying your conclusions.

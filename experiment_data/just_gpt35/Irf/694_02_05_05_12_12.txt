@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  For context, I‚Äôm 19, in my first year of college, and for one month - since I failed one of my exams - I lost everything I thought I had. All my friends, my crush, and for a week now, my Dad, who just wants to be upset at me forever for not helping him to the end with carrying some construction material. For one month, I‚Äôve entered a downward spiral, amplified by events such as the rejection mentioned earlier, or not being able to give the license exam two days ago because of some stupid policemen who told me that I ‚Äúdidn‚Äôt pay the license tax‚Äù correctly. And not being able to make up with my Dad, who just hates me. The final straw came an hour ago, when I got laughed at when I entered the classroom. Just because I happened to enter at the same time as some other older students who didn‚Äôt belong there. When I left the college, no one noticed. It is probably a matter of weeks or even days before I take my life. Nothing is worth it. Nothing makes me happy. Nothing can save me now. Nothing. And what‚Äôs more, no one (apart from probably my mother and sister) won‚Äôt miss me. But let‚Äôs be serious, they‚Äôll live without me. And also, I‚Äôm sure no one will notice this post, in the heap of posts of people with more serious life issues. This is really what makes me a failure: not being able to live happily in a life which would seem ok to most people here. So yeah.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions losing friends, crush, and feeling rejected. The poster also mentions feeling hated by their father and being laughed at in the classroom. They express a strong sense of loneliness and worthlessness, indicating a risk of thwarted belongingness.
+

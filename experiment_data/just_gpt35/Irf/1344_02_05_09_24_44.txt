@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I felt too overwhelmed balancing graduate-level schoolwork and a paid internship, and I felt like I wasn't getting as much done as I would have liked, wasting a lot of time. So I asked my advisor via email if I could end my contract early, for the research position I was given. He accepted the resignation, but I've been nervous bringing it up for weeks now. I was worried because I've been coming in late or on some days not at all. My depression is getting worse, and I feel like my antidepressant dosage is too low to be effective. I'm not sure which is a bigger black mark on my resume/needing a future recommendation for a job: not showing up to work because I'm having a depressive episode, or ending the internship to spare them from further episodes. It's the first time I've been employed as a STEM major, and I've completely messed it up. I only have rent money left and then, who knows. I feel so shitty and small, and mostly stupid. I can't possibly say that I've changed my mind now, it'll look too odd after all the rigamarole I went through trying to quit, emailing various advisors and internship coordinators. I'm so tired, and my boyfriend thinks that I've shot myself in the foot and yelled in disbelief.  I don't know how to make it better,  he said. I just don't know what to do. And I'm not sure what's more screwed up now, my financial status or my career path when grad school is over.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation and being overwhelmed, suggesting a potential risk of thwarted belongingness.
+

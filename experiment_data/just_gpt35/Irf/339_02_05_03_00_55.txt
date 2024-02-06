@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Maybe this post belongs in r/anxiety; I'm not quite sure. I do know that lately I've had this feeling that, on several occasions, has made me quite literally sick to my stomach. It's very hard to describe. See, I recently turned 18. I'm graduating high school a semester early with a fairly low GPA (2.7 weighted) despite my myriad veritable academic interests because I have this overwhelming boredom and this feeling that nothing is happening when I'm there. This nothingness has grown increasingly pervasive in my life. I want to go to college but feel it is not in my best interest at the moment. I want to take a year off and work but am worried a year might turn into a lifetime of dead-end jobs and complacency. I want sometimes to pass my house in my Jeep and keep driving. But what would that solve? I guess what I'm getting at is that I have no direction at the moment and nothing is calling me particularly loudly. I don't know where to go or what to do. I often find my eyes welling up and my fingers tapping my quivering leg with a sense of urgency, but alas I am still sitting. This yearning to do, to live, to experience coupled with my indistinct, unguided future, has birthed an uneasiness, a tension, that I haven't been able to relieve. Thank you for taking the time.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not explicitly mention or show any indication of perceived burdensomeness. The poster is mainly expressing feelings of boredom, lack of direction, and uneasiness about the future.
+

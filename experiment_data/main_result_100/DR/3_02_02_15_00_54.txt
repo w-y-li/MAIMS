@@ -1,0 +1,136 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  A vent more than advice post my close friend who i haven't seen in a while has a few days off so we plan to go for a catch up drink on Tuesday afternoon shes going to her boyfriends on tuesday evening, i dont want to step on any toes so i make sure to ask what time is ok to meet for drinks/when she would want to leave she messages me saying  bf says i can come over tuesday evening whenever suits me  half an hour later she messages again saying  bf said he was hoping we could spend tuesday afternoon together before i stay the night at his.  and asks to move the drinks to another day - even though tuesday is my *only* day off this week and any other day is actually really inconvenient for me and her and her boyfriend both have free afternoons for a few days in a row. not sure if the bf is getting annoyed that i'm spending more time with his girlfriend (barely) and that's why he changed his mind in that half hour between messages, but it's just getting to me. tl;dr - today i feel like i've been put on the backburner, and i'm not any kind of priority when it comes to time spent with my friend. and it sucks.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###The post directly mentions feeling put on the backburner and not being a priority, which can evoke feelings of sadness.'])
+('2', ['indirectly_mention', "I feel discouraged about my future.###Although the post doesn't directly mention the future, the frustration and disappointment expressed about not being a priority in the present can lead to pessimism about future friendships and relationships."])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The post mentions feeling like being put on the backburner and not being a priority when it comes to time spent with the friend. This might indicate a sense of failure in maintaining a close relationship with the friend.'])
+('4', ['directly_mention', 'I do not enjoy things as much as I used to.###The post explicitly mentions feeling like being put on the backburner and not being a priority, which can lead to a loss of pleasure in activities and relationships.'])
+('5', ['directly_mention', "I feel quite guilty most of the time.###In the post, I mentioned that it sucks and I feel like I've been put on the backburner, indicating that I feel guilty about not being a priority for my friend."])
+('6', ['indirectly_mention', "I feel I may be punished.###Although the post doesn't directly mention punishment feelings, the fact that my friend's boyfriend changed his mind about our plans and asked to spend the afternoon with her instead could be seen as a form of punishment for wanting to spend time with me. This sudden change in plans may make me feel like I am being punished."])
+('7', ['indirectly_mention', "I feel the same about myself as ever.###The post doesn't directly mention self-dislike, but the expression 'today I feel like I've been put on the backburner, and I'm not any kind of priority when it comes to time spent with my friend' indicates a sense of being undervalued and not prioritized, which can contribute to feelings of self-dislike."])
+('8', ['indirectly_mention', "I do not criticize or blame myself more than usual.###The post doesn't directly mention self-accusations, but the phrase 'today I feel like I've been put on the backburner' indicates a feeling of being neglected or overlooked, which may lead to self-critical thoughts. However, the post does not provide any information to suggest an increase in self-criticizing behavior."])
+('9', ['indirectly_mention', "I cry more than I used to.###The post mentions that today I feel like I've been put on the backburner, and it sucks. This indicates a sense of disappointment and sadness, which may be causing me to cry more than I used to."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about suicidal thoughts or wishes."])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The post mentions feeling put on the backburner and not being a priority when it comes to spending time with a friend, which is a source of frustration. This frustration can lead to increased restlessness or agitation compared to usual.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The post expresses disappointment in not being a priority and feeling like being put on the backburner by the friend. This can cause a decrease in interest in other people or activities compared to before.'])
+('13', ['directly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that I had to ask my friend what time is okay to meet for drinks and when she would want to leave, indicating indecisiveness on my part.'])
+('14', ['directly_mention', "I do not consider myself as worthwhile and useful as I used to.###The post mentions that I feel like I've been put on the backburner and not any kind of priority when it comes to time spent with my friend. This suggests a sense of worthlessness."])
+('15', ['directly_mention', 'I have less energy than I used to have.###The post mentions feeling put on the backburner and not being a priority, which can contribute to a loss of energy.'])
+('16', ['directly_mention', 'I have not experienced any change in my sleeping pattern.###The post does not mention any changes in sleeping pattern.'])
+('17', ['indirectly_mention', "I am more irritable than usual.###The poster mentions feeling like they've been put on the backburner and that they are not a priority when it comes to time spent with their friend. This can make someone feel irritable as they might be frustrated and upset about not being given importance."])
+('18', ['directly_mention', 'My appetite is much less than before.###The poster mentions feeling upset and frustrated about being put on the backburner and not being given priority. This emotional distress can often lead to changes in appetite, causing the individual to have a much smaller appetite than before.'])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to concentration difficulty."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to tiredness or fatigue."])
+('21', ['directly_mention', "I have lost interest in sex completely.###In the post, I mentioned that I have noticed that I've been put on the backburner and I'm not any kind of priority when it comes to time spent with my friend. This feeling of being neglected and not prioritized may have led me to lose interest in sex completely."])
+Do MS Check Record:
+('1', ['Correct', "Ensure to continue assessing the emotional content in the post to accurately gauge the poster's emotions. Maintain the balance between quoting directly and appropriately extrapolating emotions when the post provides relevant context."])
+('2', ['Incorrect', 'Avoid making assumptions about the future based on a single incident. Focus on the information provided in the post without overgeneralizing or inferring feelings not explicitly mentioned. Look for direct evidence in the post that pertains to pessimism.'])
+('3', ['Incorrect', 'Avoid assuming that feeling sidelined equates to experiencing past failures. Instead, focus on instances where the poster explicitly mentions past events linked to failure.'])
+('4', ['Incorrect', 'Do not infer a loss of pleasure based solely on one instance of disappointment. Look for patterns or repeated statements that indicate a consistent change in the enjoyment of activities.'])
+('5', ['Incorrect', "Review the post for explicit feelings expressed by the poster. The feeling of being 'put on the backburner' doesn't necessarily equate to guilt. Avoid adding emotions not clearly stated or implied by the original message."])
+('6', ['Incorrect', "Reassess your inference techniques. There's no clear indication of punishment feelings in the post. Focus on what is explicitly mentioned rather than assuming feelings not supported by the post's content."])
+('7', ['Incorrect', "Review the text for any explicit or implicit evidence of self-dislike. Avoid making assumptions without textual support. Focus on the poster's current emotions in response to the specific situation rather than generalizing to their overall self-view."])
+('8', ['Incorrect', "Ensure that responses directly relate to the content of the original post. Avoid inferring self-accusations without clear indications from the text, and remain objective in your analysis of the poster's feelings and viewpoints."])
+('9', ['Incorrect', 'Review the original post for explicit or implicit mentions of emotional distress, but avoid assuming it extends to suicidal thoughts without clear indications.'])
+('10', ['Correct', 'Ensure that the assessment of an emotional state such as crying is directly related to the content of the post and not inferred without substantiation.'])
+('11', ['Correct', "Continue to correlate the emotions described in social media posts with potential psychological states but ensure that any interpretations are grounded in the post's content."])
+('12', ['Incorrect', 'Avoid speculating about shifts in interest without explicit evidence from the post. Instead, focus on the precise emotions or experiences the poster describes.'])
+('13', ['Incorrect', "Consider the context more deeply before assuming indecisiveness. The post does not show difficulty in making a decision, but rather a consideration of the friend's schedule."])
+('14', ['Correct', 'Your inference about worthlessness seems accurate since the poster expresses feeling like a lower priority, indicating decreased self-esteem.'])
+('15', ['Incorrect', 'Consider the context without assuming emotions not explicitly mentioned. Focus on what is directly communicated about their energy levels, if anything, and avoid adding interpretations unsupported by the text.'])
+('16', ['Correct', "Continue paying close attention to the details of the post without inferring information that isn't there. Maintain this careful approach to avoid over-interpretation."])
+('17', ['Correct', 'Good job at interpreting the feelings of irritability from the context of being sidelined. However, be cautious not to overgeneralize emotions from a single event.'])
+('18', ['Incorrect', 'Be careful not to infer changes in appetite without direct evidence from the post. Focus on the information given rather than adding assumptions.'])
+('19', ['Correct', 'Ensure to continue distinguishing between what is explicitly mentioned and what requires inference. Analyze the content directly related to the psychological scale in question.'])
+('20', ['Correct', 'Remain vigilant in identifying specific evidence or lack thereof within the post before making a judgment related to psychological constructs like tiredness or fatigue.'])
+('21', ['Incorrect', 'Base your inference only on the information given in the social media post. There is no mention of changes in interest in sex. Stick closely to the context of the post, avoiding assumptions and overgeneralizations.'])
+
+ITER 1
+Do MS Record:
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to pessimism. It focuses more on feeling put on the backburner by the friend and not being a priority."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to past failures. It primarily discusses feeling like a low priority to the friend and being disappointed with the situation."])
+('4', ['indirectly_mention', 'I get very little pleasure from the things I used to enjoy.###The poster mentions feeling like they have been put on the backburner and not being a priority when it comes to time spent with their friend. This suggests a decrease in the enjoyment of activities related to spending time with their friend.'])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention any feelings of guilt. The focus seems to be more on feeling neglected and not being a priority rather than guilt."])
+('6', ['not_mention', "Doesn't mention at all.###There is no mention or indication of punishment feelings in the post. The poster is primarily expressing disappointment and frustration about not being a priority to their friend."])
+('7', ['not_mention', "Doesn't mention at all.###There is no explicit or implicit evidence of self-dislike in the post. The poster is focusing on feeling put on the backburner and not being a priority to their friend in terms of time spent together."])
+('8', ['indirectly_mention', 'I criticize myself for all of my faults.###The poster expresses feelings of being put on the backburner and not being a priority when it comes to time spent with their friend. This indicates a sense of self-criticism and self-blame for not being valued or prioritized.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes. It focuses more on the feeling of being put on the backburner and not being a priority in the friend's life."])
+('12', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that the poster has to make a decision about when to meet for drinks and when to leave. The poster expresses frustration about having to change plans and mentions that any other day is inconvenient. This suggests some difficulty in making decisions and being indecisive in this situation.'])
+('13', ['directly_mention', 'I have lost most of my interest in other people or things.###The post expresses feeling put on the backburner and not being a priority. The poster states that they are not any kind of priority when it comes to time spent with their friend. This suggests a loss of interest in the friendship and feeling less valued.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything about loss of energy. It focuses more on feelings of being put on the backburner and not being a priority."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in appetite. The main issue mentioned is feeling like being put on the backburner and not being a priority."])
+('21', ['not_mention', "Doesn't mention at all.###There is no mention of changes in interest in sex in the post. The post mainly focuses on the issue of the friend prioritizing her boyfriend over spending time with the poster."])
+Do MS Check Record:
+('2', ['Correct', 'Pay attention to subtle cues in the language that may imply pessimistic attitudes, but exercise caution not to infer too much from limited information.'])
+('3', ['Correct', 'Continue to distinguish between what is directly mentioned versus what is inferred, especially when no evidence of past failures is presented in the post.'])
+('4', ['Incorrect', 'Reevaluate the post and consider the difference between a decrease in enjoyment in a specific situation and a general loss of pleasure. The post mentions frustration and disappointment, but this does not inherently indicate a broader loss of pleasure.'])
+('5', ['Correct', 'Keep discerning the specific emotions expressed in the post. The absence of guilt should be noted as not relevant to the situation described. Continue to differentiate between the various emotions and feelings that are not explicitly stated.'])
+('6', ['Correct', 'Good job on identifying that the post does not explicitly mention punishment feelings. When analyzing a post, continue to differentiate between the expressed emotions and make sure not to infer feelings that are not indicated.'])
+('7', ['Correct', 'Accurate assessment regarding the lack of self-dislike in the post. Remember to maintain an objective stance, focusing on what is present in the content, and resist reading between the lines when the information is not there.'])
+('8', ['Incorrect', "Review the content of the post for explicit self-criticism rather than inferring self-accusation based on the situation described. The post discusses feelings of being undervalued but does not directly indicate self-blame. Stick to the poster's expressed emotions without extrapolating."])
+('9', ['Correct', "Continue to answer only what is explicitly mentioned or can be reasonably inferred from the post. As the poster does not exhibit any signs of suicidal ideation, stating that it 'doesn't mention at all' is appropriate. Maintain this level of discernment for future tasks."])
+('12', ['Incorrect', 'Carefully analyze the emotional content of the post. The poster is not expressing difficulty with making decisions, but frustration about an inconvenient situation. Focus on the specific situation described and avoid overgeneralizing to broader behavioral traits.'])
+('13', ['Incorrect', 'Avoid over-inferences about loss of interest from a single event. The post describes an isolated incident related to social planning, not a general loss of interest in people or things. Assess statements based on explicit content rather than implicit assumptions.'])
+('15', ['Correct', 'Continue to analyze the content of the posts closely without making assumptions about unmentioned topics.'])
+('18', ['Correct', 'Keep focusing on the information provided and avoid making inferences about aspects not covered in the posts.'])
+('21', ['Correct', 'Keep focusing on the specifics of the post without making assumptions beyond the expressed content.'])
+
+ITER 2
+Do MS Record:
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to a loss of pleasure."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to self-accusations."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention any loss of interest in other people or activities. The focus of the post is on feeling put on the backburner by the friend."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention any difficulty in making decisions. The focus of the post is on feeling disappointed about the friend changing plans."])
+Do MS Check Record:
+('4', ['Incorrect', 'Carefully analyze the emotional content of the post. The poster expresses feeling sidelined, which can be related to a decrease in pleasure from their social interactions. Reflect that in your response more accurately.'])
+('8', ['Incorrect', "Review the post for any underlying feelings of guilt or personal fault. The frustration expressed might not overtly mention self-accusations, but consider how being deprioritized by a friend could lead to feelings of questioning one's own worth or actions."])
+('12', ['Incorrect', 'Review the post for emotional cues that may indicate a change in usual behavior or interests, which could suggest a loss of interest indirectly.'])
+('13', ['Correct', 'Ensure to differentiate between expressing disappointment and showing indecisiveness. The post does not reveal difficulty in making decisions.'])
+
+ITER 3
+Do MS Record:
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to###The poster expresses feeling like they have been put on the backburner and that they are not a priority when it comes to time spent with their friend. This suggests a decrease in pleasure from their social interactions, indicating that they do not enjoy things as much as they used to.'])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual###The poster mentions feeling like they've been put on the backburner and not being a priority when it comes to time spent with their friend. This frustration can lead to self-accusations, as the poster may question their own worth or actions in relation to the change in their friend's behavior."])
+('12', ['directly_mention', "I am less interested in other people or things than before.###In the post, I mentioned that I feel like I've been put on the backburner and that I'm not any kind of priority when it comes to time spent with my friend. This suggests a decrease in my interest in other people."])
+Do MS Check Record:
+('4', ['Incorrect', 'Avoid assuming a change in enjoyment based on a single incident. Focus on explicit expressions of emotion and avoid broad generalizations.'])
+('8', ['Incorrect', 'Be cautious not to infer self-criticism without clear evidence. Look for direct statements from the poster that reflect self-accusation.'])
+('12', ['Incorrect', 'Review the post for concrete indications of a loss of interest. The feeling of being a lower priority does not equate to a loss of interest in others. You may instead infer feelings of disappointment or neglect.'])
+
+ITER 4
+Do MS Record:
+('4', ['indirectly_mention', 'I get very little pleasure from the things I used to enjoy###The poster mentions feeling like they have been put on the backburner and that they are not a priority. This suggests that they are not getting as much pleasure as they used to from spending time with their friend, which is supported by their frustration in not being able to meet up on their only day off.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication of self-accusations. It mainly focuses on the frustration and disappointment in feeling like they are not a priority to their friend."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of interest. It primarily focuses on feeling put on the backburner in terms of time spent with the friend."])
+Do MS Check Record:
+('4', ['Correct', 'Good analysis of subtle cues in the post indicating a decrease in pleasure from social interaction. Continue to look for indirect cues but ensure not to over-interpret.'])
+('8', ['Correct', 'Accurate reading of the post without assuming any self-accusations where none are mentioned. Keep focusing on the given information without inferring beyond the available context.'])
+('12', ['Incorrect', 'Review the emotional context of the post to determine if there is an underlying tone of disinterest, which could indirectly answer the question.'])
+
+ITER 5
+Do MS Record:
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The post mentions feeling put on the backburner and not being a priority when it comes to time spent with a friend, which implies a decrease in interest in the friendship and possibly other activities or people as well.'])
+Do MS Check Record:
+('12', ['Incorrect', 'While the post does express frustration about a change in plans, there is no clear indication of a loss of interest in other people or things. Be cautious not to confuse disappointment or inconvenience with a broader change in interest levels.'])
+
+ITER 6
+Do MS Record:
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any indication or mention of a loss of interest in other people or things."])
+Do MS Check Record:
+('12', ['Incorrect', 'Review the post carefully to identify any implicit indications regarding loss of interest. Assess the emotional tone and context clues indicating the poster’s feelings about the rescheduled plans and the importance of the day off, which may suggest a change in interest or priorities.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster exhibits symptoms such as feeling sad much of the time, getting very little pleasure from things they used to enjoy, feeling more restless or wound up than usual, and considering themselves as less worthwhile and useful than before. These symptoms indicate a possible presence of depression.
+
+Correct
+Ensure that when analyzing a social media post against a mental health scale, you objectively evaluate the information provided without making assumptions beyond the evidence. It's important to differentiate between the mental health of the person writing the post and that of others mentioned within it. Continue to compare responses to standardized questions on mental health scales to the presented situation and symptoms, as you did in this case, to support your conclusions. Always check that each piece of evidence used to support your answer is directly referenced and relevant to the question at hand.

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Okay everyone hello there, recently I've been having extreme panic attacks and depression. It all started with me crying imagining what would happen to me if my parents died on public transport. My mum instantly comforted me and told me that wouldn't happen (I'm 13). I continued on to yesterday which as you all know is New year's. I started getting even more panicky thinking about what happens after life and that if I die is that it? I solved that by reading some theories on after life and forming my opinion that we go into a sort of lounge with the spirits who wait for us. After that I've lost all ambition to become an entrepreneur and just thinking of what point is there to life. I've been able to get myself out of the panicky state only when watching youtube or playing video games. Any other time I end up being highly stressed for some unknown reason. Please reddit help me  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a risk of perceived burdensomeness as the person is feeling extreme panic attacks and depression. They have expressed concerns about their parents dying and being left alone, as well as existential thoughts about the afterlife and the purpose of life. These thoughts and emotions reflect feelings of being overwhelmed and perceiving themselves as a burden to others.
+

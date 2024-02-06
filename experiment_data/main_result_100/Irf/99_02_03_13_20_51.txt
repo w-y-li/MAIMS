@@ -1,0 +1,103 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Hi, do any of you have practical advice and methods on how to overcome fear? There are some things I have to do which, when I try to start them, cause me to have this intense freezing fear. In my case it can be opening various mail or even starting to read some book. It could even be when I decide to rent a movie. I know I shouldn‚Äôt be afraid and I do not see rational reasons for it, but I get waves of fear that feel like there is a predator that is going to attack. I feel it and I am gripped with stillness and fear as if I am hiding and can‚Äôt move or breathe heavily because it could reveal my position. Because of this I end up not doing things I have to do, missing some deadlines, not going to the dentist. Well the dentist is understandable since no one wants to go to them. In my case it is mundane things. This is probably a symptom of PTSD I am diagnosed with, but I still need to find ways to overcome these irrational fears.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to feeling burdensome or being happier without me."])
+('2', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to feeling burdensome or being happier without me."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling like a burden on society."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to thinking that my death would be a relief to the people in my life."])
+('5', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to the question."])
+('6', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to the question."])
+('7', ['indirectly_mention', "Somewhat true for me###The post mentions that the fear causes me to miss deadlines and not do things I have to do, indicating a sense of responsibility towards others. However, it does not directly state that other people care about me, hence the answer is 'Somewhat true for me'."])
+('8', ['indirectly_mention', "Not at all true for me###The post mentions feeling gripped with fear and hiding, which might indicate a lack of belongingness. However, it does not directly state that I do not feel like I belong, hence the answer is 'Not at all true for me'."])
+('9', ['directly_mention', 'Somewhat true for me###The post mentions feeling afraid and experiencing intense freezing fear. These symptoms could indicate a lack of support or interaction with caring individuals.'])
+('10', ['indirectly_mention', 'Not at all true for me###The post indicates that the person is diagnosed with PTSD, which suggests that they may have received professional help and support. Therefore, it is likely that they have caring and supportive friends as mentioned in the question.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention feeling disconnected from other people or feeling like an outsider in social gatherings."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to feeling disconnected from other people or feeling like an outsider in social gatherings."])
+('13', ['directly_mention', 'Somewhat true for me###In the post, the poster mentions feeling fear and needing to find ways to overcome it. This implies that the poster may not be close to other people and may not have people to turn to in times of need, but there is no direct mention of this.'])
+('14', ['not_mention', "Doesn't mention at all.###There is no mention in the post about being close to other people. The post focuses on the fear and ways to overcome it, without discussing any interpersonal relationships."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to having satisfying interactions on a daily basis."])
+Do MS Check Record:
+('1', ['Correct', 'Continue to focus on the concrete information presented in the post without making assumptions beyond the content provided. Ensure that every answer is directly tied to the information given in the post.'])
+('2', ['Correct', 'Maintain the clear distinction between what is stated in the post and what is not. Avoid inferring emotions or feelings not expressly indicated by the poster.'])
+('3', ['Correct', "Good job on not overreaching with information that isn't provided in the post. However, try to reflect if any indirect clues could suggest feelings of being a burden, and make sure to consider these in your response."])
+('4', ['Correct', 'You appropriately avoided making assumptions not supported by the text. Continue to distinguish between posts that hint towards such feelings and those that do not, like in this case.'])
+('5', ['Correct', 'Continue to practice restraint from over-inferencing when the post does not provide relevant information.'])
+('6', ['Correct', "Remain cautious about making assumptions that aren't supported by the content of the post."])
+('7', ['Incorrect', "Avoid making assumptions about the poster's social support based solely on their experiences of fear. The post does not provide sufficient evidence to determine whether others care about them. Instead, focus on what is explicitly stated or can be directly inferred about social support in the post."])
+('8', ['Incorrect', 'Do not infer a feeling of non-belonging strictly from an expression of fear or hiding as they do not necessarily equate to social connectedness. Look for explicit mentions or clearer contextual clues in the post related to feelings of belonging or not.'])
+('9', ['Incorrect', "Carefully analyze the content of the post. It does not provide information about the poster’s social interactions, so claiming the post 'directly mentions' this aspect is an overreach. Rather than infer social support levels from the symptoms described, stick to the information given. Do not assume a lack of social support merely because the poster expresses fear."])
+('10', ['Incorrect', "Avoid making assumptions about the poster's social network. The presence of PTSD and receiving professional help does not automatically imply that the individual has many caring and supportive friends. Focus on the information provided in the post itself without over inferring or assuming details not mentioned."])
+('11', ['Correct', "Continue to only use information from the post to answer the questions. Be cautious not to infer additional emotions or behaviors that aren't mentioned."])
+('12', ['Correct', 'Maintain your focus on the content explicitly stated in the post. Avoid making assumptions about social interactions unless they are directly referenced by the poster.'])
+('13', ['Incorrect', 'Do not assume the absence of information implies a negative attribute; you should infer carefully from the content. Explore neutral or positive possibilities as well, and avoid assuming that the lack of mention means non-existence. Consider nuanced responses that reflect possible inferences without overreaching.'])
+('14', ['Correct', 'When the post does not provide information related to the question, it is appropriate to answer that it does not mention the subject. However, ensure you are open to implied or indirect references to the topic in the post and remain vigilant to subtle cues that may suggest an answer.'])
+('15', ['Incorrect', "The post indicates the poster is seeking ways to overcome fear, suggesting openness to interaction. While the post does not directly mention satisfying interactions, you could deduce that the overwhelming fear may impede day-to-day social interactions. Answer the question considering the impact of the poster's PTSD symptoms on their ability to have satisfying interactions, even though it's not explicitly mentioned."])
+
+ITER 1
+Do MS Record:
+('7', ['not_mention', "Doesn't mention at all.###The post does not provide any information or clues to directly or indirectly answer this question. The post focuses on the individual's fear and their search for practical advice to overcome it."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information or clues to directly or indirectly answer this question. The post primarily discusses the individual's fear and their struggle to overcome it, without mentioning feelings of belonging."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not provide any information that directly or indirectly mentions the level of interaction with people who care about me."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information that directly or indirectly mentions the number of caring and supportive friends."])
+('13', ['indirectly_mention', 'Somewhat true for me###The post indirectly mentions the need for support in times of need when the poster asks for practical advice and methods on how to overcome fear.'])
+('15', ['indirectly_mention', 'Not at all true for me###The post indirectly suggests that the poster lacks satisfying interactions due to their fear and PTSD symptoms. The intense fear described may impede their ability to have positive daily interactions.'])
+Do MS Check Record:
+('7', ['Correct', 'For future tasks, continue to focus on the given information in the post without making assumptions. However, ensure to review the post thoroughly for any subtle hints that may be relevant.'])
+('8', ['Correct', 'Maintain your current approach of sticking to the content provided, but always be open to considering implicit information that might inform your response to such questions.'])
+('9', ['Incorrect', 'Carefully analyze the emotional content and personal insights shared in the post. The poster mentioned overcoming fear in various personal activities which suggests there may be a reluctance to engage socially. Consider the implications of PTSD on social interactions and provide a speculative but informed answer based on psychological understanding.'])
+('10', ['Incorrect', "Read between the lines to assess the possible quality of social support the poster has. The mention of needing help to overcome fear could imply a lack of or a need for more supportive relationships. Avoid making assumptions but use psychological theories to hypothesize about the poster's social support system."])
+('13', ['Incorrect', 'Consider evidence presented in the post for the level of social support the poster has before inferring their ability to turn to others. Do not assume a need for social support translates directly to having it. Focus on the content provided about social interactions rather than inferring unstated details.'])
+('15', ['Incorrect', "Avoid making assumptions about the poster's daily interactions based on their fears. If the post does not provide clear information on their social life, do not infer the presence or absence of satisfying interactions. Stick to the facts presented and analyze the post more carefully for explicit details."])
+
+ITER 2
+Do MS Record:
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling afraid and hiding as if someone could attack, indicating a sense of vulnerability and fear. This suggests a possible reluctance to interact with others, which could indicate that the poster rarely interacts with people who care about them.'])
+('10', ['indirectly_mention', 'Not at all true for me###The post does not explicitly mention having many caring and supportive friends, but it implies a lack of social support in overcoming their irrational fears. The poster seeks practical advice from others, suggesting they may not have many supportive friends to turn to in this situation.'])
+('13', ['indirectly_mention', 'Somewhat true for me###The post indirectly mentions the question by stating that the poster has fears that prevent them from doing things they need to do, such as opening mail, reading books, or renting movies. These fears are intense and cause the poster to feel frozen and gripped with fear. This suggests that the poster may need support or assistance in overcoming their fears, indicating the need for people they can turn to in times of need.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything about satisfying interactions. It primarily focuses on the intense freezing fear experienced by the poster and their struggles with various tasks due to these fears."])
+Do MS Check Record:
+('9', ['Incorrect', 'Avoid assuming feelings of vulnerability equate to a lack of interaction with caring people. Instead, focus on concrete information within the post. Suggest exploring statements by the poster related to social interactions for accurate insight.'])
+('10', ['Incorrect', 'Do not infer a lack of supportive friends from a request for advice. The poster may have supportive friends but is seeking additional perspectives. Look for direct references to friends or social support in the post to guide your response.'])
+('13', ['Incorrect', "Refer to the post content discussing the intense fear and its effects on the poster's behavior to infer about potential social support needs, without assuming the existence or absence of such support."])
+('15', ['Correct', 'Keep focusing on the concrete details provided in the post to determine if the post mentions the topic in question or not, as done here regarding satisfying interactions.'])
+
+ITER 3
+Do MS Record:
+('9', ['directly_mention', 'Somewhat true for me###The post mentions feeling gripped with stillness and fear, and hiding as if to reveal the position. These statements suggest a lack of interaction with people who care about the poster.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having caring and supportive friends."])
+('13', ['directly_mention', 'Somewhat true for me###The poster mentions needing practical advice and methods to overcome fear, which implies that they may be looking for support and guidance from others in dealing with their fears.'])
+Do MS Check Record:
+('9', ['Incorrect', 'Review the post focusing on explicit mentions of social interactions or lack thereof. Do not infer an emotional state as evidence of social interactions. Instead, look for direct references to interpersonal relationships when answering.'])
+('10', ['Correct', 'Good job recognizing the lack of information in the post regarding caring and supportive friends. In the absence of direct mentions, it is appropriate not to infer.'])
+('13', ['Incorrect', "Review the post and focus on the information given without implying facts not mentioned. The poster talks about their fear and how it affects them but doesn't explicitly discuss their support system. You should base your answer on the direct information provided instead of assuming implications."])
+
+ITER 4
+Do MS Record:
+('9', ['indirectly_mention', "Somewhat true for me###In the post, the poster describes feeling intense freezing fear and waves of fear that feel like there is a predator that is going to attack. They mention being gripped with stillness and fear, as if they are hiding and can't move or breathe heavily because it could reveal their position. These symptoms suggest a heightened state of anxiety and fear, which could indicate a lack of interaction and support from others."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the presence or absence of people the poster can turn to in times of need. The poster primarily discusses their fear and the impact it has on their daily life, but does not directly mention seeking or receiving support from others."])
+Do MS Check Record:
+('9', ['Incorrect', 'Avoid making assumptions that are not directly supported by the text. Focus on analyzing the explicit content of the post. Look for indications of social connections or isolation instead of inferring them from emotional states.'])
+('13', ['Correct', 'Good job on not over-inferring from the provided social media post. Continue to differentiate between the presence or absence of explicit information on the post, especially concerning social support.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a fear of being a burden or causing harm to others, as the author mentions feeling gripped with fear and hiding from a perceived predator. These feelings may be consistent with a risk of perceived burdensomeness, which is often associated with mental health conditions such as PTSD.
+
+Incorrect
+Review the post and the answered questions from the mental health scale without adding interpretations not supported by the evidence. The post shows the individual struggling with fear and possibly PTSD, but there is no mention or evidence of feeling like a burden. Stick strictly to the provided information without making inferences beyond it.
+
+ITER 1
+No
+No evidence or mention of feeling like a burden in the post or the answered questions from the mental health scale
+
+Correct
+Keep focusing on the information presented, and avoid making assumptions that are not supported by the evidence. Continue to differentiate between the subject's emotions and the possibility of perceived burdensomeness, which are distinct concepts. Your analysis should remain grounded in the explicit content of the posts and responses.

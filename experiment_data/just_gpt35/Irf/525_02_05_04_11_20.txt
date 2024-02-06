@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I happened upon this site: https://www.technologynetworks.com/neuroscience/news/sleep-deprivation-effective-as-an-anti-depressant-for-nearly-half-of-depressed-patients-291910 Even before I found this info, I noticed that when I miss a night's sleep, I get less 'me', that is, sad, afraid and ashamed. It's like a part of my inhibitions goes and my brain is too focused on task at hand to torment me with my usual existential and emotional angst. What do you think? Disclaimer: this is by no means an encouragement to do this on your own. Talk to your doctor first, to see if it won't exacerbate your symptoms.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of perceived burdensomeness. The poster is discussing the effect of sleep deprivation on their mood and mentions that it temporarily alleviates their usual feelings of sadness, fear, and shame. There is no indication of the poster feeling like a burden to others or expressing thoughts of being a burden.
+

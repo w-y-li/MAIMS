@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  i was on effexor xr 187.5mg for about 3month with no issues for panic/anxiety attack but this week has been the worse for me. I am thinking to jump onto 225mg to feel better and stop the horrible attacks. should i do it?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests the poster is experiencing panic/anxiety attacks and is looking for relief by increasing their medication dosage. This could indicate a feeling of disconnection or lack of belongingness, as they are seeking to stop the attacks and feel better.
+

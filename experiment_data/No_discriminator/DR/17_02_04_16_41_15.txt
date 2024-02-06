@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I starve myself When I get depressed, I just can not eat. Everything sounds so gross and eating just seems difficult. I’m a very small person, 5’4 and 100 pounds. It’s something I’m self conscious about but weight gain has always been a struggle for me. I’ll go through periods where I’m doing well and eat 3x a day and manage to put on a few pounds, but then something happens and I slip back into my old ways and the weight falls right back off. Does anyone else do this?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###In my post, I mentioned that when I get depressed, I am unable to eat and everything sounds gross. This suggests that I experience sadness frequently.'])
+('2', ['indirectly_mention', "I feel discouraged about my future.###Although I didn't explicitly mention feeling discouraged about my future, I did mention that weight gain has always been a struggle for me, and despite my efforts, I often slip back into my old ways. This indicates a lack of hope for improvement in the future, which can be seen as pessimism about the future."])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The post mentions that weight gain has always been a struggle, and the poster goes through periods of doing well and managing to put on a few pounds but then slips back into old ways, causing the weight to fall off again. This can be seen as a past failure in terms of maintaining weight gain.'])
+('4', ['directly_mention', 'I do not enjoy things as much as I used to.###The post mentions that when the poster gets depressed, everything sounds gross and eating seems difficult. This loss of pleasure in eating can be inferred as a general loss of pleasure in things the poster used to enjoy.'])
+('5', ['directly_mention', 'I do not feel guilty###The post does not mention any feelings of guilt.'])
+('6', ['directly_mention', 'I do not feel I am being punished###The post does not mention any feelings of being punished.'])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to self-dislike."])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The post mentions struggling with weight gain and going through periods of eating well followed by slipping back into old ways and losing weight. This implies a pattern of self-criticism and blaming oneself for not being able to maintain a consistent weight.'])
+('9', ['directly_mention', "I do not have any thoughts of killing myself.###The post doesn't mention anything about having thoughts of killing oneself."])
+('10', ['indirectly_mention', "I cry more than I used to.###The post indicates experiencing periods of depression and struggling with weight gain, which suggests emotional distress. The individual also mentions eating difficulties, feeling self-conscious, and slipping back into old ways. Although the post doesn't specifically mention crying, these emotional struggles may lead to an increased tendency to cry."])
+('11', ['directly_mention', "I am so restless or agitated that it is hard to stay still.###The post mentions that when I get depressed, I just cannot eat. Everything sounds so gross and eating just seems difficult. This suggests that the person might be experiencing agitation and restlessness, which aligns with the option 'I am so restless or agitated that it is hard to stay still.'"])
+('12', ['directly_mention', "It is hard to get interested in anything.###The post mentions that weight gain has always been a struggle for me, and the person goes through periods where they're doing well and eating regularly, but then something happens and they slip back into their old ways. This loss of interest in maintaining healthy eating habits suggests that the person may have a decreased interest in other activities as well, indicating the option 'It is hard to get interested in anything.'"])
+('13', ['indirectly_mention', "I find it more difficult to make decisions than usual.###The post mentions that when I get depressed, I just cannot eat and everything sounds so gross. This indicates that the person's appetite and decision-making abilities may be affected during periods of depression."])
+('14', ['indirectly_mention', 'I feel more worthless as compared to other people.###The post mentions that weight gain has always been a struggle for me and the person is self-conscious about their weight. This suggests that they may compare themselves to others and feel more worthless in terms of their appearance.'])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###The post mentions that when I get depressed, I just can not eat and everything sounds so gross. This indicates a loss of energy which is further supported by the statement that weight gain has always been a struggle for me.'])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###The post implies changes in sleeping pattern as it states that something happens and I slip back into my old ways. This suggests a disruption in sleep and is consistent with the option of sleeping somewhat less than usual.'])
+('17', ['indirectly_mention', 'I am much more irritable than usual.###In the post, I mentioned that when I get depressed, I lose my appetite and find eating difficult. This suggests that I may be experiencing significant changes in my mood which could lead to increased irritability.'])
+('18', ['indirectly_mention', 'My appetite is much less than before.###I stated in the post that everything sounds gross and eating seems difficult when I get depressed. This implies a significant decrease in my appetite, indicating that it is much less than before.'])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###The post mentions that when I get depressed, I just can not eat. This implies a difficulty in concentrating on anything.'])
+('20', ['directly_mention', 'I am too tired or fatigued to do a lot of the things I used to do.###The post mentions that eating seems difficult and everything sounds so gross when depressed. This implies feeling tired or fatigued to a point where doing daily activities becomes challenging.'])
+('21', ['directly_mention', "I have not noticed any recent change in interest in sex.###The post mentions that the poster's weight has always been a struggle, but there is no indication of any recent change in interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the mental scale questions indicate symptoms of depression, including feeling sad, discouraged about the future, not enjoying things as much, being restless or agitated, finding it hard to get interested in anything, having difficulty concentrating, experiencing changes in appetite and sleeping pattern, feeling tired or fatigued, and being irritable.
+

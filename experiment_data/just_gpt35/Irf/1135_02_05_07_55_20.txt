@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I fucked up by accepting a job offer and leaving my old comfortable job. Now I want to die. I can‚Äôt keep going on like this... depressed and afraid of everything.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement of wanting to die and feeling depressed and afraid suggests a sense of perceived burdensomeness, where they may feel like a burden to others due to their perceived failure in accepting a new job and leaving their old one.
+

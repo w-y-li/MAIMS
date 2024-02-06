@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I feel absolutely stuck in my life. That‚Äôs one of the major depressive thoughts I have. I want things to happen. But I can‚Äôt even get myself to do anything out of the ordinary because I‚Äôm petrified of change. I want things to change. But I‚Äôm afraid of things changing. What the fuck is wrong with me?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of being stuck, wanting change but being afraid of it. This suggests a lack of belongingness and difficulty in forming meaningful connections, which is a characteristic of thwarted belongingness.
+

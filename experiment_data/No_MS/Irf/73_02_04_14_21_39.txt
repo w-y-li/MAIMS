@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Anyone gotten off this drug? I am reading the inter webs and having the crap scared out of me. Been on it about 18 months...  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+This post does not show risk of perceived burdensomeness. The poster is expressing concern about potential side effects of a drug they have been taking for 18 months, but there is no indication of feeling like a burden to others or burdened by their own existence.
+
+Correct
+Keep focusing on the specific content provided in posts to avoid overgeneralization and ensure that the analysis is based on the present information without assuming additional, unsubstantiated negative traits. Remember to distinguish between the mental health of the individual posting and the individuals they may refer to in their post.

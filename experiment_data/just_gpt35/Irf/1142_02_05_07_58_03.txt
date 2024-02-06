@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Besides the fact that a lot of people i considered friends didnt even remember , now i have reached extremes levels of my anxiety because i have to invite friends over for a party otherwise they'll think im weird or i dont want to hang out with them. I dont enjoy parties mainly cause i'm poor and i cant organise one properly , also i just have high anxiety when too many people are around me. I dont want to lose the last friends i have but i dont know what to do. sorry if this post doesnt fit or whatever i just wanted to express whats on my mind thank you for your attention. also sorry for the bad english  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling anxious because they believe they have to invite friends over for a party, otherwise their friends will think they are weird or don't want to hang out with them. This suggests a fear of social exclusion and a desire to belong, indicating a risk of thwarted belongingness.
+

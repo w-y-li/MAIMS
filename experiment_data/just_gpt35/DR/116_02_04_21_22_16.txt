@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Went to a therapy centre for the first time today I hesitated so much before going, I almost went back too many times. I actually got the address wrong the first time and knocked the door on a young lady asking her if she’s the therapist at the address that I have. Anyway, I’ve filled out the forms and I’m waiting to be contacted by the centre, it’s scary and weird.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster's anxiety and hesitation about going to therapy for the first time does not necessarily indicate that they suffer from depression. They feel scared and weird, which are common emotions when seeking help for mental health issues, but this alone does not suggest depression.
+

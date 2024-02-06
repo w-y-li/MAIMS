@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  It's a pleasure to meet everyone in this subreddit, even though the context of it isn't really pleasant in a sense... You can call me Matthew, I had decided to create a account in order to express myself about my life and the struggles that come against me everyday, I hope those messages can come to be of some use to somebody. Upon typing this I realised, my English is still too bad.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of isolation and struggle in everyday life, suggesting a potential lack of belongingness and connection to others.
+

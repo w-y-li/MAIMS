@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôm very depressed. I‚Äôm also an antinatalist. And I‚Äôm also a nihilist. So, I do not think there is a point to living. Furthermore, I wish I was never born. I do not want to die necessarily I just wish I was never alive in the first place. Everyday I wake up wanting to not live. What is keeping me from just killing myself. I‚Äôm beyond miserable.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of isolation and a lack of connections with others, which is a characteristic of thwarted belongingness. The individual expresses thoughts of not wanting to be alive and feeling beyond miserable, suggesting a deep level of distress and disconnection.
+

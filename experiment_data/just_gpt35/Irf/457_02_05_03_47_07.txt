@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Like i have a ok life im homeless right now its not the first time i have some fake friends not first i have little family my mom died a couple weeks ago (im 14) all this stuff is bad but im kinda use to this i losted all energy to live yet i cant kill myself because i know i would hurt maybe 2 or 3 people idk anymore haha  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person feels like a burden to others and mentions not wanting to hurt 2 or 3 people by killing themselves, suggesting a perception of burdensomeness.
+

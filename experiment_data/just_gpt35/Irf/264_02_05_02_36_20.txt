@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I just spent new years eve alone on a rooftop. I really didn't want to celebrate this night with other people so I ignored every invitation and ran off before any neighbors could inivite me... But I still want wish everyone of you a good year. Nobody bothered to call or message me but I still have this sub. Things may not be any better just because another 24 hours passed, but to everyone who also spends the night alone: I wish you a great year and good luck for the things you're going to attempt!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual intentionally avoided socializing and spent New Year's Eve alone on a rooftop. They mentioned ignoring invitations and running off to avoid neighbors inviting them. They express feeling isolated and mention nobody calling or messaging them. These behaviors and feelings indicate a potential risk of thwarted belongingness, which refers to feeling disconnected and excluded from social groups.
+

@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  What do you do after a full days work? What are your hobbies, habits, and routines? What keeps you busy? When I am not busy and productive is when I get the most depressed. Keeping my mind occupied is critical, but I also suck with routine in my life. The only things I routinely do are go to my day job, work out afterwards, and eat dinner. Other than that it is all up in the air. Just want to see how everyone else spends their time after an 8+ hour day.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The poster mentions that they get the most depressed when they are not busy and productive, indicating that they experience sadness frequently.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The poster mentions that they struggle with routine in their life and that keeping their mind occupied is critical. This suggests a lack of optimism for the future and indicates feelings of pessimism.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to past failure."])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post mentions feeling depressed when not busy and productive, which can be an indication of experiencing a reduced sense of pleasure in previously enjoyed activities.'])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###The post mentions feeling depressed when not busy and productive, indicating a potential presence of guilt.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to punishment feelings."])
+('7', ['directly_mention', "I dislike myself.###In the post, I mentioned that 'When I am not busy and productive is when I get the most depressed.' This suggests that I have negative feelings towards myself and thus, the answer is 'I dislike myself'."])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual.###In the post, I mentioned that 'Keeping my mind occupied is critical, but I also suck with routine in my life.' This suggests that I have a tendency to be critical of myself and blame myself. Although I didn't explicitly say that it is more than usual, it can be inferred from the context that my self-criticism is heightened due to struggling with routine. Therefore, the answer is 'I am more self-critical or blaming than usual'."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to crying."])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The poster mentioned that when they are not busy and productive, they get the most depressed. This suggests that they may experience agitation when they have free time and are not occupied.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The poster mentioned that keeping their mind occupied is critical and that they have routine activities such as their day job, working out, and eating dinner. This implies that they may have lost some interest in other activities or people compared to before.'])
+('13', ['directly_mention', 'I find it more difficult to make decisions than usual.###In the post, I mentioned that routine is something I struggle with in my life, which suggests that I may also have difficulty making decisions.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feelings of worthlessness or comparisons to other people. Therefore, I cannot provide an answer to this question based on the given information."])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###The post mentions that when the poster is not busy and productive, they get the most depressed. This implies a lack of energy to engage in activities.'])
+('16', ['directly_mention', "I have not experienced any change in my sleeping pattern.###The post does not mention any changes in the poster's sleeping pattern."])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The poster mentioned that when they are not busy and productive, they get the most depressed. This suggests that their low mood may be accompanied by increased irritability, indicating that they are more irritable than usual.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The poster mentioned that the only things they routinely do are go to their day job, work out afterwards, and eat dinner. This suggests that their routine may impact their appetite and potentially lead to a somewhat reduced appetite.'])
+('19', ['indirectly_mention', "I can not concentrate as well as usual.###In the post, I mentioned that when I am not busy and productive, I get the most depressed. This suggests that I have difficulty concentrating when I don't have activities to keep my mind occupied."])
+('20', ['directly_mention', 'I am too tired or fatigued to do most of the things I used to do.###I specifically mentioned that when I am not busy and productive, I get depressed. This suggests that tiredness or fatigue may be impacting my ability to engage in activities I used to enjoy.'])
+('21', ['indirectly_mention', 'I have almost no interest in sex.###The poster mentions that they get the most depressed when they are not busy and productive, and that keeping their mind occupied is critical. This suggests that their lack of interest in sex may be a result of their depression and their need for constant mental stimulation.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers on the mental scale indicate symptoms of depression, such as feeling sad much of the time, feeling discouraged about the future, not enjoying things as much as before, feeling guilty, self-disliking, being self-critical or blaming, feeling restless or agitated, being less interested in people or things, finding it difficult to make decisions, lacking energy, being more irritable, having decreased appetite, experiencing difficulty concentrating, feeling tired or fatigued, and having almost no interest in sex.
+

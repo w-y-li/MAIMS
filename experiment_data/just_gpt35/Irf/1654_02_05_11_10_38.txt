@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I hate being undesirable. I hate looking at myself in the mirror. Hopefully with this new haircut I could not look as untouchable. Especially since no one has liked me, I feel so pathetic in a way. I‚Äôm just ranting. I was sitting and thinking how bad I feel about my appearance and how much I try to be better. I got slimmer, got more muscle, haircut and all. All around, it‚Äôs a nightmare. It‚Äôs late and all I think about these hours are either suicide or imagining I am someone else. When I can, I fantasize about how my day would be different if I was a new man. I would look better, have friends, a girlfriend, a full loving and able-bodied family, nice house, etc. I guess it‚Äôs just the land of dreams for me until I die.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation, low self-esteem, and a desire for social connection, which are characteristic of thwarted belongingness.
+

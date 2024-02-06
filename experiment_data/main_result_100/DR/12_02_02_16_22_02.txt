@@ -1,0 +1,154 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  The one and only thing I want to and have a will to do is to listen to the music all day and space out in it. Everything else is boring, draining and dull. And I receive no mental pleasure from doing anything else.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The post mentions that everything else is boring, draining and dull, and that the poster receives no mental pleasure from doing anything else. This suggests a general sense of dissatisfaction or sadness in relation to other activities, implying that the poster may feel sad much of the time.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post mentions that the only thing the poster wants to do is listen to music and space out in it, suggesting a lack of interest or optimism about other aspects of their life. This implies a sense of pessimism regarding their future and a feeling of having nothing to look forward to.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The post mentions that everything else is boring, draining and dull and the person receives no mental pleasure from doing anything else. This suggests a potential feeling of failure as they are not finding enjoyment or fulfillment in other activities.'])
+('4', ['directly_mention', 'I do not enjoy things as much as I used to.###The post mentions that the person receives no mental pleasure from doing anything else. This indicates a decrease in enjoyment and suggests a loss of pleasure.'])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###The post mentions that everything else apart from listening to music is boring, draining, and dull. This suggests that the poster may feel guilty for not finding pleasure in other activities.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information that suggests feelings of punishment."])
+('7', ['directly_mention', "I dislike myself.###The post explicitly states that 'Everything else is boring, draining and dull. And I receive no mental pleasure from doing anything else.' This suggests a strong dislike for oneself."])
+('8', ['indirectly_mention', 'I criticize myself for all of my faults.###The post implies that the person finds everything else in life boring and draining, which suggests a potential dissatisfaction with themselves. This dissatisfaction may manifest as self-criticism, leading to the belief that they criticize themselves for all of their faults.'])
+('9', ['indirectly_mention', "I do not have any thoughts of killing myself.###Although I didn't directly mention having suicidal thoughts, I stated that everything else besides listening to music is boring, draining, and dull. This suggests that I find no pleasure in anything else, which might indicate some level of hopelessness or lack of interest in life. However, without direct mention, it is difficult to ascertain my exact state of mind."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information or hints about the frequency of crying. It solely focuses on my desire to listen to music and my lack of interest in other activities."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling restless or agitated."])
+('12', ['directly_mention', 'I have lost most of my interest in other people or things.###The post explicitly states that everything else is boring, draining, and dull, indicating a loss of interest in other activities.'])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that everything else besides listening to music is boring and dull, indicating a lack of interest or pleasure. This could result in difficulty in making decisions as one may struggle to find motivation or preference.'])
+('14', ['indirectly_mention', 'I do not consider myself as worthwhile and useful as I used to.###The post states that the only thing the poster finds enjoyable is listening to music. This implies that they may perceive other activities as less valuable or worthwhile, indicating a decrease in self-worth.'])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###The post mentions that everything else is boring, draining, and dull. This suggests a decrease in energy levels, indicating that the person does not have enough energy to do very much.'])
+('16', ['directly_mention', 'I have not experienced any change in my sleeping pattern.###The post does not mention any change in sleeping pattern. Thus, it indicates that the person has not experienced any changes in their sleeping pattern.'])
+('17', ['indirectly_mention', "I am much more irritable than usual.###The statement 'Everything else is boring, draining and dull.' implies that the person is not enjoying or finding pleasure in any other activities, which can lead to increased irritability."])
+('18', ['indirectly_mention', "My appetite is somewhat less than usual.###The statement 'Everything else is boring, draining and dull.' suggests a lack of interest or pleasure in activities, which can affect appetite and lead to decreased hunger."])
+('19', ['indirectly_mention', 'I find I can not concentrate on anything.###The post mentions that everything else is boring, draining and dull, and that the poster receives no mental pleasure from doing anything else. This suggests a difficulty in concentrating on other tasks.'])
+('20', ['directly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post mentions that everything else is boring, draining, and dull. This implies a lack of energy and motivation, indicating tiredness or fatigue.'])
+('21', ['directly_mention', 'I have almost no interest in sex.###The post explicitly states that the poster finds everything else boring, draining, and dull, except for listening to music and spacing out. It also mentions that the poster receives no mental pleasure from doing anything else. This implies a lack of interest in other activities, including sex.'])
+Do MS Check Record:
+('1', ['Correct', "You did well linking the expressed emotions in the post to a possible underlying feeling of sadness. Continue to use context clues to infer the poster's emotions, while being cautious not to assume feelings that aren't suggested."])
+('2', ['Correct', 'You have appropriately deduced pessimism from the lack of engagement and enjoyment in activities other than listening to music. Good job on reading between the lines. Ensure that you remain objective and base your inferences on information provided.'])
+('3', ['Incorrect', "Review the post for explicit mentions of 'failure' before inferring a general feeling. Focus on the information given rather than reading too much into it. Consider if the expressed boredom with activities necessarily equates to past failures."])
+('4', ['Correct', "Good job identifying the direct mention of 'loss of pleasure' from the post. Continue to link your responses clearly to the content of the posts as you did here."])
+('5', ['Incorrect', "Review the post's content and focus on the emotions the poster is describing. Avoid making assumptions about guilt that are not supported by the text. Try to distinctly differentiate between a lack of pleasure in activities and feelings of guilt."])
+('6', ['Correct', 'Continue to refrain from making inferences that are not backed by explicit information from the post. Ensure that the emotions or feelings you attribute to the poster have a clear basis in the provided content.'])
+('7', ['Incorrect', 'Closely evaluate the content without inferring self-dislike where it is not evident. Focus on what the post directly expresses about interests and feelings toward activities, not the self.'])
+('8', ['Incorrect', 'Avoid overgeneralization and assess if the post specifically indicates self-criticism. The text suggests boredom and lack of pleasure but does not directly address self-accusation.'])
+('9', ['Incorrect', 'Avoid inferring psychological states that are not explicitly supported by the content of the post. Focus on the information given and refrain from assuming underlying emotional states such as hopelessness without clear evidence.'])
+('10', ['Correct', 'Continue to analyze the post as you did, focusing on the specific information provided without making assumptions. Always ensure that you base your responses on concrete details within the post to avoid unnecessary inferences.'])
+('11', ['Incorrect', "Carefully analyze the content of the post and avoid assuming emotions or states that aren't explicitly mentioned. Look for direct or indirect indications of agitation before providing an answer."])
+('12', ['Correct', 'Continue to extract the relevant information from the post to answer the questions, as done correctly with the indication of loss of interest.'])
+('13', ['Incorrect', 'Avoid conflating a lack of interest with indecisiveness. Although the poster expresses a clear preference for music, this does not necessarily mean they have difficulty making decisions in other areas of life. Focus on the specific language used in the post.'])
+('14', ['Incorrect', 'Be cautious not to assume feelings of worthlessness without explicit evidence from the post. The information given does not expressly mention self-worth, so your inference may be too far-reaching. Adhere closely to the content provided.'])
+('15', ['Correct', 'Ensure to always look for implied information in the posts that relate to energy levels to support your conclusions.'])
+('16', ['Incorrect', 'Avoid assuming the absence of information implies a continuance of normal patterns. Instead, acknowledge the lack of information and avoid making definitive statements about unmentioned aspects like sleeping patterns.'])
+('17', ['Incorrect', 'The inference made about irritability is too direct from the content given. Focus on what is explicitly mentioned, and consider how the post may imply emotional states without assuming symptoms that are not indicated.'])
+('18', ['Incorrect', 'Avoid stretching implications from the post to specific symptoms like changes in appetite. Use the provided information to guide your response, and refrain from making diagnostic assumptions unless the post provides clear indications.'])
+('19', ['Correct', 'Continue to carefully analyze the posts for implied information that can be relevant to the questions.'])
+('20', ['Correct', "Good job on associating terms like 'draining' with tiredness or fatigue. Keep ensuring that your inferences are grounded in the content of the post."])
+('21', ['Incorrect', "Avoid making assumptions beyond the information provided. If sexual interest isn't mentioned, infer cautiously, focusing on stated interests and the absence of pleasure in unnamed 'everything else'."])
+
+ITER 1
+Do MS Record:
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The poster expresses that everything else besides listening to music is boring, draining, and dull, and that they receive no mental pleasure from doing anything else. This statement indirectly suggests that the poster may have failed more than the average person in finding enjoyment and satisfaction in other activities.'])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about guilty feelings. The poster only talks about their desire to listen to music all day and escape in it, without any reference to feelings of guilt."])
+('7', ['directly_mention', 'I feel the same about myself as ever.###The post directly expresses the feeling of being bored, drained, and dull, and mentions receiving no mental pleasure from doing anything else. It does not mention any change in self-perception or dislike of oneself.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not indicate any self-criticism or blaming behavior. It focuses on the preference for listening to music and feeling bored or uninterested in other activities."])
+('9', ['directly_mention', 'I am no more restless or wound up than usual.###The post mentions that everything else is boring, draining and dull, but there is no indication of restlessness or agitation.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to indecisiveness. The desire to listen to music and space out does not indicate difficulty in making decisions."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feelings of worthlessness. The statement about finding everything else boring and dull does not directly indicate a sense of worthlessness compared to others."])
+('16', ['indirectly_mention', "###The post mentions feeling bored, drained, and dull with everything else except for listening to music. This could indirectly suggest that the person may be experiencing some changes in their sleeping patterns, but the post doesn't provide any explicit information about it."])
+('17', ['indirectly_mention', "###The post indicates that the person finds everything else except listening to music boring, draining, and dull. This could indirectly suggest that the person may be experiencing irritability, as they don't find pleasure in other activities. However, the post doesn't directly mention irritability or provide any specific information about it."])
+('18', ['directly_mention', 'My appetite is much less than before.###The post explicitly states that everything else besides listening to music is boring, draining, and dull. Additionally, the poster mentions receiving no mental pleasure from doing anything else. This suggests a decrease in appetite for activities other than listening to music.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything regarding changes in interest in sex. It solely focuses on the desire to listen to music all day and a lack of pleasure from other activities."])
+Do MS Check Record:
+('3', ['Incorrect', 'Avoid extending the information from the post to infer about experiences of failure without specific evidence. Try to focus on the given content, considering the potential reasons for the behavior mentioned, such as listening to music, without assuming it is related to past failures.'])
+('5', ['Correct', 'Good job on not inferring information that is not present. Continue to strictly adhere to the content of the post without making assumptions beyond the stated facts, especially when it comes to sensitive topics like guilty feelings.'])
+('7', ['Incorrect', "The post doesn't explicitly mention self-dislike; rather, it focuses on the disinterest in activities other than listening to music. Analyze if elements of self-perception or emotional response to oneself are present."])
+('8', ['Correct', 'Continue to differentiate between the absence of self-accusations and the expression of disinterest in activities. Remember that not all negative feelings relate to guilt or self-blame.'])
+('9', ['Incorrect', 'Review the content of the post carefully and avoid adding information that is not present. Focus on stated interests, such as the enjoyment of music, without inferring additional emotional states not explicitly mentioned.'])
+('11', ['Incorrect', 'Do not imply content that is not there. If the post does not mention agitation, you can only answer based on the information provided. State that the question is not applicable based on the content of the post.'])
+('13', ['Correct', 'Continue to analyze posts carefully without inferring information not present. Be cautious not to assume indecisiveness absent explicit evidence.'])
+('14', ['Incorrect', 'Reconsider the expressed lack of mental pleasure in activities, as it may reflect diminished self-esteem or feelings of worthlessness. Avoid dismissing possible subtle indicators.'])
+('16', ['Incorrect', "Be cautious not to assume changes in habits or mood based on limited information. Focus on explicit content and avoid making inferences not clearly supported by the post. If the post doesn't mention sleeping patterns, refrain from speculating on them."])
+('17', ['Incorrect', 'Do not infer psychological states such as irritability without clear evidence from the post. The lack of pleasure in activities is not equivalent to irritability. Stay objective and base your answers on the information given.'])
+('18', ['Incorrect', 'Avoid making assumptions about symptoms or states that are not explicitly mentioned or implied in the post. Focus on what the poster has directly indicated—only the lack of interest in activities excluding listening to music. Do not infer a change in appetite without concrete evidence from the post.'])
+('21', ['Correct', "Good job on not making assumptions beyond the information provided about the poster's interests. Keep focusing on the direct content of the post to guide your answers."])
+
+ITER 2
+Do MS Record:
+('3', ['indirectly_mention', "I feel I have failed more than the average person.###Based on the statement 'Everything else is boring, draining and dull. And I receive no mental pleasure from doing anything else.', it implies a lack of satisfaction and interest in other activities, indicating a possible sense of failure when comparing oneself to others who can derive pleasure from different activities."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not provide any indication of self-dislike. It mainly focuses on the preference for listening to music and finding other activities boring and draining."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to agitation."])
+('14', ['indirectly_mention', 'I sleep somewhat less than usual.###The post mentions that everything else besides listening to music is boring and draining. This implies a lack of interest and enjoyment in other activities, which could result in difficulty sleeping or sleeping less than usual.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not mention anything about worthlessness or self-worth. It focuses on the preference for listening to music and feeling bored with other activities."])
+('17', ['indirectly_mention', "I have not experienced any change in my appetite.###The post mentions that everything else is boring, draining, and dull, but it doesn't specifically talk about changes in appetite. However, the lack of mental pleasure from doing anything else suggests that there may not be a change in appetite."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention irritability, nor does it provide any information that can be used to deduce an answer to this question."])
+Do MS Check Record:
+('3', ['Incorrect', 'Avoid assuming that a lack of interest in varied activities directly implies a sense of failure. Instead, look for statements explicitly related to past experiences and consequences to determine feelings of failure.'])
+('7', ['Correct', 'Continue to analyze posts without making assumptions beyond the provided information. Maintain this caution to avoid inferring feelings like self-dislike when they are not expressed.'])
+('9', ['Incorrect', "Examine the language and emotional tone of the post closely. Apathy toward other activities may sometimes indicate underlying feelings of hopelessness or despair, which could be associated with suicidal thoughts. While it's important not to over-infer, consider how strong statements about a lack of pleasure in everything but one activity could reflect on the individual's mental state beyond what is explicitly stated."])
+('11', ['Incorrect', "Pay attention to the descriptions of activities as 'boring, draining and dull.' This can imply a level of agitation or frustration with daily life activities. Descriptors such as 'draining' suggest a more active response than mere disinterest, which can be congruent with feelings of agitation."])
+('14', ['Incorrect', 'Evaluate the content for any implied feelings that could relate to worthlessness, rather than assuming unrelated aspects like sleep patterns.'])
+('16', ['Incorrect', 'Carefully analyze the emotional tone and context of the post to infer changes in sleep patterns rather than dismissing it without evidence.'])
+('17', ['Incorrect', 'Assess the emotional content of the post more carefully. The statement about finding every other activity boring and draining may imply a state of anhedonia, which can sometimes be associated with irritability. Consider the psychological correlates of the expressed feelings to infer potential mood changes.'])
+('18', ['Correct', 'Continue to differentiate between what is explicitly mentioned and what is not. Since the post does not mention changes in appetite, your literal interpretation is correct. However, remain open to considering implied emotional states and their potential impact on appetite for a more nuanced analysis.'])
+
+ITER 3
+Do MS Record:
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The post mentions that everything else besides listening to music is boring, draining, and dull. This could imply a lack of success or accomplishment in those areas, suggesting a feeling of failure.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to thoughts of killing oneself or any indications of suicidal wishes.It solely focuses on the preference for listening to music and finding pleasure in it."])
+('11', ['directly_mention', "I am no more restless or wound up than usual.###The post states that 'Everything else is boring, draining and dull' which suggests a lack of interest or excitement. However, it doesn't mention feeling more restless or wound up than usual, so the answer is that I am no more restless or wound up than usual."])
+('14', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to worthlessness or comparing oneself to others. It only expresses a lack of interest in everything else except listening to music."])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###The post mentions that everything else is boring, draining, and dull, except for listening to music. This suggests that the poster might be spending more time listening to music instead of sleeping, resulting in sleeping somewhat less than usual.'])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post suggests that the poster finds everything else boring, draining, and dull. This may indicate a loss of interest or pleasure in activities, which can be associated with irritability. Therefore, it is reasonable to infer that the poster is more irritable than usual.'])
+Do MS Check Record:
+('3', ['Incorrect', 'Although the post does indicate a disinterest and lack of pleasure in activities other than listening to music, this does not necessarily equate to a feeling of failure. Avoid generalizing disinterest as a sign of past failures without explicit evidence.'])
+('9', ['Correct', 'Good job on recognizing that the post does not mention anything about suicidal thoughts or wishes. Continue to be cautious in not inferring severe mental states like suicidality without direct or implicit information.'])
+('11', ['Incorrect', 'Review the post for implicit emotional cues that could indicate agitation. Consider the intensity of the described experiences to infer about restlessness.'])
+('14', ['Correct', 'Continue to differentiate between expressed emotions and those not mentioned. Avoid inferring emotions such as worthlessness without textual evidence.'])
+('16', ['Incorrect', 'Do not assume changes in sleeping patterns without clear indications. Focus on what the poster explicitly states, avoiding assumptions. Look for concrete indicators of sleep loss before drawing this conclusion.'])
+('17', ['Incorrect', 'Be cautious about inferring irritability without direct evidence. Instead of assuming, formulate answers based on the tone and specific content of the post, and ensure there is a clear link between the post content and the psychological trait in question.'])
+
+ITER 4
+Do MS Record:
+('3', ['indirectly_mention', 'I am so restless or wound up that it is hard to stay still.###The post mentions feeling bored, drained, and dull about everything except listening to music. This suggests a lack of interest in other activities, which may indicate restlessness or agitation.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention past failures explicitly or implicitly. It primarily focuses on the preference for listening to music and finding everything else boring and draining."])
+('16', ['directly_mention', 'I have not experienced any change in my sleeping pattern.###The poster explicitly states that they want to listen to music all day and space out in it. They do not mention anything about changes in their sleeping pattern, therefore I can conclude that the post directly mentions that the poster has not experienced any change in their sleeping pattern.'])
+('17', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding irritability. The poster only talks about their preference for listening to music and finding other activities boring. There is no direct or indirect mention of any change in their irritability, so I cannot deduce an answer to this question based on the given post."])
+Do MS Check Record:
+('3', ['Incorrect', 'Avoid conflating a lack of interest in activities with restlessness or agitation. Look for direct or implied references to restlessness in the post before concluding it relates to past failure.'])
+('11', ['Correct', 'Ensure you assess the information provided in the post accurately before answering the question. Avoid making assumptions that are not supported by the content.'])
+('16', ['Incorrect', 'Review the content of the post to identify any direct or indirect information related to the question. Avoid assumptions about topics not covered in the post. Reassess the post for any potential hints about sleeping patterns, even if they are not explicitly stated.'])
+('17', ['Correct', 'Continue to distinguish between information given and assumptions. Ensure that if the post does not contain information related to the question, it is acknowledged as such without over-inference.'])
+
+ITER 5
+Do MS Record:
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything about past failures."])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###The post mentions that everything else besides listening to music is boring and draining, which implies that the person may be spending more time listening to music and less time sleeping, leading to a slight decrease in sleeping pattern.'])
+Do MS Check Record:
+('3', ['Incorrect', 'Avoid automatic negation without careful analysis of the content. Look for implicit details that might indicate feelings related to past failures, such as feelings of boredom or disinterest in activities that used to be pleasurable.'])
+('16', ['Incorrect', 'Reassess your inference. Do not extrapolate data about sleeping patterns without concrete evidence. Instead of assuming, consider clarifying the scope of the post. Acknowledge that the post did not provide specific information regarding changes in sleeping patterns.'])
+
+ITER 6
+Do MS Record:
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The post mentions feeling that everything else is boring, draining, and dull, which can be indicative of feeling like a failure compared to others.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information about changes in sleeping pattern."])
+Do MS Check Record:
+('3', ['Incorrect', 'Revisit the original post and reflect on the emotional tone without assuming that statements about hobbies or interests translate directly to sentiments of failure. Seek concrete evidence in the text.'])
+('16', ['Correct', 'Continue being careful not to infer or assume information that is not evident in the post. Great job on not overreaching with the given content.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of sadness, discouragement about the future, and loss of pleasure in things they used to enjoy. They also mention a lack of energy, difficulty concentrating, and a loss of interest in other people or things. These symptoms are indicative of depression.
+
+Correct
+Ensure to maintain objectivity and avoid overgeneralizing based on limited data. Continue to correlate specific symptoms or responses with criteria in the diagnostic manual. Avoid attributing additional negative characteristics without evidence. Remember to consider the context and specificity of the information provided about the poster versus others around the poster.

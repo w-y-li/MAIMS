@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I miss some of my ex gfs but all of them ghosted me.. I hate my job .. I cant stand living with my dad.. Im afraid to apply to any developer jobs or show my skills off to employers..I dont even have a car rn... I just feel like a failure..Im really lonely.. I feel like everything is getting worse and worse.. maybe I should start taking anti depressant medication..  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling lonely, missing past relationships, and feeling like a failure. These statements suggest a lack of social connection and a sense of not belonging, which indicates a risk of thwarted belongingness.
+
+Correct
+While the answer is correct, ensure that you continue to base your assessments on specific information provided in the posts, avoiding over-inference and distinguishing between the poster and the people around them.

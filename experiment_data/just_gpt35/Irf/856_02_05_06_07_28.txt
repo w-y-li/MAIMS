@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  So me and my friends are all very, ‚Äòdepressed‚Äô. We all wanna change but none of them are willing to. I‚Äôm trying to change my attitude about life. About everything but my friends are still stuck in there negative mindset and never wanna handout and maybe change our lives. I need help. I don‚Äôt wanna lose them as friends but I need to get my life going. What do I do?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and disconnection from the poster's friends. They express a desire for change and improving their life, but their friends are not supportive or willing to change. This suggests a risk of thwarted belongingness, where the individual feels a lack of meaningful connection and support from their social circle.
+

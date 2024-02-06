@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  So my new years resolution is to focus on my depression but I feel if I fail to improve it I will just get worse due to the feeling of futility that will follow so can anyone recommend anything on top of this list: Frequent meals with protein and fats such as olive oil and omega 3 Exercise every day not too light or heavy Meditation daily, different types Vitamin D and perhaps some other supplements such as omega 3 pushing myself more and thinking less, so focusing on current task and not how I feel.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a concern about failing to improve, which may lead to feeling of futility and getting worse. This perception of burden and belief that improvement is necessary implies a risk of perceived burdensomeness.
+

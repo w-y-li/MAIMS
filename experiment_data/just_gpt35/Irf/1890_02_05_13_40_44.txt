@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm 24, musician, and a full time teacher. I've had bouts with severe depression and a few times of darkness. My sister died of an overdose when I was 13, then my father passed away when I was 16. I prevailed and went through school, traveled the country and the world, graduated college. But now I feel as though something isn't happy inside of me. It might be loneliness, grief, pain, or feeling lost. There's one instance where I was suicidal, long story short I think scared a lot of people that were close to me. I think they won't talk to me because of that. I know what makes me happy and what makes me feel good. I try to do all of those things, but lately it hasn't had any effect.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness, grief, and feeling lost. The mention of being suicidal and scaring people close to them suggests a lack of belongingness and social connectedness, which is a significant risk factor for suicidal ideation.
+

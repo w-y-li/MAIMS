@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  why is it so hard to make money but easy for others? reading success stories on reddit, it sounds like everyone is a millionaire.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster's question does not indicate any clear symptoms or indicators of depression. The focus of their post is more on financial difficulties and comparing themselves to the success of others.
+

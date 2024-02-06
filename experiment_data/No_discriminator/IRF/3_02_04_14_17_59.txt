@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Im afraid. The suicide scale is true. Its gets progressively worse and you dont even realize it. I was at 1 contemplating death and that was it. Now as i live i keep moving farther into the scale. Not existing is all i long for. Its all i think about. Its all i desire. Ive written 2 goodbye notes. I constantly open up the lid of pills and acting as if ill swallow them. Yesterday and today i have been making nooses with a thin belt and putting it around my neck. I squeeze so hard to simulate what its like. When i do i can feel the pressure in the top sides of my head. I can feel the rush and fear. I stopped giving a shit about everything and my attention is mainly death. Someone please comfort me. I am afraid.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Very true for me###The post expresses a strong belief that the people in their life would be better off if they were gone. They mention contemplating death, longing for non-existence, and constantly thinking about it. These statements suggest that the post aligns with the belief that the people in their life would be better off without them.'])
+('2', ['directly_mention', 'Very true for me###The post explicitly states that the people in their life would be happier without them. They express a desire for non-existence and constantly think about death. This aligns with the belief that the people in their life would be happier without their presence.'])
+('3', ['directly_mention', 'Very true for me###The post clearly expresses the feeling of being a burden on society, stating that the person has stopped caring about everything and their attention is mainly focused on death.'])
+('4', ['directly_mention', 'Very true for me###The post mentions that the person believes their death would be a relief to the people in their life, as they constantly think about not existing and even wrote goodbye notes.'])
+('5', ['directly_mention', "Very true for me###The post mentions that I constantly open up the lid of pills and acting as if I'll swallow them, and I have been making nooses with a thin belt and putting it around my neck. These behaviors indicate that I may think I make things worse for the people in my life, leading to the belief that they wish they could be rid of me."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication related to this question."])
+('7', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person is longing for comfort from someone. This indicates that in some way the person is seeking care and support from others, suggesting that others caring about them might be somewhat true for them.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the person's sense of belonging. Hence, it doesn't mention the question about feeling like they belong."])
+('9', ['directly_mention', 'Not at all true for me###The post mentions that the attention of the poster is mainly on death and they stopped giving a shit about everything. This suggests that they are not interacting with people who care about them anymore.'])
+('10', ['directly_mention', 'Not at all true for me###The post mentions that the poster desires not to exist, constantly thinks about it, and even has written 2 goodbye notes. This indicates that they do not feel fortunate to have caring and supportive friends.'])
+('11', ['indirectly_mention', 'Very true for me###The post mentions feeling disconnected from other people and not caring about anything, which suggests a sense of disconnection and detachment from others.'])
+('12', ['indirectly_mention', 'Very true for me###The post mentions feeling like an outsider and not belonging in social gatherings, which indicates a feeling of isolation and alienation from others.'])
+('13', ['directly_mention', 'Not at all true for me###The post mentions that the person feels afraid and is longing for comfort from someone. This suggests that they do not feel there are people they can turn to in times of need.'])
+('14', ['directly_mention', "Not at all true for me###The post indicates that the person's attention is mainly focused on death and they have stopped caring about everything else. This implies that they do not feel close to other people."])
+('15', ['directly_mention', 'Not at all true for me###I mentioned that I no longer give a shit about everything and my attention is mainly death, which means I am not having any satisfying interactions.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a high level of perceived burdensomeness, as the poster expresses feelings of being a burden on society and believes that the people in their life would be better off without them. They also believe that their death would be a relief to others and that people wish they could be rid of them.
+

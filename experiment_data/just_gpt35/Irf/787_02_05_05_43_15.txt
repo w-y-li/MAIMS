@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Anybody feel like they just don't have anybody to just talk to? Sure I have parents and my two siblings, but I feel like im not close enough with any of them to share anything. Same with friends, I have a lot, but I don't have that one friend or a best friend. I just started talking to this girl 2 months ago, but I don't want to pile her with my thoughts.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of not wanting to burden others with their thoughts, which suggests a risk of perceived burdensomeness.
+

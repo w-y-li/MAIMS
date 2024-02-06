@@ -1,0 +1,21 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I've recently started a blog where I'm posting my poetry and other thoughts on depression, anxiety, and life. Does anyone else blog about their depression? This is my blog, feel free to check it out: misunderstoodmammal.com  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person is posting about their experience with depression and anxiety, which suggests that they may be feeling a sense of burden and seeking connection or validation from others who may relate to their experiences.
+
+Incorrect
+Consider the direct evidence presented in the post before making inferences about perceived burdensomeness. The post does not explicitly indicate feelings of burden; instead, it mentions sharing personal experiences. Focus on the content provided and avoid assuming negative characteristics without clear evidence.
+
+ITER 1
+No
+The post does not show any direct evidence of perceived burdensomeness. The author mentions starting a blog to share their experiences with depression and anxiety, but there is no indication of feeling burdensome to others.
+
+Correct
+Ensure to differentiate between expressions of personal experience and indications of perceived burdensomeness. Continue to avoid over-inferencing and assess each post based on explicit content provided.

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Lately, most often at night, I'll get extremely anxious and begin feeling like I'm not me. Like I was someone else who was placed into this body. I also get the physical feeling that the world stops existing, and that I am isolated to my area. I feel like I'm going insane. This has started recently (last 2-3 months), I'm 17, and have not begun taking, or have stopped taking any medications. Is this an anxiety attack? I'm either numb, or this, and I'm scared this is forever.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's feelings of anxiety, dissociation, and fear of going insane indicate a potential risk of thwarted belongingness. They express a sense of being someone else in their own body, feeling disconnected from the world, and being isolated to their area. These experiences can contribute to feelings of social disconnection and a lack of belonging, which are key components of thwarted belongingness.
+

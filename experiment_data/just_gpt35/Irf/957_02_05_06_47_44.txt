@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Thanks to my academic background and my application I've received multiple unconditional offers to study Psychology and Counselling. However, this past year I've suffered terribly with depression and my life feels like its falling apart. I've lost all interest and motivation for anything. My question is about whether it would be wise to go to University despite suffering with this condition and not knowing when or if it will get better. Should I take some time off to focus on myself? Do I even need it? Am I just a pussy? I don't even know any more.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feeling like their life is falling apart and has lost interest and motivation for anything, suggesting a perceived burden on themselves and potentially others.
+

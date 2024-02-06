@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I spend to many days trying not to cry Being around people does not help me one bit and it's not their fault. Every time I leave the house I get so sad over everything. It's awful To many times someone In the sevic industry just says hello and I feel the need to tell them my lifestory to make me feel better. Sorry about that....  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's description of being sad and wanting to cry frequently, feeling awful and sad over everything when leaving the house, and feeling the need to share their life story to find relief, suggest symptoms of depression.
+

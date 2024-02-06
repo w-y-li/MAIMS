@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I want to feel like I belong here. I wish there were people whom I could connect with. Unfortunately, I don't know where life is taking me right now. I'm too tired of the everyday grind. Life has become a constant struggle. I wish this agony would end. I've been hoping for a long time. I thought I had people by my side. There are people who care but I don't know why I'm not able to connect with them. I just feel empty. :( I've endured for a long time. I just wish this would end some day.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses a feeling of burden and exhaustion, indicating a potential risk of perceived burdensomeness.
+

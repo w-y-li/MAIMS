@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Hello, this is my first post here. Sorry if it breaks any of the rules. I am an 18 yr old male in my freshman year of college. I'm not very smart and I have to take English 48 in the community college I go to since I failed Freshman English twice, had to retake Sophomore English and struggled through all my other English classes. Anyways, as the title of my post suggests I had a new English class start today. I was able to wake up and had the energy to get out of bed and get ready, but then I couldn't get myself to get up and actually go to the class. I was supposed to print out a syllabus but I didn't do that and I think I need to get a textbook for the class but I haven't checked and haven't done anything to get ready for this class. I don't know what the point of this post is. Edit: Also I just realized I signed up for the wrong class. What the fuck is wrong with me  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of low self-worth, self-criticism, and self-blame. The individual expresses a lack of motivation to engage in academic responsibilities and demonstrates a sense of hopelessness and frustration with themselves. These factors indicate a risk of perceived burdensomeness, where the individual may perceive themselves as a burden to others due to their perceived lack of intelligence or ability to meet expectations.
+

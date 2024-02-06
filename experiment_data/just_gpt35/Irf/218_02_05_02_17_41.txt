@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I pray for courage to go through with it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not provide enough information to determine if there is a risk of thwarted belongingness. Further context and understanding of the individual's situation would be necessary.
+

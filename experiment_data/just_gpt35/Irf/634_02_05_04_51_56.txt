@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I tried, I tried and I tried but I just can't take the final step. First with my dad's shotgun and the last two times I tried to hang myself on new years. It's like survival instinct kicks in in the last second. I want to die so fucking bad. I want to be mugged and get shot after resisting. I want to die in a car crash. I want to have a terminal disease. I want to reach out for a cop's gun. I fantasize about all the ways to die. But I just can't do it myself. Am I going to be stuck with me and be miserable for the rest of my life? Can you be a perfect functional member of society if you are depressed?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a desire for death and a lack of ability to carry out suicide attempts, suggesting a potential sense of thwarted belongingness. The individual expresses a strong desire to die and fantasizes about various ways to end their life, but struggles with actually taking the final step. This could indicate feelings of isolation and a lack of connection with others, which are characteristic of thwarted belongingness.
+

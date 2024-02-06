@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My mom wont stop criticizing the movies and YouTube I watch only for the swearing.. I'm 20 years old.. they really help me with my depression. Especially YMS, movie channels, Michael Reeves.. I swear in private A LOT but never in front of my parents. I just think it's funny how THATS the problem when I feel like fucking garbage... not when i was assaulted (groped) not when i came home crying when i was bullied mercilessly.. not when I cry to her that nobody loves me (literally says I'm being manipulative when I do and I'm doing it for attention) not when I slashed my thighs when she told me that if I didnt graduate college I would be a loser that relys on welfare homeless and a drug addict. Not when she has thrown shit at me when I have trouble getting out of bed in the morning.. no swearing is the problem...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling unloved and unsupported by their mother, which indicates a sense of thwarted belongingness.
+

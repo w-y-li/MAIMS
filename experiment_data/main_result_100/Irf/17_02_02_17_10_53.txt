@@ -1,0 +1,92 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Someone will love me one day, but I just need reassurance right now  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me.###The post mentions that someone will love me one day, which implies that there are people in my life who care about me and would not be better off if I were gone.'])
+('2', ['indirectly_mention', 'Somewhat true for me.###The post expresses a need for reassurance and implies that the poster is questioning their worth and impact on the people in their life. This suggests that they may believe that the people in their life would be somewhat happier without them, although it is not explicitly stated.'])
+('3', ['indirectly_mention', 'Not at all true for me###The post mentions that the poster just needs reassurance right now, which suggests that they may feel unsure or insecure about themselves. This could potentially lead to feeling like a burden on society or thinking that their death would be a relief to others, but it is not directly stated.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling like a burden on society or thinking that their death would be a relief to others."])
+('5', ['indirectly_mention', 'Not at all true for me.###The post implies that the person is seeking reassurance, which suggests that they may feel uncertain about themselves, but it does not directly mention the people in their life wishing to be rid of them.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything about making things worse for the people in the person's life."])
+('7', ['indirectly_mention', 'Somewhat true for me.###The post mentions needing reassurance. Needing reassurance suggests a desire for support and care from others. Although the post does not directly mention others caring about me, the need for reassurance implies that the person values the opinions and support of others to some extent.'])
+('8', ['indirectly_mention', 'Somewhat true for me.###The post expresses a desire for reassurance, which implies the need for a sense of belonging. Wanting reassurance suggests a desire to feel connected and accepted by others. While the post does not explicitly state feeling like they belong, the need for reassurance indicates that the person values a sense of belonging in their life.'])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person needs reassurance right now, which implies that they may feel insecure about the love and care they receive from others. This suggests that they may not interact with people who care about them often, but it does not explicitly state it.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about whether the person has many caring and supportive friends at the moment. Therefore, it cannot be determined from the given post."])
+('11', ['indirectly_mention', "Somewhat true for me###The post mentions feeling the need for reassurance, which suggests a lack of confidence or uncertainty in one's relationships. This can lead to feeling disconnected from other people."])
+('12', ['indirectly_mention', "Very true for me###The post mentions feeling the need for reassurance, which suggests a lack of confidence or uncertainty in one's relationships. This feeling can lead to feeling like an outsider in social gatherings as it may be difficult to fully engage or feel accepted."])
+('13', ['not_mention', "Doesn't mention at all.###"])
+('14', ['indirectly_mention', 'Somewhat true for me.###The post mentions that the person needs reassurance right now, which implies that they may be feeling unsure or lacking confidence. Therefore, it is possible that they may not feel completely true that there are people they can turn to in times of need. However, they still acknowledge the need for reassurance, indicating that they may have some level of support from others.'])
+('15', ['indirectly_mention', "Somewhat true for me###Although the post doesn't directly mention having satisfying interactions, the desire for reassurance implies a need for positive interactions with others. This suggests that the person may have some satisfying interactions, but not to the extent that they would like."])
+Do MS Check Record:
+('1', ['Incorrect', "Review the content of the post without adding undescribed emotions or implications. Stay true to the statement without inferring facts not present. The post does not mention feelings of worthlessness or impact on others' lives, so your answer should reflect the absence of this sentiment."])
+('2', ['Incorrect', "Avoid over-inference. While the post does mention a need for reassurance, it doesn't necessarily imply that the poster believes others would be happier without them. Be cautious not to ascribe feelings or beliefs to the poster that aren't supported by the post."])
+('3', ['Incorrect', 'Review the post for emotional subtexts and avoid dismissing expressions of need as completely unrelated to feelings of self-worth and societal burden.'])
+('4', ['Correct', 'Continue to refrain from making inferences that are not supported by the content of the post.'])
+('5', ['Incorrect', 'The post does hint at feelings of low self-esteem or need for reassurance; it is not a direct denial of people wishing to be rid of the poster. Consider the feelings behind the post when inferring answers to related questions.'])
+('6', ['Correct', 'Good job on not over-inferencing from the post. The post does not provide any information regarding how the poster affects the lives of others, so it is right not to infer an answer to this question.'])
+('7', ['Correct', "Ensure to maintain caution not to over-infer; however, continue to analyze posts for their implied meaning. Consider the context in which reassurance is sought to gauge the degree to which others' care is valued."])
+('8', ['Correct', 'Good job recognizing the implied needs within the post. Remember to clarify that these inferences are hypotheses that would benefit from further information to avoid overgeneralization.'])
+('9', ['Correct', 'Good inference from the implicit message of the post. However, be cautious about overgeneralizing based on limited information.'])
+('10', ['Correct', "Well done in not assuming information that isn't present. Continue to differentiate between what is explicitly stated and what may be tempting to infer."])
+('11', ['Correct', 'Ensure that your inferences are always grounded in the content of the post, avoid making assumptions beyond the information provided.'])
+('12', ['Correct', 'Maintain a careful balance between the information given and the inferences drawn, ensuring they remain plausible and relevant to the post.'])
+('13', ['Incorrect', 'You may have overlooked subtle cues in the post. Consider the emotional context; seeking reassurance suggests a need for support. Instead of asserting the post does not mention support, explore how the sentiment expressed might relate to existing support networks.'])
+('14', ['Correct', "Good inference regarding the poster's possible connection to others based on their need for reassurance. To improve, ensure that you consistently differentiate between direct statements and implications, and clarify how the latter informs your answer."])
+('15', ['Correct', 'Continue to make cautious inferences based on the implications of the post, acknowledging any assumptions made.'])
+
+ITER 1
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the impact on other people's lives or feelings of worthlessness."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not imply that the poster believes others would be happier without them. It only expresses the need for reassurance."])
+('3', ['indirectly_mention', "Somewhat true for me###The post suggests that the poster is in need of reassurance, which could imply feelings of being a burden on society. Although the post doesn't explicitly state that, the need for reassurance may arise from such underlying feelings."])
+('5', ['indirectly_mention', 'Somewhat true for me###The post indicates that the poster is seeking reassurance, which might stem from thinking that people in their life wish to be rid of them. Although this is not directly mentioned, the need for reassurance implies a level of uncertainty about their worth to others.'])
+('13', ['indirectly_mention', 'Somewhat true for me###The post suggests a need for reassurance, which implies a desire for support. Though the post does not explicitly mention turning to others for help, it indicates a current need for reassurance. Therefore, it can be deduced that there might be people the poster can turn to in times of need, even if it is not explicitly stated.'])
+Do MS Check Record:
+('1', ['Incorrect', 'Consider the underlying emotions that might drive the poster to seek reassurance, and how these feelings could relate to their perceived value to others.'])
+('2', ['Incorrect', 'Reflect on the potential connection between seeking reassurance and the fear of being a burden; answer by inferring carefully without overgeneralization.'])
+('3', ['Incorrect', 'Be cautious not to infer feelings of being a burden too quickly without explicit indicators. Instead, focus on what is stated and explore a range of possible reasons for seeking reassurance without presuming negative self-perception.'])
+('5', ['Incorrect', "Avoid jumping to conclusions about the poster's beliefs regarding others' perceptions of them. Reassurances can be sought for various reasons; do not assume it is due to a belief of being unwanted without more context."])
+('13', ['Correct', "Continue to discern the underlying emotions and needs expressed in social media posts to appropriately infer the poster's state of mind. However, ensure to not overextend inferences beyond what is reasonably suggested by the content."])
+
+ITER 2
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me###The post mentions that the person needs reassurance right now, which implies that they are feeling insecure or doubtful about themselves. Based on this, it is unlikely that they believe they would be better off gone.'])
+('2', ['indirectly_mention', 'Not at all true for me###The post expresses the need for reassurance, indicating that the person is seeking validation from others. This suggests that they value their presence and believe they contribute to the happiness of those around them.'])
+('3', ['directly_mention', 'Not at all true for me###The post directly mentions the need for reassurance, indicating that the person does not believe they are a burden on society.'])
+('5', ['not_mention', "Doesn't mention at all.###The post does not talk about the people in the poster's life or their perception of the poster. There is no information to make a deduction regarding whether the people in their life wish to be rid of them."])
+Do MS Check Record:
+('1', ['Incorrect', "Avoid assuming that the need for reassurance equates to a belief of worthlessness. Focus on the text's explicit content and context to infer the poster's mindset."])
+('2', ['Incorrect', "Be cautious of over-generalizing based on a single statement. The post's request for reassurance does not provide a clear basis for gauging the poster's perceptions of others' happiness."])
+('3', ['Correct', 'Ensure that you carefully analyze posts in the future as well to discern the presence or absence of relevant information before answering.'])
+('5', ['Correct', 'Continue avoiding assumptions not supported by the post. Remember to only use given information to inform your responses on mental scales.'])
+
+ITER 3
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me###The post mentions the need for reassurance, indicating that the person may have doubts or insecurities about themselves. However, it does not directly mention thoughts of worthlessness or self-harm. Therefore, I believe it is not true for the poster that the people in their life would be better off without them.'])
+('2', ['indirectly_mention', "Not at all true for me###While the post expresses a desire for reassurance, it does not explicitly mention that the people in the poster's life would be happier without them. Therefore, I do not believe it is true for the poster that the people in their life would be happier without them."])
+Do MS Check Record:
+('1', ['Incorrect', "Carefully assess the content for any explicit or implicit messages about self-worth or how the poster's absence might affect others. Avoid drawing conclusions not supported by evidence in the post."])
+('2', ['Incorrect', "Do not assume negative self-perceptions where they are not evident. Focus strictly on information provided in the post to infer the poster's stance on how their presence affects others' happiness."])
+
+ITER 4
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me###The post mentions that someone will love them one day, indicating that they believe they have worth and value to others. This suggests that they do not feel that their absence would be better for the people in their life.'])
+('2', ['indirectly_mention', "Not at all true for me###The post also mentions that they just need reassurance right now, implying that they may feel insecure or unsure about themselves. If they believed that their absence would make others happier, they might not have expressed a need for reassurance. Therefore, it can be inferred that they do not think that their presence decreases others' happiness."])
+Do MS Check Record:
+('1', ['Correct', "You've made a good inference based on the optimism expressed in the post. Continue to carefully analyze the post's content to determine the poster's mindset, ensuring not to make assumptions beyond the information provided."])
+('2', ['Correct', 'Your analysis was thoughtful and aligned with the information given in the post. Keep focusing on what is explicitly stated or can reasonably be inferred, and avoid overgeneralizing or attributing unfounded characteristics to the poster.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The responses to the questions related to perceived burdensomeness indicate that the poster does not perceive themselves as a burden on others. They do not believe that their presence negatively affects the people in their life, and they do not feel that others would be happier without them. Therefore, there is no apparent risk of perceived burdensomeness in this post.
+
+Correct
+Keep focusing on the evidence provided in the responses to the mental health scale questions, and continue to avoid over-inferencing or attributing issues to the poster that are not supported by the information given.

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I can't fucking sleep at all and I can't stop crying out of anxiety. I spent the past seven hours googling and getting worked up over a stupid medical procedure I need to get and that then morphed into me wanting to die. I'm anxious as hell and can't stop thinking about it. What's the point in living life if everything causes you pain? What did I do to deserve this? I didn't ask to be thrust into this fucking world without any say. I can't stop thinking about how life is just too painful to not be worth it at all. It's not, really. It sucks that I'd hurt so many people if I died, and it makes me angry that I have this shit holding me back from ending it all. I know they'd feel a certain way. But what about my feelings?! Why should I push through just so everyone around me can feel okay?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows signs of feeling disconnected from others, expressed by feelings of not wanting to burden loved ones with personal pain, and questioning the point of living for the sake of others' feelings.
+

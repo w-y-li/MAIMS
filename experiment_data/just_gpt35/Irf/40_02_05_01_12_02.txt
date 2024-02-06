@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Called my friends. They're all too busy Called my family. They're all too busy Nobody can be here for me. Just feel like shit and need a fucking hug. Hug my pillow and hope tomorrow is better  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness and rejection, as the individual expresses that their friends and family are too busy to be there for them. This suggests a potential sense of thwarted belongingness, as they feel a lack of social support and connection.
+

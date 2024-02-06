@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I'm only 18, but I already feel like my glory days have come and gone. Back I highschool, I was pretty much the  King of The Nerds , as it were. I was one of the only upper classmen who was really into stuff like anime and video games, so all the younger nerds sort of looked up to me? I guess? I was the drum major in my schools band, and I had all this other stuff going on. My senior year of highschool was the year I grabbed life by the balls and made it my bitch. But now look at me, I can't even muster the energy to get out of bed. I can't hold a job, I can't drive, my girlfriend left me, etc. I'm not half the person I was just a year ago. I feel like an old man past his prime, just sort of struggling and failing to keep up with the kids these days. I'm certainly out of touch at least. I don't have a clue what's going on in the nerd circles these days, let alone what's happening in the real world. I really just want to give up on life and call it quits, since I can't see myself getting out of this hole anytime soon, and when I do, I'll be so far behind everyone else that it'll just be pathetic. I'll be an old man stuck where all the kids are, and everyone will be outpacing me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of worthlessness and feeling like a burden to others due to the perceived decline in the poster's abilities and inability to keep up with others.
+

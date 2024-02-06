@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Nothing is enjoyable anymore. Almost everything that I used to care for is simply starting to have no meaning. I feel dead and lifeless. I used to be very passionate with certain things but that was usually meant with me being bashed and shunned upon people. Or simply just a turn off. Everyday I wake up and I’m angry. Always wondering what the hell the point of this is. Why I’m here. I used to be extremely suicidal in the past and I’m slowly falling into that dark pit again. I don’t know what to do. It’s so hard to be happy and I’m just... I’m starting to give up.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time###The post mentions feeling dead, lifeless, and starting to give up. These statements indicate a lack of enjoyment and meaning in life, which is often associated with sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future###The post mentions feeling angry, questioning the point of life, and mentioning past suicidal thoughts. These statements express a pessimistic outlook on the future and a sense of hopelessness.'])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The post explicitly mentions feeling like a failure, indicating that the person perceives themselves to have failed more than the average person.'])
+('4', ['directly_mention', 'I do not enjoy things as much as I used to.###The post explicitly mentions a loss of enjoyment and pleasure, indicating that the person does not enjoy things as much as they used to.'])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###The post mentions feeling dead, lifeless, and giving up, which suggests a lack of enjoyment and fulfillment. These emotions often lead to feelings of guilt, as if one is not living up to expectations or responsibilities.'])
+('6', ['indirectly_mention', 'I feel I may be punished.###The post mentions feeling angry and wondering about the point of life. These sentiments may suggest a belief that one is being punished, or that there are negative consequences for their actions or existence.'])
+('7', ['indirectly_mention', 'I feel the same about myself as ever. ###The post mentions feeling dead and lifeless, as well as falling into a dark pit, which implies a negative view of oneself. However, the post does not directly mention self-dislike, but the described emotions suggest a lack of self-esteem and self-love.'])
+('8', ['indirectly_mention', "I do not criticize or blame myself more than usual. ###While the post does not explicitly mention self-accusations, it does express a sense of hopelessness and confusion about life's purpose. The mention of feeling angry and wondering about the point of existence indirectly suggests a lack of self-blame for life's difficulties."])
+('9', ['directly_mention', 'I used to be extremely suicidal in the past and I’m slowly falling into that dark pit again.###The post clearly mentions that the poster used to be extremely suicidal in the past and is slowly falling into that dark state again.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to crying."])
+('11', ['directly_mention', 'I feel more restless or wound up than usual.###The post mentions feeling angry every day and wondering about the point of life, which indicates a state of restlessness and agitation.'])
+('12', ['directly_mention', 'I have lost most of my interest in other people or things.###The post specifically mentions losing interest in things that used to be enjoyable and meaningful, indicating a loss of interest.'])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post mentions feeling dead, lifeless, and starting to give up, which indicates a lack of motivation and interest. This suggests a difficulty in making decisions.'])
+('14', ['indirectly_mention', 'I feel more worthless as compared to other people.###The post mentions feeling bashed, shunned upon, and a turn off by people, indicating a decrease in self-esteem. This suggests feeling more worthless in comparison to others.'])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###In the post, I mentioned that almost everything I used to care for is starting to have no meaning, and I feel dead and lifeless. This suggests a loss of interest and motivation, which can be accompanied by a decrease in energy levels.'])
+('16', ['indirectly_mention', "I sleep somewhat less than usual.###I mentioned that I wake up angry every day and wonder about the point of everything. This indicates difficulty with sleep, as I am unable to fully rest and wake up feeling unrested. Although the post doesn't specify a significant change in sleeping pattern, the indication of anger and distress upon waking up suggests restless sleep."])
+('17', ['indirectly_mention', 'I am much more irritable than usual.###The post mentions being angry and wondering about the point of life, which indicates a higher level of irritability than usual.'])
+('18', ['indirectly_mention', 'My appetite is much less than before.###The post mentions feeling dead, lifeless, and giving up. These feelings can contribute to a loss of appetite and a decrease in food consumption.'])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###In the post, I mentioned that almost everything I used to care for is starting to have no meaning. This suggests that I am having difficulty concentrating on things that used to interest me.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do a lot of the things I used to do.###I mentioned feeling dead and lifeless, as well as being too tired and fatigued to enjoy activities that I used to be passionate about. This indicates that I experience tiredness or fatigue that is interfering with my usual level of functioning.'])
+('21', ['indirectly_mention', 'I have almost no interest in sex.###The post mentions that almost everything that the person used to care for is starting to have no meaning, which includes their interest in sex. They express feeling dead and lifeless, which could indicate a decrease in interest in sex.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's description of feeling dead, lifeless, and lacking enjoyment in things they used to care for, as well as their past suicidal thoughts and current feelings of falling into a dark pit, suggest symptoms of depression.
+

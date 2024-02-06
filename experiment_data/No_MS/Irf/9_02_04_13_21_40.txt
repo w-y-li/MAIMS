@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Help? I'm just feeling really shitty at how I seem to have spent the majority of my time recently lying around not doing anything, letting my room and shit get into a mess and just been consumed by negative thoughts. I'm also worse at a particular time of day. Like I've barely done anything productive this month and I hate myself for it, and I hate the fact I can't try hard enough/be bothered to help myself out of this. Some days are better than others, yes, but at the end of the day I just can't do it. I'm 17 and wasting my fucking life being lazy and doing nothing, the new year has made me realise. I want to make resolutions but I know I can't keep them so I'm not bothering. Any help/advice??  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows signs of self-criticism, low self-esteem, and feelings of worthlessness, which can contribute to a perceived burdensomeness. The person mentions feeling lazy, not doing anything productive, hating themselves, and feeling like they are wasting their life. These negative thoughts and self-perception may increase their perception of being a burden to others.
+
+Correct
+Keep in mind to avoid overinterpreting based on limited information and ensure that you are analyzing the mental health of the individual in the post, not the people around them. Continue looking for direct statements and clear evidence in the post while making psychological assessments.

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Today has been the worst fucking day I've had in a long time without getting into details due to legal reasons. I already feel like I've just been  here  and drifting along almost like a zombie for the past 6 years and don't know if I can keep going on. I know the pain I'll leave behind but I don't know if my soul/heart can take this anymore  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of being a burden to others and contemplating the impact of leaving this world on others, indicating risk of perceived burdensomeness.
+

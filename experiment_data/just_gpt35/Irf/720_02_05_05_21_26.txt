@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I just want god to hear me. I‚Äôve begged for death so many times with no answer that I can‚Äôt possibly believe anyone is out there. I want there to be the possibility of a solution to this pain. I want it to end.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation, hopelessness, and a strong desire for relief from pain. These are characteristic signs of thwarted belongingness, which refers to the perceived lack of meaningful connections or social integration.
+

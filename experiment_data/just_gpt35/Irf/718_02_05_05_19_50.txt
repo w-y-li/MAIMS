@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My grades have plummeted, I‚Äôve antagonized my friends, I‚Äôve cut ties with my crush, I‚Äôve hurt my mother to the point where she won‚Äôt talk to me, and I‚Äôve disappointed myself. There is no other reason holding me back from the other side. I‚Äôm sorry to everyone who tried to help in the end. You were only delaying the inevitable. See you next time around!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions cutting ties with friends and hurting the poster's mother to the point where she won't talk to them, indicating a lack of belongingness and strained relationships.
+

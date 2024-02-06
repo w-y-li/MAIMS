@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Been with my boyfriend for a year now, and after getting out of an abusive relationship with my ex of 4 years. A lot happened to me, and I'm still trying to cope. Since then, I've been switching medications, weaning off, increasing, etc. My moods are all over the place, and recently I've been crying over everything. My boyfriend thinks I'm overreacting and I should move on from the sexual and emotional abuse I experienced for years. He has never understood what it's like to battle depression, and I can't find a way to show him it's more than being  sad  over  stupid  things that happened in the past. Recently, I've been diagnosed with tuberculosis, had to quit my job due to hostile work conditions, can't go back to the medical field now because of the TB, out of money and relying on my parents, I have no friends, can't make friends because everyone around here is an asshole, struggling with weight problems for the first time in my life, still trying to wrap my head around the fact I was raped, and a lot of other issues that just keep piling up. I don't know what to do. He doesn't take me seriously, which leads to arguments, which then leads to me crying, and he can't deal with crying. He says I cry too much, I need to stop letting everything bother me. Duh, I'm trying? I just want to feel like someone is there for me. I feel so alone and he's right here next to me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post demonstrates feelings of isolation, loneliness, and a desire for emotional support. The individual expresses not feeling understood by their partner and longing for someone to be there for them. These factors indicate a risk of thwarted belongingness, which is the sense of not being able to establish meaningful connections with others.
+

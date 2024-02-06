@@ -1,0 +1,35 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Difference between antidepressent starting side-effects and hypomania? Hey all, So I've read about how SSRIs can send bipolar people who are misdiagnosed with unipolar depression / anxiety into hypomania or mania. I've also read that SSRIs can have activating effects during the start up period (including insomnia, restlessness, distractibility) that sound similar to some of the symptoms of hypomania. So if someone starting and SSRI experiences trouble sleeping, restlessness, increased energy, increased distractibility, periods of euphoria, spends money like it's nothing, increased pressure to talk/sing/dance, increased responses to music and caffeine, starting up old hobbies, etc., how can they know whether it's a combination of start-up side effects of the SSRI + feeling (much) better from the SSRI (or maybe placebo / excitement from doing something about the depression) or an antidepressant-induced hypomanic episode? I know it's a question for a professional but I like to hear experiences also.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions experiencing symptoms of depression such as trouble sleeping, restlessness, increased energy, and periods of euphoria. They also mention feeling better from the SSRI and doing something about their depression. These symptoms and experiences suggest that the poster may be suffering from depression.
+
+Incorrect
+Review the distinction between symptoms of conditions and side effects of medication. The post discusses potential side effects of SSRIs and concerns about misdiagnosed bipolar disorder, not current experiences of depression. Avoid inferring a diagnosis solely from the mention of certain symptoms without appropriate context. Focus on the actual content provided and be cautious of making judgments beyond the given information.
+
+ITER 1
+No
+The poster is not discussing their current experiences of depression, but rather asking about the distinction between side effects of SSRIs and hypomanic episodes. They are seeking information and experiences from others, indicating that they may not be currently experiencing depression.
+
+Incorrect
+Avoid misinterpreting the absence of explicit statements of personal experience as indicative that the poster is not experiencing symptoms. The post does not provide sufficient information to determine whether the poster is currently suffering from depression. Focus on identifying explicit evidence from the post before concluding the mental health status of the individual. Next time, consider the possibility that a person seeking information about medication side effects or hypomania may have some concerns about their own mental health. A more appropriate response, given the lack of information, would be to refrain from drawing a conclusion about the poster's current mental health.
+
+ITER 2
+No
+The post does not provide explicit evidence that the poster is currently suffering from depression. The poster is seeking information about the difference between antidepressant side effects and hypomania, but does not mention experiencing symptoms of depression.
+
+Incorrect
+Consider the context in which the poster is asking about antidepressants and hypomania. The poster's inquiry about these specific symptoms suggests that they have a reason to be concerned, likely their own experience. The question implies that the person is trying to distinguish between the effects of an SSRI and a potential underlying condition such as bipolar disorder, which is often treated with antidepressants when misdiagnosed as unipolar depression. This implies a history of depression or at least a concern for it, which should have led you to answer 'Yes' to the mental health question.
+
+ITER 3
+Yes
+The poster's inquiry about antidepressants and hypomania suggests they have a history of depression or at least a concern for it.
+
+Correct
+Ensure to differentiate between the direct symptoms a poster is experiencing and the knowledge they are seeking. In this case, the poster's description of their concerns and symptoms aligns with a suspicion or history of depression, supporting your conclusion. Continue to use caution, however, not to over-infer or assume beyond the information given.

@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  No one wished me on my birthday Yesterday was my birthday and none of my close friend wished me except for my family members. I wish all my best friends at exactly 12:00 clock , video-calling or texting whatever suits them. I normally avoid attention and don't care about such things but this really bugs me. They are the friends that I meet everyday and had expectations , just a acknowledgement would make me happy. I know this sounds like attention-seeking behaviour and I generally don't care about such things. I am happy in under my own skin but this makes me a bit sad  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster mentions feeling sad and disappointed about not receiving birthday wishes from their close friends, which is a natural response. They also mention that they generally don't care about such things and are happy in their own skin, suggesting that this incident is not indicative of depression but rather a temporary disappointment.
+

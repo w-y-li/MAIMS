@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  That's all I really needed to say, just kind of sick of going all day without being so much as acknowledged by those around me. Hope all y'all are doing ok  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of being ignored or unacknowledged by others, which can be indicative of perceived burdensomeness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Basically, I'm a girl who turned 18 in november. I've struggled with my mental health for as long as I can remember (I started self harming when I was 12, but I managed to stop when I was around 15 or 16) and this year it's only gotten worse. My friends don't want to be around me anymore because they say I'm too miserable, or I'm  always in a bad mood . I suspect myself of having depression and I find it incredibly hard to get excited or happy about anything at all - I seem to have two modes of indifference or unhappiness. Recently (especially in the holiday season) my thoughts are consumed with how much I want to die, how much easier it would be and how little a lot of people would care. That, or many of my  friends  whom I thought the world of but I've since come to realise are only friends with me through circumstance, would suddenly care when they are nowhere to be found right now. At this point I have stopped trying to open up to my friends. I took a couple weeks off school last month in order to get my head straight and when asked why I hadn't been in, it very quickly became a competition of  who has it worst . I do have one friend who means the absolute world to me and I feel like I could tell him anything, but there's only so much you can burden one person with. I've thought many times about how I could kill myself and I have written notes out for my closest friend and a few other people - at this point, it's just finding the courage to do it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a risk of thwarted belongingness as the poster mentions feeling isolated from their friends and expresses thoughts of wanting to die, believing that few people would care. This suggests a perceived lack of social connection and support, which can contribute to feelings of loneliness and despair.
+

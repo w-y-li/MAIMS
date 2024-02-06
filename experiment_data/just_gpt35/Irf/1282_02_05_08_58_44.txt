@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  The only time I don't have to think about my shitty life is when I'm sleeping, I spend the whole day and week depressed, my only escape from my depression are my novels and YouTube, otherwise I'd be waiting for the weekend to come so I can drink my ass off and think about death, I know this is all my fault, sometimes I have thoughts about changing to the better and actually getting a hold of my life, be committed and face the reality, but things are already too messed up for me to control them, turns out it's true ; the more you ignore your problema the worse they get  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of isolation and a lack of connection with others. The mention of spending the whole day and week depressed indicates a potential lack of fulfilling social relationships, which can contribute to thwarted belongingness.
+

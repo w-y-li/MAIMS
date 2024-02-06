@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Eating healthy, exercising, socializing, cleaning, meditating, getting sunlight, talking to a therapist, etc. None of them have made a noticeable difference in how I feel, and I'm tired of trying to do them all when it's just more adding to my struggle.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions various activities they have tried such as eating healthy, exercising, socializing, cleaning, meditating, getting sunlight, and talking to a therapist, but states that none of them have made a noticeable difference in how they feel. This suggests a potential lack of fulfillment or satisfaction in their relationships and connections with others, indicating a risk of thwarted belongingness.
+

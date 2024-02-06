@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Should I meet estranged grandfather? I've never met my grandfather due to him and my grandmother being divorced, and my mother being the  least favorite  wants nothing to do with him. However her siblings are super close to him and my cousins have known him their whole lives. I'm not aware of any physical abuse that happened but I know verbal towards my mother and grandmother and their appearances and capabilities occurred as well as blaming my mother for the divorce. He has attempted to apologize to my mother for years and sends her cards which she throws away or returns. If physical occurred I would not want to meet him and I'm wondering if my mother is acting the way she is because she's hiding something. Also he has never reached out to me but my aunts say he asks about me regularly. He may have not reached out due to the fact my mother won't speak to him. But part of me doesn't want to care if he's not willing to reach out. I'm torn.... Any advice?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The post mentions that verbal abuse and blaming occurred towards my mother and grandmother, which can contribute to feelings of sadness.'])
+('2', ['indirectly_mention', "I feel discouraged about my future.###The post expresses uncertainty and conflicting emotions about whether to meet the estranged grandfather, suggesting a sense of pessimism about the outcomes and potential impact on the poster's life."])
+('3', ['indirectly_mention', 'I do not feel like a failure.###The post mentions the grandmother was blamed for the divorce, which implies that the grandfather may have blamed others for his past failures. However, the poster does not mention feeling like a failure themselves.'])
+('4', ['indirectly_mention', "I get as much pleasure as I ever did from the things I enjoy.###The post does not explicitly mention a loss of pleasure, but it does indicate that the poster's mother wants nothing to do with the grandfather, potentially due to negative experiences. However, the poster doesn't mention their own loss of pleasure."])
+('5', ['indirectly_mention', 'I feel quite guilty most of the time.###Although the post does not directly mention guilt, the poster expresses conflicting emotions about whether or not to meet their estranged grandfather. This internal conflict suggests that they may be experiencing guilt about potentially not wanting to meet him.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention any feelings of punishment, and there is no information to suggest that the individual feels they are being punished in any way."])
+('7', ['directly_mention', 'I dislike myself.###In the post, I mention that I have never met my grandfather and I express torn feelings about whether or not to meet him. This implies that I may have some self-dislike as a result of this situation.'])
+('8', ['directly_mention', "I am more self-critical or blaming than usual.###In the post, I mention that I wonder if my mother is acting the way she is because she's hiding something. This indicates that I may be engaging in self-critical thoughts and self-accusations, attributing my mother's behavior to some fault or blame."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes. "])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to crying."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to agitation or restlessness."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of interest."])
+('13', ['indirectly_mention', 'I make decisions about as well as ever.###The post mentions being torn and seeking advice, which implies indecisiveness. However, it does not provide enough information to determine the specific level of difficulty in making decisions.'])
+('14', ['indirectly_mention', 'I do not consider myself as worthwhile and useful as I used to.###The post mentions feeling torn, which suggests a decrease in self-worth. However, it does not provide enough information to determine the level of worthlessness compared to others.'])
+('15', ['indirectly_mention', "I have less energy than I used to have.###In the post, I mentioned that I'm torn and seeking advice, which implies that I might be feeling emotionally drained or lacking energy."])
+('16', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to changes in sleeping pattern. It focuses mainly on the family dynamics and the decision to meet the estranged grandfather."])
+('17', ['not_mention', "Doesn't mention at all.###The post does not mention anything about irritability."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in appetite."])
+('19', ['directly_mention', 'I can not concentrate as well as usual.###The post mentions that there are verbal abuse towards my mother and my grandmother, which suggests a hostile and potentially distressing environment. This can greatly affect my ability to concentrate.'])
+('20', ['directly_mention', 'I get more tired or fatigued more easily than usual.###The post mentions that there are verbal abuse towards my mother and my grandmother, which suggests a hostile and potentially distressing environment. This can lead to increased stress and fatigue.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the answered questions of the mental scale, the poster expresses feelings of sadness, pessimism, guilt, self-dislike, self-accusations, worthlessness, concentration difficulty, and tiredness or fatigue. These symptoms align with common symptoms of depression, suggesting that the poster may be suffering from depression.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I feel so bad I really got my hopes up today then nothing happened I'm in love with this girl. She's in love with someone else. All I wanna do is die. I'm crying right now.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of hopelessness, sadness, and a desire to die as a result of unrequited love. These feelings suggest a possible risk of perceived burdensomeness, where the poster perceives themselves as a burden to others due to their emotional state.
+

@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I am so depressed I don't know what to do Dropped out of school, have been unemployed for two months, have absolutely no friends and spend my days browsing reddit. Every single day is the same. The monotony never ends. Nothing to look forward to. I try feeling better by shopping and eating tasty food but it never helps. I don't know what to do.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling depressed, dropping out of school, being unemployed, having no friends, and experiencing the same monotony every day. These are all common symptoms of depression.
+

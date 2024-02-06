@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Long story short: In december I talked to my mother about how I feel and that I currently don't get my shit together; Mainly work. She asked whether it's ok if my family would know (If they asked questions after christmas etc) and I told her it would be ok. First thing she did was going to my aunt and telling her and now my whole family knows and everyone is super protective and sending help, which is exactely what I don't need. When I critizied her, she started the whole  everything I do is wrong -bullshit and now even my father called me, who is currently in hospital because of his weak heart and told me I should start using my brain. While I'm writing this my mother sits crying in the kitchen after she told me that she can't deal with this whole current situation and that I  don't live alone on this planet . I do the fuck not know how to deal with this shit either. Getting drunk now. Thx for reading.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Very true for me###The post clearly states that the person believes their family would be better off without them and that they are currently in a state where they don't know how to deal with the situation. This indicates a strong belief that their presence is causing more harm than good to their loved ones."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any explicit information or indication about whether the people in the poster's life would be happier without them. Therefore, I cannot make a deduction or answer this question based solely on the given post."])
+('3', ['indirectly_mention', "Not at all true for me###The post indirectly suggests that the person feels like a burden on society because they express frustration about their family being protective and sending help, which they specifically state they don't need. This can imply that they feel guilty for causing inconvenience or burden for others."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the person's death being a relief to the people in their life. There is no information provided that can help deduce an answer to this question."])
+('5', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster's family is being super protective and sending help, which indicates that the people in the poster's life may wish they could be rid of them. However, since the post does not directly mention this question, I can only assume that it is somewhat true for the poster."])
+('6', ['indirectly_mention', "Very true for me###The post states that the poster's mother started the whole 'everything I do is wrong' dialogue, which implies that the poster may feel they make things worse for the people in their life. Additionally, the poster's father telling them they should start using their brain may further contribute to this belief. Although not explicitly mentioned, it can be inferred that it is very true for the poster."])
+('7', ['indirectly_mention', 'Somewhat true for me###The post mentions that everyone in the family is being super protective and sending help, which suggests that other people care about me to some extent.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling like I belong or not."])
+('9', ['indirectly_mention', "Not at all true for me###The post mentions that the whole family knows about my current situation and everyone is super protective and sending help, which is exactly what I don't need. This suggests that there are people who care about me, but their actions are not aligned with what I actually need, leading me to feel that I rarely interact with people who care about me."])
+('10', ['indirectly_mention', 'Not at all true for me###The post mentions that my whole family knows about my current situation and everyone is super protective and sending help, which suggests that there are people in my life who are caring and supportive. However, the post also implies that their support is not helpful to me, indicating that I do not feel fortunate to have many caring and supportive friends.'])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling disconnected from other people and not being able to deal with the current situation, which implies a sense of disconnection from others.'])
+('12', ['indirectly_mention', 'Very true for me###The post mentions feeling like an outsider in social gatherings, as the poster describes feeling like their family is being overly protective and not understanding their situation.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to whether the person feels that there are people they can turn to in times of need."])
+('14', ['directly_mention', "Not at all true for me.###The post explicitly states that everyone in the person's family is super protective and sending help, which is exactly what they do not need. This suggests that they do not feel close to or supported by their family."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to having satisfying interactions every day."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a risk of perceived burdensomeness because the poster expresses feeling like a burden on their family, thinking they make things worse for others, feeling disconnected and like an outsider in social gatherings.
+

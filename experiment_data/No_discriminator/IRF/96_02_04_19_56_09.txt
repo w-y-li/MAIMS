@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Hi all, I have been struggling with the idea of being too greedy. I mean: I have people who love me (family, friends, partners, pets), I have a job with an acceptable salary, I have hobbies. Lately I haven't been feeling competent, but I know I am good in my job, and also that I am a good, nice, kind person who cares about others. So, what do I have to complain about? Why am I not satisfied? Why do I want more? Meh.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me###The post mentions feeling competent in the job and being a good, nice, kind person who cares about others. These statements suggest that the person recognizes their value and importance in the lives of the people around them, indicating that they do not believe that others would be better off if they were gone.'])
+('2', ['indirectly_mention', "Not at all true for me###The post emphasizes the person's caring nature and their belief that they are a good, nice, kind person. This suggests that they value their relationships and believe that the people in their life would not be happier without them."])
+('3', ['indirectly_mention', "Somewhat true for me###The post mentions feeling like a burden on society indirectly with the statement 'I have been struggling with the idea of being too greedy' and questioning why the poster wants more when they already have people who love them. This implies a feeling of not deserving the love and support they receive, which may lead to feeling like a burden on society. However, the post doesn't directly mention the question."])
+('4', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything about the poster's death being a relief to the people in their life. There is no information in the post that can help deduce an answer to this question."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about whether people in the poster's life wish they could be rid of them."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything about whether the poster thinks they make things worse for the people in their life."])
+('7', ['directly_mention', 'Very true for me###The post states that I have people who love me (family, friends, partners, pets), which implies that other people care about me. Therefore, it is very true for me.'])
+('8', ['indirectly_mention', "Somewhat true for me###The post mentions that I have hobbies and a job with an acceptable salary, which implies that I have a sense of belonging in those areas. However, the post also states that I haven't been feeling competent lately, which suggests a slight disconnect. Therefore, it can be deduced that it is somewhat true for me."])
+('9', ['indirectly_mention', "Somewhat true for me###The post mentions that the person has people who love them such as family, friends, partners, and pets. However, they state that lately they haven't been feeling competent, which could indicate a lack of interaction or support from these people. Therefore, I deduce that it is somewhat true that these days the person rarely interacts with people who care about them."])
+('10', ['indirectly_mention', 'Somewhat true for me###The post mentions having friends who care about them, although the exact number of friends is not specified. Additionally, the person states that they have been feeling unsatisfied and wanting more despite having people who love them. This suggests that they might not feel fortunate to have many caring and supportive friends. Therefore, I deduce that it is somewhat true that these days the person is fortunate to have many caring and supportive friends.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling disconnected from other people."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling like an outsider in social gatherings."])
+('13', ['indirectly_mention', "Somewhat true for me###In the post, I mention that I have people who love me, such as family, friends, partners, and pets. This suggests that there are people I can turn to in times of need. However, I also express feeling unsatisfied, which may imply that I don't fully feel supported or close to these people."])
+('14', ['indirectly_mention', "Somewhat true for me###I mention having people in my life who love me, such as family, friends, partners, and pets. This suggests that I am close to other people. However, I also express feeling unsatisfied and wanting more, which may imply that I don't feel as close to them as I would like to."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having satisfying interactions."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The response to the mental scale questions related to belongingness indicate that the poster generally feels connected and cared for by others. This suggests that they do not show a risk of thwarted belongingness.
+

@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My own fucking problems aren't enough anymore. I've gotten so used to my shitty life and the thought of wanting to die that I can't cry anymore when I'm depressed. But crying helps. It comforts me and most of the time I feel better afterwards. So every time I'm in my bed and want to cry, I browse this sub. Some of the stories on here are just so sad that I can't help myself. It's weird. I know. And I kinda feel like thanking you but that would seem out of place since you're just here to find help too. I don't even know why I'm posting this here. I just wanted to tell someone and my friends don't give a fuck.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me.###The post mentions the thought of wanting to die, which indicates a level of hopelessness and despair. However, the poster also acknowledges that crying helps and makes them feel better afterwards, suggesting that there may still be a desire for relief from their suffering.'])
+('2', ['directly_mention', "Not at all true for me.###The post clearly states that the poster's friends don't give a fuck and that they wanted to tell someone. This implies a lack of social support and possibly feeling unimportant or unvalued. However, the poster also expresses gratitude towards the community on the subreddit, suggesting that they are seeking emotional connection and support from others."])
+('3', ['directly_mention', 'Somewhat true for me###The post mentions that the poster has gotten so used to their shitty life and the thought of wanting to die. This suggests that they may feel like a burden on society.'])
+('4', ['directly_mention', "Somewhat true for me###The post mentions that the poster's friends don't give a fuck, indicating that they might believe their death would be a relief to the people in their life."])
+('5', ['indirectly_mention', "Not at all true for me###The post mentions feeling like my friends don't care. As a result, it indirectly implies that the people in my life don't wish to be rid of me because if they did, they wouldn't care about how I feel or whether my friends care or not."])
+('6', ['indirectly_mention', "Somewhat true for me###The post mentions feeling like my friends don't care. As a result, it indirectly implies that I may make things worse for the people in my life because if my friends don't care about me, it suggests that I may not contribute positively to their lives."])
+('7', ['directly_mention', "Not at all true for me###The post explicitly states that the poster's friends don't care, indicating that other people do not care about them."])
+('8', ['indirectly_mention', "Not at all true for me###Although the post does not directly mention feeling like they belong, the indication that the poster's friends don't give a fuck implies a lack of belonging. The feeling of not being cared about by friends may contribute to the belief that they do not belong."])
+('9', ['indirectly_mention', "Somewhat true for me###The post mentions that the person's friends don't give a fuck, indicating a lack of caring and support from friends. Although it is not explicitly mentioned how often they interact with people who care about them, the lack of support from friends suggests that they rarely interact with such people."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the number of caring and supportive friends the person has, so it does not mention the question directly or indirectly."])
+('11', ['directly_mention', "Somewhat true for me###The post mentions feeling disconnected from other people when stating that the poster's friends don't care."])
+('12', ['directly_mention', "Very true for me###The post mentions feeling like an outsider in social gatherings when stating that the poster's friends don't care and are not there for support."])
+('13', ['directly_mention', "Somewhat true for me###In the post, I mentioned that my friends don't give a fuck when I want to tell someone about my problems. This implies that I feel there are some people I can turn to in times of need, but they are not very reliable or supportive."])
+('14', ['indirectly_mention', "Not at all true for me###Although the post doesn't directly mention being close to other people, the fact that I feel the need to browse this sub to find comfort instead of seeking support from my friends indicates a lack of closeness with them. Therefore, it can be deduced that being close to other people is not true for me."])
+('15', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling better after crying, indicating that crying is a satisfying interaction. However, it is not explicitly mentioned whether these interactions happen daily or only occasionally. Therefore, I infer that the statement is somewhat true for me.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a sense of isolation and disconnection from others, as indicated by the statement 'my friends don't give a f**k.' The individual also expresses feelings of being a burden and making things worse for others. These feelings, combined with the desire for comfort and relief through crying, are indicative of risk for thwarted belongingness.
+

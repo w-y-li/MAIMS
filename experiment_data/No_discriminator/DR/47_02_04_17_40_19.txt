@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Anyone ever wish they were good at something? Something. Anything. Be it something innocuous or something that can get you a kickass job. Anything from which you could derive happiness and fulfillment. I've failed at everything I've tried. Good at absolutely nothing, even after years of trying. If there were even one such thing, I could just devote myself to it and use it to keep myself busy.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The post mentions feeling like a failure at everything and not being good at anything, which could lead to feelings of sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post mentions feeling like a failure and not being good at anything, which can lead to feelings of discouragement about the future.'])
+('3', ['indirectly_mention', "I feel I have failed more than the average person.###The post states that the person has failed at everything they've tried and feels like they are good at absolutely nothing, even after years of trying. This suggests that the person perceives their failures as being more than average."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to the loss of pleasure or enjoyment from things that were previously enjoyed."])
+('5', ['indirectly_mention', "I feel guilty a good part of the time.###The post mentions that the person has failed at everything they've tried, which can lead to feelings of guilt. They express a desire to be good at something, indicating that they may feel guilty for not being able to succeed."])
+('6', ['indirectly_mention', 'I do not feel I am being punished.###The post does not directly mention punishment feelings. However, the person expresses a desire to find something they can devote themselves to in order to keep busy. This suggests that they do not feel like they are being punished, as they are actively seeking a fulfilling activity.'])
+('7', ['indirectly_mention', 'I dislike myself.###The post expresses a feeling of failure and being good at absolutely nothing, which could indicate self-dislike.'])
+('8', ['indirectly_mention', "I criticize myself for all of my faults.###The post mentions that the poster has failed at everything they've tried and expresses a desire to find something at which they could be good, indicating a tendency towards self-criticism and self-blame."])
+('9', ['indirectly_mention', "I cry more than I used to.###The post mentions feeling like a failure and not being good at anything, which can lead to feelings of sadness and frustration. Although it doesn't explicitly state crying, the mention of not being good at anything and the desire for something that brings happiness and fulfillment suggests that the person may be experiencing increased emotional distress, leading to more frequent crying."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about suicidal thoughts or wishes. It mainly focuses on the person feeling like a failure and expressing a desire to be good at something in order to keep themselves busy and find happiness and fulfillment."])
+('11', ['directly_mention', "I feel more restless or wound up than usual.###The post mentions feeling restless and agitated, stating 'I've failed at everything I've tried. Good at absolutely nothing, even after years of trying.' This implies a sense of frustration and restlessness after continuous failures."])
+('12', ['directly_mention', 'I have lost most of my interest in other people or things.###The post talks about a lack of success and fulfillment in various aspects of life, indicating a possible loss of interest. The poster expresses the desire to find something they can be good at and derive happiness from, suggesting a decrease in interest in other activities or people.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention the feeling of indecisiveness."])
+('14', ['directly_mention', "I feel utterly worthless.###The post explicitly states 'I've failed at everything I've tried. Good at absolutely nothing, even after years of trying.' This indicates a strong feeling of worthlessness."])
+('15', ['indirectly_mention', "I have less energy than I used to have.###The post mentions that the poster has failed at everything they've tried, even after years of trying. This could be an indication of frustration and exhaustion, which could be related to a decrease in energy levels."])
+('16', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in sleeping patterns"])
+('17', ['indirectly_mention', 'I am no more irritable than usual.###The post expresses a sense of frustration and failure, which could potentially lead to some irritability. However, it does not indicate that the level of irritability is higher than usual.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions feeling like a failure and not being good at anything. These feelings of disappointment and lack of fulfillment can often result in a decrease in appetite. However, it does not imply a significant or complete loss of appetite.'])
+('19', ['indirectly_mention', "It is hard to keep my mind on anything for very long.###The post mentions that the person has failed at everything they've tried and they wish they were good at something. This implies that they have difficulty concentrating on their tasks for a long period of time."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not provide any information or context related to tiredness or fatigue."])
+('21', ['indirectly_mention', "I have almost no interest in sex.###The post mentions feeling failed at everything and being good at absolutely nothing. This feeling of failure and lack of fulfillment can greatly affect one's interest in sex. Therefore, I can infer that I have almost no interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses on the mental scale indicate symptoms of depression such as sadness, pessimism, past failure, guilty feelings, self-dislike, self-accusations, feeling worthless, loss of energy, difficulty concentrating, and loss of interest in sex. These symptoms are consistent with a diagnosis of depression.
+

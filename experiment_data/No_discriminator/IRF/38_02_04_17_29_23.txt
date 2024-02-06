@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I feel like my life is spiraling downwards getting worse each day. My dad has ALS, my mom is stressed out to the max taking care of a husband who is a selfish unappreciative jack wagon. I have to deal with a bullish, vindictive shithead for a manager that makes me dream of breaking his kneecaps inward, no friends, no woman, no life. My faith is growing dimmer by the day because of asshats who ride in on a hypocritical high horse. My doc says with my depression, anxiety, and high blood pressure, I wont live to see 35. Most nights, virtually every night, I go to bed a bit more angry, a bit more suicidal, and hoping, praying to a god who couldn't give a rat's ass about me to either give me cancer or do not allow me to wake up. My only vent is either here, where we all fight enough of our own battles to not worry about anyone else's (I'm not blaming anyone) or smoking black and milds. That's my vent for the evening.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Somewhat true for me###In the post, I mention that most nights I go to bed feeling angry and suicidal, and I hope to either get cancer or not wake up. This implies that I believe people would be better off without me.'])
+('2', ['indirectly_mention', "Not at all true for me###Although the post doesn't directly mention whether people in my life would be happier without me, it does mention that I have no friends, no woman, and no life. This suggests that there might not be anyone close to me who would be directly affected by my absence, leading to the belief that people wouldn't be happier without me."])
+('3', ['indirectly_mention', "Somewhat true for me###The post mentions feeling like a burden on society by saying 'no friends, no woman, no life' which indicates a lack of social connections and feeling isolated."])
+('4', ['indirectly_mention', "Not at all true for me###The post expresses feelings of anger, frustration, and hopelessness, but it doesn't specifically mention thinking that their death would be a relief to others. However, the mention of suicidal thoughts and a desire to not wake up suggest self-destructive tendencies rather than thinking about the relief it would bring to others."])
+('5', ['directly_mention', 'Very true for me###The post mentions that the person feels like their life is spiraling downwards, with no friends, no woman, and no life. This suggests that they believe people in their life wish they could be rid of them.'])
+('6', ['directly_mention', 'Very true for me###The post indicates that the person feels like they make things worse for the people in their life, as they describe themselves as angry and suicidal. This suggests that they believe they have a negative impact on others.'])
+('7', ['indirectly_mention', "Somewhat true for me###The post mentions feeling like there are asshats who ride in on a hypocritical high horse. This could imply that the individual feels like other people do not care about them, hence the answer to the question is 'Somewhat true for me'."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling like I belong. Therefore, the question is not mentioned."])
+('9', ['indirectly_mention', 'Not at all true for me###The post mentions that the poster has no friends and no woman, which implies a lack of caring and supportive people in their life.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information or mention about having caring and supportive friends."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feelings of being isolated and disconnected from others and social gatherings. These feelings align with the question.'])
+('12', ['indirectly_mention', 'Somewhat true for me###The post suggests that the poster often feels like an outsider in social gatherings due to a lack of friends and a negative work environment. This aligns with the question.'])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions having no friends and no woman in their life, which suggests a lack of closeness to other people. This indirectly suggests that the person is not close to others in general.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information that directly or indirectly indicates whether the person feels there are people they can turn to in times of need."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to having satisfying interactions."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to the questions of the mental scale suggest feelings of being a burden, making things worse for others, feeling disconnected from people, and thinking that people in their life wish they could be rid of them. These are all indicators of thwarted belongingness, feeling isolated and disconnected from others.
+

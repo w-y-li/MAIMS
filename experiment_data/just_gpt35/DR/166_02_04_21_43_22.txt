@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I just want a friend. Is anyone free to talk ? I'm just feeling super low.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling super low and wanting a friend, which are common symptoms of depression.
+

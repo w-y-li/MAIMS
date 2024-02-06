@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  We are born, we die. Nothing matters. This halts my ability to have any functioning relationships but makes it easy to do whatever I want. I take whatever I want, all the time. I don't have any stress to be anything. I'm just existing. I'm seeing a therapist but part of me does not want to care about this world. Its almost a stress reducer to not give a shit which way things turn out. Anybody else?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a lack of interest or investment in forming relationships, indicating a potential risk of thwarted belongingness.
+

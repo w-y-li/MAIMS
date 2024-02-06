@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I'm always there for people who want to talk to me when they're sad, as I've done this many times in the past, but there is no a single who I can turn to when I'm sad. Goddamn, I literally the person who hurgs others when they cry; yet, they can't even reply a simple message. I guess that's it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of being there for others, yet receiving very little in return. This suggests a feeling of being burdensome to others, as the poster mentions that they are always available to talk but no one is there for them when they are sad. This perceived lack of reciprocation can contribute to feelings of burdensomeness.
+

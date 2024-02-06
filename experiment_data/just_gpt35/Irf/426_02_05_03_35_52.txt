@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Anyways, I know that you guys aren't doctors, but I have a question. I am on medication, but yet all day long, I feel panic, trouble breathing and shaking all day for like no reason. I can't identify any of the stressors, it just comes on and makes me really tense, irritable, etc. I can't even really identify anything I'm scared of, I just feel like my body is having a biological reaction and is creating tension. Are drugs for anxiety appropriate for this? I thought SSRIs are for people who are struggling with problems but I am not struggling with a problem with my thoughts entirely right now.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post describes symptoms of panic, trouble breathing, and shaking all day with no identifiable stressors. This could indicate a sense of isolation or a lack of social support, which is a potential risk factor for thwarted belongingness.
+

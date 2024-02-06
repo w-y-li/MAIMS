@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I run on my bike for hours, got very out of town and didn't even realize, had this plan of jumping in front of a car on the highway. Sstill seems am ok plan. don't even know why I'm writing here, I don't know what to do. I'm sitting on the dark shaking. My feet hurt I'm exhausted and just want to lay on the ground and hope for sleep  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of hopelessness, exhaustion, and a desire for sleep, which may suggest a risk of perceived burdensomeness. Additionally, the mention of having a plan to jump in front of a car on the highway reflects a high level of distress and potentially suicidal ideation.
+

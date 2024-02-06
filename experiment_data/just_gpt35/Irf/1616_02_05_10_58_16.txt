@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I maintain this cheery personality but in reality, I'm just barely getting along. No one cares about me, and I don't want to attempt suicide (for the third time). The first two attempts sucked, and I hate myself everyday for even trying. The first time, I lost nearly all of my memories from the past (retrograde amnesia), so I couldn't recognize most people that I knew. The second time was at a hospital and I was placed on suicide watch. Needless to say, my parents were/are scared ASF. I use drugs to cope. Weed, Adderall, lean, alcohol, Xanax, Ambien, and LSD. Writing that all out is a relief. I know that people count on my existence, which is why I live. But I swear sometimes it feels like time goes by and I can't control my mind.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation, lack of care from others, and a desire to cope using substances. These symptoms align with the risk factor of thwarted belongingness, where the individual perceives a lack of social connection and support.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  i feel like absolute trash and my depression and anxiety are completely controlling me and i have zero control over them. i don‚Äôt *want* to kill myself but i can‚Äôt help but think i would be better off dead. everything is just too hard. i‚Äôm 26, will turn 27 this coming year, and i live at home and don‚Äôt have a college degree. i have a part-time job and struggle to even get through 4 hour shifts. so i don‚Äôt make enough money to do anything but attend work basically and smoke some cigarettes. i have 1 or maybe 2 ‚Äúreal‚Äù friends but i don‚Äôt see them often because i isolate in my depression. i know my family is so disappointed and fed up with me. i‚Äôm also struggling with a severely broken heart from an on-and-off 10 year thing and i‚Äôm realizing now that this person wants nothing to do with me in their life even though i love them more than anything. i don‚Äôt know how to get myself out of this rut. i go to therapy weekly and see a psychiatrist for meds and nothing is improving my mental state or motivation. i‚Äôve been in Partial Hospitalization something like 5 times over the past 4-5 years. should i just pack a bag and book myself inpatient?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden to others due to the person's perceived lack of progress in life, struggles with mental health, and broken heart. They express disappointment from their family and isolation from friends.
+

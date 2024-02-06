@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  In the last month I spent my birthday, Christmas, and new year entirely alone. I likely failed at least one of my exams. Almost every night I've woken up in fear from a nightmare in which my only friend dies. Two months ago was the last time I went into work and the last time I went to most of my classes. I told everyone I was too busy, but the truth is I was too anxious to leave my apartment. It felt too much like I was just failing. Three months ago is when I discovered that my depression may be caused by a chronic vitamin deficiency, which I would have been suffering from for over 10 years without knowing. A disorder that could have equally significant impact on my brain and body, which it may have already. This month I'm going to get checked to see if I'm right. If I am, then my dream career is a bust. If I'm wrong, I'm right back to square one and most likely going to end it. I'm in a lose-lose situation. The only thing keeping me going anymore is the fact that I don't know how my friend would handle it. She has big dreams that she can absolutely attain, but if she cares about me even a fraction as much as I care about her then coping with my death could ruin everything. Yet at the same time my presence in her life has been a fairly consistent cause of stress. Another lose-lose. I don't know what to do. I can't live for myself and I can't live for her. But dying isn't an option either right now. My life is a giant Chinese finger trap.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden to others, as the poster expresses concern about how their death would impact their friend's dreams and acknowledges that their presence in her life causes stress.
+

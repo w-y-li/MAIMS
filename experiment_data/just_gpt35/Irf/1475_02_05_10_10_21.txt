@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I've tried getting help, but nothing lasts long enough. I thought meds were doing the work they told me it would, but still here I am paralyzed with no desire to do anything. I just want motivation or reason to not waste all this time I have. I feel bad for everyone that deals with me, because more often than not they think I hate them, and that just makes me hate myself even more. I don't know how to live with others, or how anyone does it. It feels like boredom, but I know I can't help it. I just wish I could fix it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of burden on others, as the poster mentions feeling bad for everyone that deals with them and expressing that others may think they hate them. These thoughts can contribute to perceived burdensomeness, which is a risk factor for certain mental health issues.
+

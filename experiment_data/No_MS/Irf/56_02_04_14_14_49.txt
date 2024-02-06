@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Long story short: In december I talked to my mother about how I feel and that I currently don't get my shit together; Mainly work. She asked whether it's ok if my family would know (If they asked questions after christmas etc) and I told her it would be ok. First thing she did was going to my aunt and telling her and now my whole family knows and everyone is super protective and sending help, which is exactely what I don't need. When I critizied her, she started the whole  everything I do is wrong -bullshit and now even my father called me, who is currently in hospital because of his weak heart and told me I should start using my brain. While I'm writing this my mother sits crying in the kitchen after she told me that she can't deal with this whole current situation and that I  don't live alone on this planet . I do the fuck not know how to deal with this shit either. Getting drunk now. Thx for reading.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of feeling rejected or misunderstood by the poster's family. The poster expresses frustration and anger towards their mother for not respecting their boundaries and betraying their trust. The mention of feeling alone and resorting to getting drunk suggests a potential risk of thwarted belongingness, as the poster may feel disconnected and unsupported by those closest to them.
+
+Correct
+While the student correctly identified a risk of thwarted belongingness, it is crucial to avoid overgeneralizing based on limited information. Ensure your analysis strictly adheres to the available data, and avoid inferring beyond the expressed sentiments. Remember, assess each situation on its own merits and maintain objective while interpreting subjective experiences.

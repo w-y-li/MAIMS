@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I'm lost hahaha I don't even know why I posted this. I broke up with my gf today. I thought I was happy about it. I think is the right choice. A month of cutting and self hate is enough. But now I still feel it... And I want to cut again.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions self-hate, cutting, and feeling the urge to cut again. These are indicative of self-harm behaviors, which could be associated with depression.
+

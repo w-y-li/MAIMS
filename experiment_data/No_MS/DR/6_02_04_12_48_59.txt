@@ -1,0 +1,21 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Anyone want to talk with me tonight? Just lonely, need to get out of my head.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's mention of feeling lonely and wanting to get out of their head are indicators of depression.
+
+Incorrect
+Avoid making assumptions about disorders like depression based solely on a single statement. Look for patterns or multiple symptoms over time before implying a diagnosis. Feeling lonely and wanting to talk could reflect a temporary state rather than clinical depression.
+
+ITER 1
+No
+Feeling lonely and wanting to talk does not necessarily indicate clinical depression. It could be a temporary state of loneliness rather than a long-term mental health problem.
+
+Correct
+Good analysis! Remain cautious about not overgeneralizing based on limited information and continue to differentiate between temporary emotional states and clinical conditions.

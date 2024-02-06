@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I‚Äôm unworthy, I hate myself, I hate life, nobody fucking cares, fuck the human race, fuck whatever any of this is.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of unworthiness, self-hatred, and a negative view of life. The statement 'nobody fucking cares' suggests a perceived lack of support or belonging. The expression of anger towards the human race and life itself may reflect a sense of hopelessness and despair, which can be indicative of perceived burdensomeness.
+

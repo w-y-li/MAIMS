@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I don't want to do this for another year.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of not wanting to continue doing something for another year, which could be interpreted as a perceived burden in enduring the task for such a long period of time.
+

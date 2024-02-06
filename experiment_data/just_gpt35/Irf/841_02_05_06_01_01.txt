@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I'm sorry if this is jumbled. It happened two hours ago and I've been handling it terribly. I can't stop crying and I can't help but think I've just lost my whole world. I have very few friends, I feel alone and helpless... if anyone wants to chat... please feel free.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of feeling alone, helpless, and losing their whole world, which suggests a potential risk of perceived burdensomeness.
+

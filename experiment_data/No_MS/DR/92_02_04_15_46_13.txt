@@ -1,0 +1,21 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  My friend wants to cut everybody off Hi all. I talked to a friend a few days ago who is going through depression and she told me she wants to cut all of her friends and family off. I am taken aback — we’ve known each other since primary school! I just don’t know what to say. She says it isn’t anything personal and she just wants to end all of her relationships. Has anyone dealt with something similar?  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's friend is going through depression, as mentioned in the post. The friend expresses a desire to cut off all relationships, which is a common symptom of depression.
+
+Incorrect
+Remember that the mental health question specifically asks whether the poster is suffering from depression, not their friend. The correct answer to the question is 'No' since it is the poster's friend, not the poster themselves, who is experiencing symptoms of depression. Be careful to differentiate between the subject of the post and other individuals mentioned within it to avoid misattribution of mental health issues.
+
+ITER 1
+No
+The poster is expressing concern about a friend who is going through depression. The statement 'I talked to a friend a few days ago who is going through depression' refers to the friend's experience, not the poster's. Therefore, it is the friend who is potentially suffering from depression, not the poster themselves.
+
+Correct
+Continue to carefully differentiate between the subjects mentioned within a narrative and identify whose mental health is being discussed. Avoid making assumptions about others not directly indicated in the information provided.

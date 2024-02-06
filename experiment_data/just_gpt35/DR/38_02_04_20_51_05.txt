@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I think about multiple ways of killing myself everyday but I can't bring myself to do it. I'm so done feeling so so alone. I have friends who I can talk to, but I feel like I'm burdening them everytime. I'm pretty much done with my life. my studies are going nowhere, and I have no motivation in life. I thought of running into the road, but I wouldn't want to be that selfish and traumatise some innocent driver. I thought of throwing myself off the building, but I wouldn't want my family to be burdened with that gruesome image.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster displays signs of depression, including thoughts of suicide, feeling alone, lack of motivation, and a negative outlook on their life and studies.
+

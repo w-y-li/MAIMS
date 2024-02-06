@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I am taking prozac and abilify for many years... I have noticed my memory is not as good as it used to be... The dietician told me the pills can cause memory loss.... So? sorry...* do  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of thwarted belongingness. The poster is discussing memory issues related to taking medication, and there is no mention of feelings of isolation or social disconnection.
+

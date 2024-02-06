@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I'm using a new account because I can't remember my old password for my main account. But yeah I'm probably dead tonight. Im 20 and moved from the East coast to St Louis about 5 months ago ( it feels longer ). I got a good job delivering but quit it almost two weeks ago because I'm a bitch and was having an anxiety attack. I don't know what's wrong with me. A bit before quitting I went into the er because I was suicidal and spent 4 days trapped and with no actual help. I faked being better to get out. My only friends were at this job and they're mad at me ( understandably ). My old roommates are holding some of my stuff hostage until I pay them a certain amount of money. I've been couch surfing for the entire time up here. This was stupid. I hate myself. Sorry if it's not making too much sense I can't think straight right now. It doesn't matter either way.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of hopelessness, worthlessness, and isolation, which are indicative of perceived burdensomeness. The poster mentions being suicidal, hating themselves, and feeling trapped with no actual help. They also mention their friends being mad at them and their old roommates holding their stuff hostage, which could further contribute to a sense of being a burden to others.
+

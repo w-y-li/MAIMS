@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Hi, 23 M have been living with depression for at least 8 years, maybe longer i've kinda forgotten when it started its been so long. Been at the tipping point for a while now, although for some reason my death would upset some people so i refuse to do it as much as i want to. Problem is, living in this state is really hard as i feel as though im forced to live. The advice im after is, what does going to counselling actually do? Because i've sat for numerous hours thinking about it, but can't see any way it would help? Like i don't actually like this world and even if my attitude changed my situation wouldn't, and if anything relying on pure hope to get me through another 50~ years of despair would just be more painful than accepting it?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the individual feels like a burden to others and mentions that their death would upset some people, suggesting a risk of perceived burdensomeness.
+

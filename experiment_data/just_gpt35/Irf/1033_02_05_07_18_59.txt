@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Today would have been my best friend's 18th birthday, we'd be going out together for the first time, we'd be sitting here making resolutions for the new year that we both know we'd never keep. None of that is even possible though, because he's gone. It was never supposed to be like this.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a sense of loss, grief, and sadness over the death of the poster's best friend. The statement 'because he's gone' implies that the poster may feel a sense of burden due to the absence of their friend, as if something is missing from their life that cannot be replaced.
+

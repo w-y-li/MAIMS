@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I am gonna end it. I posted on reddit my gofund me and all, I just need a month till i start my job. no family or anything. im done. my benzo withdrawal hurts and so does my zoloft withdrawal. love you all have better life than me  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and lack of belongingness as the poster mentions having no family or support. Additionally, the mention of wanting a better life than their own suggests a feeling of disconnection and discontent with their current situation.
+

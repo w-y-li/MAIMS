@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I've been depressed since I was 18 and I'm 26 today. If I could point at something that's causing my depression, I would say that it's my lack of physical contact with other humans. I feel so lonely, and it keeps getting worse the older I get. Treatment hasn't helped. So if I were to test, if this is infact what is causing it, how could I go about it? In my dreamworld I would have 30min sessions, a couple of times a week where I snuggle to tv-series with a girl. But of course this is impossible to do. What came first the chicken or the egg? Maybe I'm just thinking too much about my depression, it could be very well be that my depression came first which is why it's impossible for me to find a partner. Has anyone had several years of no human contact, and then found a bf/gf only to have the depression continue uninterrupted?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post clearly suggests a lack of physical contact with other humans and a feeling of loneliness, which are signals of thwarted belongingness.
+

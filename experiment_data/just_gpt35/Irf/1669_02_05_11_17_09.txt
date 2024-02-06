@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  So I posted earlier about my fiance being distant and acting weird and just 30 minutes ago she ended our engagement, I‚Äôm so numb and just empty and I can‚Äôt go home and see family since being stationed over seas I just feel like I want to end it  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of numbness, emptiness, and wanting to end their life after their fiancé ended their engagement. This suggests a possible risk of perceived burdensomeness.
+

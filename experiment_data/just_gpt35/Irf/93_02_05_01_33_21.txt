@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I feel sad for myself when I see a couple walking holding hands or kissing.. I don't want to feel that way.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of sadness and self-pity when witnessing couples engaging in affectionate behaviors. This could suggest a possible perception of being a burden or feeling left out in relationships, leading to a risk of perceived burdensomeness.
+

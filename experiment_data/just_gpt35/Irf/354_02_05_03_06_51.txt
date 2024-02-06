@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  It‚Äôs been almost a year since I was put on antidepressants and nothings changed. They‚Äôve tried different meds and different doses but it doesn‚Äôt work. At first I was slowly giving up but now I just rapidly feel like nobody can help me like I‚Äôm just a shit stain everyone walks on and I know for a fucking fact I wouldn‚Äôt be missed. Jesus Christ I sound pitiful but god damn it there‚Äôs nothing left for me. I‚Äôve been diagnosed with PTSD recently and they tell me that my depression is from the PTSD but Jesus I feel like I‚Äôm just another mark on the books of a fucked up people. Every day I hope to fucking god I don‚Äôt wake up and every day I do. Everyday it takes me two hours to get to sleep only to have nightmares and wake up after two hours. I‚Äôm so fucking tired and I‚Äôm so fucking done with trying. The universe has won and I feel like now it‚Äôs just waiting with a bowl of popcorn to see how I end. I feel like I‚Äôm constantly screaming and screaming in a room full of people but nobody cares to look nobody hears me. It‚Äôs just so fucking worthless to keep trying it seems.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation, worthlessness, and a desperate need for connection. The poster expresses a strong belief that nobody can help them and feels unheard by others. This suggests a risk of thwarted belongingness, which is a psychological state characterized by a perceived lack of social connection and support.
+

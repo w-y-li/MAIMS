@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Hi all, I have been struggling with the idea of being too greedy. I mean: I have people who love me (family, friends, partners, pets), I have a job with an acceptable salary, I have hobbies. Lately I haven't been feeling competent, but I know I am good in my job, and also that I am a good, nice, kind person who cares about others. So, what do I have to complain about? Why am I not satisfied? Why do I want more? Meh.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of perceived burdensomeness. The individual expresses feelings of dissatisfaction and wanting more, but there is no mention of feeling like a burden to others or thoughts of being a burden themselves.
+

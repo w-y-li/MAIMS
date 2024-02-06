@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I feel like like I'm always running away from something and, at the same time, striving and longing for something else I don't even know what. It is like a videogame where you are always facing the final boss or feel it coming right around the corner, while simultaneously gathering supplies and ammo. But you don't ever die and come back to life for a second chance in real life.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post reflects a sense of feeling burdened by constantly running away from something and striving for something unknown. This suggests a risk of perceived burdensomeness, as the individual may perceive themselves as a burden to others due to their constant struggle and inability to find fulfillment or satisfaction.
+

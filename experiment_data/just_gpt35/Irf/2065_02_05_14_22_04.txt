@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  My sadness has been dragging me for weeks and today, I'm too lazy to do the things I normally do. Even the things that I want to do. I wasn't able to go to school today because it was really hard to get out of my bed. I'm not even in the mood to play games. Every minor thing that bums me out affects me drastically. I haven't tried going to the hospital regarding my mental health and I am not sure if this is all just in my head or I really have depression.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling sad for weeks, having difficulty getting out of bed, lacking motivation, and experiencing a drastic impact from minor things that bother them. These symptoms are indicative of depression, and in particular, the mention of feeling like a burden suggests a risk of perceived burdensomeness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I'm looking for a self-help book to help cope with anxiety and depression, have any of you read any that were particularly helpful?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show explicit signs of thwarted belongingness. The person is seeking help and support by asking for recommendations on self-help books for anxiety and depression.
+

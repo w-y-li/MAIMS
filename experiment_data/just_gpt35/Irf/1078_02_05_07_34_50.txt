@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I'm not afraid anymore. Fuck this world and everything in it. I'm getting no where. I have the noose tied.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a sense of isolation, frustration, and a desire to escape from the world, which suggests a potential risk of thwarted belongingness.
+

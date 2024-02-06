@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I hate myself. Because of one stupid mistake - I could have just ruined my future career. My dream career. All because I didn't hand in my report on time. I want to fucking end it all. My parents are gonna berate me. I just wanna jump off the balcony of my school and say  All you have caused is pain and suffering . I'm gonna be stuck working at McDonald's. I SPENT OVER 150 HOURS ON THIS REPORT TO FAIL AT THE SIMPLEST THING.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong feeling of burden and hopelessness. The poster expresses a desire to end their life due to making a mistake and believing it will ruin their future career. This feeling of being a burden to others is evident in their statement about their parents berating them and their fear of working at McDonald's. Therefore, the post shows risk of perceived burdensomeness.
+

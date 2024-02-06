@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Has someone here survived an attempt or knows someone who did? I'd like to know how life looks like when you survive. How it's gonna impact social life (got no friends and family so probably not too much). How it impacts work and school (trying to graduate 2nd time. Dropped out cause of massive depressive episode and cause I got homeless). And just other things like are you put in therapy or even hospitalized and for how long. I'm in a situation where I just wish to die. But I can't kill myself cause I'm worried about what might happen if it fails or I somehow survive. Like how my life that's already the worst could get even worse then.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of worthlessness and sees themselves as a burden to others. They mention having no friends or family and how their life could get worse if they were to survive a suicide attempt. This suggests a possible risk of perceived burdensomeness, where they perceive themselves as a burden to others or believe that others would be better off without them.
+

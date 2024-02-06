@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I want to be able to be be and do more in my life, farther my career, move someplace better... but i feel like I'm not capable of it, like it's impossible for me to get better at anything and it frustrates me, I wanna learn more things but i always feel overwhelmed and panic that i can never learn it and my head just shuts down... so i feel trapped and useless and i can't get over my anxieties at trying to improve it... this is so hard man...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of being trapped, useless, and overwhelmed, which can indicate a lack of belongingness and connection. The poster also mentions panic and anxiety, further emphasizing the potential risk of thwarted belongingness.
+

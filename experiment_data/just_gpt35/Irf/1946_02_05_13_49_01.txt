@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Am I wasting my life? Everyday is the same. I only leave my house for work and sometime food. I get older and everything is the same. I‚Äôm 26 now but I feel more depressed than I did when I was 18. Will I ever get better? Does it stop or do I just waste away?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and lack of social connection, suggesting possible risk of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  i just think its my personality, also im slightly drunk atm, but i honeslty feel like i dont have depression and its just how i am as a person.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate a risk of perceived burdensomeness. The individual mentions feeling like they don't have depression and attribute their feelings to their personality and being slightly intoxicated.
+

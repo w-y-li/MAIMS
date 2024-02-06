@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I'vs noticed that whenever i walk past a mirror i look away... i can't remember the last time i've seen my reflection without feeling disgust. I can't stand to look at myself.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a strong negative evaluation of oneself, specifically a feeling of disgust when looking at one's own reflection. This self-perception may indicate a risk of experiencing perceived burdensomeness, where the individual feels like a burden to others due to their negative self-image.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I don't see a point to live this miserable life anymore. I have termal brain cancer, and another type of brain cancer that isn't; not yet anyways. I have a family that doesn't care. No friends to care. I spend my days 100% alone. The only human interaction that I have is when I need to go to a strore. I'm on SSI because the tumor that I have took most of my cerebellum with it when it was removed from my head. Because I'm stuck being disabled, and living on SSI, I never have the money, or the enegry, to go out and do anything. I don't know anyone on-line either. Social media is not my thing. I just don't fit in, but that's true in the off-line world as well. I've never fit in anywhere. I'm tried of living like this. I feel like I want to opt-out.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling like a burden due to being disabled and relying on SSI for support, as well as feeling isolated and lacking social connections.
+

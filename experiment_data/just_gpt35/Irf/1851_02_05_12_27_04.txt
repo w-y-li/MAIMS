@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  About a week ago my girlfriend made me promise to stop cutting myself because it made her feel like a bad girlfriend. I try my best to keep every promise i make and not to let other people down but that seems like the only thing i do nowadays, let people down. I have some interests that keep me busy such as i like to write, i post in r/nosleep quite often but not many stories make it to the popular page and when they do they get taken down. I really don't want to let my girlfriend down in fear of her leaving me as she is all i have left, my friends dont talk to me anymore and my family barely notices me. Any tips on how to stop cutting and maybe become a happy person and be a functioning member of society?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the poster feels like a burden to others, specifically mentioning how their self-harming behavior makes their girlfriend feel like a bad girlfriend. This suggests a risk of perceived burdensomeness, as they express concern about letting people down and fear of their girlfriend leaving them.
+

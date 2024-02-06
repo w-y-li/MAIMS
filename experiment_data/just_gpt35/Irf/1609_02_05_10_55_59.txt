@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  only got an hour's worth of sleep last night because I've been too uncomfortable to sleep lately without exhausting myself into passing out, and today i felt so light (still feel nauseated and jittery sometimes, that hasn't changed haha) and generally somehow just better than I've been for the past few weeks. of course that's really the sleep deprivation making me giddy, but when ive felt sluggish for so long, highs like this like, blow my mind. i really dont want to sleep tonight, for mood swing reasons (and for schoolwork too). anyone else get an hour or two of sleep on the regular? ... really wanna invest in caffeine pills, despite the obvious negative effects of lack sleep. i really have no other way of feeling good.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a risk of perceived burdensomeness as the poster mentions feeling uncomfortable, nauseated, and jittery, and describes the need to exhaust oneself to sleep. The poster also expresses the desire to avoid sleep for mood swing reasons and relies on caffeine pills to feel good despite acknowledging the negative effects of lack of sleep.
+

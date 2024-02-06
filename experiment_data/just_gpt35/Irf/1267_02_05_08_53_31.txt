@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Is this depression or am I just a weak coward cause I'm not too sure  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The use of self-deprecating language such as 'weak' and 'coward' indicates negative self-perception. Additionally, the uncertainty about whether it is depression suggests a lack of clarity regarding one's emotions, which can contribute to feelings of burdensomeness.
+

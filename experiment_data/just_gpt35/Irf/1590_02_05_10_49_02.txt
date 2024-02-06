@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I would like to say that I was shook, but I knew she has the habit of consuming a lot of sleeping pills just for not having to deal with the daily problems... Aside from trying get professional help I dont really know what to do, I feel guilty about this  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the individual mentioned has a habit of consuming a lot of sleeping pills to avoid dealing with daily problems. This could be a sign of thwarted belongingness, where the person may be feeling isolated, disconnected, or lacking social support. Additionally, the poster expresses guilt, which can further contribute to feelings of not belonging or being misunderstood.
+

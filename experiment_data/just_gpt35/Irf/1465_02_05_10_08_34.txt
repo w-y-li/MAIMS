@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I‚Äôve tried a lot of medicines over the past 2 years, even a combination of some, but ultimately I stopped taking them around September because I didn‚Äôt feel like I should have been taking as much as I was for as little result as I was getting. Things have surprisingly been going really well since I stopped medication BUT I still struggle with anxiety on a daily basis. Mostly overthinking everything and just letting my thoughts get the best of me. I have a really good dr. His son struggles with depression so he‚Äôs more familiar with mental health issues then your generic pediatrician. He‚Äôs kept me away from some of the more high risk medicines, but also takes into consideration what I have to say based on how I feel and the research I‚Äôve done. Just gathering thoughts and opinions on what‚Äôs been successful for some of y‚Äôall.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post mentions struggling with anxiety and overthinking, but it does not indicate a risk of perceived burdensomeness.
+

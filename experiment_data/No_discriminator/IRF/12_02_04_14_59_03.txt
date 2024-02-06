@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I am feeling sick. Anxious. I need some help please  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me###The post indicates that the person is feeling sick and anxious, which may be contributing to their negative emotions. However, there is no direct mention of feeling like others would be better off without them. Therefore, I can infer that it is not true for me.'])
+('2', ['indirectly_mention', 'Somewhat true for me###The post indicates that the person is feeling sick and anxious, which may be contributing to their negative emotions. While there is no direct mention of others being happier without them, the feeling of needing help could imply feelings of burden and a potential belief that others could be happier without their presence. Consequently, this answer seems somewhat true for me.'])
+('3', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to feeling like a burden on society."])
+('4', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to thinking that my death would be a relief to others."])
+('5', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to thinking that people in their life wish they could be rid of them."])
+('6', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything about making things worse for the people in their life."])
+('7', ['indirectly_mention', "Somewhat true for me###The post mentions feeling anxious, which may indicate that the person is not feeling completely supported or cared for by others. Therefore, it is likely that the person's level of agreement with the statement 'These days, other people care about me' is 'Somewhat true for me'."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to feeling like belonging or not. Therefore, it doesn't mention the question 'These days, I feel like I belong' at all."])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling anxious and in need of help, which could indicate a lack of interaction with caring people. However, the post does not directly state this.'])
+('10', ['indirectly_mention', 'Not at all true for me###The post mentions feeling anxious and in need of help, implying a lack of supportive friends. However, the post does not directly state this.'])
+('11', ['directly_mention', 'Somewhat true for me###I feel disconnected from other people because I am feeling sick and anxious. These feelings can lead to a sense of disconnection and isolation.'])
+('12', ['directly_mention', 'Somewhat true for me###I often feel like an outsider in social gatherings, especially when I am feeling sick and anxious. These negative emotions can make it difficult for me to feel like I belong or fit in with others.'])
+('13', ['directly_mention', 'Somewhat true for me###I mentioned that I need some help, which implies that I feel there are people I can turn to in times of need, although it may not be completely true for me.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information about being close to other people. Hence, it does not mention the question at all."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having satisfying interactions every day."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the questions on the mental scale indicate a sense of disconnect, feeling like an outsider, and rarely interacting with people who care about them. They also express that the people in their life would be happier without them. These responses suggest a risk of thwarted belongingness.
+

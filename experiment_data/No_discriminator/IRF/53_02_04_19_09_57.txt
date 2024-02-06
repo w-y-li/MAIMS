@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Can‚Äôt make anyone happy anymore, what‚Äôs the point? None of my friends care despite me reaching out and my fianc√©e is fed up with my depressive shit. Don‚Äôt even think he wants to marry me any more. I can tell he resents me. I can‚Äôt fix the things that are wrong with me. Why bother with anything? Don‚Äôt wanna upset my family so I‚Äôll just keep trecking on I guess. Just needed to vent cause I don‚Äôt have any real people to talk to.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Very true for me###The post explicitly states that the person feels that the people in their life would be better off without them, which corresponds to the second question.'])
+('2', ['directly_mention', "Very true for me###The post directly mentions that the people in the person's life would be happier without them, which corresponds to the second question."])
+('3', ['indirectly_mention', "Not at all true for me###The post mentions feeling like a burden on friends and family, which implies thoughts about being a burden on society. However, the post doesn't directly mention the question, but gives enough information to make a reasonable deduction."])
+('4', ['indirectly_mention', "Not at all true for me###The post suggests feeling like a burden on the fiancé and family, which implies thoughts about being a relief if they were gone. However, the post doesn't directly mention the question, but gives enough information to make a reasonable deduction."])
+('5', ['directly_mention', "Somewhat true for me###In the post, I mentioned that my friends don't care despite me reaching out. This suggests that I think the people in my life wish they could be rid of me to some extent."])
+('6', ['directly_mention', 'Very true for me###In the post, I mentioned that my fiancé is fed up with my depressive shit and I can tell he resents me. This indicates that I believe I make things worse for the people in my life.'])
+('7', ['directly_mention', "Somewhat true for me###I mentioned that none of my friends care despite me reaching out, which implies that other people don't care about me. So, the answer to this question is somewhat true for me."])
+('8', ['directly_mention', "Not at all true for me###I mentioned that my fiancé is fed up with my depressive state and possibly doesn't want to marry me anymore. This indicates that I don't feel like I belong, so the answer to this question is not at all true for me."])
+('9', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster's friends don't care about them despite reaching out, which suggests that the poster is not interacting with people who care about them. However, it is not explicitly stated in the post, hence the answer is 'Somewhat true for me'."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having many caring and supportive friends, hence the answer is 'Doesn't mention at all'."])
+('11', ['directly_mention', 'Very true for me###The post mentions feeling disconnected from other people.'])
+('12', ['directly_mention', 'Very true for me###The post mentions feeling like an outsider in social gatherings.'])
+('13', ['directly_mention', 'Not at all true for me###The post directly mentions that the person feels that none of their friends care despite reaching out. This indicates that they do not feel they have people they can turn to in times of need.'])
+('14', ['directly_mention', "Not at all true for me###The post directly mentions that the person's fiancée is fed up with their depressive state and may not want to marry them anymore. This suggests that they do not feel close to their partner."])
+('15', ['indirectly_mention', "Not at all true for me###The post mentions that the poster can't make anyone happy anymore, which suggests a lack of satisfying interactions in their life."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the person feels like a burden on others and believes that the people in their life would be better off without them. They express concerns about not being able to make anyone happy and feeling like they make things worse. These feelings indicate a risk of perceived burdensomeness.
+

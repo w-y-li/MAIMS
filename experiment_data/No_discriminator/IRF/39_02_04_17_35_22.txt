@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I feel like my life is spiraling downwards getting worse each day. My dad has ALS, my mom is stressed out to the max taking care of a husband who is a selfish unappreciative jack wagon. I have to deal with a bullish, vindictive shithead for a manager that makes me dream of breaking his kneecaps inward, no friends, no woman, no life. My faith is growing dimmer by the day because of asshats who ride in on a hypocritical high horse. My doc says with my depression, anxiety, and high blood pressure, I wont live to see 35. Most nights, virtually every night, I go to bed a bit more angry, a bit more suicidal, and hoping, praying to a god who couldn't give a rat's ass about me to either give me cancer or do not allow me to wake up. My only vent is either here, where we all fight enough of our own battles to not worry about anyone else's (I'm not blaming anyone) or smoking black and milds. That's my vent for the evening.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Very true for me###The post explicitly states that the person believes their life is spiraling downwards and they express feelings of anger, sadness, and hopelessness. They also mention thoughts of suicide and express that their only vent is social media. These thoughts and feelings indicate a belief that others would be better off without them.'])
+('2', ['directly_mention', 'Very true for me###The post explicitly states that the person believes their life is getting worse each day and they feel angry, suicidal, and hopeless. They also express a desire for a god to not allow them to wake up. These statements reveal a belief that others would be happier without them.'])
+('3', ['directly_mention', 'Not at all true for me###The post mentions feeling like a burden on society due to the challenges and difficulties in their life, suggesting that they may consider themselves a burden. However, the post does not explicitly state it as true.'])
+('4', ['directly_mention', 'Not at all true for me###The post indicates a desire for relief and escape from their current situation, but it does not directly mention thinking that their death would be a relief to others. Therefore, it can be inferred that this statement is not true for them.'])
+('5', ['directly_mention', "Somewhat true for me###The post mentions feeling like the people in the poster's life wish they could be rid of them."])
+('6', ['directly_mention', 'Very true for me###The post mentions thinking that they make things worse for the people in their life.'])
+('7', ['directly_mention', "Not at all true for me###The post mentions feeling like no one cares about them and feeling unsupported. This indicates that other people may not care about them, hence the answer to this question would be 'Not at all true for me'."])
+('8', ['directly_mention', "Not at all true for me###The post mentions feeling like they don't belong and not having any friends or a social life. This indicates that they do not feel like they belong, hence the answer to this question would be 'Not at all true for me'."])
+('9', ['directly_mention', 'Not at all true for me###The post directly mentions that the poster has no friends and no one to care about them.'])
+('10', ['directly_mention', 'Not at all true for me###The post directly mentions that the poster has no friends and no one to care about them.'])
+('11', ['indirectly_mention', "Somewhat true for me###The post mentions that the person has no friends and no woman, which indicates a feeling of disconnection from other people. However, the post does not explicitly state whether this disconnection is experienced in these days or is a constant feeling, hence the answer is 'Somewhat true for me'."])
+('12', ['indirectly_mention', "Somewhat true for me###The post mentions that the person feels like an outsider in social gatherings by stating that they have no friends and no woman. Although it is not explicitly mentioned that this feeling is experienced in these days, the absence of social connections suggests a possible sense of being an outsider in social gatherings, hence the answer is 'Somewhat true for me'."])
+('13', ['indirectly_mention', 'Very true for me###The post mentions that the person has no friends and no woman in their life, which implies a lack of closeness to other people. This suggests that the person may feel distant from others and therefore not close to them.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information about whether the person feels there are people they can turn to in times of need. No direct or indirect mention of this question is made in the post."])
+('15', ['directly_mention', 'Not at all true for me###The poster mentions that they have no friends, no woman, and no life, which suggests that they do not have any satisfying interactions every day.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The responses to the questions of the mental scale indicate that the poster perceives themselves as a burden on others, believes that others would be happier without them, and thinks they make things worse for the people in their life. These beliefs are consistent with the risk of perceived burdensomeness, which is a feature of certain mental health issues such as depression and suicidality.
+

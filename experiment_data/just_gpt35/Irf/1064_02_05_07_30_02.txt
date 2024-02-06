@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôve been feeling pretty lost lately, lack of motivation, all my work gets put off until the very last minute then I cram it in. And the mornings are the hardest part, because waking up means I have to deal with all the thoughts running through my head. It‚Äôs come to the point where I have to physically drag myself out of bed now. It gets harder to want to wake up every day.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of motivation, putting off work and cramming it in, difficulty in waking up, and feeling overwhelmed by thoughts. These symptoms suggest a possible risk of thwarted belongingness, as the individual may be feeling disconnected, isolated, and struggling to find a sense of purpose or meaning in their life.
+

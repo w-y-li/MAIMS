@@ -1,0 +1,114 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Life can go fuck itself. I think I'm done. I'm a mechanical engineer graduate. I came from a different country to the United States to study engineering, hoping I can make something out of myself. I poured blood sweat and tears trying to get good grades and graduate proudly. I never went to parties, stayed away from drugs, focused on having good relationships with people and overall being kind wherever I could. This country does not want to hire me at all.. Wherever I send my applications I get rejects. This was my only dream and meant everything in life. All my friends and moved on getting jobs. I have an excellent profile and some really good work to show for but the leadership is a little unpredictable, so companies don't what to hire people like me.. I watched so many people cheat their way through exams and projects and gone to get hired by companies like Amazon and Google. I have not seen my family in three years. And can barely afford to eat more than one meal a day. I'm getting recurring nightmares of being a failure and this makes me want to end it all. I've decided to stay in the US as long as I legally can. Then then, if I'm not getting a job.. I'm simply ending it. I have nothing else to live for. Oh and becomes this, I have fucking health problems.. So who knows how long I'll be alive anyway. Life is unfair.. So life can go fuck itself. I'm out.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The poster mentions feeling sad and having recurring nightmares of being a failure, which suggests that they feel sad frequently.'])
+('2', ['indirectly_mention', 'I feel I have nothing to look forward to.###The poster mentions feeling like they have nothing else to live for and wanting to end it all, which indicates a sense of hopelessness about the future.'])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###In the post, I mentioned pouring blood, sweat, and tears into getting good grades and graduating proudly. I also mentioned that I never went to parties and stayed away from drugs, indicating that I put a lot of effort into my studies. However, despite my efforts, I am not getting hired and my friends have moved on to get jobs. This suggests that I feel I have failed more than the average person.'])
+('4', ['directly_mention', 'I do not enjoy things as much as I used to.###I mentioned that I have recurring nightmares of being a failure, which implies that I am experiencing a loss of pleasure. The post also indicates that I have nothing else to live for and that life is unfair, suggesting a lack of enjoyment in things that I used to find pleasurable.'])
+('5', ['directly_mention', 'I feel guilty all of the time.###The post directly mentions recurring nightmares of being a failure, which implies a constant feeling of guilt.'])
+('6', ['directly_mention', 'I feel I am being punished.###The post directly mentions feeling punished due to the unfairness of life and not being able to find a job despite the effort put into studies.'])
+('7', ['directly_mention', "I feel the same about myself as ever###The post expresses a strong sense of self-dislike and discontent. The poster says, 'I'm a mechanical engineer graduate,' and 'I'm a failure,' which suggests a negative self-perception."])
+('8', ['directly_mention', 'I am more self-critical or blaming than usual###The post indicates self-accusations when the poster mentions watching others cheat their way through exams and projects, while putting in a significant effort to succeed. This suggests a tendency to criticize oneself for not achieving the same level of success.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to crying."])
+('11', ['directly_mention', 'I am so restless or agitated that I have to keep moving or doing something.###The post mentions recurring nightmares and feeling like a failure, which suggests high levels of agitation and restlessness.'])
+('12', ['directly_mention', 'I have lost most of my interest in other people or things.###The post explicitly states that the poster has lost interest in life, as they feel like their dream has been shattered and they have nothing else to live for.'])
+('13', ['directly_mention', "I find it more difficult to make decisions than usual.###The post mentions having difficulties in getting hired, recurring nightmares of being a failure, and considering ending one's life. These factors suggest an increased difficulty in making decisions than usual."])
+('14', ['directly_mention', "I feel utterly worthless.###The post mentions feeling like a failure, having health problems, and considering ending one's life. These factors suggest feeling utterly worthless."])
+('15', ['indirectly_mention', 'I do not have enough energy to do very much.###The post mentions experiencing recurring nightmares of being a failure and feeling like a failure in life. These feelings of failure can lead to a loss of energy and motivation to engage in daily activities. Therefore, it can be inferred that I do not have enough energy to do very much.'])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###The post mentions recurring nightmares, which indicates that I may have difficulties sleeping. Although it is not explicitly mentioned, it can be inferred that the changes in sleeping pattern may include sleeping somewhat less than usual due to the mentioned nightmares.'])
+('17', ['indirectly_mention', 'I am irritable all the time.###The post mentions recurring nightmares, feeling like a failure, and having health problems, which indicates ongoing distress and suggests a possibility of being irritable all the time.'])
+('18', ['indirectly_mention', 'My appetite is much less than before.###The post mentions barely affording to eat more than one meal a day, which suggests a significant decrease in appetite compared to before.'])
+('19', ['indirectly_mention', 'I find I can not concentrate on anything.###The poster mentions struggling with getting good grades and getting rejected from job applications. These experiences may be causing difficulties in concentrating on tasks.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do a lot of the things I used to do.###The poster mentions working hard to get good grades and not being able to enjoy social activities. These experiences may be causing tiredness and fatigue.'])
+('21', ['directly_mention', 'I have lost interest in sex completely.###In the post, I mentioned that I have nothing else to live for and that life is unfair. These statements imply a deep sense of hopelessness and despair, which can often lead to a loss of interest in activities, including sex.'])
+Do MS Check Record:
+('1', ['Correct', 'Ensure you continue to identify direct and indirect indicators of emotions and thoughts in the language of social media posts.'])
+('2', ['Correct', 'Good job on recognizing expressions of hopelessness as indicators of pessimism. In future assessments, maintain a balance to avoid over-inference.'])
+('3', ['Correct', 'Maintain a focus on the explicit contents of the post and how they relate to the scales being evaluated, as done here. Be careful to avoid adding assumptions beyond what is stated.'])
+('4', ['Incorrect', "Avoid inferring psychological states that are not directly indicated by the post. Focus on the poster's explicit expressions of their experiences, like feelings of unfairness or distress, rather than diagnosing based on what wasn't clearly stated."])
+('5', ['Incorrect', 'Scrutinize the provided text for explicit statements about guilt. Do not assume feelings of guilt unless the content clearly supports it. Analyze the difference between guilt and other negative feelings such as frustration or disappointment.'])
+('6', ['Incorrect', 'Exercise caution when inferring feelings of punishment. Look for textual evidence where the poster might feel they are being penalized or treated unjustly. Avoid broad interpretations not supported by specific details in the post.'])
+('7', ['Incorrect', "Avoid assuming that expressions of frustration equate to self-dislike. Focus on statements that directly relate to the individual's feelings about themselves, rather than their situation."])
+('8', ['Incorrect', 'Be cautious not to confuse self-criticism with self-accusation. Reflect on whether the post shows the poster blaming themselves for their situation or simply expressing dissatisfaction with their circumstances.'])
+('9', ['Incorrect', "The post explicitly expresses a desire to end life if circumstances don't improve. Reevaluate the content carefully for indications of suicidal thoughts."])
+('10', ['Correct', 'While crying is not directly mentioned, no assumption should be made without evidence. Continue to avoid inferring emotions not explicitly stated.'])
+('11', ['Incorrect', 'Review the post for explicit mentions of agitation - the feelings described suggest distress but do not explicitly state a need to keep moving or doing something.'])
+('12', ['Correct', 'You have correctly inferred loss of interest from the statement about having nothing to live for which indicates a loss of interest in life and possibly in other activities as well.'])
+('13', ['Correct', 'Maintain your detailed analysis but ensure that your interpretation of indecisiveness is strictly informed by explicit and implicit cues from the post.'])
+('14', ['Correct', 'Continue to connect emotional statements from the post to psychological constructs like worthlessness, but be careful not to extrapolate beyond what is provided.'])
+('15', ['Correct', 'Ensure you continue to substantiate any inferences with specific evidence from the post when analyzing indirect mentions related to mental scales.'])
+('16', ['Correct', 'Keep connecting relevant symptoms mentioned in posts to potential changes in mental states, but remember to clarify that these are hypotheses not direct conclusions.'])
+('17', ['Incorrect', 'Review the post for direct evidence of irritability rather than inferring it from distress. Seek clear connections between emotions expressed and the specific question.'])
+('18', ['Correct', "Ensure future answers maintain direct correlation between the post's content and the question as was done here regarding appetite."])
+('19', ['Incorrect', "Review the post to identify direct or nuanced indications of concentration difficulties. Reflect on how the poster's circumstances manifest in their mental state and avoid inferring issues not explicitly mentioned."])
+('20', ['Correct', "Good deduction correlating effort and lack of social activities with tiredness or fatigue. Ensure all inferences are grounded in the poster's experiences as described in their post."])
+('21', ['Incorrect', 'Avoid assuming details not provided in the post. The post does not explicitly mention any changes in sexual interest. Stay factual and within the context without inferring additional feelings or behaviors.'])
+
+ITER 1
+Do MS Record:
+('4', ['directly_mention', 'I do not feel guilty###The poster explicitly states that life is unfair and expresses frustration and disappointment with their situation. There is no mention of feeling guilty.'])
+('5', ['not_mention', "Doesn't mention at all.###The post does not indicate any loss of pleasure. The poster's focus is on their struggles in finding a job and their overall dissatisfaction with life."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling punished or expecting to be punished. There is no evidence of any punishment feelings in the post."])
+('7', ['directly_mention', 'I feel the same about myself as ever.###The post directly mentions that the poster has poured blood, sweat, and tears into their studies and has focused on building good relationships. This indicates that they feel the same about themselves as ever.'])
+('8', ['indirectly_mention', 'I criticize myself for all of my faults.###The post mentions that the poster poured blood, sweat, and tears to get good grades and graduate proudly. This implies that the poster may be critical of themselves and blames themselves for any faults or shortcomings in their academic performance.'])
+('9', ['directly_mention', 'I would like to kill myself.###The post explicitly mentions that the recurring nightmares of being a failure make the poster want to end it all. This indicates that the poster has thoughts of killing themselves and expresses a desire to commit suicide if their situation does not improve.'])
+('11', ['indirectly_mention', 'I am more irritable than usual.###The post mentions feeling frustrated and angry towards life, which can be seen as evidence of increased irritability.'])
+('17', ['indirectly_mention', 'I am so restless or agitated that it is hard to stay still.###The post mentions feeling agitated and having recurring nightmares, suggesting a higher level of restlessness.'])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###The poster mentions that they have recurring nightmares of being a failure, which suggests difficulty in maintaining focus and concentration.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not provide any indication or mention of changes in sexual interest."])
+Do MS Check Record:
+('4', ['Incorrect', 'Review the post for emotional content that may imply loss of pleasure, such as mentions of neglecting personal enjoyment activities or expressing feelings of despair.'])
+('5', ['Correct', 'Continue to be cautious not to infer feelings that are not evident from the post; focus on the information provided to deduce the presence of guilty feelings.'])
+('6', ['Incorrect', "Consider the poster's emotional state and overall message. Reevaluate the post for expressions of feeling unjustly treated or punished by life circumstances."])
+('7', ['Incorrect', 'Review the post for signs of self-dislike, such as expressions of hopelessness, failure, and frustration with life outcomes in contrast to efforts made.'])
+('8', ['Incorrect', "Carefully analyze the post to identify self-accusation nuances without overgeneralizing. The poster does not explicitly blame themselves for their situation; instead, they express frustration with external circumstances. Focus on the exact language used to avoid assuming self-blame that isn't directly indicated."])
+('9', ['Correct', 'Your analysis of suicidal thoughts is accurate based on the explicit mention in the post. Continue to identify such direct references but ensure to not infer beyond what is stated.'])
+('11', ['Correct', 'Ensure to always look for indirect cues in a post that could signify emotional states like agitation, as you did here.'])
+('17', ['Correct', 'Great job recognizing the signs of restlessness in the post. Continue to seek out subtleties within posts that may indicate emotional distress.'])
+('19', ['Incorrect', "Review the post for implicit emotional and psychological states that could impact cognitive functions, such as concentration. The narrator's expressed mental distress and overwhelming life situation suggest potential for concentration issues, even if not explicitly mentioned."])
+('21', ['Correct', 'Good job identifying the absence of information related to sexual interest. Continue to be vigilant in separating what is explicitly mentioned from assumptions that cannot be supported by the post.'])
+
+ITER 2
+Do MS Record:
+('4', ['indirectly_mention', 'I get very little pleasure from the things I used to enjoy.###The poster expresses feelings of despair and mentions neglecting personal enjoyment activities.'])
+('6', ['directly_mention', 'I feel I am being punished.###The poster mentions feeling like life is unfair and expressing feelings of being punished by life circumstances.'])
+('7', ['directly_mention', 'I dislike myself###The poster expresses a strong dislike for themselves, stating that life can go fuck itself and that they have nothing else to live for. This demonstrates self-dislike.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not contain any indications of self-accusations. The poster blames external circumstances, such as the unpredictability of leadership and unfairness of life, rather than themselves."])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###The post mentions that the poster is experiencing recurring nightmares of being a failure, which indicates difficulty in keeping their mind on anything for long periods of time.'])
+Do MS Check Record:
+('4', ['Correct', 'Ensure to maintain objectivity and avoid overgeneralizing feelings based on one statement. Keep corroborating with specific examples from the post as you did.'])
+('6', ['Correct', 'Continue to link explicit expressions from the post to psychological concepts while being careful not to infer feelings that are not supported by the text.'])
+('7', ['Incorrect', 'Consider the emotions conveyed in the post such as frustration with the job search and compare them against the criteria for self-dislike. The intensity of the negative feelings toward life suggests a dislike that may extend to the self; however, further evidence is needed for a definitive conclusion. Reevaluate the post with a focus on self-directed emotions.'])
+('8', ['Correct', 'Good analysis of the post content. Note how the poster focuses on external factors for their difficulties and does not indicate direct blame towards themselves, which aligns with the absence of self-accusations. Maintain a clear distinction between externalizing problems and internalizing them as self-blame in future analyses.'])
+('19', ['Incorrect', 'Review the post for explicit mentions of concentration issues, rather than inferring them from related distress.'])
+
+ITER 3
+Do MS Record:
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything about self-dislike. The emotions expressed in the post are frustration and disappointment with the job search, but there is no explicit indication of self-dislike."])
+('19', ['indirectly_mention', "It is hard to keep my mind on anything for very long.###While the post does not explicitly mention concentration difficulty, the feelings of recurring nightmares, being a failure, and the overall distress expressed imply difficulty in maintaining focus. The statement 'I have nothing else to live for' suggests an inability to concentrate on anything."])
+Do MS Check Record:
+('7', ['Incorrect', 'Examine the emotional content and context of the post for any indications of self-perception, including self-dislike. Infer based on the text provided rather than assuming complete absence of information.'])
+('19', ['Correct', 'Continue to infer internal states like concentration difficulty from the context and expressed emotions. Ensure the inferences are rooted in the content of the post and relevant psychological concepts.'])
+
+ITER 4
+Do MS Record:
+('7', ['directly_mention', "I dislike myself###The post mentions feeling like a failure, having recurring nightmares of being a failure, and expressing a desire to end one's life. These statements indicate a high level of self-dislike."])
+Do MS Check Record:
+('7', ['Incorrect', 'Review the post to identify direct references to the self; avoid inferring self-dislike where it is not explicitly stated.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses on the mental scale indicate symptoms of depression, such as feeling sad much of the time, having nothing to look forward to, feeling like a failure, having little pleasure from things they used to enjoy, feeling punished, and having suicidal thoughts or wishes. These symptoms align with the criteria for a diagnosis of depression.
+
+Correct
+Continue to carefully analyze the poster's words along with the answers given on the mental health scale to make informed decisions. Remember to provide a justification for your conclusions using specific examples from the provided information. Ensure you also consider the broader context of the situation when making assessments.

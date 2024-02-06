@@ -1,0 +1,82 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I think about multiple ways of killing myself everyday but I can't bring myself to do it. I'm so done feeling so so alone. I have friends who I can talk to, but I feel like I'm burdening them everytime. I'm pretty much done with my life. my studies are going nowhere, and I have no motivation in life. I thought of running into the road, but I wouldn't want to be that selfish and traumatise some innocent driver. I thought of throwing myself off the building, but I wouldn't want my family to be burdened with that gruesome image.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###The post explicitly mentions feeling sad and feeling alone.'])
+('2', ['directly_mention', 'I feel discouraged about my future.###The post mentions having no motivation in life, and feeling that studies are going nowhere, which indicates a sense of pessimism and discouragement about the future.'])
+('3', ['directly_mention', "I feel I have failed more than the average person.###The post mentions 'my studies are going nowhere, and I have no motivation in life.' which indicates feelings of failure."])
+('4', ['directly_mention', "I do not enjoy things as much as I used to.###The post mentions 'I'm so done feeling so so alone' and 'I'm pretty much done with my life', which suggests a loss of pleasure."])
+('5', ['directly_mention', "I feel quite guilty most of the time.###The post mentions feeling guilty often in the sentence 'I'm so done feeling so so alone.'"])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything about punishment feelings."])
+('7', ['directly_mention', 'I dislike myself.###The poster mentioned feeling done with life and feeling alone, which indicates a level of self-dislike.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The poster mentions feeling like a burden to their friends, which suggests a higher level of self-criticism and self-blame than usual.'])
+('9', ['directly_mention', 'I have thoughts of killing myself, but I would not carry them out.###The post explicitly mentions having multiple thoughts of killing oneself but states the inability to carry them out.'])
+('10', ['indirectly_mention', 'I cry more than I used to.###The post indicates feeling alone and being done with life, which suggests emotional distress. The mention of not wanting to burden friends and family with gruesome images implies a fear of the consequences, which can be emotionally overwhelming and lead to increased crying.'])
+('11', ['indirectly_mention', 'I am so restless or agitated that it is hard to stay still.###The post mentions feeling alone and burdened, which suggests a high level of distress. This can manifest as restlessness or agitation, making it difficult for me to stay still.'])
+('12', ['indirectly_mention', 'I have lost most of my interest in other people or things.###The post mentions feeling done with life, studies going nowhere, and lacking motivation. These are all indicators of a loss of interest in various aspects of life.'])
+('13', ['directly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that the person is undecided about how to end their life, indicating difficulty in making decisions.'])
+('14', ['directly_mention', "I feel utterly worthless.###The post specifically mentions feeling worthless: 'I'm pretty much done with my life.'"])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###The post mentions feeling done, having no motivation, and studies going nowhere, which indicate a loss of energy and lack of enthusiasm to engage in activities.'])
+('16', ['directly_mention', 'I have not experienced any change in my sleeping pattern.###The post does not mention any changes in sleeping pattern.'])
+('17', ['directly_mention', "I am much more irritable than usual.###In the post, I mentioned that I feel so so alone and that I think about multiple ways of killing myself every day but can't bring myself to do it. These thoughts and feelings can contribute to increased irritability."])
+('18', ['directly_mention', 'My appetite is much less than before.###I mentioned that my studies are going nowhere and I have no motivation in life. These feelings of hopelessness and despair can lead to changes in appetite, specifically a decrease in appetite.'])
+('19', ['directly_mention', "I find I can not concentrate on anything.###In the post, I mentioned that I think about multiple ways of killing myself every day, but I can't bring myself to do it. This shows that I am unable to concentrate on anything."])
+('20', ['directly_mention', 'I am too tired or fatigued to do most of the things I used to do.###In the post, I mentioned that I am so done feeling so so alone and that my studies are going nowhere. This indicates that I am experiencing a high level of tiredness or fatigue, which is affecting my ability to function.'])
+('21', ['directly_mention', 'I am less interested in sex than I used to be.###The post mentions having no motivation in life and feeling alone, which can contribute to a decrease in interest in sex.'])
+Do MS Check Record:
+('1', ['Correct', "Continue to use explicit textual evidence to support your inference about the poster's feelings, as you did when identifying sadness."])
+('2', ['Correct', 'Good job identifying pessimism from the context of the post. Continue to distinguish between directly stated emotions and those inferred from the situation.'])
+('3', ['Correct', 'You appropriately inferred the feelings of failure from the explicit mention of studies going nowhere and lack of motivation. Continue to rely on direct evidence from the post to support your answers.'])
+('4', ['Correct', "Your deduction about the loss of pleasure is accurate based on the expressions of loneliness and being 'done' with life. Ensure that your interpretations are consistently grounded in the content of the posts."])
+('5', ['Incorrect', 'Although the post does express a heavy emotional burden, the mention of guilt is not clear. Instead of definite statements, interpret the feelings of being a burden as potential guilt and explore it further.'])
+('6', ['Correct', "While the student correctly notes that punishment feelings are not directly mentioned, it's important to analyze the subtext. Acknowledge the absence but consider the context of the feelings about self-harm as potentially related to self-punishment."])
+('7', ['Correct', 'Ensure to continue recognizing direct mentions or clear implications in the post that relate to the scale questions.'])
+('8', ['Correct', "Keep identifying implicit emotional states that signify self-critical or blaming attitudes, but be cautious of not overstating the poster's feelings."])
+('9', ['Correct', "Well done on directly correlating the posts' content with the question on suicidal thoughts. Ensure to continue paying close attention to the post's explicit content for accurate role-playing."])
+('10', ['Incorrect', "Avoid assuming emotions not explicitly expressed in the post. Instead, focus on deriving the poster's emotional state from direct evidence within the post. When in doubt, it's better to not infer."])
+('11', ['Correct', 'Ensure thorough analysis of the post, but remember to base your inference on explicit statements when addressing specific psychological constructs.'])
+('12', ['Correct', 'Good job identifying loss of interest from the given details about life and motivation. Keep focusing on the presented evidence for accurate assessments.'])
+('13', ['Correct', 'Be cautious not to over-generalize based on this direct evidence of indecisiveness. While it is clear in this instance, other situations may require a more nuanced analysis.'])
+('14', ['Correct', "Ensure that your interpretation of 'worthlessness' is contextually justified as it is here, but be careful not to infer feelings of worthlessness without clear indications in the future."])
+('15', ['Correct', 'Keep considering both explicit and implicit information in the post to assess psychological states. Maintain a balanced approach to avoid over- or under-inference.'])
+('16', ['Incorrect', 'Avoid assumptions about aspects not mentioned in the post. If the post does not provide information about sleeping patterns, refrain from filling in gaps without evidence.'])
+('17', ['Correct', "Ensure to maintain a balanced perspective and avoid making assumptions not supported by the post's content."])
+('18', ['Incorrect', 'Avoid making direct links to symptoms like changes in appetite unless the post explicitly mentions them; focus on psychological inference without overextending.'])
+('19', ['Correct', 'You have accurately deduced that the poster is experiencing concentration difficulty. Try to back up your claims with more specific examples from the post where possible.'])
+('20', ['Correct', "You've correctly identified signs of fatigue in the poster's experiences. Look for additional details in the post to further justify your answer if you can."])
+('21', ['Correct', 'Ensure that conclusions on unmentioned specifics always tie back to what is explicit in the post to avoid unfounded assumptions.'])
+
+ITER 1
+Do MS Record:
+('5', ['directly_mention', 'I feel quite guilty most of the time.###The post mentions feeling like a burden on friends and family, which can potentially lead to guilt.'])
+('10', ['not_mention', "Doesn't mention at all.###There is no mention of crying in the post."])
+('16', ['directly_mention', 'I sleep a lot less than usual.###The post explicitly mentions that their studies are going nowhere and they have no motivation in life, which can contribute to difficulty sleeping.'])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information about changes in appetite."])
+Do MS Check Record:
+('5', ['Correct', 'Great job identifying the expression of guilt from the context of the post. However, try to broaden your analysis to capture all aspects of guilt, including potential guilt about other things not explicitly mentioned.'])
+('10', ['Incorrect', 'Although crying is not mentioned directly, consider the overall emotional state described. Based on the provided details about feeling alone and having no motivation in life, it would be reasonable to infer that the poster might experience episodes of crying.'])
+('16', ['Incorrect', 'Review the post for implicit psychological states. Lack of motivation may correlate with disrupted sleep patterns. Use psychological knowledge to infer likely scenarios, considering the emotional distress mentioned.'])
+('18', ['Correct', 'Good recognition that the post does not mention changes in appetite. Continue to differentiate between when to infer from context and when to acknowledge the absence of information.'])
+
+ITER 2
+Do MS Record:
+('10', ['indirectly_mention', 'I cry more than I used to.###While the post does not directly mention crying, the description of feeling so alone and the mention of being done with life suggests a high level of emotional distress. It is reasonable to infer that the poster might experience episodes of crying more than before.'])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###Although the post does not explicitly mention changes in sleeping patterns, the mention of having no motivation in life can be associated with disrupted sleep patterns. It is reasonable to infer that the poster might be experiencing some level of difficulty in sleeping and sleeping somewhat less than usual.'])
+Do MS Check Record:
+('10', ['Correct', 'Maintain the careful consideration of implied emotional states to infer behaviors not explicitly mentioned.'])
+('16', ['Correct', 'Continue to draw reasonable links between expressed emotions and related behaviors such as changes in sleeping patterns.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster exhibits several symptoms of depression, such as feeling sad most of the time, being discouraged about their future, experiencing feelings of guilt and worthlessness, loss of interest in people or things, lack of energy, difficulty concentrating, and thoughts of killing themselves.
+
+Correct
+Continue to rely on concrete information provided in assessments to form conclusions. Avoid making assumptions beyond the given data. Reflect on the distinct symptoms and their alignment with DSM criteria for depression without overgeneralizing based on sparse evidence.

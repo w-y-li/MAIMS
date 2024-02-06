@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I feel like I‚Äôm screaming for help and nobody fucking hears me Nobody notices, nobody sees I‚Äôm incredibly alone Dying just sounds *right*  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness and a desperate need for help. These feelings suggest a potential risk of thwarted belongingness, as the individual feels unheard and unnoticed by others.
+

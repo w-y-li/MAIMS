@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  It's 500 out of pocket each time I go to the doc, for appointment, because it's out of pocket. Shit man, I don't know if I'm worth it. I'm a drain on my family and everyone.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post includes statements like 'I'm a drain on my family and everyone,' which indicates a feeling of being disconnected and not belonging. This suggests a potential risk of thwarted belongingness, where the person perceives themselves as a burden to others.
+

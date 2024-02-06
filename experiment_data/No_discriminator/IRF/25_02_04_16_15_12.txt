@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  It just blows my mind. Are there really people out there that wake up, don't continue to lay in bed, and just start doing things? I dunno how they do it. I don't get how someone could enjoy whatever their hobbies are, and enjoy them without ever stopping due to how pointless it is, or how pointless all of life is. I can't imagine what it's like to have a family that loves you, or to be an important person to anyone else. Some people can get so much out of life with minimal effort, and all I can really do is lay in bed and cry about how nothing makes me feel good, how I can't enjoy anything, and how incredibly lonely and alien I feel. Classic question: Why me?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Not at all true for me###The post mentions feeling incredibly lonely and alien, which indicates a lack of connection with others. It also expresses a desire to have a family that loves the poster or to be an important person to someone else. These statements suggest that the people in the poster's life would not be better off without them."])
+('2', ['directly_mention', 'Somewhat true for me###The post mentions feeling incredibly lonely and alien, which suggests a lack of positive impact on the lives of others. Additionally, the poster expresses feelings of not being able to enjoy anything or feel good, which may contribute to the belief that others would be happier without them.'])
+('3', ['indirectly_mention', "Somewhat true for me###The post mentions feeling like a burden and feeling lonely and alien. This suggests that the person may feel like they are a burden on society, although it's not directly stated."])
+('4', ['indirectly_mention', "Somewhat true for me###The post mentions feeling like a burden and feeling incredibly lonely and alien. This suggests that the person may think their death would be a relief to the people in their life, although it's not directly stated."])
+('5', ['indirectly_mention', "Somewhat true for me###The post mentions feeling incredibly lonely and alien, which suggests a sense of disconnect from others. This could contribute to the belief that people in the poster's life may wish to be rid of them."])
+('6', ['indirectly_mention', "Somewhat true for me###The post expresses a belief that the poster makes things worse for the people in their life. This is evident from their self-perception that they can't enjoy anything and feel incredibly lonely. These feelings could contribute to the belief that they have a negative impact on others."])
+('7', ['indirectly_mention', "Not at all true for me###In the post, I mention that I can't imagine what it's like to have a family that loves me or to be an important person to anyone else. This implies that I don't feel like other people care about me, which aligns with the question asking if other people care about me."])
+('8', ['indirectly_mention', "Not at all true for me###In the post, I express how incredibly lonely and alien I feel. This indicates that I don't feel like I belong, which corresponds to the question asking if I feel like I belong."])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling incredibly lonely and alienated, suggesting a lack of interaction with people who care about me. This aligns with the description in Question 9.'])
+('10', ['directly_mention', "Not at all true for me###The post clearly states that the person cannot imagine what it's like to have a family that loves them or to be an important person to anyone else, indicating a lack of caring and supportive friends. This corresponds to the description in Question 10."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling disconnected from other people and feeling lonely and alien, which suggests a sense of disconnection from others.'])
+('12', ['indirectly_mention', 'Very true for me###The post mentions feeling like an outsider in social gatherings, which indicates a sense of not belonging or feeling out of place in social situations.'])
+('13', ['indirectly_mention', "Somewhat true for me###The part of the post where I mention how I can't imagine what it's like to have a family that loves me or to be an important person to anyone else implies that I feel disconnected from other people. Although it doesn't directly say that I am close to other people, this feeling of loneliness suggests that I am not close to others."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information or mention about whether there are people I can turn to in times of need. The focus of the post is mainly on feeling disconnected, lonely, and not being able to enjoy life."])
+('15', ['indirectly_mention', "Somewhat true for me###The post mentions feeling incredibly lonely and alien, which suggests a lack of satisfying interactions. However, the post doesn't directly state whether the person has at least one satisfying interaction every day."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden, feeling like making things worse for others, and thinking that others would be happier without the poster. These thoughts are consistent with perceived burdensomeness, which is a risk factor for mental health problems such as depression and suicidal ideation.
+

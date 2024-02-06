@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Hi. Nice to meet you. I am a loser. A complete nobody that never gets noticed by others. I feel very insecure about myself. Too ugly, too boring, too awkward. I always mess things up, don't have any true real life friends. I don't do anything, just sit in front of my tv or computer when I have free time. I am not planning on killing myself but I just don't want to live anymore. I am tired of being nothing  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, insecurity, and social isolation, which are commonly associated with perceived burdensomeness, a significant risk factor for suicide.
+

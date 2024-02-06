@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I wish I was prettier. I wish I didnt feel like a burden, I wish I wasn‚Äôt so broken. I wish I was more charismatic and not weird around strangers and I wish I wasn‚Äôt so nice. I wish I didn‚Äôt feel like I‚Äôm a loser with a pathetic, boring life. I wish I wasn‚Äôt so hard to make friends with and I just wish I was different.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of being a burden to others and wanting to change fundamental aspects of their personality, which indicates a risk of perceived burdensomeness.
+

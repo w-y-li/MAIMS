@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  :(( not sure wats wrong with me. i think i‚Äôve been feeling ok lately, content. now i‚Äôm having bad thoughts again. i‚Äôm overwhelmed. i feel so alone... no one actually gives a shit about how i feel. it won‚Äôt end :( i think i was meant to commit suicide. i feel stupid for trying to be positive. I got an actual 60% on this assignment at school and it fucked with me. i cried in the bathroom stall and cut myself up like the pathetic idiot i am. i‚Äôm so tired of myself.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of loneliness, believing that no one cares about how they feel. They mention having bad thoughts and feeling overwhelmed, indicating a possible sense of social disconnection and thwarted belongingness.
+
+Correct
+Great job on identifying signs of thwarted belongingness based on the poster's expressions of loneliness and feeling unnoticed by others. However, ensure not to over-infer beyond the information provided in the post. Always base your conclusions on explicit statements or clear implications within the provided content.

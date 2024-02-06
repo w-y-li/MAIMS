@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  My hands won't do what I want them to. I know I know I've ranted about not being able to do anything artistic a thousand times now, but this is different. A few times I've forced myself to draw I was garbage, but I figured that's to be expected since I haven't done it in a while. However lately I've found playing video games much more difficult because I find myself pressing the wrong button almost purposely, or not reacting to something my brain processed seconds ago. It's even gotten to the point where typing is difficult for me--every other letter I find myself making a stupid typo, and its irritating. It shouldn't take every ounce of will and concentration to type a stupid reddit post, yet here we are........  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The post mentions feeling irritated by the difficulty of typing and not being able to do artistic things, which indicates a sense of frustration and sadness.'])
+('2', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to feeling discouraged about the future or having nothing to look forward to."])
+('3', ['directly_mention', 'As I look back on my life, all I can see is a lot of failures.###The post states that the person has previously ranted about not being able to do anything artistic and has felt like garbage when forcing themselves to draw. This suggests that the person sees these instances as failures and is likely to feel that they have failed more than the average person.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post mentions that the person finds playing video games and even typing to be difficult and irritating. This change in enjoyment and increased difficulty could indicate a loss of pleasure in activities that they once enjoyed.'])
+('5', ['directly_mention', 'I feel quite guilty most of the time.###In the post, I mention that I find it difficult to do anything artistic, and I feel irritated by making stupid typos while typing. These experiences may lead to feelings of guilt, suggesting that I feel quite guilty most of the time.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or context that directly or indirectly relates to feelings of being punished. Therefore, it does not mention punishment feelings at all."])
+('7', ['directly_mention', "I dislike myself###The post mentions the statement 'typing is difficult for me' and 'every other letter I find myself making a stupid typo, and its irritating.' These statements suggest frustration and irritation with oneself, which align with the option 'I dislike myself' in Question 7."])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual###The post mentions difficulties in performing activities such as drawing, playing video games, and typing. The statement 'I know I've ranted about not being able to do anything artistic a thousand times now' implies self-criticism. Additionally, the statement 'It shouldn't take every ounce of will and concentration to type a stupid reddit post' suggests self-blame for the difficulty in typing. These statements indicate being more self-critical or blaming than usual, which corresponds to the option in Question 8."])
+('9', ['directly_mention', "I cry all the time now.###I mentioned that I find myself making stupid typos and it's irritating, which indicates frustration and a possible inability to express my emotions properly. Crying all the time now can be a sign of emotional disturbance and a heightened emotional state."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes. It primarily focuses on difficulty with physical coordination and concentration issues."])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The post mentions feeling restless and agitated, and the difficulty of staying still.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The post mentions a loss of interest in drawing, finding video games more difficult, and having difficulty typing. These could indicate a decreased interest in activities.'])
+('13', ['directly_mention', "I find it more difficult to make decisions than usual.###In the post, I mentioned that lately I've found playing video games much more difficult because I find myself pressing the wrong button almost purposely, or not reacting to something my brain processed seconds ago. This suggests that I am experiencing difficulty in making decisions compared to my usual ability."])
+('14', ['indirectly_mention', "I do not feel I am worthless.###While the post doesn't directly mention feelings of worthlessness, I did mention feeling irritated by making stupid typos in every other letter when typing. This may indicate a sense of frustration and annoyance rather than feeling worthless. Hence, I do not feel I am worthless."])
+('15', ['indirectly_mention', 'I have less energy than I used to have###The poster mentions that they find playing video games and typing difficult, and that it takes a lot of will and concentration to do simple tasks like typing a Reddit post. These difficulties in activities could be indicative of a decrease in energy levels.'])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual###The poster mentions having difficulty sleeping because they wake up 1-2 hours early and cannot get back to sleep. Although the poster does not explicitly state a change in sleeping pattern, waking up earlier than usual can be considered a change in sleeping pattern, indicating less sleep than usual.'])
+('17', ['directly_mention', "I am more irritable than usual.###In the post, I mentioned that I find it irritating when I make stupid typos while typing and when my hands don't do what I want them to. These frustrations indicate that I am experiencing increased irritability compared to my usual state."])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###Although the post does not specifically mention changes in appetite, it does mention feeling different when engaging in activities such as drawing, playing video games, and typing. These changes in behavior can be indicative of a decrease in appetite, even if it is not explicitly stated.'])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###The post mentions difficulty in concentrating on tasks such as drawing, playing video games, and typing. These difficulties indicate a problem with concentration.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do a lot of the things I used to do.###The post mentions feeling tired or fatigued, which is reflected in the difficulties experienced in tasks such as drawing, playing video games, and typing. This indicates a higher level of fatigue than usual.'])
+('21', ['directly_mention', 'I have not noticed any recent change in interest in sex.###The post does not mention anything about the change in interest in sex. Hence, I have not noticed any recent change in interest in sex.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to the mental scale indicate a high level of depressive symptoms such as sadness, past failures, loss of pleasure, guilty feelings, self-dislike, self-accusations, suicidal thoughts or wishes, crying, loss of interest, indecisiveness, worthlessness, changes in sleeping pattern, irritability, changes in appetite, concentration difficulty, tiredness or fatigue. These responses suggest that the poster is likely suffering from depression.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I wonder what it's like to have healthy relationships and a good self image. It really sounds nice, but I'm stuck in this hellhole called depression (and anxiety).  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The mention of being stuck in a 'hellhole' and having depression and anxiety suggests a negative self-perception and a feeling of burden in the relationships and self-image aspects mentioned in the post.
+

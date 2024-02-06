@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I don't really give a shit about celebrating, because it feels like I'm celebrating nothing except for my own mental decline as the years drag on. I'm gonna sit alone in my room doing jack squat because I'm too embarrassed to ask the 1.5 friends I have what they're doing because it implies I'm a loser with no plans and also because I literally don't care. This year has been primarily a grind with very little reward. Every year we tell ourselves we will get better only for things to feel more and more blah. Everyone expects me to do something but I just don't see why. God I just wanna sleep these upcoming 24 hours away  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of isolation, low self-esteem, and a lack of motivation to socialize. The poster expresses embarrassment and disinterest in reaching out to friends, indicating a risk of perceived burdensomeness.
+

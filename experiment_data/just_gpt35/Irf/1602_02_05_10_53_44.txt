@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Do you have an animal to help you with anxiety and depression? I have been finding myself gravitate towards wanting to get an animal to help myself with anxiety and depression. I have two boys ages 6 and 11 and I think an animal would do them well too, my youngest is the biggest animal lover ever and my oldest has always wanted one. Do you find them to help with your depression and anxiety? How do? And what do you own? Thanks.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of anxiety and depression, as well as a desire to have an animal as a source of support. These could be indicative of a need for belongingness and connection, suggesting a potential risk of thwarted belongingness.
+

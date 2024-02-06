@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Yeah, so...2017 has begun and i'm sure this depression will still kill me little by little in the inside. Will be 4 years since life became a total shit, when everything changed so bad...the same place, the same motherfucking job, no gf, not enough cash, the worst thing which is i left my studies, oh, and the same bullshit everyone tells me: Everything will be fine, it's just a bad day, at least you have good health (i wish...), you seems like you have everything in life (ugh...). Well, that's all i have to say, i just wanted to share my thoughs on this place, sorry if I offend to anyone...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post implies feelings of hopelessness, dissatisfaction with various aspects of life, such as work, relationships, and financial stability. The poster also expresses frustration with others' attempts to offer reassurance, suggesting a perceived sense of burden and lack of support.
+

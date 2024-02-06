@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  There‚Äôs a bad situation in my group home that i‚Äôm unable to handle and they just say live with it and i can‚Äôt leave bc my parents are sick of me. I have nowhere to go, and this situation is making me absolutely miserable. Well then if no one reacts ill probably be homeless next week. What a fcking shitshow  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of belongingness and social support. The person expresses feeling unable to handle a bad situation in their group home and mentions that their parents are sick of them. They also mention having nowhere to go and the possibility of being homeless. These feelings of isolation and lack of support suggest a risk of thwarted belongingness.
+
+Correct
+Your analysis correctly identifies signs of thwarted belongingness based on the given information. However, continue to be cautious and avoid making assumptions beyond the presented facts, ensuring that inferences are closely tied to the content of the post.

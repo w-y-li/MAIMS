@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I don‚Äôt like people. I have isolated myself from the outside world for over six years now. I don‚Äôt want to have long conversations with no one. I just need the strongest meds I can get to combat my issues. Before I try something illegal which I have been tempting to use for some time now. Is there a way for me to achieve this without having to see a psychologist? Sorry if I‚Äôm coming off a certain way. I‚Äôm just tired and need help.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation and a desire to avoid social interactions. The mention of wanting strong medication and thoughts of trying something illegal suggest a possible risk of perceived burdensomeness, as the individual may feel overwhelmed and seek extreme solutions.
+

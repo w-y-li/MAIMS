@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I am almost 30. My net worth is close to 0. I have no inheritance. I have no friends. On my last birthday I was wished by 2 people. I am successful at my job but I am deeply unsatisfied. My fiancee just broke our engagement and emigrated to a different country after we found out I have no inheritance. My remaining parent has been diagnosed with cancer. Why should I look forward to the new year?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, lack of social support, and a sense of being a burden to others. These are signs of perceived burdensomeness, which is a risk factor for mental health issues and even suicidal ideation.
+

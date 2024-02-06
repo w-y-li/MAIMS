@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I feel like my life is falling apart and has been for awhile. I‚Äôve been feeling numb towards my boyfriend which sucks because he‚Äôs trying so hard to help and I just end up hurting him. I‚Äôve been thinking about leaving him because I want him to be happy and I haven‚Äôt been feeling anything really towards him. He just feels like a best friend to me right now. But we have been together for 7 years. My depression and anxiety was good for awhile, I was on meds but they actually made my down days worse and made me have suicidal thoughts so I stopped taking them but now it‚Äôs gotten worse again. I don‚Äôt want to kill myself but I would like to just disappear. I just want to feel again. I want to feel like myself again. I don‚Äôt know who I am anymore. The worst part of it all is that I do still have some feelings, they just aren‚Äôt towards who they should be, my BF. And that makes me feel even worse. I‚Äôm tired a lot of the time, I haven‚Äôt been eating enough and I‚Äôm scared for the future. I‚Äôm scared of change and what I‚Äôm going to ruin next. I just want to be happy again.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of numbness towards the boyfriend, thoughts of leaving him for his happiness, and not feeling anything towards him. This suggests a potential lack of emotional connection and belongingness, which can be a sign of thwarted belongingness.
+

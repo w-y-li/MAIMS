@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Hello everyone, just to preface my doctor has diagnosed me with depression, anxiety, and ocd. Recently I have been filled with self hatred. I am 5‚Äô7‚Äù and weigh 140 pounds. I am convinced I am fat even though this is a very average body weight. When I look in the mirror I think how ugly I am. People tell me I am attractive but I do not believe them. I feel like my life is a failure. I graduate college with a degree in fine arts and history with honors...this is not good enough. I feel as if I am very ignorant and perceived as such. I‚Äôm have traveled abroad three different times...yet when others tell me about their travels I feel inadequate. My dreams and goals feel absolutely impossible. When ever I go out into public I think everyone hates me and is talking about me. I also constantly google mental illness and symptoms because I am convinced something is majorly wrong with me...even though three doctors have told me I am ‚Äúnormal‚Äù. I take multiple mental health quizzes everyday to see if I have lost my mind. I am constantly asking my coworkers at work what they think about me. I am an artist and believe every work I produce is garbage. Even with people validating me I usually don‚Äôt believe them. Any advice?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling inadequate, believing that others hate them, and constantly seeking validation from others. These are signs of a possible risk of thwarted belongingness, which is a feeling of not belonging or being accepted by others.
+

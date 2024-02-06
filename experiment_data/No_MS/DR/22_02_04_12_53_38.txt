@@ -1,0 +1,21 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  What do you do after a full days work? What are your hobbies, habits, and routines? What keeps you busy? When I am not busy and productive is when I get the most depressed. Keeping my mind occupied is critical, but I also suck with routine in my life. The only things I routinely do are go to my day job, work out afterwards, and eat dinner. Other than that it is all up in the air. Just want to see how everyone else spends their time after an 8+ hour day.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentioned feeling most depressed when they are not busy and productive. This, coupled with the statement about keeping their mind occupied being critical, suggests a potential symptom of depression.
+
+Incorrect
+Be cautious not to over-interpret or diagnose based on limited information. The poster talks about feeling 'most depressed' when not busy, which could simply be a passing mood rather than clinical depression. Avoid taking a single symptom out of context as an indication of a disorder. Instead, look for patterns, persistency, intensity, and impact on daily functioning over time before suggesting a mental health condition.
+
+ITER 1
+No
+The poster mentions feeling depressed when not busy, but this could be a passing mood rather than clinical depression. More information is needed to make a firm diagnosis.
+
+Correct
+The analysis was thoughtful in recognizing that a mention of feeling depressed when idle does not necessarily indicate clinical depression. Continue to avoid over-interpreting limited information and consider differentiating between temporary emotional states and more enduring mental health conditions. Always seek additional context when assessing mental health from short social media posts.

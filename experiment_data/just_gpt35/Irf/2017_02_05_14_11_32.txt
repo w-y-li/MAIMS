@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Even when I get a bit better at life, I fall that much harder next time. There's a thought in that back of my head that says the only way I can stop it is either taking a fat dose of H to put me to sleep or hanging myself off my balcony so the whole community can see. I need someone to talk about this that knows how to cope, cause everyone in my life is fucking useless.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of hopelessness and a desire to end one's life as a way to stop the perceived burden. This suggests a risk of perceived burdensomeness which is characteristic of certain mental health problems such as depression and suicidal ideation.
+

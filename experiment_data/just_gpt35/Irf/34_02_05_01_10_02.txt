@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  My girlfriend has depression and I don't know how to deal with it. She becomes sad for no reason, and I didn't know at first, for some reason I thought it was just normal (you know, uhh, girls) so I even felt annoyed (now I feel really bad and guilty though. No need to bash me, internet). But then it gets worse. She says feels like a  piece of shit . That she's worthless and stuff. I didn't know she felt like that because apparently, she was afraid that I would think she was crazy. Any help please?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the poster's girlfriend is experiencing feelings of worthlessness and believes she is a burden to others. These are common symptoms of depression and can be indicative of thwarted belongingness, which is the perception of not having meaningful connections or relationships with others.
+

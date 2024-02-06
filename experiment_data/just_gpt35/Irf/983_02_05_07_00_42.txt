@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I just want to end it. It‚Äôs all I‚Äôve been thinking about for the past few days. I have no friends and no one will ever truly care about me. I haven‚Äôt been able to stop crying and the pain has just become unbearable. I just want it to go away. My parents and boyfriend push me to keep going and to try everyday to be happy but I just can‚Äôt fucking do it anymore. They don‚Äôt understand how hard it is. I just want it to go away. I don‚Äôt want to study and have a good job, I don‚Äôt want to live. No life will ever make up for the pain I feel. I don‚Äôt actually have the courage to go and that makes me even more pathetic.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, isolation, and a desire to end one's life due to the perceived burden they feel they are to others. These thoughts and emotions suggest a risk of perceived burdensomeness, a key psychosocial factor in suicide ideation.
+

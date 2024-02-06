@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I'm tired of having a extremely hard life, my father used crack till I was 12, beat my mom every day, then he stopped and was still impossible to deal with, now he's on cocaine and we don't talk, my mom has another kid and another husband far, I don't have family and I live in the US alone, I work 10 hours and I don't have shiiiiit, I'm just 19 and I'm so tired u know, why does it have to be so hard, I can barely pay the rent ant eat, I'm tired of not having anyone to rely since was born, well, this is just me letting go u know, srry  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of isolation, lack of support, and a burden of difficult life circumstances, which are indicative of risk of perceived burdensomeness.
+

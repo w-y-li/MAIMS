@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôm frustrated with my life. I have very few friends, and as a 20 year old college student about to turn 21 it‚Äôs driving me crazy to realize that I can‚Äôt celebrate it with anyone. My closest friends are all younger than me, and 2 of the closest are 16 (don‚Äôt worry, I met them through my job, I‚Äôm not a pedophile), so I feel pathetic for being unable to make friends my own age. It‚Äôs just plain creepy. Only thing that keeps people from calling me out is that I look only a year older than them. I‚Äôm gay, in a hyper conservative family, so I can‚Äôt please anyone in it. I live at home, so my life is restricted a lot (due to paying college expenses). My parents frequently remind me of my lack of friends and constantly question if I‚Äôm trying to sleep with every male I talk to, and particularly question my friendship with anyone younger than me. They think that because I‚Äôm gay, I‚Äôm a pedophile. The few friends I had my own age ditched me because they think me being gay is disgusting. I try approaching the LGBT groups on campus but I feel like they‚Äôll ostracize me for other reasons. I feel like I was cheated my teenage years by my restrictive parents, now I‚Äôm lonely and angry at everyone around me for having what I couldn‚Äôt. My siblings are successful, and I feel like the dissappointment and failure of the family. I have much more anger but these are the ones that keep popping up today, and I just wanted to vent about it somewhere.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', "Somewhat true for me###The post mentions feeling frustrated with one's life, feeling lonely and angry at everyone around them. These feelings could contribute to the belief that the people in their life would be better off without them."])
+('2', ['indirectly_mention', "Somewhat true for me###The post expresses a belief that the people in their life would be happier without them due to feeling like the disappointment and failure of the family. These feelings contribute to the belief that their presence negatively impacts others' happiness."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post indicates that the poster feels lonely, angry and frustrated with his life. These emotions could contribute to feeling like a burden on society.'])
+('4', ['indirectly_mention', 'Somewhat true for me###The post mentions that the poster feels like a disappointment and failure to his family. This feeling may lead to thinking that his death would be a relief to the people in his life.'])
+('5', ['indirectly_mention', "Somewhat true for me###The post mentions feelings of being frustrated, lonely, and angry at everyone around. These negative emotions may lead to the belief that people in the poster's life may wish to be rid of them, although not explicitly stated."])
+('6', ['indirectly_mention', 'Somewhat true for me###The post expresses feelings of being a disappointment and failure to the family. This self-perception might lead the poster to think they make things worse for the people in their life, even though it is not directly mentioned.'])
+('7', ['indirectly_mention', 'Somewhat true for me###The post mentions that the poster feels frustrated and alone in their life. They express that they have very few friends and are unable to celebrate their 21st birthday with anyone. This implies a lack of support and care from other people.'])
+('8', ['indirectly_mention', "Not at all true for me###The post suggests that the poster feels isolated and disconnected. They mention being unable to make friends their own age, feeling like they don't belong to LGBT groups on campus, and being abandoned by friends due to their sexual orientation. These experiences indicate a lack of belonging."])
+('9', ['directly_mention', 'Not at all true for me###The post mentions that the poster has very few friends and feels frustrated and lonely. This suggests that they rarely interact with people who care about them.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information about having many caring and supportive friends. It mainly focuses on the lack of friends and the feeling of isolation."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling frustrated with life, having very few friends, and feeling pathetic for being unable to make friends the same age. These feelings can contribute to feeling disconnected from other people and like an outsider in social gatherings.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling like an outsider in social gatherings."])
+('13', ['directly_mention', 'Somewhat true for me###The post mentions that the person is frustrated with their life and feels lonely. This suggests that they may not feel that there are people they can turn to in times of need, although it is not explicitly stated.'])
+('14', ['directly_mention', 'Not at all true for me###The post mentions that the person has very few friends and feels frustrated about not being able to celebrate their 21st birthday with anyone. This suggests that they may not feel close to other people.'])
+('15', ['directly_mention', "Somewhat true for me###The post mentions feeling frustrated with life and having few friends. This suggests that the poster may not have satisfying interactions every day, but they do have some, hence the answer 'Somewhat true for me'."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of loneliness, feeling disconnected from others, and a lack of social support. The poster expresses frustration about not being able to make friends their own age, feeling ostracized by their family due to being gay, and being cheated out of their teenage years. The answers to the mental scale also suggest feelings of being a burden on others and thinking that the people in their life would be better off without them. These factors align with the risk factors for thwarted belongingness.
+

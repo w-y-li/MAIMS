@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  And instead of enjoying the break, I want to be here less. I had maybe one hour of reflection all week where I felt grateful for this job. Grateful to be making $30k out of college. But then I fell asleep and was back it by morning. How working full time @ 24 won't allow me to survive on my own. Who am I kidding...making more money wouldn't let me survive on my own cause I'd still be depressed. Unable to adult and pay bills or do groceries or fix my house up.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a perceived burden of not being able to survive on their own despite making money and not being able to adult and handle basic responsibilities like paying bills, doing groceries or house repairs.
+

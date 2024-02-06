@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Like I just want to cry all the time because of how I look. Why would anyone think that I'm pretty or attractive?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of low self-worth and a preoccupation with appearance, suggesting a risk of perceived burdensomeness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I think the relationship btw money and ur mental health is just direct! If i have so much money i guess i wouldn't be so damn miserable! I guess peope are right, if u ain't making money u ain't living! I am just so jealous of rich people that how much they can do and enjoy their life with. Let's just all admit that happiness is really purely depend on how much freaking money you have, we need to stop telling people or ourselves that money isn't everything, this kind of denial mentality is so toxic! The more and sooner we realize it's the fact the sooner we will be able to end our lives. Don't u agree with me? It will never be better, it's just not! It's been so many years, things won't get better, period! We need to face it! I just don't have the balls to end it right now but it is the only way to get out- DEATH. I hope we all eventually have the guts to do it, new year's wish-I just hope I can die this year, let me outttt! I can't stand not one second! I need to die soon! I need to jump to the rail or something!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of extreme despair, hopelessness, and thoughts of death as the only way out. This indicates a risk of perceived burdensomeness, where the person may feel like a burden to others and believe that their death would relieve them and solve their problems.
+

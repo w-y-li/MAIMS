@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I have a sensitive topic to discuss with someone like a therapist. I'm looking for advice, but I left my last therapist because I didn't have time to see her anymore. Is there somewhere online I can go to talk to someone? I need someone I can be completely honest with and the online barrier kinda helps me with that. *Not suicidal, just looking for help*  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post indicates a desire for support and advice, but there is no mention of feeling disconnected or isolated from others, which is a key aspect of thwarted belongingness.
+

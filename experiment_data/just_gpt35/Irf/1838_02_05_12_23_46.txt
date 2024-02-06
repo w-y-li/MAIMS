@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Hey, guys! I've been looking at myself and trying to figure out why I am a wreck. A procrastinating, depressed wreck. And I figured it out. I have too many HUGE ambitions, ambitions which take a lot of time and I need to get through the beginning, but I can't. And that depresses me. I feel down for not being able to do all those big things that I want to do. So is there a known way to learn how to control ambitions? (Some of those ambitions are caused from maladaptive daydreaming)  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not mention any symptoms or signs of social isolation or disconnection from others.
+

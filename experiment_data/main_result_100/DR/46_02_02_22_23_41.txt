@@ -1,0 +1,120 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  How To Befriend Someone I Had An Awkward Past With? I had this female friend that I met almost two years ago. Both of us were really nice with each other and we were pretty good friends at first, but my introverted mind did not help with that. After a while I started to have feelings for her and I started bringing up topics that did not concern her and was too awkward. I used to always text her almost every single day of every single hour to the point that she told my friend that I was annoying her (I knew that a couple of months later). I knew that something was up and that I made her upset but I never really knew what it was. I tried many different approaches to become her friend again but it all lead back to her thinking that I want to date her (she is not the type of person who would want to date at this age). After a year or so is when I figured out that I made her uncomfortable and gave her the notion that I wanted to talk to her only to date her and nothing else. I had an idea to confront her and apologize to her and tell her the truth of what I wanted from her but I keep having panic attacks and anxiety every time I think about doing it. What do you guys think I should do? Some might say that I should leave it behind, but I did such a horrible thing to such a great person and in all my life I have never met someone so true, genuine and wholesome in my life so I cannot give her up and make her feel this way about me. Would appreciate hearing from you people by assisting me. Thanks a bunch! :) &lt;3  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time###The post mentions that I made her upset and made her uncomfortable, which indicates that I might feel sad much of the time due to the consequences of my actions.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future###The post mentions that I keep having panic attacks and anxiety when thinking about confronting her and apologizing. This suggests that I might feel discouraged about my future and uncertain about the outcome of my actions.'])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The post mentions that I did a horrible thing to someone and made her feel uncomfortable. This can be seen as a failure in my interactions with her.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post mentions that I used to be good friends with this person and enjoyed spending time with her. However, due to my actions, the friendship became awkward and I lost the enjoyment I used to have.'])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###In the post, I mentioned that I made her uncomfortable and gave her the notion that I wanted to talk to her only to date her and nothing else. This indicates that I feel guilty about my behavior towards her.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to punishment feelings."])
+('7', ['directly_mention', 'I dislike myself.###The poster states that they did something horrible and made a great person feel uncomfortable. This implies that they have negative feelings about themselves for their actions.'])
+('8', ['directly_mention', 'I am more self-critical or blaming than usual.###The poster mentions that they keep having panic attacks and anxiety every time they think about confronting the person they made uncomfortable. This indicates that they are being self-critical and blaming themselves for the situation.'])
+('9', ['indirectly_mention', "I do not cry any more than usual.###Although the post doesn't directly mention crying, the poster talks about feeling upset and making the person uncomfortable. This suggests that the poster may feel remorseful and potentially sad about the situation, but it does not indicate that they cry excessively."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to suicidal thoughts or wishes. Therefore, it does not mention this question at all."])
+('11', ['directly_mention', 'I am so restless or agitated that I have to keep moving or doing something.###The poster states that they have panic attacks and anxiety every time they think about confronting the person. This indicates a high level of agitation and restlessness.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The poster mentions that they have lost interest in maintaining a friendship with other people because they feel that the person they are addressing in the post is a true, genuine, and wholesome individual. This suggests a decrease in interest in other people.'])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that I have been trying different approaches to become her friend again but it all leads back to her thinking that I want to date her. This shows that I am indecisive about how to approach the situation and make things right.'])
+('14', ['indirectly_mention', 'I do not consider myself as worthwhile and useful as I used to.###The post mentions that I did something horrible to a great person and it makes me feel the need to apologize and make things right. This shows that I might have some feelings of worthlessness and guilt in this situation.'])
+('15', ['indirectly_mention', 'I do not have enough energy to do very much.###The poster mentions having panic attacks and anxiety whenever they think about confronting the person they had an awkward past with. Panic attacks and anxiety can be physically and emotionally draining, leading to a loss of energy and the inability to do much.'])
+('16', ['indirectly_mention', 'I have not experienced any change in my sleeping pattern.###The poster does not mention any changes in their sleeping pattern. However, they do not provide any information that suggests they have been experiencing sleep disturbances.'])
+('17', ['indirectly_mention', 'I am more irritable than usual.###In the post, I mentioned that I knew something was up and that I made her upset. This indicates that I am experiencing some level of irritability as a result of the past situation.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###I mentioned that I have been experiencing panic attacks and anxiety whenever I think about confronting her. These symptoms can often lead to a decrease in appetite or changes in eating habits, indicating that my appetite is somewhat less than usual.'])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###The poster mentions that their introverted mind did not help in maintaining their friendship, and they started bringing up topics that did not concern their friend. This indicates a difficulty in concentrating on appropriate conversations.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The poster states that they have been experiencing panic attacks and anxiety every time they think about confronting their friend. This suggests that they may be feeling exhausted and fatigued as a result of their emotional distress.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in interest in sex."])
+Do MS Check Record:
+('1', ['Correct', 'Keep considering the emotional context of the post, but be cautious not to assume emotions that are not explicitly expressed.'])
+('2', ['Incorrect', "Avoid inferring states like 'discouraged about my future' when the post does not directly convey pessimism about future outcomes; focus on the mentioned anxiety in the context of the specific situation."])
+('3', ['Incorrect', 'Carefully analyze the content of the post. Focus on what is explicitly stated without assuming emotions not expressed. Consider if feelings of failure were directly mentioned apart from the situational discomfort.'])
+('4', ['Incorrect', 'Avoid assumptions not evident in the post. The loss of pleasure should be inferred from clear statements rather than implied changes in relationship dynamics.'])
+('5', ['Correct', 'Continue to analyze the post carefully and identify explicit emotional content accurately to inform your responses.'])
+('6', ['Correct', "Further analysis may be required to infer subtle themes of punishment, but avoid assuming information that isn't present in the post."])
+('7', ['Incorrect', "Review the post and focus on what is explicitly stated or strongly implied. Avoid making claims that the post 'directly mentions' a concept if it is not clearly outlined. Be cautious not to equate the acknowledgment of a mistake with self-dislike—consider other possible feelings like regret or embarrassment."])
+('8', ['Correct', "Continue to connect emotional responses mentioned in the post, such as panic attacks and anxiety, to relevant psychological concepts like self-accusations. This correctly reflects the poster's self-critical stance. Ensure that connections are based on clear evidence from the post."])
+('9', ['Incorrect', "Review the post for emotional cues and try to avoid assumptions that aren't supported by the text. Base your response solely on the stated feelings and thoughts."])
+('10', ['Correct', 'Continue to differentiate between what is explicitly stated and what can be inferred. Avoid making assumptions beyond the scope of the provided information.'])
+('11', ['Correct', 'Continue to use evidence from the post to support your answers as you did here, referring to specific emotions and behaviors mentioned by the poster.'])
+('12', ['Incorrect', "Avoid making assumptions about the poster's feelings towards other people based on their expressions about a single individual. Instead, focus strictly on what the post reveals about their social interests without inferring unmentioned losses of interest."])
+('13', ['Correct', 'Ensure you continue to base your answers on concrete information from the post and avoid inserting unwarranted assumptions.'])
+('14', ['Incorrect', 'Be cautious not to infer feelings of worthlessness without clear evidence from the post; focus only on the information given and avoid overgeneralization.'])
+('15', ['Correct', 'Continue to use cues from the text to infer mental or emotional states that could affect behaviors such as energy levels, but be cautious not to over-generalize beyond the provided information.'])
+('16', ['Correct', "Good job on not inferring information that isn't there, such as changes in sleeping patterns, when the post provides no evidence for it."])
+('17', ['Incorrect', 'Do not infer psychological states not directly related to the content of the post. Focus on identifying explicit indicators before associating them with mental states such as irritability.'])
+('18', ['Incorrect', 'Avoid assuming specific symptoms like changes in appetite without clear evidence. Anxiety does not necessarily lead to decreased appetite. Look for more direct expressions related to eating behavior in the post.'])
+('19', ['Incorrect', "Consider the context of the poster's behavior focusing on their social interactions rather than assuming cognitive symptoms like difficulty in concentration. Look for explicit mentions or clear implications of such difficulties before concluding."])
+('20', ['Correct', "Continue to use evidence from the post to infer psychological states, such as fatigue due to emotional distress. Ensure that any inference is well-supported by the poster's expressed feelings and experiences."])
+('21', ['Correct', 'Good. When information is not present in the post, avoiding assumptions is the right approach. Focus on the given information.'])
+
+ITER 1
+Do MS Record:
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post mentions that the poster has panic attacks and anxiety every time they think about confronting the person they had an awkward past with. This suggests a sense of discouragement or pessimism about their future interactions with this person.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything about past failures in general. It only focuses on the specific situation with the female friend and the awkwardness the poster experienced."])
+('4', ['indirectly_mention', "I get as much pleasure as I ever did from the things I enjoy###The post doesn't directly mention loss of pleasure, but there are indications that the poster's actions have caused discomfort and negative emotions in the past friendship. The poster admits to making the friend upset and being aware that something was wrong. However, there is no clear statement regarding a lack of pleasure from previously enjoyable activities."])
+('7', ['indirectly_mention', "I am disappointed in myself###The post doesn't directly mention self-dislike, but the poster expresses regret and acknowledges making a mistake. The statement, 'I did such a horrible thing,' suggests disappointment in oneself for their past actions."])
+('9', ['directly_mention', 'I have thoughts of killing myself, but I would not carry them out.###The post mentions that the poster has panic attacks and anxiety when thinking about confronting the person they had an awkward past with, indicating distress and potential mental health issues. Although the post does not explicitly mention suicidal thoughts, the statement implies the presence of such thoughts without the intent to act upon them.'])
+('12', ['directly_mention', 'I have lost most of my interest in other people or things.###The post mentions that the poster has tried various approaches to become friends again but the person still thinks the poster wants to date them. This indicates a loss of interest in forming friendships with other people, as the poster is specifically focused on repairing their relationship with this individual and does not mention any interest in other social activities or connections.'])
+('14', ['indirectly_mention', 'I feel more worthless as compared to other people.###In the post, the person states that they did a horrible thing to a great person and they cannot give up on her, which suggests that they may feel more worthless compared to others.'])
+('17', ['directly_mention', 'I am more irritable than usual.###The person mentions that they keep having panic attacks and anxiety every time they think about confronting and apologizing to the girl, which indicates they are more irritable than usual.'])
+('18', ['directly_mention', 'It is hard to keep my mind on anything for very long.###The poster mentions that they have anxiety and panic attacks whenever they think about confronting their female friend. This suggests a difficulty in concentration.'])
+('19', ['directly_mention', 'My appetite is somewhat less than usual.###The poster mentions that they had feelings for their friend and started behaving awkwardly towards her. This change in behavior and the subsequent realization of making her uncomfortable could suggest a decrease in appetite.'])
+Do MS Check Record:
+('2', ['Correct', 'Your analysis captures the implied pessimism of the poster regarding future interactions. Remember to maintain objectivity without over-inferring emotions not explicitly stated.'])
+('3', ['Incorrect', "While the post doesn't explicitly mention past failures, the context of ongoing unsuccessful attempts to reconcile can be seen as indicative of past failures. Aim to capture the broader implications of the poster's experiences."])
+('4', ['Correct', 'Keep attending to subtle cues in the post that may indicate emotional states related to the questions. Maintain this level of careful analysis, but make sure to avoid making assumptions beyond what is available in the content of the post.'])
+('7', ['Correct', "Your analysis captures the essence of the poster's regret and disappointment in themselves, which aligns with self-dislike. Continue to use direct quotes and clear cues from the post to support your interpretations while avoiding overgeneralizing the poster's feelings."])
+('9', ['Incorrect', 'Do not infer suicidal thoughts unless explicitly mentioned in the post. Focus on the expressed feelings without making assumptions about extreme mental states.'])
+('12', ['Incorrect', "Be cautious not to overgeneralize based on specific situations. The poster's loss of interest is not clearly indicated; they are focused on a particular relationship, not necessarily disinterested in others or in life."])
+('14', ['Incorrect', "Avoid assuming emotions that are not explicitly stated in the post. There's no clear indication of feelings of worthlessness; focus on the information given without adding interpretations not supported by the post."])
+('17', ['Incorrect', 'Be cautious not to equate anxiety with irritability. The post mentions panic attacks and anxiety, but does not provide sufficient evidence of irritability. Stay close to the content provided rather than inferring additional emotions.'])
+('18', ['Incorrect', 'Avoid assuming psychological symptoms that are not explicitly mentioned. Stick to the information provided in the post.'])
+('19', ['Incorrect', 'Do not infer changes in appetite from unrelated behavioral descriptions. Focus only on the evidence within the post.'])
+
+ITER 2
+Do MS Record:
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The poster mentions that they did something horrible to a great person and feels guilty about it, indicating a sense of failure.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes."])
+('12', ['directly_mention', 'I have not lost interest in other people or activities.###In the post, the individual expresses a strong desire to befriend the person they had an awkward past with. They mention that they have not given up on this person and appreciate their true, genuine, and wholesome qualities. This indicates that they still have interest in building a friendship.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about feelings of worthlessness. It mainly focuses on the desire to apologize, make amends, and maintain the friendship with the person they had an awkward past with. Without any relevant information, it is not possible to gauge the poster's feelings of worthlessness."])
+('17', ['directly_mention', 'I am more irritable than usual.###The post mentions that the person made the female friend uncomfortable and upset, which suggests that the person may be experiencing heightened irritability.'])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention any changes in appetite."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention any difficulties with concentration. There is no information provided that can help me deduce the answer to this question."])
+Do MS Check Record:
+('3', ['Correct', 'Good job indicating that the poster feels a sense of failure reflecting on the past events. Continue to extract relevant emotional states from the context to answer similarly themed questions.'])
+('9', ['Correct', 'Correctly not over inferring suicidal thoughts from the post. If the content does not specifically express such thoughts, it is important not to make unfounded assumptions.'])
+('12', ['Incorrect', "Examine the post's content for indirect cues related to loss of interest, such as a decline in diverse activities or social engagements due to the described situation."])
+('14', ['Correct', 'Continue to avoid inferring emotions or feelings not evident in the post, such as worthlessness, unless explicitly mentioned or clearly implied by the context.'])
+('17', ['Incorrect', 'Review the post for emotional cues and avoid assuming symptoms that are not indicated. Assess irritability based on behaviors and words used, rather than inferring it from unrelated information.'])
+('18', ['Correct', 'Maintain your approach of not inferring information that is not present in the post. Well done on not assuming changes in appetite without evidence.'])
+('19', ['Correct', 'Remember to base your answers on explicit information in the post, avoiding assumptions not indicated by the poster.'])
+
+ITER 3
+Do MS Record:
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The poster mentions that they used to be good friends with this person, but after they started developing feelings for her and acted awkwardly, their friendship deteriorated. This suggests a decline in interest in other people, specifically their female friend.'])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The poster mentions that they had panic attacks and anxiety every time they thought about confronting their female friend and apologizing. These symptoms may indicate an increased level of irritability due to the emotional distress caused by the situation.'])
+Do MS Check Record:
+('12', ['Incorrect', "Ensure that your analysis is directly related to the post content. In this case, the post doesn't explicitly express a loss of interest in people or things; the focus is on a specific awkward relationship. Your role-play should be based on concrete information provided. Consider focusing on the emotional content expressed about this one relationship rather than generalizing to other relationships or interests."])
+('17', ['Incorrect', "Avoid making inferences about traits such as 'irritability' without clear evidence from the post. While anxiety and panic attacks are mentioned, these do not necessarily equate to irritability. For role-playing accurately, stick to emotions or behaviours expressly mentioned or reasonably deduced from the post."])
+
+ITER 4
+Do MS Record:
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of interest in people or activities."])
+('17', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to irritability."])
+Do MS Check Record:
+('12', ['Incorrect', 'Review the post to identify any subtleties suggesting a change in behavior or interest that may be relevant to the question.'])
+('17', ['Incorrect', 'Examine the context of the post for any indication of increased sensitivity, frustration, or annoyance that could imply irritability.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers on the mental scale indicate that they often feel sad, discouraged, and have a sense of past failure. They also experience guilt and self-dislike. These responses suggest the presence of depressive symptoms and indicate that the poster may be suffering from depression.
+
+Correct
+Continue to analyze the provided evidence critically, avoid overgeneralizations, and be cautious not to infer beyond what the data indicates. Remember to differentiate between the subject's own mental health and the mental health of others when analyzing posts and scales.

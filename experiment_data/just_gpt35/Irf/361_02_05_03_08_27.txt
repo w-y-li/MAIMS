@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I was hoping I wouldn't feel like complete shit because I started Prozac a couple months ago, but here I am!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate a risk of perceived burdensomeness. The poster is expressing disappointment with their experience of taking Prozac and feeling unwell. There is no indication of feeling like a burden to others.
+

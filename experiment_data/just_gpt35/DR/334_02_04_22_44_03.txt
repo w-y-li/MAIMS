@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Why girls do that? Why girls can make you feel like a shit and why do you need to cry so hard and much after them?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not provide enough information to determine if the poster is suffering from depression. The feelings of sadness and frustration after a breakup or emotional distress are common and do not necessarily indicate depression. A single post cannot accurately assess someone's mental health condition.
+

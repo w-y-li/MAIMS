@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Does the feeling of emptiness ever go away? Or will I actually like myself at some point?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of emptiness and a lack of self-liking, which can be indicative of a sense of disconnection and isolation. These feelings are often associated with thwarted belongingness, where an individual feels disconnected from others and experiences a lack of fulfillment in interpersonal relationships.
+

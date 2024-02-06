@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I'm stuck in this rut and I can't stop crying it's so hard to type and I'm in so much pain and I can't do this anymore I can't  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of being overwhelmed and in pain, which could indicate a perception of burdensomeness.
+

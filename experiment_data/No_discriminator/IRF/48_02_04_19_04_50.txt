@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I was diagnosed with major depression Nov 2015, since then I have found out that I'm allergic to ssris and few other medications. I remember how I was long before I was officially diagnosed with depression and how I was when before I realized the depression symptoms set in before that summer and I honestly think that I will never be that person anymore. Due to some schedule mishaps, I missed taking my meds on a reg day basis and I felt the same off of them as I do on them. I'm back on them to therapeutic level and nothing. I get moments of excitement but they fade away into the background. I can't think of one thing that I'm happy about. The only really thing I care about is my job. That's it. I do it very well. I've been under the care of a psychiatrist for a year now and in therapy for 2 years. Just putting that out there.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The post mentions feeling like they will never be the person they were before, and not being able to think of one thing that they are happy about. This suggests a lack of self-worth or self-esteem, but it does not directly mention thoughts of being better off gone or people being happier without them.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the perception of others or the impact of the poster's absence on others. There is no information provided that can help deduce an answer to the question."])
+('3', ['directly_mention', "Somewhat true for me###I mentioned that I think I will never be the same person again and I can't think of one thing that I'm happy about. These statements indicate that I may feel like a burden on society."])
+('4', ['directly_mention', 'Somewhat true for me###I mentioned that the only thing I really care about is my job. This suggests that I may think my death would be a relief to the people in my life.'])
+('5', ['directly_mention', 'Not at all true for me.###The post mentions that the only thing the poster really cares about is their job, which indicates that they do not think people in their life would want to be rid of them.'])
+('6', ['directly_mention', 'Not at all true for me.###The post indicates that the only thing the poster cares about is their job. There is no mention or indication that they think they make things worse for the people in their life.'])
+('7', ['indirectly_mention', "Somewhat true for me###The post mentions that the person only really cares about their job and that's it. This suggests that they may not feel a strong sense of belonging or connection in other areas of their life."])
+('8', ['indirectly_mention', "Not at all true for me###The post mentions that the person can't think of one thing that they're happy about and that the only thing they care about is their job. This suggests that they may not feel cared about by others, leading to a lack of happiness or fulfillment in this aspect of their life."])
+('9', ['directly_mention', 'Not at all true for me###The post mentions that the only thing I really care about is my job. This suggests that I do not interact with people who care about me.'])
+('10', ['directly_mention', 'Not at all true for me###The post mentions that I cannot think of one thing that I am happy about. This suggests that I do not have many caring and supportive friends.'])
+('11', ['directly_mention', "Not at all true for me###The post doesn't mention feeling disconnected from other people."])
+('12', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like an outsider in social gatherings by stating that the person feels disconnected from others and only cares about their job.'])
+('13', ['directly_mention', 'Not at all true for me###The post mentions feeling the same off medication as on medication, which indicates a lack of support from people.'])
+('14', ['indirectly_mention', 'Somewhat true for me###The post mentions being only concerned about the job, which suggests some level of closeness with coworkers or colleagues.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having satisfying interactions every day."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post displays feelings of being disconnected and feeling like an outsider in social gatherings, as well as expressing a lack of interaction with people who care about them. These are indicators of thwarted belongingness, which is a risk factor for mental health problems.
+

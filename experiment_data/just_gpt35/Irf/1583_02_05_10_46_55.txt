@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Im just so tired with life. I wanna have a day off or just maybe kill myself. I am so not seeing the good in everything rn. I have been wanting to cry for a month but I just couldn't? I am so tired. Everything's just really tiring. I just want to cry.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of exhaustion, hopelessness, and a desire to escape life. The mention of wanting a day off or killing oneself suggests a perceived burden that may lead to thoughts of suicide.
+

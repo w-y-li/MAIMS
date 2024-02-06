@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I have found that one of the main issues keeping me from being productive and moving forward is my inability to believe in myself. That is, I‚Äôm too worried about what others perceive me to be, and never being able to relax and exist in the moment. I‚Äôve had therapy and medication for depression but none of it helps. If I can‚Äôt be better or get better, what‚Äôs the point? Why shouldn‚Äôt I just kill myself? I don‚Äôt want to keep trying. Life is boring. All my wildest dreams always lead to me ending up alone in some way or another. All so I can die without hurting anyone. I‚Äôve been going over the attempts at suicide I‚Äôve made in the past, and wonder if I just can‚Äôt follow through on anything. All the self harm and pushing people away are just half measures to the real solution. I‚Äôm lost and alone, 5 dollars to whoever wants a free pass to kill me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of isolation, believing they will end up alone, pushing people away, and offering a free pass for someone to kill them. These sentiments indicate a risk of thwarted belongingness, or feeling a lack of connection and social support.
+

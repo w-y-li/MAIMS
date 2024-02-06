@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I want someone to hit me and make it look like an accident. That way, my family can claim the insurance and I would be finally free. Win win. All I could think of everyday is to wish I‚Äôd be in an accident and die right away. I‚Äôm too weak yet to kill my own self, but I‚Äôm mustering all my courage - my family can‚Äôt claim the insurance though. Any takers to hit me with your car?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of isolation and a desire for someone to induce harm, which could indicate a risk of thwarted belongingness.
+

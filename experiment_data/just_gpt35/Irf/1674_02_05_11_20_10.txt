@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I thought this year was going to be different. I thought I was finnaly going to be happy for once in my life. I thought this girl was going to be the answer I was looking for.. instead I am chasing someone that just made me irrelevant. I guess college does change someone, or I probably Fucked up somewhere along the way. Who knows! I guess I just wasn't good enough......  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feeling of being irrelevant and not being good enough, which indicates a potential risk of thwarted belongingness.
+

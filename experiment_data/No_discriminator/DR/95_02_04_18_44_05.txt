@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Sometimes I regret not killing myself Life if so pointless..No matter what I do I’m always gonna be sad. My life is going no where.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', "I feel sad much of the time.###Although I did not explicitly mention the word 'sad', I mentioned that I am always going to be sad. This indicates that I feel sad a significant amount of the time."])
+('2', ['indirectly_mention', 'I feel the future is hopeless and that things cannot improve.###While I did not directly mention feeling discouraged about my future, I stated that my life is going nowhere and that no matter what I do, I will always be sad. This suggests that I have a pessimistic outlook on the future and feel that things cannot improve.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The post mentions regretting not killing oneself and feeling that life is pointless. These feelings indicate a sense of failure and dissatisfaction with life.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post mentions always being sad and feeling that life is going nowhere. These feelings suggest a lack of pleasure and enjoyment in activities.'])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling guilty."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling punished."])
+('7', ['directly_mention', "I dislike myself###The post explicitly states that 'No matter what I do I’m always gonna be sad' which indicates self-dislike."])
+('8', ['directly_mention', "I am more self-critical or blaming than usual###The post mentions 'Sometimes I regret not killing myself' and 'My life is going no where', which suggests self-accusations and being more self-critical."])
+('9', ['directly_mention', 'I would like to kill myself.###The post directly mentions having thoughts of killing oneself. The poster states that they regret not killing themselves and that life is pointless.'])
+('10', ['directly_mention', 'I cry all the time now.###The post directly mentions that no matter what the poster does, they are always going to be sad. This suggests that they cry all the time now.'])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The post mentioned feeling sad and that life is going nowhere. These feelings can be indicators of restlessness and agitation.'])
+('12', ['indirectly_mention', 'I have lost most of my interest in other people or things.###The post mentioned regretting not killing myself and feeling that life is pointless. These statements indicate a loss of interest in life and a lack of engagement with others and activities.'])
+('13', ['indirectly_mention', 'I have greater difficulty in making decisions than I used to.###The post mentions feeling regretful and describes life as pointless and sad, which suggests a lack of motivation and hope. These feelings could contribute to difficulty in making decisions.'])
+('14', ['indirectly_mention', 'I feel utterly worthless.###The post mentions feeling regret and describing life as pointless. These statements indicate a lack of self-worth and a feeling of utter worthlessness.'])
+('15', ['directly_mention', "I do not have enough energy to do very much.###The post mentions that the person's life is going nowhere and they are always sad, indicating a lack of energy to engage in activities."])
+('16', ['indirectly_mention', 'I sleep a lot less than usual.###The post mentions feeling sad and regretting not killing themselves, which suggests a disturbed emotional state. Sleep disturbances are commonly associated with depressive symptoms, indicating a change in sleeping pattern.'])
+('17', ['directly_mention', "I am much more irritable than usual.###The post mentions that 'No matter what I do I’m always gonna be sad.' This suggests that the individual is experiencing persistent sadness, which often accompanies irritability as a symptom of depression."])
+('18', ['directly_mention', "I have not experienced any change in my appetite.###The post does not mention any changes in appetite, indicating that there has been no change in the individual's appetite."])
+('19', ['indirectly_mention', "I find I can not concentrate on anything.###The statement 'No matter what I do I’m always gonna be sad' suggests that I have difficulties concentrating, as sadness can often lead to difficulty in focusing on tasks or maintaining attention."])
+('20', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information or hints related to tiredness or fatigue."])
+('21', ['indirectly_mention', 'I have almost no interest in sex.###The post mentions feeling sad and that life is pointless, which can be symptoms of depression. One common symptom of depression is a decrease in interest in activities, including sex. As the post states that no matter what the person does, they are always going to be sad, it suggests a prolonged period of sadness and disinterest, potentially indicating a reduced interest in sex as well.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to the questions of the mental scale indicate symptoms of depression, including consistent sadness, feelings of hopelessness, self-dislike, self-critical thoughts, suicidal ideation, loss of pleasure, loss of interest, changes in sleeping pattern, irritability, concentration difficulty, and loss of energy.
+

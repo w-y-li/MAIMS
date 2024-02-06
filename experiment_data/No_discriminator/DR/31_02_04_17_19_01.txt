@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Tomorrow is my 35th birthday. So tomorrow is my 35th birthday. I really thought I would have a family, have a husband or wife and just be happy having this awesome life. Nope. At 35, I am miserably in debt, unhappy, no family and I'm very far from all of my friends. So, yay I guess.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The post mentions being unhappy and miserable, which can be indicative of feeling sad much of the time.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post mentions feeling unhappy, being in debt, and being far from friends, which can lead to feeling discouraged about the future.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to past failures."])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post mentions being unhappy and having an awesome life, which indicates a decrease in pleasure from previously enjoyed things.'])
+('5', ['indirectly_mention', 'I feel quite guilty most of the time.###The post mentions being unhappy and miserably in debt, which may contribute to feeling guilty.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding punishment feelings."])
+('7', ['directly_mention', "I dislike myself.###The post explicitly states that I am 'miserably in debt, unhappy, no family and very far from all of my friends.' These negative experiences and circumstances suggest that I likely have a negative view of myself, leading to self-dislike."])
+('8', ['directly_mention', 'I am more self-critical or blaming than usual.###The post mentions feeling unhappy and being in debt, which suggests a potential increase in self-criticism or self-blame. These negative experiences may lead me to question my choices and blame myself for my current situation.'])
+('9', ['indirectly_mention', 'I cry more than I used to.###Although I did not directly mention crying, I mentioned being unhappy and miserable. These feelings are often associated with increased emotional distress, which can lead to crying more than usual.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information or hint that could lead to an answer regarding suicidal thoughts or wishes. The focus is primarily on feelings of unhappiness, debt, and loneliness, rather than thoughts of self-harm or suicide."])
+('11', ['indirectly_mention', 'I am no more restless or wound up than usual.###The post mentions feeling unhappy and being in debt, which suggests a negative emotional state. However, it does not explicitly mention restlessness or agitation.'])
+('12', ['directly_mention', 'It is hard to get interested in anything.###The post states that the poster is unhappy and far from friends, which could indicate a reduced interest in activities or people.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything about indecisiveness."])
+('14', ['indirectly_mention', 'I do not consider myself as worthwhile and useful as I used to.###The post mentions being unhappy, in debt, and far from friends, which may imply a decrease in self-worth compared to before.'])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post mentions being unhappy and in debt, which can contribute to a decrease in energy levels.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to changes in sleeping patterns."])
+('17', ['directly_mention', 'I am much more irritable than usual.###In the post, I mentioned that I am miserably in debt, unhappy, and far from my friends. These negative experiences and feelings can contribute to increased irritability.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###Although the post does not explicitly mention changes in appetite, it does indicate unhappiness and dissatisfaction with life. Negative emotions can often affect appetite, leading to a decrease in food intake.'])
+('19', ['indirectly_mention', 'I can not concentrate as well as usual.###The post mentions being unhappy and in debt, which indicates that the person may be preoccupied with their financial situation and emotions. These factors can contribute to difficulties in concentration.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do a lot of the things I used to do.###The post states that the person is miserable and in debt, both of which can lead to increased stress and fatigue. These factors suggest that the person may be experiencing tiredness or fatigue to a greater extent than usual.'])
+('21', ['indirectly_mention', 'I have not noticed any recent change in interest in sex.###The post mentions feeling unhappy, in debt, and far from friends, but does not mention any changes in interest in sex specifically. Based on this information, I can infer that there has been no recent change in my interest in sex.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to several questions on the mental scale indicate symptoms of depression, such as feeling sad much of the time, feeling discouraged about the future, not enjoying things as much as before, feeling guilty most of the time, disliking oneself, being more self-critical or blaming than usual, crying more than usual, finding it hard to get interested in anything, considering oneself as less worthwhile and useful, having less energy than before, being more irritable than usual, having a decreased appetite, experiencing difficulty in concentration, and being too tired or fatigued to do activities they used to enjoy. These responses suggest a significant presence of depressive symptoms.
+

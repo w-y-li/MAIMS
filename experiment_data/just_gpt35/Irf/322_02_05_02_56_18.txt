@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  How do you treat someone so badly and yet maintain such a great image of yourself? How do you live with it? Especially if you're hurtful to a person, but then later act as if nothing happened?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of being treated badly and hurt by someone while they maintain a positive image of themselves. This can lead to a sense of disconnection and a lack of belonging, indicating a potential risk of thwarted belongingness.
+

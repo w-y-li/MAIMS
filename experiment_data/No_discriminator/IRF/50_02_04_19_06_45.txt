@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  (48M) I've dealt with depression and suicidal thoughts for probably \~35 years now. I've been on pretty much all the different meds, had 2 rounds of TMS (30 sessions each), and have had therapy. Nothing has made me feel any better. I don't remember any other way to feel but sad, hopeless and suicidal. I don't know how much longer I can keep going on.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Very true for me###In the post, I mentioned that I feel sad, hopeless, and suicidal. This suggests that I believe the people in my life would be better off without me, thus indicating that it is Very true for me.'])
+('2', ['directly_mention', 'Very true for me###Since I mentioned feeling sad, hopeless, and suicidal, it is likely that I also believe the people in my life would be happier without me. Therefore, it is Very true for me.'])
+('3', ['directly_mention', 'Very true for me###The post mentions feeling hopeless and suicidal, which can indicate a belief of being a burden on society and thinking that my death would be a relief to others.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any indication or mention about being a burden on society."])
+('5', ['directly_mention', "Somewhat true for me###The post mentions feeling sad, hopeless and suicidal, which could imply that the people in the poster's life may wish to be rid of them."])
+('6', ['directly_mention', 'Very true for me###The post mentions feeling sad, hopeless and suicidal, which could lead to the belief that the poster feels they make things worse for the people in their life.'])
+('7', ['directly_mention', "Not at all true for me.###In the post, I mentioned that I have been dealing with depression and suicidal thoughts for a long time. This implies that I don't feel like other people care about me."])
+('8', ['directly_mention', "Not at all true for me.###The post states that I don't remember any other way to feel but sad, hopeless, and suicidal. This suggests that I do not feel like I belong and therefore the statement 'These days, I feel like I belong' is not true for me."])
+('9', ['indirectly_mention', "Very true for me###I mentioned feeling sad, hopeless, and suicidal, which indicates that I don't have many caring and supportive friends in my life."])
+('10', ['indirectly_mention', "Not at all true for me###I mentioned that I don't remember any other way to feel but sad, hopeless, and suicidal, which suggests that I rarely interact with people who care about me."])
+('11', ['directly_mention', 'Very true for me###The post directly states that the person feels sad, hopeless, and suicidal, indicating a feeling of disconnection and being disconnected from other people.'])
+('12', ['directly_mention', 'Very true for me###The post mentions feeling like an outsider, as the person describes not knowing how much longer they can keep going on, which may imply a sense of not fitting in and feeling disconnected from social gatherings.'])
+('13', ['directly_mention', 'Not at all true for me###The post mentions feeling sad, hopeless, and suicidal, which indicates a lack of people to turn to in times of need.'])
+('14', ['directly_mention', 'Not at all true for me###The post mentions feeling sad, hopeless, and suicidal, which suggests a lack of closeness to other people.'])
+('15', ['indirectly_mention', 'Not at all true for me.###Although the post does not directly mention having satisfying interactions, the mention of feeling sad, hopeless, and suicidal suggests that the poster may not be having satisfying interactions in their daily life.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses on the mental scale indicate strong feelings of being a burden, disconnection from others, and a lack of support or belonging. These are indicative of thwarted belongingness, which is a risk factor for mental health issues and suicidal ideation.
+

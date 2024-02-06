@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Don't think 2018 will be any better for me. I'll still be lonely, will have no one to talk to and afraid to leave my house. No one even knows me except my family. No one in my neighborhood knows me. I spent weeks inside my house. Hate this life üò¢  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of loneliness and isolation, with the poster mentioning that they have no one to talk to and are afraid to leave their house. They also express that no one knows them except their family and that they spend weeks inside their house, which suggests a lack of social connections and a possible risk of thwarted belongingness.
+

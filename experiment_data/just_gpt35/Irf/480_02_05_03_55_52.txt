@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I tried to kill myself in school..I realized a caring girlfriend would be equal to 100 friends.So except trying to get things you wouldn‚Äôt like,I‚Äôm searching for a girlfriend.I prefer online since no one would be interested in me with my social skills and the red in my neck  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling isolated and lacking social skills, indicating a sense of thwarted belongingness.
+

@@ -1,0 +1,21 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Anyone ever wish they were good at something? Something. Anything. Be it something innocuous or something that can get you a kickass job. Anything from which you could derive happiness and fulfillment. I've failed at everything I've tried. Good at absolutely nothing, even after years of trying. If there were even one such thing, I could just devote myself to it and use it to keep myself busy.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of failure and a lack of fulfillment despite years of trying. These feelings of hopelessness and a lack of motivation are common symptoms of depression.
+
+Incorrect
+Be cautious not to make immediate diagnoses or assume mental health issues without comprehensive information. The post indicates feelings of underachievement and lack of success, which may suggest low mood or self-esteem issues but does not confirm depression. Explore the possibility of momentary frustration or disappointment rather than chronic conditions, and consider additional information to support a conclusion about depression.
+
+ITER 1
+No
+The post indicates feelings of underachievement and lack of success, which may suggest low mood or self-esteem issues but does not confirm depression. Additional information is needed to support a conclusion about depression.
+
+Correct
+Exercise caution to differentiate between traits of mental health issues like depression and normal variations in mood that everyone experiences. Always gather more context and look for additional signs or patterns before drawing conclusions about mental health.

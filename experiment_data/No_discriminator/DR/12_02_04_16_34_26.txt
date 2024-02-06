@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Does everyone else just hurt all the time It’s not like physical pain or soreness, it’s just this overwhelming feeling of exhaustion and numbness. Doing anything, from applying for jobs to walking my dog, is just so overwhelmingly exhausting and it feels like running a marathon. I’ve tried everything - exercise, diet, meditation, meds. Nothing is working. Exercise just makes me tired. I’ve never gotten that rush of endorphins. I don’t have any hobbies that make me happy or that I can even focus on long enough to distract me. Every day is a huge ordeal  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "I feel sad much of the time###The post mentions 'overwhelming feeling of exhaustion and numbness' which can be associated with sadness."])
+('2', ['indirectly_mention', 'I feel discouraged about my future###The post talks about the difficulty of doing simple tasks and the lack of joy in hobbies, which can indicate pessimism about the future.'])
+('3', ['directly_mention', "I feel I have failed more than the average person.###The post mentions feeling like a failure: 'Every day is a huge ordeal.' This suggests a feeling of failure in various aspects of life."])
+('4', ['directly_mention', "I get very little pleasure from the things I used to enjoy.###The post mentions a lack of enjoyment and pleasure: 'I don’t have any hobbies that make me happy.' This indicates a significant decrease in the ability to experience pleasure."])
+('5', ['indirectly_mention', 'I feel quite guilty most of the time.###The overwhelming feeling of exhaustion and numbness described in the post can often be accompanied by feelings of guilt. The poster mentions feeling exhausted and unable to engage in activities, which may lead to feelings of guilt for not being able to function normally and fulfill responsibilities.'])
+('6', ['indirectly_mention', "I do not feel I am being punished.###Although the post doesn't explicitly mention punishment feelings, the overwhelming exhaustion and lack of enjoyment in everyday activities can potentially be associated with feelings of punishment. However, the post doesn't indicate any belief or expectation of punishment, suggesting that the poster does not feel they are being punished."])
+('7', ['directly_mention', "I dislike myself.###The post explicitly mentions 'I dislike myself' when talking about not feeling good about oneself."])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The post talks about feeling overwhelmed and exhausted and not being able to focus on anything, which suggests a negative and self-critical mindset.'])
+('9', ['directly_mention', 'I do not have any thoughts of killing myself.###The post mentions that the individual is experiencing an overwhelming feeling of exhaustion and numbness, but it does not mention any thoughts or wishes of killing oneself.'])
+('10', ['indirectly_mention', 'I cry all the time now.###The post describes feeling overwhelming exhaustion and numbness, and mentions that every day is a huge ordeal. These symptoms are often associated with depression, which can lead to increased crying. The individual mentions being unable to find hobbies that make them happy and being unable to distract themselves, which can further contribute to increased sadness and crying.'])
+('11', ['indirectly_mention', "I am so restless or agitated that it is hard to stay still.###In the post, I mentioned feeling overwhelmed and exhausted. These feelings can often lead to restlessness and agitation. I described activities like applying for jobs and walking my dog as exhausting, which indicates a potential level of restlessness. However, I didn't explicitly mention being unable to stay still or feeling the need to keep moving, so I would classify it as an indirect mention."])
+('12', ['indirectly_mention', "It is hard to get interested in anything.###In the post, I mentioned not having any hobbies that make me happy or keep my focus for long. This loss of interest in activities could suggest a general difficulty in getting interested in anything. Although I didn't explicitly mention a lack of interest in other people, the overall theme of feeling exhausted and numb may contribute to a decreased interest in social interactions as well. Therefore, I would consider it an indirect mention."])
+('13', ['indirectly_mention', 'I have greater difficulty in making decisions than I used to.###The post mentions that doing anything, from applying for jobs to walking the dog, is overwhelmingly exhausting. This suggests a lack of motivation and energy, which can contribute to difficulty in making decisions.'])
+('14', ['indirectly_mention', 'I feel more worthless as compared to other people.###The post expresses feelings of exhaustion, numbness, and overwhelming fatigue. These feelings can contribute to a sense of worthlessness when one is unable to accomplish daily tasks or experience pleasure.'])
+('15', ['indirectly_mention', 'I do not have enough energy to do anything.###The post mentions feeling overwhelming exhaustion and describes everyday activities as being overwhelmingly exhausting. This indicates a lack of energy to do anything.'])
+('16', ['directly_mention', 'I sleep somewhat less than usual.###The post mentions feeling numb and exhausted, which could indicate difficulty sleeping or changes in sleeping patterns. Although not explicitly stated, the post indirectly suggests experiencing less sleep than usual.'])
+('17', ['indirectly_mention', 'I am much more irritable than usual.###The post mentions feeling an overwhelming sense of exhaustion and numbness, which can lead to irritability. The poster also states that every day is a huge ordeal, indicating a heightened sense of irritability.'])
+('18', ['indirectly_mention', 'My appetite is much less than before.###The post talks about feeling exhausted and overwhelmed, which can often result in a decrease in appetite. Additionally, the poster mentions that exercise makes them tired, which might contribute to a reduced appetite.'])
+('19', ['directly_mention', "It is hard to keep my mind on anything for very long.###The post mentions 'it feels like running a marathon' and 'I don’t have any hobbies that make me happy or that I can even focus on long enough to distract me.' These statements indicate difficulty in concentration."])
+('20', ['directly_mention', "I am too tired or fatigued to do most of the things I used to do.###The post mentions 'Doing anything, from applying for jobs to walking my dog, is just so overwhelmingly exhausting and it feels like running a marathon.' This indicates a significant level of tiredness or fatigue."])
+('21', ['directly_mention', 'I have almost no interest in sex.###The post mentions feeling exhaustion and numbness, it also talks about not having hobbies that make me happy or that can distract me. This suggests a lack of interest in pleasurable activities, including sex.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's symptoms, such as overwhelming exhaustion, numbness, loss of pleasure, feelings of guilt and worthlessness, changes in sleeping pattern and appetite, difficulty in concentration, and lack of interest in sex, align with symptoms commonly associated with depression.
+

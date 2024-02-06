@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I was called and told over the phone by my employer that ‚Äúwe have to to cut ties‚Äù because of some comments, assuming bad jokes out of recall, I wasn‚Äôt aware they upset my co-workers. My first reaction led me to punch my fist into a wall in a public area and now my mind is swirling with thoughts of candid anger. This was my first firing and I‚Äôm not processing it well. My first thought is why bother apply for other jobs when I have the reason on my conscience? Second, if I do try again, then I better embrace the bias hateful questioning about my termination. Third if I tell anyone, then I will lose everyone close to me. Fourth, if I tell my parents, I will be a shame and burden to have committed such an act. Finally, looking back, I‚Äôm tempted to end my life rather than deal with future repercussions about my termination. If you‚Äôve been fired for first time, how did you process it?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the individual feels like a burden to others, especially if they were to disclose the details of their termination to their parents or close ones. The mention of considering ending their life rather than dealing with the future repercussions suggests a feeling of being burdensome and overwhelmed.
+

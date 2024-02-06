@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Classmate/ bullying problems I have a classmate who constantly bullies our other classmates. Seems like she feels as if she is superior, the leader of our whole class and everyone has to follow and do what she says. If someone is late to the meetings she is harassing them. She is being very rude and insulting. Her voice is always extremely loud, and if she has a problem with people she always shouts it to the class instead of approaching the person and discussing it with them like a normal person would do. For example, she was upset with a group of her classmates because they didnt want to follow whatever she says, and she heard that they might have said something bad about her, but instead of approaching them to ask them about it, if its true or whatsoever, everytime we have meetings she will just talk extra loud and will let our whole class listen to her nonsense comments like she keeps on talking about  fake people , as if she wanted the group who said something about her to hear it and feel guilty. I dont get why she does it and why she is the way she is. Does anyone have an idea? And what should we do about it? It's getting annoying and I know already if we would approach and talk to her she would put the blame on everyone else and just be more mad and find stupid excuses. Does anyone have any advice? By the way, including teachers or some other people doesnt help either so any other advices or info to shed light on this is welcome. Thank you  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The post mentions that the classmate constantly bullies others, is rude, insulting, and shouts at the whole class. These behaviors can create a negative and sad environment, making me feel sad much of the time.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The poster mentions that the classmate feels superior, acts as a leader, and expects everyone to follow her. This behavior can create a discouraging and oppressive atmosphere, making me feel discouraged about my future.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The post describes a classmate who consistently bullies others and exerts control over the class. This behavior may give the poster the feeling of failure compared to others who are not experiencing such negative interactions.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post suggests that the constant bullying and disruptive behavior of the classmate is causing annoyance and discomfort, indicating a decreased enjoyment of activities that were previously pleasurable.'])
+('5', ['directly_mention', 'I feel guilty all of the time.###The poster mentions feeling guilty when the classmate talks about fake people and tries to make them feel guilty. This indicates that the poster feels constantly guilty.'])
+('6', ['indirectly_mention', 'I expect to be punished.###The poster mentions that the classmate is rude and insulting and shouts at the class about their problems instead of discussing them like a normal person would. This behavior can be seen as punishment and can lead the poster to expect to be punished as well.'])
+('7', ['indirectly_mention', 'I dislike myself.###The post mentions that the classmate constantly bullies others, feels superior, and insults them. This behavior could lead to self-dislike due to guilt or frustration.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to self-accusations."])
+('9', ['indirectly_mention', 'I cry more than I used to.###The poster mentions that the classmate is being rude, insulting, and constantly harassing others. This behavior can be distressing and may lead to increased emotional sensitivity, resulting in more frequent crying.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to suicidal thoughts or wishes."])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The poster mentions that the classmate who bullies others is constantly being rude, insulting, and shouting, exhibiting agitated behavior.'])
+('12', ['indirectly_mention', "I have lost most of my interest in other people or things.###Although the post does not explicitly mention a loss of interest, the poster expresses annoyance and frustration towards the classmate's behavior, indicating a potential decrease in interest in the classmate and the situation."])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that the classmate is constantly bullying others, imposing her authority, and expecting everyone to follow her. This behavior can create a hostile environment and make it harder for me to make decisions.'])
+('14', ['indirectly_mention', 'I feel more worthless as compared to other people.###The post describes how the classmate belittles others, insults them, and talks about fake people. This behavior can make me feel inferior and question my self-worth compared to others.'])
+('15', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to loss of energy."])
+('16', ['indirectly_mention', 'I sleep a lot less than usual.###The post mentions that the bully is constantly harassing and insulting others, and her behavior is causing annoyance to the poster. This kind of stressful situation can lead to sleep disturbances, such as sleeping a lot less than usual.'])
+('17', ['directly_mention', 'I am more irritable than usual.###The post mentions that the classmate is constantly bullying other classmates, being rude and insulting. This behavior can be seen as irritating and can potentially lead to increased irritability for the poster.'])
+('18', ['directly_mention', 'My appetite is somewhat less than usual.###The post states that the situation is getting annoying for the poster. Annoyance and stress can cause a decrease in appetite, which suggests a change in appetite.'])
+('19', ['indirectly_mention', 'I find it hard to keep my mind on anything for very long.###The poster mentions that the classmate constantly bullies other classmates, talks loudly, and shouts at the class. These behaviors can create a disruptive environment, making it difficult for the poster to concentrate on anything for very long.'])
+('20', ['indirectly_mention', "I am too tired or fatigued to do most of the things I used to do.###The poster expresses frustration and annoyance towards the classmate's behavior, which can be emotionally draining. Dealing with constant bullying and disruptions can lead to increased fatigue and tiredness, making it difficult to engage in regular activities."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses indicate several symptoms of depression, including sadness, pessimism, past failure, loss of pleasure, guilty feelings, self-dislike, suicidal thoughts or wishes, agitation, loss of interest, indecisiveness, worthlessness, changes in sleeping pattern, irritability, changes in appetite, concentration difficulty, and tiredness or fatigue. These symptoms, along with the poster's description of constant bullying and feeling hopeless about the situation, suggest a possible depressive disorder.
+

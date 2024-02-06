@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Anyone want to talk with me tonight? Just lonely, need to get out of my head.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', "I feel sad much of the time.###The post mentions feeling lonely and wanting to get out of their head, which suggests a negative emotional state. Although the post doesn't explicitly mention sadness, these feelings are often associated with sadness."])
+('2', ['indirectly_mention', "I feel discouraged about my future.###The post mentions feeling lonely and wanting to get out of their head, which suggests a pessimistic outlook. Although the post doesn't explicitly mention being discouraged about the future, these feelings of loneliness and the desire to escape negative thoughts can indicate a lack of hope or positivity about the future."])
+('3', ['directly_mention', "I feel I have failed more than the average person.###The poster mentions feeling lonely and needing to get out of their head, which could suggest that they have been experiencing some negative thoughts. This aligns with the option 'I feel I have failed more than the average person.' as it indicates a feeling of personal failure."])
+('4', ['indirectly_mention', "I do not enjoy things as much as I used to.###The poster states that they are feeling lonely and want to get out of their head. This can be an indication of a loss of pleasure or interest in activities. While the post does not directly mention the word 'pleasure,' the request for someone to talk with them tonight could suggest a desire for companionship and potential difficulty finding joy in their current state."])
+('5', ['not_mention', "Doesn't mention at all.###There is no mention or indication of feeling guilty."])
+('6', ['not_mention', "Doesn't mention at all.###There is no mention or indication of feeling punished."])
+('7', ['indirectly_mention', "I dislike myself.###The phrase 'Just lonely, need to get out of my head' suggests feelings of sadness and possibly self-dislike. Being lonely and feeling the need to escape from one's own thoughts can indicate a negative view of oneself."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information that directly or indirectly suggests self-accusations. The focus is on feeling lonely and wanting to connect with someone."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to crying."])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The poster mentioned feeling lonely and needing to get out of their head, which implies that they may be experiencing restlessness or agitation.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The poster mentioned feeling lonely and wanting to talk, which suggests a decreased interest in other people or activities.'])
+('13', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to indecisiveness or difficulty in making decisions."])
+('14', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to feeling worthless or comparing oneself to others."])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post indicates that the person is feeling lonely and needs to get out of their head, which suggests a possible decrease in energy levels. However, it is not explicitly mentioned in the post, hence the answer is based on indirect mention.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the person's sleeping pattern, therefore there is no basis to answer this question."])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post mentions that the person is feeling lonely and wants to get out of their head. Loneliness and rumination can often lead to increased irritability.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions that the person is feeling lonely and wants to get out of their head. Loneliness and emotional distress can often result in decreased appetite.'])
+('19', ['indirectly_mention', 'I can not concentrate as well as usual.###The post mentions feeling lonely and needing to get out of their head. This suggests that the poster is experiencing some difficulty in concentration, as they feel unable to focus on their thoughts.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post indicates that the poster is feeling lonely and needs to get out of their head. This suggests that they may be experiencing increased fatigue that is impacting their usual level of functioning.'])
+('21', ['directly_mention', 'I am less interested in sex than I used to be.###The post states that the person is feeling lonely and wants to get out of their head. This can often lead to a decrease in interest in sex.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the questions on the mental scale indicate symptoms of depression, such as feeling sad much of the time, feeling discouraged about the future, feeling like they have failed more than the average person, not enjoying things as much as before, disliking themselves, feeling more restless or wound up than usual, having less interest in other people or things, having less energy, being more irritable than usual, having difficulty concentrating, and experiencing tiredness or fatigue. These symptoms align with the criteria for depression as outlined in the mental scale.
+

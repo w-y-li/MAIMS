@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I'm 15 and I think this it. I think once she moves I'm gonna kill myself. I don't wanna feel so alone again and I know I won't be able to take it I'm sorry but this is definitely it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of feeling alone and the belief that the person will not be able to handle being alone again, leading them to contemplate suicide. This shows a risk of perceived burdensomeness, as the individual may feel like a burden to others and believes that ending their life is the only solution to escape the perceived burden of loneliness.
+

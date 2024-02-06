@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Sometimes without even meaning to, I will just sit here and think about the accumulative shit that went on in my childhood that has resulted in this depressed mess. Like, it isn't one thing, but rather a whole string of things that eventually connect when you think back on it. Sometimes it keeps me up at night (posting this at 5:05 am right now)  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a sense of isolation and feeling disconnected from others, which can indicate a risk of thwarted belongingness.
+

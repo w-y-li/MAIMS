@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Can‚Äôt make anyone happy anymore, what‚Äôs the point? None of my friends care despite me reaching out and my fianc√©e is fed up with my depressive shit. Don‚Äôt even think he wants to marry me any more. I can tell he resents me. I can‚Äôt fix the things that are wrong with me. Why bother with anything? Don‚Äôt wanna upset my family so I‚Äôll just keep trecking on I guess. Just needed to vent cause I don‚Äôt have any real people to talk to.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', "Not at all true for me.###Based on the statement 'can't make anyone happy anymore, what's the point?' and 'none of my friends care despite me reaching out', it suggests that the person feels unimportant and believes that they cannot bring happiness to others. This indicates low self-worth and a negative perception of their impact on others, but it does not directly say that they believe others would be better off without them."])
+('2', ['indirectly_mention', "Somewhat true for me.###The statement 'my fiancee is fed up with my depressive shit' implies that there is a strain on their relationship due to the poster's depressive state. This suggests that the poster might think that their presence negatively affects their fiancee's happiness to some extent, indicating a somewhat true response to the question."])
+('3', ['directly_mention', "Very true for me###The post explicitly mentions feeling like a burden on society and mentions that the poster can't fix the things that are wrong with them, suggesting a belief that they are a burden."])
+('4', ['directly_mention', "Somewhat true for me###The post mentions the poster's belief that their fiancee resents them and doesn't want to marry them anymore, indicating that they might believe their death would be a relief to the people in their life, although it is not explicitly stated."])
+('5', ['directly_mention', "Somewhat true for me###The post explicitly states that the poster's friends don't care despite reaching out and the poster's fiancee is fed up with their depressive state. This suggests that they feel that the people in their life wish they could be rid of them."])
+('6', ['directly_mention', "Very true for me###The post directly mentions that the poster can tell their fiancee resents them and doesn't think they want to marry them anymore. This implies that the poster believes they make things worse for the people in their life."])
+('7', ['directly_mention', "Not at all true for me###The post explicitly states that none of the friends care despite the poster reaching out. This suggests that the poster feels that other people do not care about them, which aligns with the answer 'Not at all true for me.'"])
+('8', ['not_mention', "Doesn't mention at all.###The post does not contain any information or indication about the sense of belonging. Therefore, it does not mention anything related to feeling like I belong."])
+('9', ['directly_mention', 'Somewhat true for me###The post mentions that none of the friends care despite reaching out, indicating a lack of caring and support from friends.'])
+('10', ['directly_mention', "Not at all true for me###The post mentions that the friends don't care despite reaching out, suggesting a lack of caring and support from friends."])
+('11', ['directly_mention', 'Very true for me###The post mentions feeling disconnected from other people, indicating that the person feels a sense of disconnection from others.'])
+('12', ['directly_mention', "Very true for me###The post mentions feeling like an outsider in social gatherings, indicating that the person often feels like they don't belong in such settings."])
+('13', ['indirectly_mention', "Not at all true for me###The post mentions that the poster can't make anyone happy anymore, and implies that their friends and fiancé are not supportive. This suggests that there are not people they can turn to in times of need."])
+('14', ['indirectly_mention', "Not at all true for me###The post mentions that the poster's friends don't care and their fiancé is fed up with their depressive state, indicating a lack of closeness to other people."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having satisfying interactions every day."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of disconnection from others, being a burden, and thinking that the people in their life would be happier without them. These are all indicators of risk of thwarted belongingness.
+

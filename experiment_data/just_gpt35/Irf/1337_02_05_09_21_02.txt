@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  i'm so scared and i'm scared to tell anyone. once i open up they all just run away. it's hard to be awake while i'm in such big pain. i'm so scared i wish i could go back in time. 2018 already fucking sucks but it doesn't really even matter because time is a made up concept and my suffering won't stop :)  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of being a burden and a fear of opening up to others, which are indicative of perceived burdensomeness.
+

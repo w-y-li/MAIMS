@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I feel like my life is spiraling downwards getting worse each day. My dad has ALS, my mom is stressed out to the max taking care of a husband who is a selfish unappreciative jack wagon. I have to deal with a bullish, vindictive shithead for a manager that makes me dream of breaking his kneecaps inward, no friends, no woman, no life. My faith is growing dimmer by the day because of asshats who ride in on a hypocritical high horse. My doc says with my depression, anxiety, and high blood pressure, I wont live to see 35. Most nights, virtually every night, I go to bed a bit more angry, a bit more suicidal, and hoping, praying to a god who couldn't give a rat's ass about me to either give me cancer or do not allow me to wake up. My only vent is either here, where we all fight enough of our own battles to not worry about anyone else's (I'm not blaming anyone) or smoking black and milds. That's my vent for the evening.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of social connections ('no friends, no woman, no life') and feelings of isolation, indicating a possible risk of thwarted belongingness.
+

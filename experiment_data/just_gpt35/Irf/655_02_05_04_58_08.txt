@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I hate staying at University accommodation. I haven‚Äôt made any real friends and I constantly feel homesick. I‚Äôm not severely depressed, it‚Äôs more of prolonged mild depression so I think I have Dysthymia. Can‚Äôt be certain though because I haven‚Äôt spoken to a professional yet. Every morning I wake up dreading the thought of going into work, spending 6 hours walking around a shop floor, only to end up with another 7/8 hours left until I sleep again. There‚Äôs only so much I can do in the day and it doesn‚Äôt help that I procrastinate. I have exams soon and I haven‚Äôt even started revising. I hate myself for being so lazy and idiotic. I just want to be at home. Or somewhere where I am surrounded my family and people I like. People who are on the same wavelength as me, who share my interests and have stuff in common. I have numerous days were I am happy but then I just get back home and feel so depressed because it was a one-off. Sometimes I just have these thoughts where I think that death would get rid of everything. Sometimes I wonder if anyone would care if I died. Though I don‚Äôt want to carry out these thoughts, but these thoughts are often. I just don‚Äôt want to be alone anymore, and I don‚Äôt know what to do.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of depression, isolation, and a desire to be surrounded by loved ones. The thoughts of death and wondering if anyone would care if the person died suggest a risk of perceived burdensomeness.
+

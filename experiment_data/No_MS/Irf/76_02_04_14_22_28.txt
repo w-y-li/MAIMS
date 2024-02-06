@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Hahahaüò¢ So sad that even when I'm not suicidal I know that it's a must for me to die because I don't see myself getting back up. Wow my life is over at just 22.I wish a disease snatches me away before I do something that I might regret  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses a sense of isolation and a desire for death, indicating a potential risk of thwarted belongingness.
+
+Correct
+Ensure your conclusions are always based on explicit evidence presented within the post and avoid making assumptions that extend beyond the information given. Remember to differentiate between the poster's emotions and the actual risk factors for thwarted belongingness such as lack of reciprocal care or disconnection from others. Continue to look for clear indicators of these risk factors in the posts you analyze.

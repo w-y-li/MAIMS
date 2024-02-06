@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  and things get really bad so that i can finally kill myself. I'm so sick of not able to kill myself because there is always this voice saying it's not that bad and not having enough courage because things are not that bad. There is no point anymore in trying so hard every year when nothing gets better. I'm so tired of living like this and waiting for nothing. And happy new year to everyone with mental illness and i hope this year turn out to be great for you all.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The post directly mentions being tired of living like this and wanting to kill oneself, indicating that the person may not think others would be better off without them.'])
+('2', ['directly_mention', 'Not at all true for me###The post directly mentions being tired of living like this and wanting to kill oneself, indicating that the person may not think others would be happier without them.'])
+('3', ['directly_mention', "Very true for me###The post directly mentions feeling like a burden on society: 'I'm so sick of not able to kill myself because there is always this voice saying it's not that bad and not having enough courage because things are not that bad.' This suggests that the poster feels like their existence is a burden to others."])
+('4', ['directly_mention', "Very true for me###The post directly mentions thinking that their death would be a relief to the people in their life: 'I'm so tired of living like this and waiting for nothing.' This implies that the poster believes their death would bring relief to themselves and others around them because of their perceived hopeless situation."])
+('5', ['directly_mention', 'Not at all true for me###The post mentions feeling tired of living and waiting for nothing. The mention of wanting to kill oneself and not having enough courage suggests a deep level of despair. Given this, it is unlikely that the person believes others wish to be rid of them.'])
+('6', ['directly_mention', 'Very true for me###The post explicitly mentions that the person is tired of living like this and waiting for nothing. This suggests the belief that they make things worse for the people in their life.'])
+('7', ['indirectly_mention', 'Not at all true for me###The post mentions feeling tired of living like this and waiting for nothing, which indicates a lack of hope and support from others. This suggests that other people may not care about the poster, leading to a feeling of not being cared for.'])
+('8', ['indirectly_mention', 'Not at all true for me###The post mentions feeling sick, tired, and waiting for nothing, which implies a sense of not belonging or feeling disconnected from others. Thus, the poster is likely to feel like they do not belong.'])
+('9', ['directly_mention', 'Not at all true for me###The post mentions feeling sick of not being able to kill oneself, which suggests a lack of caring and support from others. This indicates that the person rarely interacts with people who care about them.'])
+('10', ['directly_mention', 'Not at all true for me###The post expresses exhaustion and tiredness of living, as well as waiting for nothing. This implies a lack of supportive friends, indicating that the person is not fortunate to have many caring and supportive friends.'])
+('11', ['directly_mention', 'Very true for me###The post mentions feeling disconnected and not fitting in with others in social gatherings. This directly reflects the experience of feeling like an outsider in social gatherings.'])
+('12', ['indirectly_mention', 'Not at all true for me###Although the post does not directly mention feeling disconnected from other people, the mention of feeling tired of living and waiting for nothing might indicate a lack of connection and support from others, leading to a disconnection from them.'])
+('13', ['indirectly_mention', 'Not at all true for me###The post mentions feeling tired of living like this and waiting for nothing, which suggests a lack of hope and motivation. This could imply that the person does not feel there are people they can turn to in times of need.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything about being close to other people or their level of closeness to others."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to having satisfying interactions every day."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a high risk of perceived burdensomeness based on the answers to the mental scale questions. The person strongly agrees that they are a burden on society, make things worse for the people in their life, and feel disconnected from other people. They also strongly believe that their death would be a relief to the people in their life. These thoughts reflect a heightened perception of being a burden and may indicate a risk of perceived burdensomeness.
+

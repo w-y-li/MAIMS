@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I've always seen pills as the  cry for help  suicide method, but at the same time, I've also heard about people who take some pills, drink some Jack Daniels and peacefully die in their sleep. How deadly is this suicide method really? What are the chances that someone who tries this method ends up waking up feeling sick rather than dying without realizing it?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates thoughts of self-harm and suicide, which can be symptoms of thwarted belongingness, a risk factor for mental health problems.
+

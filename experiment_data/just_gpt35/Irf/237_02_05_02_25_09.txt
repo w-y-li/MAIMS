@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Hi, My parents love me, unconditionally, they want the best for me, they have sacrificed a lot for me to come to where I am now, I got a high score in my final exams and I want to become a politician, but my parents won't let me because of the  sins  that will be committed, I am religious, the reason I want to become a politician is because my native culture is DYING in my country, the my culture is part of the majority ethnic group, our ethnic group's culture is being wiped off, the government stopped teaching my country's history so children become less patriotic, the police are corrupted, and many more atrocities are committed by the government. It is my dream, but if I ditch my parents I would want to kill myself, I would not be able to hold in the guilt. My dad also believes that if the elders of the party order you to do something and you don't do it, because it is not moral or just plain stupid,they will kick you off the party, can't I just create my own party? This post may be a little stupid, but I need some advice. Thank you so much! :) PS: Yeah, I know politicians are crooks, especially in my country, but I am becoming one also because of this reason, too many crooks in my country's government. :P  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feeling guilty and contemplating suicide if they were to go against their parents' wishes. This suggests a sense of burden and feeling like a liability to others, which indicates a risk of perceived burdensomeness.
+

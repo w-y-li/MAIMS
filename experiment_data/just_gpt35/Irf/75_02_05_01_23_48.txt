@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I don‚Äôt know why I am so fucked up but I never feel like I can trust my parents word. My siblings are completely self successful and on their straight path to be coming everything the world wants them to be but me? I‚Äôm stuck in reverse. Sitting at home too anxious or exhausted to even shower or brush my teeth. My parents tell me they love me and they don‚Äôt care how long it takes me to succeed but I don‚Äôt believe them. I want to... but a part of me will always never believe them.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates the individual's belief that they are a burden to their parents, as they mention feeling stuck, anxious, and exhausted. They express doubt and lack of trust in their parents' love and support, suggesting a risk of perceived burdensomeness.
+

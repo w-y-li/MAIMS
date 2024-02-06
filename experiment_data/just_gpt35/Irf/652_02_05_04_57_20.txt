@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I just need some interaction, I‚Äôm trying really hard not to cut myself right now. I‚Äôm addicted and it‚Äôs a problem. My day was shitty, but I‚Äôd like to hear about yours.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of isolation and a desire for social interaction. The mention of self-harm as a coping mechanism and a self-acknowledged addiction indicate a potential risk of thwarted belongingness.
+

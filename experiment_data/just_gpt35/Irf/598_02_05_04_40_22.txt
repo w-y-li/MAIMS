@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I was taking 40mg Celexa for Anxiety disorder. It wasn't working so well so my Psychiatrist put me on Effexor. Here was his tapering off plan: 1st week: 30mg Celexa &amp; 37.5 Effexor 2nd &amp; 3rd week: 20mg Celexa &amp; 75mg effexor 4th week: 10mg Celexa &amp; 150mg Effexor 5th week: Psychiatrist appointment Now, i'm on week 3 taking 20mg Celexa &amp; 75mg Effexor and i'm starting to get very depressed. I am not having suicidal thoughts and if i did i would go straight to the ER. But i am having depression. So my question is, should i keep on pushing through ? Go back to 30mg Celexa &amp; 37.5mg Effexor ? Start 10mg Celexa (Maybe stay on 20mg) &amp; 150mg Effexor a couple days early to get a higher dose of Effexor in my system ? It's strange because my anxiety hasn't been bad since starting. The reason i'm asking here is that my psychiatrist is on holidays and i dont see him until mid January. Any help would be appreciated. Thanks  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate any risk of thwarted belongingness. Thwarted belongingness refers to the perception of feeling disconnected or isolated from others, which is not explicitly mentioned in the post.
+

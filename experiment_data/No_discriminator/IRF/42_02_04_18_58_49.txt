@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Work was my only way out of the house and I have 0 friends who would talk to me outside of work I can't go pub till next Friday when I get paid I can't go OK much longer I'm gonna relapse soon my music isn't helping  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The post suggests that the person feels lonely and isolated, as they mention having zero friends outside of work and feeling the need to go to the pub when they get paid. However, there is no direct indication that the person believes others would be better off if they were gone or that they would be happier without them.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the person's perception of others being happier without them. The focus is on their own loneliness, financial restrictions, and coping mechanisms."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post implies feelings of isolation and loneliness, which can often lead to feeling like a burden on society.'])
+('4', ['directly_mention', 'Somewhat true for me###The post mentions feeling like a burden, indicating that the poster may believe their death would be a relief to others.'])
+('5', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person has 0 friends outside of work and feels lonely. Feeling like no one wants to be around them can lead to thinking that people wish they could be rid of them.'])
+('6', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to making things worse for the people in their life. Therefore, I cannot determine the answer to this question based on the post."])
+('7', ['indirectly_mention', 'Somewhat true for me###The post mentions that the poster has no friends outside of work and they feel lonely. This suggests that other people might not care about the poster, but it is not mentioned explicitly. Therefore, I deduce that other people caring about me is somewhat true for me.'])
+('8', ['directly_mention', "Not at all true for me###The post clearly states that the poster has zero friends who would talk to them outside of work and they feel like they don't belong. This strongly indicates that feeling like they belong is not at all true for me."])
+('9', ['directly_mention', 'Very true for me###The post clearly states that the person has 0 friends outside of work who would talk to them, indicating a lack of interpersonal connections and people who care about them.'])
+('10', ['directly_mention', 'Not at all true for me###The post mentions that the person has 0 friends, indicating a lack of caring and supportive friends in their life.'])
+('11', ['directly_mention', 'Very true for me###The post explicitly mentions that the poster has no friends who would talk to them outside of work, which indicates a feeling of disconnect from other people.'])
+('12', ['indirectly_mention', 'Somewhat true for me###Although the post does not directly mention feeling like an outsider in social gatherings, the mention of having zero friends who would talk to them outside of work suggests a certain level of social isolation and potential difficulties fitting in or feeling accepted in social settings.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not contain any information relevant to question 13. The poster only mentions their lack of friends and their need to go to the pub."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not contain any information relevant to question 14. The poster only mentions their lack of friends and their need to go to the pub."])
+('15', ['indirectly_mention', "Somewhat true for me###The post mentioned that the poster has zero friends outside of work who would talk to them. This implies a lack of satisfying interactions outside of work. However, the post doesn't explicitly state whether or not the poster has any satisfying interactions every day, so the answer is uncertain. Based on the information provided, I would say it is somewhat true for me."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a lack of social connections and feelings of being a burden on society. The poster mentions having zero friends outside of work and feeling like their music isn't helping. The responses to the mental scale questions also indicate a sense of isolation, disconnection from others, and feeling like they make things worse for the people in their life. These factors align with the concept of thwarted belongingness, which is a risk factor for certain mental health problems.
+

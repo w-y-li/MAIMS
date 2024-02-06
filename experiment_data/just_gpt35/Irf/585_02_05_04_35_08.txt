@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I am suicidal, but for the most part the feeling of suicide comes in waves. Right now it feels like a tsunami and I‚Äôm trapped under water.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being trapped and overwhelmed, along with the mention of tsunami and being under water. This suggests a high level of distress and a possible risk of perceived burdensomeness.
+

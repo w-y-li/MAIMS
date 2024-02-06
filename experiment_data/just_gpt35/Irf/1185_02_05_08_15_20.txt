@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I'm tired, I'm trying so hard, I want to be happy but I don't know what to do, I have no one to talk to and no matter how I try it seems like I can never be better or good enough. I don't know what to do, I want to overdose but have nothing and I'm to much of a pussy to cut deep enough. I don't know what to do. I'm trying not to but I don't know if I can  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of burden and worthlessness, expressed through thoughts of self-harm, wanting to be good enough, and not having anyone to talk to. This indicates a risk of perceived burdensomeness, which is a significant factor in many mental health problems, including depression and suicidal ideation.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Who do I have? Help me in hell, my friend (my friend) I won't shed a tear Let them see me in pain again Hello, from the dark side in Does anybody here wanna be my friend? (my friend) Want it all to end Tell me when the fuck is it all gon‚Äô end? Voices in my head Telling me I'm gonna end up dead So save me, before I fall So save me, I don't wanna be alone So save me, before I fall So save me, I don‚Äôt wanna be alone  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses a strong desire for connection and belonging, as evident from the repeated mention of wanting friends and not wanting to be alone. The use of words like 'hell' and 'pain' also imply a high level of distress and emotional suffering. These feelings of isolation and desperation suggest a potential risk of thwarted belongingness, which is a psychological construct associated with suicidal thoughts and behaviors.
+

@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  what's a friendship?  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate any symptoms or topics related to depression. It is a general question about friendship, which does not provide enough information to suggest that the poster is experiencing depression.
+
+Correct
+Continue to avoid over-inference and remain cautious not to diagnose without sufficient evidence. Keep focusing on concrete information provided in posts before drawing conclusions about mental health.

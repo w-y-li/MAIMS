@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I can‚Äôt believe I‚Äôve driven a beloved friend to the point of not being able to bear a conversation with me after almost 6 months of no contact. I lose the will to live each and every day.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the poster feels responsible for driving their friend away and that they are losing the will to live, which suggests a possible risk of perceived burdensomeness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Today had to leave work because my depression was so bad that i started having panic attacks. I couldnt talk to any of my coworkers because if i opened my mouth to talk i would start breaking down. eventually i managed to ask if i could go home early because I wasnt feeling well. I cant even do my job anymore because my depression is so bad.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the individual feels like a burden to others as they feel unable to talk to their coworkers and had to leave work early due to their depression and panic attacks. This suggests a perceived burden on the person's part.
+

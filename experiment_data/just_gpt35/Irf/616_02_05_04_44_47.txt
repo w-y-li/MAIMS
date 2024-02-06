@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôve been in a serious depressive episode for a couple months and I‚Äôve always been able to say ‚Äúat least I do good in school‚Äù. I need to do good so I can go to a good university after I graduate from this shitty community college and after studying my ass off I thought I actually did well on my midterms but I just barely scraped by. I can‚Äôt get over how awful I feel and I know I‚Äôm overreacting. I know it‚Äôs not the end of the world and I can improve my grades but I feel like a fucking idiot who can‚Äôt do anything right and I know all of my professors are probably laughing at how terrible my tests were. All I want to do is cut myself and lay in bed during spring break because I don‚Äôt deserve to do anything else. Why can‚Äôt I just think rationally about this shit instead of blowing it out of proportion? It‚Äôs probably my autism coming through. I told myself it would get better. It‚Äôs not. I planned March 20th for my suicide. I cant fucking wait.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows signs of social isolation and feelings of worthlessness, indicated by the desire to cut oneself, believing others are laughing at them, and feeling like they don't deserve to do anything else. These feelings are often associated with thwarted belongingness, a risk factor for suicide.
+

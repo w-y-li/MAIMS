@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  One think i wont ever understand is my friends getting extremly sad when i mention that i want to kill myself. They always somehow manage to talk me out of it but i dont u derstand why they would. My life's shit and i dont look forward to amything anymore. I really just want to die. Thats literally the only thing that would make me happy. Shouldnt they want the best for me? Why do they always keep me from being happy? And why does it work?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the individual feels like a burden on others and questions why their friends try to stop them from being happy. This suggests a risk of perceived burdensomeness, where the person may believe that their existence or problems are causing distress and inconvenience to those around them.
+

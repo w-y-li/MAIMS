@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  thinking about the time of my death is the only thing that leaves me alone, do any of you feel that way totootootoowa  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of loneliness and a desire for solitude, which can be indicative of thwarted belongingness. The mention of thinking about the time of one's death as a way to be alone further supports this.
+

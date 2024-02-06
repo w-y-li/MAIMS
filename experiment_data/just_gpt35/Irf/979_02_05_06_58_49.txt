@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  How do you deal with depressed parents? Should I recommend they talk to a therapist or a doctor? She tells me the only reason she lives is because of me, her son. I know if I left, it would devastate her, but I want to live in a different part of the country, on my own. What do I do?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows that the person's depressed parent relies heavily on them for their own well-being, indicating a sense of burden. The poster expresses the desire to live independently, suggesting that they may feel trapped or overwhelmed by their role as their parent's main source of support.
+

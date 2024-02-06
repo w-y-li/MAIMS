@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  my life is worth nothing, yesterday my roommate raped me and now i'm scared of him, me and my bf broke up, it's just time to end this, if i end it now i won't feel like i have anything that i might as well finish, i have set the time, 6:30 tonight. is there any better way than a gun  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, being scared of the roommate, and expressing the intention of ending their own life. These factors suggest a risk of perceived burdensomeness, wherein the individual feels like a burden to others and believes that ending their life would solve the perceived problem.
+

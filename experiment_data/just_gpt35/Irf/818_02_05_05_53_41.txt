@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  a few years ago my dog was feeling well ill... i just remember that one night hearing that it had to be put down. and ever since it happened i have been depressed...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong emotional attachment to the dog that was put down, and since then, the individual has been experiencing depression. This suggests a potential risk of thwarted belongingness, which refers to feelings of not being able to form meaningful connections or being disconnected from others.
+

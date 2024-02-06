@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I just turned 20 and am beginning college this year since I haven‚Äôt had money for it and I don‚Äôt count with my moms support in any way. Last year a lot of things happened that made me spiral into a terrible depression and lost my job because of it. Since then things have just progressively gotten worse and I can‚Äôt find a new job. Where I live there isn‚Äôt much places to work at since it‚Äôs a small town yet I can‚Äôt seem to find in one place. It makes me super sad to see that everyone is doing fine while I‚Äôm doing nothing with my life and it makes me feel like a failure. I know I could be doing so much better and greater things but I just don‚Äôt know where to start. I wish I had my moms support like other kids do but it‚Äôs not the case and I have to do things on my own, but I feel like everything is a giant and I‚Äôm a speck of dust, what can I do to better my situation or feel better and more positive about it?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of support and connection, as the poster mentions not having their mother's support and feeling like a failure compared to others. This suggests a potential risk of thwarted belongingness, as the individual may feel isolated and disconnected from others.
+

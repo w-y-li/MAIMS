@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I feel like this time I won‚Äôt stop myself from going through with it. I can‚Äôt bear this pain any longer. These knots in my heart, and these twists in my stomach. Constantly feeling gutted by the very act of existence. Life is pain. It‚Äôs not worth it and I know I‚Äôm worthless. I‚Äôm a fuck up going nowhere. I don‚Äôt want to breathe I don‚Äôt want to think I don‚Äôt want to feel anymore. I don‚Äôt want to be me. I hate myself. I loathe myself. I am a piece of shit. I am human scum and I am tired of taking up space. Fuck my life fuck this world fuck me. God hates me. The universe loves to watch me suffer. I‚Äôm down in a hole and I don‚Äôt think that I can be saved.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of worthlessness, self-hatred, and a desire to not be oneself. These feelings often indicate a lack of belongingness, as the poster may feel disconnected and alienated from others, which can increase the risk of thwarted belongingness.
+

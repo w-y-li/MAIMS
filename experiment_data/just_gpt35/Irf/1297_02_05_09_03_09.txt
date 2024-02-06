@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  When I was severely depressed, my therapist recommended using distraction to prevent myself from being consumed by flashbacks of former trauma. This was necessary during that time; now my mood is stable (I'm consistently exercising and meditating), but I continue to need to distract myself. I've spent entire days with earbuds and listening to podcasts because of this habit. Does anyone else deal with this? Has anyone broken the habit?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of perceived burdensomeness. The individual is seeking to relate to others and find out if anyone else has experienced the same issue and how they have dealt with it.
+

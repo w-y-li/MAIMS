@@ -1,0 +1,90 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Martin Luther King Jr. And depression  As my sufferings mounted I soon realized that there were two ways in which I could respond to my situation -- either to react with bitterness or seek to transform the suffering into a creative force. I decided to follow the latter course - King JR. Today got me thinking...We need to figure out how we can turn our discontent, anxiety, anhedonia, insecurity, self hatred, and the meaninglessness that we all feel into real world change that we can see, touch , and feel proud of in a tangible form. We need to figure out as a community, how we can re-direct our negative feelings into helping others, and maby in the process we will be helping ourselves. I think alot of us feel meaningless, and have a hard time creating motivation to get us out of bed, besides our rare and far between moments of clarity. If we could find a way to re-direct our negative energy and encourage eachother to work towards causes we believe in, we could change the world while at the same time changing ourselves.At this point in my life, I have a  good job  and financial security, but I still experience horrible depression and that underlying feeling that im a failure and living a  meaninglessness existence . I have come to find that the only time I really feel  alive , or any feeling remotely resembling happiness is when I am either on drugs, or when I am helping people and making a difference. The latter of those two has actually improved my life, and I am hoping that as a depression community, we can motivate eachother to help re-direct our sadness to further causes that are meaningful to us, and hopefully squash our cynicism.  The Law of Conservation of Energy, states that energy can neither be created nor destroyed; energy can only be transferred or changed from one form to another   
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time###In the post, I mentioned feeling horrible depression and the underlying feeling of being a failure and living a meaningless existence. These feelings are indications of sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future###I stated that I have a good job and financial security, but I still experience horrible depression and a feeling of being a failure. This indicates a sense of pessimism about the future.'])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The poster mentioned feeling like a failure and living a meaningless existence.'])
+('4', ['directly_mention', 'I do not enjoy things as much as I used to.###The poster mentioned experiencing anhedonia and feeling a lack of pleasure in their life.'])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###In the post, I mentioned feeling a sense of guilt and self-hatred, which indicates that I feel guilty a good part of the time.'])
+('6', ['directly_mention', 'I do not feel I am being punished.###In the post, I did not mention feeling punished or expecting punishment, indicating that I do not feel I am being punished.'])
+('7', ['indirectly_mention', 'I dislike myself.###The post mentions feelings of self-hatred and a sense of living a meaningless existence, which can be interpreted as indicating self-dislike.'])
+('8', ['directly_mention', 'I am more self-critical or blaming than usual.###The post explicitly states that I criticize myself for all of my faults and blame myself for everything bad that happens.'])
+('9', ['directly_mention', 'I do not have any thoughts of killing myself.###The post mentions that the person experiences depression and feelings of failure and meaninglessness but does not mention any thoughts or wishes of killing themselves.'])
+('10', ['indirectly_mention', "I cry more than I used to.###The post mentions experiencing depression and feeling alive when helping others. While it doesn't explicitly mention crying, an increase in crying can be inferred from the emotional struggles described."])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###In the post, I mentioned that I feel restless or agitated when I am not either on drugs or helping people. This indicates that I am more restless or agitated than usual, as stated in the specific option.'])
+('12', ['directly_mention', 'I have lost most of my interest in other people or things.###In the post, I explicitly mentioned that I feel a sense of meaninglessness existence and have a hard time creating motivation to get out of bed, except for rare moments of clarity. This implies that I have lost most of my interest in other people or things, as stated in the specific option.'])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post mentions the struggle of finding motivation and the difficulty in redirecting negative energy. This implies that the person may have a harder time making decisions, as they are likely experiencing indecisiveness.'])
+('14', ['directly_mention', 'I feel more worthless as compared to other people.###The post explicitly mentions feeling like a failure, living a meaningless existence, and stating that they feel utterly worthless. These statements directly address the feeling of worthlessness.'])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The poster mentions feeling a sense of meaninglessness and depression in their life which could be indicative of a loss of energy. They also mention rare moments of clarity which suggests a decrease in overall energy levels compared to previous times.'])
+('16', ['indirectly_mention', "I sleep somewhat less than usual.###The poster suggests having difficulty with motivation and getting out of bed which could indicate a change in their sleeping pattern. However, since the post does not directly specify how much less the poster is sleeping, only 'somewhat less', it is inferred that it is not a significant change or a lot less than usual."])
+('17', ['indirectly_mention', 'I am much more irritable than usual.###The post mentions feelings of discontent, anxiety, anhedonia, insecurity, and self-hatred, which are all associated with irritability. Additionally, the post talks about redirecting negative energy, which suggests that the poster may be experiencing increased irritability compared to their usual state.'])
+('18', ['indirectly_mention', 'My appetite is much less than before.###The post talks about feeling depressed, experiencing a sense of failure, and living a meaningless existence. These feelings are often associated with changes in appetite, particularly a decrease in appetite.'])
+('19', ['directly_mention', "I can not concentrate as well as usual.###The post mentions 'I have a hard time creating motivation to get us out of bed, besides our rare and far between moments of clarity.' which indicates difficulty in concentration."])
+('20', ['directly_mention', "I get more tired or fatigued more easily than usual.###The post mentions 'I still experience horrible depression and that underlying feeling that im a failure and living a meaninglessness existence.' which suggests an increase in tiredness or fatigue."])
+('21', ['directly_mention', 'I have almost no interest in sex.###In the post, I mentioned that I have a hard time creating motivation to get out of bed and that I feel meaningless. These symptoms are often associated with depression, which can lead to a decrease in interest in sex.'])
+Do MS Check Record:
+('1', ['Correct', 'While the evaluation of sadness is correct, be cautious not to infer feelings that are not expressed directly in the post. Continue to use direct references from the post to substantiate your answers, as you did effectively here.'])
+('2', ['Correct', 'Good job identifying pessimism from the expressed sentiments. Always make sure to connect your inferences to specific statements in the post to maintain accuracy in your interpretations.'])
+('3', ['Correct', 'Good job on identifying and utilizing direct references from the post to answer the questions. Continue to provide specific examples from the text to support your answers.'])
+('4', ['Correct', 'Well done on spotting the mention of anhedonia, which relates directly to loss of pleasure. Ensure you maintain a clear and direct correspondence between the post content and your answers to the mental scale questions.'])
+('5', ['Incorrect', 'Review the post and focus on identifying any explicit mentions of guilt or similar emotions. If the post does not directly state feelings of guilt, do not assume its presence.'])
+('6', ['Correct', 'Continue to differentiate between the absence of certain feelings and the presence of others as stated in the post. This careful analysis is key in avoiding over-inference.'])
+('7', ['Correct', 'Ensure that you maintain this level of detailed analysis to understand the nuances in the posts relating to self-perception. However, avoid asserting explicit feelings that the original post did not directly mention.'])
+('8', ['Incorrect', 'Carefully distinguish between what the post implies and what it states explicitly. The post does not directly say that the poster blames themselves for everything bad that happens; it reflects self-criticism in a general sense.'])
+('9', ['Incorrect', 'The post does not provide any explicit evidence of suicidal thoughts or wishes. Avoid assuming details not explicitly presented. Instead, focus on what the poster has shared. If the post does not mention suicidal thoughts, remain neutral or acknowledge the absence of this specific information.'])
+('10', ['Correct', 'While the post does not explicitly mention crying, your inference is reasonable given the context of depression and emotional struggles. When drawing such conclusions, ensure they are justifiable based on the emotional tone and content shared by the poster.'])
+('11', ['Correct', 'Continue to closely connect your answers with specific content from the post, ensuring that your interpretations accurately reflect the sentiments expressed.'])
+('12', ['Correct', 'Ensure that your interpretations are supported by explicit statements from the post, as you have done here, and avoid making assumptions that are not rooted in the content.'])
+('13', ['Correct', 'Ensure to maintain this level of attention to the implicit content of posts that might not directly mention a feeling or condition, but suggest it through related struggles.'])
+('14', ['Correct', 'Continue identifying and connecting explicit statements from the post with relevant psychological constructs, as this strengthens the validity of your analysis.'])
+('15', ['Correct', 'Good job identifying the underlying indications of loss of energy from the post content. Continue to look for such implicit cues and associate them with the psychological concepts in question.'])
+('16', ['Correct', "Well done for not over-inferencing from the post. You've correctly identified a potential alteration in sleep pattern without jumping to conclusions not supported by the given text. Maintain this cautious approach in future answers."])
+('17', ['Correct', 'Ensure that you continue to rely on explicit information contained within the post and connect it to psychological theory, as you did with irritability.'])
+('18', ['Correct', 'Good use of inference from the expressed feelings to conclude about changes in appetite. Keep basing your answers on the emotional state described in the post.'])
+('19', ['Correct', 'Continue to make connections between the statements in the post and the implications on the mental state of the poster, as you did with clarity and concentration.'])
+('20', ['Incorrect', 'Be cautious not to infer symptoms directly from expressions of emotions. Explore the post for specific mentions or indications of the symptom in question, such as physical descriptions of fatigue or specific examples of tiredness affecting daily activities.'])
+('21', ['Incorrect', 'Carefully analyze the entire post for direct mentions or plausible implications related to the mental scale question. Avoid assumptions not supported by the content. There is no explicit mention of changes in sexual interest; focus only on the information provided.'])
+
+ITER 1
+Do MS Record:
+('5', ['directly_mention', "I feel guilty all of the time.###The post explicitly states that the poster feels guilty all of the time by mentioning 'the underlying feeling that I'm a failure and living a meaningless existence.' This suggests persistent guilt."])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual.###While the post doesn't directly mention self-accusations, it implies a high level of self-criticism by stating 'if we could find a way to re-direct our negative energy and encourage each other to work towards causes we believe in, we could change the world while at the same time changing ourselves.' This indicates a tendency to blame oneself and be self-critical."])
+('9', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###In the post, the person mentions experiencing horrible depression and feeling like a failure, which can contribute to feelings of tiredness or fatigue. They also mention that the only time they feel alive or happy is when they are helping others, indicating that they may not have enough energy or motivation for other activities.'])
+('20', ['not_mention', "Doesn't mention at all.###The post does not provide any explicit evidence of suicidal thoughts or wishes. Although the person discusses their depression, feelings of meaninglessness, and their need to redirect negative energy, there is no mention of thoughts or wishes related to ending their life."])
+('21', ['indirectly_mention', 'I am less interested in sex than I used to be.###The post mentions the feeling of anhedonia, which refers to the inability to experience pleasure. This can indirectly suggest a decrease in interest in sex.'])
+Do MS Check Record:
+('5', ['Incorrect', "Carefully analyze the post for explicit mention of guilt; the poster discusses feeling like a failure but does not specify feeling guilty 'all of the time'. Focus on the information provided and avoid assumptions not based on the post."])
+('8', ['Correct', 'Continue to make reasoned inferences where the post provides suitable context. The self-critical perspective is appropriately identified from the negative self-view expressed in the post.'])
+('9', ['Incorrect', 'Review the post for any emotional states that could indirectly refer to typical symptoms or feelings associated with suicidal thoughts or wishes. Fatigue alone is not a direct indicator of such thoughts; assess the existence of hopelessness, worthlessness, or explicit thoughts of self-harm for a more accurate inference.'])
+('20', ['Correct', 'Your cautious approach to not infer what is not present in the post is commendable. However, ensure to consider indirect references or associated symptoms that may imply tiredness or fatigue, in order to provide a thorough analysis of the content.'])
+('21', ['Correct', 'Well done on making a thoughtful inference from the indirect mention of anhedonia in the post to a decreased interest in sex. Continue to use relevant psychological knowledge to interpret subtle cues within social media posts.'])
+
+ITER 2
+Do MS Record:
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling guilty."])
+('9', ['indirectly_mention', 'I do not have any thoughts of killing myself.###The poster mentions experiencing depression and feeling like a failure, but does not express any explicit thoughts of wanting to kill themselves. Therefore, I infer that they do not have any thoughts of killing themselves.'])
+Do MS Check Record:
+('5', ['Incorrect', 'Examine the emotional content of the post to assess for underlying feelings, such as guilt, which could be implied by expressions of self-hatred and feelings of failure. Look for indirect cues that could suggest guilt, rather than only searching for explicit mentions.'])
+('9', ['Correct', "Continue to differentiate between direct and indirect mentions of specific feelings or thoughts. Avoid assuming thoughts or feelings that aren't supported by the text, as you did well by not inferring suicidal thoughts from the poster's expression of depression."])
+
+ITER 3
+Do MS Record:
+('5', ['indirectly_mention', 'I feel guilty a good part of the time###In the post, the poster mentions feelings of self-hatred and a sense of failure. These feelings are often associated with guilt. Therefore, it can be inferred that the poster feels guilty a good part of the time.'])
+Do MS Check Record:
+('5', ['Correct', 'Ensure that your inferences are always grounded in the text, and continue to draw connections between emotions mentioned and related feelings, like guilt, in a careful manner.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the poster's responses to the mental scale questions, they score high on several items related to depression, including sadness, pessimism, past failure, loss of pleasure, guilty feelings, self-dislike, self-accusations, loss of interest, worthlessness, loss of energy, changes in sleeping pattern, irritability, changes in appetite, concentration difficulty, and tiredness or fatigue. These responses indicate a high likelihood of depression.
+
+Correct
+The student's analysis aligns with the provided post and mental scale responses. However, to avoid overgeneralization in future tasks, ensure that your deductions are always directly supported by clear evidence from the data presented.

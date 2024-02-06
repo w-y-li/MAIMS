@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Want to read my texts about depression? In past few days I've been writing little texts about my feelings and depression ro help me get the bad feelings out of my mind.. I was wondering if my you guys were interested in reading them?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster explicitly mentions writing texts about their feelings and depression. This indicates that they are experiencing depression and seeking a way to alleviate the negative emotions associated with it.
+

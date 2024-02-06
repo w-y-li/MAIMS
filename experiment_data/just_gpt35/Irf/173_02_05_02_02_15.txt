@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I think I'm about to have my first ever mental breakdown. I'm losing it. I'm so alone and I'm so sad.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement suggests feelings of overwhelming sadness and loneliness, which are common indicators of perceived burdensomeness.
+

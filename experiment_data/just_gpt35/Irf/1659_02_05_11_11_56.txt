@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Hi Reddit, my name is Robert and I have some issues to share with you. I am 20 years old, I am from Romania and I have ADHD. In middle school I had some issues with social integration. My parents were strict with me and didn't let me go outside with other people. That's how I got isolated. In high school I've tried to make friends again to be a new begin but it didn't work. At 16 years old I've started to masturbate everyday and at 17 to drink alcoholic drinks. I thought that this would numb my pain. Because of that I've failed my final exam BAC (exam to enter in any university). Now I don't have a job and I have suicidal thoughts and I think I'll kil myself someday. My parents doesn't want to let me go to psychotheraphy they think is useless. What should I do? Every month is worse!! I really need help!!!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of burden and hopelessness. The poster shares feelings of isolation, failed social integration, lack of support from parents, and experiencing suicidal thoughts. These factors suggest a risk of perceived burdensomeness.
+

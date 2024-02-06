@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I'm so broken. She's gone and I fucked everything up. I can't even think of what to say honestly. I'm just falling deeper and deeper into a hole and this is the only thing I can think of to do at this point.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being broken and self-blame for causing the loss. The poster expresses a deepening hole and insinuates that this is the only solution. This suggests that they may perceive themselves as a burden to others and feeling hopeless.
+

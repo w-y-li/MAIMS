@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I feel the depression crawling back right how. I could feel my heart getting heavier by the day. I‚Äôm feelin stressed, tired, sick, and sleepy all at the same time. I‚Äôm having more bad days then good and it doesn‚Äôt feel fun to wake up. I‚Äôm not looking forward to the day like I did a while ago. Need ideas, inspiration, advice, anything to help me get out of this funk. Stopped seeing my therapist last month due to money/funding. I‚Äôve been going on and off for 5 years, the past 2 years have been consecutive. Is it normal to feel like this after you stop therapy?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of depression, stress, and fatigue. The individual mentions feeling burdened and expresses a lack of motivation for daily activities. Stopping therapy due to financial reasons may have contributed to an increase in symptoms and a sense of burden.
+

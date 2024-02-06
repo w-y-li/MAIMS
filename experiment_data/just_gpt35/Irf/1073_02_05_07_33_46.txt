@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I‚Äôm at the point where I‚Äôm past sadness I just feel empty or hollow. I go through the motions of life everyday but I‚Äôm not present . I‚Äôm supposed to be getting better but I‚Äôm becoming something much worse and I live in my head all the time. I can‚Äôt care about anyone anymore and I certainly don‚Äôt care about myself. I‚Äôm only still alive because I know my family wouldn‚Äôt take it well and it would be selfish of me to put this pain on them. I just dont see the point in trying anymore  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of emptiness, detachment, and a lack of interest or motivation in life. The individual also mentions not caring about themselves or others anymore, as well as contemplating the idea of suicide but not acting on it due to concerns about the impact on their family. These thoughts and emotions align with the risk of perceived burdensomeness, in which the person may believe they are a burden to others and that their existence is causing pain to loved ones.
+

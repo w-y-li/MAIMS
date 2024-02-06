@@ -1,0 +1,21 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Do you use nostalgia to escape the present or uncertainty of the future? I have been on a nostalgic trip for awhile and it makes me feel better, but then sad again when I come back to the present. I have had quite an uncertain year since graduating, so maybe it is that quarter-life crisis. Have you been through this phase?  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling better when engaging in nostalgia but then feeling sad again when returning to the present. This may indicate mood fluctuations commonly seen in individuals with depression.
+
+Incorrect
+Avoid overgeneralizing based on limited information. Experiencing sadness or mood fluctuations does not necessarily indicate clinical depression. Consider the context and look for evidence of sustained or more severe symptoms before suggesting a diagnosis.
+
+ITER 1
+No
+Experiencing sadness and mood fluctuations does not necessarily indicate clinical depression. The poster mentions feeling better during their nostalgic trip, which suggests a temporary escape from present circumstances. The uncertainty of the future and the quarter-life crisis may contribute to their fluctuating emotions.
+
+Correct
+Continue to avoid overgeneralizing based on limited information and maintain a balanced view of the emotional states described. Remember that the acknowledgement of fluctuating emotions and the search for temporary relief do not necessarily imply a depressive disorder. Always look for consistent patterns and intensity of symptoms that meet diagnostic criteria before considering a diagnosis.

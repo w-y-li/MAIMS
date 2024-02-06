@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  The only reason im not dead yet is bc of my friends amd family. I could neber hurt them like that. But its draining. I fucking hate it. I hate it with every fiber. But i have to stay alive so at least this bullshit paim doesn't affect others. This is bullshit.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of burden and obligation towards others. The person expresses a strong desire to not hurt their friends and family, suggesting they feel responsible for their well-being. The mention of staying alive despite hating it and feeling drained indicates a sense of obligation to protect loved ones from the pain they are experiencing.
+

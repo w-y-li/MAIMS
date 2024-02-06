@@ -1,0 +1,120 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I starve myself When I get depressed, I just can not eat. Everything sounds so gross and eating just seems difficult. I’m a very small person, 5’4 and 100 pounds. It’s something I’m self conscious about but weight gain has always been a struggle for me. I’ll go through periods where I’m doing well and eat 3x a day and manage to put on a few pounds, but then something happens and I slip back into my old ways and the weight falls right back off. Does anyone else do this?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###The post mentions feeling depressed and not being able to eat, which indicates sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post mentions struggling with weight gain and slipping back into old ways, which suggests a lack of optimism about the future.'])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###In the post, I mentioned that weight gain has always been a struggle for me and that I go through periods where I manage to put on a few pounds but then slip back into my old ways. This suggests that I feel like I have failed in my attempts to gain weight and maintain it.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###In the post, I mentioned that when I get depressed, everything sounds gross and eating seems difficult. This implies a decrease in pleasure from food, which can be seen as a loss of pleasure.'])
+('5', ['not_mention', "Doesn't mention at all.###The post doesn't mention any feelings of guilt or punishment."])
+('6', ['directly_mention', 'I feel guilty a good part of the time.###The post indicates that the poster feels self-conscious about their weight and mentions that weight gain has always been a struggle. This suggests a possible feeling of guilt regarding their size and difficulty in maintaining weight.'])
+('7', ['indirectly_mention', 'I dislike myself.###The post mentions that the person is self-conscious about their weight and considers weight gain a struggle. This suggests a dissatisfaction with their self-image, which can be indicative of self-dislike.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to self-accusations. There is no information to make any deduction about this aspect of self-criticism or blaming."])
+('9', ['indirectly_mention', 'I have thoughts of killing myself, but I would not carry them out.###In the post, I mentioned that I starve myself when I get depressed. Depressed individuals often experience suicidal thoughts, even though they may not intend to act on them. Thus, I indirectly mention that I have thoughts of killing myself, but I would not carry them out.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to crying. There is no mention or indication of crying more or less than usual, nor any indication of wanting to cry but being unable to."])
+('11', ['directly_mention', "I am so restless or agitated that it is hard to stay still.###The post mentions feeling restless and agitated when depressed, which aligns with the option 'I am so restless or agitated that it is hard to stay still.'"])
+('12', ['directly_mention', "I have lost most of my interest in other people or things.###The post mentions losing interest in eating and finding everything gross and difficult, which indicates a loss of interest. This aligns with the option 'I have lost most of my interest in other people or things.'"])
+('13', ['indirectly_mention', "I find it more difficult to make decisions than usual.###The post does not directly mention indecisiveness, but the statement 'I’ll go through periods where I’m doing well and eat 3x a day and manage to put on a few pounds, but then something happens and I slip back into my old ways and the weight falls right back off' suggests a pattern of fluctuating behavior. This inconsistency in eating habits could indicate difficulty in making decisions related to eating and maintaining weight."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention feelings of worthlessness or make any references to self-perception. The focus is primarily on the struggle with weight gain and the behavior of starving oneself when feeling depressed."])
+('15', ['indirectly_mention', "I have less energy than I used to have.###The post mentions that the person starves themselves when they get depressed, which indicates a loss of appetite and energy. They also mention that everything sounds gross and eating seems difficult, which further suggests a lack of energy. However, the post does not explicitly state that the person does not have enough energy to do very much or anything at all, so the answer is 'I have less energy than I used to have.'"])
+('16', ['indirectly_mention', "I have not experienced any change in my sleeping pattern.###Although the post does not directly mention changes in sleeping pattern, it does describe the person's struggle with weight gain and periods of eating well followed by slipping back into old ways. This suggests a pattern of behavior related to eating habits rather than sleep. Therefore, the answer is 'I have not experienced any change in my sleeping pattern.'"])
+('17', ['indirectly_mention', 'I am much more irritable than usual.###The post states that the poster starves themselves when they get depressed. Restricting food intake can lead to irritability due to the lack of nutrients and energy.'])
+('18', ['indirectly_mention', 'My appetite is much less than before.###The post mentions that when the poster gets depressed, they cannot eat and find everything to be gross. This suggests a decrease in appetite.'])
+('19', ['indirectly_mention', 'I can not concentrate as well as usual.###The post mentioned that when the poster gets depressed, they cannot eat and everything sounds gross. This indicates a lack of concentration as well.'])
+('20', ['indirectly_mention', 'I get more tired or fatigued more easily than usual.###The post mentioned that the poster starves themselves when they get depressed, which could lead to tiredness or fatigue.'])
+('21', ['directly_mention', 'I have almost no interest in sex.###The post mentions that the person experiences periods of depression and difficulty eating when depressed. Changes in interest in sex can be a common symptom of depression, therefore it can be inferred that the person has almost no interest in sex.'])
+Do MS Check Record:
+('1', ['Correct', "Ensure to continue connecting emotional descriptors in the post to relevant mental scale questions, as you did by associating 'depressed' with 'sadness'."])
+('2', ['Incorrect', 'Avoid assuming feelings not explicitly stated in the post. Focus on observable information before inferring beliefs about the future.'])
+('3', ['Correct', 'Your answer aligns well with the information provided in the post. Continue to focus on the explicit details mentioned by the poster in future assessments.'])
+('4', ['Correct', 'Good inference regarding the loss of pleasure. Ensure you always differentiate between direct information and logical implications based on the context given.'])
+('5', ['Incorrect', 'Review the content of the post carefully for any explicit or implicit indications of guilt before making a conclusion. Avoid assuming emotions not clearly expressed in the post.'])
+('6', ['Incorrect', "Be cautious of overgeneralizing or inferring feelings that aren't directly stated in the post. Focus on what the poster conveys explicitly, rather than making assumptions about unmentioned emotions."])
+('7', ['Correct', 'You have correctly interpreted the self-consciousness related to weight as a possible sign of self-dislike. Continue to analyze posts for implied emotions related to the self.'])
+('8', ['Correct', "Good job in not inferring information that isn't present. Be cautious about making assumptions without clear evidence in the post."])
+('9', ['Incorrect', 'Avoid making assumptions about suicidal thoughts based solely on a statement about depression. While depression can be associated with such thoughts, not every individual experiencing depression will have them. Focus on the explicit content of the post for accurate interpretations.'])
+('10', ['Correct', 'Good job at sticking to the information provided. Since the post does not mention crying, your response should reflect the absence of that information. Continue to answer only what the post reveals to maintain accuracy.'])
+('11', ['Incorrect', 'Review the post for direct evidence of agitation without inferring details not presented.'])
+('12', ['Correct', 'Ensure future responses strictly adhere to information provided in the post to sustain accuracy.'])
+('13', ['Incorrect', "Carefully analyze the post for any indirect cues related to the question. The fluctuating eating habits described may point to some difficulties with decision-making. Explore how these eating patterns might reflect on the individual's ability to make decisions more generally, while avoiding the leap to any definitive conclusions not supported by the text."])
+('14', ['Correct', 'Continue to avoid inferring psychological states like worthlessness where they are not clearly indicated in the post. Stay objective and base your answers only on the information provided.'])
+('15', ['Incorrect', 'Review the post focusing on possible indirect indicators of energy levels, such as the impact of not eating on physical wellbeing. Consider how starvation affects both physical and mental energy, then answer accordingly.'])
+('16', ['Incorrect', 'Analyze the post for any subtle signs that might indicate changes in sleeping patterns, perhaps as a consequence of depression or eating habits. If no evidence is found, it is important not to assume an answer. Instead, acknowledge the absence of information regarding sleep in the post.'])
+('17', ['Correct', 'Continue to utilize evidence from the post to support your answers, being sure to avoid assumptions not supported by the post itself.'])
+('18', ['Correct', 'Ensure that your interpretations remain anchored to the specific details shared in the post, as you have done here, to avoid overgeneralization.'])
+('19', ['Incorrect', 'Ensure to use concrete information from the post to answer the questions. Avoid assuming psychological states not explicitly mentioned. Focus more on directly related evidence rather than inferential leaps.'])
+('20', ['Correct', 'While the reasoning regarding the link between starvation and fatigue is more direct, caution is still advised. Be sure to differentiate between physical symptoms directly caused by actions and emotional states, which may not have a clear connection.'])
+('21', ['Incorrect', 'Avoid making unsupported assumptions about symptoms not explicitly mentioned in the post. Stick to information provided and acknowledge when the post does not contain specific details related to the mental scale question.'])
+
+ITER 1
+Do MS Record:
+('2', ['directly_mention', "I feel discouraged about my future.###The post states 'I'll go through periods where I'm doing well and eat 3x a day and manage to put on a few pounds, but then something happens and I slip back into my old ways and the weight falls right back off.' This suggests a pattern of inconsistent behavior and difficulty in maintaining progress, which can be associated with feelings of discouragement about the future."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not provide any explicit or implicit indications of guilt. There is no mention of guilt-related emotions or experiences."])
+('6', ['directly_mention', 'I expect to be punished.###The poster mentions that when they get depressed, they struggle to eat and everything seems gross. This may indicate a feeling of being punished, as the difficulty with eating can be seen as a consequence of their depression.'])
+('9', ['not_mention', "Doesn't mention at all.###Although the post describes periods of struggling with weight gain and slip-backs, it does not mention anything about suicidal thoughts or wishes. Therefore, the post does not provide any information regarding this question."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to agitation."])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###While the post does not directly mention indecisiveness, the fluctuating eating patterns described indicate a struggle with making consistent decisions about eating. This suggests that decision-making may be more challenging for me.'])
+('15', ['indirectly_mention', 'I do not have enough energy to do very much.###The post mentions that when the poster gets depressed, they cannot eat and everything sounds gross. This suggests a lack of energy and motivation to eat, indicating that the poster does not have enough energy to do very much.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding changes in sleeping patterns, so it cannot be determined."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything about concentration difficulty."])
+('21', ['indirectly_mention', 'I am less interested in sex than I used to be.###The post mentions feeling depressed, which can have an impact on interest in sex. The poster also mentions weight gain struggles and periods of not eating, which may contribute to a decrease in interest in sex.'])
+Do MS Check Record:
+('2', ['Correct', 'Ensure to maintain objective inference based on the given information and avoid adding assumptions not present in the original post.'])
+('5', ['Correct', 'Good job recognizing the scope of information within the post. Be cautious not to assume feelings that are not explicitly or implicitly stated.'])
+('6', ['Incorrect', 'Review the post for specific expressions of emotion that could be linked to punishment feelings, but avoid assuming feelings that are not explicitly mentioned. Explore alternative interpretations of the behavior without inferring a desire for punishment.'])
+('9', ['Correct', 'Continue to carefully differentiate between what is explicitly stated and what is not mentioned. Stay objective and avoid making assumptions beyond the provided information.'])
+('11', ['Incorrect', "Look for implicit signs of the mental state in question in the post's content. Do not assume the absence of direct mention equates to irrelevance."])
+('13', ['Correct', 'Continue to make educated inferences based on indirect evidence from the post.'])
+('15', ['Correct', 'While your answer aligns with the post, try to elaborate on how the lack of eating due to depression implies a lack of energy. Additionally, explore if there are other subtle cues in the behavior that could suggest energy loss.'])
+('16', ['Correct', "Good job refraining from making assumptions when the information isn't there. For future tasks, consider also reflecting on any indirect signs that might suggest changes in sleeping patterns without stating it as a certainty unless the post mentions it."])
+('19', ['Incorrect', "Do not assume a lack of information on a specific topic equates to it not existing. Given the context of depression and eating habits, it would be insightful to consider if these issues might plausibly affect the poster's concentration, and answer reflectively."])
+('21', ['Correct', 'Your insight into how depression correlates with changes in sexual interest is appropriate. The depicted struggles like depression and eating difficulties suggest a likelihood of altered libido, which you identified correctly.'])
+
+ITER 2
+Do MS Record:
+('6', ['indirectly_mention', 'I feel more restless or wound up than usual.###The post mentions periods where the poster is doing well and eating regularly, but then something happens and they slip back into their old ways. This indicates a pattern of fluctuating behavior, which could be interpreted as feeling more restless or wound up during those periods of slipping back into old ways.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to punishment feelings. There is no explicit mention of feeling punished or expecting punishment, and no specific expressions of emotions that could be linked to punishment feelings."])
+('19', ['indirectly_mention', "I find it hard to keep my mind on anything for very long.###Although the post does not directly mention concentration difficulty, it does discuss the poster's struggle with eating when they are depressed. This suggests that their mental state may affect their ability to focus and concentrate, which aligns with the option 'It is hard to keep my mind on anything for very long.'"])
+Do MS Check Record:
+('6', ['Incorrect', 'Carefully analyze the descriptive emotions in the post to assess if they align with feelings of punishment. The lack of appetite and the struggle with weight could be seen as self-punishment in the context of depression.'])
+('11', ['Correct', 'You recognized that the post does not explicitly mention punishment feelings, which is accurate. Continue to differentiate between stated feelings and inferred emotions without overreaching.'])
+('19', ['Correct', 'Ensure to maintain the balance between acknowledging indirect cues in posts and avoiding assumptions not supported by the content. In this case, you correctly inferred that the poster’s depressive state could affect concentration without overreaching. Continue to carefully analyze the posts for such indirect information and deduce your answers accordingly.'])
+
+ITER 3
+Do MS Record:
+('6', ['indirectly_mention', 'I feel I may be punished.###The poster mentions that when they get depressed, they lose their appetite and find eating difficult. They also mention that weight gain is a struggle for them. These statements suggest a negative association with food and a potential feeling of punishment related to eating.'])
+Do MS Check Record:
+('6', ['Incorrect', 'Be cautious not to infer feelings of punishment unless the poster explicitly mentions such emotions. Focus on the concrete information provided and look for verbatim phrases that indicate a punishment feeling rather than interpreting the behavior as indicative of such.'])
+
+ITER 4
+Do MS Record:
+('6', ['directly_mention', "I feel I am being punished.###The poster directly states that they feel punished: 'I starve myself When I get depressed, I just can not eat.'"])
+Do MS Check Record:
+('6', ['Incorrect', 'Carefully analyze the language used in the post. The poster does not explicitly state they feel punished, but discusses their challenges with eating and weight during periods of depression. Instead, deduce their feelings from the situations they describe without assuming or inferring emotions that are not clearly expressed.'])
+
+ITER 5
+Do MS Record:
+('6', ['indirectly_mention', 'I feel I am being punished.###In the post, the poster talks about how they cannot eat when they get depressed and how they struggle with weight gain. This implies that the act of not being able to eat and losing weight may feel like a form of punishment for them.'])
+Do MS Check Record:
+('6', ['Incorrect', 'Review the original post carefully to identify explicit feelings related to punishment without making assumptions. The post describes a pattern of behavior linked to depression and eating, rather than feelings of being punished. Try to answer based on what is shared, not what is inferred.'])
+
+ITER 6
+Do MS Record:
+('6', ['indirectly_mention', 'I do not feel I am being punished.###The post does not explicitly mention feelings of punishment, but it does mention being self-conscious and struggling with weight gain. This suggests that the person may not feel like they are being punished, but rather they have difficulty with their weight.'])
+Do MS Check Record:
+('6', ['Correct', 'Continue to analyze the underlying emotions and contribute to the feelings mentioned in posts, avoiding assumptions not supported by the content.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers on the mental scale indicate symptoms of depression, such as sadness, pessimism, feelings of failure, loss of pleasure, self-dislike, loss of interest, changes in appetite, difficulty concentrating, and fatigue.
+
+Correct
+Ensure to maintain an objective view and avoid over-interpreting the data with unwarranted assumptions about personality or unmentioned issues. It is important to base your assessments strictly on the information provided within the post and responses to the mental health scale, just as you have done correctly here. Continue to distinguish between the poster and others when analyzing mental health situations and remain cautious not to attribute others' conditions to the individual you are assessing.

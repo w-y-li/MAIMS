@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I do. Every time I look back on my past and even in my present I try to justify my shitty behavior because I keep thinking that maybe I'm just a good person on the inside. I treat my family and friends like shit and get angry at them for things that are mostly my fault. I feel like I'm not the person I thought I was.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of feeling disconnected and distant from family and friends, as well as expressing self-blame and guilt for treating them poorly. These feelings and behaviors suggest a risk of thwarted belongingness, which is characterized by a perceived lack of social support and a sense of not fitting in or being understood by others.
+

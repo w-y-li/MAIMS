@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I don't think Im enough. I was never enough. I was never the best one, the prettiest one, the smartest one. I was always that goofy girl that laughs at everything. That girl with no talents. That girl that nobody has a crush on. That girl who is used by her  friends . Why do the worst things always happen to me? So many people I cared about left. I forgot how it feels to be happy. I just want to end it all. I just want to die. Nobody will care. Nobody ever cared about me. Noone cares about my feelings.Why? I care about everyone, Im always there to help, always there to listen, to be a shoulder to cry on. But when I need a hug, or someone to listen to me, everyone is  busy .  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden to others and feeling unimportant or unvalued in relationships.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  to take the  I want to die every second of the day  edge off - but don't be fooled, the depression hasnt gone anywhere. numb, but depressed. I tried to cry today, I can't even remember the last time I did. I was upset, pissed, you name it - I just couldn't fucking cry. *that's all the pill - turns me into a fucking zombie.* anyways, almost outta frustration I just started wailing on my head. it worked, I cried and it felt great to finally let that shit out despite my head throbbing! love sucks. money sucks. love especially sucks. I'll dust my self off tomorrow and try again, but depression's a worthy adversary. the war's exhausting but it's worth it.. or at least it's supposed to be ?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, hopelessness, and frustration, suggesting a possible risk of perceived burdensomeness. The individual expresses a sense of numbness and depression, along with thoughts of wanting to die and feeling like a worthy adversary to depression.
+

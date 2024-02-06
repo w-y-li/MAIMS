@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I called out of work today, and no I wasn't hung over from a night of partying. I was working until 11 last night. In the last two days I worked 30 hours, and in the next two days I'm working 21. I've been extremely depressed lately to the point where I found myself seriously considering suicide. I've been in a really bad place and haven't had the time to process any of what I've been dealing with. But I still feel really guilty and like I'm a bad employee. I'm really scared of my boss or coworkers hating me. I've never taken a day off before, and I feel like I really do need it. Plus, there are some people at my work who call out pretty often and nobody seems to care. So why am I so stressed and scared about this? Am I wrong to call out?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being overwhelmed, depressed, and considering suicide. These are all signs of experiencing a lack of belongingness and connection with others, which can lead to feelings of isolation and hopelessness.
+

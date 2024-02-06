@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Someone will love me one day, but I just need reassurance right now  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a longing for love and reassurance, indicating a possible lack of belongingness in the person's current social relationships.
+
+Correct
+Carefully consider the language of the post to ensure the inferences made are supported by the content. Avoid overgeneralizing or attributing negative characteristics to the poster without clear evidence. Continue to contextualize emotional expressions within the post rather than assumptions about the poster's overall personality or mental health.

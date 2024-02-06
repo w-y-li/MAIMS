@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Today I gave up. Just got back the results after retaking a test and scored another F. And so I am formally announcing giving up on my education and getting a low-entry job and just being content with that for the rest of my life. I've been depressed for a while now, and self-medicating with alcohol. Somedays just seem to pass on autopilot, I don't even notice the day has passed until I look outside and see it's already dark out. So I'm back to jobseeking once again, and experiencing incredible anxiety about telling my family about my failure, they've been really supportive of me  taking life into my own hands  and striving to do better with my education. Truth be told it was a half-assed attempt and I barely studied at all. Spent my time playing games or wallowing in self pity most of the time. Yesterday I googled something that vaguely described how I felt and landed on [this page](http://www.getesteem.com/lse-symptoms/symptom-details.html) and it resonated so hard with me I broke down into tears. I feel like a mess. Everything is just really overwhelming right now.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being overwhelmed and a lack of motivation in education. The poster mentions being depressed and self-medicating with alcohol, which suggests a possible struggle with mental health. The anxiety about telling the family about the failure and the self-pitying behaviors further indicate a sense of disconnection or lack of belongingness in their current situation.
+

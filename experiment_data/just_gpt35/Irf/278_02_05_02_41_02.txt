@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  On top of my depression and all the haunting failures and shortcomings of my 30-year life, the person whom I love and wanted to be with is right now on a beach in Rio amid millions of people watching the fireworks. While I am here, alone, in my bedroom. Happy 2017. I hope we can all get through this, somehow.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and longing for companionship, suggesting a potential risk of thwarted belongingness.
+

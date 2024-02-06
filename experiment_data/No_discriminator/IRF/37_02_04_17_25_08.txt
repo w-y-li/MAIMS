@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I feel like I can‚Äôt take this anymore, I‚Äôm trying so hard to calm myself down but I‚Äôve been recently stationed in Japan away from my fianc√© and family and my fianc√© is slowly drifting away from me and I have no friends out here and I just feel like I‚Äôve given up and have no point in continuing, I can‚Äôt do this for a whole 2 years it‚Äôs tearing me up already  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', "Somewhat true for me###The post mentions feeling like they can't take it anymore and that they have no point in continuing. These statements suggest that the people in their life might be better off without them."])
+('2', ['indirectly_mention', "Somewhat true for me###The post mentions feeling like they've given up and don't have a point in continuing. These statements suggest that the people in their life might be happier without them."])
+('3', ['indirectly_mention', "Somewhat true for me###Although the post doesn't explicitly mention feeling like a burden on society, the statement 'I just feel like I've given up and have no point in continuing' suggests a sense of hopelessness and lack of purpose, which can contribute to feeling like a burden on society."])
+('4', ['indirectly_mention', "Somewhat true for me###While the post doesn't directly say that the poster thinks their death would be a relief to the people in their life, the statement 'I feel like I've given up and have no point in continuing' suggests a sense of hopelessness and despair that could lead to such thoughts."])
+('5', ['directly_mention', "Somewhat true for me###I feel like I've given up and have no point in continuing. This suggests that I may be feeling like the people in my life wish they could be rid of me to some extent."])
+('6', ['directly_mention', "Somewhat true for me###I'm currently stationed in Japan away from my fiancé and family, and my fiancé is slowly drifting away from me. These circumstances could make me feel like I make things worse for the people in my life, contributing to my feeling that I'm tearing myself up."])
+('7', ['directly_mention', 'Not at all true for me###The post mentions feeling like they have no friends and their fiance is slowly drifting away, which suggests that other people do not care about them.'])
+('8', ['directly_mention', "Not at all true for me###The post mentions feeling like they don't belong and feeling like they have no point in continuing, which suggests that they do not feel like they belong."])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like they have no friends in Japan. This suggests a lack of interaction with people who care about the poster, which aligns with the question.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention having many caring and supportive friends, nor does it provide any information to deduce an answer for this question."])
+('11', ['directly_mention', 'Very true for me###I specifically mentioned that I have no friends out here in Japan and feel like I have given up and have no point in continuing, which indicates a sense of disconnection from other people.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention feeling like an outsider in social gatherings. It primarily focuses on the feeling of disconnection and loneliness due to being away from loved ones."])
+('13', ['directly_mention', 'Not at all true for me###The post directly mentions that the poster has no friends in Japan and feels like they have given up, indicating a lack of people to turn to in times of need.'])
+('14', ['indirectly_mention', "Not at all true for me###The post indirectly mentions that the poster's fiancé is drifting away from them, which suggests a lack of closeness to other people."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having satisfying interactions on a daily basis."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden on society, thinking that the people in their life would be better off without them, and feeling disconnected from other people. These statements suggest a risk of perceived burdensomeness, which is associated with mental health problems such as depression and suicidal ideation.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  A lonely hurt in my lower chest, a mild stomachache, and despair. Numb to any positive emotion. Can't laugh. Can't smile. I'm dead inside.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of loneliness, hurt, and despair, which are often associated with thwarted belongingness. The poster also mentions being unable to experience positive emotions, laugh, or smile, suggesting a lack of connection and social support.
+

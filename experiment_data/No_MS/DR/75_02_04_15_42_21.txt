@@ -1,0 +1,28 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  How do you decide to live for yourself? I can't do anything for myself. I don't mean I can't dress myself or shower etc, I mean I don't care to progress my career, I don't care to try and be a better person and all that. I'm finding that I'm putting off whatever I want to do (study for career progression, do martial arts, try harder with photography etc), in place of  being support  for my girlfriend. Emotional or otherwise. I put her above me, so I don't do anything. This is wrong, because it leaves me bitter with myself and my choices, because I want to be better for her etc. But wtf do I do? How do I do it?  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses a lack of motivation and interest in personal growth, as well as putting others before themselves. This suggests a potential symptom of depression.
+
+Incorrect
+Avoid diagnosing based on limited information. Although the post suggests possible symptoms of depression, like lack of motivation and prioritizing someone else’s needs over personal development, this alone is not conclusive evidence of depression. It is essential only to infer mental health issues with a careful and comprehensive assessment, with information obtained from a credible source, and ideally over an extended interaction or through professional evaluation. Additionally, remember not to overgeneralize from a single piece of behavior or statement. Ensure future assessments avoid presumptions without substantive evidence.
+
+ITER 1
+Yes
+The poster's feelings of apathy towards personal progress and self-care, as well as putting their partner's needs above their own, could be indicative of depressive symptoms. However, a comprehensive assessment is needed to confirm this diagnosis.
+
+Incorrect
+Be cautious not to diagnose mental health conditions solely on self-reported feelings of apathy or prioritizing others above oneself, as these can be due to a variety of factors that are not sufficient to confirm depression. Consider other symptoms and evidence of sustained emotional patterns before suggesting a diagnosis. Ensure assessments are holistic and avoid making definitive statements without comprehensive evaluation.
+
+ITER 2
+No
+While the poster expresses feelings of apathy and prioritizing others above themselves, it is not sufficient evidence to confirm a diagnosis of depression. Further evaluation is needed to assess other symptoms and sustained emotional patterns.
+
+Correct
+Continue to avoid diagnosing based on limited information. Always seek more comprehensive evidence before making a clinical judgement.

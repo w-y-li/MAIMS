@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I feel like I can‚Äôt take this anymore, I‚Äôm trying so hard to calm myself down but I‚Äôve been recently stationed in Japan away from my fianc√© and family and my fianc√© is slowly drifting away from me and I have no friends out here and I just feel like I‚Äôve given up and have no point in continuing, I can‚Äôt do this for a whole 2 years it‚Äôs tearing me up already  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me.###The post indicates that the person is feeling lonely and isolated, but there is no mention of feeling like their presence is burdensome or that others would be better off without them.'])
+('2', ['directly_mention', "Not at all true for me.###The post mentions that the person's fiancé is drifting away and they have no friends, but it doesn't imply that the person believes others would be happier without them."])
+('3', ['directly_mention', "Very true for me###I feel like I've given up and have no point in continuing, which implies that I think I am a burden on society."])
+('4', ['directly_mention', "Very true for me###I feel like I can't take this anymore and my fiancé is slowly drifting away from me, suggesting that I think my death would be a relief to the people in my life."])
+('5', ['indirectly_mention', "Somewhat true for me###Based on the statement 'I‚Äôm trying so hard to calm myself down but I‚Äôve been recently stationed in Japan away from my fianc√© and family and my fianc√© is slowly drifting away from me and I have no friends out here and I just feel like I‚Äôve given up and have no point in continuing', it seems like the person is feeling isolated and believes that the people in their life are slowly drifting away from them. This aligns with the question as they mention feeling like they have no point in continuing."])
+('6', ['indirectly_mention', "Somewhat true for me###The statement 'I feel like I can‚Äôt take this anymore' indicates that the person feels overwhelmed and thinks they are making things worse for the people in their life. This aligns with the question as they express a lack of ability to handle the situation and imply that they might be causing trouble for others."])
+('7', ['directly_mention', "Not at all true for me###I mentioned that I have no friends out here in Japan and I feel like I have given up, which suggests that I feel like other people don't care about me."])
+('8', ['directly_mention', "Not at all true for me###I mentioned feeling like I have no point in continuing and that being away from my fiancé and family is tearing me up, which implies that I don't feel like I belong."])
+('9', ['indirectly_mention', 'Somewhat true for me###Although I mentioned that my fiancé is slowly drifting away from me, I did not provide any information about my interaction with other people who care about me. However, since I mentioned feeling like I have no friends out here, it suggests a lack of social support, which may imply that I rarely interact with people who care about me.'])
+('10', ['directly_mention', 'Not at all true for me###I explicitly stated that I have no friends out here, which directly addresses the fact that these days I am not fortunate to have many caring and supportive friends.'])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentioned feeling disconnected from their fiancé and family, which implies a sense of disconnection from other people.'])
+('12', ['indirectly_mention', 'Very true for me###The post mentioned having no friends in Japan, which suggests feeling like an outsider in social gatherings.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to Question 13, which asks if there are people I can turn to in times of need. The poster talks about feeling alone in Japan and the drifting of their fiancé, but does not mention seeking support or having people they can rely on."])
+('14', ['not_mention', "Doesn't mention at all.###The post also does not provide any information related to Question 14, which asks if I am close to other people. The poster expresses feelings of loneliness, isolation, and being away from their fiancé, but does not mention having close relationships with anyone else in Japan."])
+('15', ['indirectly_mention', "Somewhat true for me###The post mentions that the person feels alone and has no friends in Japan. This implies that they may not have satisfying interactions every day, but it doesn't confirm whether they have at least one satisfying interaction every day."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows risk of thwarted belongingness because the person expresses feelings of being disconnected, feeling like an outsider, and not having people they can turn to in times of need. They also mention having no friends and feeling like they have no point in continuing. These feelings indicate a sense of isolation and lack of social support, which are characteristic of thwarted belongingness.
+

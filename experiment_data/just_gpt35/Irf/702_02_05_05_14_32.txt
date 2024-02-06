@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I don't wanna live like this. I'm typing as I'm sobbing cause it's just hit me that it won't ever get any better. This is it for me. I promised myself that I would hold on until I could leave my family in a better financially. Until my grandma passed away so I couldn't save her up the pain. But I'm suffering so much. No one fucking likes me. And I don't say anything but god it hurts. It hurts being alone. It hurts being rejected. I've tried to keep going. And perhaps tomorrow I'll wake up and go to work like nothing happened. But tonight I wanna pretend I'm dying. That when I fall asleep it'll be the last time I see this fucking planet. That when I wake up I won't remember anything. I'll be free.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation, rejection, and a desire to escape the pain through thoughts of dying. These feelings suggest a potential risk of thwarted belongingness, as the poster expresses a lack of social connections and a deep emotional distress related to this perceived disconnection from others.
+

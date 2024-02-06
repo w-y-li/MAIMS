@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I desperately hope that life beyond this world is more exciting. Life on earth has always seemed hollow and artificial to me in some ways, like it‚Äôs a shadow or diet version of the real thing. We just fill our time with materials and ideas, all the while never really knowing what it‚Äôs all about. We can only get so close to people and it‚Äôs hard to truly know someone. I just want excitement and unpredictability like a video game. I also am very enthralled with simulation theory, being that life often doesn‚Äôt feel real to me. I really hope there‚Äôs more out there than this.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post reveals a sense of disconnection and dissatisfaction with life on earth. The poster describes feeling that life is hollow and artificial, suggesting a lack of fulfillment and a potential risk of thwarted belongingness.
+

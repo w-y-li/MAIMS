@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  There is so much shit going on right now, my mom has terminal cancer, the family dogs being put to sleep tonight, my sister is extremely ill and is potentially going to lose her baby, she 6 months pregnant, my partner is off work with mental health issues and can't leave the house so I'm working every hour I can just to keep a roof over our head. I'm trying so hard to be there for every one but it feels like no one is there for me. I can't do this. It's breaking me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses a sense of isolation and feeling like no one is there for the poster, indicating a risk of thwarted belongingness.
+

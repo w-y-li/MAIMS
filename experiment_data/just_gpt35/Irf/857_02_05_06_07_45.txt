@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  So me and my friends are all very, ‚Äòdepressed‚Äô. We all wanna change but none of them are willing to. I‚Äôm trying to change my attitude about life. About everything but my friends are still stuck in there negative mindset and never wanna handout and maybe change our lives. I need help. I don‚Äôt wanna lose them as friends but I need to get my life going. What do I do?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show a risk of perceived burdensomeness. The poster expresses a desire for personal growth and positive change, but also acknowledges that their friends are not willing to change. However, there is no indication of feeling like a burden or being burdened by others.
+

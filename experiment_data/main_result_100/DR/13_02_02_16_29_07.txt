@@ -1,0 +1,136 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  My First Real Episode Hey guys... I just really need to word soup to get things out that have been on my mind that I have not shared with anyone close to me, I feel as if this is the only way to fight this feeling of sadness. So to start everything off, I never thought that I would be typing these words as I am now. Not to say that I'm ashamed of it, but just because I never felt I had anyone to share with. I never have felt like I was able to confide in my close friends or family because I don't want them to carry the burden of my troubles, and I used to feel like it would just be a form of attention seeking to try and explain to others how I feel sometimes. With that being said, I feel as if I truly hit my lowest of lows about an hour ago and the sad thing is that I cannot really describe the feeling... because all it felt like was just a severe sense of nothingness. I felt as if I was experiencing an out of body sensation, and my mind could not calculate any sense of emotion besides this feeling of dread that was accompanied by a warmth-like feeling starting from the back of my brain and slowly taking over my head. It's been happening a lot lately during the night... especially since I've been moderately sick lately and it feels like my body is giving up on me no matter what I try... eating healthy and exercising only takes away the feelings of loneliness and sickness a little bit. What really helps is interaction with others, whether it be watching live programs or being on xbox talking to people or being in chat rooms because it gives me a small sense of community and belonging that I lose when my mind is left alone to itself. I know it sounds stupid, but lately I've just been envisioning my feelings as the mind flayer monster from Stranger Things because it helps me make a little more sense of everything to a degree when I envision the feelings as something physical... I just wish it was a bit easier to find the focal point/issue that makes me this way to improve not only my life but also the lives of others around me.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###In the post, I mentioned feeling a severe sense of nothingness, dread, and a feeling of loneliness. These experiences are commonly associated with sadness.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to pessimism. It focuses more on the feeling of sadness and seeking a sense of community."])
+('3', ['directly_mention', "I feel I have failed more than the average person.###The post mentions feeling like a failure: 'it feels like my body is giving up on me no matter what I try...'"])
+('4', ['directly_mention', "I do not enjoy things as much as I used to.###The post mentions a decrease in pleasure from enjoyable activities: 'eating healthy and exercising only takes away the feelings of loneliness and sickness a little bit.'"])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###The poster expresses feelings of sadness and not being able to confide in others. This suggests a possibility of feeling guilty, as not being able to share their troubles may lead to guilt.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to punishment feelings. It focuses more on feelings of sadness, loneliness, and the need for community."])
+('7', ['directly_mention', "I dislike myself.###In the post, I mentioned that I never felt like I was able to confide in my close friends or family because I didn't want them to carry the burden of my troubles. This suggests that I have a sense of self-dislike, as I feel I am not worthy of sharing my problems with others."])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual.###In the post, I mentioned that I don't want to explain to others how I feel sometimes because I used to feel like it would just be a form of attention seeking. This implies that I may have self-critical thoughts and blame myself for seeking attention or burdening others with my feelings, indicating a higher level of self-accusations than usual."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything about suicidal thoughts or wishes."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about crying."])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The poster mentions feeling restless and agitated, specifically describing a severe sense of nothingness and a feeling of dread accompanied by a warmth-like feeling taking over their head.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The poster talks about not having anyone to confide in and feeling like it would be attention-seeking to explain their feelings to others, indicating a potential loss of interest in other people or seeking social support. They also mention feeling a small sense of community and belonging when interacting with others, which may suggest a reduced interest in activities or hobbies outside of social interaction.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to indecisiveness."])
+('14', ['directly_mention', 'I feel more worthless as compared to other people.###The post directly states that the feeling of dread is accompanied by a warmth-like feeling that slowly takes over my head. This indicates a sense of worthlessness, as the poster mentions feeling like their body is giving up on them and their efforts to improve their life are not working.'])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###The post mentions feeling a severe sense of nothingness and a feeling of dread accompanied by a warmth-like feeling starting from the back of my brain and slowly taking over my head. These are all indicative of a loss of energy.'])
+('16', ['directly_mention', "I sleep somewhat less than usual.###The post mentions experiencing these feelings mostly during the night, which suggests a disruption in the usual sleeping pattern. Although it doesn't directly state the amount of sleep, it implies sleeping less than usual."])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post mentions feeling of sadness, lowest of lows, severe sense of nothingness and feeling of dread, which all indicate a negative emotional state. These emotions can often lead to irritability.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions feeling sick and a lack of enjoyment in eating healthy, which can result in a decrease in appetite.'])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###The post mentions that the poster has been experiencing a severe sense of nothingness and an out of body sensation, which can make it difficult to concentrate on anything for very long.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do a lot of the things I used to do.###The post mentions that the poster has been feeling sick and their body is giving up on them. This could lead to increased fatigue, making it difficult to do the things they used to do.'])
+('21', ['indirectly_mention', 'I am less interested in sex than I used to be.###The post mentions that the person has been feeling a severe sense of nothingness and dread. These feelings can often lead to a decrease in interest in sex. However, the poster does not directly mention any changes in their interest in sex.'])
+Do MS Check Record:
+('1', ['Correct', "Although the post does not explicitly say 'I feel sad,' the description of emotions aligns well with the experience of sadness. Continue to use contextual cues to infer emotions when they are not directly mentioned."])
+('2', ['Incorrect', "While the post does not explicitly mention pessimism, the expression of having hit the lowest of lows and the inability to find a solution to improve one's life can be suggestive of a pessimistic outlook. Look for underlying themes rather than explicit mentions to avoid missing subtle cues."])
+('3', ['Incorrect', 'The post does not explicitly state a feeling of past failure. Focus on exact phrases rather than inferring too much. Look for clear evidence in the post that addresses past failures directly.'])
+('4', ['Correct', "Continue to draw connections where the poster's words imply a decrease in enjoyment from normally pleasurable activities. Be careful to avoid assumptions and focus on the stated experiences."])
+('5', ['Incorrect', "Consider the emotional state of the poster and the context. Although guilt is not directly mentioned, the poster's reluctance to share personal struggles may imply feelings of guilt. Assess the subtleties in the post that suggest emotional states related to the questions, rather than expecting a direct mention."])
+('6', ['Correct', 'Good job identifying the absence of information regarding punishment feelings in the post. Continue to distinguish between what is explicitly mentioned and what may require inference, but avoid making assumptions when there is no supportive evidence.'])
+('7', ['Incorrect', 'Review the post and identify concrete examples or statements related to self-dislike; avoid making assumptions without textual evidence.'])
+('8', ['Correct', 'Continue to connect feelings and behaviors from the post to the psychological constructs, ensuring the linkage is evident in the text.'])
+('9', ['Incorrect', "Consider the overall tone and context of the post. The poster is expressing a severe sense of nothingness and feelings of sadness, which can be associated with suicidal thoughts. Rather than a definitive 'Doesn't mention at all,' suggest the absence of explicit mention, but acknowledge the emotional state that could encompass such thoughts."])
+('10', ['Correct', "While your answer is factually correct, remember to analyze the emotional context. The poster describes a significant emotional episode which could imply crying, even if it's not explicitly stated. Note the absence but also acknowledge the poster's emotional expression which could be indicative of crying in similar situations."])
+('11', ['Correct', 'Maintain sensitivity to subtle cues in the post while analyzing for agitation. Ensure to differentiate between physical sensations described and psychological experiences of restlessness.'])
+('12', ['Incorrect', 'Be careful not to conflate lack of social support with loss of interest. Assess whether the poster exhibits reduced engagement in previously enjoyable activities specifically, rather than focusing solely on social withdrawal.'])
+('13', ['Incorrect', 'Review the post for implied feelings or situations that could indicate indecisiveness, rather than dismissing the absence of explicit mention. Look for context that suggests difficulty in making decisions.'])
+('14', ['Incorrect', 'Avoid interpreting physical sensations as direct evidence of worthlessness without clear supporting context. The warmth-like feeling described is more related to physical or emotional distress rather than an indication of feeling worthless.'])
+('15', ['Correct', 'Maintain this level of careful analysis in interpreting posts and connecting them to relevant questions.'])
+('16', ['Correct', 'Keep inferring carefully from indirect cues in the post; however, be cautious not to overinterpret when information is not clear.'])
+('17', ['Correct', 'Ensure to provide clear links between the emotions described and the aspect of irritability. Avoid adding assumptions not present in the post.'])
+('18', ['Correct', 'Good inference about the appetite based on the post content. In future responses, remain cautious of not assuming details that were not explicitly mentioned by the poster.'])
+('19', ['Correct', "Ensure to maintain this level of analysis, linking symptoms like 'a severe sense of nothingness' to difficulties in concentration. Remember to continue grounding your assessments in the evidence provided in the post."])
+('20', ['Correct', "Good job connecting the poster's feelings of sickness and their body 'giving up' to the concept of fatigue. Be cautious to not infer more than what is stated, but in this case, the connection made is valid."])
+('21', ['Incorrect', "While it's true that feelings of nothingness and dread can correlate with a decreased interest in sex, making such an inference requires caution. In this case, the poster did not provide any specific information about changes in sexual interest. To avoid over-inference, focus only on direct evidence related to the question. If the poster does not mention the topic, it is more appropriate to state that there is no information available to answer the question."])
+
+ITER 1
+Do MS Record:
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post mentions feeling sad and having hit the lowest of lows, suggesting a lack of hope for the future.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to past failures or a sense of constantly failing."])
+('5', ['directly_mention', 'I feel quite guilty most of the time.###The poster mentions feeling a sense of nothingness and dread, which can be associated with guilt. This suggests that the poster may feel guilty most of the time.'])
+('7', ['indirectly_mention', 'I am disappointed in myself.###The poster mentions feeling a severe sense of nothingness and a feeling of dread, which could imply a sense of disappointment in oneself. These feelings and the expression of wanting to improve not only their own life but also the lives of others suggest self-dislike indirectly.'])
+('9', ['indirectly_mention', 'I have lost most of my interest in other people or things.###The poster mentions feeling a severe sense of nothingness and dread, which can be indicators of a loss of interest. The poster also mentions that interacting with others and being part of a community gives them a sense of belonging, suggesting a reduced interest in other people or activities when they are not engaged with others.'])
+('12', ['indirectly_mention', "I have thoughts of killing myself, but I would not carry them out.###The poster describes hitting their lowest of lows and experiencing a severe sense of nothingness. While the post doesn't explicitly mention suicidal thoughts, these feelings can be associated with such thoughts. The poster also expresses a reluctance to burden others with their troubles, which may suggest thoughts of killing themselves but not carrying them out."])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The poster mentions feeling like they have no one to share with and not wanting to burden others with their troubles. This suggests a difficulty in making decisions and relying on others for support.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to the feeling of worthlessness or a comparison to other people."])
+('21', ['indirectly_mention', 'I am less interested in sex than I used to be.###The post mentions that the poster has been feeling a severe sense of nothingness and a feeling of dread. They also mention that they have been experiencing this feeling during the night and that they have lost interest in eating healthy and exercising. While the post does not directly mention a change in interest in sex, these symptoms could potentially be associated with a decrease in sexual interest.'])
+Do MS Check Record:
+('2', ['Incorrect', "Reassess the post for instances of pessimism without adding assumptions; focus on extracting the poster's emotional state as it pertains directly to the feeling of sadness and the loss of hope, rather than inferring a general attribute like being discouraged about the future."])
+('3', ['Correct', 'You correctly identified that the post did not mention past failures. Continue to differentiate between what is explicitly stated and what is not, avoiding assumptions that are not supported by the text.'])
+('5', ['Incorrect', 'Reassess the post without assuming that it reflects feelings of guilt, as guilt is not explicitly mentioned or implied.'])
+('7', ['Incorrect', 'Focus on the factual content of the post. Avoid attributing feelings such as self-dislike without clear evidence from the post supporting this interpretation.'])
+('9', ['Incorrect', 'Carefully distinguish between expressions of general sadness or disinterest and specific suicidal thoughts. The post does not explicitly mention suicidal thoughts or wishes, focus on information provided rather than assuming.'])
+('12', ['Incorrect', 'Avoid inferring suicidal thoughts without explicit evidence in the text. Look for direct indications of loss of interest rather than general feelings of sadness or low mood to answer the question accurately.'])
+('13', ['Incorrect', "While the post does not directly state indecisiveness, it does hint at a struggle with making decisions, particularly through the poster's difficulty in choosing whether to share their feelings. Focus on the implied messages of the text, considering the poster's general mood and actions, to gauge aspects like decision-making."])
+('14', ['Incorrect', "Although the post doesn't explicitly mention worthlessness, the intense feeling of sadness and 'nothingness' described could be inferred as a sense of worthlessness. Pay attention to descriptions of emotional states, as they can offer insights into self-perception and related feelings like worthlessness."])
+('21', ['Incorrect', "Do not assume or infer emotions or experiences not explicitly mentioned in the post. Focus on direct information given, and if it's not mentioned, state that it cannot be determined from the post."])
+
+ITER 2
+Do MS Record:
+('2', ['directly_mention', 'I feel discouraged about my future.###The post mentions the feeling of hitting the lowest of lows, experiencing a sense of nothingness, and a feeling of dread. These descriptions reflect a lack of hope and can be interpreted as feeling discouraged about the future.'])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention any feelings of guilt explicitly or implicitly. It primarily focuses on feelings of sadness, loneliness, and the search for a sense of community and belonging."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to self-dislike. The person talks about feeling sadness, but there is no indication of self-dislike."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes. The person talks about feeling sadness and experiencing a sense of nothingness, but this does not indicate any explicit thoughts of self-harm or suicide."])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The poster mentions feeling a severe sense of nothingness, experiencing an out of body sensation, and a feeling of dread. These descriptions suggest a loss of interest in the world around them.'])
+('13', ['indirectly_mention', "I find it more difficult to make decisions than usual.###The poster mentions feeling unsure about sharing their feelings with others because they don't want them to carry their burdens. This hesitation and difficulty in deciding whether to confide in others implies an increased difficulty in making decisions."])
+('14', ['directly_mention', 'I feel more worthless as compared to other people.###The post mentions feeling a severe sense of nothingness and dread, which could be interpreted as a feeling of worthlessness.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention any changes in interest in sex."])
+Do MS Check Record:
+('2', ['Correct', 'Your inference is appropriate given the language used in the post. Continue to analyze the emotional content of posts to identify underlying attitudes such as pessimism.'])
+('5', ['Correct', 'Good observation in recognizing what is not mentioned in the post. Be mindful to avoid inferring emotions or thoughts that the post does not explicitly or implicitly express.'])
+('7', ['Correct', "It's good that you refrained from inferring self-dislike from the post as it didn't provide direct evidence for that. However, ensure you are analyzing the emotional content comprehensively, considering the underlying tones of the post that may suggest self-perception issues without explicit statements."])
+('9', ['Incorrect', "While the post doesn't explicitly mention suicidal thoughts, the expression of 'a severe sense of nothingness' and descriptions of dread may warrant a deeper exploration into the potential for such thoughts. Carefully consider the implications of the described feelings and explore them with sensitivity to the context, without making assumptions."])
+('12', ['Correct', "Good job noting the indirect mention of loss of interest via the poster's expression of nothingness and dread, which implies a detachment from previously enjoyable activities. Continue to analyze posts for subtle cues that align with mental scale questions."])
+('13', ['Incorrect', 'Avoid over-inferring indecisiveness from the hesitation to share personal issues. The post reflects a deliberate choice not to burden others rather than difficulty making decisions in general. Focus on direct evidence before concluding a mental state.'])
+('14', ['Correct', 'Continue to identify the specific emotions or feelings described in the post that may relate to the given questions in the mental scale.'])
+('21', ['Correct', 'Maintain your careful approach to not infer details which are not provided in the post. When sex or sexuality is not mentioned, it is best to avoid assumptions.'])
+
+ITER 3
+Do MS Record:
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to indecisiveness."])
+Do MS Check Record:
+('9', ['Incorrect', 'Review the post for any indirect indicators of suicidal thoughts, such as expressions of hopelessness or a severe sense of nothingness, and consider that even if not explicitly mentioned, these can be relevant to the scale question.'])
+('13', ['Incorrect', 'Look for subtler signs of indecisiveness within the context of the post. The mention of difficulty finding a focal point/issue could suggest problems with making decisions.'])
+
+ITER 4
+Do MS Record:
+('9', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The poster mentioned that they have been experiencing a severe sense of nothingness and feeling dread, which could indicate a greater difficulty in making decisions than they used to.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes."])
+Do MS Check Record:
+('9', ['Incorrect', "Carefully analyze the content for any hints of the questioned trait. The post describes feelings of sadness and a 'severe sense of nothingness', potentially indicative of depressive symptoms which could correlate with thoughts of worthlessness or suicidal ideation. Explore the emotional state described to gauge the poster’s experience related to the question."])
+('13', ['Incorrect', "The student appears to have confused the questions. The answer given for question 9 should be considered for question 13. For question 13 regarding indecisiveness, the student should analyze the post for any example that shows difficulty in decision-making, such as the poster's struggle to find the 'focal point/issue' that bothers them, indicating indecisiveness."])
+
+ITER 5
+Do MS Record:
+('9', ['directly_mention', "I make decisions about as well as ever.###The poster mentions their struggle to find the 'focal point/issue' that bothers them, indicating indecisiveness."])
+('13', ['indirectly_mention', 'I have thoughts of killing myself, but I would not carry them out.###The post mentions feeling sadness, a severe sense of nothingness, and experiencing an out of body sensation. These feelings may indicate depressive symptoms, which could correlate with thoughts of worthlessness or suicidal ideation. However, the post does not explicitly mention specific thoughts or plans of killing oneself.'])
+Do MS Check Record:
+('9', ['Incorrect', 'Though the poster expresses feelings of sadness and loneliness, they do not directly mention suicidal thoughts or wishes. Avoid inferring such severe conclusions without clear evidence. Focus more on the emotional state as expressed.'])
+('13', ['Incorrect', 'The student assumes indecisiveness due to the struggle in identifying the issue but inaccurately infers suicidal ideation. Carefully distinguish between feelings described and actual thoughts of self-harm. Avoid assumptions without explicit statements.'])
+
+ITER 6
+Do MS Record:
+('9', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The poster mentions that they have been struggling with finding the focal point/issue that makes them feel this way and also mentions feeling indecisive about improving their life and the lives of others around them.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes. The poster talks about feeling sadness, but there is no mention of any desire or intention to harm themselves."])
+Do MS Check Record:
+('9', ['Incorrect', 'Ensure to avoid inferring information not explicitly stated in the post. While indecisiveness is mentioned, it is not directly connected to decision-making difficulties typical in the context of suicidal ideation.'])
+('13', ['Correct', "Good job recognizing the scope of the post's content. The poster does not express any suicidal thoughts or wishes directly; therefore, stating that the post does not mention this is appropriate."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's description of feeling sadness, discouragement about the future, loss of pleasure, self-critical tendencies, feeling worthless, lack of energy, changes in sleeping pattern, irritability, changes in appetite, difficulty concentrating, tiredness or fatigue, and the overall description of the severe sense of nothingness aligns with symptoms of depression.
+
+Correct
+Continue to carefully analyze the information provided in both the original post and the mental health scale when forming a conclusion. Make sure to differentiate between the presented facts and potential inferences without additional evidence. Keep validating your assessments with the given data and avoid overgeneralization or assumptions beyond the provided responses. Maintain a clear distinction between the mental health of the poster and others if relevant information about others is mentioned. Stay objective and avoid letting personal biases influence your diagnosis.

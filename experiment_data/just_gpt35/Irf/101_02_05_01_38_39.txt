@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Its irony when my mom keeps bugging me like why wont I spend my time to talk with her instead of me sulking in my bedroom when everytime I talk to her,she always manage to either compare me with one of her friend's child who are far way more successful or reminds me of how much my dad not wanting me.I wish I was never alive.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of burdensomeness, as the individual expresses a desire to not be alive and suggests that their presence is a burden on others.
+

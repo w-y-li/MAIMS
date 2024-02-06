@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  :(( not sure wats wrong with me. i think i‚Äôve been feeling ok lately, content. now i‚Äôm having bad thoughts again. i‚Äôm overwhelmed. i feel so alone... no one actually gives a shit about how i feel. it won‚Äôt end :( i think i was meant to commit suicide. i feel stupid for trying to be positive. I got an actual 60% on this assignment at school and it fucked with me. i cried in the bathroom stall and cut myself up like the pathetic idiot i am. i‚Äôm so tired of myself.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post contains expressions of feeling overwhelmed, alone, and believing that no one cares about how they feel. The mention of having bad thoughts and feeling like suicide is meant for them suggests a higher risk of perceived burdensomeness.
+
+Correct
+Ensure to maintain objectivity, avoid diagnosing without sufficient evidence, and continue to support your evaluations with direct references to the content of the posts.

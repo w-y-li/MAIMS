@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I've always struggled with social anxiety and periods of depression, but this feels way harder to shake. Just started taking some meds to help with depression and anxiety. Hope they help. I know I need to reach out to a therapist, I know I need to be more active and not sleep all day, I know I need to eat better and be better to myself. Finding it hard to get out of this current cycle. Any advice is appreciated.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual is having difficulty in breaking the cycle of depression and anxiety, and expresses a desire for help and advice. This indicates feelings of burden and a perception that their struggles are overwhelming and hard to shake.
+

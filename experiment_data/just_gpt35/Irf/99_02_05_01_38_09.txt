@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Hi, do any of you have practical advice and methods on how to overcome fear? There are some things I have to do which, when I try to start them, cause me to have this intense freezing fear. In my case it can be opening various mail or even starting to read some book. It could even be when I decide to rent a movie. I know I shouldn‚Äôt be afraid and I do not see rational reasons for it, but I get waves of fear that feel like there is a predator that is going to attack. I feel it and I am gripped with stillness and fear as if I am hiding and can‚Äôt move or breathe heavily because it could reveal my position. Because of this I end up not doing things I have to do, missing some deadlines, not going to the dentist. Well the dentist is understandable since no one wants to go to them. In my case it is mundane things. This is probably a symptom of PTSD I am diagnosed with, but I still need to find ways to overcome these irrational fears.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling hiding, frozen with fear, and being gripped with stillness and fear as if there is a predator that is going to attack. These symptoms indicate a heightened sense of threat and perceived burdensomeness, which are common in individuals with PTSD.
+

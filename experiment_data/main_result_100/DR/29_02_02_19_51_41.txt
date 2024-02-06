@@ -1,0 +1,104 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I don’t want to be an adult anymore. I’ve been struggling with my depression a lot lately and I really really wish I could turn to one of my parents to tell them how much I’m struggling. More importantly, I wish I could tell one of them and one of them cared. I know I’m a decent disappointment to both of them for several reasons. 1) I haven’t had a decent job. I’ve been floating on jobs that get me less than five hours a week. 2) I don’t have friends. Granted, that’s because my mother literally and intentionally isolated me so I have no social skills at all. 3) I have big dreams but zero motivation in life so I can’t even try to achieve them. So what I’m trying to do is work on myself. Today I started a new (third, I now have three of these stupid things) job. I thought I did pretty good considering the store didn’t burn down and no one told me that I was a failure. But literally as soon as the sun set, I feel all my doubt and darkness telling that I’m lying to myself. That I’m being naive by thinking that I did well, that I was probably a huge burden to everyone else in the store. But I’m trying, so that has to count for something right? I went and got a third job on my own, so why don’t I feel like I should be proud of myself? I have no friends. In fact, during 2017, I was so excited to have made a great friend and I was completely betrayed by them. The kind of betrayal where I walked away from a friendship and haven’t bothered reading the apologies they’ve sent me. I’ve tried reconnecting with friend that I had earlier in life, but I’m not doing so well. I feel like they will do something to me and then I’ll lose another friend. And logically, if I’m the only common factor in all my failed friendships, then I must be the problem, right? I must be the problem. I’m the problem. Maybe I’m not meant to have friends. And I’ve always had big dreams for myself. But because of how I was raised, I have no accountability. Because seriously, why bother trying if everything I do is going to be met with disapproval and anger? So I’ve been trying really hard to make myself follow at least one goal. I chose to go for my art. Problem being that with my depression crashing on me in waves, I’m really struggling to stick to my goal of one art post a day. I’m trying really hard but I’m so afraid that I’ll be the failure I was taught to be. In all of this, I just really really wish I could quit trying to be an adult and go back to the days when I believed my mom when she said she loved me, I want to go back to when my dad wanted to help me talk things out so I could figure out what I was doing. I want to be able to call my mom up and tell her that I feel like a complete failure and that I can’t add to see my therapist and that I need help talking the darkness down. But if I call her, she’ll one-up me because I’m the biggest mistake of her life. Or worse, she’ll tell me that I should try (fill in the blank with whatever bs Facebook depression fix is trending). I want to be able to call my mom and say hey, I got another job and I’m excited. I want her to tell me that she’s proud of me. I really want to have a conversation with my dad that doesn’t involve the phrase “well get over it”. ‘Hey dad, I’m full of regret and turmoil’ ‘ugh just get over it’ well excuse me sir for being by the reality that I just pulled a mulan and cut all my hair off so that I could get another job. I went from having shoulder length hair that made me feel good about myself to hair that’s half an inch long and highlights everything about my face that gives me horrible anxiety. Maybe I’m really hurting because I went in to work yesterday and two of my managers greeted me with ‘ew gross, what happened to your hair?’ And now I feel like I’m as ugly as I think I am. I really miss being a kid when I could pretend that my world wasn’t on fire or that I wasn’t drowning. And I don’t know how to make  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###The poster mentions struggling with depression and feeling doubt and darkness, which indicates a persistent sadness.'])
+('2', ['directly_mention', 'I feel discouraged about my future.###The poster expresses feeling like a failure and having no motivation in life, which indicates a pessimistic outlook on the future.'])
+('3', ['directly_mention', 'As I look back on my life, all I can see is a lot of failures.###The post explicitly mentions feeling like a complete failure and having regrets and turmoil in life.'])
+('4', ['directly_mention', 'I do not enjoy things as much as I used to.###The post mentions struggling with depression and feeling like everything they do is met with disapproval and anger, implying a lack of pleasure in activities.'])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###The poster mentions feeling like a complete failure and having regret and turmoil. These emotions are often associated with guilt.'])
+('6', ['directly_mention', 'I feel I am being punished.###The poster mentions feeling ugly and being greeted with negative comments about their appearance, which can be seen as a form of punishment.'])
+('7', ['directly_mention', 'I dislike myself###The post explicitly states that the poster feels like a complete failure and has a self-perception of being a disappointment to their parents. This indicates a dislike of oneself.'])
+('8', ['directly_mention', 'I blame myself for everything bad that happens###The post mentions that the poster assumes they are the problem in failed friendships and feels they are at fault for any negative outcomes in their life. This demonstrates self-accusations.'])
+('9', ['directly_mention', 'I have thoughts of killing myself, but I would not carry them out.###The post mentions feeling like a complete failure, struggling with depression, and wanting to go back to when the poster believed their mother loved them. These statements suggest that the poster is experiencing suicidal thoughts, although they express that they would not carry them out.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything specific about crying. While the poster talks about feeling doubt, darkness, and being full of regret and turmoil, there is no mention of crying more or not being able to cry."])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The poster mentions feeling restless and agitated as soon as the sun sets. This implies that the poster experiences increased restlessness and agitation during a specific time of day.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The poster discusses how they have lost interest in making friends and reconnecting with old friends. This suggests a decrease in interest in social interactions and relationships.'])
+('13', ['directly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that the person is struggling with their depression and doubts themselves, which can lead to difficulty in making decisions.'])
+('14', ['directly_mention', 'I feel more worthless as compared to other people.###The post mentions feeling like a failure and a disappointment to their parents, which can contribute to feeling more worthless when comparing themselves to others.'])
+('15', ['directly_mention', 'I have less energy than I used to have.###The post mentions struggling with depression and feeling doubt and darkness as soon as the sun sets, which indicates a loss of energy.'])
+('16', ['directly_mention', 'I sleep somewhat less than usual.###The post mentions struggling to stick to a goal of one art post a day and being afraid of being a failure, which suggests a change in sleeping pattern.'])
+('17', ['directly_mention', 'I am much more irritable than usual.###The post mentions feeling doubt, darkness, and thinking of oneself as a failure. These indicate a heightened level of irritability.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###Although the post does not directly mention changes in appetite, it does mention struggling with depression, which commonly affects appetite. Additionally, the poster mentions feeling like a failure and feeling ugly, which may contribute to a decreased appetite.'])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###The post directly mentions that the person is struggling with depression and doubts themselves, which can lead to difficulty in concentrating.'])
+('20', ['directly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post mentions feeling tired and fatigued, which indicates a higher level of fatigue than usual.'])
+('21', ['directly_mention', "I have lost interest in sex completely.###The post mentions 'I’m so afraid that I’ll be the failure I was taught to be. In all of this, I just really really wish I...talk the darkness down.' This implies a loss of interest in sex as a result of depression and feelings of failure."])
+Do MS Check Record:
+('1', ['Correct', "Continue to draw connections between the poster's explicitly stated emotions and the psychological concepts being queried."])
+('2', ['Correct', "Maintain your approach of linking the poster's descriptions of their experiences and outlook to the relevant psychological constructs, such as pessimism."])
+('3', ['Correct', 'Continue to use direct references from the post to support your answers in a way that aligns with the mental scale questions asked.'])
+('4', ['Correct', "Ensure to identify specific phrases in the post that demonstrate the concepts being measured, such as 'lack of pleasure', but be cautious not to overinterpret emotions that are not clearly expressed."])
+('5', ['Correct', 'Ensure that inferences about guilt are firmly rooted in the explicit content of the post and recognize that such feelings may vary in intensity; avoid assuming static emotional states.'])
+('6', ['Correct', "Be cautious not to overgeneralize feelings of punishment from specific incidents; consider the broader context of the person's experiences as they relate to the concept of punishment."])
+('7', ['Correct', 'Be cautious not to generalize feelings of self-dislike to other aspects not mentioned in the post.'])
+('8', ['Correct', 'Ensure that inferences about self-accusations are grounded in explicit content from the post to avoid overgeneralization.'])
+('9', ['Incorrect', 'Although the post includes expressions of deep emotional struggles and distress, it does not explicitly mention suicidal thoughts. Focus on the language used and restrict inferences to what is directly stated or strongly implied.'])
+('10', ['Correct', 'You accurately assessed that the post does not mention crying. Continue to distinguish between the range of emotions expressed and specific behaviors like crying.'])
+('11', ['Correct', 'Ensure to highlight specific phrases that convey feelings of restlessness to strengthen your interpretation.'])
+('12', ['Correct', 'Good observation. Continue to connect expressed sentiments to the subject’s reported loss of interest.'])
+('13', ['Correct', "Ensure to maintain the balance between analyzing the explicit content of the post and the implications it may have on the person's mental state without overextending beyond what is shared."])
+('14', ['Correct', 'Good job on perceiving the emotions behind the words. Continue to differentiate between statements that explicitly mention feelings and those where the sentiment is implied.'])
+('15', ['Correct', 'Ensure to maintain this level of careful analysis, linking symptoms expressed in the post with relevant mental health scale questions like loss of energy.'])
+('16', ['Incorrect', "Be cautious not to make assumptions without explicit evidence. The post does not provide clear information about changes in the poster's sleeping pattern. Focus on drawing conclusions only when the information in the post directly relates to the question."])
+('17', ['Correct', 'Ensure to differentiate between explicit statements and the emotions conveyed that may imply irritability. Continue to focus on both direct and indirect cues in the post to deduce psychological states.'])
+('18', ['Incorrect', 'Avoid making assumptions about symptoms not clearly indicated in the post. If the post does not mention changes in appetite, you should not infer it. Focus solely on the information provided.'])
+('19', ['Incorrect', 'Focus on textual evidence within the post that pertains to concentration issues. The poster mentions difficulty sticking to goals and feelings of self-doubt, but these do not directly translate to concentration difficulties. Look for statements about being easily distracted, having trouble focusing on tasks, or being forgetful. Answer based on given specifics, not general assumptions about depressive symptoms and their impact on concentration.'])
+('20', ['Incorrect', "Closely examine the text for explicit mentions of tiredness or fatigue. The poster discusses emotional struggles and a lack of motivation but does not discuss physical tiredness or fatigue in the post. Avoid inferring symptoms not directly referenced and respond only to questions supported by the poster's actual words."])
+('21', ['Incorrect', 'Avoid making assumptions that are not explicitly supported by the content of the post. The post does not directly mention changes in sexual interest. Focus on the information given and do not infer beyond what is stated.'])
+
+ITER 1
+Do MS Record:
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything about suicidal thoughts or wishes."])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide clear information about changes in the poster's sleeping pattern."])
+('18', ['directly_mention', 'My appetite is somewhat less than usual.###The post states that the poster is struggling with depression and mentions feeling like a complete failure. Changes in appetite, such as a decrease in appetite, are commonly associated with depression.'])
+('19', ['not_mention', "Doesn't mention at all.###The post does not provide any specific information or indications of difficulty in concentration. While the post mentions struggles and self-doubt, there is no mention of difficulties in concentrating or focusing on tasks."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention tiredness or fatigue specifically. It discusses emotional struggles and lack of motivation, but this does not directly relate to physical tiredness or fatigue."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention changes in interest in sex specifically. The focus of the post is on emotional struggles, self-perception, and relationships, but it does not discuss any changes in sexual interest."])
+Do MS Check Record:
+('9', ['Correct', 'Good job on not inferring information that is not present in the post. Keep focusing on the specific content that is provided.'])
+('16', ['Incorrect', 'Review the post for any indicators of disrupted routines that could imply changes in sleep, such as mentions of feeling down after sunset which may suggest alterations in sleep pattern.'])
+('18', ['Incorrect', 'Re-examine the post for any subtle indications of a change in appetite. Consider the emotional state and lifestyle changes described by the poster, which could suggest alterations in eating habits.'])
+('19', ['Incorrect', "Assess the poster's talk of challenges, lack of motivation, and difficulty adhering to goals as potential indicators of concentration issues. Relate depression's common cognitive impact to the poster's experiences."])
+('20', ['Correct', 'While the post does not explicitly mention tiredness or fatigue, it is good to note the difference between emotional and physical symptoms. However, in future tasks, consider the broader context; emotional struggles like depression can imply physical symptoms, such as fatigue, even if not directly stated.'])
+('21', ['Correct', 'You correctly identified that changes in sexual interest were not mentioned in the post. Continue to focus on the specific content and words used by the poster when answering these questions, and avoid inferring details that are not present.'])
+
+ITER 2
+Do MS Record:
+('16', ['directly_mention', 'I sleep somewhat less than usual.###The post mentions that the person feels doubt and darkness as soon as the sun sets, suggesting that their sleep pattern is disrupted as they are unable to sleep as much as they used to.'])
+('18', ['directly_mention', 'My appetite is somewhat less than usual.###The post mentions that the person has been struggling with depression and has no motivation in life. Depression often affects appetite, and the person mentions that their appetite is somewhat less than usual.'])
+('19', ['indirectly_mention', 'I find I can not concentrate on anything.###The poster talks about their struggle with depression and mentions that they have zero motivation in life. These symptoms, along with the challenges they face in sticking to their goals, suggest difficulty in concentration.'])
+Do MS Check Record:
+('16', ['Incorrect', 'Review the original post and focus only on direct evidence related to sleeping patterns. Avoid making inferences not supported by the text.'])
+('18', ['Incorrect', 'Carefully analyze whether the post mentions changes in appetite. If not directly mentioned, do not infer; stick to observable information.'])
+('19', ['Correct', 'Ensure that inferences about concentration are grounded in specific examples from the post, as was done here. Continue to link symptoms and behaviors to potential cognitive challenges.'])
+
+ITER 3
+Do MS Record:
+('16', ['directly_mention', 'I sleep somewhat less than usual.###The post mentions that the person struggles with depression and feels doubt and darkness as soon as the sun sets, which could indicate difficulty sleeping.'])
+('18', ['indirectly_mention', 'My appetite is much less than before.###Although the post does not directly mention changes in appetite, the person mentions feeling like a complete failure, which can lead to a decrease in appetite as a symptom of depression.'])
+Do MS Check Record:
+('16', ['Incorrect', 'Examine the post for any explicit mentions of sleep patterns before assuming changes. Look for concrete evidence, not just general symptoms of depression.'])
+('18', ['Incorrect', 'Do not infer changes in appetite without specific mentions or strong contextual evidence in the post. Avoid assumptions based on general symptoms.'])
+
+ITER 4
+Do MS Record:
+('16', ['directly_mention', "I sleep somewhat less than usual.###In the post, the poster mentions 'I feel all my doubt and darkness telling that I’m lying to myself. That I’m being naive by thinking that I did well'. This suggests the presence of insomnia symptoms, where the poster is having difficulty falling asleep or staying asleep."])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###Although the post does not explicitly mention changes in appetite, the poster mentions struggling with depression, feeling like a failure, and having no motivation. These experiences can often lead to a decrease in appetite and changes in eating patterns, such as eating less than usual.'])
+Do MS Check Record:
+('16', ['Incorrect', 'Review the post for specific mentions of sleep patterns and infer carefully without assuming symptoms not explicitly stated.'])
+('18', ['Correct', 'Good inference on potential appetite changes associated with depressive symptoms; however, ensure that deductions are not overgeneralized from limited information.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's post indicates feelings of sadness, pessimism, past failure, loss of pleasure, guilty feelings, punishment feelings, self-dislike, self-accusations, and thoughts/wishes for death. These symptoms align with the criteria for depression, suggesting that the poster may be experiencing depression.
+
+Correct
+Ensure to differentiate between signs that suggest the presence of depression and normal fluctuations of mood. Continue to rely on concrete evidence from self-reports in conjunction with the symptoms outlined in DSM-5 when diagnosing mental health issues.

@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  I'm having trouble getting along with someone I want to consider a friend Long story short: This guy was originally a friend of a friend, I'll call him Jeff. We all go to the same college and have the same mutual friends. Jeff and I got along pretty well for a bit but recently all he does is piss me off While I get the whole  friends mess with each other  idea, but it just doesn't fly with me and this guy. I may mess around with my friends once in a while and I'm a big joker, but for the most part I just like to have a good time together whenever we do anything whether we play video games, go to the gym, etc. On the other hand, it feels that Jeff goes out of the way to piss me off no matter what we do because he KNOWS it will piss me off. I know typically you want to show no reaction to this kind of thing to avoid fanning the flames but I can't help it I don't know how to deal with him or get the message across. When I tried to sit down with him and talk man to man, Jeff didn't seem to take me seriously and kept going ahead with his previous antics. I talked with our other friends (who have known him longer than I) and they all just told me something along the lines of:  he doesn't mean anything by it, it's just how he is don't get offended . But unfortunately, we don't mix that way. Now Jeff's not inherently a bad person, when he's serious he's actually a pretty good guy. He has helped me out in some tough binds before and has done so for the other guys too, all of which I greatly appreciate. But his behavior to me on a day to day basis just really really pisses me off  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to sadness. The focus is on the poster's frustration and irritation with the person named Jeff."])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###Although the post does not directly mention feeling discouraged about the future, the poster expresses frustration in trying to resolve a conflict with Jeff. This ongoing negative experience with a friend could potentially lead to feelings of pessimism or discouragement about the future.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to past failures."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of pleasure."])
+('5', ['indirectly_mention', "I feel guilty a good part of the time###Although I did not directly mention feeling guilty, I mentioned that Jeff's behavior constantly pisses me off, which suggests that I may feel guilty about my negative emotions towards him."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about feeling punished, so it does not mention punishment feelings."])
+('7', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to self-dislike."])
+('8', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to self-accusations."])
+('9', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to suicidal thoughts or wishes."])
+('10', ['indirectly_mention', 'I cry more than I used to.###The post describes a situation where the behavior of the person mentioned (Jeff) consistently irritates and angers the poster. This ongoing frustration may lead to increased emotional distress, including more frequent crying compared to before.'])
+('11', ['directly_mention', "I am so restless or agitated that it is hard to stay still.###In the post, I mentioned that Jeff's behavior really pisses me off. This indicates that I am feeling agitated and restless in response to his actions."])
+('12', ['directly_mention', "I am less interested in other people or things than before.###In the post, I expressed that Jeff's behavior has made it difficult for me to get along with him. This suggests a decrease in my interest in being friends with him."])
+('13', ['directly_mention', "I find it more difficult to make decisions than usual.###In the post, I mentioned that I don't know how to deal with Jeff or get the message across. This suggests that I am having difficulties making the decision on how to handle the situation with Jeff."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not contain any indication or description related to feelings of worthlessness. Hence, the question of worthlessness is not mentioned in the post."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to loss of energy."])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to changes in sleeping pattern."])
+('17', ['directly_mention', "I am more irritable than usual.###In the post, I mentioned that Jeff's behavior really pisses me off on a day to day basis, indicating increased irritability."])
+('18', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information about changes in appetite."])
+('19', ['not_mention', "Doesn't mention at all.###"])
+('20', ['indirectly_mention', "I get more tired or fatigued more easily than usual.###The post mentions that Jeff's behavior on a day to day basis really upsets me, which can lead to increased emotional exhaustion and fatigue."])
+('21', ['directly_mention', "I have not noticed any recent change in interest in sex.###The post mentions nothing about the person's interest or lack of interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+Based on the answers to the mental scale questions, the poster does not show significant signs of depression. While the poster may be experiencing frustration and irritability due to the conflict with their friend, there is no indication of a pervasive and prolonged low mood, loss of interest, or other characteristic symptoms of depression.
+

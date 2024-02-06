@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I feel so low and depressed between everything. I just feel worthless and just can't cope with anything no more. I have lost interest in life and everything else. Doing anything just tires me now. I get moments where the littlest thing pushes me over the edge and I end up smashing things or punching doors only to burst out crying on the floor and I just can't stop it. I want to cry a lot but I seem to get moments like this. I don't understand it. I just want to be left alone by everything and want to just crawl up in a ball and cry all the time. Has anyone had an experience of this? I feel so bad though. My Mum is putting up with a lot with me and doesn't deserve the shouting, smashing and me crying all the time. She deserves better than the way I am treating her.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of isolation, wanting to be left alone, and a sense of worthlessness. The poster also mentions negative feelings towards their mother and feeling like she deserves better, which indicates a potential sense of being disconnected from others and a risk of thwarted belongingness.
+

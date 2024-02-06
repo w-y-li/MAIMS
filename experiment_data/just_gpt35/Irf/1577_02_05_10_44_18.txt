@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I get some traction every so little to give me a false sense of hope and it comes crashing down. I feel like a pussy for not just ending it right now. Fuck this negative shit. I just want to have a life of fucking happiness but NO! I get to have depression for six years and hope to some god it gets better.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement about feeling like a burden and expressing a desire to end their life indicates a risk of perceived burdensomeness, suggesting a possible presence of suicidal ideation.
+

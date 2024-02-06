@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I may have to take short term disability while I'm in the hospital and I'm scared and nervous. Has anyone else done this for hospitalization?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows risk of perceived burdensomeness because the poster expresses fear and nervousness about taking short term disability while in the hospital, suggesting they may perceive themselves as burdensome or dependent on others.
+

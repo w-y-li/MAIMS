@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Hey everyone. First time poster. I've had depression for about 11 years now. I wanted to know if any of you with chronic depression have also experienced this... Now that I am a bit older and have had the illness for so long, I'm kinda more just okay with it? Like I used to get more triggered and depressed simply because I was self-aware that I had an illness, but now that's gone. Is this just another symptom of apathy? Or is it possible to live my life comfortable and aware that I have a mental health problem?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of thwarted belongingness. The poster is discussing their experience with chronic depression and their changing perception of the illness over time. They question whether their current acceptance of their mental health problem is a symptom of apathy. Thwarted belongingness refers to the perception of lacking meaningful social connections, which is not explicitly mentioned in the post.
+

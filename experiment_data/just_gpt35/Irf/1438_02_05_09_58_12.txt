@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  7 units are ending this week, so I won‚Äôt be nearly suffering as much. Thank God. I‚Äôm so exhausted and energy deprived. I really hope this has been worth it...I‚Äôm transferring to university early in the fall and I‚Äôm terrified of it  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of exhaustion, deprivation, and fear of transferring to university. These can indicate a lack of belongingness, which is a potential risk factor for thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Afraid to post my own comments/opinions on social media. I'm just realizing that all of the social medias I have or use (IG/ Twitter, Tumblr, Reddit and so on) I only repost/like other users posts and rarely post my own.. Idk seems like I'm afraid of what others think of me and that I'm insecure about something  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster indicates feelings of insecurity and fear of judgement, which may suggest social anxiety or low self-esteem, but it does not necessarily indicate depression.
+
+Correct
+While analyzing mental health from a post, avoid diagnosing without sufficient evidence. Focus on the information provided and the behaviors or feelings expressed rather than inferring clinical conditions not mentioned. This will ensure a more accurate analysis and prevent overreaching conclusions.

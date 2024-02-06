@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I tried really hard to show you how much i wanted you. and how much i love you. i don‚Äôt know a whole lot, haven‚Äôt even finished school. but i do know one thing and that is that i fucking love you. But, i can‚Äôt anymore. you‚Äôve made yourself very clear. you no longer want me. i just hope you‚Äôre happy. i hope you find what you‚Äôre looking for. because it‚Äôs obviously not me. have a good new year. it‚Äôs pretty sad i can‚Äôt go into it with you. but it is what it is. i love you so much. i always will and i have since the first day i saw you. i hope you‚Äôre happy. take care of yourself.... i love you. goodbye..  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post displays signs of feelings of rejection and a sense of not being wanted or valued by someone they love. The poster expresses sadness and a desire for the other person to be happy, even though they are hurt. These feelings of being unwanted can indicate a risk of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I have never been diagnosed with depression or even talked to a professional about it being a possibility. But I used to think about it a lot. Especially during the last several years of my previous relationship. I felt like the worst human being because my SO was actually a wonderful person, but I couldn't bring myself to feel happy. Instead, I felt trapped. I often thought I would eventually have to consider suicide if I wanted to get out of it, but I didn't need to worry because I wasn't at that stage yet. I just cried a lot. I also grew to find self harm theraputic, but knew I wouldn't do anything 'too far'. When I did end that relationship, I did an emotional 180, which let me justify and blame all those feelings on the relationship. And up until now I believed that. I have been in my current relationship for a little less than a year and I am just starting to feel myself sink. But this time it has nothing to do with my SO. In fact, I'm terrified because I'm so invested in them and I don't want them to see me this way. I'm scared of losing them because all I can do is sit around and be a pathetic mop of a person. I know how good my life is right now so I don't want to do anything to damage it. I don't have anyone that I am comfortable opening up to with my emotional stuff. I don't know if anyone can help me try to get my head in the right place, but I would really appreciate any suggestions on how to take control of my own feelings.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of feeling trapped, thoughts of suicide as a means of escape, self-harm as a coping mechanism, fear of losing the current relationship, and a lack of support system. These factors suggest a potential risk of thwarted belongingness.
+

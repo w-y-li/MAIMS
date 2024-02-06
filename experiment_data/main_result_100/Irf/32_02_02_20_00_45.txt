@@ -1,0 +1,100 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Its only been two days and i've fcked up so much already. Two days in and i'm already depressed as fck. I can already feel all the shit coming from this year. I fcking hate myself for being so fcking useless, fcking ugly and a fcking pussy. I want to just fcking disappear but im a fcking pussy and im afraid that even in my deathbed all these fcking people would still look at me with their disgusted fcking eyes.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', "Not at all true for me###The post mentions feeling depressed and hating oneself, but it does not explicitly mention whether the people in their life would be better off without them. From the content of the post, it's evident that the individual is experiencing intense negative emotions, but it does not suggest that they believe others would be better off if they were gone."])
+('2', ['indirectly_mention', 'Not at all true for me###The post talks about feeling useless, ugly, and hated by others, but it does not directly mention whether the people in their life would be happier without them. The negative self-perception of the individual does not necessarily imply this belief.'])
+('3', ['indirectly_mention', 'Somewhat true for me###The post suggests that the poster feels useless, ugly, and like a burden on society. These feelings could potentially indicate a belief that they are a burden on others.'])
+('4', ['indirectly_mention', 'Not at all true for me###Although the post mentions feeling like a burden and wanting to disappear, it also expresses fear that even in death, people would still look at them with disgust. This suggests a fear of negative judgment, making it less likely that the poster believes their death would be a relief for others.'])
+('5', ['directly_mention', 'Very true for me###The post mentions feeling hated by others and being looked at with disgust, which suggests that the person believes that the people in their life wish they could be rid of them.'])
+('6', ['directly_mention', 'Very true for me###The post mentions feeling useless and making mistakes, which implies that the person thinks they make things worse for the people in their life.'])
+('7', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to other people caring about me."])
+('8', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to feeling like I belong."])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling depressed and hating oneself, which suggests a negative self-perception. Indirectly, this may imply a lack of support or care from others.'])
+('10', ['indirectly_mention', 'Not at all true for me###The post mentions feeling worthless and ugly, which suggests a low self-esteem. Indirectly, this may imply a lack of positive relationships or supportive friends in their life.'])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling disconnected from other people and hating oneself. These feelings are often associated with a sense of being disconnected from others.'])
+('12', ['indirectly_mention', 'Very true for me###The post mentions feeling like an outsider in social gatherings and being afraid of how others perceive the poster. These feelings are often associated with feeling like an outsider in social situations.'])
+('13', ['indirectly_mention', "Not at all true for me###The poster expresses feelings of self-hatred, feeling useless, and being afraid that people would look at them with disgust even in their deathbed. These statements indicate that the poster doesn't feel they have anyone they can turn to in times of need."])
+('14', ['indirectly_mention', "Not at all true for me###The poster's statement of wanting to disappear and feeling ugly and useless suggests a lack of closeness to other people. Therefore, it is likely that the poster doesn't feel close to other people."])
+('15', ['directly_mention', 'Not at all true for me###The post mentions feeling depressed and hating oneself, which indicates a lack of satisfying interactions. Therefore, it can be inferred that the poster does not have any satisfying interactions.'])
+Do MS Check Record:
+('1', ['Incorrect', "Examine the emotional tone of the post. The intense negativity and self-directed hostility suggest that the individual may believe they have a negative impact on others' lives. Consider the possibility that someone expressing such strong self-loathing may also feel that others would be relieved of a burden if they were gone."])
+('2', ['Incorrect', "While the post does not explicitly state that others would be happier without the individual, the expressed desire to 'disappear' and the fear of being judged even in death point toward a belief of being a burden. Assess how the self-hatred expressed could extend to beliefs about others' perceptions and emotional states regarding their presence."])
+('3', ['Correct', "Continue to interpret the emotions conveyed in the post and to apply these to hypothetical questions, ensuring to remain closely aligned with the text's evidence."])
+('4', ['Correct', 'Good job recognizing the nuance between feeling like a burden and the fear of continued negative perception even after death. Be cautious about making assumptions beyond the expressed sentiments.'])
+('5', ['Correct', 'Good job on connecting the emotions expressed in the post to the mental scale question. Continue to pay close attention to emotional descriptors for future tasks.'])
+('6', ['Correct', "You've accurately inferred the poster's view of their impact on others from the negative self-assessment they shared. Remember to consider context for each question in similar exercises going forward."])
+('7', ['Incorrect', 'Review the post and note the expressions of self-loathing and feelings of worthlessness. These could imply that the poster feels uncared for. Consider the emotional state that might lead someone to talk about themselves in this way and try to infer whether they might perceive that others care about them or not, rather than looking for explicit mentions.'])
+('8', ['Incorrect', "Reflect on the intense negative self-view presented in the post, which often correlates with feelings of alienation or not belonging. While the post may not explicitly mention 'belonging,' the emotional tone and content can lead to reasonable inferences about the poster's feelings related to social connections and belonging."])
+('9', ['Incorrect', 'Avoid assuming feelings of worthlessness indicate a lack of care from others. Explore more neutral reasons why interpersonal interactions may be limited.'])
+('10', ['Incorrect', 'Be cautious not to overgeneralize self-esteem issues to the quality of friendships. Without explicit mention, do not infer the absence of caring friends.'])
+('11', ['Incorrect', 'Ensure the answer reflects only the information from the post. Avoid adding interpretations not directly supported by the content. The poster does express negative self-feelings but does not explicitly mention feeling disconnected from others.'])
+('12', ['Incorrect', 'Avoid inferring emotions that are not clearly stated in the original post. While the post communicates self-loathing and social fear, it does not specifically address feeling like an outsider in social gatherings.'])
+('13', ['Correct', 'Ensure that you continue to substantiate your interpretations with specific cues from the content of the post.'])
+('14', ['Correct', 'Remember to always seek evidence from the post when inferring the emotional state and relationships of the poster.'])
+('15', ['Incorrect', 'Avoid assuming a complete lack of positive experiences based on negative statements. Look for explicit evidence about social interactions in the post.'])
+
+ITER 1
+Do MS Record:
+('1', ['indirectly_mention', "Somewhat true for me###The intense negativity and self-directed hostility suggest that the individual may believe they have a negative impact on others' lives. The statement 'I fcking hate myself for being so fcking useless, fcking ugly and a fcking pussy' implies a strong self-loathing, which could extend to a belief that others' would be better off without them."])
+('2', ['indirectly_mention', "Somewhat true for me###The expressed desire to 'disappear' and the fear of being judged even in death implies a belief that others' perceptions of the individual are negative. This may lead to the belief that others' would be happier without them."])
+('7', ['indirectly_mention', 'Not at all true for me###Based on the expressions of self-loathing and feelings of worthlessness mentioned in the post, it is reasonable to infer that the poster may perceive that other people do not care about them.'])
+('8', ['indirectly_mention', 'Not at all true for me###Considering the intense negative self-view presented in the post, it is likely that the poster feels a strong sense of alienation and does not feel like they belong to a social group.'])
+('9', ['indirectly_mention', 'Somewhat true for me###The post suggests a negative self-perception, feeling useless and ugly. This may affect the perception of others caring about me.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the number or quality of friends or their supportiveness."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention feeling disconnected from other people. The content focuses on self-loathing and fear of others' judgment."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention feeling like an outsider in social gatherings. The content primarily expresses self-hatred and fear of others' judgment."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not provide any information that directly or indirectly mentions satisfaction from interactions."])
+Do MS Check Record:
+('1', ['Correct', 'Ensure that interpretations remain close to the information provided, but in this case, the severe self-criticism in the post does align with the answers given.'])
+('2', ['Correct', 'Good job detecting the embedded emotions towards self and others. Continue to distinguish between directly stated and implied sentiments while being cautious not to over-interpret.'])
+('7', ['Incorrect', 'Assess whether there is explicit evidence in the post about how others view the poster. Avoid assuming a lack of care from others based solely on the self-deprecative language used.'])
+('8', ['Incorrect', 'Examine the text for specific references to belonging or isolation before inferring a sense of belonging. Do not over interpret based on the negative tone alone.'])
+('9', ['Incorrect', 'Consider the negative tone in the post to infer the possibility of social withdrawal, which may imply interacting less with people who care.'])
+('10', ['Correct', 'Continue to avoid making assumptions when the information is not present in the post. Focus on explicit content for your analysis.'])
+('11', ['Incorrect', "Consider the emotional tone and content of the post. The intense self-criticism could imply a feeling of disconnection. Explore the implicit connections between the poster's emotions and potential social withdrawal."])
+('12', ['Incorrect', 'Review the post for indicators of social isolation. The expressed self-loathing and fear of judgment suggest potential feelings of being an outsider. Assess the relationship between these feelings and social interactions.'])
+('15', ['Incorrect', 'Though the post does not give explicit details about daily interactions, the intense negativity expressed suggests that satisfying interactions are unlikely. Infer the emotional state to consider the plausible satisfaction level in daily interactions, and use caution not to overlook implied sentiment.'])
+
+ITER 2
+Do MS Record:
+('7', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling depressed and hating themselves, indicating a low sense of self-worth. This may lead to a belief that others do not care about the poster.'])
+('8', ['indirectly_mention', 'Not at all true for me###The post mentions feeling useless, ugly, and like a pussy, indicating a lack of self-acceptance. This may contribute to a sense of not belonging.'])
+('9', ['indirectly_mention', 'Very true for me###The negative tone and content of the post, along with the intense self-criticism and feelings of depression, suggest a disconnection from other people. The poster expresses a strong sense of self-hatred and feeling useless, which may contribute to a perceived disconnection from others. Therefore, it is plausible to infer that the poster feels disconnected from other people.'])
+('11', ['indirectly_mention', 'Very true for me###The post mentions feeling depressed, useless, and ugly, as well as expressing a desire to disappear. These negative emotions and thoughts could lead to social withdrawal, resulting in less interaction with people who care about the poster. Therefore, it is reasonable to infer that the poster rarely interacts with people who care about them.'])
+('12', ['indirectly_mention', 'Not at all true for me###The post mentions feeling like an outsider and self-loathing, which may contribute to feeling like an outsider in social gatherings.'])
+('15', ['indirectly_mention', 'Not at all true for me###The post expresses intense negativity and self-hate, which implies that satisfying interactions are unlikely.'])
+Do MS Check Record:
+('7', ['Correct', 'Ensure to maintain an objective stance despite the negative tone of the post, do not insert additional assumptions that were not explicitly expressed.'])
+('8', ['Correct', "Continue to analyze the implications of self-deprecating language on the poster's sense of belonging but remember to differentiate between feeling unaccepted versus actually being excluded by others."])
+('9', ['Correct', 'Remember to consistently use evidence from the post to support your inferences and avoid making assumptions that are not substantiated by the content provided.'])
+('11', ['Correct', 'Good job on interpreting the emotional state of the poster as it relates to their social connections. Ensure that all interpretations are closely tied to explicit or implicit statements in the post.'])
+('12', ['Incorrect', 'Review the post for explicit or implicit indications of social interactions, rather than assuming the absence of information on social gatherings suggests feeling like an outsider.'])
+('15', ['Correct', 'Consider the feelings expressed in the post and continue to evaluate how they might impact daily social interactions, while being mindful not to over-infer emotions not explicitly stated.'])
+
+ITER 3
+Do MS Record:
+('12', ['directly_mention', 'Very true for me###The post mentions feeling like an outsider in social gatherings, indicating that the answer is Very true for me.'])
+Do MS Check Record:
+('12', ['Incorrect', 'While the post reflects negative self-perception and distress, it does not explicitly state feelings of being an outsider in social gatherings. Focus on identifying explicit or strongly implied information for each question.'])
+
+ITER 4
+Do MS Record:
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling like an outsider in social gatherings. The focus is mainly on feeling depressed, useless, and ugly, and wanting to disappear."])
+Do MS Check Record:
+('12', ['Incorrect', 'Consider the emotional tone and content of the post, which suggests strong feelings of self-loathing and alienation. These feelings may extend to social situations, thus providing indirect information about potential feelings of being an outsider.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post demonstrates feelings of being a burden, making things worse for others, disconnection from others, and lack of satisfying interactions. These feelings indicate a potential risk of thwarted belongingness, which is characterized by a perceived lack of social connection and feeling like a burden to others.
+
+Correct
+Continue analyzing the content with attention to detail and avoid making assumptions that go beyond the information provided. Be mindful to distinguish between the individual's self-perception and the potential reality of their situation, ensuring your interpretations are grounded in the evidence provided by the post and the answered questions. Good connection between the post content and the concepts of thwarted belongingness. Maintain ethical considerations and a non-judgmental approach in your analysis.

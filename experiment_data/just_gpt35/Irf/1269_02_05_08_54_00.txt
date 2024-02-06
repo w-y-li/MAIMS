@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I try to convince myself I‚Äôm depressed so I can have some kind of shitty excuse. In all honesty, I‚Äôm just a bad person who deserves what‚Äôs coming to me. This is karma. The fact that I‚Äôm ever happy goes to show the injustice of this world. I‚Äôm disgusting. A fucking stain.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a belief that the poster is a burden and undeserving, suggesting a risk of perceived burdensomeness.
+

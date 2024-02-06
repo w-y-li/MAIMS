@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  excepting me, I wish to me one only more pain. I don't deserves for anything else. and probably my problems is so stupid and trivial. I probably just delete it's because it's just pile of shit, like me. So just skip this post, don't even vote...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of worthlessness and self-perceived burden, as the poster expresses that they don't deserve anything and views their problems as trivial and stupid. The mention of deleting their post and referring to themselves as a 'pile of shit' also indicates a negative perception of self and potential thoughts of being a burden to others.
+

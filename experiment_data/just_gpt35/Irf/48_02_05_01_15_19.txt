@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I was diagnosed with major depression Nov 2015, since then I have found out that I'm allergic to ssris and few other medications. I remember how I was long before I was officially diagnosed with depression and how I was when before I realized the depression symptoms set in before that summer and I honestly think that I will never be that person anymore. Due to some schedule mishaps, I missed taking my meds on a reg day basis and I felt the same off of them as I do on them. I'm back on them to therapeutic level and nothing. I get moments of excitement but they fade away into the background. I can't think of one thing that I'm happy about. The only really thing I care about is my job. That's it. I do it very well. I've been under the care of a psychiatrist for a year now and in therapy for 2 years. Just putting that out there.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of thwarted belongingness. The poster mentions feeling off of their medication and not being able to think of anything they are happy about, but there is no indication of feeling disconnected from others or lacking a sense of social connection.
+

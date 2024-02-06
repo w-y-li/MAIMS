@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  College has been the worst experience for me. I started out at a community college and then transferred to a small city college in my town that I commute to. First of all, I hated both schools generally. I had always wanted to go off to college but couldn't afford it. Anyway, I have taken only a couple classes each semester because my depression started almost immediately when I first began school. Now it's two years later, I have nothing but general courses, I thought I'd try computer science and hated it...So I'm back where I started. And everyone I went to high school with are graduating now which makes me feel so much worse. I still don't even know what I want to major in. And I really don't want to stay here for two or three more years to finish a degree. Can anyone relate?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of being stuck, lost, and left behind, which can lead to a perception of burdensomeness. They mention feeling worse seeing others graduate while they are still unsure about their major and future plans.
+

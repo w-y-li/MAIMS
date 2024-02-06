@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Sleep is the only escape for me. How can i sleep more? Anyone got any tricks? Especially getting to sleep after you have slept already for a long time? I slept all day and i now want to sleep all night. Any ideas? I don't have any pills right now.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement suggests a desire to escape and a focus on sleep as a way to cope. This indicates a possible feeling of burden and a need for relief.
+

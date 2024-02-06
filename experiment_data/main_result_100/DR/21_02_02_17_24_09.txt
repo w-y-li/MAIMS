@@ -1,0 +1,114 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  No friend left behind? *short* I have a small tight knit group of friends, 6 of us total, who have been friends since early high school years (so about 10/15 years at least). Everybody has their annoying qualities but one of our friends tends to annoy every one of us at different points. This has never changed our friendship. Recently, 4 of them have decided that we should make plans without the “annoying one”. They have begun a group text about plans for hanging out which don’t include her just because they don’t know if they can handle her. I love my friends but I feel this is absolutely horrible to do behind someone’s back, especially someone who they’ve been friends with for so long. I would be devastated if they did that to me and I have a feeling she will find out one way or another. Because of that, I don’t want to be in the discussion with them at all and won’t attend any event they plan in such a sneaky way. I feel like if they didn’t want to be friends anymore they should say something to her to give her a fair chance. Am I overthinking this or on track?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything that indicates the presence of sadness."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything that indicates pessimism about the future."])
+('3', ['directly_mention', "I feel I have failed more than the average person.###The post mentions that the person feels like it is 'absolutely horrible' for their friends to make plans without the 'annoying one'. This suggests that they feel a sense of failure in their ability to maintain a group dynamic without excluding someone."])
+('4', ['directly_mention', "I do not enjoy things as much as I used to.###The post mentions that the person 'won't attend any event they plan in such a sneaky way'. This suggests a loss of pleasure in participating in activities with their group of friends due to their exclusionary behavior."])
+('5', ['indirectly_mention', 'I feel quite guilty most of the time###I feel guilty because my friends are planning events without including one of our friends, and it makes me feel like I am betraying her by going along with it and not standing up for her.'])
+('6', ['indirectly_mention', 'I feel I am being punished###I feel like I am being punished because my friends are intentionally excluding one of our friends from the group and making plans behind her back without giving her a fair chance. It feels like they are trying to teach her a lesson or make her feel bad about herself.'])
+('7', ['directly_mention', 'I dislike myself.###I mention that I would be devastated if my friends did the same thing to me, showing a negative emotion towards myself.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any relevant information or indication towards self-accusations or being self-critical."])
+('9', ['indirectly_mention', 'I do not cry any more than usual.###In the post, I mentioned that I have a small tight knit group of friends, and they annoy me at different points. This suggests that there might be some conflicts or frustrations within the group. However, there is no specific mention of crying, so I can only assume that my crying pattern has not changed.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not discuss any thoughts of killing myself. It mainly focuses on the dynamics within my group of friends and my concerns about their actions towards our mutual friend."])
+('11', ['indirectly_mention', "I am more restless or wound up than usual.###The poster mentions feeling like the situation is 'absolutely horrible' and being 'devastated' if it happened to them. These emotional responses suggest agitation and restlessness."])
+('12', ['directly_mention', "I am less interested in other people or things than before.###The poster explicitly states that they don't want to be part of the discussion and won't attend any event with their friends. This suggests a loss of interest in their friends and social activities."])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###Based on the post, the poster mentions feeling indecisive about whether they are overthinking the situation or on track. This suggests a difficulty in making a decision, indicating that they find it more difficult to make decisions than usual.'])
+('14', ['indirectly_mention', 'I do not consider myself as worthwhile and useful as I used to.###From the post, the poster expresses feeling hurt and devastated by the actions of their friends. This suggests a decrease in self-worth and feeling less useful compared to how they used to perceive themselves.'])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post mentions that the situation with the friends has been bothering me and that I feel devastated. This suggests that the situation is causing me emotional distress, which can often result in a decrease in energy levels.'])
+('16', ['indirectly_mention', 'I have not experienced any change in my sleeping pattern.###The post does not explicitly mention any changes in sleeping patterns. However, since the situation with my friends is causing me distress, it is reasonable to assume that my sleep pattern may be affected. However, there is no direct information provided about changes in sleep, so I will assume it has not been affected.'])
+('17', ['indirectly_mention', "I am no more irritable than usual.###The post states that everyone in the group has their annoying qualities. Although it doesn't directly mention irritability, the fact that the annoying friend tends to irritate everyone suggests that irritability might be present in the group dynamics."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to changes in appetite. There is no mention of appetite or eating habits."])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###The post mentioned that one of their friends tends to annoy every one of them at different points. This annoyance may cause difficulty in concentration and the feeling of not being able to concentrate on anything.'])
+('20', ['directly_mention', "I am too tired or fatigued to do most of the things I used to do.###The post expresses the poster's emotional distress regarding their friends excluding the 'annoying one'. This distress can lead to fatigue and tiredness, making the person unable to engage in their usual activities."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+('1', ['Incorrect', 'Review the post for emotional content, considering the context could imply feelings of conflict or concern rather than an absence of emotion.'])
+('2', ['Incorrect', 'Assess the implications of social dynamics and potential feelings of apprehension or disapproval that can hint at a pessimistic view of the current situation.'])
+('3', ['Incorrect', 'Review the post for explicit expressions of personal failure, avoid assumptions not clearly supported by the text.'])
+('4', ['Incorrect', 'Focus on the content of the post, and do not infer loss of pleasure without clear evidence.'])
+('5', ['Correct', "Ensure future responses are grounded in the content of the post, as you've done here by accurately linking the expressed feelings to relevant emotions. Maintain the same level of sensitivity to the post's detail and context."])
+('6', ['Incorrect', "Reevaluate the emotions the poster is likely to feel based on the given information. There is no indication that the poster feels they are being 'punished' in the situation. Focus on reflecting the poster's perspective accurately without adding unwarranted interpretations."])
+('7', ['Incorrect', 'Re-examine the text for any explicit or implicit indications of self-dislike, rather than inferring it based on a hypothetical scenario.'])
+('8', ['Correct', 'Continue to differentiate between explicit content in the post and making inferences that are not supported by the text.'])
+('9', ['Incorrect', 'To accurately assess for suicidal thoughts or wishes, you must carefully analyze the content of the post for any indicative feelings rather than assuming they are not present because they are not explicitly mentioned. Evaluate the emotional tone of the post and the circumstances described for more nuanced insights.'])
+('10', ['Correct', 'Since the post did not mention crying, your response was appropriate. Continue to focus on what is explicitly stated in the post when questions are not directly addressed in the content provided.'])
+('11', ['Incorrect', 'Consider the context and the specific wording of the post. The poster expresses moral concerns rather than personal agitation. They articulate a sense of injustice rather than restlessness. Focus on the exact feelings mentioned in the post and avoid assuming that moral disgust equates to agitation.'])
+('12', ['Incorrect', "Be cautious not to misinterpret a principled stance as a loss of interest. The poster shows a strong interest in fairness and loyalty, which doesn't suggest a loss of interest in people or activities but rather a conflict with their values. Differentiate between values-driven decisions and a general loss of interest."])
+('13', ['Correct', "Your answer aligns with the content of the post, showing an understanding of the poster's indecisiveness. Continue to analyze the subtleties of the emotions and thoughts conveyed to make accurate assessments."])
+('14', ['Incorrect', "Be cautious of over-inference. The post does not explicitly indicate a sense of worthlessness, it focuses more on the poster's disapproval of their friends' actions. Stick closer to the information provided and avoid presuming emotions not clearly expressed."])
+('15', ['Incorrect', 'Do not infer psychological states or changes without direct evidence from the post. Analyze the text thoroughly and focus only on the provided information.'])
+('16', ['Correct', 'Good job on not making assumptions without explicit evidence in the post. Continue being cautious and only drawing conclusions based on the given information.'])
+('17', ['Correct', "Be cautious not to infer emotional states or traits that are not explicitly mentioned or reasonably implied by the post's content. Good job identifying the irritability implied by the group dynamics."])
+('18', ['Correct', 'Stay focused on the data available in the post. Since it does not mention anything about appetite, it is appropriate to refrain from making assumptions. Your response aligns well with the evidence provided.'])
+('19', ['Incorrect', 'Review the post for explicit mentions of difficulty concentrating due to the situation described, rather than assuming it based on the potential for annoyance.'])
+('20', ['Incorrect', "Focus on the content of the post without overgeneralizing the poster's feelings into physical symptoms like fatigue, unless clearly stated."])
+('21', ['Correct', 'When the social media post does not provide information relevant to the mental scale question, acknowledging the absence of information is an appropriate response. Continue to analyze posts with the aim to identify relevant details and avoid assumptions.'])
+
+ITER 1
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###The post mentions feeling devastated, which suggests a consistent feeling of sadness.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide information related to pessimism or a negative view of the future."])
+('3', ['directly_mention', "I feel I have failed more than the average person.###The post explicitly states that the friends have decided to exclude the 'annoying one' from their plans, which makes the poster feel devastated. This situation can be seen as a failure, as it implies that the poster's friend is not wanted or accepted by the group."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information that indicates a loss of pleasure. It mainly focuses on the dynamics of the friendship and the exclusion of the 'annoying one' from plans."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling punished."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not indicate any feelings of self-dislike."])
+('9', ['indirectly_mention', "I do not have any thoughts of killing myself.###The post doesn't directly mention suicidal thoughts or wishes, but the poster expresses concern about being excluded by their friends. This may suggest a feeling of isolation, which could potentially be related to underlying emotional distress. However, without explicit mentions, it is difficult to determine the presence of suicidal thoughts or wishes."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indications related to agitation. The poster primarily discusses their disagreement with their friends' behavior."])
+('12', ['indirectly_mention', "I am less interested in other people or things than before.###The post mentions that the friends have decided to exclude the 'annoying' friend from their plans, which the poster finds horrible. This suggests that the poster feels less interested in their friends and their activities as a result of this exclusion."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any indication regarding the poster's feelings of worthlessness. It primarily focuses on the poster's disapproval of their friends' actions, not their own self-worth."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of energy. There is no direct or indirect evidence to make a deduction."])
+('19', ['indirectly_mention', "I can not concentrate as well as usual.###The post mentions feeling that it is absolutely horrible to do something behind someone's back and that the poster feels the need to distance themselves from their friends' sneaky behavior. This suggests that the situation is causing distress and affecting their ability to concentrate, indicating a concentration difficulty."])
+('20', ['indirectly_mention', 'I am no more tired or fatigued than usual.###The poster mentions their feelings of being devastated and not wanting to be part of the discussion or attend any events planned by their friends. This suggests that they are emotionally affected by the situation, but there is no direct mention or indication of physical tiredness or fatigue.'])
+Do MS Check Record:
+('1', ['Correct', 'Remember to look for explicit emotional descriptors, as they can be critical indicators of the feelings in question. You did well identifying the link to sadness from the text.'])
+('2', ['Incorrect', 'Review the post again for any subtle cues that might indicate pessimism or optimism. Avoid assuming a lack of information equates to the absence of a trait. Look for implied sentiments or the context that may suggest an attitude towards future experiences.'])
+('3', ['Incorrect', 'Reexamine the text for subtler emotional cues. A sense of failure can also be inferred from feelings of powerlessness and moral dilemmas, not strictly from being explicitly stated.'])
+('4', ['Correct', "Good analysis. Ensure that you aren't inferring feelings that aren't suggested by the text. Stay objective and only extract from the information provided."])
+('6', ['Correct', 'Good job on not making assumptions beyond the information presented in the post. Continue to analyze the content with this level of caution.'])
+('7', ['Correct', 'Well done on avoiding the inference of emotions not depicted in the post. Keep focusing on what is explicitly stated.'])
+('9', ['Incorrect', 'Avoid assuming a lack of mention equates to absence of an issue. Explore potential underlying emotions that could correlate with the content expressed in the post, such as feelings of betrayal or conflict, which could be stressors that relate to the question.'])
+('11', ['Correct', 'Maintain this cautious approach when the post does not provide clear evidence related to agitation. Continue considering the emotional context but refrain from inferring beyond the available information.'])
+('12', ['Incorrect', 'Review the post for explicit and implicit information that pertains to the scale question. The answer should reflect the content of the post without assuming feelings or behaviors not provided by the poster.'])
+('14', ['Correct', 'Continue to make careful assessments of the post content and correlate your answer strictly to the information that is available, without making assumptions.'])
+('15', ['Correct', 'Good job on not assuming information not provided in the post. Keep focusing on what is explicitly stated.'])
+('19', ['Incorrect', 'Avoid inferring psychological states like concentration difficulties without clear evidence from the post. Stick to the information given.'])
+('20', ['Correct', 'While your response was cautious and did not infer beyond the content of the post, consider differentiating emotional states from physical states like tiredness or fatigue unless clearly delineated in the post.'])
+
+ITER 2
+Do MS Record:
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to pessimism or feeling discouraged about the future."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to past failures or feeling like a failure."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes. There is no information provided that could be used to make a deduction about this question."])
+('12', ['indirectly_mention', "I am less interested in other people or things than before.###Although the post does not directly mention a loss of interest, the statement 'Everybody has their annoying qualities' suggests a potential decrease in interest in other people compared to before. This could imply a mild loss of interest."])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###The poster directly mentions that they have concentration difficulties: "Am I overthinking this or on track?"'])
+Do MS Check Record:
+('2', ['Correct', 'Continue accurately assessing the content of the posts without adding unfounded information; stay mindful to answer only what is prompted.'])
+('3', ['Correct', 'Maintain diligence in analyzing the post for the information specified in the question; avoid inferring details that are not present.'])
+('9', ['Correct', "Be cautious not to add information that isn't there; stick to the content provided."])
+('12', ['Incorrect', "Avoid inferring psychological states that are not supported by the text. 'Annoying qualities' doesn't necessarily indicate a loss of interest."])
+('19', ['Incorrect', "Reassess the content from the post directly. The phrase 'Am I overthinking this or on track?' does not explicitly indicate concentration difficulty. It suggests introspection and questioning of one's own judgement. Avoid inferring psychological states that are not clearly expressed."])
+
+ITER 3
+Do MS Record:
+('12', ['indirectly_mention', 'I have not lost interest in other people or activities.###The post mentions that the friends have annoying qualities, but it does not indicate a loss of interest in other people or activities.'])
+('19', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to concentration difficulty. The phrase 'Am I overthinking this or on track?' indicates introspection and questioning of one's own judgement, not concentration difficulties."])
+Do MS Check Record:
+('12', ['Correct', 'Good analysis, but be mindful to consider indirect indicators of interest in activities or people, such as commitment to fairness and valuing friendships.'])
+('19', ['Correct', "You're correct in your assessment. Just remember, to assess concentration difficulty, look for explicit mentions or contextual clues of being easily distracted or having trouble following through with plans."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+Based on the provided answers to the mental scale questions, the poster does not exhibit significant symptoms of depression. Although the poster expresses concern and discomfort regarding their friends' behavior, there is no indication of pervasive feelings of sadness, guilt, loss of interest, changes in sleep pattern, fatigue, or any other characteristic depressive symptoms.
+
+Correct
+Make sure to avoid reading into the situation more than what is presented in the evidence. Also, double-check that the responses you are analyzing are directly from the individual in question and not others mentioned in the post.

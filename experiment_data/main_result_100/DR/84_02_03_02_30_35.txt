@@ -1,0 +1,84 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  I'm having trouble getting along with someone I want to consider a friend Long story short: This guy was originally a friend of a friend, I'll call him Jeff. We all go to the same college and have the same mutual friends. Jeff and I got along pretty well for a bit but recently all he does is piss me off While I get the whole  friends mess with each other  idea, but it just doesn't fly with me and this guy. I may mess around with my friends once in a while and I'm a big joker, but for the most part I just like to have a good time together whenever we do anything whether we play video games, go to the gym, etc. On the other hand, it feels that Jeff goes out of the way to piss me off no matter what we do because he KNOWS it will piss me off. I know typically you want to show no reaction to this kind of thing to avoid fanning the flames but I can't help it I don't know how to deal with him or get the message across. When I tried to sit down with him and talk man to man, Jeff didn't seem to take me seriously and kept going ahead with his previous antics. I talked with our other friends (who have known him longer than I) and they all just told me something along the lines of:  he doesn't mean anything by it, it's just how he is don't get offended . But unfortunately, we don't mix that way. Now Jeff's not inherently a bad person, when he's serious he's actually a pretty good guy. He has helped me out in some tough binds before and has done so for the other guys too, all of which I greatly appreciate. But his behavior to me on a day to day basis just really really pisses me off  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', "I do not feel sad###The post mentions being pissed off and not knowing how to deal with someone, which indicates frustration and anger, but it doesn't directly mention sadness. Based on the information provided, I don't feel sad."])
+('2', ['indirectly_mention', 'I feel discouraged about my future###The post mentions feeling pissed off and not knowing how to handle the situation with Jeff. This indicates a sense of frustration and hopelessness, which can be associated with pessimism. Therefore, I feel discouraged about my future.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person###The post mentions that the person has tried to talk to Jeff about their issues, but Jeff does not take them seriously and continues with his previous antics. This can make the person feel like a failure for not being able to effectively communicate and resolve the situation.'])
+('4', ['indirectly_mention', "I do not enjoy things as much as I used to###The post mentions that the person gets really pissed off by Jeff's behavior on a day-to-day basis. The continuous frustration and negative interactions can lead to a decrease in the person's ability to enjoy things as they used to."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to guilty feelings. The person mainly talks about being annoyed and angry with their friend, but there is no mention of any guilt."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to punishment feelings. The person talks about being constantly annoyed by their friend, but there is no indication that they feel they are being punished."])
+('7', ['directly_mention', "I dislike myself.###The post states that Jeff's behavior makes me pissed off on a day to day basis. This implies that I have negative feelings towards myself, which can be interpreted as self-dislike."])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual.###The post mentions that Jeff goes out of his way to piss me off and doesn't take me seriously when I try to talk to him. This can suggest that I am more self-critical or blaming in this situation, as I am questioning my ability to communicate effectively and manage the relationship with Jeff."])
+('9', ['indirectly_mention', 'I do not have any thoughts of killing myself.###The post indicates that the person is frustrated and annoyed with their friend, but there is no mention of any suicidal thoughts or wishes.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the person's crying habits or frequency."])
+('11', ['directly_mention', "I feel more restless or wound up than usual.###In the post, I mentioned that this person's friend's behavior really pisses me off on a day to day basis. This indicates a higher level of agitation compared to the usual state."])
+('12', ['indirectly_mention', "I am less interested in other people or things than before.###While I don't explicitly mention a loss of interest, I did say that I am having trouble getting along with this person and that his behavior is really pissing me off. This suggests a decrease in my interest in spending time with him or engaging in activities with him."])
+('13', ['indirectly_mention', 'I make decisions about as well as ever.###The post mentions that the person is having trouble getting along with someone, specifically a friend. They also mention that they have tried to sit down and talk with this person, indicating that they are actively trying to address the issue. This suggests that the person is able to make decisions and take action to resolve conflicts, indicating that their decision-making abilities are not significantly impaired.'])
+('14', ['indirectly_mention', 'I do not consider myself as worthwhile and useful as I used to.###The post expresses frustration and annoyance towards the behavior of the person they are having trouble getting along with. This might contribute to a decrease in self-perceived worth and usefulness compared to how they used to feel. However, since the post does not directly mention feeling worthless or compare themselves to others, it suggests a moderate decrease in self-perceived worthiness.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not contain any information related to loss of energy. It focuses more on the relationship issues between the poster and Jeff."])
+('16', ['not_mention', "Doesn't mention at all.###The post does not mention any changes in sleeping patterns. The main concern is the interpersonal conflict between the poster and Jeff."])
+('17', ['directly_mention', "I am more irritable than usual.###The post explicitly states that Jeff's behavior constantly irritates me, causing me to get pissed off on a day-to-day basis."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding changes in appetite."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to concentration difficulty."])
+('20', ['not_mention', "Doesn't mention at all.###No information is provided in the post regarding tiredness or fatigue."])
+('21', ['directly_mention', 'I have not noticed any recent change in interest in sex.###The post directly mentions that I have not noticed any recent change in interest in sex.'])
+Do MS Check Record:
+('1', ['Correct', 'Ensure that your interpretations remain nuanced and based on explicit cues from the post, avoiding the projection of emotions not directly mentioned by the poster.'])
+('2', ['Incorrect', "Avoid making generalizations about the poster's outlook on life based on a specific instance of frustration. Contextualize the sentiment within the scenario without extending it to the poster's overall worldview."])
+('3', ['Incorrect', 'Do not infer feelings of failure if not explicitly suggested. Focus on information given, like frustration with a specific situation, not generalized failure.'])
+('4', ['Incorrect', 'Avoid assuming a loss of pleasure in general life activities based on negative interactions with one individual. Separate specific incidents from overall life experience.'])
+('5', ['Correct', 'Ensure to continue to focus on the content provided, avoiding assumptions about unmentioned emotions such as guilt.'])
+('6', ['Correct', 'Maintain the approach of not inferring emotions that are not implied or directly expressed, such as punishment feelings in this context.'])
+('7', ['Incorrect', "The post does not provide evidence of self-dislike. The poster expresses frustration towards another person's behavior, not a negative self-evaluation. Consider focusing on the literal content and emotional expressions related to others rather than inferring unfounded self-judgment."])
+('8', ['Incorrect', "There's no clear indication of self-accusations. The post reflects annoyance with Jeff's behavior, not self-criticism. Analyze the post for content relating directly to the self, rather than assuming feelings of blame where they aren't explicitly stated."])
+('9', ['Correct', 'Ensure to maintain objective analysis and not infer information that is not present. Good job on not over-inferencing the post.'])
+('10', ['Correct', 'Remember to only draw conclusions based on explicit information provided. Keep up the careful reading to avoid overinterpretation.'])
+('11', ['Correct', 'Keep considering the tone and language used in the original post to accurately gauge emotional states such as agitation. Ensure that you are not overgeneralizing or overlooking nuances.'])
+('12', ['Incorrect', "Avoid equating frustration with a person to a general loss of interest in people or activities. Look for explicit expressions relating to a broad loss of interest before assuming it applies to the poster's overall state of mind."])
+('13', ['Incorrect', 'Review the original post for actual evidence of indecisiveness and avoid assuming that conflict equals poor decision-making. The post shows the individual took definitive action.'])
+('14', ['Incorrect', 'Do not infer worthlessness without explicit indications in the post. Consider basing your analysis solely on the words the poster used without adding assumptions.'])
+('15', ['Correct', 'While your analysis is accurate since the post does not mention energy levels, consider inferring potential underlying factors without drawing direct conclusions. Reflect on whether the described interpersonal issues could indirectly suggest any changes in energy.'])
+('16', ['Correct', 'Good job sticking to the content provided. For future tasks, practice hypothesizing how the described social stressors might affect sleeping patterns without making assumptions unsupported by the post.'])
+('17', ['Correct', 'Well done on recognizing the explicit mention of irritability in the post. Continue to focus on the clear cues provided in the text.'])
+('18', ['Correct', 'Good job identifying the absence of information about changes in appetite in the post. Always ensure your assessments are based only on the available data.'])
+('19', ['Correct', 'While the answer is correct, ensure thorough analysis to confirm the absence of subtle cues about concentration difficulties in the post.'])
+('20', ['Correct', 'Good job identifying the lack of information on tiredness or fatigue. Always be cautious not to assume details not present in the post.'])
+('21', ['Incorrect', 'Carefully analyze the post content to determine if the topic in question is addressed. The post does not mention anything about changes in interest in sex; therefore, do not assume or fabricate information. Base your answers strictly on the provided post and avoid inserting assumptions.'])
+
+ITER 1
+Do MS Record:
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling discouraged about the future. The focus is on the frustration and annoyance caused by the person mentioned, not the poster's pessimism towards the future."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to past failures or feeling like a failure. The main topic is the difficulty in getting along with someone and the frustration caused by their behavior."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of pleasure. The person is frustrated with the behavior of their friend, but their frustration does not extend to a loss of enjoyment in general activities."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not indicate any self-dislike. The person expresses frustration and annoyance towards their friend's behavior, but there is no evidence of negative self-evaluation."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention any self-accusations. Although the poster expresses annoyance with Jeff's behavior, there is no indication of self-criticism or blaming oneself."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention any loss of interest. While the poster expresses frustration with Jeff's behavior, it does not indicate a general loss of interest in people or activities."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to indecisiveness."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to worthlessness."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in interest in sex. There is no information provided to make a proper deduction."])
+Do MS Check Record:
+('2', ['Correct', 'Ensure that you assess each post exclusively for content relating to the question at hand, without inferring or deducting information not present. Remain objective and avoid drawing assumptions beyond what is explicitly stated.'])
+('3', ['Correct', "Continue focusing on directly answering the question based on the information given in the post. If a concept such as 'past failure' isn't addressed or related to the content, it is appropriate to respond that it hasn't been mentioned."])
+('4', ['Correct', 'Continue carefully distinguishing between emotions directed towards specific situations and broader psychological states.'])
+('7', ['Correct', 'Good job in not inferring emotions or feelings that the post does not explicitly provide evidence for. Keep focusing on the information given.'])
+('8', ['Correct', 'Remember to avoid assuming content not found in the original post. Your analysis was accurate based on the given information.'])
+('12', ['Correct', 'Stay objective and only refer to the emotions and behaviors explicitly mentioned in the post. You managed to keep your analysis focused and relevant.'])
+('13', ['Correct', 'Your response to question 13 was appropriate, as the post indeed does not provide any information that suggests indecisiveness. Continue to focus only on the information provided, without making assumptions.'])
+('14', ['Correct', "Your response to question 14 was also correct. The social media post does not discuss feelings of worthlessness. Keep challenging yourself to rigorously analyze the post's content and avoid making unfounded inferences."])
+('21', ['Correct', 'Continue to carefully analyze the content of the posts for relevant information before answering the questions. When the post does not provide the necessary information to answer a question, it is appropriate to acknowledge the lack of information.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster does not exhibit significant symptoms of depression based on the absence of sadness, pessimism, guilt feelings, self-dislike, self-accusations, worthlessness, loss of energy, changes in sleeping pattern, changes in appetite, concentration difficulty, tiredness or fatigue, and changes in interest in sex. Although the poster mentions feeling more irritable and restless than usual, these symptoms alone are not enough to indicate depression.
+
+Correct
+Continue to analyze symptoms cautiously without jumping to conclusions. Maintain a balanced view by considering all the evidence presented, and refrain from overgeneralizing based on limited information.

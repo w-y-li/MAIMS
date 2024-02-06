@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I feel really worthless because The only thing keeping me alive is a video game coming out in 15 days (DOOM eternal) and it won't even last for long. I've been told to tell CAHMS if anything is bothering me but anxiety tells me no. I'm considering jumping off the only skyscraper in my city when I finish the game because there will nothing else to make me happy. I'm just glad that there is something in the world that will make me happy, that is only for a short while though  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feeling worthless and the belief that nothing else will bring happiness in the future, suggesting a risk of perceived burdensomeness.
+

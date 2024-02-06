@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Alright I‚Äôm done for real. I‚Äôm deleting this account. Sick of people ignoring me  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of being ignored by others, which can lead to a sense of burdensomeness where the individual perceives themselves as a problem or nuisance to others.
+

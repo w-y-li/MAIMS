@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Hi, do any of you have practical advice and methods on how to overcome fear? There are some things I have to do which, when I try to start them, cause me to have this intense freezing fear. In my case it can be opening various mail or even starting to read some book. It could even be when I decide to rent a movie. I know I shouldn‚Äôt be afraid and I do not see rational reasons for it, but I get waves of fear that feel like there is a predator that is going to attack. I feel it and I am gripped with stillness and fear as if I am hiding and can‚Äôt move or breathe heavily because it could reveal my position. Because of this I end up not doing things I have to do, missing some deadlines, not going to the dentist. Well the dentist is understandable since no one wants to go to them. In my case it is mundane things. This is probably a symptom of PTSD I am diagnosed with, but I still need to find ways to overcome these irrational fears.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the belief that the people in their life would be better off or happier without them."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any indication or mention about the belief that the people in their life would be better off or happier without them."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling like a burden on society or having thoughts of death being a relief to others in my life."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling like a burden on society or having thoughts of death being a relief to others in my life."])
+('5', ['indirectly_mention', 'Not at all true for me###The post mentions that the fear the poster experiences is irrational and that there are no rational reasons for it. This suggests that the fear is internal and subjective, rather than a result of negative interactions with others. Therefore, it can be deduced that the poster does not think that the people in their life wish they could be rid of them.'])
+('6', ['indirectly_mention', 'Somewhat true for me###The post does not explicitly state that the poster makes things worse for the people in their life. However, the intense freezing fear and the avoidance of daily tasks due to fear can lead to missed deadlines and neglecting responsibilities, which may indirectly affect others and potentially worsen their lives to some extent. Therefore, it can be deduced that the poster believes they make things somewhat worse for the people in their life.'])
+('7', ['directly_mention', 'Somewhat true for me###In the post, the poster mentions the fear they experience and how it results in avoiding certain tasks and missing deadlines. This could indicate a sense of being cared for by others, as missing deadlines may lead to consequences or interventions by others.'])
+('8', ['indirectly_mention', "Somewhat true for me###Although the post does not explicitly mention a sense of belonging, the fear and avoidance mentioned could be indicative of feeling disconnected or detached from others. Fear and avoidance can often impact one's sense of belonging and inclusion."])
+('9', ['indirectly_mention', 'Somewhat true for me###The post indirectly mentions the question by stating that the fear prevents me from doing things I have to do, missing deadlines, and avoiding going to the dentist. These behaviors suggest a lack of interaction and support from others.'])
+('10', ['indirectly_mention', 'Not at all true for me###The post indirectly mentions the question by stating that the fear is irrational and there are no rational reasons for it. This implies that the fear is not related to having supportive friends.'])
+('11', ['directly_mention', 'Not at all true for me###The post mentions feeling disconnected from other people, and the poster asks for practical advice and methods to overcome fear. This suggests that the poster is seeking help and wants to connect with others.'])
+('12', ['directly_mention', 'Not at all true for me###The post mentions feeling like an outsider in social gatherings, as the poster talks about being gripped with fear and stillness, unable to move or reveal their position. This implies a sense of isolation in social situations.'])
+('13', ['indirectly_mention', "Somewhat true for me###The post mentions feeling intense freezing fear when trying to start certain tasks, which indicates a sense of distress or need. This suggests that the person may be seeking support or assistance from others in overcoming their fear. Although the post does not explicitly mention having people to turn to, the mention of seeking practical advice implies a desire for help from others. Therefore, I believe the answer to question 13 is 'Somewhat true for me'."])
+('14', ['indirectly_mention', "Not at all true for me###The post describes feeling fear and being gripped with stillness, which suggests a sense of isolation and an absence of closeness to others. This lack of connection is implied through the mention of not doing things they have to do, missing deadlines, and avoiding certain activities. Although the post does not explicitly mention being close to other people, the overall tone and content indicate a lack of closeness. Therefore, I believe the answer to question 14 is 'Not at all true for me'."])
+('15', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling fear and being gripped with stillness, which indicates a lack of satisfying interactions in daily life.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of disconnection, being an outsider in social gatherings, and lacking close relationships and support from others. These experiences suggest a risk of thwarted belongingness, which refers to the feeling of not belonging or being disconnected from others, leading to distress and potential mental health problems.
+

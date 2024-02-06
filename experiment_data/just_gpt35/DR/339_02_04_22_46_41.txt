@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Would you remain friends with an old friend who you planned to rob? So would you plan on still being friends with that person after you planned to rob their house because you yourself need money urgently. Would you remain friends?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+This post does not provide enough information to determine if the individual is suffering from depression. It mainly reflects a concerning moral dilemma and potential criminal behavior, rather than indicating specific symptoms of depression.
+

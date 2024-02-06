@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I'm lost... I just don't know what to do anymore. I can't control my emotions anymore. I'm pissed one second and crying the next, I'm laughing now and want to end it 5 seconds later. I've tried all my tricks to help and nothing. I'm so depressed lately with everything happening in my life from work to personal to legal. I always feel so alone... I seriously just want to end it lately. I don't want to go on anymore, it's to damn hard and I'm sick and tired of living a life full of torture. üòî  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of being overwhelmed and burdened by multiple issues in life, including work, personal, and legal matters. The poster expresses feelings of helplessness, depression, and a desire to end their life. These thoughts and emotions suggest a risk of perceived burdensomeness, as the individual feels like a burden to themselves and potentially to others.
+

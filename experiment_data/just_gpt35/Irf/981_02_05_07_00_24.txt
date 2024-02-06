@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Fuck canada student loan. You have received confirmation of enrollment yet you continue to take my money three months in a row. And when I call in to deal with it you cant even give me any information because your shit system is down. You vile scum will not be getting another cent that I dont have. I am done. Fuck this country and fuck me for being a stupid fucking idiot and taking out a loan from you pricks. Edit: Those pricks went beyond my overdraft authorization and the money was returned... but now I still have no fucking idea why they told me that I would not have anymore monthly payments in the first place and I have no idea if this will keep happening. The most useless people in the fucking world... if this happens again, I am pretty much fucked.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post contains language expressing self-blame, feelings of being burdened, and a sense of hopelessness. The poster is expressing frustration and anger towards their financial situation and feeling overwhelmed by the student loan payments. This indicates a risk of perceived burdensomeness.
+

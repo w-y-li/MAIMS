@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  The person I love is also depressed. A few weeks ago, they had a short hospital stay for reasons. Since they got out, they've been an entirely different person. Today my depression was referred to as a man period. Two stupid little words. Fucking hurt. If I had ever said anything like that to her about hers, Id be ashamed of myself. I think she's pushing me away so I'll break it off and she can move on guilt free. I don't know what the FUCK to do anymore. I haven't had friends in years. There's no one to talk to.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of social support and feelings of isolation and loneliness. The poster mentions not having friends to talk to and feeling pushed away by the person they love who is also depressed. These factors suggest a possibility of thwarted belongingness, which refers to feeling disconnected and excluded from social relationships.
+

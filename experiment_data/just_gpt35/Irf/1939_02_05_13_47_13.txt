@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I don't know how to go one anymore. My mom stole another 1000‚Ç¨ from me. I'm currently living from 200‚Ç¨ a month. I applied for so many jobs, so many apprenticeship places. Today I got another no from a company. I can't take it anymore. There's so day where my family doesn't shame me for who I am. I've been in therapy many times. It just won't get better. I have a boyfriend, my first real one, but I'm so afraid to lose him, that he choses someone else when he gets the chance like my last dude. I'm so lonely. Even my cat runs away from me when I cry. Please, someone just talk to me  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, loneliness, and burdensomeness. The poster mentions experiencing shame from their family and a fear of losing their boyfriend because they believe they are not good enough. This suggests a risk of perceived burdensomeness, as they may perceive themselves as a burden on others.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I have suffered from my clinical depression for almost one to two years Every day I wake up in misery and tiredness I feel miserable all the time How can people live like that for years???  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate any risk of thwarted belongingness. Thwarted belongingness refers to feelings of exclusion, loneliness, or a lack of social connectedness. The post mainly focuses on the symptoms and experiences of clinical depression, such as feeling miserable and tired all the time.
+

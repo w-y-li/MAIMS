@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  As my depression has only gotten worse and worse over time, this is quite obviously the worst New Years I‚Äôve ever had. I‚Äôm here, laying in bed, browsing this sub while occasionally checking Snapchat to see all of my friends out having the time of their lives. I was invited to a few parties, but it‚Äôs wishful thinking to imagine myself having gone to any of them. So here I am, in this shithole apartment, with my mother sleeping in the bed next to mine so I can‚Äôt even get up to have a smoke without waking her. I‚Äôm only 17, I should be out having fun, meeting people, experiencing my youth, but my depression and anxiety are so bad I could hardly muster up the courage to even set foot outside. I can‚Äôt believe this is how I ended up. I know I know, I‚Äôm still young, I haven‚Äôt quite ‚Äúended up‚Äù anywhere yet, but I‚Äôve more or less made up my mind that suicide is the end goal. And with how bad my depression is getting, it‚Äôs gonna happen sooner rather than later. Anyway, Happy New Year. I hope 2018 won‚Äôt be as rotten as 2017 was but odds are I won‚Äôt make it halfway through before knotting up a rope and hanging myself.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation and loneliness, as the poster mentions being in bed while others are out having fun. They express a desire to be part of social events but are unable to due to depression and anxiety. The mention of suicide as an end goal suggests a deep-seated feeling of not belonging and feeling like a burden to others.
+

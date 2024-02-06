@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I brought this up since it happens around thirty seconds ago I‚Äôll be sitting in school and all of my depressed thoughts just break the dam they are so inconvenient considering they become all i think about how I‚Äôm trash and everyone sees me like that this is fucking brutal I have dealt with this shit for 3 years now I‚Äôve had enough I wish I could get help but I have a very weird head problem we‚Äôre I‚Äôm embarrassed to get help no matter how many times I‚Äôm told getting help is ok I just can‚Äôt see a way out  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a strong sense of perceived burdensomeness as the individual expresses feeling like trash and believing that everyone sees them that way. They also mention feeling stuck and unable to see a way out, indicating a significant level of distress and hopelessness.
+

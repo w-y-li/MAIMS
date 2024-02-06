@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I‚Äôve sat in a dark room for 5 hours staring at a wall, doing nothing. Yet I still felt as bored as if I were to just watch Netflix or play games. I feel bored and scared. Scared that I lost my mind and will never be normal again.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling scared that they lost their mind and will never be normal again. This suggests that they may be feeling a burden to the people in their life and therefore believe that those people would be somewhat happier without them.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the people in the poster's life feeling better off if they were gone."])
+('3', ['indirectly_mention', 'Not at all true for me###The post mentions feeling bored and scared, but it does not directly mention being a burden on society or thinking about death as a relief to others. However, feeling bored and scared may indirectly suggest that the person may not feel like a burden on society or think their death would be a relief to others.'])
+('4', ['not_mention', "Doesn't mention at all###The post does not mention anything related to feeling like a burden on society or thinking about death as a relief to others at all. It solely focuses on feeling bored and scared as a result of sitting in a dark room for a long time."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to how the people in my life wish they could be rid of me."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to how I make things worse for the people in my life."])
+('7', ['directly_mention', "Not at all true for me###I mentioned that I feel bored and scared, which implies that I don't feel supported or cared for by other people."])
+('8', ['directly_mention', "Not at all true for me###In the post, I expressed feeling like I lost my mind and worrying about not being normal again. This suggests that I don't feel like I belong."])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling bored and scared, which could be indicators of a lack of interaction with caring people. However, the post does not explicitly state that the person has rare interactions with people who care about them, so I can only deduce that it is somewhat true.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the number or quality of the person's friends, so I cannot determine whether they are fortunate to have many caring and supportive friends."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling disconnected and scared which can be indicators of feeling disconnected from other people. Based on my experience sitting alone for 5 hours in a dark room, it is likely that I have been feeling disconnected from others, although I am not sure if it is to a very high extent or just somewhat.'])
+('12', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like an outsider in social gatherings. Sitting in a dark room alone for 5 hours can be indicative of feeling like an outsider. However, I am not sure if it is to a very high extent or just somewhat.'])
+('13', ['indirectly_mention', "Somewhat true for me###Although the post doesn't directly mention about being close to other people, the feeling of boredom and fear mentioned in the post can be indicators of emotional distress, which might lead to a desire for social support. Therefore, I would say the answer is 'Somewhat true for me'."])
+('14', ['indirectly_mention', "Not at all true for me###The post expresses feeling scared and worried about losing one's mind and never being normal again, which might indicate a lack of trust and belief in others for support. Therefore, I would say the answer is 'Not at all true for me'."])
+('15', ['indirectly_mention', "Somewhat true for me###While the post doesn't explicitly mention having satisfying interactions, it does convey a sense of boredom and a longing for something meaningful. This suggests that the person may not be experiencing many satisfying interactions in their daily life."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of boredom, fear, and questioning one's own sanity. The answered questions from the mental scale also show a high level of perceived burdensomeness, disconnection from others, and lack of belonging or support. These factors suggest a risk of perceived burdensomeness in the poster's mental health.
+

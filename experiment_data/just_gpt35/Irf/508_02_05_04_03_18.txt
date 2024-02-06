@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  How do I get past my own body protecting me and keeping me alive? I have nobody to talk to, no job skills, and no highschool diploma. I am disabled but I cannot even get disability. I want to commit suicide, I have wanted to for a long time. I have nobody to talk to and the doctors here will never provide adequate help. ow do I push myself past that point?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation, lack of support, and a desire to commit suicide due to not having anyone to talk to and not receiving adequate help from doctors. These factors suggest a risk of thwarted belongingness, which is a psychological state where an individual feels disconnected from others and lacks a sense of belonging.
+

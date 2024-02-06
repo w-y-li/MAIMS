@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I love my mum, she‚Äôs my mum for gods sake, but when I went to do something, she saw I was on here. Don‚Äôt get me wrong, it‚Äôs my fault for leaving my phone on the desk, but I‚Äôve tried all I can. My mums put me in therapy but that‚Äôs not helping at all. I just don‚Äôt want to seem like I‚Äôm not okay because, for the past month, everyone walks on egg shells with me. I want to die, I haven‚Äôt got a reason to live other than ruin my life. I‚Äôve been told that I matter but the words don‚Äôt mean anything when I‚Äôve been told that I‚Äôm worthless and should give up. I‚Äôve had to lie to my mum because I‚Äôve been close to suicide multiple times. I turn 18 this year as well so then I‚Äôll be out of the support of my parents. I feel lost. I want my mum to think I‚Äôm happy, yet, I‚Äôm so fucking suicidal I‚Äôve lost so many people. I might as well be dead if I keep pushing people away  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of isolation, loneliness, and a desire for a strong sense of belonging. The person mentions being close to suicide multiple times and feeling lost, which further indicates a risk of thwarted belongingness.
+

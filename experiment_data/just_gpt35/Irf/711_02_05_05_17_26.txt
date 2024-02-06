@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Within just two days I managed to drive a close friend out with my own conflicting emotions, be hit with 4 dysphoria attacks, and continue to feel abandoned, neglected, and blatantly ignored by the people that I consider my friends. With my current home life I don't have access to therapy either and truthfully, I don't know how much that would help. I fucking hate being like this. I fucking hate having such conflicting emotions all the time, I always want to go to my friends for help but every time I try, I chicken out because I feel like I'm pressuring them, or that I'd just be even more of a burden to them. At least I still have some things to help cope, I suppose. Hooray to another shitty year of a shitty life.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden to others and not wanting to reach out for help due to fear of pressuring others or being seen as more of a burden. This demonstrates a risk of perceived burdensomeness.
+

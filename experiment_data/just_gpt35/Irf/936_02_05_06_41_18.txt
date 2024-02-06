@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  :) was a mistake not to kill myself last christmas.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of low self-worth and regret for not engaging in self-harm. This demonstrates a strong feeling of social disconnection and potential thwarted belongingness.
+

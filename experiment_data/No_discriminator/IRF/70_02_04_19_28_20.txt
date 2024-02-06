@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm new to reddit as of today. Recently, my depression has been super bad and I've been hoping for some other support besides the usual  but your life seems to be going well  and  dont be to hard on yourself  that I get from my parents. I dont really have anyone I feel I can connect to, so hopefully I can find someone here that is going through something similar. The few people ive talked to about it tell me that I have no reason to be sad because Im super high in my class rank, get high grades, got into a college with some big scholarships, and have been first chair hornist in my school band (or they say im just stressed out, which i am, but its just adding to my depression and making me feel even worse). Truth is, I have never really fit in or connected with anyone at school, leaving me with many shallow friendships and no one I feel I can trust. Work isnt any better either. Minimum wage for a shitty retail job and the only coworker who i got close to and who could understand me refuses to talk to me now for literally no reason given. Hell, im only 17 and I already feel stuck in an endless cycle of anger and disappointment that im going to be in stuck in for 2017 and the rest of my fucking life. If anyone is going through even a somewhat similar situation please let me know because i feel so alone with this.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about whether the people in their life would be better off without them."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything about whether the people in their life would be happier without them."])
+('3', ['indirectly_mention', "Not at all true for me###The post mentions that the few people the poster has talked to tell them that they have no reason to be sad because of their accomplishments and successes. This could indicate that the poster may feel like they are a burden on society because others don't understand how they can be depressed despite their achievements."])
+('4', ['indirectly_mention', 'Not at all true for me###The post mentions feeling stuck in an endless cycle of anger and disappointment. This suggests that the poster may have thoughts of death as a relief to escape their current situation and feelings of hopelessness.'])
+('5', ['indirectly_mention', "Somewhat true for me###The post mentions that the person feels like they don't fit in or connect with anyone at school, and that they have shallow friendships and no one they feel they can trust. This could lead to the belief that the people in their life wish they could be rid of them."])
+('6', ['directly_mention', 'Somewhat true for me###The post mentions that the person feels stuck in an endless cycle of anger and disappointment that they believe will continue for the rest of their life. This could contribute to the belief that they make things worse for the people in their life.'])
+('7', ['indirectly_mention', 'Somewhat true for me###The post mentions that the few people the poster talked to tell him/her that he/she has no reason to be sad because of his/her achievements. This implies that there are people who care for him/her, even though the support may not be sufficient.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to the feeling of belonging. It mainly focuses on the lack of connection and trust with others."])
+('9', ['indirectly_mention', 'Somewhat true for me###The poster mentions feeling alone and not being able to connect with anyone, which suggests a lack of people who care about them. However, they also mention talking to a few people about their depression, indicating that they do have some interaction with others who may care about them to some extent.'])
+('10', ['indirectly_mention', 'Not at all true for me###The poster expresses feeling alone and having shallow friendships, implying that they do not have many caring and supportive friends. However, they mention talking to a few people about their depression, indicating that they do have some interaction with others who may be supportive to some extent.'])
+('11', ['directly_mention', "Very true for me###I mentioned that I don't feel connected to anyone and that I have shallow friendships."])
+('12', ['directly_mention', 'Very true for me###I mentioned that I have never really fit in or connected with anyone at school.'])
+('13', ['indirectly_mention', "Somewhat true for me###Based on the post, the person mentions that they don't feel like they have anyone they can connect to or trust. However, they express hope that they can find someone here who is going through something similar. This suggests that they are open to turning to others in times of need, although they may not currently have that support network in place."])
+('14', ['indirectly_mention', 'Not at all true for me###In the post, the person mentions that they have never really fit in or connected with anyone at school and have only shallow friendships. They also mention that a co-worker who they were close with is now refusing to talk to them. This lack of close connections and the feeling of being alone indicates that they are not close to other people.'])
+('15', ['indirectly_mention', "Somewhat true for me###The post mentions that the individual doesn't feel they have anyone they can connect to. This suggests a lack of satisfying interactions, but it doesn't specify if they have at least one every day. Therefore, I can only assume the answer is somewhat true for me."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of loneliness, isolation, and a lack of meaningful connections with others. The poster expresses feelings of not fitting in, shallow friendships, and not being able to trust anyone. These feelings of social disconnection and the desire to find someone who can relate to their situation suggest a risk of thwarted belongingness.
+

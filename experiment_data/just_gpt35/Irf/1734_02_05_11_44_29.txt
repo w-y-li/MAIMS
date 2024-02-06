@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My husband and I just had a huge argument and he stormed out. I should be crying or stopping him or something. But I decided to take a handful of benzos instead. Now I just hope I can sleep. I wish I could sleep for the rest of 2017... Happy fucking new year.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of loneliness and isolation, as the person mentions a huge argument with their husband and feeling the need to take a handful of benzos to cope. This suggests a potential risk of thwarted belongingness, as they may feel disconnected and lacking in meaningful connections with others.
+

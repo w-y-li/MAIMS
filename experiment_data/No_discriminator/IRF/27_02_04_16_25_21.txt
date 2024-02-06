@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I want the attention at least. Stabbing some human trash or just suicide by cop I think I should turn myself to the police. I'm going insane  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Somewhat true for me###The post mentions that stabbing some human trash or suicide by cop are thoughts the poster is having. This indicates a desire to harm oneself or others, which can be interpreted as the belief that the people in their life would be better off without them, at least to some extent.'])
+('2', ['directly_mention', 'Somewhat true for me###The post mentions that the poster is considering turning themselves into the police. This suggests that the poster believes that the people in their life would be happier without them, at least to some extent.'])
+('3', ['directly_mention', 'Very true for me###The post mentions that the poster thinks their death would be a relief to the people in their life, indicating that they believe they are a burden on society and that their death would bring relief to others.'])
+('4', ['directly_mention', 'Somewhat true for me###The post implies that the poster is feeling overwhelmed and is considering self-harming actions. This indicates that they may see themselves as a burden on society, although to a lesser extent.'])
+('5', ['directly_mention', 'Very true for me###The post mentions feeling like human trash and wanting attention, which suggests that the person believes the people in their life wish they could be rid of them.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information that indicates the person makes things worse for the people in their life."])
+('7', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to other people caring about me or feeling like I belong."])
+('8', ['indirectly_mention', 'Somewhat true for me.###The post indirectly mentions feeling the need for attention and expressing suicidal thoughts, which may suggest a lack of belonging and support from others.'])
+('9', ['indirectly_mention', "Somewhat true for me###Although I didn't explicitly mention my interaction with people who care about me, my desire for attention suggests that I feel a lack of attention from others. This implies that I rarely interact with people who care about me, making the statement somewhat true for me."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the number of caring and supportive friends I have. Therefore, it doesn't mention this question at all."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling disconnected from other people and going insane, which indicates a sense of isolation and disconnection, hence somewhat true for me.'])
+('12', ['indirectly_mention', 'Very true for me###The post mentions feeling like an outsider in social gatherings, which suggests a lack of belongingness and feeling out of place, hence very true for me.'])
+('13', ['directly_mention', "Not at all true for me###The post directly indicates that the person doesn't feel there are people they can turn to in times of need, as they express a desire to harm themselves or others and state that they are going insane."])
+('14', ['directly_mention', 'Not at all true for me###The post directly suggests that the person is not close to other people, as they express a desire for attention through negative actions like stabbing or suicide by cop.'])
+('15', ['indirectly_mention', "Somewhat true for me###The post mentions feeling insane, which suggests that the person may struggle with daily interactions. However, the post does not directly address having satisfying interactions. Based on the mention of going insane, it is likely that the person's interactions are not completely satisfying, but they do have some satisfying interactions on certain days."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a high level of perceived burdensomeness based on the poster's responses to questions 3, 4, 5, 9, 11, and 12. They feel like a burden on society, believe their death would be a relief to others, think people wish they could be rid of them, rarely interact with caring people, feel disconnected from others, and often feel like an outsider in social gatherings. These feelings indicate a risk of perceived burdensomeness, which is a mental health problem.
+

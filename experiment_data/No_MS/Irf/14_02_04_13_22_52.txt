@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Just like the title says, I have no good ways of doing the deed. Want to keep it non-gory for my kids sake. Consumed 90% of my waking days thinking about it. At my wits end with my wife even though we have a pretty decent relationship by most people's standards. Hell, we are the couple all our friends wish to be. Yet I have no desire to stay on this earth and continue to be unhappy with myself and my place, my purpose, and feelings of never being good enough for anyone or anything despite the constant praise and nut sucking of how smart I am and how much potential I have. Well if that was all true I'd never have been abused as a kid, treated like I have been as an adult, and maybe my life would be in a positive place. It's not so obviously all that other bullshit isn't true. Fuck it. I'm so done.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of feeling unworthy and inadequate, as well as a desire to escape from life due to unhappiness and feelings of never being good enough. These feelings can contribute to a sense of thwarted belongingness, as the individual may perceive a lack of connection or acceptance from others despite having a decent relationship with their spouse and receiving praise for their intelligence and potential.
+
+Correct
+Excellent inference on the sense of thwarted belongingness. However, ensure not to overreach beyond the presented information, and avoid assuming negative characteristics not explicitly mentioned. Maintain the objective stance you've demonstrated here in future analyses.

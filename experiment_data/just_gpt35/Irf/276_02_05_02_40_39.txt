@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  i want to feel something other than suicidal. it‚Äôs the only thing i think about and it‚Äôs the only thing I look forward to. i want to feel true happiness for once and not just happy off drugs. im so sick of feeling like shit constantly and I can‚Äôt handle it anymore.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and desperation, with the individual expressing a desire to feel something other than suicidal. The mention of only looking forward to suicidal thoughts and finding temporary happiness through drugs suggests a lack of connection and belongingness, potentially indicating risk of thwarted belongingness.
+

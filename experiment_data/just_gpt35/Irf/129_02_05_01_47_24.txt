@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I‚Äôve mentioned it a couple times on here lately, but my depression has been ruining most parts of my life, including job performance. I‚Äôve got a meeting in the morning with my bosses about my poor performance and I think I‚Äôll be fired. Does anyone have any similar experiences? How did you handle it? How would you begin to explain to your boss the toll depression takes on you and your performance. My meeting is at 8am tomorrow morning and I‚Äôm desperate to talk to people with similar experiences. Thank you so much. **Update:** Thank you everyone for your support, kind words, and sharing your own experiences. I had the meeting today. I have to admit I broke down a bit, had trouble getting sentences out, but I tried my best to explain how depression was affecting me and my job performance. They were very kind and understanding, but still said I need to either resign or they will have to start the termination process. Long story short: It‚Äôs over, I failed again.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of perceived burdensomeness where the poster feels that their depression is negatively impacting their job performance and that they may be fired as a result. They also express desperation in seeking advice and support from others who may have had similar experiences.
+

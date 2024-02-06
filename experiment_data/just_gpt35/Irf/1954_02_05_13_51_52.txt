@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  i know running away from your problems is bad but i need to get out of town i need to go on a trip i need it  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post indicates a desire to escape and take a trip, which suggests a desire for a break or change of scenery. It does not directly express feelings of exclusion or disconnection from others, which are characteristic of thwarted belongingness.
+

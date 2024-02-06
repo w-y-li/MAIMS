@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I was diagnosed with borderline disability and it's making me suicidal and homicidal. I've never accomplished anything in my life I have no ged, no job, no licence all I want to do is get a ged so I can go to college to study a trade. Why do people with learning disability have to take the same test as people who don't have learning disability of course it would be easier for them but for us the test feels like a foreign language to me. Also I'm going to be homeless because of me nobody else fault my parents want me to stay but if they die I will be homeless anyways.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual feels like a burden to others and believes that their existence causes difficulties and problems for those around them. They mention being homeless if their parents were to die, indicating a sense of dependency and burden on their parents as well.
+

@@ -1,0 +1,112 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Just found out my mum is pregnant. Advice on big age gaps between siblings would be appreciated. I have two younger sisters, and we're all really close in age (my youngest sister is 3 years younger than me), but I'm turning 20 this year. So this new baby will be 20 years younger than me. I'm not sure how to feel. My sisters and I are fairly close, and I'm worried that we won't be able to bond with our new sibling because of the huge age difference. We'll probably have all moved out in a few years (I've been planning on moving out this year) so we won't even get to have time to make those connections like we did with each other. It's just that it doesn't even feel real to me yet. Like if I was told that a relative or family friend was pregnant, not my own mother. If anyone has any advice or experience with something like this I would be really grateful to hear it. Thank you.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The post mentions the concern about not being able to bond with the new sibling due to the huge age difference and the fear of not being able to make connections like they did with their sisters. These concerns can contribute to feelings of sadness.'])
+('2', ['indirectly_mention', "I feel discouraged about my future.###The post expresses worry about not being able to bond with the new sibling and the fear that they won't have time to make connections before moving out. These concerns can lead to feelings of pessimism about the future."])
+('3', ['indirectly_mention', "I feel I have failed more than the average person.###The post mentions the worry that the new baby won't be able to bond with the siblings because of the huge age difference. This suggests a concern about potential failure in forming a strong sibling bond due to the age gap."])
+('4', ['indirectly_mention', "I do not enjoy things as much as I used to.###The post expresses worry about not being able to make connections with the new sibling and mentions the feeling that the situation doesn't feel real yet. This suggests a decrease in enjoyment or pleasure related to the anticipation and uncertainty surrounding the arrival of the new baby."])
+('5', ['indirectly_mention', "I feel quite guilty most of the time.###In the post, I mentioned that I'm worried that we won't be able to bond with our new sibling because of the huge age difference. This shows that I have concerns about the potential impact of the age gap on our relationship, which can lead to feelings of guilt for not being able to connect with them as much as I did with my younger sisters."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not contain any information related to punishment feelings. It solely focuses on the concerns about the age gap between siblings and the potential impact on bonding."])
+('7', ['directly_mention', 'I dislike myself.###In the post, I mentioned that I am worried about not being able to bond with my new sibling because of the age difference. This indicates a self-dislike as I feel concerned about my ability to connect with my sibling.'])
+('8', ['directly_mention', 'I do not criticize or blame myself more than usual.###The post does mention any self-accusations. I stated that I am worried about the potential lack of bonding with my new sibling due to the age difference. This does not indicate any excessive self-criticism or blaming.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything about suicidal thoughts or wishes."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about crying."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not contain any information that directly or indirectly addresses the question about agitation. The post focuses on the age gap between siblings and the concerns about bonding with the new sibling."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to a loss of interest. The main focus is on the age difference between siblings and the worries about bonding with the new sibling."])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###In the post, I mentioned being unsure about how to feel and expressing worries about bonding with the new sibling. This indicates a level of indecisiveness and uncertainty in my current situation.'])
+('14', ['directly_mention', 'I do not consider myself as worthwhile and useful as I used to.###In the post, I mentioned feeling worried about not being able to bond with the new sibling due to the age difference. This suggests a potential decrease in self-worth and feeling less worthwhile compared to my younger sisters.'])
+('15', ['directly_mention', 'I have less energy than I used to have.###The post mentions that the poster is worried about not being able to bond with the new sibling due to the huge age difference. This concern suggests a potential decrease in energy levels as the individual may feel less motivated or capable of engaging with a much younger sibling.'])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###The post suggests that the poster is feeling unsure and worried about the new sibling, which may lead to changes in sleeping patterns. The mention of feeling unsettled and the potential impact on bonding with the new sibling could contribute to a mild disruption in sleep, resulting in sleeping somewhat less than usual.'])
+('17', ['indirectly_mention', '###I have been feeling more irritable than usual lately. The stress and uncertainty of having a new sibling with such a big age difference might be contributing to my increased irritability. '])
+('18', ['indirectly_mention', "###My appetite has been somewhat less than usual. The news of my mom's pregnancy and the concerns about bonding with the new sibling might be affecting my appetite. "])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to concentration difficulties."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to tiredness or fatigue."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+('1', ['Correct', 'Continue to connect the dots between the emotions you infer and evidence from the post. Maintain a balanced perspective and avoid overgeneralizing feelings.'])
+('2', ['Correct', 'Ensure that any pessimism inferred is directly linked to specific details in the post. Stay cautious of attributing more negative sentiment than what is expressed.'])
+('3', ['Incorrect', 'Focus on the explicit content of the post. There is no direct indication of past failures, only worries about future bonding. Avoid overgeneralizing emotions or feelings that are not explicitly stated.'])
+('4', ['Incorrect', 'Be cautious of assuming a loss of pleasure without evidence. The poster only shares a concern for future sibling relationships, not a broader decrease in enjoyment. Stay true to the information provided.'])
+('5', ['Incorrect', "Review the original post and focus on extracting sentiments truly expressed by the poster. Avoid projecting emotions like guilt that aren't explicitly stated or strongly implied by the situation described. Utilize direct quotes or clear implications from the post to justify feelings related to the questions."])
+('6', ['Correct', "Continue to carefully discern which emotions are relevant to the posts you analyze. It's important to avoid making assumptions about feelings not indicated by the author, as you've demonstrated by not inferring punishment feelings where there were none evident."])
+('7', ['Incorrect', 'Do not equate worry about a specific situation with overall self-dislike. Focus on analyzing the information provided in the post. In this case, the concern is about bonding with the new sibling, not about disliking oneself. Refrain from making assumptions that are not supported by the content of the post.'])
+('8', ['Correct', "Good job identifying that the post doesn't mention self-accusations. Continue to distinguish between the poster's concerns about a situation and self-directed criticism or blame, as they are not the same."])
+('9', ['Correct', 'Continue to answer only what is explicitly mentioned or reasonably implied by the post while avoiding assumptions not supported by the content.'])
+('10', ['Correct', 'Maintain focus on the information given without inferring details that are not present. Good job on not overreaching beyond the content of the post.'])
+('11', ['Correct', 'Ensure that your analysis remains focused on the content provided without assuming or adding extra details. Maintain this level of discipline in your assessments.'])
+('12', ['Correct', 'Well done on not making assumptions beyond the information given. Continue to answer based solely on the content of the post.'])
+('13', ['Correct', "Continue to reflect on the post's content to extract relevant emotional indicators, but ensure to differentiate between indecisiveness and general uncertainty or concern."])
+('14', ['Incorrect', "Avoid conflating concern for relationship building with feelings of worthlessness. The post doesn't suggest a loss of self-worth; focus on the information provided without over-inference."])
+('15', ['Incorrect', "Avoid making assumptions about the poster's energy levels based solely on concerns expressed. Stick to information provided in the post without inferring psychological states that are not explicitly mentioned."])
+('16', ['Incorrect', 'Be cautious not to infer changes in sleeping patterns from unrelated information. Focus on analyzing the content of the post for direct or indirect indications related to sleep, rather than speculating based on feelings of uncertainty.'])
+('17', ['Incorrect', 'Avoid assuming emotions not explicitly stated in the post. Focus on what is shared, and refrain from inferring feelings of irritability unless directly mentioned or strongly implied.'])
+('18', ['Incorrect', 'Do not project symptoms like changes in appetite without clear evidence from the post. Instead, offer neutral responses if the post does not provide sufficient detail on the topic.'])
+('19', ['Correct', 'In future tasks, continue to carefully analyze the content of the posts. Ensure the post content directly pertains to the question before making inferences.'])
+('20', ['Correct', "Maintain focus on the information provided within the post. Remember not to assume psychological states that aren't explicitly mentioned or clearly inferred from the content."])
+('21', ['Correct', 'Ensure that all your responses stay strictly relevant to the content of the post. If the post does not provide information related to the mental scale question, it is appropriate to indicate that there is no mention of it.'])
+
+ITER 1
+Do MS Record:
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to past failures. The poster is seeking advice on big age gaps between siblings and expresses concerns about bonding with the new sibling due to the age difference. There is no explicit content about past failures."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to a loss of pleasure. The poster expresses worries about bonding with the new sibling and the potential lack of time to make connections like they did with their younger sisters. There is no explicit content about a decrease in enjoyment."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling guilty."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything about self-dislike."])
+('14', ['indirectly_mention', "I do not consider myself as worthwhile and useful as I used to.###The post mentions concerns about bonding with the new sibling due to the age difference. This suggests a potential decrease in the poster's feelings of worth and usefulness compared to when they were closer in age with their siblings."])
+('15', ['indirectly_mention', "I have less energy than I used to have.###The post mentions the poster's plan to move out and the potential lack of time to make connections with the new sibling. This suggests a decrease in energy to engage in building a relationship with the sibling."])
+('16', ['indirectly_mention', "I have not experienced any change in my sleeping pattern.###The post mentions the upcoming arrival of a new sibling, which has caused the poster to feel uncertain and worried. However, there is no direct mention of any changes in the poster's sleeping pattern. Therefore, I can only make an indirect inference that there has been no change in their sleeping pattern based on the absence of any related information."])
+('17', ['indirectly_mention', 'I am no more irritable than usual.###The post discusses the concerns and uncertainty surrounding the upcoming birth of a new sibling, but does not directly mention any increased irritability. Therefore, I can only make an indirect inference that the poster is no more irritable than usual based on the lack of specific mention or indication of increased irritability.'])
+('18', ['directly_mention', 'My appetite is somewhat less than usual.###The poster mentions being worried about not being able to bond with their new sibling due to the age difference. This worry might lead to a decreased appetite, as it is a common symptom of stress and anxiety.'])
+Do MS Check Record:
+('3', ['Correct', 'Your response to question 3 is accurate. Remember to analyze the content closely and only draw conclusions based on explicit information presented in the post when determining relevance to the mental scale questions.'])
+('4', ['Correct', 'Good job on question 4. Keep focusing on the information given without making assumptions that extend beyond the content of the post. Continue practicing identifying relevant details that pertain to the mental scale questions.'])
+('5', ['Incorrect', 'Re-examine the post for underlying emotions; guilt can manifest as worry or concerns about future relationships.'])
+('7', ['Incorrect', 'Consider subtle cues that may suggest self-dislike, such as comparing oneself to others or expressing uncertainty about their role.'])
+('14', ['Incorrect', 'Focus on the explicit content expressed in the post. The student inferred feelings of worthlessness where there is no clear evidence for this in the post. Advise considering only information given or logically implied.'])
+('15', ['Incorrect', "Do not confuse life changes with a loss of energy. The post does not mention any decrease in energy levels. Address the capacity for relationship building without assuming that it reflects on the poster's energy levels."])
+('16', ['Correct', "Ensure you continue to avoid making assumptions not supported by the text and strive to maintain objectivity. It's important to only draw conclusions that are directly supported by the evidence provided in the post."])
+('17', ['Correct', 'Good job on avoiding the attribution of emotions or states not explicitly mentioned. Keep focusing on what is written rather than what might be implied, unless strong cues suggest otherwise.'])
+('18', ['Incorrect', 'Focus on concrete evidence within the post related to the question. Do not draw inferences about appetite without textual support. Analyze whether the content directly references changes in appetite; if not, refrain from conjecture.'])
+
+ITER 2
+Do MS Record:
+('5', ['directly_mention', 'I feel guilty all of the time.###The poster expresses worry and concern about not being able to bond with their new sibling due to the age difference. This suggests underlying guilt, as they feel they may be neglecting their sibling or not forming a strong connection with them.'])
+('7', ['indirectly_mention', 'I am disappointed in myself.###The poster mentions feeling uncertain and worried about the new baby and their ability to bond with them. This uncertainty and worry may stem from a disappointment in themselves, as they may feel inadequate to connect with their new sibling due to the age gap and their future plans to move out.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feelings of worthlessness."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of energy."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in appetite. There is no information provided that would indicate whether the person has experienced any change in their appetite."])
+Do MS Check Record:
+('5', ['Incorrect', 'Avoid assuming feelings not explicitly mentioned. The poster does not explicitly mention feeling guilty, focus on what is stated about their concern for bonding and feeling of unreality.'])
+('7', ['Incorrect', "Do not infer self-dislike without clear evidence from the post. The poster expresses worry about the situation, not necessarily disappointment in themselves. Focus on the poster's expressed feelings about the changes coming up."])
+('14', ['Correct', 'Keep focusing on the content that is explicitly stated in the post without assuming or adding emotions not expressed by the poster.'])
+('15', ['Correct', 'Continue to differentiate between what is implied and what is directly stated in the social media post to avoid incorrect inferences.'])
+('18', ['Correct', 'Keep analyzing the content as you did, focusing only on information provided without making assumptions.'])
+
+ITER 3
+Do MS Record:
+('5', ['indirectly_mention', 'I feel the same about myself as ever.###The post does not directly mention self-dislike, but the poster expresses concern and worry about the situation. This suggests that they still feel the same about themselves and have not developed self-dislike.'])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling guilty. The focus is mainly on the concern about bonding and the age gap between siblings."])
+Do MS Check Record:
+('5', ['Incorrect', "Review the original post carefully. Even if guilty feelings aren't explicitly mentioned, consider the implications of the poster's concerns on their emotional state. Discuss these findings rather than denying any connection."])
+('7', ['Correct', "Remain objective and avoid making assumptions not supported by the post's content. Continuing to focus on the information given is the right approach for questions that are not addressed in the post."])
+
+ITER 4
+Do MS Record:
+('5', ['indirectly_mention', 'I feel quite guilty most of the time .###The post mentions that the poster is worried about not being able to bond with the new sibling due to the age difference. This worry and concern about the potential lack of connection with the new sibling could lead to feelings of guilt, as the poster may feel responsible or guilty for not being able to form a close bond with their new sibling.'])
+Do MS Check Record:
+('5', ['Incorrect', 'Focus on the actual content of the post. The poster expresses concern and uncertainty, rather than direct guilt. Analyze the emotions stated rather than inferring those not explicitly mentioned.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster does not exhibit significant symptoms of depression based on the answered questions of the mental scale. While there may be concerns and anxieties surrounding the age gap between siblings, the poster does not indicate feelings of sadness, pessimism about the future, self-dislike, self-accusations, or other depressive symptoms.
+
+Correct
+Continue to evaluate the symptoms reported against the mental health scale without inferring issues that are not indicated by the evidence provided. Maintain an objective perspective and avoid attributing qualities or states to the individual that are not substantiated by the information given.

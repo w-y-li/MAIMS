@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Is it possible to fake depression? I have been feeling bad for about 7 months now. There are periods where I cry on a daily basis, I never feel like talking, I struggle concentrating and collecting thoughts, I feel such an extreme sadness inside of me also in happy situations, I am exhausted all the time even if I sleep 10 hours straight, I often have headaches, I am completely alone and I find it difficult to do anything. There are nights where it’s unbearable. I think about my situation: I am completely alone, I am failing at anything because I am so weak I can’t handle my feelings, I feel guilt for everything that happens around me, I can’t carry on anymore, I am always here in this dark place and I feel that I have no right to be like this. I used to self harm and I still have many scars on my skin, but I think to be disrespectful to those who truly struggle then I promised to cut never again. I shouldn’t have the right to do so. My life is void, I am void, and I can’t get the energy to do anything ever. I do not get pleasure from what I used to love, nothing seems to make me feel something good. I can enjoy no series, no book, no videogame like I used to. I think I don’t even deserve to eat. I am just trying to pity myself giving myself depression, but I don’t have it. Is it possible to fake depression? Could it actually be an excuse for me to not take responsibility of the failure that I am?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster is describing symptoms commonly associated with depression such as persistent sadness, loss of interest, sleep disturbances, feelings of guilt, thoughts of self-harm, and difficulty enjoying activities they used to love. They also express a sense of hopelessness and worthlessness, along with feelings of exhaustion and difficulty concentrating. These symptoms suggest that the poster may indeed be suffering from depression.
+

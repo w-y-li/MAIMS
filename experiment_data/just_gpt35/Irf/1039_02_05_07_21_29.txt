@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Came to cry and reminisce. And think of all the lives I could've touched if I wasn't depressed...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of perceived burdensomeness by expressing that the individual believes they could have made a positive impact on others' lives if they were not depressed.
+

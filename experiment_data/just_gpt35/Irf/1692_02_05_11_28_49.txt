@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  There are probably serial killers who sleep easier at night and with fewer regrets than me and I try so dang hard to be nice to people. I want to support my friends the best I can. If anyone else I knew said this I‚Äôd be reassuring them in a second. Why can‚Äôt this apply to me, why do I hate myself  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of being different from others, a difficulty in being kind to oneself, and a self-hatred. These feelings may lead to a sense of isolation and hinder the individual's sense of belonging, suggesting a risk of thwarted belongingness.
+

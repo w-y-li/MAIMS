@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  For the past week (Maybe more ? Can't remember) I've maybe taken my antidepressants twice instead of every morning, because I'm dumb and keep forgetting or thinking it's fine, and now my head is killing me, I feel like I'm going to throw up 24/7, I've been having nightmares and I basically feel like shit. Don't be me kids.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate any perception of being a burden on others. Instead, it primarily discusses forgetting to take antidepressants and the negative physical and emotional symptoms experienced as a result.
+

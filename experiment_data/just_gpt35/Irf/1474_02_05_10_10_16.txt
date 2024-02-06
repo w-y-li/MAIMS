@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I've tried getting help, but nothing lasts long enough. I thought meds were doing the work they told me it would, but still here I am paralyzed with no desire to do anything. I just want motivation or reason to not waste all this time I have. I feel bad for everyone that deals with me, because more often than not they think I hate them, and that just makes me hate myself even more. I don't know how to live with others, or how anyone does it. It feels like boredom, but I know I can't help it. I just wish I could fix it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation, difficulty in connecting with others, and a sense of not fitting in or understanding how others live. The poster expresses a desire for motivation and a reason to not waste time, indicating a lack of purpose or meaningful relationships. Additionally, the mention of feeling bad for others who have to deal with them and hating oneself further suggests a sense of social disconnection and the potential risk of thwarted belongingness.
+

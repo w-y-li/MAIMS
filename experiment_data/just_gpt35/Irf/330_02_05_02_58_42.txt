@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I feel like there are only three things that you absolutely cannot be, dumb, ugly, and useless. I've gotten through life fairly well being able to somewhat accept the dumb and ugly part, I tried to blame it on other factors for a while but they're just an integral part of who I am. What I can't get passed is being useless and having no skill whatsoever. I fall into all three categories and wish that I had just given up on life sooner.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of being useless and having no skill, which can lead to a sense of isolation and lack of belonging, indicating a risk of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I feel so alone and I want to move away and meet new people. I can't stop thinking about it. How do you get things off your mind. I'm not happy with my life and situation. It's not fulfilling...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness, wanting to move away and meet new people, and not being happy with the current life and situation. These symptoms suggest a potential risk of thwarted belongingness, which is a psychological term typically associated with feelings of alienation, social isolation, and a lack of fulfilling relationships.
+

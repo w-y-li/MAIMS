@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I feel so empty. I don‚Äôt even know what to write here because I just.. I am.. I don‚Äôt want to be in this body, in this depressed brain anymore. It doesn‚Äôt feel fair. All I‚Äôve ever done is help people. I worked in nursing homes for years. Now I work with developmentally disabled adults. I feel like I‚Äôve been grasping at a reason to live. If I‚Äôm consistently helping someone else live a happier/healthier/easier life, maybe I‚Äôll get better. Maybe I‚Äôll deserve to get better. I have only gotten worse.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post strongly implies feelings of worthlessness and a belief that the individual is a burden to others. The poster mentions feeling empty and not wanting to be in their body, suggesting a significant level of distress. They also express a pattern of helping others but feeling like they've only gotten worse, indicating a sense of failure and inadequacy.
+

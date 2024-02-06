@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Lately I have lost interest in everything I do. I used to play video games, read, write, draw, or just watch tv but now I find joy in none of those things. I have been laying in bed all morning and it's the only thing I want to do now. It kills me to know that's how I'm going to spend my day (until I have to leave for a dentist appointment). Until then I'll be laying here. So is there any small thing I can do? Some small activity you guys recommend to get me out of bed? Otherwise I'm just going to lay here drinking the whiskey on my nightstand leftover from New Years. Please help, I'm tired of being a puddle in my bed and a lifeless burden to my family.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of being a burden to the family and mentions thoughts of spending the day drinking alcohol, which may indicate a risk of perceived burdensomeness.
+

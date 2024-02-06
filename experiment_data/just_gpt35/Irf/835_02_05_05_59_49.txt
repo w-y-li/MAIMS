@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Can I trade bodies with a straight white boy. Nobody is into me because I'm black. I'm drunk and done with existing. Maybe I'll just black out and die. That's the dream.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of worthlessness and a desire to escape existence, which can be indicative of risk of perceived burdensomeness.
+

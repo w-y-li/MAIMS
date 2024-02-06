@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Been fighting this for several years. Right now I just feel dead on the inside. My closest friend is struggling herself, after recent events in her life. I can't even help her. I know she likes having me around but I can't shake the thought that everyone would be better off without me. I feel so close to giving up. I have supportive parents which I'm grateful for, and a few friends but I'm feeling an extremely strong urge to isolate myself completely. They would all get on fine without me around making them sad. Honestly, I would go and end it all if it wasn't for my parents because that would destroy them. But I'm tired of living. I don't know what to do.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation, a strong urge to isolate oneself completely, and a belief that others would be better off without the poster. These are all signs of thwarted belongingness, where the individual feels disconnected and believes they do not belong or contribute to the lives of others.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  They say I have low self-esteem. I say: I have a realistic view of myself and my abilities. It's not about comparing myself to other people. There is always going to be someone better. SomeONES. I'm probably not even average on most of the metrics that matter. It's just... this is who I was ten years ago, and it's going to be who I am twenty years from now. I'm slowly coming to terms with that fact, but it leaves a major question: if this is me, and I'm not worth very much at all, then what justification is there to keep on grinding on, day after day, just to pay some other fucker's mortgage on their third home?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, questioning the justification for continuing to live and work, and expressing resentment towards others benefiting from their efforts. These thoughts and emotions suggest a risk of perceived burdensomeness, which is a component of suicidality and a potential indicator of mental health issues.
+

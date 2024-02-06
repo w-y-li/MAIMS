@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  In this world full of wifi connection, human connection seems obsolete. I feel so alone. It's a cliche feeling, I know. Me against the world and nobody is on my side. The world is winning, etc. But I just feel so down. So so so depressed. I told myself that this 2018 I will embrace what is real - real people, real words, real friends. And then I realized everyone around me is fake. I envy those people who have friends who stick with them whatever happens. I wonder if I could still find real friends nowadays. Just one real friend would be nice. Just so I don't feel this way anymore. Some will say this too shall pass but it has been weeks and it ain't done yet.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness, isolation, and a desire for genuine human connection. The person expresses a sense of being alone against the world and feeling down. They mention that everyone around them is fake, indicating a lack of real friends. This suggests a possible risk of thwarted belongingness, as they yearn for authentic connections but feel unable to find them.
+
+Correct
+Continue to focus on the explicit content of the posts when inferring mental health risks without assuming unwarranted characteristics about the poster. Also, ensure that the evaluation directly corresponds to the individual of concern rather than extending it to others mentioned in the situation.

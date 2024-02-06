@@ -1,0 +1,140 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  My girlfriend has depression and I don't know how to deal with it. She becomes sad for no reason, and I didn't know at first, for some reason I thought it was just normal (you know, uhh, girls) so I even felt annoyed (now I feel really bad and guilty though. No need to bash me, internet). But then it gets worse. She says feels like a  piece of shit . That she's worthless and stuff. I didn't know she felt like that because apparently, she was afraid that I would think she was crazy. Any help please?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Somewhat true for me###The post mentions that the girlfriend feels like a piece of shit and that she thinks she's worthless. These statements suggest that she may have feelings of low self-worth and may believe that the people in her life would be better off without her. Hence, the answer to Question 1 is 'Somewhat true for me.'"])
+('2', ['directly_mention', "Somewhat true for me###The post mentions that the girlfriend feels like a piece of shit and that she thinks she's worthless. These statements suggest that she may believe that the people in her life would be happier without her. Hence, the answer to Question 2 is 'Somewhat true for me.'"])
+('3', ['indirectly_mention', "Somewhat true for me###The post mentions that the girlfriend feels like a piece of shit and that she thinks she's worthless. Although the post doesn't directly mention feeling like a burden on society, these statements suggest a low self-esteem and feelings of worthlessness, which can indicate a belief of being a burden on society."])
+('4', ['indirectly_mention', "Not at all true for me###The post mentions that the girlfriend feels like a piece of shit and thinks she's worthless. While it doesn't directly mention thinking that her death would be a relief to others, these statements suggest a negative self-perception and low self-worth, which is unlikely to be associated with viewing one's own death as a relief to others."])
+('5', ['directly_mention', "Somewhat true for me###The post mentions that the girlfriend feels like a piece of shit and that she's worthless. This suggests that she has negative thoughts about herself and may believe that others in her life wish they could be rid of her."])
+('6', ['directly_mention', "Not at all true for me###The post doesn't provide any information that directly relates to this statement."])
+('7', ['directly_mention', "Very true for me###The post mentions that the girlfriend feels like a piece of shit and that she believes she is worthless. This suggests that she may have feelings of low self-worth and may not believe that others care about her. Therefore, the answer to question 7 would likely be 'Very true for me.'"])
+('8', ['indirectly_mention', "Somewhat true for me###The post mentions that the girlfriend is afraid that the poster would think she is crazy. This fear of being judged or misunderstood may indicate that she doesn't feel like she belongs completely. Therefore, the answer to question 8 would likely be 'Somewhat true for me' since she may not fully feel like she belongs."])
+('9', ['indirectly_mention', "Not at all true for me.###The post indirectly mentions this question because the poster describes feeling guilty and bad about not realizing their girlfriend's depression. This suggests that the poster cares about their girlfriend's feelings and wants to be there for her, indicating that they likely have people in their life who care about them."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything that directly or indirectly relates to having many caring and supportive friends."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention feeling disconnected from other people."])
+('12', ['indirectly_mention', "Somewhat true for me###The post mentions feeling like an outsider in social gatherings. Although the poster does not directly state this, their girlfriend's depression could potentially lead to social isolation and feeling like an outsider."])
+('13', ['indirectly_mention', "Somewhat true for me###The post indirectly mentions that the poster's girlfriend has depression and sometimes feels like a piece of shit. In these situations, she might need someone to turn to for support. Since I am her boyfriend, I would assume that she turns to me for help to some extent. Therefore, my answer to question 13 would be 'Somewhat true for me'."])
+('14', ['indirectly_mention', "Not at all true for me###The post indirectly mentions that the poster's girlfriend has depression and feels worthless. These feelings might make her distance herself from others, including me. Therefore, my answer to question 14 would be 'Not at all true for me'."])
+('15', ['directly_mention', "Not at all true for me.###The post mentions that the girlfriend feels like a piece of shit and that she's worthless, which indicates a lack of satisfaction in her interaction with others."])
+Do MS Check Record:
+('1', ['Incorrect', 'Avoid projecting feelings onto the poster; the post does not confirm the poster feels they would be better off gone. Focus on analyzing the content provided without inferring additional emotions.'])
+('2', ['Incorrect', "Do not make assumptions about the poster's views of their impact on others' happiness; the post does not support this inference. Stick to the poster's expressed concerns without additional extrapolation."])
+('3', ['Incorrect', "Avoid attributing feelings directly to the poster when the information is about someone else. Focus on what is explicitly stated about the poster's own feelings and thoughts, rather than inferring or extending the girlfriend's feelings onto the poster."])
+('4', ['Incorrect', "Do not project the partner's feelings onto the poster. The task requires you to respond from the poster's perspective regarding their own beliefs about being a burden or their death, not their partner's. Respond only to the poster's direct expressions related to themselves."])
+('5', ['Incorrect', "Review the post carefully without assuming information that isn't there. The statement regarding the poster's girlfriend feeling worthless can't be directly translated to the poster feeling that others in his life wish they could be rid of him. More context is needed before such an inference can be made. Focus on what the post explicitly says about the poster's feelings, not others'."])
+('6', ['Correct', "Your approach to stick to the information given in the post is good. However, make sure you're considering all aspects of what's shared to avoid missing any important nuances. The post does describe interactions with someone who could view themselves as burdensome, so also reflect on how the poster feels about their role in these interactions."])
+('7', ['Incorrect', "Carefully distinguish between the voice of the poster and the subject discussed. The post is about the girlfriend's feelings, not the poster's. Respond to the questions from the perspective of the poster, considering only the provided social media post content."])
+('8', ['Incorrect', "Avoid inferring feelings of belonging directly from the fear of being judged. The post does not provide sufficient information about the poster's sense of belonging. Stay focused on the actual content and context of the post when answering."])
+('9', ['Incorrect', "Review the content of the post to identify emotional states or situations that may hint at the poster's social interactions. Despite the omission of explicit relationships other than with the girlfriend, consider the broader context and avoid under-inference."])
+('10', ['Correct', 'Continue carefully evaluating the content so as not to over-infer from information not present. Remember to remain specific to the details provided in the post.'])
+('11', ['Incorrect', 'Focus on analyzing the post from the perspective of the poster, not the subject being discussed. The poster does not express personal feelings of disconnection, so the answer should reflect only the information provided.'])
+('12', ['Incorrect', "Avoid making inferences about the poster based on the situation described with their girlfriend. Stick to the content explicitly mentioned in the post regarding the poster's own feelings and experiences."])
+('13', ['Correct', 'Your analysis of the situation reflected in question 13 is sensitive to the context provided by the post; keep in mind the difference between directly mentioned traits and inferred traits.'])
+('14', ['Incorrect', "Avoid projecting the girlfriend's feelings onto the poster; consider his own social connections rather than inferring based on his partner's emotions."])
+('15', ['Incorrect', "Carefully analyze the content of the post. The answer should reflect the poster's experiences, not his girlfriend's feelings. Focus on the poster's interactions rather than inferring the experiences of others."])
+
+ITER 1
+Do MS Record:
+('1', ['directly_mention', 'Very true for me###The post directly mentions that the girlfriend feels like a piece of shit and worthless, which suggests that the poster may think the people in their life would be better off without them.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the poster's views on their impact on others' happiness. Hence, it does not mention the question at all."])
+('3', ['directly_mention', 'Somewhat true for me###The post mentions that the girlfriend feels like a piece of shit and worthless, which implies that the poster may also feel like a burden on society.'])
+('4', ['directly_mention', "Not at all true for me###The post does not mention anything related to the poster's own beliefs about their death being a relief to others."])
+('5', ['indirectly_mention', "Not at all true for me.###The post mentions that the girlfriend feels like a piece of shit and that she's worthless. Although this doesn't directly answer the question about the people in my life wishing they could be rid of me, it indirectly suggests that the girlfriend's low self-worth may be affecting their relationship. Therefore, it is likely that the poster might feel that people in their life wish they could be rid of them."])
+('7', ['not_mention', "Doesn't mention at all.###The post focuses on the girlfriend's depression and the poster seeking help on how to deal with it. There is no mention or indication of how other people care about the poster. Therefore, the post doesn't mention anything about other people caring about the poster."])
+('8', ['indirectly_mention', 'Somewhat true for me###The post mentions that the girlfriend feels like a piece of shit and worthless, which suggests that she may have low self-esteem. This could impact the relationship and make it difficult for the poster to feel a sense of belonging with his girlfriend.'])
+('9', ['directly_mention', 'Not at all true for me###The post explicitly states that the girlfriend was afraid that the poster would think she was crazy. This indicates that the poster does interact with people who care about him, including his girlfriend.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention feeling disconnected from other people. The information provided is focused on the girlfriend's depression, not the poster's own feelings of disconnection."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention feeling like an outsider in social gatherings. The information provided is focused on the girlfriend's depression and the poster's lack of awareness regarding her emotional state."])
+('14', ['indirectly_mention', 'Somewhat true for me###The post mentions that the girlfriend has depression and expresses feelings of worthlessness. I mention feeling guilty about my initial reaction, which suggests that I am concerned about how my actions may affect my girlfriend. Based on this, it can be inferred that I am somewhat close to my girlfriend.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not provide any information indicating whether or not I have at least one satisfying interaction every day. The focus is mainly on my girlfriend's depression and my lack of understanding about how to deal with it."])
+Do MS Check Record:
+('1', ['Incorrect', "Ensure that your inferences are based on information from the post. The post does not suggest that the original poster harbors thoughts of being better off gone; these are the girlfriend's feelings. Differentiate between the poster's and the girlfriend's feelings."])
+('2', ['Correct', "Continue to distinguish between content addressed in the post and content that isn't. The post doesn't mention the poster's views on how their presence affects others' happiness, so stating it does not mention the question is appropriate."])
+('3', ['Incorrect', "Avoid assuming feelings of the poster based on others' experiences. Analyze the content for direct references or strong contextual evidence related to the poster's own feelings before drawing conclusions."])
+('4', ['Correct', "Continue to carefully differentiate between the poster's perspective and that of others mentioned in the post. Ensure that any inference about the poster is well-supported by the content."])
+('5', ['Incorrect', 'Avoid assuming unrelated negative feelings from the poster. Focus on the information given and infer cautiously.'])
+('7', ['Correct', "Good job on not inferring beyond the information provided about other's care. Continue to stay within the context of the post."])
+('8', ['Incorrect', "Do not assume or extrapolate information about the poster based on their description of another person's mental state. Stick to the content about the poster themselves, and if the post does not provide enough information to answer the question, acknowledge the lack of detail instead of inferring."])
+('9', ['Correct', "Your interpretation aligns with the information given in the post about the poster's interactions with his girlfriend. Continue to use explicit information provided in the post to answer related questions, making sure it is regarding the poster, not others mentioned in the post."])
+('11', ['Correct', "When analyzing posts for mental scale questions, focus on the explicit content and context provided, without making assumptions beyond what is shared. It's important to answer only based on the information given."])
+('12', ['Correct', "Avoid inferring feelings or experiences not directly stated in the social media post. Stick to the information provided about the poster's situation and perspective without adding personal assumptions."])
+('14', ['Correct', 'Ensure to maintain a balanced analysis of the post content, being careful not to make unfounded inferences.'])
+('15', ['Incorrect', 'While the post does not explicitly state interactions with others, avoid leaving answers blank. Instead, deduce potential daily interactions given the context, like attempting to support a loved one, which indicates some level of engagement.'])
+
+ITER 2
+Do MS Record:
+('1', ['indirectly_mention', "Somewhat true for me###The post mentions that the girlfriend feels like a piece of shit and worthless. Based on this information, it can be inferred that the poster may also feel somewhat burdened or inadequate in the relationship. However, it is important to note that the post does not provide explicit information about the poster's own feelings about being a burden on society, so the answer is not definitive."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not provide any indication or reference to the poster's own thoughts or feelings about being better off gone. There is no direct or indirect mention of this question in the post."])
+('5', ['directly_mention', "Somewhat true for me###The post specifically mentions that the girlfriend feels like a piece of shit and that she thinks she's worthless. This indicates that the poster may also be experiencing feelings of being unwanted or not valued, which aligns with a somewhat true response to question 5."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the poster's sense of belonging. Therefore, I am unable to infer an answer to question 8 based on the given information."])
+('15', ['indirectly_mention', "Somewhat true for me###The post indirectly mentions the satisfaction of interactions by describing the poster's girlfriend's depression and the need for help. The poster states that the girlfriend is afraid of being seen as crazy, which implies that the poster is actively engaging with her and trying to support her, leading to some satisfying interactions."])
+Do MS Check Record:
+('1', ['Incorrect', "Focus on analyzing the content specific to the poster, not transferring emotions from other individuals in the post to the poster. The thoughts of the girlfriend do not directly imply the poster's feelings about himself."])
+('3', ['Correct', "Good job recognizing that the post does not mention the poster's thoughts about being a burden to society. Continue to carefully distinguish between the feelings of others and the poster's feelings."])
+('5', ['Incorrect', "Avoid assuming that the feelings of a person close to the poster reflect the poster's own feelings. Focus on analyzing the information provided about the poster specifically."])
+('8', ['Correct', 'Continue to avoid making inferences based on information not presented in the post. Keep your analysis grounded in the data provided.'])
+('15', ['Incorrect', 'Analyze the content without inferring information not present. Focus on what the poster says about their own experiences, not assumptions about satisfaction in their interactions.'])
+
+ITER 3
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the people in the poster's life being better off if they were gone."])
+('5', ['indirectly_mention', "Somewhat true for me.###The post indicates that the poster's girlfriend feels worthless and like a piece of shit, suggesting that she may feel that others would be better off without her. Although the poster does not explicitly state their own feelings, based on their concern for their girlfriend's well-being, it is plausible to assume that they may have some similar thoughts, albeit to a lesser extent."])
+('15', ['directly_mention', 'Not at all true for me###The poster specifically mentions that their girlfriend feels like a piece of shit and worthless. They do not mention having any satisfying interactions.'])
+Do MS Check Record:
+('1', ['Incorrect', 'Do not infer information that is not provided in the post. Stick to the content and tone of the original message without adding assumptions.'])
+('5', ['Incorrect', "Avoid projecting the feelings of one individual onto another without clear evidence. Focus on the poster's own words and perspective only."])
+('15', ['Incorrect', "Carefully analyze the post for specific information about the poster's experiences. Avoid assumptions that aren't based on the text. The post discusses the girlfriend's feelings, not the poster's personal interactions. You must infer the poster's experiences using only information given, even if it's indirectly related to their social interactions."])
+
+ITER 4
+Do MS Record:
+('1', ['indirectly_mention', '###'])
+('5', ['indirectly_mention', '###'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not contain any information or mention about having satisfying interactions on a daily basis."])
+Do MS Check Record:
+('1', ['Incorrect', "Avoid assuming that the poster feels they would be better off gone based on the girlfriend’s feelings. Focus on what the post directly expresses about the poster's own sentiments."])
+('5', ['Incorrect', 'Do not project the girlfriend’s experiences onto the poster. Infer the poster’s viewpoints only from information provided about themselves, not others.'])
+('15', ['Incorrect', "Consider the context provided in the post indicating the poster's concern and emotional engagement with their girlfriend's mental health. Although direct mention of 'satisfying interactions' is absent, infer from the support-seeking behavior and emotional investment whether this could be interpreted as a form of satisfying interaction."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person's girlfriend feels like a burden, worthless, and disconnected from others. This suggests a lack of belongingness, which is a risk factor for thwarted belongingness.
+
+Incorrect
+Do not confuse the experiences and feelings of people around the person of interest with the person's own mental health. In this task, you are evaluating the poster's mental health, not his girlfriend's. Focus on what the answered questions of the psychological scale reveal about the poster, not about others' feelings or experiences. For future tasks, pay careful attention to whose perspective is being assessed and evaluate the mental health question based solely on that person's responses to the scale.
+
+ITER 1
+Yes
+The poster's response to question 13 ('These days, I feel that there are people I can turn to in times of need') and question 14 ('These days, I am close to other people') indicates that they feel somewhat disconnected and somewhat lacking in social support. This suggests a potential risk of thwarted belongingness, as they may feel a sense of isolation or struggle to fully connect with others.
+
+Incorrect
+Pay attention to the specifics of each question from the scale and who it is referring to. Ensure you are analyzing the mental health of the correct individual, in this case, it should be the poster, not his girlfriend. The provided answers from the scale suggest that the poster does not see themselves as a burden and believes they have supportive relationships. Thus, the correct answer to the provided mental health question is 'No'. To correct this mistake, focus on the evidence provided and avoid assuming information not present in the responses.
+
+ITER 2
+No
+The provided answers from the scale suggest that the poster does not see themselves as a burden and believes they have supportive relationships.
+
+Incorrect
+Ensure you are analyzing the mental health of the correct individual. In this case, review who the poster is describing and whose answers from the mental scale are being provided to avoid confusing the mental health status of the poster with that of another person.
+
+ITER 3
+Yes
+The post indicates that the girlfriend feels worthless and thinks she is a burden. The answers from the mental scale also suggest that the poster may have thoughts of being a burden and disconnected from others. These feelings and thoughts align with the concept of thwarted belongingness, indicating a risk of feeling socially isolated and disconnected.
+
+Incorrect
+Be cautious to not confuse the feelings and experiences of someone close to the poster with those of the poster themselves. It's essential to remain focused on the information given about the poster directly, not others mentioned in the post. Re-evaluate the responses to the mental health scale questions with an emphasis on who they are about. The post is about the poster's girlfriend’s feelings, and the answered questions are self-referential to the poster. There is no information in the answered questions that supports the claim of the poster feeling thwarted belongingness. For future analysis, match the evidence specifically to the subject of the question to avoid misattribution of feelings and conditions.
+
+ITER 4
+No
+The post does not show any direct indication of the poster experiencing thwarted belongingness. The mentioned mental scale questions are self-referential to the poster, not his girlfriend.
+
+Correct
+Keep focusing on direct evidence from posts and relevant scale answers when assessing specific aspects of mental health. Avoid making assumptions beyond the provided information. This helps ensure that analyses are grounded in observable facts and reduce the risk of overgeneralization or misattribution.

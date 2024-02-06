@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  How do people even do it? TD;LR: I'm reaching out to the depression community on here because I relate to a lot of you. I'm at a point in my life where I have like, virtually no friends. My current best friend (I don't know if I'm as important to her as she is to me but I've made talking to her a habit and she really talked me through a lot of my problems and kept me going during the worst of my depression even though we've never met in real life &amp; she lives in another continent. I'm afraid I'm driving even her slowly away, or maybe she's just busy with life. I'm in a bad place where I'm practically doing nothing so I'm always free &amp; my loneliness has made me so clingy that I can no longer bother her with my bullshit. I would love to reach out to other lonely people online and have long conversations about life and so many people have so many online friends these days but nobody stays. Even if I get along with someone online the 'relationship' is short lived &amp; then we don't talk anymore. I know there's a lot of people out there who feel the same way I just wish we could connect so I could feel less fucking alone.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of loneliness, desperation for connection, and feelings of being alone. The poster mentions having virtually no friends, feeling clingy, and struggling to maintain relationships with online friends. These are common indications of thwarted belongingness, a psychological risk factor for mental health issues.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I've been dealing with this for about 4 years now and for no rhyme nor reason, it's back. I've been spending the last couple of days crying non-stop for no reason and it's just utterly embarrassing when I visited the doctor. It's been hard trying to focus for the past few days at work and I feel like I'm not productive at all. Been putting off getting the antidepressants because I didn't want to be reliant on them but I think it's time to give them a shot.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling embarrassed when visiting the doctor, spending days crying for no reason, and struggling to focus and be productive at work. These symptoms suggest a lack of social connection and support, indicating a possible risk of thwarted belongingness.
+

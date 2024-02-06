@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Idk if this is the right place to express this concern. Recently i had a big fight with my bff we said a lot of bad things, in a month it will be his birthday and he is going to invite other friends of him and i am so afraid they will all hate me i mean i can‚Äôt blame it i am an awful person  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual is feeling like a burden and believes that others will hate them because they see themselves as an awful person.
+

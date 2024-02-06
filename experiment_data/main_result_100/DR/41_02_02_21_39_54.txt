@@ -1,0 +1,90 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Nothing is enjoyable anymore. Almost everything that I used to care for is simply starting to have no meaning. I feel dead and lifeless. I used to be very passionate with certain things but that was usually meant with me being bashed and shunned upon people. Or simply just a turn off. Everyday I wake up and I’m angry. Always wondering what the hell the point of this is. Why I’m here. I used to be extremely suicidal in the past and I’m slowly falling into that dark pit again. I don’t know what to do. It’s so hard to be happy and I’m just... I’m starting to give up.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "I feel sad much of the time###The post explicitly states, 'Nothing is enjoyable anymore. Almost everything that I used to care for is simply starting to have no meaning. I feel dead and lifeless.' These statements indicate a general feeling of sadness and lack of enjoyment."])
+('2', ['indirectly_mention', 'I feel discouraged about my future###The post mentions feeling angry and wondering about the point of life, which can be indicators of pessimism. Additionally, the mention of feeling suicidal and falling into a dark pit again suggests a lack of hope for the future.'])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The poster mentioned feeling like a failure and having experienced past failure in the post.'])
+('4', ['directly_mention', 'I do not enjoy things as much as I used to.###The poster explicitly mentioned that nothing is enjoyable anymore and that things that they used to care for have no meaning, indicating a loss of pleasure.'])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The post mentions feeling dead, lifeless, and falling into a dark pit, which suggests a general feeling of guilt.'])
+('6', ['indirectly_mention', 'I feel I am being punished.###The post mentions feeling angry, wondering about the point of life, and falling into a dark pit, which suggests a belief in being punished.'])
+('7', ['directly_mention', "I dislike myself.###The post explicitly states that 'Nothing is enjoyable anymore' and 'Almost everything that I used to care for is simply starting to have no meaning.' This indicates a sense of self-dislike."])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual.###The post mentions being 'bashed and shunned upon by people' and feeling 'angry' and 'wondering what the hell the point of this is'. These feelings and experiences suggest a higher level of self-criticism and self-blame compared to usual circumstances."])
+('9', ['directly_mention', 'I used to be extremely suicidal in the past and I’m slowly falling into that dark pit again.###The post explicitly mentions that the poster has been extremely suicidal in the past and is starting to fall into that dark pit again.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about crying, so there is no information to make a deduction from."])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The post mentions feeling angry everyday and wonders about the point of life, indicating a general sense of restlessness and agitation.'])
+('12', ['indirectly_mention', 'I have lost most of my interest in other people or things.###The post states that almost everything the poster used to care for has no meaning anymore and they have lost passion for certain things, suggesting a significant loss of interest.'])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post mentions feeling indecisive: "It’s so hard to be happy and I’m just... I’m starting to give up." This suggests that decision-making is becoming more challenging for me.'])
+('14', ['indirectly_mention', 'I feel utterly worthless.###The post describes a sense of feeling dead, lifeless, and starting to give up: "Nothing is enjoyable anymore. Almost everything that I used to care for is simply starting to have no meaning... I feel dead and lifeless... I’m starting to give up." This indicates a heightened feeling of worthlessness.'])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###In the post, I mentioned that almost everything I used to care for is starting to have no meaning. I also mentioned feeling dead and lifeless. These statements imply a lack of energy and motivation.'])
+('16', ['directly_mention', 'I have not experienced any change in my sleeping pattern.###In the post, I did not mention any changes in my sleeping pattern. Therefore, my answer is that I have not experienced any change.'])
+('17', ['indirectly_mention', 'I am much more irritable than usual.###The post mentions that the person wakes up every day angry and wonders about the point of life. This indicates a general irritability and frustration with life, suggesting that the person is more irritable than usual.'])
+('18', ['indirectly_mention', "My appetite is much less than before.###The post mentions feeling dead, lifeless, and starting to give up. These feelings often accompany a loss of appetite, indicating that the person's appetite is much less than before."])
+('19', ['indirectly_mention', 'I find I can not concentrate on anything.###In the post, I mention that almost everything that I used to care for is starting to have no meaning. This could indicate a loss of interest and difficulty concentrating on things that were once enjoyable.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###I mention feeling dead and lifeless, and also feeling angry every day. These feelings are often associated with fatigue and may indicate a lack of energy or motivation to engage in activities I used to enjoy.'])
+('21', ['directly_mention', 'I have lost interest in sex completely.###The post clearly states that almost everything that the poster used to care for is starting to have no meaning, and they feel dead and lifeless. This loss of interest and lack of enjoyment can also be seen in their statement that they have no motivation to be happy and are starting to give up. These feelings align with a loss of interest in sex and a complete disengagement from it.'])
+Do MS Check Record:
+('1', ['Correct', 'Continue to identify clear expressions of emotions in the post to determine the mood of the poster, and be cautious not to overinterpret statements without clear evidence.'])
+('2', ['Correct', 'Ensure that inferences about indirect mentions are grounded in concrete information from the post, avoiding assumptions that go beyond the expressed feelings.'])
+('3', ['Correct', 'You successfully identified the content related to past failure in the post. To further improve, ensure you always look for explicit or implicit signs of the concept in question, such as expressions of disappointment or regret.'])
+('4', ['Correct', "Well done on identifying the loss of pleasure. Continue to distinguish between direct statements and subtler hints of such feelings to accurately assess the poster's mental state."])
+('5', ['Incorrect', 'Be cautious of inferring guilt without explicit indicators; focus on describing the feelings of emptiness and loss of interest as potential signs of depression, rather than assuming guilt which was not directly expressed in the post.'])
+('6', ['Incorrect', 'Avoid assuming feelings of punishment without clear evidence; the anger and existential questioning in the post are more indicative of frustration or despair, not necessarily a sense of punishment.'])
+('7', ['Correct', 'Maintain your attentiveness to the emotional tone and content of posts when assessing self-dislike.'])
+('8', ['Correct', 'Continue to make inferences based on emotional expression in the post, aligning them with psychological constructs, but also ensure you are not over-pathologizing.'])
+('9', ['Correct', 'Keep focusing on the explicit content of posts when providing answers. Remember to provide evidence for answers directly from the text.'])
+('10', ['Correct', "It's good that you didn't make assumptions beyond what is provided. Continue to not infer information that isn't explicitly stated in the post."])
+('11', ['Correct', 'Maintain attentiveness to the subtle expressions in the post indicating feelings of agitation. Continue to analyze and relate emotions described in the post to relevant mental scale questions.'])
+('12', ['Correct', 'Good observation on the expressed loss of interest. Remember to consistently derive your answers from the explicit and implicit information in the social media posts.'])
+('13', ['Correct', 'Continue to carefully analyze the emotional content in posts for signs of indecisiveness, emphasizing the context that supports this inference.'])
+('14', ['Correct', 'Good job on identifying expressions of worthlessness. Ensure future assessments similarly draw from specific language in the posts to support your conclusions.'])
+('15', ['Correct', 'Ensure you continue to support your conclusions with direct evidence from the post and avoid making assumptions beyond what is shared.'])
+('16', ['Correct', 'Good job not inferring information that isn’t present. Continue to be cautious of making assumptions without evidence.'])
+('17', ['Correct', 'Continue examining the emotional state of the poster to infer the presence of symptoms like irritability, even if not explicitly stated.'])
+('18', ['Correct', 'Ensure to look for indirect signs of changes in normal functioning, such as appetite, but always verify with additional context when possible.'])
+('19', ['Correct', 'Continue to use contextual clues to interpret emotional and cognitive states, but be cautious not to overextend beyond what the text objectively provides.'])
+('20', ['Correct', 'Ensure that your interpretation of fatigue is grounded in specific language from the post to avoid assumptions not supported by the text.'])
+('21', ['Incorrect', "Ensure that your analysis is directly connected to the information provided in the post. Avoid assumptions about details that weren't mentioned, such as interest in sex, unless it's explicitly linked to the sentiments expressed in the post."])
+
+ITER 1
+Do MS Record:
+('5', ['indirectly_mention', 'I feel guilty a good part of the time###The post mentions feeling dead and lifeless, and that almost everything the poster used to care for is starting to have no meaning. This is suggestive of anhedonia and loss of interest, which are indicators of depression. Feeling guilty a good part of the time can be a common symptom of depression.'])
+('6', ['indirectly_mention', 'I do not feel I am being punished###The post mentions feeling angry and wondering about the point of existence. These emotions and thoughts suggest existential questioning and frustration, not necessarily a sense of punishment. Therefore, the answer is that I do not feel I am being punished.'])
+('21', ['indirectly_mention', 'I have lost interest in sex completely.###The post mentions that almost everything that the poster used to care for is starting to have no meaning. This could imply a loss of interest in activities, including sex.'])
+Do MS Check Record:
+('5', ['Incorrect', 'While the post does convey a sense of despair and loss of interest, it does not provide clear evidence of the poster feeling guilty. Focus on the specific evidence in the post that directly relates to the question asked.'])
+('6', ['Correct', "You've correctly identified that the post does not express feelings of being punished. When analyzing the content, it's important to differentiate between emotions and beliefs portrayed in the post and to avoid assuming feelings not explicitly mentioned."])
+('21', ['Correct', 'Ensure to maintain objectivity and avoid adding any information not implied by the post. Pay attention to the language of the post that suggests a loss of interest in previously caring activities; this can logically extend to sexual interest as well.'])
+
+ITER 2
+Do MS Record:
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to guilty feelings. There is no evidence or indication of the poster feeling guilt in the post."])
+Do MS Check Record:
+('5', ['Incorrect', 'Review the post for indirect indications of guilty feelings, such as the expression of regret or responsibility for negative outcomes. Consider broader emotional contexts.'])
+
+ITER 3
+Do MS Record:
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling guilty."])
+Do MS Check Record:
+('5', ['Incorrect', "Review the emotional tone and content of the post, infer possible underlying feelings related to the symptoms described such as 'feeling dead and lifeless' which may point towards feelings of guilt."])
+
+ITER 4
+Do MS Record:
+('5', ['indirectly_mention', 'I feel guilty all of the time###The post mentions feeling dead and lifeless, which may suggest a lack of enjoyment and meaning. These feelings can often be associated with guilt, as the person may feel responsible for their unhappiness and perceive themselves as a burden on others. This leads me to infer that the person may feel guilty all of the time.'])
+Do MS Check Record:
+('5', ['Incorrect', "You may have read too much into the poster's expressions of feeling 'dead and lifeless' to directly conclude guilt. Stick to the information provided without imbuing additional emotions unless clearly indicated."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's post reflects classic symptoms of depression, such as feeling dead, lifeless, and lacking enjoyment in activities they once cared about. They also mention feeling angry, questioning the point of life, and falling into a dark pit of suicidal thoughts. Additionally, the poster's responses to the mental scale questions indicate a high level of sadness, pessimism about the future, self-dislike, self-critical thoughts, feeling utterly worthless, and experiencing a significant loss of energy, interest, and concentration difficulties. These symptoms strongly indicate that the poster is suffering from depression.
+
+Correct
+You provided a comprehensive review based on the poster's shared experiences and their answers on the mental health scale. Your identification of symptoms correlating with depressive disorder is accurate. To further refine your analysis, ensure that each symptom you note is directly supported by the individual's statements or responses to the mental health scale. Avoid making any assumptions beyond the provided information, but in this case, your evaluation was consistent with the symptoms presented. Keep practicing this level of thoughtful analysis in future assessments.

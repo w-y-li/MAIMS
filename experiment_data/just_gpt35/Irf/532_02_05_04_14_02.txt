@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I've been very good at hiding my feelings and helping others when they're having their shitty days and always be positive about the future . Like I'm living in ton of shit and my only hope was to have a better future since I was very good at school and stuff but I'm just done now . I've reached a dead end , I just wanna die  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a sense of isolation and feeling trapped, as indicated by the desire to die and a sense of hopelessness despite previous accomplishments.
+

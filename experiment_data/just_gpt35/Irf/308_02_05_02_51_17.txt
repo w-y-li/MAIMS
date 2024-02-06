@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm not talking about someone saying  Its all just in your head.  I mean how do you stop someone from flat out denying the existence of depression and anxiety. My girlfriend's parents believe that depression and anxiety are merely excuses to be lazy. Unfortunately, my girlfriend has been diagnosed with both, and when things get bad, her parents actually are a road block to getting better. Her mother actually slightly understands, and lets her take antidepressants (which she hasn't actually been on the last few months because she is too anxious to go to the pharmacy) but when things go bad, she is on the brink of suicide, and her parents will yell at her for sleeping late, or taking too long in the bathroom, and it only makes things worse. I only want the best for her, and I think getting her parents to understand her situation may help.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows signs of risk of thwarted belongingness as the individual expresses feeling isolated and unsupported by their girlfriend's parents, who are a roadblock to their girlfriend's recovery.
+

@@ -1,0 +1,116 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  isnt it kind of crazy when people who actually are not clinically depressed say they want to die or are depressed for fun, when you are really dealing with those feelings for real? There are people at my work place who clearly are not clinically depressed but tag and share memes like they are lonely or depressed or just say they want to die in a funny way, when everyday is a huge challenge for me in terms of forcing myself to be alive and conform to the societal norms. This usually never gets to me because many people dont actually get what it means to be depressed. Even depressed people experience things in a spectrum. However, when I feel like I am falling off the wagon and I see these seemingly normal treat suicidal thoughts/coping mechanisms of genuinely depressed people/melancholy as fun memes and have a good laugh when all those things are part my own personal hell, I just go completely bonkers and I do not really know why. Anyone else feel like this ? Sorry for terrible punctuation.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The post mentions that everyday is a huge challenge for the poster and that they have to force themselves to be alive. This suggests that they experience a high level of sadness on a regular basis, even though they do not explicitly state it.'])
+('2', ['indirectly_mention', 'I feel the future is hopeless and that things cannot improve.###The post talks about feeling like they are falling off the wagon when they see others treating suicidal thoughts and coping mechanisms as fun memes. This indicates a pessimistic view of the future and a belief that things cannot improve, although it is not directly mentioned.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###Although the post does not directly mention past failure, the poster talks about their own struggle with depression and how they have to force themselves to conform to societal norms. This suggests that they may feel like they have failed more than the average person, as they find it challenging to meet societal expectations.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the level of pleasure the poster experiences from things they used to enjoy. Therefore, it does not mention the question about loss of pleasure."])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time###The post mentions that other people make light of depression and suicidal thoughts, which can be triggering for the poster. This suggests that the poster may feel guilty for not being able to handle their own depression as lightly as others do.'])
+('6', ['indirectly_mention', 'I feel I am being punished###The post mentions that everyday feels like a huge challenge for the poster and they have to conform to societal norms. This suggests that the poster may feel like they are being punished for not fitting into societal expectations.'])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything about self-dislike."])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The post talks about how others make light of depression and suicidal thoughts, which can result in feeling personally invalidated or misunderstood. This suggests that the poster may be more self-critical or blaming due to the lack of understanding and support from the people around them.'])
+('9', ['directly_mention', "I have thoughts of killing myself, but I would not carry them out.###The post explicitly mentions that the individual has thoughts of killing themselves when they state, '...when I feel like I am falling off the wagon...all those things are part my own personal hell, I just go completely bonkers and I do not really know why.' However, they also state that they would not carry out these thoughts."])
+('10', ['indirectly_mention', "I cry all the time now.###Although the post does not directly mention crying, the individual states, 'many people dont actually get what it means to be depressed... when I see these seemingly normal treat suicidal thoughts/coping mechanisms of genuinely depressed people/melancholy as fun memes and have a good laugh when all those things are part my own personal hell.' This implies that the individual experiences emotions related to depression, including frequent crying."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything about agitation."])
+('12', ['indirectly_mention', "I am less interested in other people or things than before.###Although the post does not explicitly mention a loss of interest, the poster states that they see others tag and share memes about being lonely or depressed. This suggests a decrease in interest as the poster explains that these actions usually do not affect them, but when they are feeling down themselves, it bothers them. This indicates a loss of interest in others' coping mechanisms or in engaging with the memes."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to indecisiveness."])
+('14', ['indirectly_mention', 'I feel more worthless as compared to other people.###The post indirectly mentions feelings of worthlessness when the poster mentions that they find it challenging to be alive and conform to societal norms while dealing with their own personal hell. This suggests a sense of feeling less valuable or worthwhile compared to others.'])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###The poster mentioned that everyday is a huge challenge for them in terms of forcing themselves to be alive and conform to societal norms. This suggests a lack of energy to engage in everyday activities.'])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###The poster mentioned that when they feel like they are falling off the wagon and see others treating suicidal thoughts/coping mechanisms as fun memes, it affects them negatively. This suggests that their sleeping pattern may be disrupted or altered due to these feelings and experiences.'])
+('17', ['indirectly_mention', "I am more irritable than usual.###The post mentions that seeing others treat suicidal thoughts/coping mechanisms of genuinely depressed people/melancholy as fun memes makes me go completely bonkers. This suggests that the poster's irritability is higher than usual when faced with this situation."])
+('18', ['indirectly_mention', "My appetite is somewhat less than usual.###The post mentions that every day is a huge challenge for the poster in terms of forcing themselves to be alive and conform to societal norms. This suggests that the poster's appetite may be somewhat less than usual due to their struggles with depression."])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###The post talks about how everyday is a huge challenge for me in terms of forcing myself to be alive and conform to the societal norms. This suggests that the poster is dealing with difficulties in concentration and has a hard time keeping their mind on anything for very long.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post mentions that the poster feels like they are falling off the wagon and that they experience everyday as a huge challenge. These statements suggest that they are experiencing significant fatigue and tiredness, to a point where they are unable to do most of the things they used to do.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex. The focus of the post is on depression and the frustration of experiencing genuine feelings of depression while others treat it lightly."])
+Do MS Check Record:
+('1', ['Correct', 'Continue to draw from implicit information within the post, recognizing emotional states that are not overtly named but inferred through context.'])
+('2', ['Correct', 'Keep analyzing the underlying sentiments expressed in the post that suggest attitudes towards the future, but ensure that your inference is always supported by the content of the original text.'])
+('3', ['Incorrect', 'Focus on identifying implicit emotions and challenges conveyed in the post. Consider how statements about societal conformity and daily challenges might reflect on feelings of failure.'])
+('4', ['Incorrect', 'Analyze the emotional tone and context. The post expresses a struggle with depression, which could imply a loss of pleasure. Avoid asserting a lack of information without considering the broader emotional implications.'])
+('5', ['Incorrect', "Avoid assuming feelings not explicitly mentioned. Focus on analyzing the post's content without adding interpretations about guilt that are not present."])
+('6', ['Incorrect', 'Resist inferring feelings of punishment without direct evidence from the post. Look for specific phrases that align with the concept of feeling punished to support your answer.'])
+('7', ['Incorrect', 'Review the post for any expressions of self-perception, which may include subtle hints of self-dislike, rather than dismissing its presence outright.'])
+('8', ['Correct', "Good deduction linking the poster's experiences with potential self-accusatory thoughts. Continue practicing inferential reasoning based on the content and context."])
+('9', ['Correct', 'Ensure that your answers remain aligned with the explicit content of the post and avoid adding information not present there, even when the post suggests certain emotional states.'])
+('10', ['Incorrect', "Refrain from inferring emotional behaviors like crying that aren't explicitly mentioned or strongly implied by the post. Look for direct evidence or clear indications before concluding specific emotional responses."])
+('11', ['Incorrect', 'Review the text for emotional or behavioral cues that reflect agitation, and infer based on these cues rather than dismissing the possibility because it is not explicitly mentioned.'])
+('12', ['Correct', "Continue to make thoughtful inferences about the poster's state of mind by considering the implications of their statements on their interests and well-being."])
+('13', ['Incorrect', "Consider all aspects of the poster's message, including their emotional state, to ascertain whether traits like indecisiveness are implied. Avoid dismissing parts of the post that could indicate an underlying indecision."])
+('14', ['Correct', 'Continue to use contextual clues and the expressed emotions of the poster to infer feelings of worthlessness, ensuring you stay aligned with the content provided.'])
+('15', ['Correct', "Well done on picking up on the implied lack of energy from the post. Continue to look for both explicit and implicit clues about the poster's state in their words."])
+('16', ['Incorrect', 'Avoid making assumptions about sleeping patterns without direct evidence. Focus on concrete information provided in the post to answer related questions.'])
+('17', ['Correct', 'Ensure you continue to highlight the connections between social media content and mental state indicators, as you did by making the link between the expression of frustration and irritability.'])
+('18', ['Correct', "Good job on deducing the potential changes in appetite from the context provided. Keep grounding your answers in specifics from the post to maintain relevance to the poster's likely experiences."])
+('19', ['Correct', 'Continue to look for indirect clues in the post that may relate to the mental scale questions, ensuring you make clear connections between the post content and the psychological constructs being measured.'])
+('20', ['Correct', "Ensure to maintain the careful analysis of the poster's implied experiences and continue to avoid overgeneralizing or making inferences without textual support."])
+('21', ['Incorrect', 'Consider the emotional context of the post and reflect on whether emotional states described could influence the aspect of life in question, like changes in interest in sex. Avoid dismissing elements not explicitly mentioned as they can be inferred by the overarching emotional state.'])
+
+ITER 1
+Do MS Record:
+('3', ['indirectly_mention', 'I get very little pleasure from the things I used to enjoy.###In the post, the poster mentions that they experience daily challenges in terms of forcing themselves to be alive and conform to societal norms. This implies that they may have a diminished sense of pleasure and enjoyment from the things they used to enjoy. However, it is important to note that this is an indirect mention and not a direct statement about the loss of pleasure.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not directly mention anything related to past failures. While the poster talks about the challenges they face and the disconnect they feel with others who claim to be depressed, there is no explicit mention of past failures or self-perceived failures in the post."])
+('5', ['directly_mention', 'I feel guilty all of the time.###The poster states that when they see people treating suicidal thoughts and coping mechanisms as fun memes, it makes them feel like they are falling off the wagon and goes completely bonkers. This suggests a high level of guilt associated with their own depression experiences, indicating that they feel guilty all of the time.'])
+('6', ['indirectly_mention', "I expect to be punished.###Although the post does not explicitly mention feeling punished, the statement 'forcing myself to be alive and conform to the societal norms' implies that the poster believes they are being punished for not being able to conform to societal expectations. This suggests that the individual may expect to be punished for their struggles with depression."])
+('7', ['indirectly_mention', "I dislike myself###In the post, the author mentions that they have to 'force themselves to be alive and conform to societal norms' which suggests a significant level of self-dislike."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indications about crying."])
+('11', ['indirectly_mention', "I feel more restless or wound up than usual.###Although the post does not directly mention agitation, the poster describes feeling like they are 'falling off the wagon' and going 'completely bonkers'. These phrases suggest a heightened state of restlessness and agitation."])
+('13', ['indirectly_mention', "I find it more difficult to make decisions than usual.###While the post does not explicitly mention indecisiveness, the poster talks about 'forcing' themselves to be alive and conform to societal norms, suggesting a struggle with decision-making. Additionally, they admit to feeling like they are losing control ('falling off the wagon') which can indicate difficulty in making decisions."])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###The post emphasizes that everyday is a huge challenge for the poster in terms of forcing themselves to be alive and conform to societal norms. This could potentially lead to insomnia or difficulty sleeping, although it does not explicitly state any change in sleeping patterns.'])
+('21', ['indirectly_mention', 'I have lost interest in sex completely.###The post talks about the poster feeling like they are falling off the wagon and seeing others treat coping mechanisms of genuinely depressed people as fun. This indicates a loss of interest in general, which could also extend to a decreased interest in sex.'])
+Do MS Check Record:
+('3', ['Incorrect', 'Consider that expressing daily challenges could imply a reduced capacity for pleasure. Avoid dismissing nuances in the language relating to affective states.'])
+('4', ['Correct', "Ensure to differentiate between the lack of explicit content related to 'past failures' and other negative feelings that may coincide with loss of pleasure."])
+('5', ['Incorrect', 'Carefully analyze the emotional content of the post without inferring feelings not explicitly mentioned. Avoid assuming that expressions of distress directly translate to feeling guilty all the time.'])
+('6', ['Incorrect', 'Focus on specific language used related to punishment feelings rather than inferring from broader statements about societal norms. Look for explicit indicators of self-punishment before concluding such strong feelings.'])
+('7', ['Correct', 'While your inference on self-dislike seems plausible due to the expression of feelings in the post, continue to consider direct evidence from the post when answering to avoid overgeneralization.'])
+('10', ['Correct', 'Good observation in noting that the post does not mention crying. Continue to focus on concrete details provided by the poster to answer the questions accurately.'])
+('11', ['Correct', 'Keep focusing on the subtleties in the language used in such posts to infer psychological states, but always substantiate your inferences with specific text references.'])
+('13', ['Correct', 'Remember to maintain a balanced perspective without over-inferencing, and continue grounding your conclusions in specific elements from the post.'])
+('16', ['Incorrect', 'Do not infer psychological states such as changes in sleeping patterns without explicit evidence from the post. Instead, focus on observable mentions or indications of sleep changes before concluding.'])
+('21', ['Incorrect', 'Avoid assuming a complete loss of interest in sex without clear indications from the post. Look for direct or indirect references to changes in libido or interest in sexual activity before making such inferences.'])
+
+ITER 2
+Do MS Record:
+('3', ['indirectly_mention', 'I feel I have failed more than the average person###The post mentions that everyday is a huge challenge for the poster in terms of forcing themselves to be alive and conform to societal norms. This suggests that they may perceive their ability to cope and function as unsuccessful compared to others.'])
+('5', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indications about feelings of guilt. The focus is primarily on the poster's experience of depression and frustration in relation to others."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to punishment feelings. The focus is on the discrepancy between people who claim to be depressed for fun and the real struggle of the poster."])
+('16', ['indirectly_mention', "I sleep somewhat less than usual.###The post mentions that everyday is a huge challenge for the poster in terms of forcing themselves to be alive and conforming to societal norms. While it doesn't explicitly state a change in sleeping pattern, it implies that the struggle impacts their sleep, leading to less sleep than usual."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+('3', ['Correct', 'Keep considering the context of the post to infer underlying feelings, like the challenge in coping, which may relate to feelings of failure.'])
+('5', ['Incorrect', "Try not to dismiss potential emotions too quickly. Reflect on how the post's mention of 'feeling bonkers' could relate to guilty feelings, particularly in failing to conform to 'societal norms.'"])
+('6', ['Incorrect', 'Examine the content for any implied emotions or states that may relate to the question. Avoid assuming absence of information when the post does not explicitly mention a topic. Look for indirect cues that may relate to feelings of punishment.'])
+('16', ['Correct', "Good inference on the potential indirect mention of a sleeping pattern change. It's important to recognize the subtle implications of someone's challenges and how they might affect behaviors such as sleep."])
+('21', ['Correct', "This response is correct as the original post doesn't mention any changes in sexual interest. However, ensure that the conclusion is based on careful analysis of the provided information, considering both explicit and implicit cues that might respond to the question."])
+
+ITER 3
+Do MS Record:
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The post mentions that the poster feels like they are falling off the wagon and that seeing others treat suicidal thoughts/coping mechanisms as fun memes makes them go completely bonkers. This suggests that the poster may feel guilty for not being able to conform to societal norms and experiencing challenges in forcing themselves to be alive.'])
+('6', ['indirectly_mention', 'I feel I may be punished.###The post discusses how the poster feels like they are falling off the wagon and is experiencing challenges in forcing themselves to be alive. This may suggest a feeling of potential punishment for not being able to conform to societal norms and for struggling to cope with their depression.'])
+Do MS Check Record:
+('5', ['Incorrect', 'Avoid assuming feelings not explicitly mentioned. The poster does not clearly express guilt; focus on evidence within the post for analysis.'])
+('6', ['Incorrect', 'Do not imply feelings of punishment without textual evidence. The post speaks to frustration, not self-punishment; differentiate between these emotions.'])
+
+ITER 4
+Do MS Record:
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention any feelings of guilt explicitly."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention any feelings of punishment explicitly."])
+Do MS Check Record:
+('5', ['Correct', 'Although the post does not explicitly mention feelings of guilt, maintain attentiveness for any subtext or indirect indications of such feelings in future posts.'])
+('6', ['Correct', 'Be cautious not to infer feelings of punishment without evidence from the text; however, consider exploring the broader emotional context that could hint at such feelings indirectly.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the post, the poster mentions feeling sad much of the time, having thoughts of killing themselves, feeling hopeless about the future, disliking themselves, being more self-critical than usual, feeling worthless, having a loss of energy, difficulty sleeping, and difficulty concentrating. These symptoms align with common symptoms of depression, suggesting that the poster may be experiencing depression.
+
+Correct
+Good job in accurately assessing the posts and answers against the criteria for depression as per the DSM-5. Remember to continuously use evidence from the posts and questionnaire responses to back up your assessment, avoiding over-inferences or biases, and ensure you are evaluating the individual's experiences, rather than comparing them to others who may not be clinically diagnosed.

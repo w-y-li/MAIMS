@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Due to medical treatment I have been throwing up for what feels like most of the night. I feel so shit! Why do I have to go through this?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate any risk of perceived burdensomeness. The poster is simply expressing frustration and discomfort due to medical treatment.
+

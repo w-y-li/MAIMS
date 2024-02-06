@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  My friend wants to cut everybody off Hi all. I talked to a friend a few days ago who is going through depression and she told me she wants to cut all of her friends and family off. I am taken aback — we’ve known each other since primary school! I just don’t know what to say. She says it isn’t anything personal and she just wants to end all of her relationships. Has anyone dealt with something similar?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's friend mentioned that she is going through depression and wants to cut all of her friends and family off, which is a common symptom of depression.
+

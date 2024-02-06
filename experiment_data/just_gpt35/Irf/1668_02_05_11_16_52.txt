@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  So I posted earlier about my fiance being distant and acting weird and just 30 minutes ago she ended our engagement, I‚Äôm so numb and just empty and I can‚Äôt go home and see family since being stationed over seas I just feel like I want to end it  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling numb, empty, and wanting to end one's life after the end of a relationship. These feelings and thoughts suggest a risk of thwarted belongingness, as the person is feeling a lack of connection, support, and belongingness in their life.
+

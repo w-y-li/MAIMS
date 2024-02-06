@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Why can‚Äôt I do what I need to do? I remember telling my final therapist how I‚Äôd sit paralyzed while my mind screamed at me to do things, and she said I just had to do them. It was one of those things I‚Äôve been told that stings to this very day. Is this paralysis some internal weakness that I do have control over? If so, how the hell does this work because I can‚Äôt figure it out? I wouldn‚Äôt have gone to see someone if I‚Äôd have known they‚Äôd told me what they did. I came to them for help. Was what they gave me the only help there is? Is this my fault? Or do I even have a choice being like this?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of being a burden to others and contemplating whether the individual has a choice in their current state, which indicates a risk of perceived burdensomeness.
+

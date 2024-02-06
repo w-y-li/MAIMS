@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Yes I know I'm stupid, yes i know im slow, yes i know im weak and yes I know this amuses you but can you just please move on.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of being inferior, weak, and humiliated, which may indicate a sense of not belonging and feeling excluded from the social group.
+

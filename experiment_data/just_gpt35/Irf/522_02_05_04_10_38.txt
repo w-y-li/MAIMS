@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I've had a rough two weeks and can't study for shit right now. I don't feel like I can talk to anyone and thoughts of suicide are having a hayday. Any belief I used to have in myself being other than a failure has crashed to pieces for the millionth time... But I still have to sit up and shut up, and not show a thing. My grandparents - ALL of them - are still sick and have been so for several weeks, my grandma had even been rushed to ER but at least she's in recovery now. My family - Mom, Dad and little sister - have had no choice but to rush between them with the little time off work they've had. Except that I'm studying so my family insisted I won't take days off. My family is busy all week trying to keep the situation under control, and I can't help them. On the other hand I also can't study because I'm so depressed my brain won't work, or rather it works overtime on focusing on how I feel and not on studying. So not only am I a worthless sack of shit on my own, I'm also letting down my family and can't do anything about my depression since they are already so burdened.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual feels isolated and unable to talk to anyone, which indicates a lack of belongingness. They also mention thoughts of suicide, which further highlights their sense of not belonging and feeling disconnected from others.
+

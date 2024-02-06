@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm 16 years old kiddo and diagnosed with deep depression along with SAD (Social Anxiety Disorder). It's so hard to talk with people or even go out but today i made my first move and went to school where i haven't gone for almost 2 years. Now i'm making my way up to get benzodiazepams for *SAD* I hope everything goes well and i can go out with friends again cause i barely remember my last time i went out with friends :( my relatives think i'm just lazy but they dont understand how hard it is for me to talk to people or even go out, i get like mini panic attack when i come contact with stranger and it feels awful. Oh mann im just so tired of this shyt  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a sense of isolation and disconnection from others, as well as a desire to reconnect with friends. The mention of social anxiety, panic attacks, and difficulty in talking to people further emphasizes the feeling of being socially disconnected, which indicates a potential risk of thwarted belongingness.
+

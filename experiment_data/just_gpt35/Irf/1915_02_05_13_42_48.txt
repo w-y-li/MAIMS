@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I can just tell I‚Äôm the loser of my school. I get constantly ignored and don‚Äôt have any real friends. I have no idea why. High school is making me suicidal  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of being ignored, lack of genuine friendships, and suicidal thoughts. These may be indicators of perceived burdensomeness, as the poster feels like a loser and believes they are a burden on others due to their social isolation.
+

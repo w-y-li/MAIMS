@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I'm being partially hospitalized for paranoia. I'm glad I'm getting the help I need, but not feeling great that I'll have to miss work.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate any signs of thwarted belongingness. The individual mentioned being glad to be getting the help they need, which suggests they feel supported and valued.
+

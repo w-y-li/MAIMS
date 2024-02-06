@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I can't do anything right anymore. My girl and I have been fighting financial struggle for about 7 months now. Our cars broke down in two separate locations and even though the businesses promised they woildnt tow them they did. Now it will cost 700 to get our cars back which we dont have and cant get. We are not going to have rent and our roomates are going to kick us out. We thought things were just about to get better with both getting new jobs. But then this shit happens. I cant do it anymore and I know she can't. I'm supposed to be the one who can help her get through tough times but I'm losing the fight inside of me. I just want to die. I really do.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation and not being able to help the partner through tough times, which suggests a possible risk of thwarted belongingness.
+

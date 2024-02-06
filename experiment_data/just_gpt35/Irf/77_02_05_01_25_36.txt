@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Hahahaüò¢ So sad that even when I'm not suicidal I know that it's a must for me to die because I don't see myself getting back up. Wow my life is over at just 22.I wish a disease snatches me away before I do something that I might regret  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of hopelessness, desire for death, and a wish for a disease to take the person's life, suggesting a possible risk of perceived burdensomeness.
+

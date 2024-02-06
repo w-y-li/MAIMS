@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My brain is maybe telling different but I can't believe it. I don't believe that anybody on this world can be real friends with me. Maybe some do but I can't trust in it. I can't trust anybody and nothing.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of trust in forming authentic friendships and a belief that nobody can truly be a friend, suggesting a potential risk of thwarted belongingness.
+

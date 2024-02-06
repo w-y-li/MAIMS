@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  So this is what happened in the past 6 months: 1. Lost my car to a hit and run 2. Lost my job due to an illness that's out of my control 3. Had emergency surgery to remove appendix and ended up staying in the hospital 3 days due to complications 4. Instead of visiting me, girlfriend dumps me the day I leave the hospital I just need to build up the courage of not caring about others and how this might effect them. This world can't hurt me anymore if I don't let it. This whole things is after 3 of the worst years of my life. I thought my girlfriend and I were going to make it and someday get married, but that was also a lie... This world is just not meant for me, and I can't wait I finally get the courage to check out permanently! Hopefully I can do it before 2017. Otherwise I've failed something else I said I'd do. I needed to put this out there so at lease I can go with a clear conscience. Thanks for listening, and good luck with your own battles.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of social isolation and a deep longing for connection. The individual expresses the need to build up courage to not care about others, suggesting a desire to detach from social relationships. The mention of checking out permanently also suggests a potential risk of thwarted belongingness, as the individual feels that the world is not meant for them and expresses a lack of hope for the future.
+

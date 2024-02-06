@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  This sub is dying a bit, so it would be appreciated if others could lend a helping hand to others, and make this a thriving community.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not exhibit any specific symptoms or indicators of depression. It primarily expresses a desire for others to contribute and help improve the community.
+

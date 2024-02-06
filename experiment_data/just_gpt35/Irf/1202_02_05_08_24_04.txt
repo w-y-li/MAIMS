@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  People say self isolating is bad and you shouldn‚Äôt do it and should surround yourself with friends and family but honestly sometimes self isolating is less hurtful. Self isolation protects me from the disappointment of other people‚Äôs actions. I can be there for every single other person whatever reason and whenever and the second I‚Äôm sinking no one seems to notice or no one seems to take it seriously enough to really care. When all u get is disappointment when you see these people it gets draining so yeah that‚Äôs why I self isolate. I‚Äôm sick of getting hurt by getting disappointed.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses a feeling of isolation and a desire to self-isolate as a way to protect oneself from disappointment. This suggests a possible risk of thwarted belongingness, which is the feeling of lacking satisfying and meaningful relationships with others.
+

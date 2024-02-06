@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  someone help me. shes gone shes fucking gone she left me and its all my fault because i cant get a fucking grip on my shitty brain. i have to go back to school in less than a week and im fucking terrified. i wanna get so faded i forget her and C and R and my own name. its never gonna stop. this shit is never gonna end. im so scared. i beg and plead to god every other night to fucking help me, to save me. dont let me live like this any longer. im losing myself. i dont know who i am. who the fuck am i supposed to be? im becoming so angry and ugly. they want me to be gentle and kind and soft-spoken, but how? how how how when my own mind sabotages me. i wish someone would come back. i cant handle being all alone. i want someone to hold me and show me how to be good again.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of guilt and self-blame, as well as a desire to escape and forget. The individual expresses a fear of going back to school and a sense of losing oneself. They also mention pleading to be saved and a longing for someone to hold them and show them how to be good again. These are all indicators of perceived burdensomeness, as the person feels overwhelmed and unable to cope with their own thoughts and emotions.
+

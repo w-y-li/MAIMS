@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Honestly it‚Äôs just constant exhaustion and pain and stress, it‚Äôs too much for me to handle. I can‚Äôt handle this drag we call life, going to school every morning, going home and studying, dealing with my father, it‚Äôs all just too much. I can‚Äôt do it on my own but I can‚Äôt ask others to save me either, well there isn‚Äôt really one that exists sadly. I guess I‚Äôll just be alone for some more years : (.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and loneliness, suggesting a lack of belongingness, which is a risk for thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I want the attention at least. Stabbing some human trash or just suicide by cop I think I should turn myself to the police. I'm going insane  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a desire for attention and mentions thoughts of harming others or engaging in suicidal behavior, suggesting a sense of isolation and a potential risk of thwarted belongingness.
+
+Correct
+Continue to carefully evaluate the language used in posts for indications of social needs such as belongingness. However, remain cautious not to infer beyond the information provided, and always consider alternative explanations for the expressed thoughts and feelings.

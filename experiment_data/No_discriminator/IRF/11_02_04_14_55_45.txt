@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  There‚Äôs a bad situation in my group home that i‚Äôm unable to handle and they just say live with it and i can‚Äôt leave bc my parents are sick of me. I have nowhere to go, and this situation is making me absolutely miserable. Well then if no one reacts ill probably be homeless next week. What a fcking shitshow  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Very true for me###The post mentions the phrase 'if no one reacts ill probably be homeless next week', which suggests that the person believes others would be better off if they were gone."])
+('2', ['directly_mention', "Very true for me###The post mentions the phrase 'if no one reacts ill probably be homeless next week', which suggests that the person believes others would be happier without them."])
+('3', ['indirectly_mention', "Not at all true for me###The post mentions that the person feels like a burden because they say 'they just say live with it' which implies that they feel like no one is willing to help them."])
+('4', ['indirectly_mention', "Not at all true for me###The post implies that the person feels like their existence is causing problems for others because they say 'my parents are sick of me' and 'if no one reacts ill probably be homeless next week' which suggests that they believe their death would be a relief to others."])
+('5', ['indirectly_mention', "Not at all true for me###Based on the statement 'they just say live with it and i can‚Äôt leave bc my parents are sick of me,' it suggests that the person feels that their presence is burdensome to their parents. However, since the post does not explicitly state this, my answer is 'Not at all true for me.'"])
+('6', ['indirectly_mention', "Not at all true for me###The statement 'this situation is making me absolutely miserable' implies that the person believes they are not making things worse for others, as they are currently experiencing a negative situation. However, since the post does not directly state this, my answer is 'Not at all true for me.'"])
+('7', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person is in a bad situation in their group home and feels unable to handle it. They also mention that they have nowhere to go and this situation is making them miserable. From this, it can be inferred that the person may be feeling unsupported by others, which aligns with the question regarding whether other people care about them.'])
+('8', ['indirectly_mention', 'Not at all true for me###The post mentions that the person feels like they have nowhere to go and may end up being homeless. This suggests a lack of belongingness and feeling disconnected from others, which aligns with the question regarding whether the person feels like they belong.'])
+('9', ['indirectly_mention', "Somewhat true for me###The post suggests that the person is experiencing a difficult situation in their group home. They mention that they have nowhere to go and will likely be homeless next week if no one helps. This implies a lack of supportive friends and people who care about them, which aligns with the option 'Somewhat true for me.'"])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the number of caring and supportive friends the poster has. Therefore, it is not possible to answer this question based solely on the given post."])
+('11', ['directly_mention', 'Somewhat true for me###The post mentions feeling disconnected from other people, which is similar to the statement in Question 11.'])
+('12', ['directly_mention', 'Very true for me###The post directly mentions feeling like an outsider in social gatherings, which aligns with the statement in Question 12.'])
+('13', ['indirectly_mention', "Somewhat true for me###Although the post doesn't explicitly mention the question, the poster states that they have a bad situation in their group home and feel unable to handle it. They also mention that they have nowhere to go and will likely be homeless soon. These statements suggest a lack of support and close relationships with others."])
+('14', ['indirectly_mention', 'Not at all true for me###Based on the post, the poster expresses their misery and frustration with their current situation in the group home. They mention that no one is reacting to their situation, which implies a lack of closeness and support from others.'])
+('15', ['directly_mention', 'Not at all true for me###The post mentions that the situation in their group home is making them absolutely miserable, indicating a lack of satisfying interactions in their daily life.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the answers to the mental scale questions, the poster expresses strong feelings of being a burden on others, believing that others would be better off without them, and feeling disconnected from other people. These feelings indicate a high risk of perceived burdensomeness, which is a common feature of mental health problems such as depression and suicidal ideation.
+

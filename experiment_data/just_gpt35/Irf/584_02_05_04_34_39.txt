@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I am suicidal, but for the most part the feeling of suicide comes in waves. Right now it feels like a tsunami and I‚Äôm trapped under water.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of being trapped and overwhelmed by suicidal thoughts, which suggests a sense of isolation and disconnection from others. This aligns with the concept of thwarted belongingness, which is a recognized risk factor for suicide.
+

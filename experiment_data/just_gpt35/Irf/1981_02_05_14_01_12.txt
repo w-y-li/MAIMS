@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  The last few I've seen were well-meaning but unfortunately it didn't work out. I feel worthless every day, I have no close friends, it really sucks. Countless social rejections have led me to believe that I am fundamentally broken, that no one wants to be my friend. I don't think that going to therapy will suddenly make me a really likable person that tons of people want to be friends with. But maybe it can make me feel better about myself. Because I can't go on living like this. I'm afraid I might try to kill myself or something.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, social rejection, and a belief that no one wants to be friends with the poster. These thoughts can contribute to a sense of burdensomeness and potentially increase the risk of suicidal thoughts or behaviors.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Hahahaüò¢ So sad that even when I'm not suicidal I know that it's a must for me to die because I don't see myself getting back up. Wow my life is over at just 22.I wish a disease snatches me away before I do something that I might regret  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a perception of burden as the individual mentions feeling like they must die and not seeing themselves getting back up. They also express a desire for a disease to snatch them away before they potentially do something regrettable. These thoughts and feelings suggest a significant burden and potential risk for perceived burdensomeness.
+
+Correct
+Maintain a cautious approach to avoid over-inferencing and ensure the analysis of perceived burdensomeness is always backed by explicit information from the post.

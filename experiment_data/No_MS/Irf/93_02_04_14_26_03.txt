@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I feel sad for myself when I see a couple walking holding hands or kissing.. I don't want to feel that way.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate a risk of perceived burdensomeness. It simply expresses feeling sad and wanting to not feel that way.
+
+Correct
+Remember to differentiate between emotions such as sadness or loneliness and perceived burdensomeness, which involves a belief that one is a burden to others. Continue to focus on the poster’s expressed feelings without inferring beyond the provided information.

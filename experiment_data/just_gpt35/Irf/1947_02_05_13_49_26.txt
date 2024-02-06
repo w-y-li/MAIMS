@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Am I wasting my life? Everyday is the same. I only leave my house for work and sometime food. I get older and everything is the same. I‚Äôm 26 now but I feel more depressed than I did when I was 18. Will I ever get better? Does it stop or do I just waste away?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of hopelessness, lack of purpose, and a sense of stagnation in life. These beliefs can contribute to a sense of burdensomeness, which is a risk factor for mental health problems.
+

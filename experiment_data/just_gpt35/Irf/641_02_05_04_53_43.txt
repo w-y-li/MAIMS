@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I woke up feeling like everything was like off kilter. Sort of like the world was mirrored or I'm looking at everything from a different angle. I don't know how to describe it. And my mother is acting pretty weird too. Almost robotic, not talking at all to me. It's almost like I can feel how she'll be feeling as soon as I wake up before I even see her or anything. It's like a thick layer of fog in the air or something. But anyway...I fell back asleep and woke up again half an hour ago about 11:30am and I had all these weird dreams where I had to sleep in my father's car while he was gone somewhere, another one where I was at my friends place depressed and no one noticed, one where I was drinking the same vodka that jacksepticeye was drinking on a YouTube video (wtf), one where I was running away from crumbling buildings and a few where I'd wake up in the dreams and still wouldn't be actually awake. I don't feel like I'm in reality today.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of disconnectedness and a distorted perception of reality, which can be indicative of depression or anxiety. The mention of weird dreams and feeling like not being in reality may suggest a risk of perceived burdensomeness.
+

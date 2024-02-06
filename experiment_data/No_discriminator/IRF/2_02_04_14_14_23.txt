@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Im afraid. The suicide scale is true. Its gets progressively worse and you dont even realize it. I was at 1 contemplating death and that was it. Now as i live i keep moving farther into the scale. Not existing is all i long for. Its all i think about. Its all i desire. Ive written 2 goodbye notes. I constantly open up the lid of pills and acting as if ill swallow them. Yesterday and today i have been making nooses with a thin belt and putting it around my neck. I squeeze so hard to simulate what its like. When i do i can feel the pressure in the top sides of my head. I can feel the rush and fear. I stopped giving a shit about everything and my attention is mainly death. Someone please comfort me. I am afraid.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Very true for me###The post explicitly states 'Not existing is all i long for. Its all i think about. Its all i desire. Ive written 2 goodbye notes.' This suggests that the person feels that the people in their life would be better off if they were gone."])
+('2', ['directly_mention', "Very true for me###The post mentions 'I stopped giving a shit about everything and my attention is mainly death.' This indicates that the person believes the people in their life would be happier without them."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like a burden and not giving a shit about everything, which can be indicative of feeling like a burden on society.'])
+('4', ['directly_mention', 'Very true for me###The post explicitly states that the person constantly thinks about death and longs for non-existence, indicating that their death may be a relief to the people in their life.'])
+('5', ['indirectly_mention', "Somewhat true for me###The post mentions feeling like the people in their life wish they could be rid of them. While it is not explicitly stated in those words, the statement 'Not existing is all i long for' and 'I stopped giving a shit about everything and my attention is mainly death' suggests a sense of feeling unwanted by the people in their life. This aligns with the scale's question about feeling that the people in their life wish they could be rid of them."])
+('6', ['indirectly_mention', "Somewhat true for me###The post mentions that the person thinks they make things worse for the people in their life. The statement 'I stopped giving a shit about everything and my attention is mainly death' suggests a belief that their presence brings negative consequences to others. This aligns with the scale's question about making things worse for the people in their life."])
+('7', ['directly_mention', 'Not at all true for me###The post expresses a sense of loneliness and a lack of support from others, indicating that other people do not care about the poster.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not directly address feelings of belonging or discuss any experiences or thoughts related to belonging."])
+('9', ['directly_mention', 'Somewhat true for me###The post mentions that the person has stopped caring about everything and their attention is mainly on death. This suggests a lack of interaction with people who care about them, thereby indicating that it is somewhat true for them.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to having caring and supportive friends. There is no mention of the person's social circle or relationships, so it cannot be determined whether they have many caring and supportive friends or not."])
+('11', ['directly_mention', "Somewhat true for me###The post mentions feeling disconnected from other people: 'I stopped giving a shit about everything and my attention is mainly death. Someone please comfort me. I am afraid.' This indicates a sense of disconnection from others."])
+('12', ['directly_mention', "Very true for me###The post mentions feeling like an outsider in social gatherings: 'I stopped giving a shit about everything and my attention is mainly death. Someone please comfort me. I am afraid.' This indicates a feeling of being detached and disconnected from social situations."])
+('13', ['directly_mention', "Very true for me###In the post, I mentioned that I am afraid and I am seeking comfort. This suggests that I feel that there are people I can turn to in times of need. Hence, the answer is 'Very true for me'."])
+('14', ['indirectly_mention', "Somewhat true for me###Although the post doesn't explicitly mention being close to other people, the fact that I am seeking comfort and expressing my emotions and struggles implies some level of closeness. Additionally, the plea for someone to comfort me suggests a desire for emotional connection. Therefore, the answer is 'Somewhat true for me'."])
+('15', ['indirectly_mention', "Very true for me###The post indirectly mentions having satisfying interactions by stating that the person's attention is mainly on death, indicating a lack of positive interactions with others. This suggests that the person does not have satisfying interactions every day."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows signs of risk for thwarted belongingness based on the poster's responses to the relevant mental scale questions. They express feeling like a burden, believing that others would be happier without them, and feeling disconnected and like an outsider in social gatherings. These feelings indicate a lack of belongingness and social support, which can contribute to the risk of suicidal ideation.
+

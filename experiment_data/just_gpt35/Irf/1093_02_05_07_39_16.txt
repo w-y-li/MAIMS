@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I've been making mistakes on the most simplest thing. The other day My dad asked me to book couple of air tickets and by mistake I booked for the wrong destination it costed double the money for cancelling the tickets since my dad was paying for it I didn't tell him about this. And today while I was on my way to my house I by mistake went to my neighbors house and rang their doorbell thinking it was my house. Luckily she knows me so she invited me over for a piece of pie, awkwardly made some conversations and kindly declined the pie and walked as fast as I could to my home. Is this normal? Did this happen to anyone else?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of perceived burdensomeness. The individual's mistakes may be attributed to absent-mindedness or lack of attention, rather than feeling burdensome to others.
+

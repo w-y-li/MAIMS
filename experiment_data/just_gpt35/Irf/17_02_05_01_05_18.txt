@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Someone will love me one day, but I just need reassurance right now  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post reflects a sense of low self-worth and a need for reassurance, which can be indicative of perceived burdensomeness. The individual may believe that they are a burden to others and their worth is contingent upon receiving love and reassurance from someone else.
+

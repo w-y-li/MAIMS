@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Hope https://gogetfunding.com/my-son-right/  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+Insufficient information provided in the post to determine if the poster is suffering from depression.
+

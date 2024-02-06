@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Welp, just got done with another batch of doctors visits and the results are in, I will be crippled for the rest of my life. But that's not what bothers me, I've had plenty of time to come to terms with my condition and the affect it will have on my quality of life and my life expectancy. What bothers me is the soul crushing loneliness, I havent had a girlfriend in years and I haven't been physically touched in what seems like forever. I spend all day in a shitty little side room by myself writing and hardly see hide nor hair of another person besides my dad most of the time. I'm pretty done with it all to be honest, I don't really see any reason to continue living like this.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of soul-crushing loneliness, long-term isolation, and lack of physical touch. These feelings are indicative of a risk of thwarted belongingness, which refers to the perception of not having a sense of connection or belonging with others.
+

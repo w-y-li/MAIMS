@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  For reference, I'm female and 25. So many times I find myself wanting to see a specialist to see if they can help me, but I don't know what's even wrong with me. I'll be fine some days, but then something might happen or I'll get in my own head and things get so much worse. Before I've been able to deal with it, but last night something happened and I felt truly and utterly alone for the first time in my life and I wondered what I was even doing here. Why I'm living when I'm doing nothing with my life. I'm tired of feeling so terrible and convincing myself that I'm just a burden, but I don't know if there are places to help me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling truly and utterly alone, questioning the purpose of living and feeling like a burden. These are indications of a potential risk of thwarted belongingness, which refers to a persistent feeling of disconnection or lack of social support.
+

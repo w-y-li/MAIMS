@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Came to cry and reminisce. And think of all the lives I could've touched if I wasn't depressed...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a sense of longing for connection and regret for not being able to make a positive impact on others' lives due to depression. This aligns with the concept of thwarted belongingness, which refers to the feeling of not being able to establish meaningful connections or have a sense of belonging.
+

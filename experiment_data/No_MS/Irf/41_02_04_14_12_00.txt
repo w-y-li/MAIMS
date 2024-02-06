@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Called my friends. They're all too busy Called my family. They're all too busy Nobody can be here for me. Just feel like shit and need a fucking hug. Hug my pillow and hope tomorrow is better  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the person is feeling unsupported and unable to rely on their friends and family for emotional support. They express a desire for a hug, indicating a need for comfort and connection. This feeling of being alone and lacking support can contribute to perceived burdensomeness, as the person may feel like a burden to others or that their needs are overwhelming.
+
+Correct
+Ensure to maintain a balance between inferences based on evidence in the post and not overgeneralizing emotions or attributing negative qualities without sufficient context. In this case, the provided information led to an appropriate conclusion, but always consider the possibility of alternative explanations and avoid jumping to conclusions when evidence is scarce.

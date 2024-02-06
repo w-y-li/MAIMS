@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Just been in a really bad place mentally I‚Äôm grateful for all the little things I have in my life. But the odds are stacked against me and I can‚Äôt even think straight or even focus in uni or even drive properly. Everyone else has a better life than me I know I should stop complaining and just try to make things better for myself but that‚Äôs so much easier being said than done. I‚Äôve tried everything but nothing has worked for me . I see the guy that my girlfriend cheated on me with he laughs right at my face just a spit on my face to show what a failure I am. Sorry for all the self loathing but I just have no one to talk to. Might just drive my car off the bridge tonight  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling alone and not having anyone to talk to. They also express thoughts of driving their car off a bridge, which is a concerning sign of risk and despair. These feelings indicate a potential risk of thwarted belongingness, as they perceive a lack of connection and support in their life.
+

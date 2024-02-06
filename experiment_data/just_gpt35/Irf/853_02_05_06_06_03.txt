@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Yes I know I'm stupid, yes i know im slow, yes i know im weak and yes I know this amuses you but can you just please move on.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post implies the individual feels burdensome and believes others find them to be a burden due to their own perceived shortcomings.
+

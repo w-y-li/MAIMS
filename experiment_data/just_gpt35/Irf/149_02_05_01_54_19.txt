@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I started my job a couple months ago. I have worn a sweater over my work shirt or long sleeves with it to cover my scars. I know that I shouldn't be ashamed of them, but I often feel that way. However, today I decided to say fuck it and just wear short sleeves. I was uncomfortable and didn't want anyone to notice, but I'm still glad I did it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement about feeling uncomfortable and not wanting anyone to notice their scars suggests a risk of perceived burdensomeness. They may feel like their scars are burdensome or cause them to be perceived as burdensome by others.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I need the confidence I have when I‚Äôm drunk. I‚Äôm just a better person and not a little bitch I need help why can‚Äôt I just remove the insecurities from my life and just live my life please just help me. I‚Äôm really Fucked right now and I just wish i felt like this all the time  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a desire for relief from insecurities and a need to feel confident. The mention of feeling 'Fucked' and wishing to feel like that all the time may indicate a sense of disconnection and a lack of belonging, which can be indicative of thwarted belongingness.
+

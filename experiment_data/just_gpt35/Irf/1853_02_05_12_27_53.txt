@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Does the feeling of emptiness ever go away? Or will I actually like myself at some point?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The mention of feeling empty and questioning self-liking suggests a potential lack of self-worth and negative self-perception, which can be indicative of perceived burdensomeness.
+

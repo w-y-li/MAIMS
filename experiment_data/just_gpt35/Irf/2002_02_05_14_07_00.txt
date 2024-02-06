@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Late thirties here and I have no parents and am for all intents and purposes estranged from my only sibling.... Anyone in the same boat?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of connectedness and support from family members, which can contribute to feelings of social isolation and thwarted belongingness.
+

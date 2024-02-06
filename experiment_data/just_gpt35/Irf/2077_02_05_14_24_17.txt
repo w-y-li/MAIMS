@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I've been on Christmas break for a few weeks and it's been absolutely wonderful. The fall semester was one of the worst experiences of my life, and I barely passed my four classes. This semester I'll be taking six just to catch up, and if I don't fail any of them I'll be shocked. Just the idea of being back there legitimately is less preferable than a quick and painless death. FUUUUUUCKK  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong feeling of hopelessness and a desire for death, suggesting a high risk of perceived burdensomeness.
+

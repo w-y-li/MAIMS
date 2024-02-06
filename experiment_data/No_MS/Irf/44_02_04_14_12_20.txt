@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  (Venting, throwaway account for privacy.) My mind is blank. I cannot think. I don't want to eat. I don't want to try anymore. I've been trying for almost 30 years now. It hasn't gotten better like everyone said it would. It's just been a series of ups and downs, a rollercoaster that never seems to end. I fucking hate it. My partner's grad program fucked us over with direct deposit again, so now all our bills are gonna be overdue. Again. We barely have food in the house, and neither of us have had the mental energy lately to cook what we do have. I could pick up more shifts to work all weekend for pennies to try and slowly pay a tiny bit of everything off, but I won't be able to make enough to pay everything. I'll work myself to the brink of death again just to barely get by, smoke to get through the day, and drink to fall asleep at night. Or I could just end it all. My partner knows I'm mentally ill and tries their best. They go above and beyond any efforts I've ever seen, including my own parents. I don't want to leave them behind. I feel so guilty for feeling this way. But I just can't keep going like this. I want this to be over. And there's no end in sight. So I should just make my own exit.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of isolation, lack of support from their partner's grad program, financial difficulties, and a desire to end their life. These factors indicate a potential risk of thwarted belongingness, as the individual feels disconnected and hopeless in their current situation.
+
+Correct
+Ensure that the conclusions about thwarted belongingness are drawn strictly from the information provided in the post. Avoid making assumptions beyond the poster's expressed emotions and circumstances. Continue to focus closely on the poster's articulated feelings of disconnect and despair to support risk evaluations.

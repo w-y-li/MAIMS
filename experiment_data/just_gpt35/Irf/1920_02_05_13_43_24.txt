@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I haven't been diagnosed with depression and I can't bring up the courage to tell anyone how I'm feeling, but I researched and I have all symptoms. I have constant suicidal thoughts and I have a sh problem. And everyday, I keep feeling worse. I feel utterly worthless and stupid and I don't know why. And it's really hard to type this post because I've never opened up this much to anybody. I have felt this way for a long time (like, a few years) and I really want to know what's wrong with me. I almost never enjoy my life anymore and I want to give up but I'm scared of hurting family members. I always act so happy and cheerful around them and I don't want them to find out the truth. Can someone give me an answer?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling worthless, having constant suicidal thoughts, and not wanting to burden family members by revealing the truth. These feelings of isolation and fear of rejection suggest a risk of thwarted belongingness, which is a common factor in depression and suicidal ideation.
+

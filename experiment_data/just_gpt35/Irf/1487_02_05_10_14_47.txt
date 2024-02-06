@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  About two months ago I started working my first retail job at a grocery store chain, and everything was fine until they decided to move me to a different department that I can't stand being in, as well as changing my hours completely. Most people say that the front end isn't that bad, but it is for me. They won't let me move somewhere else, so I decided I wasn't going to deal with it, and ghosted instead of giving a two week notice like you should do. I've been lying this entire week about going to work, and instead I've been reading books on mental illness at my public library and staying there until my  shift  is over. My mom wanted to know my shedule for next week, and I showed her that it was empty, meaning they fired me, but I didn't tell her that and she thought they were just giving me the week off, which is an impossibility in retail. I start college in two weeks, and now I won't have a paycheck coming every week, but I can't bring myself to care all that much. I noticed I've been much more reckless when driving by myself lately, too. I almost got T boned after leaving the library yesterday and felt nothing. No fear. Just nothing. I wish I could work at the library, it's usually quiet around there...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a sense of burden and lack of interest or concern for the consequences of their actions. The individual mentions feeling unhappy and dissatisfied with their job, lying about attending work, and engaging in reckless behavior while driving. These behaviors and feelings can be indicative of a perceived burdensomeness, where the individual may perceive themselves as a burden to others and may have feelings of hopelessness and indifference towards their own well-being.
+

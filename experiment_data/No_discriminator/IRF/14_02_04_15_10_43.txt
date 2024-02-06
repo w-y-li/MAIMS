@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Just like the title says, I have no good ways of doing the deed. Want to keep it non-gory for my kids sake. Consumed 90% of my waking days thinking about it. At my wits end with my wife even though we have a pretty decent relationship by most people's standards. Hell, we are the couple all our friends wish to be. Yet I have no desire to stay on this earth and continue to be unhappy with myself and my place, my purpose, and feelings of never being good enough for anyone or anything despite the constant praise and nut sucking of how smart I am and how much potential I have. Well if that was all true I'd never have been abused as a kid, treated like I have been as an adult, and maybe my life would be in a positive place. It's not so obviously all that other bullshit isn't true. Fuck it. I'm so done.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the people in the poster's life being better off or happier without them."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not discuss the happiness of the people in the poster's life without them."])
+('3', ['directly_mention', "Very true for me###The post mentions that the person feels like a burden and believes their death would be a relief to the people in their life. This aligns with Option C, 'Very true for me'."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about whether the person believes their death would be a relief to others. Therefore, it does not mention this question."])
+('5', ['indirectly_mention', 'Somewhat true for me###The post indicates feelings of being unwanted and making things worse for others, which indirectly suggests that the person believes others in their life wish they could be rid of them.'])
+('6', ['indirectly_mention', 'Somewhat true for me###The post expresses feelings of inadequacy and the belief that they make things worse for others, indicating that they believe they are not good enough and cause negative outcomes for those around them.'])
+('7', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling unhappy with myself and my place, my purpose, and feelings of never being good enough for anyone or anything. These feelings suggest a lack of self-worth, which could contribute to a perception that others care less about me. However, the post also mentions constant praise and acknowledgment of intelligence, which might indicate that there are people who care about the poster to some extent.'])
+('8', ['indirectly_mention', 'Not at all true for me###The post mentions feeling unhappy with myself and my place, my purpose, and feelings of never being good enough for anyone or anything. These negative feelings could lead to a sense of not belonging, as the poster may not feel accepted or valued by others. However, this is an indirect mention, and it is not explicitly stated whether the poster feels like they belong or not.'])
+('9', ['directly_mention', 'Not at all true for me###In the post, I mention that my wife and I have a pretty decent relationship and that we are the couple all our friends wish to be. This implies that I have people who care about me and that I do interact with them, which means it is not true that I rarely interact with people who care about me.'])
+('10', ['indirectly_mention', "Not at all true for me###Although I don't directly mention having many caring and supportive friends, I do talk about how I have constant praise and how smart I am. This suggests that I might have supportive people around me who consider me smart and have potential. Based on this information, it is unlikely that I have no caring and supportive friends."])
+('11', ['directly_mention', "Very true for me###The post directly mentions feeling disconnected from other people: 'Yet I have no desire to stay on this earth and continue to be unhappy with myself and my place, my purpose, and feelings of never being good enough for anyone or anything.' This statement implies a strong sense of disconnection from others."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention feeling like an outsider in social gatherings. The focus is on internal struggles, feelings of inadequacy, and dissatisfaction with oneself. There is no explicit mention of social gatherings or feeling like an outsider in that context."])
+('13', ['directly_mention', 'Somewhat true for me###The post mentions that the person is at the wits end with their wife despite having a decent relationship, which implies that they might not feel they can turn to their spouse in times of need. Additionally, the person expresses feelings of never being good enough, which suggests a lack of a support system and people to turn to.'])
+('14', ['indirectly_mention', "Not at all true for me###The post discusses the person's feelings of unhappiness, lack of purpose, and being abused. These negative experiences may have led to a disconnection from other people, making them feel that they are not close to anyone in their current state of mind."])
+('15', ['directly_mention', 'Not at all true for me.###The post mentions that the person is consumed with thoughts of unhappiness and feelings of never being good enough, indicating that they do not have satisfying interactions every day.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to the questions indicate feelings of being a burden on society, making things worse for those in their life, feeling disconnected from others, and rarely interacting with people who care about them. These are all signs of thwarted belongingness, which is a risk factor for mental health issues such as suicidal ideation.
+

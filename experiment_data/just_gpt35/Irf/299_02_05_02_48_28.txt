@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Just over a week ago I left a really shitty situation with parents who have treated me pretty awfully for years and I am finally free - however, I'm homeless. I have been staying with friends and I spend some time in crisis accommodation provided by my psychologist after I finally opened up to her about everything they have been doing to me, and it's just been really hard. I'm having trouble getting the legal documents I need to secure a stable living situation, in my country so much of that is reliant on parental confirmation even though I am a legal adult, and I met up with my mum today to try and talk things out with her but I got brutalised and put down and just made to feel really worthless all over again. She couldn't even not be cruel to me after meeting for just one day after not seeing eachother for awhile, so I have decided to go no contact. I feel really helpless. I feel like the systems in place quite literally fuck you over if you have abusive families, needing their birth certificates to verify things. I feel like it has been made near impossible for me to live independently without them but I know I can never go back because they have put me through so much trauma and so many things I know to not be okay and they have no remorse, and I'm never going to put up with that ever again. I really don't want to go on anymore, I feel so weak, I have been trying so hard to get everything in order for 10 days straight and it has amounted to nothing, and I really feel like I have no other choice,  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of worthlessness, helplessness, and a lack of options for independent living, which can contribute to a perception of burdening others with one's problems.
+

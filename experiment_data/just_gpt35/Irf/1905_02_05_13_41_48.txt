@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  My therapist is thinking about terminating me seeing her due to the fact that im not making any progress. What the fuck am I supposed to do afterwards? Suffer with mental illness? Get medication and hope it helps? Go to a physiologist? Im confused and scared and I just want to get better.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of hopelessness and confusion about the future, suggesting a risk of perceived burdensomeness.
+

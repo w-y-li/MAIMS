@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I thought I'd share two quotes that I liked/felt I could relate to. I don't know why I feel like sharing them here, but maybe somebody can take something away from them. They're both from Emil Cioran and his work *The Trouble of Being Born*. The first goes as  It is not worth the bother of killing yourself, since you always kill yourself too late.  The second goes as  What do you do from morning to night? I endure myself.   
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's sharing of quotes that express feelings of hopelessness, worthlessness, and enduring oneself suggest a possible symptom of depression. Additionally, the mention of not knowing why they feel like sharing the quotes may indicate a lack of motivation and loss of interest in activities, which are common in individuals with depression.
+

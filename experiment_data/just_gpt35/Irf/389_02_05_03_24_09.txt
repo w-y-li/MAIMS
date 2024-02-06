@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  After many years of variety of meds for a variety of things (ADHD, depression, sleep, bipolar), I decided to self-medicate with coffee, melatonin, excercise, a therapy light, and running my own business rather than having to follow stupid rules. Actually, the self-medication thing worked pretty well. It probably helps that I've lived with a physician for many years. However, the business did not go well, and I'm back to being full-time employed for someone else. Basically, I'd need to make an appointment in St. Paul before work or after work, but I'd prefer weekends. I know this is not a TwinCities specific board, but with 160k readers, I figure there might be someone from around here.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the individual has tried multiple medications for various mental health issues and has now resorted to self-medication. This suggests a potential risk of perceived burdensomeness, as they may feel overwhelmed with the necessity of following 'stupid rules' and prefer to find their own solutions. The mention of the business not going well and now being back to full-time employment for someone else also implies a sense of disappointment and possibly added stress, further supporting the presence of perceived burdensomeness.
+

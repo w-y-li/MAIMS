@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  failed my exams last year, retaking the year. got mocks coming up that are really important, and if i dont do well i can get kicked off again. dont have the strength to keep going after being held back twice. on top of that i was a dick to my girlfriend and now she full on hates me, obviously deserved (not trying to blame her) but it's still shit. have no friends, nobody to talk to, and dont know how to get it out. been close to calling a hotline but can never quite bring myself, never feel deserving of one  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of burden and being overwhelmed by the person's academic situation, as well as their relationship troubles and lack of social support. The mention of not feeling deserving of calling a hotline suggests a lack of self-worth, which aligns with perceived burdensomeness.
+

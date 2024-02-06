@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I don't know what I am living for... I honestly don't know why I keep living another day, I have no one to love me, my very friends are dick heads, my parents don't care how i am feeling and when they do they just throw a bible verse at my face acting as if talking to some sky man is going to cure me, I have yet to even hug a girl in my life, probably because I'm such an ugly awkward beta shit... I have no plans for my future, I am overall retarded In school. All I can do is be an escapist by playing video games, watching videos, eating unhealthy food, and all i do is isolate myself from reality... My therapist is overall useless, all she does is repeat the same shit I hear from people... I honestly don't comprehend why I won't just end it all...  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's feelings of hopelessness, lack of motivation, low self-esteem, isolation, and thoughts of ending their life indicate symptoms of depression.
+
+Correct
+Ensure to differentiate between the signs of clinical depression and normal sadness or stress. While the response here seems aligned with symptoms of depression, always consider the individual's environment, context, and how they express their emotions before concluding. Be cautious not to overgeneralize or infer too deeply into limited social media information, and avoid assuming details not provided in the post. If similar cases arise, consider advising the individual to seek professional help for a comprehensive assessment.

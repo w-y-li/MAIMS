@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Been dealing with depression and anxiety for the last few years. Tried to live life normally when I‚Äôm outside my room. Friends didn‚Äôt even know I had it cause I tried the hardest to not let it affect my everyday life, even though I go through lots of anxiety attacks throughout the day. Yesterday, I just needed one break from work, first time to ever do that and was told I needed to ‚Äútoughen up‚Äù. Felt really bad about it. All these years I‚Äôve been dealing with my anxiety and depression without letting it affect my work ever, and now that i just needed a day off, I get that message.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual feels burdened by their mental health issues and may perceive themselves as a burden to others. This is indicated by their attempt to hide their depression and anxiety from friends, as well as their feelings of guilt and badness when they needed a day off and were told to 'toughen up'. These experiences suggest a risk of perceived burdensomeness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I‚Äôm so tired. I don‚Äôt have any friends. I haven‚Äôt been going to work. I dropped all of my classes. My therapy doesn‚Äôt help. I‚Äôm in love with someone I can‚Äôt have and it‚Äôs eating me up. I literally just stay at home all day now because I never feel good anywhere. My family doesn‚Äôt care about me. I‚Äôm a failure. I think I‚Äôm ready to give up  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of social isolation, lack of support from family and friends, and a sense of failure. These factors contribute to risk of perceived burdensomeness, which is a key component of suicidality and might be indicated by the statement 'I think I'm ready to give up.'
+

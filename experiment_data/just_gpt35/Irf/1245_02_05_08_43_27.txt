@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I'm trying to plan out treatment but lodging, transportation and funding is difficult. Are there any resources or strategies that can help? I'm feeling less depressed and need to act quick before my motivation disappears  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post focuses on the practical challenges of treatment planning, such as lodging, transportation, and funding. It does not mention feeling like a burden to others.
+

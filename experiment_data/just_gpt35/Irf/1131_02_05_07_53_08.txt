@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  We had a rough day. You know, when you and your significant other argue. Those types of days. But what happens when you think she's lost trust in you? It's a worse feeling than some of you think. Maybe then, that's not necessarily a bad day. Some people have it worse. Even I know that. But sometimes it turns into something a little worse. The truth was, was that I hadn't been talking to anyone else. I had swore up and down that I hadn't been, I mean, she was on vacation and I had promised to always be faithful. And I had been. She just didn't understand the real truth that I had been telling her. She wouldn't believe me. I made bad decisions. This seems simple to anyone else who'd be reading this. We argued some more. She blocked me right before I had gone to shower and that's right around when I realized some things. I realized that I was a bad boyfriend, although I had always been faithful and loyal. A bad friend. Moments later, I could feel that familiar pattern of water patting on my back as it does every night right after my usual 5 hour shifts, every day. Zoning out, I kept realizing why some people hurt themselves. Why people killed themselves. Sometimes the sky is grey much more than it is blue. Maybe it was people like me. Maybe I was a bad person after all. I wish I could've been someone better. So, in that case, I'm sorry.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of guilt, inadequacy, and perceived burdensomeness. The poster mentions being a bad boyfriend and a bad friend, and expresses thoughts about why people hurt themselves or kill themselves. These thoughts indicate a risk of perceived burdensomeness, where the person may feel like they are a burden to others and that they would be better off if they were gone.
+

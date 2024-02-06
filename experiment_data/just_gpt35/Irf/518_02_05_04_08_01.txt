@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Not myself, not others I'm gonna fail out of the online school I was pressured to get into, because I can't make myself try, because I'm pretty universally and consistently useless Anytime I can die would be great, the sooner the better  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling useless and the desire to die. These feelings indicate a strong sense of isolation and lack of belonging, which suggests a risk of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I can just tell I‚Äôm the loser of my school. I get constantly ignored and don‚Äôt have any real friends. I have no idea why. High school is making me suicidal  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual feels constantly ignored and lacks real friends, indicating a potential lack of social connectedness or feelings of isolation. This aligns with the concept of thwarted belongingness, which refers to a perceived lack of social support or belongingness that can contribute to suicidal thoughts.
+

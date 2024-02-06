@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  How much trouble would I be in if I pointed a squirt gun that looked like a real gun at a cop? Assuming that I was shot at but still survived would I get in trouble by the law if they knew that my intentions were suicide and that I had no real weapon?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a desire to engage in risky behavior and a potential intention for suicide, indicating a possible sense of isolation or thwarted belongingness.
+

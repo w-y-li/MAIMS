@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  it feels like im whining all the time but ill just say it anyway. Is it normal to always obess over good moments that happened in the past? I always look back at times during 2015 when I was so much happier and at peace and not miserable like I am now. I always try to reread the same books, watch the same tv shows and do the same things just to get back that feeling of peace. And I fail everytime. This is stressing me out along with other issues I have. I  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a sense of dissatisfaction, longing for the past, and a constant effort to recreate past experiences. This could relate to perceived burdensomeness, as the individual may feel burdened by their current situation and constantly seek solace in past moments of happiness.
+

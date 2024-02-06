@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I really consider suicide, i really have no strength to fix things. I keep crying all the time because I'm so hopeless! I just want to end it forever. It's so hard to keep my happy face. I don't see the point of living this way, I want out...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of hopelessness, wanting to end life, and not seeing a point in living. These thoughts and emotions indicate a risk of perceived burdensomeness, where the individual may perceive themselves as a burden to others or feel that their existence is burdensome.
+

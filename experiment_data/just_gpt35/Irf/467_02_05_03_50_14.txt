@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  So I'm supposed to graduate in December and I don't think it's going to happen. I have let myself slip because of health problems and no matter how much I study, I can't get past a B or C on exams. Even got a 23% on a test I took last week. I feel so stupid and lost, why did I do this to myself? I can't even talk to my professors because I always get the same response,  if I help you, I have to help others.  What's the point? The only reason I won't take my life is because I don't want to leave my mom with my student loans but I just wish I could end it all. Be on an island by myself and drift away from it all  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of burden and a wish to end their life, indicating a risk of perceived burdensomeness.
+

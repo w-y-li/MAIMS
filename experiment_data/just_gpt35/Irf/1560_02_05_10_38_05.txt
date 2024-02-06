@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  It‚Äôs literally like night and day  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not mention anything related to belongingness or lack of connection to others. It simply states a drastic change or contrast between two situations (night and day).
+

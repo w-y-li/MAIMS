@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I never go out anymore. I work from home and I don't really have anyone to talk to at all. It's such a weird feeling to be isolated and silent all of the time. It's been like this for years, I can't tell whether I'm tired enough but I might fall asleep soon after posting this. But then again, I might not.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of social connection and isolation, which is a key characteristic of thwarted belongingness.
+

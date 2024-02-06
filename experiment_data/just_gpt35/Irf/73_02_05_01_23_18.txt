@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Anyone gotten off this drug? I am reading the inter webs and having the crap scared out of me. Been on it about 18 months...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate any risk of perceived burdensomeness. It simply expresses concern about the potential side effects of a medication and seeking information about others' experiences.
+

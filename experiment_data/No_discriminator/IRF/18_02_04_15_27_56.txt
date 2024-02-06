@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I want to feel like I belong here. I wish there were people whom I could connect with. Unfortunately, I don't know where life is taking me right now. I'm too tired of the everyday grind. Life has become a constant struggle. I wish this agony would end. I've been hoping for a long time. I thought I had people by my side. There are people who care but I don't know why I'm not able to connect with them. I just feel empty. :( I've endured for a long time. I just wish this would end some day.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', "Not at all true for me###Although I feel like I don't have people to connect with and I'm going through a tough time, there is no mention of the idea that others would be better off without me. There is no indication of resentment towards others in the post."])
+('2', ['indirectly_mention', "Somewhat true for me###While I express feeling empty and disconnected, there is no explicit statement indicating that others would be happier without me. However, the expression of wanting the agony to end and hoping for an end implies some level of unhappiness and potentially believing that others' lives would be improved without me."])
+('3', ['indirectly_mention', 'Not at all true for me###The post mentions feeling like a burden and struggling with life, which suggests that the person may be experiencing feelings of being a burden on society. However, it is not explicitly mentioned in the post.'])
+('4', ['indirectly_mention', 'Not at all true for me###The post expresses the wish for the agony to end, which indirectly suggests that the person may believe their death would be a relief to others. However, it is not explicitly stated in the post.'])
+('5', ['not_mention', "Doesn't mention at all.###The post does not include any mention or implication of the people in the poster's life wanting to be rid of them."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not include any indication or suggestion of the poster making things worse for the people in their life."])
+('7', ['directly_mention', 'Somewhat true for me###The post mentions that there are people who care about me, but the poster is unsure why they are not able to connect with them. This suggests that there is some level of care from others, but the connection is lacking.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention feeling like I belong, so I cannot provide an answer based on the given information."])
+('9', ['directly_mention', "Not at all true for me###The post clearly states that there are people who care about me, but I'm not able to connect with them."])
+('10', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to having many caring and supportive friends."])
+('11', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to feeling disconnected from other people."])
+('12', ['directly_mention', 'Very true for me.###The post explicitly mentions feeling like an outsider in social gatherings.'])
+('13', ['indirectly_mention', "Not at all true for me###The post mentions feeling like the poster doesn't know where life is taking them and that they are unable to connect with people. These statements imply a lack of support and lack of closeness to others, which suggests that the poster does not feel like there are people they can turn to in times of need."])
+('14', ['indirectly_mention', 'Not at all true for me###The post expresses a sense of emptiness and a lack of connection with others. This suggests that the poster does not feel close to other people, as stated in the question.'])
+('15', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster wishes to connect with people and feels empty, which suggests that the poster may have a lack of satisfying interactions. However, it is not clear from the post whether the poster has any satisfying interactions on a daily basis, so the answer is only 'Somewhat true for me'."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post demonstrates feelings of isolation, disconnection, and a lack of belonging. The poster expresses a desire to connect with others and mentions feeling empty. Additionally, their response to the mental scale questions indicates that they feel somewhat true that the people in their life would be happier without them and that they rarely interact with people who care about them. These feelings and thoughts suggest a risk of thwarted belongingness.
+

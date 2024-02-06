@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  (48M) I've dealt with depression and suicidal thoughts for probably \~35 years now. I've been on pretty much all the different meds, had 2 rounds of TMS (30 sessions each), and have had therapy. Nothing has made me feel any better. I don't remember any other way to feel but sad, hopeless and suicidal. I don't know how much longer I can keep going on.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Not at all true for me.###The post mentions feeling sad, hopeless, and suicidal, but it does not suggest that the people in the poster's life would be better off without them."])
+('2', ['directly_mention', "Not at all true for me.###The post mentions feeling sad, hopeless, and suicidal, but it does not suggest that the people in the poster's life would be happier without them."])
+('3', ['indirectly_mention', "Somewhat true for me###In the post, I mentioned that I don't remember any other way to feel but sad, hopeless and suicidal. This suggests that I may feel like a burden on society to some extent."])
+('4', ['indirectly_mention', "Very true for me###The post indicates that I've been dealing with depression and suicidal thoughts for a long time, and nothing has made me feel any better. This suggests that I might believe my death would be a relief to the people in my life."])
+('5', ['indirectly_mention', 'Somewhat true for me###The poster mentions feeling sad, hopeless, and suicidal, which suggests that they may believe they make things worse for the people in their life.'])
+('6', ['indirectly_mention', 'Somewhat true for me###The poster expresses that they feel that the people in their life may wish they could be rid of them, which suggests that the poster believes they may make things worse for those people.'])
+('7', ['indirectly_mention', "Somewhat true for me###The post mentions that the person has been dealing with depression and suicidal thoughts for a long time, which suggests that they may not feel cared for by others and may have a sense of isolation. However, the post doesn't explicitly state the current level of care and support from others, so my answer is based on inference."])
+('8', ['indirectly_mention', "Not at all true for me###The post mentions feeling sad, hopeless, and suicidal, which indicates a lack of a sense of belonging or connection to others. However, the post doesn't explicitly state the current feeling of belonging, so my answer is based on inference."])
+('9', ['directly_mention', "Very true for me###The post mentions that the person has dealt with depression and suicidal thoughts for a long time, and that they don't remember any other way to feel other than sad, hopeless, and suicidal. This suggests that they rarely interact with people who care about them and feel unsupported, which aligns with the option 'Very true for me'."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication regarding the number of caring and supportive friends the person currently has. Therefore, I cannot deduce an answer for this question from the given post."])
+('11', ['directly_mention', 'Very true for me###The post states that the person feels sad, hopeless, and suicidal, which can be indicative of feeling disconnected from other people.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding feeling like an outsider in social gatherings."])
+('13', ['directly_mention', 'Not at all true for me.###The post mentions feeling sad, hopeless, and suicidal, indicating that there are no people the poster can turn to in times of need.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to being close to other people."])
+('15', ['indirectly_mention', 'Not at all true for me###The post mentions that the poster has been feeling sad, hopeless, and suicidal for a long period of time. This indicates a lack of satisfying interactions, suggesting that it is not true for the poster.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The responses to the questions indicate that the poster perceives themselves as a burden on society, feels that their death would be a relief to the people in their life, and thinks they make things worse for the people in their life. This suggests a risk of perceived burdensomeness, which is a characteristic often associated with suicidal thoughts and feelings.
+

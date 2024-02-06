@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Hi, As the title suggests, where to go or how to help yourself where my options are severely limited? My GP can only organise pills for me. I have no way of acquiring a therapist. I have been severely depressed for past couple of weeks and mildly since about November. I don't have a trusted parent, sibling or a friend that I could open up to. I tried a while ago but I ask to support me in functioning day to day, pushing me to work and they just tell me they're sorry or they wish they could help. You know, the empty  You can talk to me, it will get better . Then they cut contact. My boyfriend just says he doesn't know how to help me and has phases of randomly complimenting me or texting me to tell me he loves me for two days straight then he forgets all about it. I'm sure he tries his best but I just wish I had more support and he says  he can't help me anymore than he does  everytime. I feel so trapped. I always have to pretend I'm fine. I always cover up with humor. It seems like I'm insincere or dramatic when I finally snap and just say I'm a mess. I can't afford a therapist. My university counselling office won't help me. They offered a suicide hotline numbers (?) and  we're sorry but this isn't a psychological support that we do here . How to cope? Where to go? Edit: Please don't advertise religion/cults to me. I'm not interested and heavily despise brainwash without any real therapeutical value.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of burden and feeling trapped due to lack of support from important people in the poster's life. This can be an indicator of perceived burdensomeness, which is a common risk factor for suicide and mental health deterioration.
+

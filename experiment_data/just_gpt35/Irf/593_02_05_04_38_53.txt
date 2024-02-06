@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Hope you are all okay. https://imgur.com/gallery/Za7hG  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not provide enough information to determine if there is a risk of perceived burdensomeness. It is a simple greeting without any context or details about the person's mental state.
+

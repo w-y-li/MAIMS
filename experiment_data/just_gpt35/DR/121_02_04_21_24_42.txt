@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Wife complains that I sleeps too much. I wanna say because being asleep is better than living in the reality that is my life, but I don't know how to explain it to her without hurting her feelings. She knows I have been diagnosed with depression and anxiety.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions being diagnosed with depression and anxiety, and their statement about preferring sleep over reality indicates a possible symptom of depression.
+

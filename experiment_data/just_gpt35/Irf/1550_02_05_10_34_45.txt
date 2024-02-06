@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I feel like people are controlling every aspect of my life. My anxiety is so severe I can‚Äôt leave the house and all I want to do is find a way to end it. Can someone help me find an easy way out?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the person is feeling isolated and unable to connect with others, which is a sign of thwarted belongingness.
+

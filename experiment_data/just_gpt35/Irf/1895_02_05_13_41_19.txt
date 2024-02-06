@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Hey guys, I'm lost. Quick introduction. I've had four heart attacks due to bad genetics and i'm only 25, and i need to know what i need to do next. I'm so miserable, I have fallen into deep dark severe depression of emotionless days that plagued me since 22. What would you do? I am sitting here drunk as all else, and every year has become a tipping point of despair.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of despair, severe depression, and a sense of burden due to the poster's health condition and emotional state.
+

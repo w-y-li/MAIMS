@@ -1,0 +1,116 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Stuck living with my parents because I can't afford to leave The idea of living here forever because I can't make much more than minimum wage makes me feel suicidal.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###The post explicitly states that the idea of living with the parents forever makes me feel suicidal, indicating a deep sense of sadness.'])
+('2', ['indirectly_mention', "I feel discouraged about my future.###The post mentions that the person is stuck living with their parents because they cannot afford to leave and can't make much more than minimum wage. This suggests a lack of optimism and hope about their future."])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The post mentions feeling stuck living with parents because of financial constraints. This could suggest a sense of failure in being unable to afford to leave and potentially comparing oneself to others who may have been more successful in achieving independence.'])
+('4', ['indirectly_mention', "I do not enjoy things as much as I used to.###The post mentions feeling suicidal due to being stuck living with parents and not being able to make much more than minimum wage. This implies dissatisfaction with one's current situation, suggesting a decrease in pleasure from everyday activities."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention any feelings of guilt or punishment."])
+('6', ['indirectly_mention', 'I feel I am being punished.###The post mentions feeling suicidal because of the current living situation, which implies a sense of punishment.'])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to self-dislike. It only mentions feeling suicidal due to financial constraints."])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual.###Although the post does not directly mention self-accusations, it implies a sense of blaming oneself for the situation. The phrase 'because I can't make much more than minimum wage' suggests a level of personal responsibility and self-criticism for not being able to improve one's financial situation."])
+('9', ['indirectly_mention', "I would like to kill myself.###The post mentions feeling suicidal because of the idea of living with parents forever and not being able to make much more than minimum wage. This suggests that the person may have thoughts of killing themselves, but it doesn't directly state so."])
+('10', ['indirectly_mention', 'I cry more than I used to.###The post implies that the person is experiencing a significant level of distress, as they mention feeling suicidal. This distress may manifest as increased crying, which suggests that they cry more than they used to.'])
+('11', ['directly_mention', 'I am so restless or agitated that I have to keep moving or doing something.###The post mentions feeling restless and agitated because of the situation of being stuck living with parents and not being able to afford to leave. This suggests a level of restlessness and agitation that is hard to stay still and requires constant movement or activity.'])
+('12', ['directly_mention', 'I have lost most of my interest in other people or things.###The post mentions feeling suicidal because of the idea of living with parents forever and not being able to make much more than minimum wage. This suggests a loss of interest in other people and things, as the overall situation has caused a significant decrease in interest.'])
+('13', ['directly_mention', 'I can not make decisions at all anymore.###The post specifically mentions that the idea of living with my parents forever makes me feel suicidal, indicating that my ability to make decisions has been severely impacted. '])
+('14', ['indirectly_mention', "I feel more worthless as compared to other people.###Although the post does not directly mention worthlessness, it does indicate that I cannot afford to leave my parents' home and feel stuck. This situation may lead to feelings of worthlessness and lower self-esteem compared to others who are able to live independently and afford their own expenses."])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###The post mentions feeling stuck living with parents because of financial constraints, which can be a source of stress and reduced energy.'])
+('16', ['directly_mention', 'I sleep a lot less than usual.###The post mentions feeling suicidal due to the idea of living with parents forever. Suicidal thoughts can disrupt sleep patterns and result in difficulty falling asleep or waking up early.'])
+('17', ['indirectly_mention', 'I am much more irritable than usual.###The post mentions feeling suicidal, which indicates a significant emotional distress. Suicidal ideation is often accompanied by irritability.'])
+('18', ['indirectly_mention', 'My appetite is much less than before.###The post states feeling suicidal, which can lead to changes in appetite. Additionally, the poster mentions being stuck in their current situation, which can cause a decrease in appetite.'])
+('19', ['directly_mention', "I find I can not concentrate on anything.###The post mentions feeling suicidal because they can't afford to leave their parents' home, which suggests a high level of distress. This high level of distress may contribute to difficulty in concentration."])
+('20', ['directly_mention', 'I am too tired or fatigued to do a lot of the things I used to do.###The post mentions feeling stuck living with parents, not being able to make much more than minimum wage, and feeling suicidal. These circumstances can be mentally and emotionally draining, leading to increased fatigue and tiredness.'])
+('21', ['indirectly_mention', 'I am less interested in sex than I used to be.###The post mentions feeling suicidal due to being stuck living with parents because of financial constraints. This indicates a high level of distress and a potential impact on overall well-being, which can include changes in sexual interest.'])
+Do MS Check Record:
+('1', ['Correct', 'Ensure to consistently differentiate between direct mentions and inferences from the content, maintaining objectivity.'])
+('2', ['Correct', 'Continue to align the sentiments of the post with psychological constructs while avoiding overgeneralization or assumptions not supported by the text.'])
+('3', ['Correct', 'Ensure that your inferential deductions are always grounded in the content of the post. Reflect on whether the emotional state described in the post logically extends to feelings of failure compared to others, which you have done correctly here.'])
+('4', ['Correct', 'Maintain sensitivity to the emotional tone of a post without overextending assumptions. Continue to draw connections between stated feelings and related emotional states such as loss of pleasure, as appropriately done here.'])
+('5', ['Incorrect', 'Avoid assuming details not present in the post. Focus on the actual content, and if guilt is not mentioned, refrain from inferring it.'])
+('6', ['Correct', 'Continue to analyze the emotional content of posts to infer feelings like punishment, but ensure the inferences are directly supported by the post.'])
+('7', ['Incorrect', 'Revisit the post and differentiate between emotions directly mentioned and those which require inference. Look for explicit phrases that indicate self-dislike.'])
+('8', ['Correct', 'Continue to make informed inferences where direct evidence is missing, using the language of the post to guide your assessment of underlying feelings like self-accusation.'])
+('9', ['Correct', 'This student correctly inferred the presence of suicidal thoughts based on the explicit mention in the post. Continue to use direct information from the posts to inform your responses, but also remember to be cautious of stating feelings as facts without clear evidence. In this case, it is clear, but always look for explicit mentions before concluding.'])
+('10', ['Correct', 'While the post did not directly mention crying, the student correctly deduced that the expression of feeling suicidal could correlate with an increased tendency to cry due to emotional distress. Keep using cues from the post to infer possible behaviors and feelings, but make sure to qualify statements as inferences when the behaviors are not explicitly mentioned.'])
+('11', ['Incorrect', 'Do not assume agitation without explicit evidence; focus on what is directly conveyed in the post.'])
+('12', ['Incorrect', 'Be cautious of inferring loss of interest purely from dissatisfaction with a life situation; explore for more direct indicators.'])
+('13', ['Incorrect', "Carefully analyze the post to distinguish between direct statements and inferred feelings. Avoid making assumptions about the poster's decisiveness without clear evidence."])
+('14', ['Correct', 'Continue to infer deeper emotional states that the post may imply without stating explicitly. Ensure that your inferences are logically connected to the content of the post.'])
+('15', ['Incorrect', "Avoid making direct claims about energy levels without evidence from the post. Instead, connect the feelings of being 'stuck' and financial stress to potential impacts on energy indirectly or consider broader emotional states."])
+('16', ['Incorrect', "Do not claim changes in sleep patterns without support from the post's text. Instead, deduce possible sleep disturbances from emotional distress mentioned, but clarify the uncertainty since the post does not explicitly discuss sleep."])
+('17', ['Correct', 'Continue to consider emotional distress cues when inferring related symptoms, ensuring to stay grounded in the explicit content of the post.'])
+('18', ['Correct', "Well done on connecting the post's emotions to potential physical symptoms. However, be cautious of assuming specific changes in-appetite without more explicit information."])
+('19', ['Incorrect', 'Avoid assuming that distress explicitly implies concentration difficulties without clear indicators. To improve, analyze the content for explicit or implicit messages about concentration difficulties, rather than inferring them from the general mood.'])
+('20', ['Incorrect', 'Do not overgeneralize tiredness or fatigue based on the overall emotional state. Focus on specific details that indicate a lack of energy or increased fatigue relevant to the question.'])
+('21', ['Incorrect', 'Be cautious not to infer information not provided in the post. Focus on what is explicitly mentioned without adding assumptions about aspects like changes in sexual interest.'])
+
+ITER 1
+Do MS Record:
+('5', ['directly_mention', "I feel quite guilty most of the time.###The post directly mentions the feeling of guilt by stating 'The idea of living here forever because I can't make much more than minimum wage makes me feel suicidal.' This indicates that the poster feels guilty about not being able to make more money and being stuck living with their parents."])
+('7', ['directly_mention', "I dislike myself.###The post directly mentions feelings of self-dislike by stating 'The idea of living here forever because I can't make much more than minimum wage makes me feel suicidal.' This suggests that the poster has a negative view of themselves and their current situation."])
+('11', ['indirectly_mention', 'I am so restless or agitated that I have to keep moving or doing something.###The post mentions feeling suicidal, which indicates a high level of distress. Suicidal thoughts often coincide with restlessness and agitation, as expressed in the post.'])
+('12', ['indirectly_mention', 'It is hard to get interested in anything.###The post mentions feeling stuck, living with parents, and being unable to afford to leave. These circumstances can lead to a loss of interest in activities or finding it difficult to get interested in anything.'])
+('13', ['directly_mention', "I have greater difficulty in making decisions than I used to.###The post mentions feeling suicidal because the poster is stuck living with their parents and can't afford to leave. This implies a sense of hopelessness and helplessness, which could lead to increased difficulty in making decisions."])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post mentions feeling stuck living with their parents and mentions feeling suicidal. These feelings can lead to emotional exhaustion and a decreased ability to function, indicating a potential loss of energy.'])
+('16', ['indirectly_mention', "It is hard to keep my mind on anything for very long.###The post mentions feeling suicidal because the poster can't afford to leave their parents' house. This suggests that they are dealing with significant financial stress and feelings of hopelessness. These emotional distresses may contribute to difficulty concentrating on tasks or staying focused on anything for long periods of time."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding changes in the poster's sleeping pattern. It solely focuses on their financial situation and feelings of hopelessness."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to tiredness or fatigue."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+('5', ['Incorrect', 'Review the post for explicit mentions of guilt or related emotions, and differentiate between stated feelings and those inferred. The post mentions suicidal feelings tied to a specific situation, but not guilt directly.'])
+('7', ['Incorrect', 'Examine the language of the post to identify clear expressions of self-dislike. Suicidal ideation may be linked to various feelings but does not equate to self-dislike without explicit mention.'])
+('11', ['Correct', 'Ensure you maintain this level of attentive analysis. Connect expressed emotions to possible behaviors and mental states.'])
+('12', ['Correct', 'Keep linking emotional expressions to the relevant psychological constructs, such as loss of interest, while avoiding assumptions not supported by the text.'])
+('13', ['Correct', 'Continue to connect emotional states from the post with potential cognitive and behavioral changes, as you did linking feelings of hopelessness to indecisiveness.'])
+('15', ['Correct', 'Keep considering the psychological implications of emotional states on physical symptoms, as you did relating feelings of being stuck and suicidal to a loss of energy.'])
+('16', ['Incorrect', "Consider the implication of severe stress and hopelessness on cognitive functions, as mentioned in the post, which could suggest changes in attention and possibly sleep. Your answer should include a possibility of such changes rather than stating that it isn't mentioned at all."])
+('19', ['Correct', "Your observation is accurate; the post doesn't directly mention difficulty with concentration. However, feelings of hopelessness can impact cognitive functions, so if inferring, relate it back to the emotional state described in the post."])
+('20', ['Incorrect', 'Review the post for emotional language that may indirectly suggest feelings of tiredness or lack of energy, which can be connected to the expressed feelings of hopelessness.'])
+('21', ['Incorrect', 'Consider broader implications of psychological distress mentioned in the post, such as feeling suicidal, on various aspects of life, including potential changes in libido or sexual interest.'])
+
+ITER 2
+Do MS Record:
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to guilt specifically. The poster expresses feelings of being stuck and suicidal due to their living situation, but guilt is not mentioned."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to self-dislike. The poster expresses feelings of being stuck and suicidal due to their living situation, but no explicit mention of self-dislike is made."])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###The post mentions feeling suicidal because of the idea of living with parents forever due to low wage. This indicates severe stress and hopelessness, which can affect cognitive functions, including sleep. Therefore, it is possible that the poster is experiencing some changes in their sleeping pattern.'])
+('20', ['indirectly_mention', "I am too tired or fatigued to do most of the things I used to do.###The post mentions feeling suicidal due to being unable to leave the parents' house and being stuck with a low wage job. This suggests a sense of hopelessness and lack of motivation, which can cause tiredness or fatigue that prevents the individual from engaging in activities they used to do."])
+('21', ['indirectly_mention', 'I have almost no interest in sex.###The post mentions feeling suicidal, which indicates high psychological distress. Psychological distress can often lead to a decrease in interest in sex.'])
+Do MS Check Record:
+('5', ['Incorrect', "Review the expressions of emotions in the post carefully. Feelings of hopelessness may imply guilt about one's situation. Explore the possible underlying emotions that could be associated with the expressed feelings, such as guilt for being a burden or not achieving independence."])
+('7', ['Incorrect', "Consider the broader emotional context when dealing with terms like 'self-dislike'. While not stated explicitly, feelings associated with being 'stuck' and not earning enough can contribute to negative self-evaluation, which can be indicative of self-dislike."])
+('16', ['Correct', 'Your analysis connecting sleep pattern changes to stress and hopelessness in the post was appropriate; continue to look for such indirect cues but make sure not to leap to conclusions without evidence.'])
+('20', ['Correct', "You've aptly related fatigue to the poster's sense of hopelessness. Keep grounding your inferences in the emotional content of the post, but remain cautious of assuming too much about the frequency or intensity of symptoms not explicitly mentioned."])
+('21', ['Incorrect', 'Review the information provided in the post before making assumptions. Focus on the given facts and avoid adding interpretations that are not directly supported by the text. Restrict your response to the scope of the question without inferring additional unrelated details.'])
+
+ITER 3
+Do MS Record:
+('5', ['directly_mention', "I feel guilty all of the time.###The post explicitly mentions feeling suicidal because the poster can't make much more than minimum wage and thus feels stuck living with their parents. This feeling of being stuck and unable to achieve independence may lead to guilt, as the poster may perceive themselves as a burden on their parents."])
+('7', ['indirectly_mention', "I am disappointed in myself.###The post mentions feeling suicidal because the poster can't afford to leave and is stuck living with their parents. This situation may lead to disappointment in oneself for not being able to financially support oneself and achieve independence. The mention of feeling suicidal also suggests a negative self-evaluation, which can be indicative of self-dislike."])
+('21', ['indirectly_mention', 'I am less interested in sex than I used to be.###The post mentions feeling suicidal due to being stuck living with parents and not being able to afford to leave. This suggests a high level of distress and dissatisfaction in the current living situation, which can often impact interest in sex. The mention of feeling suicidal implies a significant change in mood and overall interest in various aspects of life, including sex.'])
+Do MS Check Record:
+('5', ['Incorrect', 'Review the post to identify explicit indicators of guilt rather than inferring it from the feeling of being stuck or suicidal thoughts. Stick to the information provided without adding assumptions.'])
+('7', ['Correct', "Continue to pay attention to the implications of the poster's situation on their self-view, noting how financial and personal independence can impact self-perception."])
+('21', ['Correct', 'Ensure that future answers remain rooted in the content of the post, and avoid introducing assumptions not evidenced by the post.'])
+
+ITER 4
+Do MS Record:
+('5', ['directly_mention', "I feel quite guilty most of the time.###The post explicitly mentions feeling guilty in relation to the idea of being stuck living with the poster's parents and not being able to afford to leave. The phrase 'makes me feel suicidal' implies a high level of guilt that is experienced most of the time."])
+Do MS Check Record:
+('5', ['Incorrect', 'Review the original post for explicit statements regarding guilt, as the post does not directly address feelings of guilt.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the mental scale questions indicate symptoms of depression, including feelings of sadness, pessimism, past failure, loss of pleasure, punishment feelings, self-dislike, self-accusations, suicidal thoughts or wishes, crying, agitation, loss of interest, indecisiveness, worthlessness, changes in sleeping pattern, irritability, changes in appetite, tiredness or fatigue, and changes in interest in sex.
+
+Correct
+Continue to meticulously evaluate the information provided, ensuring that your conclusions about the poster's mental health are strictly based on the evidence at hand. Be cautious not to extrapolate beyond the given data, and maintain clarity between the individual in question and others potentially mentioned in scenarios to avoid misattributing mental health states.

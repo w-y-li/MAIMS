@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I come from and live in a country where things are too hard and over half the population is unemployed and suffering mentally. The only people surviving are doing something illegal like pulling the most scams, kidnapping or prostitution. I wish I can indulge in any of this, I have tried to do everything legally even with a degree i seem not to find a job. It is too hard for me to live on, I can‚Äôt afford basic meal or rent and this hardship has set even my family apart. I am thinking of taking my life as the problem persist. See you guys on the other side if ever succeed.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of burden and hopelessness, with the individual feeling like a burden to others due to their financial struggles and inability to find employment. They express thoughts of taking their own life as a solution to the ongoing problem, suggesting a risk of perceived burdensomeness.
+

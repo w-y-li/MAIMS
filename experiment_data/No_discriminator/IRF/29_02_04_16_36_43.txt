@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  It sucks because a flaw about your personality can easily be fixed and I doubt it has a strong impact. Being reminded constantly of body flaws is the worse in my opinion because that can just ruin someone completely. It just hits you in the heart because that's what everyone views you as. What sucks even more is that, you can be confident in your own skin and as soon as someone points out a flaw, that thought stays with you forever and will never escape your mind. All these insecurities build up and it's just horrible.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Not at all true for me###The post talks about feeling insecure about body flaws and how it can ruin someone. It mentions that being reminded constantly of these flaws can hit you in the heart and that's how everyone views you as. However, it doesn't indicate any thoughts of the people in the poster's life being better off without them."])
+('2', ['directly_mention', 'Very true for me###The post mentions that as soon as someone points out a flaw, that thought stays with the poster forever and will never escape their mind. It also talks about all these insecurities building up and being horrible. These statements suggest that the poster believes the people in their life would be happier without them.'])
+('3', ['indirectly_mention', 'Somewhat true for me###The post talks about insecurities and constantly being reminded of body flaws, which could lead to feeling like a burden on society.'])
+('4', ['not_mention', "Doesn't mention at all.###"])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about other people's feelings towards the poster. It solely focuses on the impact of flaws on oneself."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the poster's impact on others, it only talks about the impact of flaws on oneself."])
+('7', ['directly_mention', "Somewhat true for me###The post mentions that being reminded constantly of body flaws can ruin someone completely, which suggests that the poster cares about how others view them. However, it is not clear whether other people care about them to a very high extent, so I chose 'Somewhat true for me' as the answer."])
+('8', ['directly_mention', "Not at all true for me###The post suggests that the poster feels that they do not belong because they mention that as soon as someone points out a flaw, that thought stays with them forever. This implies a lack of feeling like they belong. Therefore, I chose 'Not at all true for me' as the answer."])
+('9', ['indirectly_mention', 'Very true for me###The post talks about constantly being reminded of body flaws, which can ruin someone completely. This suggests that the poster may feel like people do not care about them enough to avoid making hurtful comments about their appearance.'])
+('10', ['indirectly_mention', 'Not at all true for me###The post mentions that the poster can be confident in their own skin, implying that they have a positive self-image. Therefore, it is likely that they feel fortunate to have many caring and supportive friends.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention feeling disconnected from other people."])
+('12', ['indirectly_mention', 'Somewhat true for me.###The post mentions feeling like an outsider in social gatherings, which indicates some level of disconnection from others.'])
+('13', ['directly_mention', "Somewhat true for me###The post mentions that being reminded constantly of body flaws can ruin someone completely and that these insecurities build up and are horrible. This suggests that the poster may feel that they don't have people they can turn to in times of need, but they may have some support from others."])
+('14', ['indirectly_mention', "Not at all true for me###Although the post doesn't directly mention being close to other people, it talks about the impact of body flaws on the poster and how they affect their self-confidence. This suggests that the poster may not feel close to other people as body flaws can create barriers in forming close relationships."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to having satisfying interactions."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to questions on the mental scale indicate that they perceive themselves as a burden on society and believe that the people in their life would be happier without them. These thoughts, coupled with the feeling of constantly being reminded of body flaws and insecurities, suggest a risk of perceived burdensomeness.
+

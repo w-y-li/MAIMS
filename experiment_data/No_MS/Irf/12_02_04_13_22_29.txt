@@ -1,0 +1,21 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I am feeling sick. Anxious. I need some help please  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The usage of words like 'sick,' 'anxious,' and 'help' indicate feelings of distress and the need for support. Thwarted belongingness refers to a feeling of disconnection or rejection from others, and the plea for help suggests a lack of social support and potential isolation.
+
+Incorrect
+Avoid assuming feelings of distress equate to thwarted belongingness without clear indications of social disconnection or rejection. Assess each element of the post independently and with caution not to overgeneralize or infer beyond the information presented.
+
+ITER 1
+No
+The post does not provide clear indications of social disconnection or rejection. The feeling of sickness and anxiety does not necessarily indicate risk of thwarted belongingness.
+
+Correct
+Continue to avoid overinterpreting statements without clear evidence. Focus on what is explicitly stated and maintain the distinction between observed symptoms and inferring specific psychological constructs such as thwarted belongingness unless there is direct evidence to support it.

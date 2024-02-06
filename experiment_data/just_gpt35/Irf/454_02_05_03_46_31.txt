@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I've always been someone who has a small circle of very close friends and not much else and I'm fortunate that my current friends are wonderful people and very supportive of me, but I still feel very insecure in my relationships with them. Leaving high school has been very good for me, but I think to some extent I've sabotaged my own recovery and kept myself constantly sad out of fear that if I'm not in need of emotional support that my friends will leave me because I won't have anything to offer. Recognizing this has been good for me but I still am afraid that my friendships will naturally peter out because of my own deficiencies as a person. Does this make me a bad friend? I feel like I've been manipulative and an unnecessary burden and I don't know if that's a product of my own self-dislike or a reasonable reaction to my behavior.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual has a fear of losing their friends if they no longer need emotional support, which indicates a risk of thwarted belongingness.
+

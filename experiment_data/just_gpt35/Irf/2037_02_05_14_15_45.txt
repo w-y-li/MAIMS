@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I get to go to school, to have an education, I never got bullied, I was born with countless blessing, so my question is why do i feel so hopelessly empty, I‚Äôve been crying myself to sleep for the past year or so and I feel things getting worse but I honestly don‚Äôt know what to do, I‚Äôve even been thinking of suicide on the daily, but inevitably I know I won‚Äôt kill myself because I don‚Äôt want to burden the people around me, I feel as though I‚Äôm not living for myself anymore. I‚Äôve tried reaching to a close friend of mine, and it just turned into a vent session, and we started drifting apart after that, and I feel like it was my fault, the saddest part is that I feel like I‚Äôm doomed to living a life where I‚Äôm pretending like I have everything together when I‚Äôm reality, I tripped and fell into a pit of depression, please tell me, is there hope?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of hopelessness, emptiness, and daily thoughts of suicide, but states that they won't act on it because they don't want to burden the people around them. This indicates a risk of perceived burdensomeness, where the individual believes that their existence is a burden to others.
+

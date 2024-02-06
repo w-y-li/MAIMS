@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  It's become a personality trait Depression has become part of my identity. As much as I'd like to say it doesn't define me, it really does, it controls my life enough to debilitate my every day experiences. I know we have one life and that there's nothing after that but that fact isn't motivating. In many moments like this I'm convinced that this is all life is and can be and the repetitive, short range, unchanging emotions is my proof. Feels completely pointless and childish to even vent, me writing this feels ridiculous.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster explicitly states that depression has become part of their identity, controls their life, and debilitates their everyday experiences. They express feeling that life is pointless and their emotions are repetitive and unchanging, which are common symptoms of depression.
+

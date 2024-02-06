@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  All day I feel overwhelmingly hopeless. The idea of doing this for even 20 more years is terrifying. Im going to be alone forever. Im going to keep making people's lives worse. Im going to keep failing at everything I do. Im ready to go. Im ready to jump off a building.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of hopelessness, feeling alone, making people's lives worse, and failing at everything. The mention of being ready to jump off a building suggests a high level of distress and a perception of being a burden to others.
+

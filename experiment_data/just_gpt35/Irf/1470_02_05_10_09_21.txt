@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  When people say happiness is a choice it makes it seem to me that they‚Äôre saying happiness is being dangled above me and if I jump high enough, if I strengthen my legs enough I‚Äôll be able to jump high enough to reach it. When in actuality, because I suffer from depression, how It feels to me: I‚Äôm trapped in shackles, and I can see happiness behind a glass wall. It‚Äôs illuminating and glowing, and I can see others basking it it‚Äôs glow, prompting me to come join them. Then they start trying to yell encouragement at me like ‚Äúyou can do it!‚Äù ‚ÄúCome get your happiness,‚Äù ‚Äúyou‚Äôre not trying hard enough!‚Äù ‚ÄúTry harder,‚Äù but it doesn‚Äôt matter how much I struggle against my shackles I can‚Äôt reach it, I can‚Äôt get to it. I could struggle until my limbs bleed, and I still wouldn‚Äôt be able to reach it. Because with how my mind is, it‚Äôs an unobtainable dream. Then when others try to suggest it‚Äôs from lack of trying, well it feels like they‚Äôre rubbing salt in the cuts that the shackles have dug into my limbs.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and feeling trapped, which are common experiences associated with thwarted belongingness. The poster expresses a desire to join others in experiencing happiness but feels unable to do so due to their depression and perceived barriers.
+

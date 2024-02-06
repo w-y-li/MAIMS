@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I feel that I‚Äôve ran out of options today after my appointment with my shrink. I know there‚Äôs always the option of seeing another shrink but I‚Äôm not sure at all that I can summon the courage to do so. It took years and years of suffering to finally push me over the edge to see a shrink. To be fair, my shrink didn‚Äôt say or do anything out of line. She was courteous and patient, as usual. However as I sat there, I just felt very pointless. I‚Äôve felt like this all my life, what‚Äôs there to change it? What‚Äôs there to look to look forward to? I wish I could die.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of being pointless, a lack of hope, and a wish to die, which suggests a risk of thwarted belongingness, that is, feeling disconnected from others and lacking social support.
+

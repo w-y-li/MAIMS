@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Like woohoo life if awesome today cause I'm healthy, my team beat the blackhawks, I have a job, and the weather is nice. But I just miss her SO. much. It's like she set the bar so high that all I can do is just stare at it. I wish there were better words for how much you can miss somebody.  Infinitely  seems so plain. I love her so much.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of longing and missing someone, suggesting a possible lack of belongingness without that person in the poster's life.
+

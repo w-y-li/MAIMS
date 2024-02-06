@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I'm winning this battle today I ordered groceries, pretty much all produce. I WILL NOT let them go bad. I'm doing laundry today. I'm showering today and brushing my hair. I just might even mow my back yard (not likely, but it's fun to dream) I'm not letting my depression best me today.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions battling depression and their determination to not let it win today. This indicates that they are likely experiencing symptoms of depression.
+

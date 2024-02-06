@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I've fucked up a lot. I've ruined every part of my life possible. I've dug this hole, and hit rock bottom, and there is literally no way to fix it. I know people will say it's all fixable, but trust me, it's not. There's too many things wrong. So it's like I -need- to do it because my life will not get better, and even if I want to hang on, there's no point.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of isolation and a belief that the individual's life cannot be improved, indicating a risk of thwarted belongingness.
+

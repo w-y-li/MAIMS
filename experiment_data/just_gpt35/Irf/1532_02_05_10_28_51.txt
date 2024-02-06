@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I have great friends and I've been talking to this cute girl who seems to like me, but... ugh. I still feel so lonely. And it just feels inescapable because I have all these people that I should like around me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the individual has great friends, is talking to a cute girl, but still feels lonely. This suggests a sense of thwarted belongingness, as the person does not feel a sense of true connection and belonging despite having people around them.
+

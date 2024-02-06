@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  ....and now that escape from reality makes me feel a little closer to normal i spent the first 32 years of my life never experiencing depression but now i wonder if i did and i just wasnt bad enough that videogames wouldn't alleviate it completely. I don't understand myself anymore.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a potential risk of perceived burdensomeness as the individual expresses feelings of not understanding themselves anymore and questioning if they had depression. They also suggest that video games have been a means of escape and alleviating their possible depression.
+

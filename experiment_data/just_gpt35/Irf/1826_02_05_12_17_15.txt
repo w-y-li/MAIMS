@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm using an alt because earlier this month someone went through my post history and harassed me for posting here. Literally every interaction I've had on this website lately has been shit. It seems like every person on this website is an aggressive, closed-minded asshole. I'm not like super depressed about it specifically, but it makes dealing with depression even harder with dicks on this website constantly wearing down my mood.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and exclusion due to the negative interactions experienced by the poster on the website. This can contribute to the experience of thwarted belongingness, where the individual feels disconnected and unable to connect with others.
+

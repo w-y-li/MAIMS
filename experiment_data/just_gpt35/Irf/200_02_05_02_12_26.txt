@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  For the past week (Maybe more ? Can't remember) I've maybe taken my antidepressants twice instead of every morning, because I'm dumb and keep forgetting or thinking it's fine, and now my head is killing me, I feel like I'm going to throw up 24/7, I've been having nightmares and I basically feel like shit. Don't be me kids.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show any indication of thwarted belongingness. The poster's symptoms and experiences are more consistent with a lack of adherence to their antidepressant medication, resulting in physical discomfort and negative emotions.
+

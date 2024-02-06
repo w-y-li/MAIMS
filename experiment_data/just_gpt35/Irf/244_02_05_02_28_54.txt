@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I have been depressed for several years. Currently taking Lexapro, though it seems to not help. I have no will to succeed in life. I've never had a job for more than a year. I failed all 12 credit hours in community college last semester and I don't want to go back. I hate my parents and I'm not close to anyone in my family. At this point, I just want to spend the rest of my life in my room, unemployed. I'll receive an inheritance if I'm lucky. My mom gets up early everyday to go to her job where she's been for 20 years. I know I have some major depression issues, but there are lazy bums in this world, who are unemployed and live at home until they're 40, or forever, and I think maybe I'm just one of those bums, regardless of depression.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions that they are not close to anyone in their family and express hatred towards their parents. These feelings of detachment and lack of support from loved ones can indicate a sense of thwarted belongingness.
+

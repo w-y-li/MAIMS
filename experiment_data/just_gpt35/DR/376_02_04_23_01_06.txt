@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  The only time I can enjoy my life is when I'm watching anime/listening to music Every time I put on those headphones that allow me to leave this miserable reality, I feel alive. Any other time I feel like I'm just lifelessly struggling to deal with my responsibilities. That's why I listen to music all the time. That's why I only get excited when watching anime. I need fiction to get me through a day or else I go completely numb. So uhh is this a problem? Or is it normal?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's reliance on anime and music as a means of escape from reality, as well as describing feelings of numbness and struggling with responsibilities, suggests a possible symptom of depression.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Had an extremely depressive episode when I was 15 it lasted for 3 years and it was allleviated after that but not I am not only having depression but just sessions of excitement followed by depression again. My brain is fucked I have no chance my family is fucked my life is fucked I have had poor health since childhood and still do. Sometimes I just feel I am losing my mind, too poor for medical help or anykind of help talking with others doesnt work. The threshold of my ambitions was just getting lower and lower through out the year first I wanted to be a doctor (no way) now I am even contemplating if I should go to college as opposed to just root and die. I really can't see any pro in this life I am tired of crying and wheeping and whining over and over i am tired of my family my health everything about me i wish i wasnt born. I dont want to talk i am tired and exhausted all the time again i wish i died when i was a child my life is gone i spent my teenage years depression and was so close to do it multipile times and now i am now in my 20s what is left nothing absolutely nothing i want to sleep for ever  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses a sense of isolation, feeling disconnected from others, and a lack of support. The individual mentions feeling tired of their family and being tired and exhausted all the time, which may indicate a sense of thwarted belongingness.
+

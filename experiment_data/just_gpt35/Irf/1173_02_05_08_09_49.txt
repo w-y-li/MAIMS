@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  That‚Äôs what wrong. I know I‚Äôm in pretty deep depression, my life has changed so flipping much in the last 6 months. My happy-enough marriage has changed drastically, bringing us closer together but presenting other extremely difficult challenges. Announcing that my spouse is transgender, and so is my kid, is trying. I can only imagine what my wife is feeling about everything. I‚Äôve lost nearly my entire family because of these changes, my wife‚Äôs sister has disowned us, her parents are sort of supportive yet very transphobic. I hate that I have had to choose my wife over the family I grew up with, but I‚Äôd make that choice a million times over, no regrets. My mother has been nothing but cruel and evil. Everyone else is too close to her to reach out or keep in my circle. I don‚Äôt know what the point of my post is. I‚Äôm just so down and don‚Äôt want to vent to my wife right now.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the individual is experiencing significant challenges and feels burdened by the changes in their life and the reactions of their family. Their feelings of being down and not wanting to vent to their wife suggest a sense of overwhelm and potentially a risk of perceiving themselves as burdensome.
+

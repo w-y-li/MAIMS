@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  The thought of existing like this for the next 60-70 years is absolutely crushing  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of despair and overwhelming burden of existing for a long period of time, which suggests a potential risk of thwarted belongingness. This feeling of isolation and disconnection can contribute to mental health problems and can be a risk factor for suicidal ideation.
+

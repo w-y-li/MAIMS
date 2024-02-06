@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I have depression and have struggled with suicide. I‚Äôm currently in college and being in it has made me realize how much life sucks. I know things are worst in other places but the following thing bother me: 1.)All we do is go to school to get a career we don‚Äôt like and work to pay bills. 2.)I have no interested and I don‚Äôt have fun doing anything. 3.) College just makes me very depressed I feel like I can‚Äôt succeed in anything and that I‚Äôm wasting money. 4.) The factor that people hate each other for no reason. (Politics, Race, Sexuality etc.) Someone please help me I also take depression meds and talk to my doctor about how they don‚Äôt work and none of the counseling or therapy I‚Äôve had helps  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of hopelessness, worthlessness, and a lack of purpose. The individual expresses a sense of being burdened by life and feeling like a failure in various areas of their life, including university and relationships.
+

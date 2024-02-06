@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  This keeps happening, i dont know if its my ptsd or anxiety or a panic attack but i start to think about everything and i begin to panic and i am hyperventilating and feel like im trapped and i dont know where to go or what to do, i want to find support for everything and i just dont know where to go i have no one and nothing in my life i feel so alone and so desperate im terrified Help Please  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of isolation, desperation, and a lack of support, indicating a risk of thwarted belongingness.
+

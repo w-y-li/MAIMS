@@ -1,0 +1,132 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôve sat in a dark room for 5 hours staring at a wall, doing nothing. Yet I still felt as bored as if I were to just watch Netflix or play games. I feel bored and scared. Scared that I lost my mind and will never be normal again.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me.###The post mentions feeling scared that they lost their mind and will never be normal again. This indicates that the person might be experiencing distress or concerns about their mental state, but it does not directly suggest that they believe others would be better off without them.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any indication or mention of the person's perception of whether others would be happier without them in their life."])
+('3', ['directly_mention', 'Somewhat true for me###In the post, I mentioned that I feel scared that I lost my mind and will never be normal again. This implies that I may consider myself a burden on society, which aligns with feeling somewhat true for me.'])
+('4', ['directly_mention', 'Somewhat true for me###In the post, I mentioned that I feel scared that I lost my mind and will never be normal again. This implies that I may believe my death would be a relief to the people in my life, which aligns with feeling somewhat true for me.'])
+('5', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling bored and scared, which suggests that the poster may feel disconnected from others and may think that people in their life might want to be rid of them.'])
+('6', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling scared and thinking that they have lost their mind, which suggests that the poster may feel like they make things worse for the people in their life.'])
+('7', ['indirectly_mention', "Somewhat true for me###The post mentions feeling bored and scared. Feeling bored can be a sign of feeling disconnected from others, and feeling scared can indicate a lack of support or care from others. Although the post doesn't directly mention other people caring about the poster, the mention of feeling bored and scared suggests that they may not feel cared for by others to some extent."])
+('8', ['indirectly_mention', "Not at all true for me###The post mentions feeling bored and scared, as well as the fear of losing their mind and not being normal again. These feelings can contribute to a sense of not belonging or not feeling connected with others. Although the post doesn't explicitly state feeling like they don't belong, the overall content suggests a lack of belongingness."])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling bored and scared, which could indicate a lack of social interaction and support from others. Spending 5 hours in a dark room doing nothing suggests a possible isolation from caring individuals.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to having many caring and supportive friends. It primarily focuses on feelings of boredom and fear."])
+('11', ['indirectly_mention', 'Very true for me###The post mentions feeling disconnected and bored in social situations, which suggests the possibility of feeling like an outsider in social gatherings.'])
+('12', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling bored and scared, which could imply a sense of disconnection from others.'])
+('13', ['indirectly_mention', 'Not at all true for me###The post mentions feeling bored and scared, which can be indicative of a lack of support or people to turn to in times of need.'])
+('14', ['indirectly_mention', 'Not at all true for me###The post mentions feeling bored and scared, which can imply a lack of closeness with other people.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention or contain any information that could help in answering this question."])
+Do MS Check Record:
+('1', ['Incorrect', 'Look for implicit, rather than explicit, information related to feelings of self-worth and the impact on others. Consider the emotional tone and context to infer possible beliefs about self-efficacy and relationships.'])
+('2', ['Correct', 'Continue to carefully assess the post for information that is directly related to the questions. Avoid making assumptions without evidence from the post.'])
+('3', ['Incorrect', 'Do not imply information that is not explicitly mentioned in the post. Focus on what is directly conveyed, and avoid assuming feelings without clear evidence.'])
+('4', ['Incorrect', 'Avoid drawing extreme inferences that are unfounded. Explore alternate explanations for the emotions expressed without presuming thoughts of death or being a burden.'])
+('5', ['Incorrect', "Avoid making assumptions about the poster's relationships with others based solely on feelings of boredom and fear. Instead, consider whether the post directly suggests interpersonal conflicts or concerns."])
+('6', ['Incorrect', 'Do not infer that the poster believes they make things worse for others without evidence. Focus on the emotions and thoughts explicitly mentioned in the post and avoid overgeneralizing.'])
+('7', ['Incorrect', 'Avoid assuming that emotional states directly reflect relational dynamics unless clearly indicated. Look for explicit statements about relationships with others in the post before inferring the level of care or concern others have for the poster.'])
+('8', ['Incorrect', 'Be cautious about equating the feeling of boredom and fear with a sense of belongingness. Only infer a lack of belonging if the post provides clear context for social disconnectedness beyond individual emotions.'])
+('9', ['Correct', 'Continue to analyze the implied information within posts carefully. Remember to differentiate between explicitly stated details and those that are inferred based on the content.'])
+('10', ['Incorrect', 'Reflect on any potential biases that may lead to assuming a lack of friends. Consider the possibility of supportive relationships by not overlooking subtle cues that suggest their existence or absence.'])
+('11', ['Incorrect', 'Avoid making assumptions without direct evidence from the post. Stick to the information provided and analyze carefully before inferring disconnection. Look for explicit mentions or clear implications about social relationships.'])
+('12', ['Incorrect', 'Be cautious of overgeneralizing feelings of boredom and fear to social settings. Distinguish between general feelings and those specifically related to social interactions, and avoid inferring social disconnection where it is not mentioned.'])
+('13', ['Incorrect', "Re-examine the content of the post without assuming a complete lack of support. The post does not explicitly state the absence of people to turn to, so avoid definitive statements. Consider subtler indications of the poster's social network and address the potential for some support, even if it's not currently being accessed or felt."])
+('14', ['Incorrect', "Avoid conflating the poster's feelings of boredom and fear with a lack of closeness to others. The post does not provide clear evidence of the poster's relationships with others. Instead of assuming isolation, detail any uncertainty and explore other possibilities that might explain the poster's current state."])
+('15', ['Incorrect', 'Consider the emotional tone of the post - feeling bored and scared might imply a lack of satisfying interactions. Infer within reasonable bounds.'])
+
+ITER 1
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me###The post mentions feeling bored and scared, but there is no direct mention of whether the person believes others would be better off if they were gone. However, feeling bored and scared does not necessarily imply a belief that others would be better off without them.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything about being a burden on society. There is no information provided that can help make a deduction about this question."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything about people in the poster's life or the perception of their death. It primarily focuses on the poster feeling bored and scared."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the people in the poster's life wishing to be rid of them. It primarily focuses on the feelings of boredom and fear."])
+('6', ['directly_mention', 'Not at all true for me###The post does not mention anything about making things worse for the people in their life.'])
+('7', ['directly_mention', 'Not at all true for me###The post does not mention anything about other people caring about them.'])
+('8', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling bored and scared, which can be indicators of a lack of belongingness. The poster may feel disconnected and not fully integrated into their environment, suggesting that they may not feel like they fully belong.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding the number or quality of the poster's friends. Therefore, it is not possible to determine if the poster has many caring and supportive friends."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling disconnected from other people, which implies some level of disconnection. However, it does not provide explicit evidence or clear implications about social relationships, so I can only infer that the feeling is somewhat true for me.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention feeling like an outsider in social gatherings. It solely focuses on feeling bored and scared, without any specific reference to social interactions."])
+('13', ['indirectly_mention', "Somewhat true for me###The post mentions feeling bored and scared, indicating a need for support. Although it doesn't explicitly state having people to turn to, the expression of fear suggests a desire for comfort and reassurance from others, making it somewhat true for me."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide clear evidence regarding the closeness to other people. Instead of assuming isolation, the post mainly focuses on feelings of boredom and fear, without mentioning any relationships or connections with others."])
+('15', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling bored and scared, which may imply a lack of satisfying interactions. Sitting in a dark room for 5 hours doing nothing suggests a lack of social interaction, making it somewhat true for me.'])
+Do MS Check Record:
+('1', ['Incorrect', 'Avoid assuming a lack of information equates to a definitive answer. Explore the emotional state in the post to infer if feelings of worthlessness or being a burden might exist.'])
+('3', ['Correct', 'Stay factual to the content provided in the post. If the post does not contain any direct or indirect information about being a burden on society, it is appropriate to refrain from making assumptions.'])
+('4', ['Incorrect', "Investigate the underlying emotions in the post, such as feeling 'scared' and 'bored,' which could suggest a negative self-perception that may extend to thoughts about others' perceptions. Answers should reflect the poster's possible mindset, not just literal mentions."])
+('5', ['Incorrect', "Explore the emotional tone of the post—boredom and fear may imply a negative self-view which can relate to how one thinks others perceive them. Consider psychological theories on projection and integrate these when inferring the poster's unstated feelings towards social relationships."])
+('6', ['Incorrect', "Be cautious not to dismiss potential implications. The post's expression of feeling bored and scared could imply a sense of guilt or concern about their impact on others. Explore nuances in the emotional content to address Question 6."])
+('7', ['Incorrect', "Avoid assuming a lack of other's care without evidence. The post conveys a sense of isolation, which could suggest uncertainty about being cared for. Consider the emotional context when inferring about social support for Question 7."])
+('8', ['Incorrect', 'Avoid inferring feelings of belonging based solely on expressions of boredom and fear. Explore different aspects of the post that could suggest a sense of belonging or isolation without assuming or overinterpreting.'])
+('10', ['Correct', "Continue to avoid making assumptions about the poster's social connections when the provided information does not address this topic. This response shows restraint from overinterpretation."])
+('11', ['Incorrect', 'Review the post and identify any indirect references to feelings of disconnection. Do not equate being alone with being disconnected without textual evidence supporting this.'])
+('12', ['Correct', "Continue to analyze posts for direct and indirect references to the specific context of the questions. Don't infer information that is not suggested."])
+('13', ['Incorrect', 'Reevaluate the post for any implicit cues about social support, without making assumptions that are not supported by the text. Consider the emotional content for possible implications regarding social relationships.'])
+('14', ['Correct', "Continue to avoid making unfounded inferences about the poster's social connections when the information is not provided in the post."])
+('15', ['Incorrect', 'Avoid assuming emotions or states that are not directly implied by the post. Instead of inferring, focus on the presence or absence of explicit mentions of social interactions. If the poster does not specify their social interactions, you cannot assert the level of satisfaction derived from them. Consider the content critically without adding interpretations that deviate from the expressed sentiments.'])
+
+ITER 2
+Do MS Record:
+('1', ['indirectly_mention', "Somewhat true for me###The post mentions feeling scared that they have lost their mind and will never be normal again. This suggests a negative self-perception and feelings of being a burden on others. While the post doesn't explicitly state that the people in their life would be better off without them, the underlying emotions and thoughts imply a sense of worthlessness."])
+('4', ['indirectly_mention', "Not at all true for me###The post mentions feeling bored and scared, but it doesn't suggest that the poster views their death as a relief to others. The underlying emotions and thoughts expressed in the post relate more to the poster's own feelings of being overwhelmed and losing their sanity, rather than contemplating their impact on others."])
+('5', ['indirectly_mention', 'Somewhat true for me###In the post, the individual expresses feelings of boredom and fear, and expresses a concern about losing their mind and not being normal. These feelings and concerns can suggest a negative self-view and a fear of being a burden to others. Thus, it indirectly implies that the poster thinks the people in their life wish they could be rid of them to some extent.'])
+('6', ['indirectly_mention', 'Somewhat true for me###The post mentions that the individual is scared that they have lost their mind and will never be normal again. This expression of fear may be related to feeling guilty about their impact on others. Therefore, it indirectly implies that the poster thinks they make things worse for the people in their life to some extent.'])
+('7', ['indirectly_mention', "Somewhat true for me###The post mentions feeling bored and scared, which suggests a sense of isolation and uncertainty. Although it doesn't explicitly mention other people caring about the poster, the expression of fear implies that the poster may have some level of concern about their well-being, indicating that other people's care might be somewhat true for them."])
+('8', ['not_mention', "Doesn't mention at all.###The post primarily focuses on feelings of boredom and fear, but there is no mention or indication of belonging or not belonging to a group or community. Without any relevant information, it is not possible to determine whether the poster feels like they belong or not."])
+('11', ['indirectly_mention', "Somewhat true for me.###The post mentions feeling bored and scared, which could be indicators of feeling disconnected from other people. The boredom suggests a lack of engagement or interest in social interaction, while the fear of losing one's mind and not being normal again may cause a sense of isolation."])
+('13', ['indirectly_mention', 'Not at all true for me.###Although the post does not explicitly mention having people to turn to in times of need, the feelings of boredom and fear expressed may indicate a lack of perceived support from others. In times of need, one might expect to seek help or comfort from others, which does not seem to be the case for the poster in this situation.'])
+('15', ['indirectly_mention', 'Not at all true for me.###The post mentions feeling bored and scared, which can indicate a lack of satisfying interactions.'])
+Do MS Check Record:
+('1', ['Incorrect', "Avoid assuming feelings of worthlessness imply a desire to be absent from others' lives. Focus strictly on information provided without adding assumptions."])
+('4', ['Correct', "Good job on not inferring death as a relief to others beyond what's written. Continue to avoid over-inference and stay within the context of the post."])
+('5', ['Incorrect', 'While the post expresses negative feelings, there is no clear indication that the poster believes others wish to be rid of them. Focus on the specific information provided without inferring too much. Aim to avoid projecting additional negative characteristics onto the poster that are not clearly expressed.'])
+('6', ['Incorrect', 'Your deduction that the poster feels they worsen the lives of others is an over-inference. There is no explicit or implicit indication of guilt about impacts on others in the post. Carefully analyze the content for actual suggestions of this nature before drawing such conclusions.'])
+('7', ['Incorrect', 'Consider the context and indirect cues from the post that might suggest the level of care from others, rather than assuming. Avoid filling gaps with assumptions when information is not explicitly stated.'])
+('8', ['Correct', 'Continue to base your responses directly on information from the post, refraining from making inferences when the content is not related to the question.'])
+('11', ['Incorrect', 'When analyzing the post, focus on the explicit information provided. The feeling of boredom doesn’t necessarily indicate a disconnection from others. Encourage the poster to elaborate on their feelings towards social connections to avoid assumptions.'])
+('13', ['Incorrect', 'Avoid inferring a lack of support without evidence from the post. Consider alternative explanations for the expressed feelings, such as personal rather than social issues, and encourage the poster to provide more context regarding their social support system.'])
+('15', ['Incorrect', 'Avoid over-interpreting based on minimal information. Rather than assuming a complete lack of social interaction, consider other possibilities and contextual information that could influence the interpretation of the post.'])
+
+ITER 3
+Do MS Record:
+('1', ['indirectly_mention', "Not at all true for me.###The post mentions feeling bored and scared but does not directly mention thoughts of self-worth or how others feel about the poster's presence in their lives."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to the perception of others about the poster's presence in their lives."])
+('6', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling scared and worried about losing their mind and not being normal again, which suggests a concern about the impact on others. However, since there is no explicit indication of making things worse for others, a more moderate response seems appropriate.'])
+('7', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about how other people care about me."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention feeling disconnected from other people."])
+('13', ['indirectly_mention', 'Somewhat true for me.###The post mentions feeling scared and worried about losing my mind and not being normal. This could indicate a need for support and connection with others in times of need.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything about satisfying interactions with others, so I have no information to provide an answer to this question."])
+Do MS Check Record:
+('1', ['Incorrect', 'Review the post for emotional states that may imply feelings of self-worth or how the poster thinks they are perceived by others.'])
+('5', ['Correct', 'However, be careful not to infer feelings or attitudes that are not evident in the post.'])
+('6', ['Correct', "Good analysis. You have identified the indirect mention of potential impact on others due to the poster's emotional state, and you provided a moderated answer. Keep focusing on finding the balance between what is explicitly stated and what can be reasonably inferred."])
+('7', ['Incorrect', "While the post does not mention how others care for the poster, avoid assuming a complete lack of information. Instead of putting 'Doesn't mention at all,' consider the emotional state of the poster which may suggest they are in a mindset where they might not feel cared for. A slightly more nuanced response acknowledging the poster's emotional state could be more appropriate."])
+('11', ['Incorrect', "Consider the emotional state described in the post; feeling 'bored and scared' suggests some level of disconnection. Analyze the feelings expressed to identify possible indicators of social disconnection, even when not explicitly mentioned."])
+('13', ['Correct', 'Continue to make inferences based on the emotional content of the post. The expression of fear and concern about sanity may indirectly suggest a need for social support, reflecting an awareness of social resources even if not directly stated.'])
+('15', ['Incorrect', "Consider the emotional tone conveyed in the post, such as feelings of boredom and fear, as potential indicators of the individual's state and whether they might find any social interaction satisfying. Use this information to infer a likely answer, rather than stating there is no information at all."])
+
+ITER 4
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to the question about self-worth or how others perceive the poster."])
+('7', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling scared that they lost their mind and will never be normal again. This suggests a negative perception of oneself that could imply feelings of being a burden to others.'])
+('11', ['indirectly_mention', "Somewhat true for me###The post mentions feeling bored and scared, which suggests some level of disconnection from others. Although the post doesn't explicitly state feeling disconnected from people, the described emotions imply a lack of engagement with others, indicating that the feeling of disconnection is somewhat true for me."])
+('15', ['indirectly_mention', 'Not at all true for me###The post states sitting in a dark room for hours and feeling bored. This suggests a lack of satisfying interaction, indicating that having at least one satisfying interaction every day is not at all true for me.'])
+Do MS Check Record:
+('1', ['Incorrect', "Ensure to distinguish between not mentioning a topic and an indirect implication. Consider if any emotional states like feeling 'bored and scared' could be extrapolated to answer the question without assuming facts not presented."])
+('7', ['Incorrect', "Avoid over-inferring negative self-perception as evidence of others' care. Focus on specifics in the post that may suggest how others actually perceive or care for the poster, if at all mentioned."])
+('11', ['Correct', 'Good job on interpreting the emotional state from the post. Continue to focus on the language used and the emotions expressed to infer psychological states. Be careful not to extrapolate beyond what is suggested.'])
+('15', ['Correct', "You've correctly deduced the lack of satisfying interactions from the behavior described in the post. Keep using the information given to make informed inferences. Ensure you're not making assumptions without textual evidence."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the mental scale questions indicate feelings of being a burden on society, making things worse for the people in their life, feeling disconnected from others, and rarely interacting with people who care about them. These responses suggest a sense of thwarted belongingness, which is often associated with feelings of loneliness and isolation.
+
+Correct
+Ensure you continue to base your conclusions on evidence rather than assumption. Consider each response carefully in relation to the mental health question, and avoid overgeneralizing based on a single answer. While in this case your deduction appears to be correct, always remain cautious of inferring too much from minimal data and remember to distinguish between the subject's own feelings and the actual thoughts or feelings of others.

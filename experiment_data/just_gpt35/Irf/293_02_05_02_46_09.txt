@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Depressed again because I realized I've been a horrible friend to whom I've been emotionally attached. My mind summoned every negative aspect of my personality and rubbed it in my face. Suddenly I have no desire to do anything. Shut myself from social media, don't want to game, to study (and I'm a top student so this sucks double), to do chores, or do anything. I know what I should be doing: start progressing and stop brooding, but I can't find it in me to snap out of this. I have no energy for anything. Suicidal thoughts come and go although I have no energy to deliberately kill myself, but I'm praying for my accidental death. I'm on school vacation and by the time I return to my classes, everyone would notice this change in my behavior and performance. How can I return to my normal life? P.S. Seeing a therapist is not an option. I don't have a job and my family can offer no help.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a horrible friend and experiencing extreme self-criticism, leading to a loss of motivation and desire to engage in usual activities. The mention of suicidal thoughts and praying for accidental death suggests a desire to escape perceived burdensomeness.
+

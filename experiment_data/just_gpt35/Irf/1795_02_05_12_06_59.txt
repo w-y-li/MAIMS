@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  It hurts so much. The distance between myself and the people I know keeps growing, and it's all my fault. I've turned myself into a guy that noone wants to deal with, and its breaking my heart. I feel so directionless, weak, and afraid. I'm 28, single, live alone, and have lost so much hope. Mad respect to those who have been able to fight off this awful, awful disease  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden and feeling responsible for the distance in relationships, which suggests risk of perceived burdensomeness.
+

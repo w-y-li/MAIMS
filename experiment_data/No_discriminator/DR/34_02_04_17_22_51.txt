@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Afraid to post my own comments/opinions on social media. I'm just realizing that all of the social medias I have or use (IG/ Twitter, Tumblr, Reddit and so on) I only repost/like other users posts and rarely post my own.. Idk seems like I'm afraid of what others think of me and that I'm insecure about something  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###The post mentions that the poster is afraid of what others think of them and expresses insecurity, which indicates a negative emotional state, possibly sadness.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding the poster's level of discouragement about their future or their outlook on it."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything about past failures or feeling like a failure."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything about loss of pleasure or reduced enjoyment in activities."])
+('5', ['indirectly_mention', "I feel quite guilty most of the time.###The post mentions that I am afraid of what others think of me and that I am insecure about something. This fear and insecurity might lead to feelings of guilt, as I may believe that I am not meeting others' expectations or that I am doing something wrong."])
+('6', ['indirectly_mention', 'I feel I am being punished.###The post suggests that I am afraid of what others think of me, which can create a sense of punishment. I may feel that by expressing my own comments or opinions, I will be judged or negatively evaluated by others, leading to a feeling of being punished for being myself.'])
+('7', ['directly_mention', "I dislike myself.###The post mentions that I am afraid of what others think of me and that I'm insecure about something, which indicates that I have a negative view of myself."])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The post mentions that I rarely post my own comments or opinions on social media, which implies that I may be criticizing or blaming myself for not expressing my thoughts.'])
+('9', ['indirectly_mention', 'I do not cry any more than usual.###The post mentions that the individual is afraid of what others think of them and is insecure about something. This suggests that the person may be experiencing emotional distress, which could lead to increased crying. However, since the post does not specifically mention crying, I can only infer that the crying is not unusual for the individual.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information or hints about the individual's thoughts of killing themselves. Therefore, I cannot determine their answer to this question."])
+('11', ['directly_mention', "I am so restless or agitated that it is hard to stay still.###The poster states, 'Idk seems like I'm afraid of what others think of me and that I'm insecure about something'. This suggests that the person is restless or agitated, as they mention being afraid of others' opinions and feeling insecure."])
+('12', ['indirectly_mention', 'I have lost most of my interest in other people or things.###Although the post does not directly mention a loss of interest, it suggests that the person is hesitant to post their own comments or opinions on social media. This hesitation could be a result of losing interest in engaging with others or feeling less interested in sharing their own thoughts, which indicates a potential loss of interest.'])
+('13', ['directly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that I am afraid of what others think of me and that I am insecure about something. This fear and insecurity can contribute to indecisiveness and finding it more difficult to make decisions.'])
+('14', ['directly_mention', 'I do not consider myself as worthwhile and useful as I used to.###The post mentions feeling afraid of what others think of me and being insecure about something. These feelings can indicate a decrease in self-worth and a sense of not considering oneself as worthwhile and useful as before.'])
+('15', ['directly_mention', "I don't have enough energy to do very much.###The post mentions that the person is afraid of what others think of them and is insecure about something. These feelings of fear and insecurity can often lead to a lack of energy and motivation to engage in activities."])
+('16', ['directly_mention', 'I wake up 1-2 hours early and can not get back to sleep.###The post mentions that the person is afraid of what others think of them and is insecure about something. These feelings of anxiety and insecurity can often disrupt sleep patterns, leading to difficulty falling asleep or waking up too early.'])
+('17', ['directly_mention', 'I am more irritable than usual.###The post mentions that the person is afraid of what others think of them, which can indicate feelings of insecurity and anxiety. These feelings can often lead to increased irritability.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post suggests that the person is insecure and afraid of what others think of them. This can lead to increased stress and anxiety, which can often result in a decrease in appetite or changes in eating habits.'])
+('19', ['indirectly_mention', 'I find it hard to concentrate on anything.###The post mentions being afraid of what others think and feeling insecure. These feelings could potentially lead to difficulty in concentration.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post mentions feeling insecure and afraid of what others think. These negative emotions can contribute to fatigue and tiredness, which may result in a decrease in activities. '])
+('21', ['indirectly_mention', "I am less interested in sex than I used to be.###I mentioned that I repost and like other users' posts instead of posting my own. This suggests that I have a decreased interest in engaging and expressing myself, which can be indicative of a decrease in interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to several questions on the mental health scale indicate symptoms of depression. They reported feelings of sadness, guilt, self-dislike, self-accusations, worthlessness, loss of interest, changes in sleeping pattern, irritability, changes in appetite, concentration difficulty, tiredness or fatigue, and changes in interest in sex. These symptoms align with the diagnostic criteria for depression, suggesting that the poster may be suffering from depression.
+

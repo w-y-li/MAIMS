@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  - Chronic pain from TMJ (I can‚Äôt even eat, eat mushy or liquid foods), can‚Äôt talk or sing much anymore, just lay in bed and sleep to escape pain - Chronic sinus infections (I can‚Äôt breathe, always feel like I‚Äôm about to sneeze, eyes swollen shut  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions chronic pain and chronic sinus infections that severely impact the person's ability to eat, talk, and engage in activities such as singing. They describe laying in bed and sleeping to escape the pain. These physical health issues and the resulting isolation and disengagement from activities could contribute to feelings of social disconnection and thwarted belongingness, indicating a potential risk of thwarted belongingness.
+

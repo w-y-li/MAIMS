@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Everyone lies, everyone will backstab you in the end. Better off never saying anything.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a belief that trust in others leads to betrayal and suggests a feeling of isolation and lack of belonging, which aligns with a risk of thwarted belongingness.
+

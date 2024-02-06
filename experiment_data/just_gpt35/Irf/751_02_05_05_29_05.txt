@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  hi everyone I had been doing so well, I was a year and two months SH-clean. I was planning a tattoo to get that would cover all my old scars. but tonight brought on an depressive episode that I‚Äôve never experienced before. on my way home, I was wailing/sobbing, talking out loud to myself about what was wrong with me, and then I had a thought that ceased the wailing and brought me to complete silence for the rest of the night. ‚ÄúI‚Äôm going to kill myself.‚Äù When I got home, I got into comfortable pajamas and researched lethal doses of the medicines I have in my cabinet. I wrote out a note, telling my family and friends that I love them. I was nearly about to take the pills, when my cat came around the corner and started purring. She rubbed herself around my ankles, meowing at me happily. I broke down in tears, realizing what I was about to do. I later cut myself, which I justified to myself as being an ‚Äúalternative‚Äù to suicide. Time to start the countup over.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a desire to escape perceived burdensomeness by considering suicide as an option. The individual mentions feeling something is wrong with themselves and expresses a plan to end their life, which suggests a high level of perceived burden.
+

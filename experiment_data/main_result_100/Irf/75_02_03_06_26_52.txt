@@ -1,0 +1,114 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I don‚Äôt know why I am so fucked up but I never feel like I can trust my parents word. My siblings are completely self successful and on their straight path to be coming everything the world wants them to be but me? I‚Äôm stuck in reverse. Sitting at home too anxious or exhausted to even shower or brush my teeth. My parents tell me they love me and they don‚Äôt care how long it takes me to succeed but I don‚Äôt believe them. I want to... but a part of me will always never believe them.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me.###The post mentions feeling anxious and exhausted, which suggests a lack of self-worth and low self-esteem. These feelings could contribute to the belief that the people in their life would not be better off or happier without them. However, this is not explicitly mentioned in the post.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not indicate any thoughts or feelings about this specific question. It focuses more on the individual's feelings of trust towards their parents and their own feelings of being stuck and struggling."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like a burden and being stuck in reverse, which indicates a potential belief of being a burden on society.'])
+('4', ['indirectly_mention', "Not at all true for me###The post mentions feeling anxious and exhausted, but it does not mention any thoughts about one's death as a relief to others in their life."])
+('5', ['indirectly_mention', 'Somewhat true for me.###The post mentions feeling anxious and exhausted, which could indicate a belief that the people in their life wish they could be rid of them.'])
+('6', ['indirectly_mention', 'Somewhat true for me.###The post mentions feeling stuck and not succeeding like their siblings, which could lead to the belief that they make things worse for the people in their life.'])
+('7', ['directly_mention', "Not at all true for me###The post mentions that I never feel like I can trust my parents' word and that I don't believe them when they say they love me. This suggests that I don't feel like other people care about me."])
+('8', ['indirectly_mention', 'Not at all true for me###The post mentions feeling stuck, anxious, and exhausted to the point of not being able to take care of basic personal hygiene. These experiences can contribute to a sense of not belonging or feeling disconnected from others.'])
+('9', ['directly_mention', 'Not at all true for me###The post explicitly mentions not feeling like they can trust their parents and not believing them when they say they love them. This suggests a lack of belief in the care and support of others, indicating that they rarely interact with people who care about them.'])
+('10', ['directly_mention', 'Not at all true for me###The post mentions feeling stuck at home, anxious, and exhausted, which indicates a lack of social interaction and support. Therefore, it is unlikely that they have many caring and supportive friends.'])
+('11', ['indirectly_mention', 'Somewhat true for me###In the post, I mentioned that I feel stuck at home and too anxious or exhausted to even shower or brush my teeth. This suggests that I am experiencing some level of disconnection or disengagement from others, which aligns with feeling disconnected from other people.'])
+('12', ['indirectly_mention', "Somewhat true for me###In the post, I mentioned that I feel like I can't trust my parents' word and that I don't believe them when they say they love me. This implies that I may feel like an outsider or have difficulty connecting with others, which aligns with feeling like an outsider in social gatherings."])
+('13', ['indirectly_mention', "Somewhat true for me###The post indicates that the poster has difficulty trusting their parents' words, which suggests a lack of trust and possibly a sense of isolation. While the post does not explicitly mention turning to others in times of need, the feelings of anxiety, exhaustion, and mistrust could potentially affect the relationships with others and make it difficult to seek support."])
+('14', ['indirectly_mention', 'Not at all true for me###The post expresses a sense of being stuck and isolated, which indicates a lack of closeness to other people. Although the post does not specifically mention being close to others, the feelings of mistrust and the belief that the poster is different from their successful siblings may contribute to a sense of distance from others.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to having satisfying interactions or lack thereof."])
+Do MS Check Record:
+('1', ['Incorrect', 'Avoid assuming that lack of explicit information means the question is not addressed. Analyze the underlying emotional state and its potential implications for feelings of self-worth and impact on others. Reflect on whether the feelings of distrust and lack of self-belief could lead to thoughts about others’ well-being with their absence.'])
+('2', ['Correct', 'Continue to be cautious not to over-infer when the post does not provide direct evidence of feelings about how others would feel. Focus on what is actually communicated in the post.'])
+('3', ['Incorrect', 'Examine the post for direct and indirect evidence related to the question without adding interpretations not supported by the text.'])
+('4', ['Correct', 'Continue to avoid inferring beyond the information provided in the post, especially when it concerns thoughts of death.'])
+('5', ['Incorrect', "Focus on extracting emotions directly related to the question. Avoid making assumptions about the poster's beliefs about others' feelings without clear evidence from the post. Reassess the post for explicit sentiments regarding how the poster thinks they are perceived by others."])
+('6', ['Incorrect', 'Carefully differentiate between personal feelings of stagnation and the impact on others. The post does not provide sufficient evidence to support the belief that the poster makes things worse for others. Stick to the information given and avoid overgeneralizing or inferring beyond what is presented.'])
+('7', ['Incorrect', "Avoid making assumptions about the poster's feelings based solely on mistrust of their parents. Consider the possibility that caring can come from various sources, not just the parents."])
+('8', ['Incorrect', "Be cautious not to equate the poster's current struggles with a broader sense of belonging. Recognize that the post does not provide enough information to conclusively determine their feelings of connection with a wider community."])
+('9', ['Incorrect', 'Avoid assuming a total lack of interaction; focus on the nuance the post provides about trust issues, which can indicate some interaction, albeit strained. Look for clues in the post about the quality, not just quantity, of interactions.'])
+('10', ['Incorrect', "Be cautious not to overgeneralize the poster's situation based on their current state of mind. Instead, infer based on specific information about their relationships, not just their present feelings of anxiety and isolation."])
+('11', ['Correct', 'Continue to use relevant information from the post to inform your answers, being careful not to extrapolate beyond what is written.'])
+('12', ['Incorrect', 'Focus on the content of the post, which does not expressly discuss social gatherings. Be careful not to make assumptions about contexts not described.'])
+('13', ['Correct', "Pay attention to implications in the post that can impact the poster's feelings of trust and social support. You interpreted the lack of mentioned support well, but always remember to consider alternative interpretations where possible."])
+('14', ['Correct', "Consider the impact of the described emotional state on social relationships. You've made a plausible inference, but keep in mind the importance of not overgeneralizing based on limited information."])
+('15', ['Incorrect', "Instead of concluding the post does not mention the question, analyze the emotional tone and context to infer a likely answer. The poster expresses feeling stuck and distrustful, which could suggest fewer satisfying interactions. Attempt to answer in a way that aligns with the poster's mood and situation."])
+
+ITER 1
+Do MS Record:
+('1', ['directly_mention', 'Somewhat true for me###The post mentions feeling stuck in reverse, anxious, and exhausted, which could contribute to feeling like a burden on others.'])
+('3', ['indirectly_mention', "Not at all true for me###The post talks about feeling unable to trust the parents' words and not believing their love and support, which might indicate some self-doubt but doesn't explicitly address how the person feels about others' lives without them."])
+('5', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling stuck, anxious, and not believing that their parents care about their success. These feelings may lead the poster to believe that the people in their life may wish they could be rid of them, but it is not explicitly stated.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indications regarding whether the poster thinks they make things worse for the people in their life."])
+('7', ['directly_mention', "Not at all true for me###The post mentions that the poster never feels like they can trust their parents' word, indicating a lack of trust and connection with others."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide enough information to conclusively determine the poster's sense of belonging or connection with a wider community."])
+('9', ['indirectly_mention', 'Not at all true for me.###The post mentions feeling anxious and exhausted, which can suggest a lack of energy or motivation to engage with others. This implies a possible lack of interaction with people who care about the poster.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the number or quality of the poster's friends. It only focuses on the issue of trust with parents and feelings of inadequacy."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not explicitly mention feeling like an outsider in social gatherings. It focuses on the poster's lack of trust in their parents and their own feelings of being stuck and anxious."])
+('15', ['indirectly_mention', "Somewhat true for me.###Although the post doesn't directly mention having satisfying interactions every day, the poster describes feeling anxious and exhausted, which could potentially limit their social interactions and make it less likely for them to have satisfying interactions on a daily basis."])
+Do MS Check Record:
+('1', ['Incorrect', "Carefully analyze the post for any emotional indicators that can relate to the question without making assumptions. The poster expresses feelings of inadequacy compared to siblings but does not discuss the impact on others' lives directly."])
+('3', ['Incorrect', 'Avoid inferring feelings towards society based on personal familial relationships. Focus on identifying explicit or strongly implicit sentiments if present in the text concerning societal burdens.'])
+('5', ['Correct', 'Continue to analyze the post for implicit emotional content and relate that to potential thoughts about self-worth and relationships with others. However, seek additional evidence in the post before affirming a belief the poster may hold.'])
+('6', ['Incorrect', 'Reevaluate the post to identify any possible indication of negative self-assessment that could imply the belief of worsening things for others. Do not omit interpretations based on emotions such as anxiety and exhaustion, which may suggest this belief indirectly.'])
+('7', ['Incorrect', "Avoid assuming answerable elements when the post does contain relevant information. Re-evaluate the post to identify any potential indications of how the poster perceives others' care towards them, and answer accordingly."])
+('8', ['Correct', "Maintain clear distinction between the information provided and speculation. When the post does not contain details pertinent to the question, it is safe to respond with 'Doesn't mention at all'."])
+('9', ['Incorrect', 'Consider the emotional context of the post, which suggests isolation. You should deduce that someone in this state may not frequently engage with those who care about them.'])
+('10', ['Correct', 'Remember not to infer information not present in the post. You correctly identified that the post contains no direct information on friends, so assumptions should not be made.'])
+('12', ['Incorrect', "Review the post for emotional cues that might indicate social discomfort; avoid a rigid interpretation of the post's content."])
+('15', ['Correct', 'Keep inferring emotional states that could influence behavior but be cautious not to overextend beyond available information.'])
+
+ITER 2
+Do MS Record:
+('1', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling stuck and not being able to succeed like their siblings. This could result in feeling like a burden on society, although it is not explicitly stated.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not discuss their impact on others' lives or whether they believe that others would be better off without them."])
+('6', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling anxious and exhausted, which may be indicative of the belief that I make things worse for the people in my life.'])
+('7', ['directly_mention', "Not at all true for me###The post explicitly mentions not believing that my parents care for how long it takes me to succeed, suggesting that I don't feel like other people care about me."])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling anxious and exhausted, which could lead to reduced interactions with others who care about them.'])
+('12', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like an outsider and not being able to trust others, which could contribute to feeling like an outsider in social gatherings.'])
+Do MS Check Record:
+('1', ['Incorrect', 'Avoid assuming emotions not explicitly stated. Focus on analyzing the actual content of the post regarding trust issues and self-doubt, rather than inferring a desire to be gone.'])
+('3', ['Incorrect', "Consider the expressions of feeling 'stuck' and the comparison to successful siblings as an indirect way the poster may perceive themselves as a burden. Relate this back to societal expectations to improve accuracy."])
+('6', ['Incorrect', 'Review the post for explicit mentions or clear implications about how the poster feels they impact others. Avoid overgeneralizing or inferring emotions not clearly stated.'])
+('7', ['Incorrect', "Examine the post for statements directly related to how others care about the poster. Distinguish between the poster's belief in their parents' words and the actual care expressed."])
+('9', ['Correct', 'Ensure that the inferences made directly relate to the content and context of the post. Look for keywords and sentiments that can justify the selected level of agreement or disagreement with the statements.'])
+('12', ['Incorrect', "Be cautious not to extend the poster's experiences to settings that are not mentioned in the post. Focus on the emotions and situations explicitly described by the poster to answer questions related to social interactions."])
+
+ITER 3
+Do MS Record:
+('1', ['directly_mention', "Not at all true for me###The post mentions feeling anxious and exhausted but doesn't mention anything about the people in their life being better off without them."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling stuck and compares themselves to their successful siblings, which implies a feeling of being a burden on society due to not meeting societal expectations.'])
+('6', ['indirectly_mention', "Somewhat true for me###The post mentions feeling like they cannot trust their parents' word, which may contribute to feeling like they make things worse for the people in their life. This suggests a lack of trust and potentially negative impact on others, hence the answer 'Somewhat true for me'."])
+('7', ['directly_mention', "Not at all true for me###The post mentions that the poster does not believe their parents when they say they love them and don't care how long it takes for them to succeed. This implies a lack of belief in others caring about them, leading to the answer 'Not at all true for me'."])
+('12', ['directly_mention', "Somewhat true for me###The poster mentions feeling like an outsider in social gatherings: 'I never feel like I can trust my parents word.' This suggests a lack of trust and possibly feeling disconnected from others, indicating that the poster may feel like an outsider in social gatherings."])
+Do MS Check Record:
+('1', ['Incorrect', "Review the poster's expressions of self-doubt and anxiety without assuming they feel they would relieve others by their absence. Focus on direct information present in the post."])
+('3', ['Correct', 'Ensure that interpretations of indirect mentions remain grounded in the actual content of the posts, recognizing implied feelings without overgeneralizing.'])
+('6', ['Correct', 'Ensure you maintain this level of analytical depth, carefully extracting emotional states and beliefs from the post to answer the questions.'])
+('7', ['Incorrect', "Avoid assuming that lack of self-belief equates to others not caring. Instead, focus on the poster's direct experiences and statements to inform your answers."])
+('12', ['Incorrect', 'Review the original post and focus on the specific content. Avoid making direct connections to feelings of being an outsider in social gatherings unless the post explicitly mentions such scenarios. Analyze the post for implicit cues about social integration without inferring beyond the information given.'])
+
+ITER 4
+Do MS Record:
+('1', ['directly_mention', "Somewhat true for me###The post expresses feelings of self-doubt and feeling stuck in reverse, which suggests a lack of self-worth. This aligns with the statement that the people in their life would be better off without them, although it is qualified with 'somewhat true for me' indicating some ambivalence."])
+('7', ['indirectly_mention', "Not at all true for me###The post mentions the poster's parents telling them they love them and don't care how long it takes for them to succeed. While the poster expresses doubts about their sincerity, it suggests that other people, including their parents, do care about them, even if the poster struggles to fully acknowledge it."])
+('12', ['not_mention', "Doesn't mention at all.###"])
+Do MS Check Record:
+('1', ['Incorrect', "Review the original post for any indicators of hopelessness or implied burden. Pay attention to the explicit statements rather than assuming the emotional state of the poster. Provide an answer that reflects the poster's mentioned feelings without making assumptions about their sense of worth to others."])
+('7', ['Correct', 'Ensure to recognize when the post provides implicit information about a topic. In this case, the post does provide indirect suggestions that others care for the individual. Continue to make inferences based on available information without overextending beyond what is stated.'])
+('12', ['Incorrect', 'Remember to analyze the post for any emotional or psychological states that may relate to the question. The individual expresses feelings of alienation and lack of self-worth, which could contribute to feeling like an outsider. Use these cues to infer how the poster might feel in social gatherings.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses on the mental scale indicate that they perceive themselves as a burden and think that the people in their life would be happier without them. They also feel disconnected from others and have a lack of supportive relationships. These feelings align with the concept of perceived burdensomeness, which is a risk factor for mental health problems such as depression and suicidal ideation.
+
+Correct
+Confirm your assessments with clear evidence from the provided answers. Avoid overgeneralizing or making inferences about traits that aren't supported by the data. Focus on specific answers that directly relate to the question of perceived burdensomeness, as you did with this case, which indicates a well-supported conclusion.

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  i don‚Äôt think i‚Äôve felt this bad in years i don‚Äôt remember feeling so hopeless. maybe in the epicentre of a heartbreak, but not at night, so quietly, for so many hours. i am empty, and dead. i want to drown myself to cherry wine by hozier and i never ever want to be found.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of hopelessness and a desire to be alone and disappear, which can be indicative of perceived burdensomeness.
+

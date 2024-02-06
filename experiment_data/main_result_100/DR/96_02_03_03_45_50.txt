@@ -1,0 +1,102 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Can’t fix anything in my life I’m such a fundamentally broken person. I’ve want to say I’ve been fighting for years, but that’a not true. All I can do is fucking run away from everything until the day is over. No action I take to improve myself can ever have weight because I’m so godddamn broken that when I try to do something to better myself, it just reminds me of how much of a fucking loser I am. I cannot handle the fucking *pain* that comes with self improvement. It’s not fun in the least. It’s humbling. Too humbling. And it just shoves in my face all the time I’ve wasted and all of the experiences I never had simply by virtue of being my self. Everyone who’s happy acts like life is just some natural occurrence. Like things just happened to them and fell into place. This couldn’t be further from the truth of my experience. Nothing ever just happens organically. Either I try hard and fail due to my lack of intelligence, or I don’t do anything at all. It’s hard to stay happy after constant failure and social rejection. I’ve never had interests or goals or relationships or friends. I never will. These thing don’t just happen. You have to be a certain kind of person for them to happen. I am not that person. I will never be that person because I don’t even know who I want to be, and if I figured that out I would be too insecure to become that. All I see in my future is homelessness and destitution because I came into adulthood with absolutely zero interests, special memories, or relevant/helpful past experiences. My memory of my life in general is so goddam hazy at this point, if I ever did have those things, they have long been gone to the abyss. I just think why. Why do I have to be so broken and dysfunctional among everyone else? I’m not even a real person. I’m a complete shell of what could have been a person. This is too difficult to come to terms with, while impossible to argue against. It is true. It is my reality. It honestly just makes me angry, bitter, and jealous of others, at a very deep, fundamental, human level, for what the healthy people have. I fantasize about taking two AR-15s and unloading on people. Maybe I know them, maybe I don’t, it wouldn’t matter. Often lives completely lose their value when my headspace gets dark enough. Not as the result of an “illness” but of the fact that I am who I am both physically and psychologically. Blind rage. That is what the result of my dysfunction is. Pure fucking anger at both the world and myself. Unable to cope with my grim reality, all I want to do is destroy. The only thing I could ever really destroy is myself. The thought of my life slipping away becomes more attractive by the day as I see how impossible my desires are and how completely fruitless any effort to change is sure to be, just like it always has. I can’t handle the responsibility of being alive and I don’t want to anymore. I’m just here for the hedonistic pleasures life sometimes offers, until either I or something else kills me.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "I am sad all the time.###The post clearly states 'I’m such a fundamentally broken person' and 'All I can do is fucking run away from everything until the day is over.' These statements indicate a persistent and ongoing feeling of sadness."])
+('2', ['directly_mention', "I feel the future is hopeless and that things cannot improve.###The post mentions 'No action I take to improve myself can ever have weight because I’m so godddamn broken that when I try to do something to better myself, it just reminds me of how much of a fucking loser I am' and 'It honestly just makes me angry, bitter, and jealous of others, at a very deep, fundamental, human level, for what the healthy people have.' These statements suggest a belief in a hopeless future and a lack of optimism."])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The post directly mentions feeling like a failure and not being able to improve oneself, which suggests a sense of past failure.'])
+('4', ['directly_mention', 'I can not get any pleasure from the things I used to enjoy.###The post talks about not being able to enjoy things as much as before and seeking hedonistic pleasures until something kills me, indicating a loss of pleasure.'])
+('5', ['directly_mention', "I feel guilty all of the time.###The post clearly states 'All I can do is fucking run away from everything until the day is over. No action I take to improve myself can ever have weight because I’m so godddamn broken that when I try to do something to better myself, it just reminds me of how much of a fucking loser I am.' This indicates a constant feeling of guilt and self-blame."])
+('6', ['directly_mention', "I feel I am being punished.###The post mentions 'Either I try hard and fail due to my lack of intelligence, or I don’t do anything at all. It’s hard to stay happy after constant failure and social rejection.' This suggests a perception of punishment for the perceived lack of intelligence and continuous failures."])
+('7', ['directly_mention', 'I dislike myself###The post directly expresses strong self-dislike and feelings of being a failure and a loser.'])
+('8', ['directly_mention', 'I am more self-critical or blaming than usual###The post clearly indicates a high level of self-criticism and blaming oneself for the perceived failures and lack of achievements.'])
+('9', ['directly_mention', 'I would like to kill myself.###The poster mentions feeling broken, dysfunctional, and unable to cope with their grim reality. They express anger, bitterness, and jealousy towards others, and state that the thought of their life slipping away becomes more attractive by the day. These statements indicate a desire to end their life.'])
+('10', ['directly_mention', 'I cry all the time now.###The poster mentions being angry, bitter, and unable to cope with their grim reality. They express a blind rage and state that the only thing they could ever really destroy is themselves. These statements suggest intense emotional distress, which may manifest in frequent crying.'])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The post mentions feeling angry, bitter, and jealous at a deep, fundamental level. These emotions can contribute to restlessness and agitation.'])
+('12', ['indirectly_mention', 'I have lost most of my interest in other people or things.###The post mentions a lack of interest in goals, relationships, friends, and activities. This indicates a significant loss of interest.'])
+('13', ['indirectly_mention', "I can not make decisions at all anymore.###The post indicates a sense of helplessness and frustration, expressing difficulty in taking any action to improve oneself, which aligns with the option 'I can not make decisions at all anymore.'"])
+('14', ['indirectly_mention', "I feel utterly worthless.###The post strongly emphasizes a feeling of worthlessness and self-deprecation, expressing how the individual sees themselves as a complete failure, which aligns with the option 'I feel utterly worthless.'"])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###The post mentions that the person cannot handle the pain that comes with self-improvement and that self-improvement reminds them of how much of a loser they are. This indicates a lack of energy and motivation to take actions for self-improvement.'])
+('16', ['indirectly_mention', 'I sleep a lot less than usual.###Although the post does not explicitly mention changes in sleeping patterns, the person talks about running away from everything until the day is over, implying that they have difficulty sleeping or are staying awake for extended periods. This suggests a possible sleep disturbance.'])
+('17', ['directly_mention', 'I am much more irritable than usual.###The post mentions feeling angry and bitter at a deep, fundamental, human level, which suggests a heightened level of irritability.'])
+('18', ['indirectly_mention', 'My appetite is much less than before.###The post mentions being unable to cope with the grim reality and expresses a desire to destroy oneself, which suggests a lack of interest in eating and a potential decrease in appetite.'])
+('19', ['directly_mention', "I find I can not concentrate on anything.###The poster states, 'All I can do is fucking run away from everything until the day is over.' This suggests difficulty in concentration and an inability to focus on tasks."])
+('20', ['directly_mention', "I am too tired or fatigued to do most of the things I used to do.###The poster mentions, 'I cannot handle the fucking *pain* that comes with self improvement. It’s not fun in the least. It’s humbling. Too humbling.' This indicates a sense of fatigue and feeling too tired to engage in activities previously enjoyed."])
+('21', ['indirectly_mention', 'I have almost no interest in sex.###The post mentions that the person has almost no interest in self-improvement and they feel broken. This lack of interest in self-improvement can extend to a lack of interest in other areas of life, including sex. Additionally, the mention of hedonistic pleasures implies a focus on immediate gratification rather than long-term desires such as sex.'])
+Do MS Check Record:
+('1', ['Correct', 'Ensure that your interpretations remain rooted in the explicit expressions of the poster, as you did here. Be cautious of making assumptions beyond what is stated.'])
+('2', ['Correct', 'Good job on identifying the tone of pessimism from the post. Continue to distinguish between direct evidence in the text and conjecture.'])
+('3', ['Correct', 'Continue to provide evidence from the post for your answers to ensure they are grounded in the content provided.'])
+('4', ['Correct', 'Good job recognizing the subtleties in the post. Ensure that you maintain this level of detail in analysis with future tasks.'])
+('5', ['Correct', 'The answer effectively captures the underlying sentiment of guilt implied by the post. Continue to identify key phrases that reveal emotional states directly related to the scale items.'])
+('6', ['Incorrect', 'The response projects a sense of being punished to a broader experience of failure and rejection. Although related, ensure to directly connect feelings of punishment to specific instances or thoughts from the post where the author feels an undeserved treatment or a direct consequence as a form of punishment.'])
+('7', ['Correct', 'Ensure to continue citing specific examples from the post that demonstrate self-dislike to support your answers.'])
+('8', ['Correct', 'Keep identifying clear evidence from the text that reflects self-accusations to justify your conclusions.'])
+('9', ['Correct', "Continue to use direct evidence from the post to answer questions about the poster's mental state. Ensure interpretations stay closely tied to the information provided."])
+('10', ['Incorrect', 'Avoid making assumptions that are not explicitly supported by the text. The post does not mention crying, so infer only feelings or actions that are directly expressed.'])
+('11', ['Correct', 'Ensure you are grounding your interpretations in specific language or described behaviors from the post.'])
+('12', ['Correct', "Continue to link your responses to explicit statements when available, and be cautious not to assume details that aren't presented."])
+('13', ['Correct', 'Ensure that you are basing your assessments on textual evidence from the post. Maintain this level of careful analysis in interpreting indirect statements and extracting psychological states.'])
+('14', ['Correct', 'Continue to interpret the emotional tone of the posts accurately. Be cautious not to overextend interpretations beyond the evidence provided by the poster.'])
+('15', ['Correct', 'Ensure that you maintain this level of analysis, carefully deriving insights from the emotional tone and context provided in the post. Avoid making assumptions that go beyond the given information.'])
+('16', ['Incorrect', 'Provide a more nuanced interpretation that does not overextend the available information. Do not infer specific sleeping patterns without clear evidence. Focus instead on the emotional content and its potential implications for behaviors such as sleep.'])
+('17', ['Correct', 'Ensure that your conclusions about irritability are directly tied to specific evidence from the post, as you correctly did by citing the expression of anger and bitterness.'])
+('18', ['Incorrect', 'Avoid assuming changes in appetite without direct evidence from the post. Focus on the actual content and look for explicit mentions or clear implications regarding changes in eating habits.'])
+('19', ['Correct', "Be cautious not to overextend interpretations of the text that aren't supported by explicit statements or clear implications."])
+('20', ['Correct', 'Continue to look for implicit information that can be logically inferred from the post, but make sure not to assume emotions or states that are not indicated.'])
+('21', ['Incorrect', 'Carefully analyze the post for direct implications on the topic. Refrain from inferring specific aspects such as sexual interest without explicit mention or clear contextual indicators.'])
+
+ITER 1
+Do MS Record:
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to punishment feelings."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to crying."])
+('16', ['indirectly_mention', "I sleep a lot less than usual.###The post mentions the inability to sleep due to running away from everything and the constant pain of self-improvement. This suggests that there may be changes in the poster's sleeping pattern."])
+('18', ['indirectly_mention', "My appetite is somewhat less than usual.###The post mentions the lack of interest in food or appetite, which suggests a decrease in the poster's appetite."])
+('21', ['indirectly_mention', 'I have lost interest in sex completely.###The post mentions a lack of interest in many areas of life and a feeling of being broken and dysfunctional. This could potentially extend to a loss of interest in sex as well, although it is not explicitly mentioned in the post.'])
+Do MS Check Record:
+('6', ['Incorrect', 'Analyze the emotions and behaviors suggested by the language used. Expressions of self-loathing, feelings of failure and the mention of being unable to handle the pain associated with self-improvement could be interpreted as indicative of self-punishing attitudes. Consider the broader emotional context when answering.'])
+('10', ['Incorrect', 'Assess the emotional tone of the post for indirect indications of behaviors like crying. The intense negative emotions and feelings of hopelessness in the post could reasonably imply actions associated with sadness, such as crying. Reflect on the underlying emotions that might not be explicitly mentioned.'])
+('16', ['Incorrect', 'Ensure that your answers are grounded in the content of the post. There is no explicit mention of sleeping patterns, so avoid assuming specifics not indicated by the poster. Instead, focus on the overall emotional tone to infer possible disturbances but do not provide details not present in the post.'])
+('18', ['Incorrect', 'Avoid drawing inferences that are not supported by the text of the post. There is no direct reference to changes in appetite; only emotional distress is conveyed. If appetite is not discussed, you could mention the possibility of changes due to psychological state but refrain from definitive statements without evidence.'])
+('21', ['Incorrect', "Analyze text for concrete evidence related to the question. Avoid assuming or extending the post's sentiment to areas not mentioned. Seek explicit statements before concluding feelings towards specific life aspects."])
+
+ITER 2
+Do MS Record:
+('6', ['directly_mention', 'I expect to be punished.###The poster mentions feeling broken and like a loser, and expresses self-loathing and anger towards themselves. These negative self-perceptions can be seen as a form of self-punishment.'])
+('10', ['indirectly_mention', 'I cry more than I used to.###The language used in the post suggests intense negative emotions and feelings of hopelessness. These emotions could reasonably lead to an increase in crying as a reflection of sadness and despair.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in sleeping pattern. Although it talks about the difficulties and challenges faced by the individual, there is no specific mention of sleep disturbances."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in appetite. It primarily expresses feelings of brokenness, anger, and despair without any specific reference to eating patterns."])
+('21', ['directly_mention', "I have lost interest in sex completely.###The post directly mentions a complete loss of interest in sex: 'I have almost no interest in sex... I have lost interest in sex completely.'"])
+Do MS Check Record:
+('6', ['Correct', 'Ensure that inferences about punishment feelings are rooted in specific language from the post. The connection between self-loathing and self-punishment is appropriate here. Maintain this level of careful reading and connection to emotional states expressed in the posts for future answers.'])
+('10', ['Correct', 'Good job on linking the intense emotional language of the post to the possibility of increased crying. Continue to use cues from the overall emotional tone and context given in posts to infer emotional behaviors such as crying, while avoiding assumptions about specific unmentioned behaviors.'])
+('16', ['Correct', 'Continue paying attention to explicit mentions in the post to answer the questions accurately.'])
+('18', ['Correct', 'Maintain focus on the content of the post and avoid making inferences without evidence when answering questions.'])
+('21', ['Incorrect', 'Review the post meticulously for any explicit mention of changes in sexual interest, and only infer when you have clear, related information.'])
+
+ITER 3
+Do MS Record:
+('21', ['directly_mention', "I have lost interest in sex completely.###In the post, the poster states 'I have almost no interest in sex.' which indicates a significant decline in their interest in sex."])
+Do MS Check Record:
+('21', ['Incorrect', "Carefully analyze the post for explicit statements related to the question. Avoid adding information that isn't there; the post does not specifically mention a loss of interest in sex. Stick to the evidence provided within the post."])
+
+ITER 4
+Do MS Record:
+('21', ['directly_mention', 'I have almost no interest in sex.###The poster states that they are here for the hedonistic pleasures life sometimes offers, which implies that they have little interest in anything else, including sex.'])
+Do MS Check Record:
+('21', ['Incorrect', "Assess the stated interests more broadly and avoid assuming a decrease in interest specifically in sex based on the mention of 'hedonistic pleasures.' Seek clear evidence related to the question in the post."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's post and answers to the mental scale questions indicate the presence of several depressive symptoms, such as profound sadness, pessimism, loss of pleasure, guilt feelings, self-dislike, self-accusations, suicidal thoughts or wishes, worthlessness, loss of energy, irritability, concentration difficulty, and tiredness or fatigue. These symptoms are consistent with a diagnosis of depression.
+
+Correct
+The analysis provided correlates well with the symptoms of depression listed in the Diagnostic and Statistical Manual of Mental Disorders (DSM-5). It's important to ensure that each symptom is evaluated within the context of the individual's experiences and not to overgeneralize based on limited information. It is also crucial to approach such assessments with sensitivity, given the severity of the ideations expressed, and to recognize the necessity of referring the individual for clinical evaluation and treatment. Always remember that while identifying symptoms can be clinically relevant, this does not replace a full psychological evaluation conducted by a licensed professional.

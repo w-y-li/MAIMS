@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Hey guys, I'm a 22 year old male from Australia. I'm very new to reddit and I thought that this is one of the most important message boards. I've had depression since I was approximately 15 after I lost a friend to suicide. My psychologist also believes I have borderline personality disorder. The whole point of this post is to say thank you for existing, you are not alone.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and loneliness, as well as expressing gratitude for the existence of this message board. This suggests a potential risk of thwarted belongingness, which is a key component of certain mental health conditions such as depression and borderline personality disorder.
+

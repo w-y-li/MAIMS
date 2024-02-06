@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I mean I'm going to live in my parents basement until I die so what does it matter if I'm gay or straight. Not like I'll actually do anything about it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a lack of motivation to take action and a belief that the individual's current living situation is permanent, indicating a possible risk of thwarted belongingness.
+

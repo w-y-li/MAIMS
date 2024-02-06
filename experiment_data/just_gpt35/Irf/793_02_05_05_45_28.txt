@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I have so many voices yelling in my head wanting to come out I‚Äôm just stuttering when I trying and let them I feel insane  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates the presence of multiple voices in the poster's head, which suggests auditory hallucinations. This could be a symptom of a mental health disorder such as schizophrenia or dissociative identity disorder. The feeling of insanity and difficulty in expressing oneself may also indicate a high level of distress and confusion, which correlates with perceived burdensomeness.
+

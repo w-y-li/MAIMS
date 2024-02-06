@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Anyone want to be depression buddies? Preferably female  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a desire for companionship in experiencing and discussing depression, implying a potential belief that the poster may be a burden to others with their depression.
+

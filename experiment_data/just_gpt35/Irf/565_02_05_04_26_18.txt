@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  So I always relapse back to depression. I start to feel better overall a d stay away from self destructive things, eat really healthy, and exercise. Then I take being happy for granted, and I just slowly fall back to depression. I dont know how to end the cycle  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a pattern of relapsing back to depression and feeling better for a while before slowly falling back. This pattern indicates a possible cycle of perceived burdensomeness, where the poster may feel overwhelmed by the ongoing struggle with depression and the effort required to maintain a healthy lifestyle.
+

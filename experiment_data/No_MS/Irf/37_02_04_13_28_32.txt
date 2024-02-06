@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I feel like I can‚Äôt take this anymore, I‚Äôm trying so hard to calm myself down but I‚Äôve been recently stationed in Japan away from my fianc√© and family and my fianc√© is slowly drifting away from me and I have no friends out here and I just feel like I‚Äôve given up and have no point in continuing, I can‚Äôt do this for a whole 2 years it‚Äôs tearing me up already  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of hopelessness, isolation, and a lack of social support, which are common factors contributing to perceived burdensomeness.
+
+Correct
+Ensure to substantiate any inference about mental health risks with explicit information provided in the posts and avoid overgeneralizing based on limited data. Continue to look for concrete expressions of emotional states, social connections, and outlook on life as indicators when assessing mental health concerns like perceived burdensomeness.

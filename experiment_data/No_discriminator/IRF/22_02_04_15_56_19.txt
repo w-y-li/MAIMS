@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I miss some of my ex gfs but all of them ghosted me.. I hate my job .. I cant stand living with my dad.. Im afraid to apply to any developer jobs or show my skills off to employers..I dont even have a car rn... I just feel like a failure..Im really lonely.. I feel like everything is getting worse and worse.. maybe I should start taking anti depressant medication..  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Not at all true for me###The post mentions feeling like a failure, being lonely, and feeling like everything is getting worse and worse. These feelings of sadness and despair suggest a low self-esteem and negative outlook on life, but they do not directly indicate that the people in the poster's life would be better off without them."])
+('2', ['directly_mention', "Not at all true for me###The post mentions feeling like a failure, being lonely, and feeling like everything is getting worse and worse. These feelings of sadness and despair suggest a low self-esteem and negative outlook on life, but they do not directly indicate that the people in the poster's life would be happier without them."])
+('3', ['indirectly_mention', "Somewhat true for me###The statement 'I just feel like a failure' indicates a feeling of low self-worth and a negative perception of oneself, which could indirectly suggest that the person feels like a burden on society."])
+('4', ['indirectly_mention', "Somewhat true for me###The statement 'I just feel like a failure' indicates a feeling of low self-worth and a negative perception of oneself, which could indirectly suggest that the person believes their death would be a relief for others."])
+('5', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like a failure and feeling lonely, which can contribute to the belief that the people in my life wish they could be rid of me. However, the direct statement is not made in the post.'])
+('6', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like a failure and feeling lonely, which might lead to the belief that I make things worse for the people in my life. However, the direct statement is not made in the post.'])
+('7', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling lonely and like a failure, which suggests a lack of support and belonging from others. Therefore, it is plausible that others caring for the poster is somewhat true for them.'])
+('8', ['indirectly_mention', 'Not at all true for me###The post mentions feeling lonely and like a failure, which suggests a lack of connection and belonging. Therefore, it is plausible that feeling like they belong is not at all true for the poster.'])
+('9', ['indirectly_mention', 'Not at all true for me###The post mentions feeling lonely and like a failure, which suggests a lack of interaction with people who care about me.'])
+('10', ['indirectly_mention', 'Not at all true for me###The post mentions feeling lonely and like a failure, which implies a lack of supportive friends.'])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling lonely and disconnected, which could indicate feeling disconnected from other people.'])
+('12', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like a failure and not being able to connect with ex-girlfriends, which could indicate feeling like an outsider in social gatherings.'])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling lonely and feeling like a failure, which suggests a lack of closeness to others. However, it is not explicitly mentioned whether the person feels close to others or not.'])
+('14', ['indirectly_mention', 'Not at all true for me###The post mentions feeling lonely and feeling like a failure, which suggests a lack of people to turn to in times of need. However, it is not explicitly mentioned whether the person feels that there are people they can turn to or not.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not talk about having satisfying interactions with others."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness, disconnection from others, and the perception of being a burden on society. These feelings suggest a risk of thwarted belongingness, which is a psychological state characterized by the belief that one lacks meaningful social connections and does not belong in important social groups.
+

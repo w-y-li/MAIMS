@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  https://puu.sh/yQQgn/cb578f3293.mp4 Part of the  Once more with Feeling  Musical Episode from Buffy the Vampire Slayer, which partly is about her being depressed.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post is a video clip from a TV show and does not provide enough information to determine if there is a risk of perceived burdensomeness.
+

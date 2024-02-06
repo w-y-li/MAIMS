@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Has anyone ever felt like they didn't want to explain to their friends/family/spouse about how incredibly sad you feel. I don't know where my sadness comes from. I know I feel selfish because there are children dying of starvation and I cry alone for hours about nothing. I just don't want to explain to people how I feel. Have you ever felt so incredibly in a dark place that you feel it may be contagious. Like I feel that I am going to drain the happiness from others around me. When people ask me to tell them how I feel, sometimes I want to cry because I feel like I am going to drain their happiness with my sadness. It's like a black slime that's enveloping me and if I touch others with my sadness then it will envelope them too. I know that isn't true but it's just a feeling. I am trying to work and be a normal person but almost on a daily basis, I think how better I would feel if this feeling would stop. That I can't make this feeling go away and it's just a feeling that I always have. A feeling of loneliness even with people around. A feeling of sadness even though I have nothing to be sad about besides normal stresses. It's like constantly feeling sadness and you can't stop it. It's always there. Always on my back. Like a weight that I can't shake. I'm sorry if I cant explain better.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of being a burden to others due to the poster's sadness, and the fear that sharing their feelings may drain the happiness from those around them.
+

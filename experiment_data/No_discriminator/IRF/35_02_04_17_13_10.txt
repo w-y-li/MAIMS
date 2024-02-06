@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  My girlfriend has depression and I don't know how to deal with it. She becomes sad for no reason, and I didn't know at first, for some reason I thought it was just normal (you know, uhh, girls) so I even felt annoyed (now I feel really bad and guilty though. No need to bash me, internet). But then it gets worse. She says feels like a  piece of shit . That she's worthless and stuff. I didn't know she felt like that because apparently, she was afraid that I would think she was crazy. Any help please?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Not at all true for me###In the post, I mention that my girlfriend feels like a piece of shit and that she thinks she's worthless. This indicates that she has low self-esteem and negative thoughts about herself. However, there is no mention or indication that I feel the same way about myself or believe that others would be better off without me. Therefore, the answer to Question 1 is 'Not at all true for me'."])
+('2', ['not_mention', "Doesn't mention at all.###There is no mention or indication in the post that the people in my life would be happier without me. Therefore, the answer to Question 2 is 'Doesn't mention at all'."])
+('3', ['directly_mention', 'Not at all true for me###The post mentions that the girlfriend feels like a piece of shit and worthless, but there is no mention or indication that the poster feels like a burden on society.'])
+('4', ['directly_mention', 'Not at all true for me###The post mentions that the girlfriend feels like a piece of shit and worthless, but there is no mention or indication that the poster thinks their death would be a relief to the people in their life.'])
+('5', ['directly_mention', "Not at all true for me.###I didn't say anything about feeling like people in my life wish they could be rid of me."])
+('6', ['indirectly_mention', "Somewhat true for me.###I mentioned that my girlfriend feels like a piece of shit and that she thinks she's worthless. This suggests that she may feel like she's a burden or that she's making things worse for the people in her life."])
+('7', ['indirectly_mention', 'Somewhat true for me###The post mentions that my girlfriend has depression and feels worthless. This suggests that she may be struggling with feelings of not being cared about by others, which could lead to a somewhat true rating for Question 7.'])
+('8', ['indirectly_mention', "Not at all true###The post mentions that my girlfriend feels like a piece of shit and that she's worthless. These negative thoughts and feelings about herself may lead her to feel like she doesn't belong or fit in, resulting in a not at all true rating for Question 8."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to interacting with people who care about me."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information about having caring and supportive friends."])
+('11', ['indirectly_mention', 'Very true for me###The post mentions that my girlfriend has depression and feels like a piece of shit. This indicates that she might be feeling disconnected from other people and like an outsider in social gatherings, which suggests that these statements are very true for me.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any information or hint about feeling disconnected from other people or like an outsider in social gatherings. Therefore, it doesn't mention this question at all."])
+('13', ['directly_mention', "Not at all true for me###The post states that the person feels like they don't know how to deal with their girlfriend's depression and they are seeking help. This suggests that they don't feel they have people to turn to in times of need."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the person's closeness to other people, so it cannot be determined."])
+('15', ['directly_mention', "Not at all true for me.###In the post, I mentioned that my girlfriend feels like a piece of shit and thinks she's worthless. This suggests that she has low self-esteem and does not perceive herself positively, which contradicts the idea of having satisfying interactions."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the girlfriend feels like a burden and believes that she makes things worse for the poster. These thoughts align with the concept of perceived burdensomeness, which is a risk factor for various mental health problems, including depression.
+

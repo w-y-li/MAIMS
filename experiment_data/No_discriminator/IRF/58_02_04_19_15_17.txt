@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  In this world full of wifi connection, human connection seems obsolete. I feel so alone. It's a cliche feeling, I know. Me against the world and nobody is on my side. The world is winning, etc. But I just feel so down. So so so depressed. I told myself that this 2018 I will embrace what is real - real people, real words, real friends. And then I realized everyone around me is fake. I envy those people who have friends who stick with them whatever happens. I wonder if I could still find real friends nowadays. Just one real friend would be nice. Just so I don't feel this way anymore. Some will say this too shall pass but it has been weeks and it ain't done yet.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The post mentions feeling alone and depressed, but there is no indication that the poster believes their loved ones would be better off or happier without them.'])
+('2', ['directly_mention', 'Not at all true for me###The post mentions feeling envious of those with supportive friends, but there is no indication that the poster believes their loved ones would be happier without them.'])
+('3', ['indirectly_mention', "Somewhat true for me###The post mentions feeling alone, depressed, and envying those who have friends who stick with them. These feelings could imply a sense of being a burden on society and thinking that one's death would be a relief to others in their life."])
+('4', ['directly_mention', "Very true for me###The post explicitly mentions feeling so down and depressed, which suggests that the idea of death being a relief to the people in the poster's life is very true for them."])
+('5', ['directly_mention', 'Very true for me###The post mentions feeling alone and depressed, and the person expresses that they feel like nobody is on their side. This suggests that they believe that the people in their life wish they could be rid of them.'])
+('6', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling alone and depressed, and the person expresses that they feel like everyone around them is fake. This could imply that they feel they make things worse for the people in their life, although it is not directly stated.'])
+('7', ['indirectly_mention', 'Not at all true for me###The post mentions feeling alone, depressed, and envying those with real friends. These statements suggest that the person may not feel cared for or supported by others.'])
+('8', ['indirectly_mention', 'Not at all true for me###The post mentions feeling alone, depressed, and envious of others who have real friends. These statements suggest that the person may not feel like they belong or fit in with others.'])
+('9', ['directly_mention', 'Very true for me###The post explicitly states that everyone around me is fake, indicating a lack of genuine and caring friends.'])
+('10', ['indirectly_mention', "Not at all true for me###The post conveys feelings of loneliness and the desire for real friends. The statement 'I wonder if I could still find real friends nowadays' suggests a lack of interaction with caring people."])
+('11', ['directly_mention', 'Very true for me###I specifically mentioned feeling disconnected from other people in my post.'])
+('12', ['directly_mention', 'Very true for me###I specifically mentioned feeling like an outsider in social gatherings in my post.'])
+('13', ['indirectly_mention', "Somewhat true for me###I mentioned that I feel so alone and I envy those with real friends, which implies that I currently don't have people I can turn to in times of need. However, I didn't explicitly state how true this is for me right now."])
+('14', ['indirectly_mention', "Not at all true for me###I mentioned feeling alone and realizing that everyone around me is fake. This suggests that I am not close to other people at the moment. However, I didn't directly state the level of closeness."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having satisfying interactions on a daily basis."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness, isolation, and a lack of genuine connections with others. The poster expresses envy towards those who have friends who stick by them and wonders if they can find real friends. The feelings of disconnection, burden, and believing that others would be better off without them suggest a risk of thwarted belongingness.
+

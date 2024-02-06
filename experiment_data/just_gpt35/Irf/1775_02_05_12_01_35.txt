@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I'm 14 and I've been depressed since my dad died when I was 11 I've never had friends I'm unattractive never even hugged a girl I've been bullied since the 4th grade and to top it off my will probably send me to a military school I don't know what to do  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation, hopelessness, and potential thoughts of being a burden to others due to the individual's experiences of depression, lack of social connections, and being bullied.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  All day I feel overwhelmingly hopeless. The idea of doing this for even 20 more years is terrifying. Im going to be alone forever. Im going to keep making people's lives worse. Im going to keep failing at everything I do. Im ready to go. Im ready to jump off a building.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of being alone forever, making people's lives worse, and failing at everything, which indicates a sense of social disconnection and thwarted belongingness.
+

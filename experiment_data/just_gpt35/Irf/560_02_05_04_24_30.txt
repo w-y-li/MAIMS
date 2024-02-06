@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I go back to school tomorrow, I absolutely hate my school but it‚Äôs my last semester before I graduate out of high school. My anxiety is really high right now and I‚Äôve had 1 panic attack, what should I do?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of dread and dislike towards school, which implies a potential lack of belongingness in that environment. Additionally, the mention of high anxiety and panic attacks further suggests a feeling of disconnect or isolation, contributing to the risk of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Today I was sulking around because I really wanted ramen but if course, since it's New Year's Day, nothing is open. I was already hangry, had made myself some chicken in the oven, but set the heat too low, so it came out frozen. I was fumed and was ready to cry because I was so hungry and just really wanted some ramen. And, because all we've been doing this weekend is going to parties, we didn't have food at home. My mom was really annoyed that I was sulking and she asked me why I was feeling the way I was feeling. I just told her that I felt I was a 5 year old that wasn't getting their favourite food for dinner and that I'll be fine after I finish being sad. And then she said  well maybe if you stopped sulking so much you wouldn't have depression.  after that I told her to fuck off and that what she said was an insensitive thing to say to anyone who was depressed and that she was lucky I'm not suicidal. I'm trying to let go of this situation now. Trying to cheer myself up by watching some Graham Norton, which usually works, but now there's this huge tightness in my chest and I can't breathe properly. My mom has always been, and for as long as she doesn't open her mind up a little bit, she will always be the most frustrating person to talk to about my depression. I'm so happy I'm seeing a therapist, because in all honesty, I have no one to talk to who will understand without being frustrated.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate any explicit expression or indication of perceived burdensomeness. The individual primarily expresses frustration, sadness, and difficulty in finding emotional support from their mother, but there is no direct reference to feeling like a burden on others.
+

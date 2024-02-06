@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I'm sure most of you have annoyingly been told to exercise because it releases feel good endorphins. It's unhelpful because some of us are gym-phobic or don't have the energy or will power to exercise at home. I just don't get much from typical physical workouts... But I realised that it's important for our mental well-being to do some form of activity. So I decided to join a bellydance class - a hobby that will keep me fit but also be enjoyable, since I loved dancing when I was child. I think we should all try to find a hobby to distract ourselves from our low moods and if we get really good at it, who knows, maybe we could enter competitions or make money from doing it on the side. But the most important part is to see what good we can get from it mentally and the distraction it brings. Remember achievement of any form is important for improving our already shattered self-esteem.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of thwarted belongingness because the poster is actively seeking out a hobby, joining a bellydance class, and expressing the importance of finding activities that bring enjoyment and distraction from low moods. This demonstrates a proactive approach towards improving mental well-being and connecting with others through a shared interest.
+

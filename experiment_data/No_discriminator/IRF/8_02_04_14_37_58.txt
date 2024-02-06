@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Help? I'm just feeling really shitty at how I seem to have spent the majority of my time recently lying around not doing anything, letting my room and shit get into a mess and just been consumed by negative thoughts. I'm also worse at a particular time of day. Like I've barely done anything productive this month and I hate myself for it, and I hate the fact I can't try hard enough/be bothered to help myself out of this. Some days are better than others, yes, but at the end of the day I just can't do it. I'm 17 and wasting my fucking life being lazy and doing nothing, the new year has made me realise. I want to make resolutions but I know I can't keep them so I'm not bothering. Any help/advice??  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The post mentions feeling consumed by negative thoughts and hating oneself for not being able to help themselves. These thoughts reflect a sense of low self-worth and self-blame. However, the poster does not mention anything about others being better off or happier without them.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication related to the question of whether the people in the poster's life would be better off or happier without them."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like a burden on oneself and expressing self-hatred for not being productive, which can suggest feeling like a burden on society as well. However, the post does not explicitly state this belief, hence indirectly mentioning it.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the relief of death for people in the poster's life. Hence, the post does not mention this question at all."])
+('5', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to this question. There is no information provided that can help me answer it."])
+('6', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to this question. There is no information provided that can help me answer it."])
+('7', ['indirectly_mention', "Somewhat true for me###The post mentions feeling consumed by negative thoughts and hating oneself for not being productive. These statements suggest that the person may be experiencing low self-esteem and potentially feeling unsupported by others, which is reflected in the response 'Somewhat true for me'."])
+('8', ['indirectly_mention', "Not at all true for me###The post mentions feeling like they are wasting their life and being lazy. These statements indicate a lack of a sense of belonging or connection with others, which aligns with the response 'Not at all true for me'."])
+('9', ['directly_mention', 'Very true for me###I mentioned that I rarely interact with people who care about me. This implies that I have very few caring friends or family members around me.'])
+('10', ['indirectly_mention', "Somewhat true for me###Although I didn't directly mention having many caring and supportive friends, I did mention feeling consumed by negative thoughts and not being able to help myself out of this situation. This suggests that I may not have a strong support system and may not be fortunate to have many caring friends."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling disconnected and consumed by negative thoughts, which suggests a potential feeling of disconnectedness from other people.'])
+('12', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like an outsider in social gatherings, as the poster talks about feeling disconnected and not being able to participate in social activities due to their negative thoughts and lack of motivation.'])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling consumed by negative thoughts and feeling unable to help myself out of this. This suggests that I may be feeling isolated and not having people to turn to in times of need. Therefore, it is somewhat true for me.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to being close to other people, so it doesn't mention this question."])
+('15', ['indirectly_mention', 'Not at all true for me###The post mentions that the poster has been consumed by negative thoughts and feels shitty. This suggests a lack of satisfying interactions.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation, disconnection, and a lack of social support. The poster expresses a belief that they are a burden on society and that they rarely interact with people who care about them. These thoughts and feelings suggest a strong possibility of thwarted belongingness.
+

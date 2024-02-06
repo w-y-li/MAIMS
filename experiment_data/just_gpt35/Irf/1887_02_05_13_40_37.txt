@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I‚Äôm just another one of those people who are miserable as fuck on New Years no big deal. Whatever I was alone all of 2017 so it won‚Äôt make a difference if it‚Äôs another year. Another year of pain and shit incoming.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a negative perception of oneself and a belief that they are a burden to others due to their unhappiness and loneliness. This reflects a risk of perceived burdensomeness.
+

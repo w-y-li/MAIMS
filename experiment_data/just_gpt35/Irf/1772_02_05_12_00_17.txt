@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I think im going insane, I feel so lonely, all I want is my friend  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of loneliness and a desire for companionship, suggesting a potential risk of thwarted belongingness.
+

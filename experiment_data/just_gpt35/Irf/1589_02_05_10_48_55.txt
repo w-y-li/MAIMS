@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I‚Äôm either gonna kill myself then or cut my wrists bad enough I have to be admitted. I‚Äôm a failure at school, I‚Äôm a failure at my job, I‚Äôm a failure at keeping a relationship, I‚Äôm a failure at making friends and I‚Äôm a failure at being my own fucking gender. Everyone hates me and they‚Äôve began to stop hiding it. I know it‚Äôd relieve everyone if I just died. Only question is, how should I do it? Cutting myself hasn‚Äôt worked the other times, so I‚Äôll probably poison myself with carbon monoxide or overdose. I wish I had a reason to stay and I wish I didn‚Äôt have to, but life never gets better and I have to at this point.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a clear indication of feeling like a burden to others. The poster expresses a belief that everyone hates them and that their death would be a relief to everyone. This demonstrates a perception of being burdensome to others.
+

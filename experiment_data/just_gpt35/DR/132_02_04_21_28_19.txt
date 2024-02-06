@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  It's so much easier to fall back in than to fight against it  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The statement suggests feelings of hopelessness, struggle, and the desire to give in rather than fight. These are common symptoms associated with depression.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôve grown disgusted with myself and hating myself. Nothing i can say can seem to right the wrongs i‚Äôve done, and i‚Äôm paying for it now by losing relationships with all the ones i love. I don‚Äôt see any future where things can be mended. I‚Äôm out of ideas, and don‚Äôt want to go on anymore.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of being excluded and rejected from loved ones, which aligns with the concept of thwarted belongingness.
+

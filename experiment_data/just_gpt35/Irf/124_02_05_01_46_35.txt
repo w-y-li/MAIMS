@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Just curious, as last year I have lost most if not all of my friends and in the New Year even my sibling has told me  I don't want to be around negative people  and proceeded to cut me out in all social platforms and in real life. I just can't help but think that I don't choose to be this way, it's just how I am...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions losing most, if not all, of their friends and being cut out by their sibling. This suggests a lack of social connection and a feeling of being excluded, which aligns with the concept of thwarted belongingness.
+

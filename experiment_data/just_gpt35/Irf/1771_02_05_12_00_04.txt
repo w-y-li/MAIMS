@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  That's all. Nothing has gotten better and I've tried so hard. It's gotten worse and I've been through so much pain I just want it to stop I just don't know why I'm alive I just wish I'd died when I had tried  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of hopelessness, pain, and a desire for the pain to end. The mention of wanting to die implies a potential risk of perceived burdensomeness.
+

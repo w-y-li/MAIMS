@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I literally feel like I'm just waiting to die. I don't see any hope for myself or the future. I've given up on the basic things that most people would say makes life worth living like meaningful relationships, stability, hobbies, and quite frankly, just living. Nothing has any meaning for me any more. I'm just on repeat until the day comes when my body decides it's done trying to keep itself alive. I'm only living so other people don't feel bad about me when I'm gone. What a shitty way to spend the rest of my existence  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions giving up on meaningful relationships and feeling like they are only living for the sake of others. This suggests a lack of belongingness and could indicate risk of thwarted belongingness.
+

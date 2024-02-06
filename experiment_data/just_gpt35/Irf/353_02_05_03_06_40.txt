@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  What do you think about anti depressants? Do they work, are they bs, do they only trick you into feeling better at the beginning? Want to know people's take on meds.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post is asking for opinions on the effectiveness and potential side effects of antidepressants, which does not indicate a risk of perceived burdensomeness.
+

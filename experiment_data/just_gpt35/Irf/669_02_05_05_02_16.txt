@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  So my boyfriend has pretty severe depression. I'm the only person he talks to about it, and it's good that he can at least talk to someone, but I think he should tell his parents so he could try to get professional help. He refuses to talk to anyone but me about it and believes that a therapist can't help him, no matter how hard I've tried to convince him. He also believes taking medicine wouldn't help, even though I have tried to convince him. He is suicidal at least once a day and I'm worried that one day he will just do it. Any ways to help him (I know everyone is different but any general advice) would be appreciated.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the poster's boyfriend has severe depression and is suicidal. The boyfriend refuses to seek professional help and believes that therapy and medication will not help. This resistance to seeking help suggests a risk of perceived burdensomeness, as he may feel that his problems are too great for others to handle or that seeking help would burden others.
+

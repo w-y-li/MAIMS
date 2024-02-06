@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Hi. I don't want to commit suicide, but i am suicide and sensitive. I have social anxiety and i am social akward. I have lived in isolation from the world, i have no friends, bullied at school and work, bad father who beaten me and yelling at me always and now i am 21 i stay at home i am unemployed i dropped from uni. I have never have gf normall for me. I mean i fucked up everything, becouse i am weak i can't fight back. Now to the point i want to run from home tonight even my country Bulgaria, i have no money so i have to live first in forest and then i have to be homeless in another country. I will just disappear. I have no experience in living in forest so probably i will die, but i have to do it becouse here i am dying everyday and at least i will try to survive. And maybe is better for me to live outside of civilization.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation, being bullied, having no friends, and experiencing difficulties in social situations. These factors contribute to a sense of thwarted belongingness, creating a risk for the individual's mental health.
+

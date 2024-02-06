@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I did it bois This time forreal lmfao. I'm happy, laughing and grinning for the first time, genuinely out of happiness and not memes/jokes for like over 9 months. It is kinda sad that I depend so much on other people, but I think my best friend cured my depression. Honestly got in an enlightening convo with him, I feel really really really great!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions being cured of depression by a conversation with their best friend. This suggests that they have been experiencing depression.
+

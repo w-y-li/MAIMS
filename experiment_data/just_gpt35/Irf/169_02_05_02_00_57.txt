@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I wish I knew no one. I wouldn't think twice about it then. I don't want to hurt my family.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The phrase 'I don't want to hurt my family' suggests that the poster may feel like a burden to their family and has concerns about the impact their actions may have on their loved ones. This indicates a potential risk of perceived burdensomeness.
+

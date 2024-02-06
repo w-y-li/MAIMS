@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  All that I've been able to feel is beginning to turn into feeling nothingness. Even when depressed there are still ups and downs but now I am starting to just feel nothing. Blandness. Stale. Everything devoid of any meaning really at all. I'm not suicidal and I don't self-harm. There's just no motivation to accomplish anything and I can't really see the point of anything. I find myself staring at things and thinking about nothing, whereas my mind used to spend a lot of time thinking about everything. Does anyone else feel like this? Sometimes, like now, I realize it's happening and it makes me feel worse to know it's happening but sometimes it really doesn't even bother me because sometimes feeling nothing can be better than feeling anything, ya know? I don't know.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of emptiness and lack of motivation, as well as a sense of detachment from life. This could be indicative of thwarted belongingness, which refers to a perceived lack of social connection or meaningful relationships.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I know that a lot of people say that they lost their younger years to anxiety and depression. There is no doubt that I've definitely lost a lot of years to those same things, but I feel like a large portion of my life has been wasted in school. Of course there is a lot of useful things schools teaches that can be applied in every day life, but school has become the worst part of my day, which is especially troubling since it takes up such a large part of it. And after school, I'm just so drained and it makes me so sad to be alive. You'll probably have it in most school systems regardless of country, but American school are just such a shitty environment for people who have mental issues. How am I even supposed to properly deal with these issues when I'm constantly bombarded with all this schoolwork? How am I supposed to experience life and enjoy it when I'm trapped in an environment that worsens my mental health and anxiety? It's my last year of high school, but I still can't help but feel like I would be happier having dropped out. Realistically, the long term would look worse, but school environments are so toxic a lot of the time. The pressure to conform is just so strong and I don't know how other people feel, but it almost makes me hate being different, it makes me want to be  normal  I'm just venting a little. I don't know if this would really make sense to other people, tbh I'm kinda fucked up mentally right now cause school is a bitch. Thx for reading :)  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post implies feelings of being trapped in a toxic school environment, feeling drained and sad, and expressing a desire to drop out. These thoughts could indicate a sense of perceived burdensomeness, feeling overwhelmed by the demands and pressures of school.
+

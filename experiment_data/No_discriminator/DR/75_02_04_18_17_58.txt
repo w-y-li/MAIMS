@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Do you use nostalgia to escape the present or uncertainty of the future? I have been on a nostalgic trip for awhile and it makes me feel better, but then sad again when I come back to the present. I have had quite an uncertain year since graduating, so maybe it is that quarter-life crisis. Have you been through this phase?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The post mentions feeling sad again when coming back to the present after being on a nostalgic trip, indicating that the poster frequently experiences sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post mentions uncertainty about the future and describes the possibility of having a quarter-life crisis, suggesting a certain level of pessimism about the future.'])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###In the post, I mention having had an uncertain year since graduating and refer to it as a quarter-life crisis. This suggests that I may have experienced some form of failure or dissatisfaction with my current situation, making me feel like I have failed more than others.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###Although I do not explicitly mention a loss of pleasure, I do mention feeling better when engaging in nostalgia but then feeling sad when returning to the present. This could indicate a decrease in enjoyment or pleasure in my current circumstances compared to the past.'])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###The post mentions feeling sad when coming back to the present after experiencing nostalgia. This implies a sense of guilt and the feeling is mentioned as recurring, indicating that the poster feels guilty a good part of the time.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to punishment feelings. There is no information provided that would allow me to deduce the answer to this question."])
+('7', ['indirectly_mention', 'I have lost confidence in myself.###In the post, I mentioned that I have been on a nostalgic trip and it makes me feel better, but then sad again when I come back to the present. This implies that I am not happy with my present situation, which can lead to a loss of confidence in myself.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information that can help me deduce the answer to this question."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes. The focus is on nostalgia and uncertainty in the present and future."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to crying. The focus is on nostalgia and uncertainty in the present and future."])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The post mentions that the poster feels sad when coming back to the present after a nostalgic trip. This suggests that there is a level of dissatisfaction and restlessness in the present moment, indicating a higher level of agitation than usual.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The post mentions that the poster uses nostalgia to escape the present or uncertainty of the future. This implies a decreased interest in the current circumstances or future prospects, indicating a loss of interest in things outside of the nostalgic memories.'])
+('13', ['directly_mention', 'I make decisions about as well as ever.###The post mentions feeling uncertain about the future and having difficulty making decisions, indicating some level of indecisiveness.'])
+('14', ['directly_mention', 'I do not feel I am worthless.###The post does not mention feeling worthless, rather it mentions feeling better when experiencing nostalgia. Thus, I do not consider myself as worthwhile and useful as I used to.'])
+('15', ['indirectly_mention', 'I do not have enough energy to do anything.###The post mentions feeling better during a nostalgic trip but feeling sad again when coming back to the present. This suggests fluctuations in mood and potentially a lack of energy to engage in activities in the present moment.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to changes in sleeping patterns."])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post mentions that the poster feels better when reminiscing, but then becomes sad again when returning to the present. This suggests that the poster experiences emotional fluctuations, which could manifest as irritability.'])
+('18', ['indirectly_mention', "My appetite is somewhat less than usual.###The post indicates that the poster has been going through a nostalgic trip for a while. This suggests a change in emotional state, which may potentially affect appetite. Since the poster doesn't mention a significant decrease in appetite, but only feeling better and then sad, it can be deduced that their appetite is somewhat less than usual."])
+('19', ['indirectly_mention', 'I find I can not concentrate on anything.###In the post, I mentioned that I have been on a nostalgic trip for awhile and it makes me feel better, but then sad again when I come back to the present. This suggests that my mind is not able to stay focused on the present moment for long, indicating difficulty in concentration.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###I mentioned that I have had quite an uncertain year since graduating, which may have led to a quarter-life crisis. This period of uncertainty and questioning can often result in increased tiredness or fatigue, making it difficult for me to engage in activities that used to bring me joy.'])
+('21', ['indirectly_mention', "I have not noticed any recent change in interest in sex.###The post mentions that the person has been feeling nostalgic and sad, but it does not mention anything about their interest in sex. Therefore, I cannot directly answer this question. However, based on the information given, it seems that the person's focus is more on their nostalgic trip and uncertainty about the future rather than their interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the mental scale questions indicate frequent sadness, discouragement about the future, feeling of past failure, loss of pleasure, guilty feelings, loss of confidence in oneself, restlessness, decreased interest in people or things, irritability, difficulty concentrating, tiredness or fatigue. These symptoms are consistent with depression.
+

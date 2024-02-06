@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  So girl I like is very flirty when she's drunk. Actually that's the reason we're not together. She knows that it hurts me and she doesn't wants that. Recently she found someone and thought he was the one, even started to avoid me I'm guessing cuz she didn't want to hurt me. Well he didn't last and was only using her and we started talking again. Last weekend we went out with some friends she got drunk and flirted with some random guy again which it didn't affect me much. When he left she flirted with one of my friends. That actually affected me. The weird part is that she wanted to dance with me but only in private but she has no problem dancing with some guy or even friends. I don't know what that means. Damn it girls are complicated. She keeps treating me different idk if that's good or not. She won't text me but gets offended if I don't text her for long periods. Is she playing with me? Wth is going on? Thanks for reading this long. It sucks being me right now. I've become so confuse and insecure just from one girl.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate a risk of thwarted belongingness. The person is experiencing confusion and insecurity related to their relationship with the girl they like, but there is no explicit mention of feeling disconnected or isolated from others.
+

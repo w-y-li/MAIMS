@@ -1,0 +1,162 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  My friend wants to cut everybody off Hi all. I talked to a friend a few days ago who is going through depression and she told me she wants to cut all of her friends and family off. I am taken aback — we’ve known each other since primary school! I just don’t know what to say. She says it isn’t anything personal and she just wants to end all of her relationships. Has anyone dealt with something similar?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###The post explicitly mentions that the friend is going through depression and wants to cut off everyone, which suggests a feeling of sadness.'])
+('2', ['directly_mention', 'I feel I have nothing to look forward to.###The post mentions that the friend wants to end all of her relationships and expresses uncertainty about what to say. This indicates a sense of pessimism and lack of hope for the future.'])
+('3', ['directly_mention', 'As I look back on my life, all I can see is a lot of failures.###In the post, the friend mentioned that she is going through depression and wants to cut off all her relationships. This indicates that she might be experiencing feelings of failure in her personal life, which is reflected in her desire to end all relationships.'])
+('4', ['directly_mention', "I do not enjoy things as much as I used to.###The friend specifically mentioned that she wants to cut off all her friends and family and end all relationships. This suggests a lack of pleasure or enjoyment in her current situation, which aligns with the option 'I do not enjoy things as much as I used to.'"])
+('5', ['directly_mention', 'I feel guilty all of the time.###The post mentions that my friend is going through depression, which is often associated with feelings of guilt. Therefore, I can conclude that I feel guilty all of the time.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to punishment feelings."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to self-dislike or self-accusations. The poster only mentions their friend wanting to cut off relationships, which does not indicate self-dislike or self-accusations."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to self-dislike or self-accusations. The poster only mentions their friend wanting to cut off relationships, which does not indicate self-dislike or self-accusations."])
+('9', ['directly_mention', 'I do not have any thoughts of killing myself.###The post directly mentions that the friend wants to cut off all relationships, but does not indicate any desire to harm oneself.'])
+('10', ['indirectly_mention', 'I cry more than I used to.###The post mentions that the friend is going through depression and wants to cut off everyone. Depression often manifests as increased levels of sadness, which can lead to increased crying.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to agitation."])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The post mentions that the friend wants to cut off all her friends and family, which indicates a loss of interest in other people.'])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that the friend is going through depression and wants to cut off all relationships, which could indicate a lack of motivation or difficulty in making decisions.'])
+('14', ['indirectly_mention', 'I do not consider myself as worthwhile and useful as I used to.###The post states that the friend is going through depression and wants to end all relationships, suggesting feelings of worthlessness or decreased self-esteem due to depression.'])
+('15', ['indirectly_mention', "I have less energy than I used to have.###The post mentions that the friend is going through depression, which is often associated with a loss of energy. Although it doesn't explicitly state that the poster is experiencing a decrease in energy, it can be inferred based on the context of the friend's depression."])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###The post mentions that the friend is going through depression and wants to cut off all relationships, which suggests distress. Changes in sleeping patterns, such as sleeping less than usual, can be an indicator of distress or depressive symptoms. Therefore, it can be inferred that the poster is experiencing some changes in their sleeping pattern.'])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post mentions that the friend is going through depression, which often involves symptoms of irritability.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions that the friend wants to end all of her relationships, which could indicate a change in appetite as a symptom of depression.'])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###In the post, I mentioned that my friend is going through depression, and she wants to cut all of her friends and family off. This suggests that she may be experiencing difficulties concentrating, as depression often affects cognitive functioning.'])
+('20', ['indirectly_mention', "I am too tired or fatigued to do most of the things I used to do.###The post implies that my friend is going through depression, and she wants to end all of her relationships. Depression often leads to feelings of tiredness or fatigue, which can impact one's ability to engage in activities they used to enjoy."])
+('21', ['indirectly_mention', "I have not noticed any recent change in interest in sex.###Although the post doesn't directly mention anything about sex, it does indicate that the friend is going through depression. Depression can often lead to a decrease in interest in sex. Therefore, I can deduce that the friend's depression might have caused a change in their interest in sex."])
+Do MS Check Record:
+('1', ['Incorrect', "Ensure the emotions you infer are solely about the poster. The sadness mentioned is about the friend, not the poster themselves. Focus on what the social media post reveals directly about the poster's feelings."])
+('2', ['Incorrect', "Avoid overgeneralizing feelings onto the poster. The post indicates confusion about a friend's actions, not necessarily the poster's own pessimism. Consider the explicit content of the post when deducing the poster's perspective."])
+('3', ['Incorrect', "Make sure you are analyzing and answering as the original poster, not the friend mentioned in the post. The original post does not provide information about the poster's own experiences with failure; your role-play should have focused on concern for the friend, not internal feelings of failure."])
+('4', ['Incorrect', "Your answer should represent the original poster's perspective. You should avoid attributing feelings of the friend directly to the poster as there is no evidence that the original poster is experiencing a loss of pleasure themselves."])
+('5', ['Incorrect', "Carefully analyze the content of the post without making assumptions beyond what is given. Do not infer guilt feelings from the poster based on the friend's condition. Focus solely on the information presented about the poster's feelings."])
+('6', ['Correct', 'Continue to answer only based on the information provided. Do not add information or make inferences not supported by the post.'])
+('7', ['Correct', 'Maintain your analytical approach but ensure to consider indirect cues or subtleties that might be related to the construct in question in future tasks.'])
+('8', ['Correct', 'Continue to differentiate between the information about the poster versus others mentioned in the post. However, remain open to exploring indirect information that may suggest self-accusations.'])
+('9', ['Incorrect', "The content of the post is from the perspective of a friend concerned about someone else. Ensure you are responding in the first person from the perspective of the individual, not their friend. Review the post to determine if there is any direct mention or indication of the subject's own feelings or intentions regarding the mental scale question."])
+('10', ['Incorrect', "The post speaks about another person's experience rather than the poster's. Refrain from making inferences about the poster's emotions based on another person's actions or feelings. Focus on what is explicitly stated or can be reasonably deduced about the poster, not their friend."])
+('11', ['Incorrect', 'Review the post thoroughly to find any related cues that pertain to the question about agitation without inferring information not present.'])
+('12', ['Correct', 'Continue to analyze social media posts to deduce mental states like loss of interest, when indirect cues are given.'])
+('13', ['Incorrect', "Base your analysis on the content of the post without making assumptions. The post is about the friend’s experience, not the poster's. Focus on what the poster reveals about their own feelings towards the situation, not on the friend's feelings or behaviors."])
+('14', ['Incorrect', "Do not infer feelings of worthlessness on the poster without explicit information. The post speaks about the friend's desire to cut off relationships, which may not necessarily reflect the poster's sense of self-worth. Answer the question from the poster's perspective, referring only to information the poster provides about themselves."])
+('15', ['Incorrect', "The question is asking about the poster's energy levels, not the friend's. You should only consider the content of the post relating to the poster, not their friend. Avoid assumptions about the poster based on their friend's behavior."])
+('16', ['Incorrect', "The changes in sleeping patterns should reflect the poster's experiences, not the friend's. Do not infer the poster's sleeping pattern from the friend's desire to cut off relationships. Focus on any information provided specifically by or about the poster."])
+('17', ['Incorrect', 'Be cautious not to project symptoms onto the poster. Focus strictly on the content provided and avoid assumptions that go beyond the given information.'])
+('18', ['Incorrect', 'Do not infer details that are not present in the post. Relate only to the explicit context and avoid adding interpretative layers that cannot be substantiated by the post.'])
+('19', ['Incorrect', 'Review the post and assess only the information given about the person who made it. Concentration difficulty was mentioned in relation to the friend, not the poster. Avoid assuming symptoms about individuals not being directly analyzed.'])
+('20', ['Incorrect', "The information provided talks about the friend's experience not the posters. Avoid extrapolating the friend's feelings of depression onto the poster without clear evidence."])
+('21', ['Incorrect', "When assessing the poster’s friend’s situation, it's crucial not to make assumptions about unmentioned aspects, such as changes in interest in sex. Avoid assuming symptoms of depression that are not explicitly stated. Focus on what is presented in the social media post. Stick to information given, and if the post does not provide enough details to answer the question accurately, acknowledge this limitation."])
+
+ITER 1
+Do MS Record:
+('1', ['indirectly_mention', "I feel sad much of the time.###The post mentions that the friend is going through depression and wants to cut off all relationships which implies a significant negative emotional state. Although the sadness is not explicitly stated by the poster, their concern and confusion indicate that they are likely feeling sad much of the time as a result of their friend's situation."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to the poster's outlook or feelings about their own future, it solely focuses on the friend's desire to cut off relationships. Therefore, the question about pessimism is not mentioned in the post."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not provide any information or mention anything about the poster's own feelings of failure."])
+('4', ['indirectly_mention', "I do not enjoy things as much as I used to.###Although the post does not directly mention the loss of pleasure, the friend's statement about wanting to end relationships can be indicative of a decrease in enjoyment from social interactions or activities."])
+('5', ['indirectly_mention', "I feel guilty all of the time.###In the post, the friend mentions that they are taken aback by their friend's desire to cut off all relationships. This suggests that the friend may feel guilty about potentially not being able to help their friend or feeling responsible for the situation."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not provide any information that directly or indirectly mentions the subject having thoughts of killing themselves or any wishes for suicide."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the frequency of crying."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything about agitation."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to indecisiveness. It focuses on the friend's desire to cut off relationships, not the poster's own decision-making abilities."])
+('14', ['indirectly_mention', "I do not consider myself as worthwhile and useful as I used to.###Although the post does not directly mention feelings of worthlessness, it depicts the friend's desire to cut off all relationships. This situation could lead the poster to question their own self-worth and usefulness in terms of maintaining their friendship with their depressed friend."])
+('15', ['directly_mention', "I have not experienced any change in my sleeping pattern.###The post does not mention any changes in the poster's sleeping pattern. It only talks about the friend wanting to cut off relationships."])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the poster's energy levels or whether they have experienced any changes in their energy."])
+('17', ['directly_mention', 'I am no more irritable than usual.###The poster mentions that their friend is going through depression but does not mention anything about being more irritable than usual.'])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in appetite."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the poster's concentration difficulty."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the poster's tiredness or fatigue."])
+('21', ['indirectly_mention', "I have lost interest in sex completely.###The post doesn't directly mention changes in interest in sex. However, the friend is going through depression, which is a mental health condition that can often lead to a loss of interest in activities, including sex. Therefore, based on my knowledge as a psychology expertise, it is possible that the friend may have lost interest in sex completely."])
+Do MS Check Record:
+('1', ['Incorrect', "Review the post to assess if emotional states or feelings are implied by the situation discussed. Consider the impact the friend's depression may have on the poster, and analyze if this could extend to the poster's own emotional state."])
+('2', ['Correct', "When information is not present in the post, it's important to refrain from making inferences that aren't supported. Continue to discern between what is directly related to the question and what requires unjustified speculation."])
+('3', ['Incorrect', "Review the post carefully to differentiate between what is explicitly mentioned and what is inferred. Only provide an answer related to the poster's experiences if the post provides clear information about them. Avoid making assumptions based on what is not provided in the post."])
+('4', ['Incorrect', "Be cautious of over-inference. Base your answers solely on the content provided in the post. When the post discusses someone else's feelings or behaviors, do not extrapolate this information to reflect the poster's feelings or personal experiences unless there is a direct connection stated."])
+('5', ['Incorrect', "Remember to maintain the perspective of the poster and base your responses solely on the content provided. You inferred guilt without evidence from the post itself. Instead, focus on what is explicitly stated or reasonably implied about the poster's feelings."])
+('9', ['Correct', "Good job on not assuming information that wasn't present in the post. Continue to discern when the post doesn't provide enough details to make inferences about specific mental states, such as suicidal thoughts or wishes."])
+('10', ['Correct', 'Good job on recognizing that the post does not mention anything about crying. Remember to consider the context of relationships and mood when inferring emotions, but don’t assume details not presented.'])
+('11', ['Correct', "You've correctly identified that the post does not mention agitation. Continue to differentiate between the information given and avoid making assumptions. Ensure to analyze posts for any indirect cues in the future."])
+('13', ['Correct', 'Ensure that when the post does not explicitly mention a topic, you accurately confirm the absence of that information. This helps maintain objectivity and avoids unwarranted inferences.'])
+('14', ['Incorrect', "Avoid inferential leaps about the poster's personal feelings of worthlessness, especially when the information provided is about another person's experiences or decisions. Keep focus on what the post explicitly states about the poster."])
+('15', ['Incorrect', "Review the original post to discern only the information given about the poster. Do not infer or deduce information not presented. The post discusses the friend's feelings, not the poster's energy levels."])
+('16', ['Correct', "Continue to avoid making assumptions beyond the content of the post. The post does not discuss the poster's sleeping pattern, and therefore it is accurate to state that it was not mentioned."])
+('17', ['Incorrect', "Remember that acting as the poster means setting aside your own interpretations or assumptions that aren't evident in the text. In this case, you should focus on what the post does say about feelings or reactions, not the friend's condition."])
+('18', ['Correct', 'Good job recognizing that the post does not mention changes in appetite. Continue to carefully analyze what is explicitly stated in the post for each question.'])
+('19', ['Incorrect', 'Assess not just explicit statements but also implicit cues; the wish to cut off relationships could stem from various psychological issues, possibly including concentration difficulty.'])
+('20', ['Incorrect', "Consider the broader context of the mental state described; depression is often associated with tiredness or fatigue, which might not be mentioned explicitly but could be an underlying issue for the poster's friend."])
+('21', ['Incorrect', "Do not infer information about the person's interest in sex based only on the mention of depression, as this is an over-generalization. Stick to information provided in the post."])
+
+ITER 2
+Do MS Record:
+('1', ['directly_mention', "I feel sad much of the time###The poster mentions that their friend is going through depression, which can often be associated with feelings of sadness. The poster expresses their surprise and confusion at their friend's desire to cut off relationships, indicating their emotional state of sadness."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not provide any information or implications about the poster's past failures or self-perception as a failure. It solely focuses on the friend's desire to cut off relationships."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to Question 4 - Loss of Pleasure. There is no information provided about the poster's own level of pleasure from things they used to enjoy or any indication of changes in their ability to experience pleasure."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to Question 5 - Guilty Feelings. Although the post discusses the friend's desire to cut off relationships, there is no information provided about the poster's own feelings of guilt in the given situation or any indication of guilt frequency or intensity."])
+('14', ['indirectly_mention', 'I feel more worthless as compared to other people.###The post states that the friend wants to cut off all her friends and family, which can be seen as a rejection of these relationships. This can lead to feelings of worthlessness as the person may believe that they are not valued or worthy of these connections compared to other people.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the poster's personal energy levels. The discussion revolves around the friend's desire to cut off relationships and not the poster's own experiences."])
+('17', ['indirectly_mention', 'I find it hard to keep my mind on anything for very long.###The friend mentions that she wants to cut off all her relationships, which could indicate that she is having difficulty concentrating on maintaining those relationships.'])
+('19', ['not_mention', "Doesn't mention at all.###The friend's post does not mention anything about irritability."])
+('20', ['directly_mention', "I am too tired or fatigued to do most of the things I used to do.###The post mentions that the friend is going through depression and expresses the feeling of being taken aback by the friend's desire to cut off all relationships. Depression often includes symptoms of tiredness or fatigue, which could explain the friend's lack of energy and decreased ability to engage in activities."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not provide any information or cues regarding the friend's interest in sex. There is no mention of any recent changes in this aspect of the friend's life."])
+Do MS Check Record:
+('1', ['Incorrect', "Analyze the text to differentiate your own emotions from the poster's stated feelings. The post discusses the friend's situation, not the poster's feelings. Focus on what the text explicitly mentions about the poster."])
+('3', ['Correct', 'Good job on not inferring beyond the given information. Ensure you maintain focus on what is explicitly stated or clearly implied about the poster, not others mentioned in the post.'])
+('4', ['Correct', 'Ensure to always analyze the information provided and avoid making assumptions about unmentioned topics. Stay objective and answer only what the post reveals.'])
+('5', ['Correct', 'Good job on not inferring emotions that are not explicitly stated in the post. Continue to focus on the content provided and avoid assuming feelings without evidence.'])
+('14', ['Incorrect', "Although the post involves a friend expressing distress, avoid projecting those feelings onto the poster. The task requires acting as the poster, not as the friend. Analyze the post for information pertaining directly to the poster's feelings to answer the question without assuming or inferring emotions that are not explicitly stated."])
+('15', ['Correct', "Good job identifying that the post does not provide information about the poster's own levels of energy. Continue to stay focused on what the post does say, rather than making assumptions about what is not included."])
+('17', ['Incorrect', "Be mindful not to confuse the thoughts and feelings of the poster with those of their friend. The question asks for the poster's perspective; focus solely on information provided by the poster about themselves."])
+('19', ['Incorrect', 'Avoid assuming information that is not present in the post. If the post does not mention a particular trait or behavior directly, do not infer it as a fact.'])
+('20', ['Incorrect', 'Review the post critically to identify emotional states that may imply fatigue without explicit mention; use knowledge of depressive symptoms to inform your inference.'])
+('21', ['Correct', 'Continue to avoid making assumptions when the information is not present; if a question is not addressed by the post, it is accurate to state that it is not mentioned.'])
+
+ITER 3
+Do MS Record:
+('1', ['indirectly_mention', "I feel sad much of the time.###The post mentions that my friend is going through depression, which can typically be characterized by feelings of sadness. Although the post does not explicitly state my own feelings, I can potentially relate to feeling sad because of my friend's situation."])
+('14', ['not_mention', "Doesn't mention at all.###The post focuses on my friend wanting to cut off relationships, but it does not mention anything about my own feelings of worthlessness or how I perceive myself compared to others. There is no information provided to deduce an answer to this question."])
+('17', ['indirectly_mention', "I am more irritable than usual.###The poster mentions being taken aback by their friend's desire to cut off all their friends and family, which suggests that they are experiencing some level of emotional distress or irritability."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the poster's concentration abilities."])
+('20', ['directly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post mentions that the friend is going through depression and wants to cut off all her friends and family. Depression is often associated with symptoms of fatigue and low energy, which may lead to feeling too tired or fatigued to do most of the things one used to do.'])
+Do MS Check Record:
+('1', ['Incorrect', "Consider only the information provided in the post. Avoid assuming your own feelings based on the friend's depression. Focus on what is explicitly mentioned or can be reasonably inferred about you, as the poster, not your friend."])
+('14', ['Correct', "Good job recognizing the boundaries of the information provided. Continue to distinguish between what is explicitly stated about the poster and what is not. Avoid making inferences about the poster's feelings when no evidence is given."])
+('17', ['Incorrect', 'Analyze the content without assuming emotions not explicitly mentioned; the post does not suggest the poster is irritable, only surprised and uncertain about how to respond to their friend.'])
+('19', ['Correct', "Continue to avoid making assumptions beyond the provided text; the post indeed does not mention anything about the poster's concentration difficulties."])
+('20', ['Incorrect', "Carefully distinguish between the poster and the poster's friend. The task requires you to answer as if you're the poster, not the poster's friend who is experiencing depression. Avoid making assumptions about the poster's feelings based on the friend's condition. Analyze the post for information strictly about the poster to inform your role-play response."])
+
+ITER 4
+Do MS Record:
+('1', ['directly_mention', "I feel sad much of the time.###The post states that my friend is going through depression, and her desire to cut off all of her friends and family is a sign of her feeling disconnected and isolated. This suggests that my friend's situation is causing me to feel sad much of the time."])
+('17', ['not_mention', "Doesn't mention at all.###Although the post talks about being taken aback and unsure about what to say, it does not mention anything about me being irritable. Therefore, there is no information in the post that indicates my level of irritability."])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post mentioned that my friend is going through depression, and she wants to cut off all her friends and family. This suggests that she may be experiencing significant exhaustion or fatigue, as it is common for individuals with depression to feel lethargic and lack energy to engage in activities they used to enjoy.'])
+Do MS Check Record:
+('1', ['Incorrect', "You have misinterpreted the post. Your response should reflect only the feelings of the poster, not infer the poster's emotions based on the friend's situation. Stick to what the post reveals about the poster's emotional state."])
+('17', ['Correct', 'Your analysis was accurate as you correctly identified that the poster did not exhibit signs of irritability in the given post. Continue to differentiate between the emotions directly mentioned and those that are not indicated.'])
+('20', ['Incorrect', "Consider the source of the information. The post is about the student's friend and there is no direct mention of the student's own feelings of tiredness or fatigue. Focus on what the post says about the poster's experience, not their friend's, and avoid making inferences about the poster based on the behavior of others."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's friend expressing a desire to cut off all relationships and feeling less interested in people or things is indicative of social isolation and a loss of interest, which are symptoms commonly associated with depression.
+
+Incorrect
+Please ensure to differentiate between the poster and the poster's friend when answering the question. The mental health question explicitly asks about the poster, not their friend. Analyze the data provided in the post and answered questions carefully to determine the mental health of the correct individual. Use evidence solely from the provided material about the person in question, avoiding assumptions or inferences about unmentioned characteristics or issues.
+
+ITER 1
+Yes
+Based on the post and the answered questions, the poster mentions that their friend is going through depression. Additionally, the poster's friend expresses a desire to cut off all relationships and end all connections, which aligns with symptoms of depression.
+
+Incorrect
+Be cautious not to confuse information about the poster's friend with the poster themselves. Analyze the post and related mental health scale answers carefully to assess the mental health of the individual being discussed, in this case, the poster, not their friend. The poster is reporting a secondhand account concerning their friend's mental health, not their own. The evidence provided does not support a diagnosis of depression for the poster. Revise your conclusion based on the actual subject of the inquiry.
+
+ITER 2
+No
+The evidence provided does not support a diagnosis of depression for the poster. Revise your conclusion based on the actual subject of the inquiry.
+
+Correct
+The students have correctly identified that the poster is not the person experiencing symptoms of depression, but rather it's the poster's friend. Avoid making assumptions about the poster based on the friend's experiences and keep the analysis focused on the subject of the assessment.

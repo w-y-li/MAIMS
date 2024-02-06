@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Possibly most of my depression stems from dwelling on things that happened in the past. Things that could have been and should have not. Coming up on my twenty-second birthday, I still dwell on my teen years where things seemed like hell, but as I look back they were the best years of my life.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate a risk of thwarted belongingness. The poster is reflecting on their past and experiencing nostalgia for their teenage years, rather than expressing feelings of social isolation or exclusion.
+

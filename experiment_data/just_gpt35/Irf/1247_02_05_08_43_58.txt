@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  No one has asked me  how are you?  In such a long time that now I have to asked myself very night  how are you?  Just to start crying because I know the answer.... I dont have friends I'm the guy they reach for when they need something...I'm so tired....I'm jealous of some of my friends they go quiet for a day and everyone ask them how they are... but when I do it? Nothing... I'm a person too you know I guess I dont actually have friends.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being taken advantage of and not valued by others. The poster mentions feeling tired and jealous of friends who receive concern and attention from others. These feelings may contribute to a perceived burden on others.
+

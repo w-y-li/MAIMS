@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  2017 was too fast and it makes me so anxious about thinking it, i feel like a loser and it makes me wanna cry. I want to change, change for the best.... but i want to believe and wish 2018 will be a better year for everyone...i wish to everyone here happy new years for every time zone, lets all hope for a nice 2018.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post mentions feeling anxious about the past year and wanting to change for the better, but it does not indicate any feelings of social isolation, loneliness, or a lack of belonging, which are characteristic of thwarted belongingness.
+

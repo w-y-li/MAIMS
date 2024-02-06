@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I was diagnosed with major depression Nov 2015, since then I have found out that I'm allergic to ssris and few other medications. I remember how I was long before I was officially diagnosed with depression and how I was when before I realized the depression symptoms set in before that summer and I honestly think that I will never be that person anymore. Due to some schedule mishaps, I missed taking my meds on a reg day basis and I felt the same off of them as I do on them. I'm back on them to therapeutic level and nothing. I get moments of excitement but they fade away into the background. I can't think of one thing that I'm happy about. The only really thing I care about is my job. That's it. I do it very well. I've been under the care of a psychiatrist for a year now and in therapy for 2 years. Just putting that out there.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'Somewhat true for me###In the post, the poster mentions feeling unhappy and not being able to think of one thing that they are happy about. This suggests that they might feel that the people in their life would be somewhat better off without them.'])
+('2', ['indirectly_mention', 'Not at all true for me###The post emphasizes that the only thing the poster cares about is their job, which suggests that they may not feel that the people in their life would be happier without them.'])
+('3', ['indirectly_mention', 'Not at all true for me###The post mentions that the person cares about their job and does it very well. This suggests that they do not feel like a burden on society.'])
+('4', ['directly_mention', 'Not at all true for me###The post mentions that the only thing they really care about is their job, indicating that they do not believe their death would be a relief to the people in their life.'])
+('5', ['directly_mention', 'Not at all true for me###In the post, I mentioned that the only thing I really care about is my job. This indicates that I still believe I have a positive impact on the people in my life, so the people in my life do not wish they could be rid of me.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information about whether I think I make things worse for the people in my life."])
+('7', ['indirectly_mention', "Very true for me.###In the post, I mentioned that I do not feel happy about anything except for my job. This suggests that I do not feel a sense of belonging or care from other people. Therefore, the answer to the question is 'Very true for me.'"])
+('8', ['indirectly_mention', "Not at all true for me.###In the post, I mentioned that the only thing I care about is my job. This suggests that I do not feel a sense of belonging. Therefore, the answer to the question is 'Not at all true for me.'"])
+('9', ['directly_mention', "Not at all true for me###I mentioned that the only thing I really care about is my job, so I don't interact with people who care about me."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding the number of caring and supportive friends the poster has."])
+('11', ['directly_mention', 'Not at all true for me###The post mentions feeling disconnected from other people and not being able to think of one thing that the poster is happy about. This suggests a lack of connection and joy, indicating that the poster feels disconnected from others.'])
+('12', ['directly_mention', 'Very true for me###The post mentions feeling like an outsider in social gatherings. The poster expresses a lack of excitement and happiness, which can contribute to feeling like an outsider in social situations.'])
+('13', ['directly_mention', "Not at all true for me###In the post, the poster mentioned that they can't think of one thing that they are happy about, and the only thing they care about is their job. This suggests a lack of close connection and support from other people in their life, indicating that there are no people they can turn to in times of need."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any specific information about the poster's closeness to other people, therefore it does not mention whether they are close to other people or not."])
+('15', ['directly_mention', "Not at all true for me###I mentioned that I can't think of one thing that I'm happy about. This implies that I don't have satisfying interactions every day."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to the questions indicate a high risk of perceived burdensomeness. They express feeling disconnected from others, often feeling like an outsider in social gatherings, and rarely interacting with people who care about them. Additionally, they do not feel like they belong and do not have satisfying interactions. These feelings of isolation and lack of support can contribute to a perception of being a burden on others.
+

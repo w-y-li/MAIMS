@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Quick background... 4 year relationship ended about two months ago. Madly depressed because of it. Irresponsible of me to say that I was not taking my antidepressants until recently. But I can feel myself getting worse. Lately i have struggled with holding conversations. Today I could not leave my bed. I have started searching for a therapist. Is my body going to permanently change because of the prolonged severity?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the individual is feeling depressed, struggling with conversations, and unable to leave bed. These symptoms suggest a possible risk of perceived burdensomeness, which is a key factor in understanding suicidality and self-harm.
+

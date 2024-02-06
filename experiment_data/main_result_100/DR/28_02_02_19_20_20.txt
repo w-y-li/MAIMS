@@ -1,0 +1,98 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Do you ever secretly hope you get cancer? Do you ever go to sleep and console yourself with pretty thoughts as you close your eyes Do you ever desperately pray every night to wake up with brain cancer So you can go Peacefully FFS. My wrists are patched today but deep down I know if I really was brave enough I would have gone completely. Now I have to face people wearing the fucking bandages and they will all pretend they didn't notice and it will be fucking awkward And the worst part is I am still here If it was cancer they would cry a bit and buy me a drink and say 'how tragic' when I finally go My heart breaks for all the precious souls trapped in bodies struck by that horrible desease, while my own body stubbornly keeps existing and breathing and providing home for this rotten mind and filthy soul and I feel I've ripped off everyone that could use this body and it's so disgustingly unfair I really, really want to go. But I am a coward and I am trapped.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I am sad much of the time###The post mentions feeling sad and wanting to go peacefully, suggesting a consistent state of sadness.'])
+('2', ['directly_mention', 'I feel discouraged about my future###The post mentions feeling trapped, desperate, and wanting to go, which indicates a sense of discouragement and hopelessness about the future.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not contain any information related to past failure."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not contain any information related to loss of pleasure."])
+('5', ['directly_mention', 'I feel guilty all of the time.###In the post, I mentioned feeling guilty for not being brave enough and not taking more drastic measures to end my life. This indicates that I have a constant feeling of guilt.'])
+('6', ['directly_mention', 'I feel I am being punished.###I mentioned feeling trapped and wanting to go, but being unable to do so. This suggests that I believe I am being punished by being forced to continue living in a state of despair and unhappiness.'])
+('7', ['directly_mention', 'I dislike myself###The post explicitly mentions feeling like a coward, being trapped, and having a rotten mind and filthy soul. These expressions convey strong self-dislike.'])
+('8', ['directly_mention', "I am more self-critical or blaming than usual###The post indicates a sense of guilt and unfairness, stating that the author feels like they've ripped off others by not being able to provide their body for someone who could use it. This implies a tendency to blame oneself for not fulfilling perceived expectations."])
+('9', ['directly_mention', 'I would like to kill myself.###In the post, I mentioned that I desperately pray every night to wake up with brain cancer so that I can go peacefully. This indicates that I have a strong desire to end my life.'])
+('10', ['directly_mention', 'I cry all the time now.###I mentioned that my heart breaks for all the precious souls trapped in bodies struck by that horrible disease. This shows that I am experiencing intense emotional distress and crying all the time.'])
+('11', ['directly_mention', "I am so restless or agitated that I have to keep moving or doing something.###The post mentions feeling restless and agitated, stating that the poster's mind is trapped and they want to go peacefully. This indicates a higher level of agitation than usual."])
+('12', ['directly_mention', 'It is hard to get interested in anything.###The post talks about the poster wanting to go and feeling that their mind and soul are rotten. This suggests a loss of interest in life and other activities.'])
+('13', ['indirectly_mention', 'I have greater difficulty in making decisions than I used to.###In the post, I talk about feeling trapped and being a coward. This suggests that I am having difficulty making decisions and taking action, which implies indecisiveness.'])
+('14', ['directly_mention', "I feel utterly worthless.###In the post, I mention feeling like a rotten mind and filthy soul, and that I've ripped off everyone that could use my body. These expressions of self-disgust and feeling undeserving indicate a sense of worthlessness."])
+('15', ['indirectly_mention', 'I do not have enough energy to do very much.###The post mentions feeling trapped and wanting to go, which suggests a lack of energy to engage in activities.'])
+('16', ['indirectly_mention', 'I wake up 1-2 hours early and can not get back to sleep.###The post mentions having trouble sleeping and praying every night to wake up with brain cancer, indicating a change in sleeping pattern.'])
+('17', ['directly_mention', "I am much more irritable than usual.###The post expresses feelings of irritability by saying 'My wrists are patched today but deep down I know if I really was brave enough I would have gone completely' and 'And the worst part is I am still here'."])
+('18', ['directly_mention', "My appetite is somewhat less than usual.###The post mentions not feeling brave enough to self-harm, which can indicate a decrease in appetite. Additionally, the phrase 'I am trapped' implies feeling stuck and the experience of feeling trapped can impact appetite negatively."])
+('19', ['indirectly_mention', "I find I can not concentrate on anything.###The post mentions that I have a 'rotten mind' and 'filthy soul', which suggests a negative view of oneself. This negative self-perception can often lead to difficulty concentrating."])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post talks about feeling trapped and wanting to go peacefully. These feelings of hopelessness and despair are often associated with experiencing extreme fatigue and lack of energy.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex. It focuses more on feelings of wanting to escape and self-disgust."])
+Do MS Check Record:
+('1', ['Correct', 'Continue to connect the expressions of emotions in the post to the corresponding mental scale questions.'])
+('2', ['Correct', 'Keep identifying emotional states and thoughts that the poster alludes to, without adding assumptions not present in the original post.'])
+('3', ['Incorrect', "Review the post carefully to identify underlying emotions or expressions that may imply past failures. The individual's mention of not being 'brave enough' to go completely and feeling like a 'coward' could suggest feelings of failure."])
+('4', ['Incorrect', "Analyze the tone and content of the post to determine the loss of pleasure. The post's references to wanting to 'go peacefully' and calling life with a 'rotten mind' and 'filthy soul' indicate a significant loss of pleasure and enjoyment in life."])
+('5', ['Correct', 'Ensure to provide specific examples from the post when discussing feelings of guilt as evidence for your analysis.'])
+('6', ['Correct', 'Be cautious not to overextend interpretations beyond what is stated; your deduction about punishment feelings aligns with the content of the post in this instance.'])
+('7', ['Correct', 'Ensure to continue closely analyzing posts, matching the expressed feelings with appropriate psychological terms. Keep recognizing direct indications of self-perception within the text.'])
+('8', ['Correct', 'Good job on identifying expressions of guilt and self-blame in the post. Maintain your focus on specific language the poster uses that indicates self-accusations or criticisms.'])
+('9', ['Correct', 'Ensure that you consistently support your answers with direct evidence from the post. Continue to analyze posts carefully and stay focused on information that is explicitly mentioned.'])
+('10', ['Incorrect', "Avoid making assumptions about the poster's actions (e.g., crying) that aren't directly described in the post. Stick to the evidence provided and be cautious not to infer emotions or behaviors beyond what is explicitly stated."])
+('11', ['Incorrect', "Consider the specific expressions of agitation depicted in the post rather than general restlessness. Assess whether the poster's thoughts denote a physical need to move or a psychological state of unrest."])
+('12', ['Correct', "You identified the loss of interest accurately based on the post's content. Continue to discern such cues in the portrayal of disinterest in life and related activities."])
+('13', ['Correct', "Continue to use quotes from the post to support your inferences about the poster's mental and emotional state as it demonstrates careful analysis of the content."])
+('14', ['Correct', 'Good job on relating specific terms from the post to psychological concepts. Make sure you also consider alternative interpretations and justify why you chose one over the other.'])
+('15', ['Correct', 'Maintain this level of careful reading to infer indirect information reflective of mental states. However, try to provide evidence from the post that more specifically relates to energy levels to strengthen your analysis.'])
+('16', ['Correct', 'Continue to infer psychological states from indirect information. Ensure that your interpretations are directly tied to textual evidence to avoid overgeneralization.'])
+('17', ['Incorrect', 'The post does not directly indicate irritability. Focus on analyzing explicit content or clear implications in the post without assuming or adding emotions that are not specified.'])
+('18', ['Incorrect', 'The post does not provide information about changes in appetite. Avoid inferring specific symptoms like appetite changes unless they are clearly mentioned or strongly implied in the post.'])
+('19', ['Correct', 'Ensure to maintain a balanced perspective by considering alternative explanations for the expressed feelings, to avoid viewing the poster in an overly negative light.'])
+('20', ['Correct', 'Continue to relate the emotional content of the post to potential symptoms such as fatigue, but be cautious not to assume causality where it has not been explicitly stated.'])
+('21', ['Incorrect', "Consider the emotional state described in the post and how it might indirectly affect one's interest in daily activities, including sex. Look for hints of altered behaviors or moods that could influence sexual interest."])
+
+ITER 1
+Do MS Record:
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention or imply anything about past failures."])
+('4', ['indirectly_mention', "I get very little pleasure from the things I used to enjoy.###The post mentions the individual's desire to 'go peacefully' and describes their mind and soul as 'rotten' and 'filthy,' indicating a significant loss of pleasure and enjoyment in life."])
+('10', ['indirectly_mention', 'I cry more than I used to.###The post mentions feeling like a coward and being trapped, which implies emotional distress. Expressing a desire to go, but feeling unable to do so, suggests a high level of unhappiness and frustration. While the post does not explicitly mention crying, the emotional state described indirectly suggests increased crying compared to before.'])
+('11', ['indirectly_mention', "I am so restless or wound up that it's hard to stay still.###The post describes feeling trapped and wanting to go, indicating a high level of distress. The phrases 'rotten mind' and 'filthy soul' suggest a deep inner turmoil. Furthermore, the post mentions feeling like a coward and being trapped, which implies restlessness and agitation. Although the post does not explicitly mention physical restlessness, the psychological state described indirectly suggests heightened agitation."])
+('17', ['not_mention', "Doesn't mention at all.###The post does not mention irritability explicitly or implicitly."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention changes in appetite."])
+('21', ['indirectly_mention', "I have lost interest in sex completely.###The post mentions feeling trapped and having a rotten mind and filthy soul. These negative emotions and thoughts may indirectly affect one's interest in daily activities, including sex."])
+Do MS Check Record:
+('3', ['Incorrect', 'Review the post carefully and identify any emotional states or expressions that might hint at underlying issues such as past failures. Avoid dismissing content too quickly, even if it is not explicitly stated.'])
+('4', ['Correct', "Continue to analyze the implications of the poster's expressions to accurately infer psychological states like loss of pleasure, even when they are not directly mentioned."])
+('10', ['Correct', 'Ensure to continue referencing specific phrases and emotions from the post to support your analysis, as you did correctly with the mention of emotional distress implying increased crying.'])
+('11', ['Correct', 'Keep linking emotional descriptions in the post to psychological states such as agitation. However, be cautious not to overextend inferences without textual evidence.'])
+('17', ['Incorrect', 'Consider the context and implications of the expressed feelings of hopelessness and desire for self-harm, which may suggest a heightened state of emotional distress that can sometimes manifest as irritability.'])
+('18', ['Incorrect', 'Reflect on the emotional tone of the post. The intense negative emotions could imply a potential change in appetite, which is often associated with depression and distress. Avoid making assumptions not supported by evidence, but use your psychological knowledge to inform a more nuanced interpretation.'])
+('21', ['Incorrect', "Review the post for explicit statements relating to the question and avoid assuming details not present. Focus on analyzing the information given without adding personal interpretations or assumptions about the poster's feelings towards unmentioned aspects of life."])
+
+ITER 2
+Do MS Record:
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The post mentions feeling like a failure as a person and having a rotten mind and filthy soul, which suggests a sense of past failure.'])
+('17', ['directly_mention', 'I am much more irritable than usual.###The post expresses feelings of desperation, brokenness, and being trapped, which can be indicators of heightened irritability.'])
+('18', ['directly_mention', "My appetite is much less than before.###The post mentions the poster's desire to not exist and describes feeling trapped. These feelings of hopelessness and desperation can significantly impact one's appetite, leading to a decrease in appetite."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not discuss any changes in interest in sex, therefore it does not provide any information to answer this question."])
+Do MS Check Record:
+('3', ['Correct', 'Ensure that your analysis remains specific to the language used in the original post. Avoid adding interpretations not directly supported by the text.'])
+('17', ['Incorrect', 'Be cautious about inferring emotions like irritability without direct evidence from the post. Focus on identifying explicit statements that would justify such a label.'])
+('18', ['Correct', 'Maintain a careful consideration of the content that is explicitly mentioned in the posts. Ensure that your inferences are supported by the text.'])
+('21', ['Correct', 'Well done on recognizing when the post does not provide information relevant to the question. Continue to avoid making inferences that are not supported by the content.'])
+
+ITER 3
+Do MS Record:
+('17', ['directly_mention', 'I am irritable all the time.###The post mentions feeling irritable and frustrated with having to face people while wearing bandages, suggesting a persistent state of irritability.'])
+Do MS Check Record:
+('17', ['Correct', 'Ensure you continue to anchor your assessments in tangible evidence from the post and avoid making assumptions beyond that.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to the mental scale indicate symptoms of depression, such as sadness, pessimism, guilty feelings, self-dislike, self-accusations, suicidal thoughts or wishes, worthlessness, loss of energy, changes in sleeping pattern, irritability, changes in appetite, concentration difficulty, tiredness or fatigue. These symptoms are consistent with a diagnosis of depression.
+
+Correct
+Ensure to maintain objectivity when interpreting mental health scale results, avoid overgeneralizing symptoms, and base your conclusions on clear evidence and consistent responses on the scale.

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  It‚Äôs just sad that there‚Äôs a bigger chance of me killing myself than things getting better this year.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of hopelessness and despair, suggesting a lack of social connection and support, which aligns with the concept of thwarted belongingness.
+

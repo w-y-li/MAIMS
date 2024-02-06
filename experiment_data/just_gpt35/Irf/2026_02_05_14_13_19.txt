@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  So just sent everyone a New Year snaps, they opened it and no one has wished me back. Sums 2017 &amp; a great start to 2018. Here's to another depressing year!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the poster has sent New Year snaps to everyone but has not received any wishes back. This can indicate a feeling of being left out or rejected, which is a sign of thwarted belongingness.
+

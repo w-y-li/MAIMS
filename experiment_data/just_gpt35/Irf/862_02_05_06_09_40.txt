@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  It used to be something I did once every couple weeks at a party when I was a teen. Now it makes me happy. I love waking up still hungover with brain fog. It gives me this fuzzy feeling I used to feel with my SO. I know it‚Äôs terrible for me. I still work out but that only gives me an hour high. I‚Äôve realized if I‚Äôm sober my thoughts consume me and when I‚Äôm drunk everything‚Äôs ok. My family and friends wonder how I do it but I guess I like the depressing hungover feeling.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a reliance on alcohol to cope with negative emotions and feelings of loneliness or isolation. The individual mentions that being sober leads to consuming thoughts, while being drunk makes everything okay. This pattern of seeking relief from emotional distress through alcohol can indicate a risk of thwarted belongingness, as the person may be using alcohol as a way to temporarily escape or numb their feelings.
+

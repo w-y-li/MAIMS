@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I can‚Äôt do this anymore, after moving to 3 different high schools in my last year of school, two core classes of mine are failing grades (one 20 and one 55) and I don‚Äôt know what to do. Walking the stage doesn‚Äôt even seem appealing to me anymore. All this work I don‚Äôt even understand. I should be studying instead of Reddit but I can‚Äôt even talk to my girlfriend without feeling embarrassed. Idk why this is so much pressure on me, I don‚Äôt even know what to do when I get out of high school. School ends in May and I just don‚Äôt know. We have one quarter left of high school. This is too much and I‚Äôm thinking about things I shouldn‚Äôt think about. But this life shit is too much and I can‚Äôt handle it anymore. I really can‚Äôt. I try and try but nothing clicks. I just can‚Äôt Anymore and I‚Äôm tired of being an disappointment  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of isolation, embarrassment, and being a disappointment, which suggest a lack of belongingness. The poster also mentions thinking about things they shouldn't think about, indicating a potential risk.
+

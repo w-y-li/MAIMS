@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  This is a weird question, but is there someplace I can call and talk to someone before I go? I don't want to be talked out of it. I just want one last, good conversation.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a desire for one last conversation before 'going', indicating a sense of isolation and disconnection, which aligns with the concept of thwarted belongingness.
+

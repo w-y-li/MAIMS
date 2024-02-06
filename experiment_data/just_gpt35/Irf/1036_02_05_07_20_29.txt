@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  No matter what, the nightmares won't stop. Only way to get through things is to focus on getting through another hour. This isn't even living anymore. I'm tired and I want it to stop  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a sense of isolation and a desire for relief from their struggles, indicating a potential risk of thwarted belongingness.
+

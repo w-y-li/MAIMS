@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Hey guys, I've been really distant from people lately, friends and family and everyone really, I've just preferred to be by myself, apart from when I'm with my girlfriend but it's been like this for a few months now. I've gotten inconsistent with training and it's something that I'd usually never skip, I'm very passionate about and I have plenty of motivation for. I procrastinate with college all the time even though I know it'll make life harder for me in the long run and I've left my diet slip. I really want to be the social, healthy, motivated and driven person that I know I can and I used to be, but it almost feels like that person is trapped and being held back inside of me unable to control the me on the outside. I feel lazy and sad and like I'm not a nice person to be around. Maybe these all seem like obvious symptoms of depression, and maybe they seem like they're obviously not symptoms of depression and they're something else, but I just don't know, I'd be really grateful if someone could let me know if they think I should see a doctor about depression or if they think I need to do something else. I don't want to ask people to diagnose me or anything like that, and I really don't want to come across like I think it's that easy to diagnose or anything, I just don't really want to talk to friends and people irl about it, I think I could be more honest here and I think people here could be more understanding and knowledgeable about everything tbh. Thanks a lot guys, it feels nice to be able to get it all out in the open!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being trapped, lazy, and not a nice person to be around. These feelings, along with social withdrawal, inconsistency in daily activities, and a lack of motivation, suggest a risk of perceived burdensomeness, which is often associated with depression.
+

@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  My girlfriend has depression and I don't know how to deal with it. She becomes sad for no reason, and I didn't know at first, for some reason I thought it was just normal (you know, uhh, girls) so I even felt annoyed (now I feel really bad and guilty though. No need to bash me, internet). But then it gets worse. She says feels like a  piece of shit . That she's worthless and stuff. I didn't know she felt like that because apparently, she was afraid that I would think she was crazy. Any help please?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to this question."])
+('2', ['indirectly_mention', 'Somewhat true for me.###Although the post does not explicitly mention this question, the description of feeling like a piece of shit and worthless suggests some level of self-deprecation and low self-esteem, which could indicate that the person may believe others would be better off without them to some extent.'])
+('3', ['directly_mention', "Very true for me###I mentioned that my girlfriend feels like a piece of shit and that she's worthless. These are both indicators of feeling like a burden on society and thinking that my death would be a relief to the people in my life."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication regarding the individual's thoughts on being a burden on society or the relief that their death would bring to others in their life."])
+('5', ['directly_mention', "Not at all true for me###The post mentions that the girlfriend feels like a piece of shit and worthless, but it doesn't mention anything about me making things worse for the people in my life."])
+('6', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to this question."])
+('7', ['directly_mention', 'Not at all true for me.###In the post, I mentioned that my girlfriend feels like a piece of shit and that she feels worthless. This suggests that she may have low self-esteem and does not feel valued or cared for by others, including me.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information that directly relates to feeling like I belong or not."])
+('9', ['indirectly_mention', 'Not at all true for me###The post indirectly mentions that the girlfriend feels worthless and like a piece of shit. This indicates that she may not feel cared for or supported by others, hence suggesting that she rarely interacts with people who care about her.'])
+('10', ['indirectly_mention', 'Not at all true for me###The post indirectly mentions that the girlfriend feels worthless and like a piece of shit. This implies a lack of positive relationships or friendships that could provide care and support, suggesting that she is not fortunate to have many caring and supportive friends.'])
+('11', ['indirectly_mention', 'Very true for me###The post mentions that the girlfriend feels worthless and like a piece of shit. This suggests that she may be feeling disconnected from other people, which could lead to feeling like an outsider in social gatherings.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any information about feeling disconnected from other people or feeling like an outsider in social gatherings."])
+('13', ['indirectly_mention', "Somewhat true for me###The post mentions that the person is seeking help and support for their girlfriend's depression. This implies that the person is open to relying on others in times of need, although it does not specifically state the level of support they currently have."])
+('14', ['indirectly_mention', 'Not at all true for me###The post does not directly mention the closeness to other people. However, the poster describes feeling annoyed initially and feeling guilty afterwards. These emotions might suggest a lack of emotional connection or closeness to others.'])
+('15', ['indirectly_mention', "Somewhat true for me###Based on the post, the person mentions that their girlfriend has depression and that she feels like a piece of shit and worthless. I can infer that this negatively affects their interactions and therefore, they may not have satisfying interactions every day. However, since they don't explicitly mention the frequency of satisfying interactions, I will choose the option 'Somewhat true for me' as a moderate answer."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's girlfriend expresses feelings of worthlessness and being a burden, and is afraid of being seen as crazy. These are indicative of a sense of thwarted belongingness, as she may feel disconnected from others and believe that she is not cared for or supported.
+

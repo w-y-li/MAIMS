@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I've been lying here for hours just doing nothing. I can't go out today because I'm having a chronic illness flare-up. But, I can't seem to find anything to interest me at home, either. All of my hobbies just seem dull. I don't know what to do any more.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and difficulty finding enjoyment or interest in activities, suggesting a potential risk of thwarted belongingness.
+

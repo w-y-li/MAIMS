@@ -1,0 +1,212 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Difference between antidepressent starting side-effects and hypomania? Hey all, So I've read about how SSRIs can send bipolar people who are misdiagnosed with unipolar depression / anxiety into hypomania or mania. I've also read that SSRIs can have activating effects during the start up period (including insomnia, restlessness, distractibility) that sound similar to some of the symptoms of hypomania. So if someone starting and SSRI experiences trouble sleeping, restlessness, increased energy, increased distractibility, periods of euphoria, spends money like it's nothing, increased pressure to talk/sing/dance, increased responses to music and caffeine, starting up old hobbies, etc., how can they know whether it's a combination of start-up side effects of the SSRI + feeling (much) better from the SSRI (or maybe placebo / excitement from doing something about the depression) or an antidepressant-induced hypomanic episode? I know it's a question for a professional but I like to hear experiences also.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###In the post, I mention that I am experiencing symptoms such as trouble sleeping, restlessness, increased energy, increased distractibility, periods of euphoria, spending money excessively, and increased pressure to talk/sing/dance. These symptoms can be indicative of a hypomanic episode, which is often accompanied by mood changes. Feeling sad much of the time aligns with the criteria for depression, which is relevant to the question about sadness.'])
+('2', ['indirectly_mention', "I feel I have nothing to look forward to.###While the post doesn't directly mention feelings of pessimism, it does discuss symptoms that may indicate a hypomanic episode: increased energy, increased distractibility, periods of euphoria, spending money excessively, and increased pressure to talk/sing/dance. These symptoms, along with experiencing depression symptoms, can impact one's perspective on the future and potentially lead to feelings of having nothing to look forward to."])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The post mentions feeling better from the SSRI and excitement from doing something about the depression, which implies a comparison to others and a potential feeling of failure compared to them.'])
+('4', ['directly_mention', 'I do not enjoy things as much as I used to.###The post discusses the possibility of feeling better from the SSRI, which suggests a decrease in enjoyment compared to the past.'])
+('5', ['indirectly_mention', "I feel guilty a good part of the time.###In the post, the person mentions feeling periods of euphoria, spending money like it's nothing, and increased pressure to talk/sing/dance. These symptoms can be indicative of a hypomanic episode, which is often associated with feelings of guilt."])
+('6', ['indirectly_mention', 'I feel I may be punished.###The person describes experiencing increased energy and distractibility, spending money impulsively, and feeling pressured to engage in certain behaviors. These can be indicative of a hypomanic episode which is often associated with feelings of being punished.'])
+('7', ['indirectly_mention', "I feel the same about myself as ever.###In the post, I mentioned that I am feeling much better after starting the SSRI. This implies that I don't have any change in my self-liking or self-dislike."])
+('8', ['indirectly_mention', "I do not criticize or blame myself more than usual.###The post doesn't specifically mention self-accusations, but it does talk about feeling better and being excited about doing something about the depression. This suggests that I do not have an increase in self-blaming or self-criticism."])
+('9', ['not_mention', "Doesn't mention at all.###"])
+('10', ['not_mention', "Doesn't mention at all.###"])
+('11', ['indirectly_mention', 'I am so restless or agitated that I have to keep moving or doing something.###The post mentions that someone starting an SSRI experiences restlessness and increased energy, which could be indicative of feeling more restless or agitated than usual. However, it does not explicitly state that the restlessness or agitation is to the extent that it is hard to stay still.'])
+('12', ['indirectly_mention', 'I have lost most of my interest in other people or things.###The post mentions that someone starting an SSRI experiences periods of euphoria, increased responses to music and caffeine, and starting up old hobbies. These can be indicators of a decreased interest in other people or things, but it does not explicitly state that most interest has been lost.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to indecisiveness."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to worthlessness."])
+('15', ['indirectly_mention', 'I sleep a lot less than usual.###The post mentions that someone starting an SSRI experiences trouble sleeping. Although it does not explicitly state that the person is sleeping a lot less than usual, the mention of sleep difficulties suggests a change in sleeping pattern, indicating that the person may be sleeping a lot less than usual.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to the loss of energy. It does not mention anything about the person's energy level, so I cannot make any deductions or provide an answer based on the content of the post."])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The poster mentions experiencing symptoms such as trouble sleeping, restlessness, and increased energy which align with the symptoms of hypomania. Irritability is a common symptom associated with hypomania, therefore it is reasonable to assume that the poster might be experiencing increased irritability as well.'])
+('18', ['indirectly_mention', "My appetite is somewhat less than usual.###The poster describes experiencing symptoms associated with starting up a new medication, which includes changes in appetite. Although the post does not explicitly mention the specific change in appetite, it is indicated that the poster may have experienced a decrease in appetite since they mention spending money like it's nothing, which suggests decreased interest in food."])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###The post mentions having trouble sleeping, restlessness, increased energy, increased distractibility, which are symptoms of having difficulty concentrating.'])
+('20', ['directly_mention', "I am too tired or fatigued to do most of the things I used to do.###The post mentions experiencing increased energy, spending money like it's nothing, increased pressure to talk/sing/dance, which are symptoms of feeling fatigue and tiredness."])
+('21', ['directly_mention', 'I have not noticed any recent change in interest in sex.###In the post, I mentioned that I am experiencing start-up side effects of the SSRI, such as trouble sleeping, restlessness, and increased energy. However, I did not mention any change in my interest in sex, which suggests that my interest in sex has remained unchanged.'])
+Do MS Check Record:
+('1', ['Incorrect', 'Analyze the content for direct or indirect references to feelings of sadness without making unfounded assumptions. The post mainly discusses symptoms that could be related to hypomania or side-effects of SSRIs, not specific feelings of sadness.'])
+('2', ['Incorrect', 'Avoid inferring pessimism when the post does not provide evidence for it. Focus on observable information in the post relating to mood and thoughts about the future, and do not make assumptions beyond the presented information.'])
+('3', ['Incorrect', 'Do not assume information that is not presented in the post. The post does not mention past failures explicitly; focus on analyzing the text as is, without inferring emotions or experiences not articulated by the original poster.'])
+('4', ['Incorrect', 'While the poster does talk about potential improvements from taking SSRIs, there is no direct mention of a loss of pleasure. Be cautious not to infer a history of symptoms or feelings that the poster has not specifically addressed.'])
+('5', ['Incorrect', 'While the post references periods of euphoria and impulsive behavior, these do not directly indicate feelings of guilt. Avoid over-inference; focus solely on the evidence presented and avoid assuming emotional states not explicitly mentioned. Reflect on how guilt may be expressed or indicated in a social media post and seek those specific cues.'])
+('6', ['Incorrect', "The described behaviors could be interpreted as symptoms of a hypomanic episode, but they don't inherently include feelings of punishment. When acting as the poster, avoid inferring feelings not expressly stated or strongly implied. For more accurate role-playing, it is crucial to base your answers on direct information or clear implications relevant to the post's content."])
+('7', ['Incorrect', 'Focus on direct evidence from the post for self-dislike. Avoid assumptions based on general feelings without specific reference to self-view.'])
+('8', ['Incorrect', 'Do not infer feelings about self-accusations without clear indications from the post. Stick to the provided information and analyze it without adding subjective interpretations.'])
+('9', ['Correct', 'Ensure to pay close attention to the content of the post to determine if it directly references the subject of the question. If it does not, respond accordingly, but remain open to possible implicit cues within the post for future questions.'])
+('10', ['Correct', 'Continue to distinguish between explicit and implicit information in a post. If there is no mention or allusion to the subject, it is appropriate to state that, but be careful not to ignore subtle hints that could suggest an emotional state related to the query.'])
+('11', ['Incorrect', "Examine the post's language carefully to differentiate between a factual description of symptoms and the poster's personal experience. Restlessness is mentioned, but there's no clear indication that it requires constant movement. Refrain from over-interpreting or adding details not provided."])
+('12', ['Incorrect', 'Focus on what is directly communicated in the post. The description indicates an increase in certain activities and interests. Avoid assuming a loss of interest when the evidence points towards renewed or heightened interest in activities.'])
+('13', ['Correct', 'Keep focusing on the explicit content of the posts when determining which emotions or behaviors are not mentioned.'])
+('14', ['Correct', 'Continue to differentiate between what is explicitly stated and what is not. Avoid inferring feelings or states not indicated by the post.'])
+('15', ['Correct', 'Ensure to distinguish between explicit and implicit cues in posts to discern mental states or symptoms.'])
+('16', ['Incorrect', 'Review the post for any symptoms related to the question asked. In this case, trouble sleeping does suggest a change in sleeping patterns.'])
+('17', ['Incorrect', 'Be careful not to infer symptoms that are not explicitly mentioned or directly suggested by the poster. Focus on evidence presented in the post to reason about irritability, avoid assumptions based on related symptoms.'])
+('18', ['Incorrect', 'Do not draw conclusions about changes in appetite from spending behavior alone. If the post does not discuss appetite directly, it is inappropriate to infer changes based on other behaviors. Stay within the scope of provided information.'])
+('19', ['Incorrect', 'Review the symptoms mentioned in the post and relate them to the question accurately. Difficulty concentrating can stem from restlessness and distractibility, but ensure the interpretation aligns with the psychological constructs being measured.'])
+('20', ['Incorrect', 'Analyze the energy-related symptoms correctly. Increased energy and hyperactivity indicate the opposite of tiredness or fatigue. Reassess how the symptoms relate to tiredness, focusing on the presence of any signs of low energy or exhaustion in the post.'])
+('21', ['Incorrect', 'Do not infer or assume information that is not present in the original post. Stick to the evidence provided and make a note when the post does not give enough details to answer the question. In cases where the post does not address the question, it is okay to say that the post does not mention it.'])
+
+ITER 1
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feelings of sadness specifically."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything about thoughts of the future or pessimism."])
+('3', ['directly_mention', 'I do not enjoy things as much as I used to.###The post mentions that the person is experiencing periods of euphoria, increased energy, and increased distractibility. These symptoms are consistent with hypomania, which could lead to a decreased ability to experience pleasure in the same way as before.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any explicit information regarding past failures or the perception of oneself as a failure. It is important to stick to the information provided in the text and avoid making assumptions or inferences."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling guilty."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling punished."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to self-dislike."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to self-accusations."])
+('11', ['indirectly_mention', 'I am so restless or agitated that it is hard to stay still.###The post mentions feeling restless and having trouble sleeping, which are symptoms of agitation. However, it does not specifically state that the restlessness is so severe that it is hard to stay still. Based on the information provided, it can be inferred that the level of restlessness is heightened, but not to the extreme indicated in option 3.'])
+('12', ['indirectly_mention', 'I have not lost interest in other people or activities.###The post discusses the beginning stages of taking an SSRI and the potential side effects, such as increased energy and engagement in various activities. The post does not indicate a loss of interest explicitly. Thus, it can be inferred that there is no loss of interest based on the information provided.'])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###The poster mentions experiencing trouble sleeping, which suggests a change in sleeping patterns. While the exact amount of sleep is not specified, it can be inferred that the poster is sleeping less than usual due to the mentioned insomnia as a side effect of starting SSRI medication.'])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The poster does not explicitly mention irritability but describes symptoms such as restlessness, increased energy, and distractibility. These symptoms can contribute to increased irritability. Additionally, the poster asks if their experiences could be related to an antidepressant-induced hypomanic episode, indicating the possibility of heightened irritability.'])
+('18', ['directly_mention', "My appetite is much less than before.###The post mentions increased energy and spending money like it's nothing, which can suggest a decrease in appetite."])
+('19', ['directly_mention', 'It is hard to keep my mind on anything for very long.###The post mentions symptoms such as increased distractibility, which can indicate difficulty concentrating.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###In the post, the person mentions experiencing troubles sleeping and feeling restless, which are symptoms that can contribute to tiredness or fatigue. Additionally, they express feeling increased energy and distractibility, which contradicts feeling tired or fatigued than usual.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in interest in sex. It focuses more on the side effects of antidepressants and the symptoms associated with hypomania, without addressing changes in sexual interest."])
+Do MS Check Record:
+('1', ['Incorrect', 'While the post does not explicitly mention sadness, the context of discussing antidepressant side-effects and hypomania implies affective disturbances. Consider the implicit emotional state that may lead a person to seek information on these topics.'])
+('2', ['Incorrect', "Pessimism is not directly stated, but a post concerning potential misdiagnosis and the effects of medication can hint at a cautious or concerned outlook on treatment efficacy. Infer cautiously based on context rather than assuming the absence of information means it's not present."])
+('3', ['Incorrect', 'Do not infer feelings of failure unless explicitly mentioned. Focus on analyzing the provided information without adding assumptions.'])
+('4', ['Correct', 'Continue to avoid making inferences that are not supported by the text. Keep sticking to the facts presented.'])
+('5', ['Correct', 'Continue to analyze the content of the posts with precision, focusing on what is explicitly mentioned instead of inferring emotions or experiences not indicated by the poster.'])
+('6', ['Correct', 'Continue being cautious about over-interpreting or inferring emotional states that the poster does not explicitly describe. Stick to the information provided.'])
+('7', ['Incorrect', 'Consider nuances in the post that may imply self-reflection or self-evaluation, which can relate to self-dislike. Analyze if any emotions or behaviors mentioned might indirectly indicate feelings of self-dislike.'])
+('8', ['Incorrect', 'Look for hints of self-evaluation or self-criticism that could be linked to self-accusations, even if not explicitly stated. SSRIs impacting mood could relate to changes in self-perception; consider these nuances.'])
+('11', ['Correct', 'Good analysis linking post content to the concept of agitation. Continue evaluating evidence for symptom severity.'])
+('12', ['Correct', "Good job avoiding over-inference of negative characteristics and correctly inferring the poster's continued interest in activities."])
+('16', ['Correct', 'Continue to make inferences based on indirect information while staying true to the content and implied context of the original post. Be sure to differentiate between symptoms listed by the poster and additional inferred information.'])
+('17', ['Incorrect', 'Do not assume symptoms not mentioned in the post. Although irritability can be a symptom of hypomania, it was not specified by the poster as a symptom they were experiencing. Focus on the information given and avoid overgeneralizing symptoms.'])
+('18', ['Correct', 'Continue analyzing the stated effects in the post to infer related symptoms, such as appetite changes, but remember to always clarify that these are assumptions based on the information available.'])
+('19', ['Correct', 'Your analysis of the symptoms related to concentration is good. Make sure to differentiate between the traits that are being described and additional assumptions. Maintain focus on the explicitly mentioned effects in the post.'])
+('20', ['Incorrect', 'Review the symptoms mentioned in the post carefully and consider both direct and indirect information that could relate to tiredness or fatigue. Avoid assuming symptoms are mutually exclusive and remember to balance all the described effects when inferring potential states like fatigue.'])
+('21', ['Correct', "Continue to differentiate between information that is explicitly mentioned and what is not covered in the post. When a symptom or experience isn't addressed, it's accurate to acknowledge its absence in your response."])
+
+ITER 2
+Do MS Record:
+('1', ['directly_mention', 'I feel discouraged about my future.###The post indirectly mentions pessimism by discussing the potential misdiagnosis and the effects of medication, which can imply a cautious or concerned outlook on treatment efficacy.'])
+('2', ['indirectly_mention', 'I feel sad much of the time.###The post does not explicitly mention sadness, but the context of discussing antidepressant side-effects and hypomania implies affective disturbances. This suggests that the person may be experiencing sadness or emotional distress.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the feeling of failure or past failures."])
+('7', ['indirectly_mention', 'I dislike myself.###The post mentions symptoms such as feeling better, periods of euphoria, and increased responses to music and caffeine, which may indirectly indicate feelings of self-dislike.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything about self-accusations."])
+('17', ['not_mention', "Doesn't mention at all.###The post does not mention anything about irritability."])
+('20', ['directly_mention', "I get more tired or fatigued more easily than usual.###The poster mentions 'trouble sleeping' which can indicate increased tiredness or fatigue."])
+Do MS Check Record:
+('1', ['Incorrect', "Review the post to identify specific evidence of the poster's mood; focus on the expression of feelings and experiences rather than making assumptions about emotional states not clearly expressed."])
+('2', ['Incorrect', "Avoid inferring hidden emotions that are not supported by the post's content; concentrate on the poster's stated concerns and experiences relating to the medication and its effects."])
+('3', ['Incorrect', 'Avoid jumping to conclusions not supported by the text. Past failure is not mentioned or implied in the post. Focus on the symptoms and information explicitly given.'])
+('7', ['Incorrect', 'Refrain from inferring self-dislike when the post describes increased energy and activities which generally indicate positive feelings about oneself. Stick to the content provided without adding assumptions.'])
+('8', ['Correct', "Although the post does not explicitly mention self-accusations, keep in mind to analyze the content thoroughly for any implied information that might relate to the question before concluding it's not mentioned."])
+('17', ['Incorrect', 'Review the post for potential indicators of irritability, such as increased restlessness and pressure to talk, which could be linked to irritability. Ensure to distinguish between the lack of direct mention and possible indirect evidence.'])
+('20', ['Incorrect', "While the post mentions symptoms that may relate to tiredness or fatigue, their specific expression indicates increased energy and activity levels rather than fatigue. Your interpretation contradicts the information given. Please revisit the post and reassess the symptoms described to align your response more accurately with the poster's experience."])
+
+ITER 3
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###In the post, the poster mentions experiencing symptoms of depression, such as trouble sleeping and feeling better after taking the SSRI. These symptoms are consistent with feeling sad much of the time.'])
+('2', ['indirectly_mention', "I feel discouraged about my future.###In the post, the poster talks about their depression and anxiety, and the effects of SSRIs on their mood. Although they don't directly mention feeling discouraged about their future, it can be inferred that their depressive symptoms may contribute to a sense of pessimism and lack of hope for the future."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling like a failure or past failures."])
+('7', ['indirectly_mention', 'I feel the same about myself as ever.###Although the post does not directly mention self-dislike, it does describe symptoms such as spending money, increased euphoria, and increased energy, which may indicate positive feelings about oneself. Therefore, I can deduce that the poster feels the same about themselves as ever.'])
+('17', ['directly_mention', 'I am more irritable than usual.###The post mentions increased restlessness and distractibility, which are potential indicators of irritability.'])
+('20', ['indirectly_mention', 'I am no more tired or fatigued than usual.###Although the post mentions trouble sleeping, increased energy, and increased responses to music and caffeine, all of these symptoms are associated with increased activity levels rather than fatigue. Therefore, it can be inferred that the poster is not experiencing tiredness or fatigue.'])
+Do MS Check Record:
+('1', ['Incorrect', 'Review the post for explicit mentions of sadness before concluding; avoid assuming emotions not specifically stated. Focus on symptoms discussed rather than generalizing a mood.'])
+('2', ['Incorrect', 'Do not infer pessimism without clear evidence in the post. Look for explicit statements about the future before concluding the poster feels discouraged about it.'])
+('3', ['Incorrect', "Review the post again for any implicit signs of perceived failure. If there are no explicit expressions, it's safer to refrain from making assumptions. You have to differentiate between lack of information and inferred information."])
+('7', ['Incorrect', "Avoid conflating the display of certain behaviors such as spending money with self-perception. These activities don't directly equate to self-like or dislike. When the post does not explicitly address self-dislike, refrain from inference and stick to the information given."])
+('17', ['Incorrect', 'Review the post for explicit indications of irritability. The restlessness and distractibility mentioned could lead to irritability but are not the same; refrain from making assumptions not directly supported by the text.'])
+('20', ['Incorrect', 'Consider all symptoms mentioned in the post, including trouble sleeping and increased energy, which could imply less need for sleep rather than a lack of tiredness or fatigue. Avoid making definitive inferences about tiredness or fatigue without clearer evidence.'])
+
+ITER 4
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###Although the post does not explicitly mention sadness, the poster describes experiencing symptoms that can be associated with depression, such as trouble sleeping, increased energy, and spending money excessively. These symptoms can often be accompanied by feelings of sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post does not directly mention pessimism, but the poster expresses concerns about differentiating between side effects of the medication and potential hypomanic episodes. This suggests a level of uncertainty and unease about the future, which can be indicative of pessimism.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling like a failure."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to self-dislike."])
+('17', ['directly_mention', 'I am no more irritable than usual.###The post mentions restlessness, distractibility, and increased responses to music and caffeine, which could potentially lead to irritability. However, there is no indication of being more irritable than usual.'])
+('20', ['indirectly_mention', "I get more tired or fatigued more easily than usual.###The post implies trouble sleeping and increased energy, both of which may result in feeling more tired or fatigued than usual. However, it doesn't explicitly mention whether it is more difficult to engage in previously done activities due to fatigue."])
+Do MS Check Record:
+('1', ['Incorrect', "Look for explicit emotional content in the post: the symptoms described don't necessarily imply sadness without further context; focus on what is present rather than inferred."])
+('2', ['Incorrect', 'Avoid assuming pessimism; uncertainty about medication effects does not equate to a general negative outlook on the future. Seek information directly related to views on the future.'])
+('3', ['Correct', "Good observation on the content not directly mentioning 'Past Failure.' Continue to differentiate between post content and the concepts in the mental scale questions without inferring additional states that are not supported by the text."])
+('7', ['Correct', "Well done on identifying the absence of 'Self-Dislike' in the post. Keep focusing on the information provided, and avoid making assumptions beyond the expressed content."])
+('17', ['Incorrect', 'Consider only the symptoms mentioned in the original post when answering about irritability and avoid assuming absence of symptoms that are not explicitly described.'])
+('20', ['Incorrect', 'Examine the original post for explicit mentions of tiredness or increased energy and base your response only on the information provided without inferring unmentioned symptoms.'])
+
+ITER 5
+Do MS Record:
+('1', ['indirectly_mention', '###The post mentions symptoms of increased energy, periods of euphoria, spending money excessively, and increased responses to music and caffeine, which are consistent with hypomania. However, the post does not directly talk about feeling sad, so I cannot provide a specific answer to this question.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to views on the future or a general negative outlook, so I cannot answer this question specifically."])
+('17', ['directly_mention', 'I am more irritable than usual.###The post mentions experiencing irritability as one of the symptoms: "I\'ve also read that SSRIs can have activating effects during the start-up period (including insomnia, restlessness, distractibility) that sound similar to some of the symptoms of hypomania."'])
+('20', ['directly_mention', 'I get more tired or fatigued more easily than usual.###The post mentions experiencing tiredness or fatigue as one of the symptoms: "So if someone starting an SSRI experiences trouble sleeping, restlessness, increased energy, increased distractibility, periods of euphoria, spends money like it\'s nothing, increased pressure to talk/sing/dance, increased responses to music and caffeine, starting up old hobbies, etc."'])
+Do MS Check Record:
+('1', ['Incorrect', "Avoid omitting possible relevant content from the post when it relates to the mental scale question. The mention of euphoria could imply a lack of sadness, so you should consider it when assessing the poster's feelings."])
+('2', ['Correct', 'Continue to carefully analyze the post and do not infer information that is not present. You correctly did not attribute pessimism to the poster without evidence from the post.'])
+('17', ['Incorrect', 'Review the post for explicit statements about irritability and avoid assuming symptoms not explicitly mentioned.'])
+('20', ['Incorrect', 'Analyze the post for direct references to fatigue, as increased energy and restlessness are not equivalent to tiredness or fatigue.'])
+
+ITER 6
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The post mentions feeling better from the SSRI and placebo/excitement from doing something about the depression, which indicates that the poster was experiencing sadness prior to starting the SSRI. The mention of euphoria may imply a lack of sadness as well.'])
+('17', ['not_mention', "Doesn't mention at all.###The post does not mention irritability explicitly, so I cannot provide an answer based on the information given."])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###In the post, the person mentions experiencing trouble sleeping and increased energy, which are symptoms similar to those of hypomania. However, they also mention feeling tired or fatigued, indicating that they are experiencing a decrease in energy levels. Therefore, they indirectly mention feeling too tired or fatigued to do most of the things they used to do.'])
+Do MS Check Record:
+('1', ['Correct', 'Ensure to maintain the balance between the observed symptoms and the indicated mood, recognizing the complexity of emotional states.'])
+('17', ['Incorrect', "Avoid making assumptions on unmentioned symptoms; look for subtle cues in the text that may suggest a symptom's presence or absence."])
+('20', ['Incorrect', 'Review the post and identify only the information provided. Do not infer feelings of tiredness or fatigue when the post describes symptoms of increased energy and restlessness, which are contrary to fatigue.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses on the mental scale indicate symptoms of depression, such as feeling sad much of the time, restlessness or agitation, sleeping less than usual, decreased appetite, and difficulty concentrating. These symptoms suggest that the poster may be experiencing depression.
+
+Incorrect
+Avoid overgeneralization based on reported symptoms. Not all symptoms indicate clinical depression, especially when they could be side effects of medication. Review the criteria for depression and differentiate between temporary side effects and sustained mood changes.
+
+ITER 1
+No
+The poster does not report significant symptoms of depression based on the answered questions of the mental scale. While they mention feeling better from the SSRI and experiencing start-up side effects, these symptoms could be a result of the medication and not necessarily indicative of depression. It is important to differentiate between temporary side effects and sustained mood changes to accurately assess for depression.
+
+Incorrect
+Carefully analyze the answered questions from the mental health scale alongside the post. The individual reports feeling sad much of the time, a significant symptom of depression. Agitation, changes in sleep patterns, reduced appetite, and concentration difficulties can also be indicative of depression. Avoid downplaying reported symptoms that align with diagnostic criteria for depression. Even when discussing side effects of SSRIs, it's crucial to consider the overall clinical picture that may suggest a depressive disorder.
+
+ITER 2
+Yes
+The poster reports feeling sad much of the time, which is a significant symptom of depression. They also report symptoms such as agitation, changes in sleep patterns, reduced appetite, and concentration difficulties that align with diagnostic criteria for depression. These symptoms suggest that the poster may be suffering from depression.
+
+Incorrect
+Avoid overgeneralizing based on limited data, and ensure that you are interpreting the information provided without adding assumptions. Concentrate on distinguishing between the symptoms and side effects as mentioned in the post, taking into account that the poster is seeking clarification and not necessarily indicating they have all the symptoms listed. Re-assess considering that some of the behaviors may not directly imply depression and that the poster specifically queried about side effects or potential hypomania. Revisit the diagnostic criteria for depression, as not all symptoms present are indicative of the disorder.
+
+ITER 3
+No
+The poster does not exhibit several key symptoms of depression, such as persistent sadness, loss of pleasure, guilt feelings, self-dislike, self-accusations, or changes in appetite. While the poster mentions some symptoms like restlessness, increased energy, and insomnia, which can occur in depression, these are also side effects associated with starting antidepressant medication. The poster is primarily concerned about distinguishing between the side effects of SSRIs and hypomania, rather than discussing depression symptoms specifically.
+
+Incorrect
+Review the distinguishing features of depressive symptoms and ensure interpretation is based on information provided. Avoid overgeneralizing the absence of certain symptoms as indicative of no depression. Factor in the reported sadness and agitation which may suggest depression, notwithstanding the absence of other symptoms.
+
+ITER 4
+Yes
+Based on the information provided, the poster reports feeling sad much of the time and being restless or agitated, which are common symptoms of depression. Although some questions on the mental scale were not problematic for the poster, the presence of sadness and agitation suggests a possibility of depression.
+
+Incorrect
+Avoid overgeneralizing based on limited symptoms. Analyze the full context and only report findings supported by evidence. Restlessness and sadness on their own are not enough to diagnose depression without considering the full spectrum of the mental health scale and the individual's overall functionality and experiences.
+
+ITER 5
+Yes
+Based on the answers provided, the poster expresses feelings of sadness, restlessness, agitation, decreased sleep, decreased appetite, and difficulty concentrating, which are consistent with symptoms of depression. While some questions were answered without any problem, the presence of multiple symptoms related to depression suggests that the poster may be experiencing depressive symptoms.
+
+Incorrect
+Avoid overgeneralizing from the reported symptoms without considering the broader context and timing. It's essential to discriminate between the effects of starting an antidepressant and the symptoms of a condition like hypomania or depression. Please reassess the evidence and consider alternative explanations for the reported behaviors. Remember to not infer characteristics or diagnoses that are not explicitly supported by the information provided.
+
+ITER 6
+Yes
+Based on the reported symptoms of sadness, restlessness, increased energy, increased distractibility, and decreased need for sleep, along with the indication of feeling better from the SSRIs, it suggests that the poster may be experiencing symptoms of depression. However, further assessment by a professional is necessary for an accurate diagnosis.
+
+Incorrect
+Consider the scale responses provided which suggest no issues with a number of depressive symptoms. Avoid over-inferencing based on limited information about side effects of medication, which may not directly indicate depression. Focus on analyzing the responses to the mental health scale accurately and consider all provided information before forming a conclusion.

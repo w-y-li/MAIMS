@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Bf just told me he feels no connection anymore and that he doesn't think he will ever love me the same again. It doesn't matter how hard I try everything will always end up turning to shit. I just want to crawl in a hole and never come out. He will never understand how much he hurts me with his words. I wish i could feel the sun light hit my face and smile but instead i only want to cry. Im heading for a dark place in my mind tonight.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of hopelessness, worthlessness, and a desire to withdraw from social contact. The individual expresses feeling hurt by their partner's words and describes heading towards a dark place in their mind, suggesting a risk of perceived burdensomeness.
+

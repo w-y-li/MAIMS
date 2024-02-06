@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Well, I had a long winter break that I could have studied in but I didn't and now I have a course final exam in 2 days and I just can't make myself to study. I don't play video games anymore or watch movies or even read books like I used to. I just eat, sleep and listen to music. I don't know what the hell to do. My parents doesn't care about me but will probably be disappointed if I have failed. I never failed but just passed with minimum grades. I only get myself to study before exams by 2-3 hours when I panicking like hell and keep hitting myself. Help please.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feeling overwhelmed, lacking motivation to study, engaging in self-harm behavior, and perceiving a lack of support from their parents. These factors indicate a potential risk of perceived burdensomeness, which is commonly associated with mental health problems such as depression or anxiety.
+

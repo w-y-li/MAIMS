@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Parents divorcing. Grandparents died some time ago. College going shit. Feeling depressed and sad all the time and when i'm talking to my friends about it they seem to ignore it and talk about something else. Please give me one reason not to end it all... :/  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden on others and contemplating suicide as a result. This suggests a high level of perceived burdensomeness, which is a risk factor for suicide.
+

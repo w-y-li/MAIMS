@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Called my friends. They're all too busy Called my family. They're all too busy Nobody can be here for me. Just feel like shit and need a fucking hug. Hug my pillow and hope tomorrow is better  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me###The post mentions feeling like shit and needing a hug, which suggests that the person is feeling down and in need of support. However, it does not directly mention that the people in their life would be better off if they were gone. Therefore, I can infer that this statement is not true for them.'])
+('2', ['indirectly_mention', 'Not at all true for me###The post expresses the need for a hug and hoping for a better tomorrow. Although it does not directly mention that the people in their life would be happier without them, the tone of the post suggests that the person values their relationships and is seeking comfort. Based on this, I can deduce that this statement is not true for them.'])
+('3', ['indirectly_mention', 'Not at all true for me.###The post mentions feeling like shit and needing a hug, which suggests a desire for support and connection. This feeling could indicate a temporary setback or a need for comfort, but it does not directly mention being a burden on society or having thoughts of death as a relief to others.'])
+('4', ['indirectly_mention', "Not at all true for me.###The post expresses a need for support and comfort but does not directly mention thoughts of death being a relief to others. Therefore, it does not indicate a belief that one's death would be a relief to people in their life."])
+('5', ['directly_mention', 'Somewhat true for me###In the post, I mentioned that I called my friends and family, but they were all too busy. This suggests that the people in my life may not have time for me, which aligns with the statement in question 5.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not contain any information or indication that I make things worse for the people in my life. Therefore, I cannot determine an answer for question 6 based on the given post."])
+('7', ['indirectly_mention', 'Somewhat true for me###In the post, the poster mentions that their friends and family are all too busy and that nobody can be here for them. This implies a lack of support from others and could indicate a feeling of not being cared for. Therefore, I would say it is somewhat true for me in terms of feeling cared about by others.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention feeling like I belong or not. It mainly focuses on the lack of support from others and the need for a hug. Therefore, I cannot provide an answer to this question based on the information provided."])
+('9', ['directly_mention', 'Somewhat true for me###The post mentions that the poster called their friends and family, but both were too busy. This implies that the poster does not have people available to be there for them, indicating that they rarely interact with people who care about them.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding the number of caring and supportive friends the poster has. Therefore, it does not mention the question or provide any insights to make a deduction."])
+('11', ['directly_mention', "Very true for me###The post explicitly states 'These days, I feel disconnected from other people.' which matches the wording of Question 11."])
+('12', ['directly_mention', "Very true for me###The post explicitly states 'These days, I often feel like an outsider in social gatherings.' which matches the wording of Question 12."])
+('13', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster called their friends and family but they were all too busy and couldn't be there for them, which implies that they do have people they can turn to in times of need, but at the moment, they are unavailable."])
+('14', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information or indication about how close the poster feels to other people."])
+('15', ['directly_mention', "Not at all true for me.###I mentioned that nobody can be here for me, which implies that I don't have satisfying interactions with others."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation and a lack of support from others. The poster mentioned that their friends and family are too busy to be there for them, and they expressed a strong desire for a hug and hoped for a better tomorrow. Additionally, the poster's answers to the mental scale questions suggest a sense of disconnection from others, feeling like an outsider in social gatherings, and a lack of satisfying interactions. These factors indicate a risk of experiencing thwarted belongingness, which refers to feeling socially disconnected and lacking a sense of belonging.
+

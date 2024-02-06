@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  7 units are ending this week, so I won‚Äôt be nearly suffering as much. Thank God. I‚Äôm so exhausted and energy deprived. I really hope this has been worth it...I‚Äôm transferring to university early in the fall and I‚Äôm terrified of it  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the poster is feeling exhausted and energy deprived, which suggests a lack of motivation and low self-esteem. The statement of hoping if all the effort has been worth it may imply that the poster feels burdened by their current situation and may perceive themselves as a burden to others.
+

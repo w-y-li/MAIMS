@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Im scared that one day I may not be strong enough, not thoughtful enough, not hopeful enough... and end up doing it... you all know that one word, the one that's frightening and unbearable to say or even type. Suicide :(  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of not being strong or thoughtful enough, which may indicate a sense of burden on oneself. The mention of suicide, even in a hesitant manner, suggests a higher risk of perceived burdensomeness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  My friends hype me up so much, and God love 'em for it, but there's just this enormous disconnect between how valuable they I say I am, and the level of value I feel and witness from potential dates and love interests. I don't know why it has to be this way. I don't know why I should be so painfully alone, and feel so unlovable.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of being unlovable and experiencing a disconnect between how the person is valued by friends versus potential dates or love interests. This internal struggle suggests a risk of perceived burdensomeness, where the individual may feel like a burden or believe they impose difficulties on others in relationships.
+

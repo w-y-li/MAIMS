@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Moving back home isn't an option. I won't be able to get and hold a job for much the same reason I can't graduate - an inability to be among others for any notable amount of time. I had hoped to get a stay at home job upon graduating, but without a degree that possibility is closed to me. I have roughly $20k to my name and my expenses are minimal. All I want is to keep to myself and not constantly worry about food and shelter, but I know nothing about essentials such as cooking or apartment searching. Is there any hope that I'm not seeing or do I only have a year left to live?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions having an inability to be among others for any notable amount of time, which suggests a difficulty in forming and maintaining social connections. They also express a desire to keep to themselves and worry about food and shelter, indicating a possible lack of social support and basic needs. These factors contribute to a risk of thwarted belongingness.
+

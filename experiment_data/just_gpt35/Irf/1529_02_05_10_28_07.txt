@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Premise, I have nocturnal enuresis. I'm 17 years old and this condition begins to be the most difficult thing in my life to deal with. Tonight, my parents let me stay at my boyfriend's house as a New Year's gift, so I slept here. I've been finding my bed dry in the morning for a few days, so not wanting to put on a diaper in his house I simply slept in his sleeping bag on the sofa. I fucked up. Though I only slept 2 hours and a half, I managed to wet his sleeping bag, his sofa, and both my pants and my dress. I don't know what to do now, I don't have clean clothes with me, and I know he'll be super mad at me when he wakes up. I hate myself.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of self-hatred and fear of the boyfriend's anger, suggesting a potential risk of perceived burdensomeness.
+

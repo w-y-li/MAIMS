@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Okay honestly I don‚Äôt know what to do with my life anymore. I‚Äôm sitting outside in 10 degree weather with nothing but a light jacket on because I could care less about my health right now. Some days I‚Äôm happy to have a life, I‚Äôm happy to be here. Oh wait...those days are dreams. Every fucking day of my life I go out and put on a fake smile and everyone buys it! No one knows anything about what‚Äôs really going on with me. I just want to die..and I really don‚Äôt know how much longer I can last. I can‚Äôt find my blades, I need something! Something...I know I shouldn‚Äôt hurt myself but what‚Äôs the point anyway. We‚Äôre all gonna die one day, might as well die sooner if it‚Äôs to end misery. Life sucks. And it‚Äôs never gonna get better. At least for me it won‚Äôt, I‚Äôve been hoping and dreaming of a day where I can feel even an ounce of happiness but it doesn‚Äôt ever come. It‚Äôs been a long time since I‚Äôve felt like I deserved what I had. It‚Äôs been a long time since I had a real laugh and actually felt happy. I just..have no one. I‚Äôm alone..I hate myself and everything is so stressful right now. I need a break...I want to run away from everything and just start new. But I don‚Äôt want to hurt anyone..all I do is hurt other people. I enter there lives and it seems like all I do is mess them up. They don‚Äôt think so..they don‚Äôt even know I think so. Everything is just so confusing and I can‚Äôt think or feel right anymore. My thoughts are getting stronger and I don‚Äôt know how much longer I can hold back. I‚Äôm gonna break.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness, isolation, and a lack of belonging. The poster expresses a desire to run away from everything and start anew, possibly due to feeling like they cause harm to others. This suggests a risk of thwarted belongingness, where they feel disconnected from others and experience a lack of fulfilling social connections.
+

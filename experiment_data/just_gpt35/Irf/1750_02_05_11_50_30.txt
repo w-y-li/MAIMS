@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I just want people to enjoy spending time with me, but I'm just a sad sack of shit and always going around being pessimistic and depressed and shit, why would anyone want to be friends with me. All I can do is drain people with my sadness. I'm such a shit friend.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses a strong belief that they are a burden and drain on others due to their sadness and pessimism. This indicates feelings of disconnection and a lack of belongingness in social relationships.
+

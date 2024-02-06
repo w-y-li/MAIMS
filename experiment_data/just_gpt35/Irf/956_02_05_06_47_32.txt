@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Thanks to my academic background and my application I've received multiple unconditional offers to study Psychology and Counselling. However, this past year I've suffered terribly with depression and my life feels like its falling apart. I've lost all interest and motivation for anything. My question is about whether it would be wise to go to University despite suffering with this condition and not knowing when or if it will get better. Should I take some time off to focus on myself? Do I even need it? Am I just a pussy? I don't even know any more.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation, questioning one's worth, and a lack of belonging. The individual feels disconnected and unsure of their place in society, which suggests a risk of thwarted belongingness.
+

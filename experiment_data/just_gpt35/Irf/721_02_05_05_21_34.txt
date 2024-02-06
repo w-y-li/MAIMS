@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I just want god to hear me. I‚Äôve begged for death so many times with no answer that I can‚Äôt possibly believe anyone is out there. I want there to be the possibility of a solution to this pain. I want it to end.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of hopelessness, desperation, and a desire for relief from pain, which are indicative of a potential risk of perceived burdensomeness. The individual expresses a desire for death and a belief that no one is out there to hear their pleas, implying a lack of support and connection, which can contribute to feelings of being a burden to others.
+

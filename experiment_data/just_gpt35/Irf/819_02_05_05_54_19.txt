@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  a few years ago my dog was feeling well ill... i just remember that one night hearing that it had to be put down. and ever since it happened i have been depressed...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that since the dog was put down, the poster has been feeling depressed. This indicates a possible sense of burden or guilt over the decision to euthanize their pet, which can be a risk factor for perceived burdensomeness.
+

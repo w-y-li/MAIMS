@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  This may seem irrelevant to depression but I‚Äôm looking for people who are gamers and have any of the platforms I ask because I‚Äôve been trying to find decent friends and I would like to start trying again I haven‚Äôt had any luck t doesn‚Äôt have to be gaming related just preferred I I just would like to find decent friends  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a desire for connection and the need to find friends. The poster mentions trying to find decent friends and not having any luck so far, which suggests a sense of thwarted belongingness.
+

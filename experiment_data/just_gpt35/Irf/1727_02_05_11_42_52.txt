@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  So I don‚Äôt want to be here anymore but I‚Äôm also too much of a sissy to do anything about it. I‚Äôm just stuck in this shitty fucking limbo. Please help me. I need to either get brave enough to end my life or get brave enough to sort it out.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of helplessness, being stuck, and being a burden to others, which are indicators of perceived burdensomeness.
+

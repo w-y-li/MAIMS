@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Something is seriously wrong with me. I don't open up, I don't reach out to most people, I feel like I want to recoil or die when I'm close to people I drift away with. It really hurts.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of connection and avoidance of reaching out to others, which suggests a potential risk of thwarted belongingness.
+

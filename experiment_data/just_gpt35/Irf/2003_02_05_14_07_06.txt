@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Late thirties here and I have no parents and am for all intents and purposes estranged from my only sibling.... Anyone in the same boat?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate a risk of perceived burdensomeness. It simply mentions being estranged from family members and looking to connect with others in similar situations.
+

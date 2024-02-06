@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  For about a year and a half now, I've been having these really bad headaches that usually last for days. Lately they've even gotten so bad that I've passed out. I've seen doctors about it and none of them could find anything wrong, so I was wondering if it might be part of my depression. Does anyone else have this issue?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions having headaches that last for days and passing out, even after consulting doctors who found nothing wrong. These physical symptoms could be indicators of depression, which is often associated with feelings of isolation and thwarted belongingness.
+

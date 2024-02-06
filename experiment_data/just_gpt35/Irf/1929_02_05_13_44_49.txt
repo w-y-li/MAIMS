@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Sometimes I just cant even. I hate school so much, I hate everything about it. I hate all kinds of work too, I‚Äôm so fucking tired of all off it, having to work hard and try all the time and its still fucking useless, I still cant do jack shit and I‚Äôm a completely useless piece of human garbage. I hate life I wanna fucking die seriously  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post exhibits intense self-deprecating language and expresses feelings of worthlessness and burden to others. The individual states a desire to die, suggesting a perceived burden on themselves and possibly others around them.
+

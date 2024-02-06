@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Forgive me if I sound extremely stupid but I've finally convinced myself after years of ignoring my depression to go see a doctor. I'm confused as to how the process works if a person does get prescribed medication. I know there are tons of different kinds of medication so how does the doctor know which one to prescribe? Do you have a say in which antidepressants you're leaning towards? I know some of them have severe side effects so I'm wondering if after they've talked with you to inspect you if they give you a choice from a list they feel is best or if they usually start you off the bat with one kind of medication without questions asked.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate any risk of thwarted belongingness. The poster is seeking information about the process of getting prescribed medication for depression.
+

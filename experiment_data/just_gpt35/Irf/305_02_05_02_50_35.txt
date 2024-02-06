@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Hey guys, first time playing here, just wanted to get some opinions. I've been on a variety of antidepressants over the years, and it seems that when my medication is not fully working I get this unwell feeling in my stomach. I'm not sad or unhappy, and it isn't emotionally triggered, there is just this awful feeling my stomach. It's not an upset stomach, it just feels unwell, and it changes my mood because it's all I can focus on. I was on Brintellix for a year and was a miracle drug for me after a year of finding a medication that worked. Symptoms then began about 3 months ago in the form of this unwell feeling in my stomach. We increased the dosage and symptoms went way with the change, and that lasted about 3 months until now. I'm now on Effexor wth mixed results after a month and a half. I take 75MG in the morning but the symptoms arise around the early afternoon. Has anyone ever had similar symptoms linked to their depression?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate any risk of perceived burdensomeness. The poster is seeking opinions and sharing their experience with antidepressants and the physical symptom of feeling unwell in their stomach, which they are curious if others have experienced as well.
+

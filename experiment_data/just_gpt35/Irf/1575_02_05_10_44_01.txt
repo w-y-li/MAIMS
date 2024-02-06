@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  It‚Äôs only freshman year and already I‚Äôve been bullied, cut from every team I‚Äôve tried out for, my grades are slowly falling, my homecoming date literally ditched me for another guy, and I‚Äôm being made fun of dating because she‚Äôs only a year younger than me. Why must people so terrible.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a perception of being burdened by negative experiences, such as being bullied, rejected, and made fun of. This suggests a risk of perceived burdensomeness, which can be a factor in various mental health problems such as depression and suicidal ideation.
+

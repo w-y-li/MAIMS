@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Can I trade bodies with a straight white boy. Nobody is into me because I'm black. I'm drunk and done with existing. Maybe I'll just black out and die. That's the dream.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of isolation, rejection, and a desire to change one's identity to fit societal norms. The mention of wanting to 'black out and die' indicates a potential risk of thwarted belongingness.
+

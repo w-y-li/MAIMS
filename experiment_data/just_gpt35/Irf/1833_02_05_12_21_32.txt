@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I am so fucking depressed it‚Äôs like everybody around me gets their shit together everybody eventually seems to get what they want except from me I seem to lose everything that makes me happy I am 22 never had a girlfriend all I ever had gotten from a girl was a kiss and then she dumped me! I hate my life and I can‚Äôt find a job either to have my own apartment I live with my aunt and uncle and hate every second of it I wanna get out and I can‚Äôt afford it I don‚Äôt know what to do I don‚Äôt believe in miracles anymore!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a sense of hopelessness, despair, and feelings of being a burden due to the poster's mention of not being able to find a job, living with their aunt and uncle, and not being able to afford their own apartment.
+

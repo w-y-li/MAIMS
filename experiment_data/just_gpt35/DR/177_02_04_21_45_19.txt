@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  drugs are the only thing that make me feel okay i’ve done everything under the sun to try and help myself. counseling, confiding in anyone who will listen, taken all different types of medication, and the only thing that has ever made me feel okay is not being sober. idc what it is i’ll do it. i fucking hate being sober. i just want to get fucked up and lay in bed and watch shit on my laptop and i literally have no reason to be so depressed but the only thing that helps is drugs. not looking for moral support or anything i just need to vent without being looked down on and judged. thx  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's description of feeling depressed, not finding relief in various attempts at help, and relying on drugs to feel better suggests a likelihood of suffering from depression.
+

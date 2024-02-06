@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  i feel so bland everyday. i don‚Äôt remember what it is like to feel happy. i hear happy people and feel jealous. i hear happy songs and they make me feel down. i told my gf i would change things but i don‚Äôt know how. i feel like i‚Äôm getting closer to the end. help me plz  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of envy towards happy people, difficulty in experiencing happiness, and a sense of hopelessness, which are indicators of thwarted belongingness.
+

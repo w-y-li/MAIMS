@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  My husband and I just had a huge argument and he stormed out. I should be crying or stopping him or something. But I decided to take a handful of benzos instead. Now I just hope I can sleep. I wish I could sleep for the rest of 2017... Happy fucking new year.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement of wanting to sleep for the rest of the year and taking a handful of benzos after a huge argument with their husband indicates a potential risk of perceived burdensomeness. It implies that the poster may be feeling overwhelmed by their current situation and may perceive themselves as a burden to others.
+

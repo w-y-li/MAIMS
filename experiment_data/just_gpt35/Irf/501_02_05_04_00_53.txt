@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  This has been happening to me recently. The dreams are very vivid and it feels like I‚Äôm back in that time. My child years were pretty decent. It feels like I‚Äôm in a different realm/world now because of mental illness which is primarily depression and dissociation.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions experiencing vivid dreams and feeling like they are back in the past. They also mention mental illness including depression and dissociation, which can contribute to feeling like a burden on others.
+

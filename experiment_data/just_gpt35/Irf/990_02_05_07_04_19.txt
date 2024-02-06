@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I literally broke down crying and asked to go home, another nurse was watching me while I was crying saying he wanted to keep me longer, as I kept saying I wanted to go home and He said I was  wasting his time  by making him watch over me while I asked to cry for a while before leaving. I've never been through anything like this especially when in a hospital and when I was so weak and my chest and throat hurting so much from a panic attack. I just wanted to vent, thank you for reading.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and feeling unsupported during a moment of vulnerability. The poster expressed wanting to go home and vent, but another nurse made them feel guilty for needing emotional support, suggesting a risk of thwarted belongingness.
+

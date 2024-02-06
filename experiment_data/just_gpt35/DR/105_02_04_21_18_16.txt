@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Slight ups and massive downs. I get these feelings where I'm able to do things while still having depression then I have these moments where all hits me. Not wanting to get out of bed feeling so negative. It's just something I wish I could just wake up from and realize it was all a dream.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling depressed, not wanting to get out of bed, feeling negative, and wishing they could wake up from it all, suggesting that they are likely experiencing symptoms of depression.
+

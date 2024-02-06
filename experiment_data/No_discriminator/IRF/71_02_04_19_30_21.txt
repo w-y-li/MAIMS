@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I'm new to reddit as of today. Recently, my depression has been super bad and I've been hoping for some other support besides the usual  but your life seems to be going well  and  dont be to hard on yourself  that I get from my parents. I dont really have anyone I feel I can connect to, so hopefully I can find someone here that is going through something similar. The few people ive talked to about it tell me that I have no reason to be sad because Im super high in my class rank, get high grades, got into a college with some big scholarships, and have been first chair hornist in my school band (or they say im just stressed out, which i am, but its just adding to my depression and making me feel even worse). Truth is, I have never really fit in or connected with anyone at school, leaving me with many shallow friendships and no one I feel I can trust. Work isnt any better either. Minimum wage for a shitty retail job and the only coworker who i got close to and who could understand me refuses to talk to me now for literally no reason given. Hell, im only 17 and I already feel stuck in an endless cycle of anger and disappointment that im going to be in stuck in for 2017 and the rest of my fucking life. If anyone is going through even a somewhat similar situation please let me know because i feel so alone with this.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The post mentions feelings of loneliness and lack of connection, but does not express a belief that others would be better off without the poster.'])
+('2', ['directly_mention', 'Not at all true for me###The post mentions feelings of loneliness and lack of connection, but does not express a belief that others would be happier without the poster.'])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like a burden on society and mentions feeling stuck in an endless cycle of anger and disappointment in life. These feelings could indicate a belief that the poster is a burden on society, although it is not explicitly stated.'])
+('4', ['indirectly_mention', 'Not at all true for me###The post mentions feeling alone and feeling like there is no one the poster can trust, but it does not mention anything about the relief of death to the people in their life. Therefore, it is unlikely that the poster believes their death would be a relief to others.'])
+('5', ['directly_mention', 'Not at all true for me###The post suggests that the person feels alone and disconnected from others, but there is no indication that they believe others want to be rid of them.'])
+('6', ['directly_mention', 'Not at all true for me###The post mentions feeling alone and disconnected, but there is no indication that they believe they make things worse for others.'])
+('7', ['indirectly_mention', "Somewhat true for me###The post mentions that the person doesn't have anyone they feel they can connect to and they feel alone, which suggests that they might not feel like other people care about them. However, the post doesn't directly mention the statement, so I can only infer that it is somewhat true for them."])
+('8', ['indirectly_mention', "Not at all true for me###The post mentions that the person has never really fit in or connected with anyone at school, leaving them with shallow friendships and no one they feel they can trust, which suggests that they might not feel like they belong. However, the post doesn't directly mention the statement, so I can only infer that it is not at all true for them."])
+('9', ['indirectly_mention', 'Not at all true for me###The post mentions that the person does not have anyone they feel they can connect to and that they have shallow friendships, indicating a lack of people who care about them.'])
+('10', ['indirectly_mention', 'Not at all true for me###The post mentions that the person feels alone and has no one they can trust, suggesting that they do not have many caring and supportive friends.'])
+('11', ['directly_mention', "Very true for me###I mentioned in my post that I don't feel connected to anyone and that I don't have anyone I feel I can trust. This indicates that I feel disconnected from other people."])
+('12', ['directly_mention', 'Very true for me###I mentioned in my post that I have never really fit in or connected with anyone at school, leaving me with many shallow friendships and no one I feel I can trust. This indicates that I often feel like an outsider in social gatherings.'])
+('13', ['indirectly_mention', "Somewhat true for me###The poster mentions that they don't have anyone they feel they can connect to, which suggests they may not feel that there are people they can turn to in times of need. However, since they express hopes of finding someone here on Reddit, it implies that there is a slight possibility of finding support and hence the answer is 'Somewhat true for me'."])
+('14', ['indirectly_mention', "Not at all true for me###The poster mentions that they have never really fit in or connected with anyone at school, which suggests that they do not feel close to other people. Therefore, the answer is 'Not at all true for me'."])
+('15', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to having satisfying interactions every day."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a strong sense of feeling like a burden to others. The poster mentions feeling disconnected from others, not fitting in, and having shallow friendships. They also express feelings of anger and disappointment, as well as a belief that their death would be a relief to those around them. These thoughts and emotions indicate a risk of perceived burdensomeness.
+

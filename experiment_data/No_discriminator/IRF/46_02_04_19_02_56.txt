@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I've recently started a blog where I'm posting my poetry and other thoughts on depression, anxiety, and life. Does anyone else blog about their depression? This is my blog, feel free to check it out: misunderstoodmammal.com  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me###The poster mentions that they blog about topics like depression and anxiety, indicating that they have personal experience with these issues. This suggests that they may be seeking support or connection from others in the same situation, rather than feeling that they would be better off gone. However, without further explicit information, it is important not to make assumptions about their state of mind.'])
+('2', ['indirectly_mention', 'Not at all true for me###The poster mentions that they blog about depression, which implies that they may be seeking understanding or support from others. This suggests that they are aware of the impact their presence has on the lives of others and are looking for connections with people who can relate to their experiences. However, without explicit information, it is crucial not to make assumptions about their personal relationships and the level of happiness they bring to others.'])
+('3', ['indirectly_mention', 'Somewhat true for me###The poster mentions that they blog about depression, anxiety, and life. This suggests that they may have negative thoughts and emotions, which could include feeling like a burden on society.'])
+('4', ['indirectly_mention', 'Not at all true for me###The post does not specifically mention anything about the relief of others if the poster were to die. However, since the poster is blogging about depression and anxiety, it is possible that they may experience thoughts of being a burden on society. This does not necessarily imply that they think their death would be a relief for others though.'])
+('5', ['indirectly_mention', 'Somewhat true for me###The post mentions that the blogger writes about depression and anxiety on their blog. This suggests that they may have experienced feelings of being a burden to others, which is reflected in the question.'])
+('6', ['indirectly_mention', 'Somewhat true for me###The post mentions that the blogger writes about depression and anxiety on their blog. This suggests that they may have feelings of inadequacy, believing that they make things worse for the people in their life.'])
+('7', ['indirectly_mention', 'Somewhat true for me###Although the post does not directly mention whether other people care about me, the fact that the person is posting their thoughts on depression and anxiety on their blog suggests that they may be seeking support and validation from others. This indicates that they may feel somewhat cared for by others as they open up about their struggles.'])
+('8', ['indirectly_mention', 'Not at all true for me###Although the post does not explicitly mention whether the person feels like they belong, the fact that they are expressing their feelings of depression and anxiety on their blog suggests that they may feel a lack of belonging. Opening up about struggles indicates a disconnect or isolation, which may indicate that they do not feel like they belong.'])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions that the blog is about depression and anxiety, which suggests that the poster may be experiencing these mental health issues. It is possible that the lack of interaction with people who care about them contributes to their depression and anxiety.'])
+('10', ['indirectly_mention', 'Not at all true for me###The post does not directly mention having many caring and supportive friends, but given that the blog content is about depression, anxiety, and life, it is likely that the poster does not currently feel fortunate to have many caring and supportive friends.'])
+('11', ['directly_mention', 'Not at all true for me###The post mentions that the author has recently started a blog where they discuss depression, anxiety, and life. This suggests that they are actively engaging with others and seeking to connect through their blog, indicating that they do not feel disconnected from other people.'])
+('12', ['directly_mention', 'Somewhat true for me###The post does not mention feeling like an outsider in social gatherings. However, given the topic of the blog (depression, anxiety, and life), it is possible that the author experiences some feelings of being an outsider in social gatherings due to their mental health struggles, but to a lesser extent.'])
+('13', ['directly_mention', 'Somewhat true for me###The post mentions that the person is blogging about depression and anxiety, which implies that they may be seeking support from others who can relate to their experiences.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the person's current closeness to other people. It solely focuses on their blog and seeking others who also blog about depression."])
+('15', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person writes about depression and anxiety on their blog. Writing about these topics may provide a sense of relief and understanding, which could contribute to more satisfying interactions.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses on the mental scale indicate feelings of being a burden, thoughts of making things worse for others, feeling disconnected, and a lack of satisfying interactions. These are all indicators of thwarted belongingness, which refers to the perception of not having social connections or feeling like an outsider. The poster's blog about depression and anxiety further suggests a desire for connection and understanding from others who may share similar experiences.
+

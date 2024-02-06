@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  If you guys want the story as to why, there's an earlier post I made about my story. Though not hugely dramatic, it is too much for me to bear. What should I do? I hate myself, I don't have friends anymore and I hate my life. I've just thought about taking a loaded shotgun and ending things just like that, but... I'm afraid to die. What do I do?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of self-hatred, isolation, and a desire to end one's life as a way to escape pain. These thoughts and emotions suggest a potential risk of perceived burdensomeness, which is a key component of suicidal ideation.
+

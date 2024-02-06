@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I sometimes overflood with emotions, i feel more anxious around this time.. its a warning sign to make me aware again of social situations i think. Its just part of who i am. I want to think less negative, and keep structure in my days  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate any signs of thwarted belongingness. Instead, it suggests that the individual experiences anxiety during certain times and has a desire to have more positive thinking and structure in their days.
+

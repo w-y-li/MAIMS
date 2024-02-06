@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  So I always relapse back to depression. I start to feel better overall a d stay away from self destructive things, eat really healthy, and exercise. Then I take being happy for granted, and I just slowly fall back to depression. I dont know how to end the cycle  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling better overall and staying away from self-destructive behaviors when they are actively taking care of their mental health. However, they also express a pattern of relapsing back into depression and not knowing how to break the cycle. This indicates a sense of thwarted belongingness, as they struggle to maintain a consistent state of well-being and feel disconnected from a stable source of support or happiness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Hi, I'm extremely sorry if this isn't allowed but I have gone through depression all my life and this is honestly just a breaking point for me. I'm a 19 year old female going through a really hard 1 sided breakup. We were together for more than a year, I miss him more than you could ever imagine and my emotions are all over the place.. He stole around 300$ from me right before he left and has done so many horrible things but I can't help but love him. I made a few mistakes after he did and he said this was the reason. He wanted to have a friends with benefits relationship right afterwards.. I almost fell for it because I wanted him. I felt empty before and I just feel completely numb and empty now, I don't have 1 second of happiness anymore and I just don't want to live through it. The pain is so fucking BAD. I miss how he made me feel, physically and mentally. I take medication for depression, see a therapist, and have extreme social anxiety. He helped me so much and I have nothing to hold onto anymore. I'm seriously broken. I guess I just want to talk to someone who is going through the same thing so we can go through it together? I don't even know what I'm saying. I don't have many friends I just really.. . really need someone right now. Thanks for reading.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of isolation and desperation for connection with someone who is going through a similar situation, which suggests a possible risk of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I've fucked up a lot. I've ruined every part of my life possible. I've dug this hole, and hit rock bottom, and there is literally no way to fix it. I know people will say it's all fixable, but trust me, it's not. There's too many things wrong. So it's like I -need- to do it because my life will not get better, and even if I want to hang on, there's no point.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the person believes they have ruined every aspect of their life and that there is no way to fix it. They express a need to do something potentially harmful because they feel their life will not get better and there is no point in hanging on. This demonstrates a risk of perceived burdensomeness, as they feel hopeless and believe they are a burden to others.
+

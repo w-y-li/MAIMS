@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I'm fucking miserable right now. Can't sleep at 3 in the morning, going through withdrawal symptoms because I'm trying to diet again but am addicted to junk food, and just frustrated because I can't enjoy anything in life and everything everyone says just sounds like bullshit. If you have advice, fucking keep it to yourself because I've probably heard it a thousand times before. Sorry to be so nasty, but I had to vent at least something.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and frustration with not being able to find enjoyment in life, which may indicate a risk of thwarted belongingness.
+

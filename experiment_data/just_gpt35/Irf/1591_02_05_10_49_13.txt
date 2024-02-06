@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I would like to say that I was shook, but I knew she has the habit of consuming a lot of sleeping pills just for not having to deal with the daily problems... Aside from trying get professional help I dont really know what to do, I feel guilty about this  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions that the person is feeling guilty about the situation which suggests they may perceive themselves as a burden to others.
+

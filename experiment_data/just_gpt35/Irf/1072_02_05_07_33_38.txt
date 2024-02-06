@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôm at the point where I‚Äôm past sadness I just feel empty or hollow. I go through the motions of life everyday but I‚Äôm not present . I‚Äôm supposed to be getting better but I‚Äôm becoming something much worse and I live in my head all the time. I can‚Äôt care about anyone anymore and I certainly don‚Äôt care about myself. I‚Äôm only still alive because I know my family wouldn‚Äôt take it well and it would be selfish of me to put this pain on them. I just dont see the point in trying anymore  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of emptiness, disconnection, and lack of care for oneself and others, which are common symptoms of thwarted belongingness. The poster also mentions considering their family's reaction as a reason for not taking any drastic actions, which highlights the significance of their social connections.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  21. I have several autoimmune disorders (lupus is the main) and have a hard time keeping on weight. I‚Äôm in a lot of pain. I‚Äôm also lonely because I don‚Äôt have any friends except for my fianc√©, but family isn‚Äôt around. I work full time as a valet and go to school full time. Tonight I got hypothermia and frostbite on my left foot at work because I don‚Äôt want to admit I have inabilities in the cold because of the lupus (I have neuropathy and vascular issues). I‚Äôm in so much pain tonight and don‚Äôt know what to do. I hate being in so much pain. I just don‚Äôt have anyone to talk to about this and don‚Äôt want to introduce it to anyone. It hurts me as well as others.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness, pain, and the lack of anyone to talk to about their struggles. This suggests a perceived burden on the individual, as they feel they are unable to share their pain and rely on others for support.
+

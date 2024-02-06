@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Apparently they  reset  a depressed brain by activating certain areas that increase feelings of wellbeing for months. Has anyone ever tried it?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate any risk of perceived burdensomeness. It only mentions a potential treatment for depression and asks if anyone has tried it.
+

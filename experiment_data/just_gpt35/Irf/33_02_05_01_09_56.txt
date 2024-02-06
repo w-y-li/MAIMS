@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Its only been two days and i've fcked up so much already. Two days in and i'm already depressed as fck. I can already feel all the shit coming from this year. I fcking hate myself for being so fcking useless, fcking ugly and a fcking pussy. I want to just fcking disappear but im a fcking pussy and im afraid that even in my deathbed all these fcking people would still look at me with their disgusted fcking eyes.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post implies feelings of being useless, ugly, and a burden to others. The poster expresses a desire to disappear and worries about being perceived negatively by others, suggesting a sense of perceived burdensomeness.
+

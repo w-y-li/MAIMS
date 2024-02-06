@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  On the edge of suicide I can‚Äôt deal with the pain anymore no one fucking likes me and I‚Äôm always nice to them Everythint feels so dry I‚Äôm fucking crying I‚Äôm sorry  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of social rejection and loneliness, with the individual expressing that no one likes them despite being nice to others. This indicates a sense of thwarted belongingness, where the person feels disconnected and excluded from social relationships.
+

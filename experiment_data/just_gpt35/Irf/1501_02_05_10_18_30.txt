@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  You ever break up with your gf cus you want to be independent and you don‚Äôt think you want to be with that person and you feel fine the first month and then after that it hits you that you‚Äôll never be able to hit that ever again or see that body or talk to them every night and you contemplate on how fucking stupid you are to do such a thing and then get depressed and a couple weeks later realize you made the right choice and then the cycle keeps repeating throughout the year  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of perceived burdensomeness. The content of the post mainly indicates psychological distress and indecisiveness related to a break-up, rather than feelings of being a burden on others.
+

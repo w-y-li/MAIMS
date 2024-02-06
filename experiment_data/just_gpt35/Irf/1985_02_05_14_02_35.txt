@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I feel like a lot less bad things would happen to people around me if I wasn‚Äôt around. I feel like a burden. I feel like I just always end up causing bad things to happen to everyone around me, which I try -so- hard to prevent. But even the things that are out of my control, still feel like they wouldn‚Äôt have happened, if I wasn‚Äôt around to cause that string of events to happen. And I always blame myself.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of being a burden and causing bad things to happen to others, indicating a risk of perceived burdensomeness.
+

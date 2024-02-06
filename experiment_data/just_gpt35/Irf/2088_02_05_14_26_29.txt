@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I graduated college this year and thought for sure by now id at least have a start date for a new career. in fact, my temp job laid me off and before then they were cutting my hours. So now im unemployed and have no hopes or a job atm. I have job offers in other states but without funds to get there what good does that do? For the first time in awhile the suicidal thoughts have resurfaced. Anyway, i just wanted to get that out.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling unemployed, hopeless, and having no prospects for a job. They also express that the suicidal thoughts have resurfaced, indicating a sense of disconnect and lack of belongingness.
+

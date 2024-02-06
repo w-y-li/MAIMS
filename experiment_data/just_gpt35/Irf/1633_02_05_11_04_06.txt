@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  and I can't even do that :( It sits just out of reach. I can't force it to happen. I always feel like this.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of helplessness and feeling stuck, which can be indicative of perceived burdensomeness, a risk factor for mental health problems such as depression and suicidal ideation.
+

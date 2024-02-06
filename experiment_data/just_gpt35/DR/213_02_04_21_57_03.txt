@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Ran out of medicine I have less than a dollar to my name until Monday, and my Bupofrin ran out. It's only a day, but fucking keep me in your prayers.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of hopelessness, desperation, and a need for support. The mention of running out of medication and having limited financial resources until Monday suggests a potential struggle with managing their mental health, which could be indicative of depression.
+

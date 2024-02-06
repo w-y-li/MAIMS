@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I hate promises, I hate myself but especially I hate my feelings for believing that people stay,  THEY NEVER DID  and nobody will ever stay.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of isolation and a belief that nobody will stay, indicating a potential risk of thwarted belongingness.
+

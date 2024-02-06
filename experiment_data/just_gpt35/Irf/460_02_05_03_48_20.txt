@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  So I went to therapy twice last week with my first therapist. I was upfront with her that I wanted therapy in addition to possible medication (my anxiety is unbearable at times and my depression has gotten a lot worse lately). She said she doesn't believe in meds and won't refer me to a psychiatrist, but I can't self refer to any psychiatrists because the wait times in my area are so extreme that they only accept referrals for adult patients. I feel really comfy with her as a person and we've started to build a good rapport, but I've been struggling with intense anxiety since I was a child and depression for over a decade. I'm not formally diagnosed but I work in mental health care and I know what anxiety and depression disorders look like. I want therapy and I want to be psychiatrically evaluated and supported too. So should I try to switch therapists to someone who has a more similar medical philosophy to my own or stick it out with this one that I like so far (besides her refusal to help me get in meds)? I don't have a lot of people I can get support from for a decision like this so i appreciate any help or advice you guys have.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling comfortable with the therapist and having a good rapport, but expresses a need for both therapy and medication. The therapist's refusal to support the poster in accessing medication may lead to feelings of thwarted belongingness, as the poster wants to be psychiatrically evaluated and supported. This can contribute to a sense of isolation and disconnect in seeking appropriate help for their mental health concerns.
+

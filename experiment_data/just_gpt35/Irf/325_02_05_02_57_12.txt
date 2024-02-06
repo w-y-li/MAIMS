@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  theres no point in living the monotony of life. I fucking hate this shit. I can't talk about it with anyone I know and I'm so fucking sick of life. I really just want to end it so fucking bad.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong feeling of hopelessness and the desire to end one's life, suggesting a risk of perceived burdensomeness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Human interaction is exhausting, talking is exhausting , so is eating and cleaning. I just want to stay in my bed all day and hide and sleep. I wish people would leave me alone.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a desire to be left alone and a lack of energy to engage in everyday activities such as talking and eating, suggesting a possible risk of perceived burdensomeness.
+

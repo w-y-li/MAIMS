@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  It‚Äôs literally like night and day  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not provide enough information to determine if there is a risk of perceived burdensomeness. It only mentions a contrast between night and day without any explicit mention of burdens or perceived responsibilities.
+

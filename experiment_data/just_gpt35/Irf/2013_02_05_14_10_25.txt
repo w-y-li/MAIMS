@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I've felt this way for a very long time. The feeling of inadequacy, the contempt of others, the anger, and the overwhelming loneliness. For such a long time, I've kept it bottled up, but now its beginning to boil over and I don't know how to handle it. This is my first time admitting to this and I think its easier to admit in anonymity than to my family. They wouldn't understand these feelings and I inevitably chase all of my friends away. I have no hobbies or anything that I am good at so I just wallow in my sadness. I dont want to be so absorbed in my own issues but its hard to overlook when it begins to bleed over into the things I used to care about like school. Being alive has never been a feeling that I can remember feeling happy about.I've come to live with pain and failure but I would just like the feeling to stop and feel even a modicum of  okay-ness.  Despite everything, I cant say I'm better off and I simply do not want to deal with any of it anymore to be honest. I really want to get better and i hope that this is the first step to that for fear of the alternative.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of inadequacy, contempt of others, anger, overwhelming loneliness, and chasing friends away. These are indicators of perceived burdensomeness, which is a risk factor for mental health problems such as depression and suicidal ideation.
+

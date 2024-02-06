@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I feel like the only reason I haven't already found the courage to do it is my two younger siblings. I'm sixteen, and they are twelve and ten respectively. I know that my parents would be heartbroken, but that would only be two people. My  friends  would be over it in a few weeks anyway. I feel like my brother and sister would be too emotionally damaged or traumatised if I did it, and I don't want to cause any more pain to anyone anymore. This is my first post here, so let me know if I fucked it up. thx  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a perception of burden and responsibility towards the poster's younger siblings, which may contribute to the risk of perceived burdensomeness.
+

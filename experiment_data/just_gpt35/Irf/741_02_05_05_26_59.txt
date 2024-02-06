@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  As I lay in med bed crying my eyes out because of this horrible depression, I, as always, try to call on my dog for comfot. I read somewher that they can feel if their owners are sad and will try to comfort them. Not this dog, he doesn't give a shit. He never wants to be close me unless it's because I have food or want to scratch his ear. I guess he can feel my negative energy or something like that. Man I suck.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of worthlessness and feeling like a burden. The poster mentions feeling depressed and believes that their dog does not care about their emotional distress. They perceive themselves as a burden, as indicated by the statement 'Man I suck.' This suggests a risk of perceived burdensomeness.
+

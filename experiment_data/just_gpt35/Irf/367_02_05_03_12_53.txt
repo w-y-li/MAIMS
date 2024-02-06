@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I hate my job, but I need to keep having income so that I can support myself. But is starting to become so hard to get out of bed that I am continuously late to work. Should I just quit? Has anyone else had a similar experience?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual is feeling burdened by their job and the ongoing need for income. This is reflected in their statement of hating their job but feeling compelled to keep it for financial reasons. The difficulty in getting out of bed and being continuously late to work could be indicative of the perceived burdensomeness of the job, which implies a potential risk.
+

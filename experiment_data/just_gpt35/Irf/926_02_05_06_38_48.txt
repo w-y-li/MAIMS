@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I told a couple friends I was considering suicide,they looked worried. Some people gotta care,right? I have not killed myself yet because I was thinking how it would affect them. They care,even if they don't talk to me a lot and I'm an idiot. If it wasn't for them I woul probably be hanging in the closet  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of loneliness and a desire for connection. The poster's mention of considering suicide and the impact it would have on their friends suggests a potential indication of thwarted belongingness.
+

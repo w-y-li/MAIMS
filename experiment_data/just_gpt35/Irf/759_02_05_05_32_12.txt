@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  First off I don't really have a reason to be depressed as such. I've got friends, a good job, a wife, and two wonderful dogs. However I still can't help but feel low as hell quite often. Somedays nothing seems worth it and I feel like I'm trapped in this life because leaving being my career for something I enjoy is pointless. I have several passions such as writting, video games, and cars. Butbi am not good at any of these things so it just ultimately seems ridiculous. I feel bad for my wife because I am extremely bad at expressing any emotion and mostly just hang out somewhere in the middle instead of being excited or supportive. I've felt like I'm a bit off for a long time but I have avoided seeking any help out of shame or fear. My job won't allow for me to seek mental help without transferring me and I've always been rather prideful. I don't even feel comfortable talking to my wife about it and any childhood friends are thousands of miles away at this point. Honestly idk what the hell I'm here for or if this ramble even makes sense. I'm just tired of feeling down for days at a time.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post reflects feelings of worthlessness, feeling like a burden to others, and a lack of fulfillment in personal interests. These thoughts and emotions indicate a risk of perceived burdensomeness, which is often associated with depression and other mental health issues.
+

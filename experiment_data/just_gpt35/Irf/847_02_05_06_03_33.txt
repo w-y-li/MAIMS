@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  My best friend is gone. She hasn't responded in days. I haven't been able to talk to anyone else. I feel so alone. I want to say my goodbyes to everyone at some point next week. I don't know what to do anymore. I can't tell my parents about this because they usually ask me if I have a girlfriend, as a joke/nice gesture.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of loneliness, isolation, and a desire to say goodbyes. These sentiments indicate a risk of perceived burdensomeness, where the individual may perceive themselves as a burden on others and contemplate suicide as a way to relieve that burden.
+

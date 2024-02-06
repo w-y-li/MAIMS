@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I woke up early this morning in order to do research and perform a workout but ended up breaking down and crying instead. I feel like I‚Äôm slowly losing the mental fortitude to do most tasks that would supposedly ‚Äúimprove‚Äù my wellbeing. Does anyone know how I‚Äôm supposed to break through this. Every single thing I do is accompanied with a bad memory or thought that just discourages me from doing it and sends me into a depressed state. Please help me, I‚Äôm not sure how I‚Äôm supposed to do things anymore.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and feeling disconnected from others, as well as a lack of motivation and ability to engage in activities that are meant to improve wellbeing. These are common signs of thwarted belongingness, which refers to a perceived lack of social connection and support.
+

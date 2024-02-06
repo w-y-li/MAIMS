@@ -1,0 +1,108 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I’ve been abandoned by anyone I’ve ever loved. My mother emptied the bank accounts and left while I was in school one day, 20 years ago. A few years later, my father followed suit, getting sent to prison and never contacting me again. My brother lives across the country, haven’t spoken to him in years. Sister actually lives a few miles away, haven’t spoken to her in months. And recently my girlfriend of 4 years, who I was planning on proposing to, left without any warning, not even a talk. I haven’t spoken out loud to another human, barring work hours, in 3 weeks. I received my last non work related text 2 weeks ago. I keep trying to keep going, but I want to give up. I want to feel nothing. I don’t want to cry anymore. And if I did, gave up, did the unthinkable, no one would know for months.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "I am sad all the time.###The post explicitly states that the person wants to feel nothing and doesn't want to cry anymore. This indicates that the person is constantly experiencing sadness."])
+('2', ['indirectly_mention', "I feel I have nothing to look forward to.###The post mentions multiple instances of abandonment by loved ones, including the recent departure of the person's girlfriend. These events may lead the person to feel a sense of pessimism about their future and having nothing to look forward to."])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The post mentions that the poster has been abandoned by everyone they have ever loved, including their mother, father, brother, sister, and girlfriend. This repeated abandonment may lead the poster to feel like they have failed in maintaining important relationships in their life.'])
+('4', ['directly_mention', 'I do not enjoy things as much as I used to.###The post mentions that the poster wants to give up, feel nothing, and stop crying. These feelings suggest a loss of pleasure or enjoyment in things that were previously enjoyable to the poster.'])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###The post mentions that I want to give up and feel nothing. This suggests that I may feel guilty about something, which aligns with feeling guilty a good part of the time.'])
+('6', ['indirectly_mention', "I feel I am being punished.###The post mentions that I have been abandoned by everyone I've ever loved and that I want to give up. This could lead to feeling like I am being punished for something, though the post doesn't explicitly state this feeling."])
+('7', ['directly_mention', 'I dislike myself.###The post directly mentions feeling abandoned by everyone and wanting to give up. This indicates a strong negative view of oneself and can be classified as self-dislike.'])
+('8', ['directly_mention', 'I am more self-critical or blaming than usual.###The post mentions being abandoned by loved ones, including the mother, father, brother, sister, and girlfriend. This could lead to feelings of self-blame or self-accusation for the relationships breaking down.'])
+('9', ['directly_mention', "I would like to kill myself.###The post mentions 'I want to give up' and 'I want to feel nothing'. These expressions imply that the person has thoughts of killing themselves."])
+('10', ['indirectly_mention', "I cry all the time now.###The post mentions 'I don’t want to cry anymore'. While it doesn't explicitly state crying all the time, the expression suggests an increase in crying, which aligns with the option 'I cry all the time now'."])
+('11', ['directly_mention', "I am so restless or agitated that it is hard to stay still.###The poster says 'I want to give up. I want to feel nothing. I don’t want to cry anymore.' This suggests a high level of restlessness and agitation."])
+('12', ['directly_mention', "I have lost most of my interest in other people or things.###The poster says 'I want to give up. I want to feel nothing. I don’t want to cry anymore.' This suggests a significant loss of interest in other people or things."])
+('13', ['indirectly_mention', 'I have greater difficulty in making decisions than I used to.###In the post, I mentioned that I want to give up and feel nothing. This suggests that I am experiencing a decreased ability to make decisions, as giving up and feeling nothing requires making a decision to disengage from life.'])
+('14', ['indirectly_mention', "I feel utterly worthless.###In the post, I mentioned that I want to give up and don't want to cry anymore. These statements suggest a feeling of worthlessness and a sense of lacking value in oneself."])
+('15', ['directly_mention', "I do not have enough energy to do anything.###The post mentions 'I want to give up. I want to feel nothing. I don’t want to cry anymore.' which implies a lack of energy to engage in activities."])
+('16', ['directly_mention', "I wake up 1-2 hours early and can not get back to sleep.###The post mentions 'I wake up 1-2 hours early and can not get back to sleep' which indicates a change in sleeping pattern."])
+('17', ['directly_mention', 'I am much more irritable than usual.###The post mentions wanting to feel nothing and not wanting to cry anymore, which indicates heightened irritability.'])
+('18', ['directly_mention', 'I have no appetite at all.###The post mentions not wanting to eat and feeling like giving up, indicating a loss of appetite.'])
+('19', ['directly_mention', "I find I can not concentrate on anything.###The poster mentions that they haven't spoken out loud to another human in 3 weeks and received their last non-work related text 2 weeks ago. This suggests a lack of social interaction and potential isolation, which can contribute to difficulty in concentration."])
+('20', ['directly_mention', "I am too tired or fatigued to do most of the things I used to do.###The poster mentions feeling tired and fatigued, stating that they want to give up and don't want to cry anymore. This indicates a lack of energy and motivation, which can be indicative of increased tiredness or fatigue."])
+('21', ['indirectly_mention', "I have almost no interest in sex.###In the post, I mentioned that I want to feel nothing and don't want to cry anymore. This suggests a loss of interest in pleasurable activities, including sex."])
+Do MS Check Record:
+('1', ['Correct', 'Good analysis of the explicit emotional content. Remember to maintain a balance between what is directly mentioned and what may be inferred, while avoiding assumptions not grounded in the text.'])
+('2', ['Correct', "You've effectively identified the underlying tone of pessimism. Ensure that your answers are always informed by context within the post, and resist the inclination to assume details not provided by the poster."])
+('3', ['Correct', "Well done on accurately deducing the feelings of failure from the poster's experiences of abandonment. Continue to support your answers with specific details from the post."])
+('4', ['Correct', "Good job identifying the loss of pleasure from the post's context. Make sure to consistently use direct references from the post to inform your responses."])
+('5', ['Incorrect', 'Carefully analyze the feelings described in the social media post. Link the feelings of abandonment to potential guilt only if evidence within the post suggests a connection. Avoid assuming guilt unless the contents of the post provide clear indications of self-reproach or responsibility for the events.'])
+('6', ['Correct', 'Continue to make reasonable inferences based on the emotional context provided. However, make sure to articulate the distinction between the implications of being abandoned and the interpretation of these events as punishment. Clarify that such feelings are inferred and not directly stated in the post.'])
+('7', ['Incorrect', 'You should analyze the content of the post without adding sentiments that are not explicitly mentioned. Focus on what the poster has shared, such as feelings of abandonment and loneliness without an explicit statement of self-dislike. Try to provide an answer based on presented facts rather than assumptions.'])
+('8', ['Incorrect', 'Carefully differentiate between the poster’s experiences and their self-perception. The post does not indicate self-blame or self-accusation; instead, it focuses on the actions of others towards the poster. Ensure your conclusions directly correlate with information provided by the poster.'])
+('9', ['Correct', 'Ensure that interpretations of intentions or thoughts from posts do not extend beyond what is reasonable from the text. Continue to look for any direct or implied information when formulating responses to the questions.'])
+('10', ['Correct', 'Remember to acknowledge the difference between directly stated facts and inferred emotional states. Continue deriving nuanced emotions from the context of the post, but be cautious not to overextend beyond plausible inferences.'])
+('11', ['Correct', 'Ensure to continuously refine the interpretation of emotional states from the available information without overextending beyond what’s evident in the post.'])
+('12', ['Correct', 'Keep grounding your analysis in the explicit content of the posts and guard against any assumptions that are not clearly supported by the text.'])
+('13', ['Correct', 'Ensure to continue supporting your judgments with direct references from the post, showing how each statement relates to the psychological concept in question.'])
+('14', ['Correct', "Be cautious not to overextend inferences but maintain the connection between felt experiences and psychological terms as you've done here by linking expressed despair to feelings of worthlessness."])
+('15', ['Incorrect', 'Carefully analyze the emotional context of the post. Avoid assuming specific symptoms like lack of energy without evidence. Seek context clues suggesting a decrease in energy levels rather than diagnostic terms.'])
+('16', ['Incorrect', 'Do not inject details that are not present in the post. Look for indications of sleeping issues if mentioned, otherwise admit the lack of information and avoid speculation.'])
+('17', ['Incorrect', 'Review the original post to accurately discern if irritability is mentioned or implied by the poster. Look for explicit statements about feelings that correlate with irritability, rather than general distress.'])
+('18', ['Incorrect', "Analyze the text to see if there are direct references to changes in appetite or eating behavior. Do not assume that 'wanting to give up' equates to appetite changes without clearer evidence."])
+('19', ['Incorrect', 'Your analysis must be based on the information given in the post. The poster does not explicitly mention concentration difficulties, although they describe distressing experiences. Focus on identifying thoughts, feelings, or behaviors in the post that may imply issues with concentration without making assumptions.'])
+('20', ['Correct', 'The answer matches the tone and content of the post. The poster expresses a desire to give up and mentions being emotionally overwhelmed, which can reasonably be associated with tiredness or fatigue. Continue to closely match your answers to the provided information without adding assumptions.'])
+('21', ['Correct', 'Your inference regarding the lack of interest in sex is plausible given the context of loss and disinterest in pleasurable activities. Continue to use cues from emotional states mentioned in posts to infer changes in other aspects of life, but always stay open to multiple interpretations.'])
+
+ITER 1
+Do MS Record:
+('5', ['directly_mention', 'I feel quite guilty most of the time.###The post mentions feeling abandoned by anyone the poster has ever loved, including their mother, father, brother, sister, and girlfriend. This sense of abandonment may lead to feelings of guilt, as if the poster blames themselves for the abandonment and questions why they were left behind.'])
+('7', ['not_mention', "Doesn't mention at all.###The post does not explicitly mention self-dislike. While the poster expresses feelings of abandonment, loneliness, and wanting to give up, there is no direct mention or indication of disliking themselves."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention any self-accusations or criticism towards oneself. Instead, it focuses on the actions and behaviors of others towards the poster."])
+('15', ['directly_mention', "I do not have enough energy to do anything.###The post explicitly states, 'I want to give up. I want to feel nothing. I don’t want to cry anymore.' These statements imply a lack of energy and motivation to engage in activities."])
+('16', ['indirectly_mention', 'I am irritable all the time.###The post mentions feeling like giving up, wanting to feel nothing, and not wanting to cry anymore. These feelings suggest a high level of distress and emotional pain, which can often manifest as irritability.'])
+('17', ['directly_mention', "I have not experienced any change in my sleeping pattern.###The post does not provide any indication of a change in sleeping pattern. The lack of information suggests that the poster's sleeping pattern has remained relatively stable."])
+('18', ['directly_mention', "My appetite is much less than before.###The poster mentioned that they don't want to feel anything and don't want to cry anymore. These remarks indicate a loss of interest in food and a decreased appetite."])
+('19', ['indirectly_mention', "It is hard to keep my mind on anything for very long.###The poster mentioned that they haven't spoken out loud to another human, barring work hours, in 3 weeks. This could indicate difficulty in focusing or a lack of interest in social interaction. Additionally, the statement 'And if I did, gave up, did the unthinkable, no one would know for months' suggests a lack of motivation and diminished ability to concentrate on any meaningful activities."])
+Do MS Check Record:
+('5', ['Incorrect', 'Avoid assuming emotions that are not explicit in the post. Focus more on the stated experiences of abandonment and their effects instead of inferring feelings of guilt without direct evidence. Consider the context of abandonment and explore possible links to guilt while acknowledging the absence of direct statements about feeling guilty.'])
+('7', ['Correct', 'Continue to differentiate between what is explicitly stated and what is inferred. Maintain focus on the information provided in the post without drawing additional conclusions that lack evidence. Keep using direct information to answer questions while clarifying when elements like self-dislike are not mentioned.'])
+('8', ['Incorrect', "Consider the emotional content of the post and the poster's experiences. Look for implicit expressions of self-perception that may hint at self-accusations."])
+('15', ['Correct', "Good identification of the lack of energy described in the post. Continue to draw connections between the poster's stated feelings and potential implications for their mental state."])
+('16', ['Incorrect', 'Review the post to identify any emotions or behaviors that could relate to changes in sleeping patterns; avoid assumptions not supported by evidence.'])
+('17', ['Correct', "Continue to differentiate between emotions described in the post and the specific symptoms being asked about; avoid inferring symptoms that aren't mentioned."])
+('18', ['Incorrect', "Be cautious not to assume specific symptoms like changes in appetite without clear evidence from the post. Instead, note the emotional distress expressed and consider how that might generally affect one's interest in daily activities, without inferring specific changes like appetite."])
+('19', ['Correct', 'Good inference on concentration difficulty, as the post suggests significant emotional turmoil, which can indeed impair concentration. However, ensure to clarify that while the evidence points towards potential concentration difficulty, such assessments are speculative without direct statements from the poster.'])
+
+ITER 2
+Do MS Record:
+('5', ['indirectly_mention', 'I feel guilty all of the time###Although the post does not explicitly mention feelings of guilt, the experiences of being abandoned by loved ones could potentially lead to feelings of guilt. The poster may blame themselves for the abandonment and feel responsible for driving people away. This could manifest as guilt.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual###While the post does not directly mention self-accusations, the repeated pattern of being abandoned by loved ones might contribute to a heightened self-critical attitude. The poster may believe that they are the common factor in these incidents and blame themselves for the abandonment. This suggests a tendency towards self-accusations.'])
+('16', ['indirectly_mention', "I sleep a lot less than usual.###The post mentions that the poster hasn't spoken out loud to another human in 3 weeks, indicating a possible change in social interaction. This may also suggest that the poster is experiencing difficulty sleeping and is likely to be sleeping a lot less than usual."])
+('18', ['indirectly_mention', 'My appetite is much less than before.###The post indicates that the poster wants to give up, feel nothing, and not cry anymore. These statements suggest a lack of interest or pleasure in activities, which can commonly be associated with a decrease in appetite.'])
+Do MS Check Record:
+('5', ['Incorrect', "Review the post for explicit expressions of guilt, avoid assumptions about the poster's emotions without clear evidence."])
+('8', ['Incorrect', 'Be cautious of inferring self-accusations without definitive language or context in the post indicating the same.'])
+('16', ['Correct', 'Ensure future inferences about sleep are directly tied to psychological knowledge and are justifiable based on the content of the post.'])
+('18', ['Correct', 'Continue to cautiously infer emotional states from the post and assess how they may affect physiological responses such as appetite, while avoiding overgeneralization.'])
+
+ITER 3
+Do MS Record:
+('5', ['directly_mention', "I feel quite guilty most of the time.###The poster mentions that they don't want to cry anymore, which suggests they are experiencing guilt related to their emotional state."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indications regarding self-accusations."])
+Do MS Check Record:
+('5', ['Incorrect', 'Consider the emotional context of the post and avoid assuming emotions not explicitly mentioned. Instead, analyze the language to determine if feelings of guilt are present without direct statements.'])
+('8', ['Correct', 'Continue focusing on direct evidence within the post when addressing questions not explicitly mentioned, but keep an open mind to subtle cues that may indicate self-accusations.'])
+
+ITER 4
+Do MS Record:
+('5', ['directly_mention', 'I feel quite guilty most of the time.###The post mentions that the person wants to give up and feel nothing, indicating a sense of hopelessness and possibly guilt for feeling this way.'])
+Do MS Check Record:
+('5', ['Incorrect', 'Revisit the post and look for explicit indicators of guilt, not general negative emotions. Avoid inferring guilt where it is not directly implied.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the questions of the mental scale indicate a strong presence of depressive symptoms. They consistently express feelings of sadness, pessimism, past failure, loss of pleasure, punishment feelings, self-dislike, self-accusations, suicidal thoughts or wishes, crying, agitation, indecisiveness, worthlessness, loss of energy, changes in sleeping pattern, changes in appetite, concentration difficulty, tiredness or fatigue, and changes in interest in sex. These symptoms align with the criteria for diagnosing depression.
+
+Correct
+The analysis appropriately integrated responses from the mental health scale with the social media post to come to a substantiated conclusion regarding the presence of depressive symptoms. Ensure future analyses remain grounded in provided data and avoid unfounded inferences that go beyond the scope of the post and answers. Additionally, be cautious not to conflate the experiences of others mentioned in posts as being indicative of the poster’s own mental health unless clearly stated.

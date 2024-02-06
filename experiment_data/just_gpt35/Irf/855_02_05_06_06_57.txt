@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  (25M) I've been dealing with depression since I was about 14. I've been to countless therapists/doctors and have never had any relief. Throughout that time I've battled the urge to end my life and the only thing that seems to stop me is the guilt of hurting my family, in particular my mum. I feel like such an ungrateful piece of garbage for what I've put her though and I know she deserves better than me. She unfortunately isn't the only one. I recently ended it with my girlfriend because I couldn't stand what I was doing to her emotionally, the burden of having to deal with me day after day is exhausting and its simply not fair to ask that of her. I've had gfs in the past but she is the only one I've ever truly loved, I genuinely believe that she is/was the one, but I can't condemn her to a life with me. She simply deserves better. She's the most wonderful person I've ever known, and she should be with someone who can make her happy. I wish she hated me, so that she doesn't feel guilt or sadness when I die. I don't expect/need anyone to reply I just needed to say it  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of being a burden to loved ones and a desire for them to be free from the poster's presence.
+

@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Ancestry.com - is it safe? Hello!: ) I'm a new user so if this post ends up in a weird place/thread, pls bear w me. Has anyone used Ancestry.com lately? They offer a two week trial but still require your credit card information. Is this suspicious? It doesn't cost anything for the first two weeks, and then you can end the trial so you don't have to pay anything even then, but I just feel a little uncomfortable dialing my credit card information on there online.... Am I being too doubtfull? Share your experiences? Thank you! If my English isn't perfect, that's because I'm not a native speaker.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not provide enough information to determine if the poster is suffering from depression. The content of the post is primarily related to concerns about the safety and legitimacy of using Ancestry.com and the discomfort with providing credit card information online.
+
+Correct
+Continue to avoid over-interpreting information when assessing mental health. Keep focusing on the presented facts and do not infer mental health issues without clear evidence.

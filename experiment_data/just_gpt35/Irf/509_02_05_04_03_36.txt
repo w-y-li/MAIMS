@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  How do I get past my own body protecting me and keeping me alive? I have nobody to talk to, no job skills, and no highschool diploma. I am disabled but I cannot even get disability. I want to commit suicide, I have wanted to for a long time. I have nobody to talk to and the doctors here will never provide adequate help. ow do I push myself past that point?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden to others and thoughts of suicide, which are characteristic of perceived burdensomeness. The poster mentions having nobody to talk to and feeling unable to receive adequate help, suggesting a sense of isolation and hopelessness.
+

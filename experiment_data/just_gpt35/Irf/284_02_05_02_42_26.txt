@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I just can't stand it. It takes every ounce of me to not say  BUT I'M NOT HAPPY . New year is just another time that makes some feel a little more lonely than usual. Anyone else?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of loneliness during the new year, which suggests a lack of belonging and connection with others. This indicates a risk of thwarted belongingness.
+

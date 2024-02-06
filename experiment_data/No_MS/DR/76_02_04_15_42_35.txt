@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Life can go fuck itself. I think I'm done. I'm a mechanical engineer graduate. I came from a different country to the United States to study engineering, hoping I can make something out of myself. I poured blood sweat and tears trying to get good grades and graduate proudly. I never went to parties, stayed away from drugs, focused on having good relationships with people and overall being kind wherever I could. This country does not want to hire me at all.. Wherever I send my applications I get rejects. This was my only dream and meant everything in life. All my friends and moved on getting jobs. I have an excellent profile and some really good work to show for but the leadership is a little unpredictable, so companies don't what to hire people like me.. I watched so many people cheat their way through exams and projects and gone to get hired by companies like Amazon and Google. I have not seen my family in three years. And can barely afford to eat more than one meal a day. I'm getting recurring nightmares of being a failure and this makes me want to end it all. I've decided to stay in the US as long as I legally can. Then then, if I'm not getting a job.. I'm simply ending it. I have nothing else to live for. Oh and becomes this, I have fucking health problems.. So who knows how long I'll be alive anyway. Life is unfair.. So life can go fuck itself. I'm out.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's feelings of hopelessness, worthlessness, and thoughts of ending their life indicate signs of depression.
+
+Correct
+Ensure to differentiate between temporary emotional states and clinical depression, and avoid overgeneralizing based on sparse details. While you correctly identified signs of depression in this case, be cautious not to diagnose without comprehensive evidence. Always consider suggesting professional evaluation for an accurate assessment.

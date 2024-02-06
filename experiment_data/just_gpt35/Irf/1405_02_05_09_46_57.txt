@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Does anyone else find that they‚Äôre suicidal only when they‚Äôre alone? I am entirely dependent on others (mainly my fianc√©), in the sense that I can‚Äôt be alone. ‚ÄúCan‚Äôt‚Äù meaning I very quickly spiral down.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a high level of perceived burdensomeness as the poster expresses dependency on others and states that they cannot be alone without quickly spiraling down. This suggests that the poster may feel like a burden to others and views their own presence as having a negative impact on those around them.
+

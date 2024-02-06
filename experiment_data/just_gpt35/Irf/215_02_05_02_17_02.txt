@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Whenever I start dreaming up serious ways of killing myself I get tingly all over. Kind of like sharp, electromagnetic waves. It almost hurts. Feels really weird. Anyone else get those sensations? I think it‚Äôs my body‚Äôs way of telling me NO!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person is experiencing thoughts of suicide and describes their body's reaction as a way of telling them 'no.' This suggests a sense of burden and hopelessness, which are correlated with an increased risk of perceived burdensomeness.
+

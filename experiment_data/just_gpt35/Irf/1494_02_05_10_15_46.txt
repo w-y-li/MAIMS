@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  The more I passed by classes as I walking towards the bathroom the more I was breathing hard.Once I got to the bathroom I looked in the mirror and I noticed my eyes were tired and I had red spots under them.What the hell is wrong with me...I‚Äôm so scared that I‚Äôll get caught slipping a class period but I just need space because this weeks been so stressful and now u can see how tired I am?!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not explicitly mention feelings of isolation or social disconnection that would indicate thwarted belongingness.
+

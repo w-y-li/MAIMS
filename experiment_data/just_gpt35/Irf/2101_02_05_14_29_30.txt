@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Do you ever sleep 17 hours? Help me not feel so alone  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not provide enough information to determine if there is a risk of perceived burdensomeness. It only mentions feeling alone and sleeping for an extended period of time.
+

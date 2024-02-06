@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I can‚Äôt believe how fucking dumb I am. I fucking ruined one of the best things that happened to me. I want to die . I want to die. I need to kill myself soon. Please god don‚Äôt let me wake up tomorrow  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses a strong sense of feeling dumb and having ruined something important, as well as expressing a desire to die and not wake up. These feelings and thoughts suggest a risk of thwarted belongingness, as the poster may feel a lack of social connection and support.
+

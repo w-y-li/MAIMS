@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Who even cares anymore I’ve just learned to accept my thought and I realise things aren’t gonna get better.I have the same cycle every day just play video games mourn for death wish I had weed and listen to sad songs till the morning life has just become such a boring shit show. Even talking to random people has me fucked up cause i fuck things up tell me guys what’s the point of even living anymore  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement of feeling hopeless, having the same cycle every day, lacking interest in life, and questioning the point of living are all indicative of symptoms commonly associated with depression.
+
+Correct
+Continue to carefully evaluate posts for explicit expressions of feelings and thoughts that can be indicative of mental health issues, while also considering the importance of not overgeneralizing or inferring beyond the provided information. Remain cautious to not diagnose but rather flag signs that suggest the possibility of depression, encouraging the individual to seek assistance from a mental health professional.

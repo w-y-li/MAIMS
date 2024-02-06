@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  My Life = Depressed Cycle HELL I have been depressed since my early teens. 18 now. In last year of high school but my grades are horrible, Im MISERABLE at my job but cant quit due to the pay, I completely lack a social life and girlfriend, and have so little motovation I feel like I will flunk out of college if I go. I was going to go to talk to my psychiatrist that does medication management for ADD when I went to see her the other day. I literally couldnt suck up the pride to tell her I was depressed and need a psychologist referal. She even asked how my moods were and I said they were just fine. I feel weird just meeting a random psychologist and dont know how to find a good one. Being a guy I have just sucked it up for the last 5 year and I feel weak for needing help, and even with me telling myself I need help I keep thinking every psychologist listing i see isnt good enough and keep pushing it off like I have for a LONG time. My life is a MISERABLE cycle of depression that I cant seem to get out of. I NEED help but I literally dont know how I can get myself to suck up the pride and go to a psychologist.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time###The poster mentions being depressed since their early teens, being miserable at their job, lacking a social life and girlfriend, and having little motivation. All these factors indicate a continuous state of sadness.'])
+('2', ['directly_mention', 'I feel the future is hopeless and that things cannot improve###The poster mentions feeling like they will flunk out of college and not knowing how to find a good psychologist. These thoughts reflect a sense of pessimism about their future and a lack of hope for improvement.'])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The post mentions that my grades are horrible and the poster feels like they will flunk out of college if they go. These indicate a perception of failure.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post mentions feeling depressed, being miserable at their job, lacking a social life, and feeling unmotivated. These suggest a loss of pleasure in things they used to enjoy.'])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to guilty feelings."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to punishment feelings."])
+('7', ['indirectly_mention', 'I dislike myself.###In the post, I mentioned feeling weak for needing help and constantly pushing off seeking help from a psychologist. This implies a possible self-dislike, as I am critical of myself for needing assistance.'])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual.###While I didn't explicitly state self-accusations, I mentioned feeling weak for needing help and constantly pushing off seeking help. This suggests that I may be more self-critical than usual, as I blame myself for not being able to overcome my depression on my own."])
+('9', ['indirectly_mention', 'I cry more than I used to.###In the post, I mentioned that I am miserable and have been depressed since my early teens. This implies that I have been experiencing negative emotions for a long time. Therefore, it is possible that I cry more than I used to as a result of my depression.'])
+('10', ['indirectly_mention', 'I do not have any thoughts of killing myself.###Although I did not explicitly mention suicidal thoughts, I mentioned feeling depressed and being in a cycle of depression. However, I did not indicate any thoughts or intentions of self-harm or suicide. Therefore, I do not have any thoughts of killing myself.'])
+('11', ['directly_mention', 'I am so restless or agitated that I have to keep moving or doing something.###The poster mentioned feeling restless and lacking motivation, which indicates agitation.'])
+('12', ['indirectly_mention', 'It is hard to get interested in anything.###The poster mentioned having no motivation, and feeling miserable at their job, which suggests a loss of interest.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to indecisiveness."])
+('14', ['indirectly_mention', 'I feel more worthless as compared to other people.###The post mentions feeling miserable, lacking a social life, and having little motivation. These feelings can contribute to a sense of worthlessness when comparing oneself to others.'])
+('15', ['indirectly_mention', 'I do not have enough energy to do very much.###The post states that the person is miserable at their job and lacks motivation, suggesting a lack of energy to perform tasks effectively.'])
+('16', ['indirectly_mention', "I sleep somewhat less than usual.###The post mentions the person's lack of motivation and feeling like they will flunk out of college due to their depression, indicating that their sleeping pattern might have changed by sleeping somewhat less than usual."])
+('17', ['directly_mention', 'I am much more irritable than usual.###The post mentions feeling miserable at the job, lacking a social life and girlfriend, and having little motivation, which are all factors that can contribute to increased irritability.'])
+('18', ['directly_mention', 'My appetite is somewhat less than usual.###The post mentions feeling depressed and having a cycle of depression, which can often lead to changes in appetite, such as a decrease in appetite.'])
+('19', ['indirectly_mention', 'I find it hard to keep my mind on anything for very long.###The poster mentioned that they have little motivation and feel like they will flunk out of college if they go. This suggests difficulty in concentration.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do a lot of the things I used to do.###The poster mentioned that they are miserable at their job, lack a social life, and have so little motivation. These factors can contribute to feeling tired or fatigued and not being able to engage in activities they used to do.'])
+('21', ['directly_mention', 'I have almost no interest in sex.###The post directly mentions that I "have almost no interest in sex." This indicates a significant decrease in my interest in sex.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster exhibits several symptoms associated with depression, such as feeling sad much of the time, feeling hopeless about the future, lack of enjoyment in activities, self-dislike, self-critical thoughts, low energy levels, changes in sleep pattern, irritability, difficulty concentrating, and loss of interest in sex. These symptoms are indicative of a depressive mood and suggest that the poster may be suffering from depression.
+

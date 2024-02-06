@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Throwaway account for obvious reasons. About two weeks ago my mom took all my meds away, u know , just in case. Recently I‚Äôve been feeling better, and I asked for them back. but I can‚Äôt help but feel weird about it. Like , I don‚Äôt trust myself enough to have them next to me? Does that sound weird? Does anyone else know what I mean? do you guys trust yourselves ?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a potential risk of perceived burdensomeness due to the poster feeling weird about having their medications back and not trusting themselves enough to keep them nearby.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  There is utter absence of meaning in my day to day life. I would love nothing more than to feel or do anything other than artificial emotions and automated actions, but alas must take that pill or else it will all crumble, oh and that pill, and maybe these 3 too. It‚Äôs a fine line between authentic peace and self destruction that I‚Äôve been on for what feels like a life time, but unfortunately it‚Äôs only been a year and that life time is all I have to look forward to.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of emptiness, lack of meaning, and a desire to escape from artificial emotions and automated actions. They also mention depending on pills and the fine line between authentic peace and self-destruction, indicating a potential risk of perceived burdensomeness.
+

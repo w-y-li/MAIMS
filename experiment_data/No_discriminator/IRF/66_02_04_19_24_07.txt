@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Hello. I'm not depressed, but my friend is terribly blue. Their life is crumbling and I can't bear to see them like this. I care about them very much. I don't want to reveal much information and I hope you understand. To summarize for you all: * They were involved in some deep stuff. * Some time back, they got their house broken into and while fighting the intruder(s) off, they received an injury in their head. * The injury increased the mental illnesses they had, one of them being Post Traumatic Stress Disorder. &gt; And this resulted a rise on violent seizures, traumatizing flashbacks, haunting voices that returned to the time they were in that deep stuff, not to mention that they can barely get out of bed. * They tried contacting with their family and friends, they tried going to professionals for help for their bodily and mental dysfunctions, but to their dismay, they (the doctors) gave up in the last moment. * Their friends just turned their back on them and they treat them unpleasantly. I'm one of the few friends they have left and I'm distant from them in location and I don't think there's a chance I would be able to be with them. What can I do?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Not at all true for me.###The post does directly mention the question by stating 'I'm not depressed, but my friend is terribly blue. Their life is crumbling and I can't bear to see them like this.' This indicates that the poster is aware of their friend's depressive state and expresses concern for their wellbeing. However, the post does not provide any further information that can help me deduce the answer."])
+('2', ['directly_mention', "Not at all true for me.###The post directly states 'These days, the people in my life would be happier without me.' This indicates that the poster believes that the people in their life would not be happier without them. However, the post does not provide any further information that can help me deduce the answer."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling like a burden on society."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to thinking that their death would be a relief to others."])
+('5', ['indirectly_mention', "Not at all true for me###Although my friend's life is crumbling and they are experiencing mental illnesses, there is no direct mention of the people in my life wishing they could be rid of me. However, based on my friend's situation, it is possible that they may feel isolated and unsupported, which could indirectly contribute to feeling like people in their life wish they could be rid of them."])
+('6', ['indirectly_mention', "Not at all true for me###The post mentions that my friend's life is crumbling and they are experiencing mental illnesses, but there is no direct mention of them making things worse for the people in their life. However, based on their distress and the fact that their friends turned their back on them, it is possible that they may feel like they are causing trouble or burden for others, indirectly contributing to thinking they make things worse for the people in their life."])
+('7', ['indirectly_mention', "Somewhat true for me###The post mentions that their friends turned their back on them and treat them unpleasantly. This implies that the person may feel that other people don't care about them. However, the post does not specifically state whether other people care about the poster or not, so I can only infer that it might be somewhat true for them."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information that directly or indirectly addresses feeling like I belong. Therefore, it does not mention this question at all."])
+('9', ['indirectly_mention', "Somewhat true for me###The post mentions that the person's friends turned their back on them and treated them unpleasantly. This implies that the person does not have many caring and supportive friends, which suggests that they rarely interact with people who care about them."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to this question. There is no mention of the number of caring and supportive friends the person has, or any indication of feeling fortunate to have many such friends."])
+('11', ['indirectly_mention', "Somewhat true for me###The post mentions that their friend's life is crumbling and they are terribly blue, indicating a sense of disconnection from other people. However, since the post is not about the poster's personal feelings, I can only deduce that the poster feels somewhat disconnected from other people."])
+('12', ['directly_mention', 'Not at all true for me###The post states that the poster cares about their friend very much and expresses concern for their well-being. This indicates that the poster does not feel like an outsider in social gatherings.'])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions that the friend tried contacting family and friends for help, indicating that they do have people they can turn to in times of need. However, it also states that their friends turned their back on them and treats them unpleasantly, suggesting that the level of support may be limited.'])
+('14', ['directly_mention', 'Not at all true for me###The post directly states that the friend is distant from the poster in location, implying that they are not close to other people.'])
+('15', ['indirectly_mention', 'Somewhat true for me###Although the post does not directly mention having satisfying interactions, it does mention that the poster cares about their friend and wants to help them. This suggests that the poster values positive interactions, and it is likely that they have had some satisfying interactions in the past.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person is experiencing feelings of social disconnection, lack of support from others, and loneliness. They mention that their friends have turned their back on them, they are distant from their only remaining friend, and feel that they rarely interact with people who care about them. These feelings align with the concept of thwarted belongingness, which refers to a sense of not belonging or not being connected to others, and can contribute to mental health difficulties.
+

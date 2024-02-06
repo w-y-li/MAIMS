@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Like I often think that depression isn't a disability and I'm always in amazement when I am actually aloud to take time off of work from it. But I think that way because depression is only in your mind(?). While there's people out there are legitimately disabled through loss of limbs, MS, Rheumatoid Arthritis, cerebral palsy, etc etc etc! Even though depression isn't a direct physical disability, I just can't pull myself to keep myself going. I've been kicked the shit out of this holiday with bursted pipes in my house, 2  friends  excommunicating me but right now I've been having a slew of car problems. My battery is constantly dead, my tire flattened out yesterday and my air compressor isn't working... It is just completely locking me down to worthlessness. I don't even have the energy to do anything about this and I'll probably be getting called for work soon.. It just makes me want to take stress leave because I just can't tolerate anything anymore..  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and exclusion, with the poster mentioning being excommunicated by friends and feeling completely locked down. These experiences suggest a lack of belongingness, which can increase the risk of thwarted belongingness.
+

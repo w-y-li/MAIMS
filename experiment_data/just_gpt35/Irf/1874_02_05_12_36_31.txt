@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I'll probably do it in my middle age. I don't want to die old and helpless. For now, I'll push on and I'll do my best for others even if it means dying.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate risk of thwarted belongingness. The individual expresses a willingness to do their best for others, even if it means sacrificing their own wellbeing and potentially dying. This suggests a sense of commitment and concern for others rather than a lack of belongingness.
+

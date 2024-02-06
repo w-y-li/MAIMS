@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I cannot name a single good thing about myself-I am not smart, not charismatic, not good looking, not a good person, not got social skills, got no talents or skills, I am bad at everything I've ever tried in my life. I have 1700 hours in CS:GO and I'm worse than people with half my hours, I played (association) football my whole life and I was always trash at that, I tried to do guitar for a few years when I was younger but I got kicked out because the teacher thought I wasn't practising-I was, I just was really bad at it. I have a few friends but they don't like me that much and I don't blame them because I'm a bad person to be friends with, I am boring, I have no distinct interests and I can't hold a conversation for more than 5 seconds. I just don't understand why I should like myself, if anything it'd be irrational not to hate myself because every single aspect of my life is going terribly and it's ultimately no-one's fault but my own.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post displays a strong sense of self-hatred and worthlessness, as the poster believes they possess no positive qualities and are a burden to others. This indicates a risk of perceived burdensomeness, where the individual feels that they are a burden on those around them.
+

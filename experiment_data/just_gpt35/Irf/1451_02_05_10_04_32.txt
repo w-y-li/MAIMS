@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I feel a bit better with the drugs out of my system. I spent new year's morning on the beach till sunrise. As the sun approached, rays of orange and blue leapt between low level nimbostratus clouds painting a silky leopard-shaped canvas. Light etched it's way through the aesthetic sky-scape soon finding it's shortest path to the breakers below. I wondered if the love in my chest surfaced by this natural beauty was reciprocal in your heart somewhere.. though on second thoughts I guessed resentment might occupy most of our space there facilitated by my loathing and misery. Take it as obsession, ill-health, whatever, I can't walk around on a broken leg with a smile on my face. I went in boots and all, young and blind as they come.. Here's a thought: Perhaps staring at your weaknesses in crippling shame and regret is more likely to preserve the good in you than perpetuate failure over and over again, if you manage to recover in time.. That's a relieving thought I guess.. I remember when we fell in love.. I was so stupid. More words.. Just words... There's no one else.. Not that it matters.. Back to exciting sentences followed by exclamation marks and smiley faces..  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of perceived burdensomeness. 
+

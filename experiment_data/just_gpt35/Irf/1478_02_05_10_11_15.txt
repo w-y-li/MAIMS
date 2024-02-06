@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I just entered a new phase of depression. Cant go to sleep when i am not extremely tired because of thoughts. My mind is cluttered with great amount of sadness and anxiety and when I lie down I just cant make it quiet so I stay up until morning . I dont think I will be able to go on much longer  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of sadness, anxiety, and the inability to sleep due to racing thoughts. These symptoms indicate social isolation, which is a potential risk factor for thwarted belongingness.
+

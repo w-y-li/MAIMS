@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I went to therapy for a few sessions and the book  Feeling Good: the New Mood Therapy  was required reading. The book highlights unhealthy thinking patterns and trains you in how to spot them. I've found that All or Nothing thinking is a root to much of my hopelessness and causes self fulfilling prophecies. For example, I assume that I'm going to suck at a job and never get promoted, so I don't try hard because I view the effort as futile. The prediction therefore fulfills itself. I recommend this powerful, encouraging book, it's available in B&amp;N for about $12.00. It's the foundation of all modern Cognitive Behavioral Therapy that modern psychologists use. Bottom line, if you can't afford therapy, try it out.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of perceived burdensomeness. The individual is sharing their positive experience with therapy and a book that helped them identify and change unhealthy thinking patterns. They also recommend the book to others who may not be able to afford therapy.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Nights of battling away constant suicidal thoughts, feelings of loneliness, hopelessness. It's exhausting, but I stay awake dealing with it. It's getting so overwhelming. 14 years of depression, and I still can't control or get used to this. I feel so alone. The fast way out is so appealing.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feelings of loneliness, hopelessness, and feeling alone, which are indicators of thwarted belongingness. The poster also mentions constant suicidal thoughts and the appeal of a fast way out, suggesting a high level of distress and a potential risk of thwarted belongingness.
+

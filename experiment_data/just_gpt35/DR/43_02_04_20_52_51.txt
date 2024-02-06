@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Stuck living with my parents because I can't afford to leave The idea of living here forever because I can't make much more than minimum wage makes me feel suicidal.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The mention of feeling suicidal, coupled with a sense of hopelessness about the future, indicates symptoms of depression.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  (48M) I've dealt with depression and suicidal thoughts for probably \~35 years now. I've been on pretty much all the different meds, had 2 rounds of TMS (30 sessions each), and have had therapy. Nothing has made me feel any better. I don't remember any other way to feel but sad, hopeless and suicidal. I don't know how much longer I can keep going on.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being sad, hopeless, and suicidal, as well as a lack of improvement despite various treatments. These feelings can be indicative of thwarted belongingness, which refers to a perceived lack of meaningful connections or sense of belonging in one's life.
+

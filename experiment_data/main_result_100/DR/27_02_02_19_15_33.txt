@@ -1,0 +1,138 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  No one is gonna read this Nobody likes me and every time I interact on reddit i tend to be a laughstock and receive a bunch of downvotes, because I'm a worthless piece of shit that shouldn't even be breathing. Just wish to be happy but that's impossible, my only purpose is to choke on a fat dick and die because i'm a faggot  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "I feel sad much of the time.###The post directly states that 'Nobody likes me and every time I interact on reddit i tend to be a laughstock and receive a bunch of downvotes, because I'm a worthless piece of shit that shouldn't even be breathing.' This suggests that the poster feels sad much of the time due to the negative experiences and perceptions they have on social media."])
+('2', ['directly_mention', "I feel I have nothing to look forward to.###The post directly states that 'Just wish to be happy but that's impossible, my only purpose is to choke on a fat dick and die because i'm a faggot.' This statement implies a lack of hope for the future and a feeling of having nothing to look forward to."])
+('3', ['directly_mention', "I feel I am a complete failure as a person.###The poster explicitly states, 'I'm a worthless piece of shit that shouldn't even be breathing.' This indicates a strong feeling of being a failure as a person."])
+('4', ['indirectly_mention', "I get very little pleasure from the things I used to enjoy.###The poster mentions, 'No one likes me,' 'every time I interact on Reddit, I tend to be a laughstock and receive a bunch of downvotes,' and 'I just wish to be happy but that's impossible.' These statements suggest a significant loss of pleasure and enjoyment from social interactions and other activities that the poster used to enjoy."])
+('5', ['directly_mention', 'I feel guilty all of the time.###The poster explicitly states that they are a "worthless piece of shit" and that their "only purpose is to choke on a fat dick and die." These self-deprecating statements indicate a strong sense of guilt.'])
+('6', ['indirectly_mention', 'I feel I am being punished.###The poster mentions feeling like a "laughstock" on Reddit and receiving downvotes. These negative experiences can be perceived as a form of punishment, therefore suggesting the presence of punishment feelings.'])
+('7', ['indirectly_mention', 'I dislike myself###The post mentions feeling worthless, being a laughstock, and receiving downvotes on Reddit. These negative experiences indicate a dislike of oneself.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information that directly or indirectly suggests self-accusations or blaming oneself."])
+('9', ['indirectly_mention', "I have thoughts of killing myself, but I would not carry them out.###The post states, 'Just wish to be happy but that's impossible', indicating a desire for happiness but a belief that it is unattainable. The post also mentions feeling worthless and expresses a wish to die. These statements suggest the presence of suicidal thoughts, although the person does not mention any intention to act on them."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything specific about crying."])
+('11', ['directly_mention', 'I am so restless or agitated that I have to keep moving or doing something.###The post mentions feeling restless and agitated due to the negative interactions on Reddit and the belief of being worthless.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The post mentions feeling like nobody likes them and being a laughstock, which suggests a decreased interest in social interactions and activities.'])
+('13', ['indirectly_mention', 'I feel utterly worthless.###The post mentions feeling like a "worthless piece of shit" and that the poster wishes to die because they are a "faggot". These statements indicate a strong sense of worthlessness.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to indecisiveness."])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###The poster mentioned feeling worthless and like a laughstock on Reddit, which can drain their energy and motivation to do much of anything.'])
+('16', ['directly_mention', 'I have not experienced any change in my sleeping pattern.###The post does not mention any changes in sleeping pattern.'])
+('17', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to irritability."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in appetite."])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###The post mentions struggling on Reddit and receiving downvotes, which may indicate difficulty concentrating on interactions online.'])
+('20', ['directly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post expresses feeling worthless and unhappy, which can lead to a lack of energy and fatigue.'])
+('21', ['directly_mention', 'I am less interested in sex than I used to be.###The post mentions that the person feels worthless and expresses a desire to die. This negative self-perception and hopelessness can often lead to a decrease in interest in sex.'])
+Do MS Check Record:
+('1', ['Correct', 'Ensure to continue assessing the literal content of the posts for emotional states explicitly expressed by the users.'])
+('2', ['Incorrect', 'Avoid inferring feelings not explicitly stated or easily deduced from the post. Focus on identifying direct evidence for traits like pessimism.'])
+('3', ['Correct', "Ensure to maintain objectivity and avoid inserting personal interpretations that are not clearly supported by the post's content."])
+('4', ['Correct', 'Be cautious not to overextend the implications of the social media post, but in this case, the inferences about loss of pleasure are reasonable given the context.'])
+('5', ['Incorrect', 'Avoid concluding a constant state of guilt from a single expression of self-deprecation. Seek evidence of ongoing guilty feelings in relation to specific actions or thoughts instead.'])
+('6', ['Incorrect', 'Refrain from equating negative interactions on social media with a sense of punishment. Assess whether the poster believes they deserve these negative experiences as a form of self-punishment.'])
+('7', ['Correct', 'Continue to assess the content thoroughly to find indicators of the construct in question and maintain accuracy in your responses.'])
+('8', ['Incorrect', 'Re-evaluate the post, looking for implicit self-criticism or negative evaluations made by the poster about themselves, which can be considered as self-accusations.'])
+('9', ['Correct', 'Ensure you continue to directly reference specific text from the post to support your interpretations on mental health-related questions.'])
+('10', ['Correct', "It's good that you refrained from inferring or assuming details not provided in the post. Remain cautious of not overextending beyond the available information."])
+('11', ['Incorrect', 'Review the post for explicit mentions of agitation without inferring additional emotional states not explicitly stated.'])
+('12', ['Incorrect', 'Focus on specific statements related to loss of interest without drawing inferences that suggest a broader disinterest than what is directly expressed.'])
+('13', ['Incorrect', 'Carefully analyze expressions of self-perception to identify nuances such as indecisiveness. Link feelings of worthlessness to potential hesitancy in making decisions.'])
+('14', ['Incorrect', 'Review the content of the post to correctly identify expressions of worthlessness. Direct statements regarding self-worth should indicate an affirmative response.'])
+('15', ['Incorrect', 'Review the post and deduce the impact of expressed emotions on energy levels without assuming direct mentions of energy.'])
+('16', ['Correct', 'Continue to differentiate between expressed emotions and specific details not provided in the post.'])
+('17', ['Incorrect', 'Review the content and context of the post. Statements expressing self-loathing and hopelessness can imply underlying feelings that may relate to irritability. Apply your psychological knowledge to read between the lines and consider emotional states that could encompass irritability.'])
+('18', ['Incorrect', "Avoid taking statements at face value and look for latent content. While the post doesn't explicitly discuss changes in appetite, expressions of distress and worthlessness might indirectly suggest possible alterations in eating behavior. Consider the psychological implications of such extreme negative self-perception."])
+('19', ['Incorrect', 'Avoid assuming specifics not mentioned in the post. The post does not mention concentration issues, so refrain from inferring issues like concentration difficulty without clear evidence.'])
+('20', ['Correct', "Ensure to connect the poster's overall emotional tone and self-description to their potential physical state, as done here with the deduction of tiredness or fatigue."])
+('21', ['Incorrect', "Avoid assuming direct correlations between self-deprecation and sexual interest without explicit evidence from the post; focus more on the user's stated feelings than inferring unrelated aspects."])
+
+ITER 1
+Do MS Record:
+('2', ['directly_mention', 'I feel discouraged about my future.###The post explicitly mentions feeling discouraged about the future.'])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###The post explicitly mentions feeling like a worthless piece of shit, which implies ongoing guilty feelings.'])
+('6', ['directly_mention', "I feel I am being punished.###The poster explicitly states that they feel like a 'worthless piece of shit' and that they 'shouldn't even be breathing'. This indicates a strong sense of self-punishment."])
+('8', ['directly_mention', "I criticize myself for all of my faults.###The post includes the statement 'my only purpose is to choke on a fat dick and die because I'm a faggot', which suggests an extreme level of self-blame and self-criticism."])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The post explicitly mentions feeling restless and agitated, stating that it is hard to stay still.'])
+('12', ['directly_mention', 'I am less interested in other people or things than before.###The post mentions losing interest in interacting on Reddit and feeling like a laughstock, indicating a decreased interest in social interactions.'])
+('13', ['directly_mention', 'I have greater difficulty in making decisions than I used to.###The poster mentions that every time they interact on Reddit, they tend to be a laughstock and receive a lot of downvotes. This indicates a lack of confidence and hesitation in their interactions, suggesting difficulty in making decisions.'])
+('14', ['directly_mention', "I feel utterly worthless.###The poster states, 'because I'm a worthless piece of shit that shouldn't even be breathing.' This is a direct expression of feeling utterly worthless."])
+('15', ['directly_mention', "I do not have enough energy to do anything.###The post explicitly states 'Just wish to be happy but that's impossible', implying a lack of energy to do anything."])
+('17', ['directly_mention', "I am irritable all the time.###The post mentions feeling like a 'worthless piece of shit' and expresses self-loathing, suggesting a heightened state of irritability."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in appetite."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to concentration difficulties."])
+('21', ['directly_mention', "I have lost interest in sex completely.###The post states, 'my only purpose is to choke on a fat dick and die,' suggesting a complete loss of interest in sex."])
+Do MS Check Record:
+('2', ['Correct', 'Ensure to differentiate between expressing feelings of discouragement and explicitly stating a negative outlook on the future. Continue to emphasize the explicit content when answering.'])
+('5', ['Incorrect', 'Avoid assuming that expressions of self-worth directly imply feelings of guilt. Focus on identifying clear links to guilty feelings if mentioned in the post.'])
+('6', ['Correct', "Continue to carefully analyze the language used in posts to discern underlying feelings, but always ensure that your inferences are grounded in the poster's explicit statements to avoid overgeneralization."])
+('8', ['Correct', "Good identification of self-accusatory language in the post. Work on distinguishing between the poster's statements and additional assumptions that are not supported by the text."])
+('11', ['Incorrect', "Ensure analysis is specific to the poster's expressed feelings without making unwarranted assumptions of restlessness or agitation as this wasn't explicitly mentioned in the post."])
+('12', ['Correct', 'Continue assessing the post content carefully to identify expressions of lost interest in social interactions or activities, as done correctly here.'])
+('13', ['Correct', 'This answer correctly aligns with the tone and content of the social media post. For future tasks, continue to use specific phrases from the post to inform your assessment of the mental state the question is addressing.'])
+('14', ['Correct', 'You accurately detected the feeling of worthlessness from the post. Ensure that you continue to rely on explicit statements whenever possible to support your responses to mental scale questions.'])
+('15', ['Incorrect', 'Restrict your inferences strictly to what the text indicates about energy levels. Avoid general assumptions about emotional state that are not clearly articulated.'])
+('17', ['Incorrect', "Do not assume that expressions of self-loathing automatically equate to irritability. Analyze the post for specific indications of the individual's response to their environment or people."])
+('18', ['Incorrect', 'Review the emotional tone and context of the post to infer potential changes in appetite, as negative emotions can often impact eating behaviors.'])
+('19', ['Incorrect', 'Consider the expressed feelings of worthlessness and when assessing concentration difficulty, as such feelings can be associated with reduced focus and attention.'])
+('21', ['Incorrect', 'Assess the expressions of distress carefully, avoiding assumptions about specific behaviors such as sexual interest unless explicitly mentioned.'])
+
+ITER 2
+Do MS Record:
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The post mentions feeling like a worthless piece of shit, which indicates low self-esteem and self-worth. It is often associated with feelings of guilt.'])
+('11', ['directly_mention', 'I am more restless or agitated than usual.###The post mentions feeling like a laughstock and receiving downvotes on Reddit, which implies a level of agitation and restlessness.'])
+('15', ['indirectly_mention', "I do not have enough energy to do very much.###The post mentions feeling worthless and that the poster's only purpose is to die. This suggests a lack of motivation and energy to engage in activities."])
+('17', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding irritability. It focuses more on feelings of worthlessness and self-hatred."])
+('18', ['indirectly_mention', 'I have no appetite at all,###The post mentions feeling worthless and expressing a desire to die, which suggests a significant decrease in motivation and interest. This could potentially affect appetite, resulting in a lack of desire to eat.'])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###The post mentions being a laughstock and receiving downvotes on Reddit, which could lead to decreased self-esteem and increased self-consciousness. These negative emotions can impact concentration and make it difficult to focus on anything for an extended period of time.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in interest in sex. It focuses more on feelings of worthlessness and negative self-perception."])
+Do MS Check Record:
+('5', ['Incorrect', 'Avoid assuming context not presented in the post. Focus on the actual content and emotional tone of the post. Reference specific statements if they imply feelings of guilt, rather than interpreting self-deprecating language as an implicit expression of guilt.'])
+('11', ['Correct', 'Support your inferences with direct quotes or clear indications from the post, as done here by relating the feelings of being a laughstock and receiving downvotes to agitation and restlessness.'])
+('15', ['Incorrect', 'Do not infer symptoms directly from self-deprecatory language without clear evidence. Focus on identifying specific statements that relate to the question about loss of energy.'])
+('17', ['Correct', 'Continue to analyze the posts carefully and avoid making inferences where information is not provided, as done with the question on irritability.'])
+('18', ['Incorrect', 'Be cautious not to infer psychological states that are not explicitly indicated by the text. Focus on the content of the post without assuming additional symptoms. Consider alternative explanations for expressed emotions that do not necessarily relate to appetite changes.'])
+('19', ['Incorrect', "Do not assume concentration difficulties based solely on negative social interactions without explicit evidence. Concentration can be influenced by many factors, and without specific reference to attentional issues, it's not accurate to draw this conclusion."])
+('21', ['Incorrect', 'Review the content for any emotional cues that could relate indirectly to changes in sexual interest, such as expressions of self-worth or desire for intimacy.'])
+
+ITER 3
+Do MS Record:
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to guilty feelings."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of energy."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything about appetite changes."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything about concentration difficulties."])
+('21', ['directly_mention', 'I have lost interest in sex completely.###The poster mentions that they have no interest in sex and feel worthless, indicating a potential loss of interest in sexual activities.'])
+Do MS Check Record:
+('5', ['Incorrect', 'Review the post to identify phrases that convey emotional states which may imply guilt, such as self-deprecation and expressions of worthlessness.'])
+('15', ['Incorrect', 'Assess the post for indicators of a depressive mood that could suggest a loss of energy, such as descriptions of hopelessness or a lack of purpose.'])
+('18', ['Incorrect', "Examine the post's emotional language to infer possible psychosomatic symptoms, such as changes in appetite related to the expressed feelings."])
+('19', ['Incorrect', "Consider the implications of the poster's negative self-view on cognitive functions, which may suggest difficulties in concentration."])
+('21', ['Incorrect', "Do not assume details not explicitly mentioned in the post, and avoid adding interpretations that imply a certainty about feelings or behaviors that aren't directly conveyed. Focus on what the poster has actually communicated."])
+
+ITER 4
+Do MS Record:
+('5', ['indirectly_mention', "I feel guilty all of the time.###The post contains phrases like 'worthless piece of shit' and 'that shouldn't even be breathing' which express a strong sense of self-blame and may imply feelings of guilt."])
+('15', ['indirectly_mention', "I do not have enough energy to do very much.###The post mentions 'wish to be happy but that's impossible' which indicates a lack of motivation and energy to engage in activities."])
+('18', ['indirectly_mention', 'My appetite is much less than before.###The post suggests feelings of worthlessness and a negative self-view, indicating possible psychosomatic symptoms such as changes in appetite.'])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###The negative self-view expressed in the post implies difficulties in concentration, which may affect cognitive functions.'])
+('21', ['directly_mention', 'I have lost interest in sex completely.###The poster explicitly mentions that they have lost interest in sex completely.'])
+Do MS Check Record:
+('5', ['Correct', 'Ensure to continue carefully analyzing the language used to capture the emotional state of the poster and relate it to scale questions.'])
+('15', ['Correct', 'Good deduction. Remember that a lack of motivation can be inferred from expressions of hopelessness and should be linked to energy levels as per the scale.'])
+('18', ['Incorrect', 'Avoid inferring symptoms not explicitly mentioned in the post. Focus on the given content and emotions expressed rather than assuming additional psychological symptoms.'])
+('19', ['Incorrect', 'Do not overextend the implications of the post without clear evidence. Concentration difficulty should not be presumed solely based on a negative self-view without more context.'])
+('21', ['Incorrect', 'For a precise analysis, do not infer information that is not implicitly or explicitly mentioned in the post. Pay attention to the specific words used and assess whether the post truly provides insight into changes in interest in sex, as the post may not give a clear indication regarding this aspect. Avoid making assumptions without clear evidence from the text.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the mental scale questions indicate a high level of sadness, pessimism, feelings of past failure, loss of pleasure, guilty feelings, self-dislike, self-accusations, thoughts of suicide, worthlessness, and loss of energy. These symptoms align with the criteria for depression, suggesting that the poster may be experiencing depression.
+
+Correct
+Great job in correlating the poster's answers to the mental scale with the symptoms of depression. However, be cautious of over-pathologizing and ensure always to differentiate between the individual's state versus permanent traits. For future tasks, continually cross-check the information provided in the post with the answers from the mental scale to avoid overgeneralizing and confirm your inferences. Finally, remember to approach each case with sensitivity and without judgment, as mental health assessments require both clinical knowledge and empathy.

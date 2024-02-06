@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I still remember that image of you and him so close together in that hallway alone. It burned itself into my mind. I get it though. I wasn't as athletic or good looking as him, nor was I popular. My grades were slightly below average, so that didn't help as much. I know my situation before and now isn't your fault at all, but my whole experience with you was just terrible. I tried to look at the brighter side of things before. So, from what I've learned: 1. Don't get close to anyone that fast 2. She doesn't have any interest in you 3. When faced with a difficult emotion, think of nothing and it will soon go away. Side effects may include lack of emotion of practised long enough.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of inadequacy and comparing oneself unfavorably to others, which can contribute to a sense of burden on others. The mention of 'terrible' experience and trying to avoid difficult emotions also suggests a potential risk of perceived burdensomeness.
+

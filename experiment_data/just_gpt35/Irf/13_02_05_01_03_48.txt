@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I am feeling sick. Anxious. I need some help please  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of sickness and anxiety, which may suggest a perceived burden on the individual's well-being. Seeking help can also be an indication of perceived burdensomeness.
+

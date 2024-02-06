@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I only take Lexapro. I was watching some videos on these guy that call themselves  Preppers  and they prep for the end of the world. They say that people on any types of drugs will become unstable and focused on getting their fix or whatever. Is that us?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show any indication of perceived burdensomeness. It is simply asking about the effects of medication in relation to prepping for the end of the world.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I've been going to therapy for about 5 months now and I've noticed some improvements in my anxiety and depression. I've been going through CBT which has lots of research support, but I always find myself slacking off on changing my behaviours and when I do that. I revert back to being depressed and suicidal. I guess I'm kind of looking for an easy fix as crazy as that sounds. Those who have gone on medication like Zoloft, Ativan, Xanax, Prozac. How was your experience with them? Did they help things or make things worse? Would it be beneficial to take meds along with therapy? I'm honestly tired of feeling like shit constantly, it's eating me alive.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling depressed and suicidal, as well as constantly feeling like shit. These feelings indicate a lack of belongingness, which is a risk factor for suicide.
+

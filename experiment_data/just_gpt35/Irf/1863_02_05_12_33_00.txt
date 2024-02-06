@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  So I'm 99% sure I'm struggling with depression and have been for the past 2 weeks. Every time I try and talk to friends about it, they just pass me on to helplines and such. I've done it once. But it just takes too long to explain my fkn life story and why I'm fucked up. Am I doing it wrong? What should i even be saying? Like I don't really think there's any point in it  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person feels like a burden to others when it comes to talking about their struggles with depression. They mention that it takes too long to explain their life story and why they feel messed up, suggesting they feel like it is a burden to put that on others.
+

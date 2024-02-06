@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  He left us and it caused us to lose our house which was my ptsd coping mechanism. I just want to give up. This abandonment pain is deep heavy shit. I should just give up and die cause my own father left me to this horrible fate. God it fucking hurts I cant stop crying my chest hurts. Why do I deserve this fate. Fuck.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden and a belief that their existence is causing harm to others. The mention of wanting to give up and die suggests a high level of perceived burdensomeness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I hate to be negative but I am just super tired. I've been pretending to be okay, happy, normal since I was 12. I've had breakdowns but it was easy to pretend I was okay and I could get through them because I was in middle or high school. I had my biggest breakdown in my life ever in January. And nothing has changed. I still feel the same. It's been 12 months and I'm just even more tired. I don't even feel anything anymore besides the occasional crippling sadness/loneliness. I binge and I don't feel anything anymore. I buy things and I don't feel anything anymore. I've been struggling and working so hard to change and nothing has changed. I honestly can't keep living like this, and I can't keep living if I will never be happy. I don't know how to be happy. I need someone to talk to, I don't have anyone. I pretend all the time, nobody thinks anything is wrong with me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses a consistent feeling of loneliness and a lack of emotional connection with others. The poster mentions not having anyone to talk to and constantly pretending to be okay, indicating a significant risk of thwarted belongingness.
+

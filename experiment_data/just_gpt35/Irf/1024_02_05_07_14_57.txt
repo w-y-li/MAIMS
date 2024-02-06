@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My cousin died last weekend. My dad and I did not attend the funeral because he molested me when I was a kid. My family is angry with us.... particularly my dad. There has been a rift for years and recently it felt like it was getting better but now it's all fucked again. Ever since he died I've had an overwhelming amount of emotions some angry, mostly angry.. now I feel sad for being the root cause of this rift. My family is angry and I can't tell them why. I don't want to and honestly what good would it do now. I'd rather just deal with it and move on. I feel like it's all my fault. Everything feels overwhelming I just feel like I can't.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the poster feels isolated and disconnected from their family due to the ongoing rift caused by the abuse they faced. They express feelings of guilt and believe that everything is their fault. These feelings of isolation and guilt are indicative of thwarted belongingness.
+

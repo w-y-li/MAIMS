@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I gave up all the weed and alcohol that I was doing last semester, but it was the only thing that helped. I feel like I have no one at all. I ruin everything and every friendship i have. If I don't get on something that takes me away from this dark, dark room that's my head, I cannot last long. This is all too much. Is there anybody out there even reading this? Will anyone care?  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of isolation, self-blame, and a desire for escape from distressing thoughts. These indicate a risk of perceived burdensomeness, where the individual may feel like a burden to others and believes that their existence causes problems for those around them.
+
+Correct
+Continue to use direct excerpts from posts to support your assessments while ensuring that other potential interpretations are also considered.

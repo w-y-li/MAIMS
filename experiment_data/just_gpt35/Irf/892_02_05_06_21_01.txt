@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Im a 21 year old guy who has become highly addicted to marijuana and alcohol and I feel like Im splitting my personality. Like I find myself arguing with myself and sleepless for days. I dont know what to do. It just doesnt make sense as a person. Ive dealt with plenty depressed lulls in my life but this feel noticably going downward. Does anyone have anything to help?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of splitting personality, arguing with oneself, and sleeplessness which could signify a risk of thwarted belongingness. This person may be experiencing a decrease in their sense of social connection and support.
+

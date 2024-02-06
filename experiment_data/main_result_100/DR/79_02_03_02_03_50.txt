@@ -1,0 +1,118 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I’m quite literally dead inside Even when I feel emotions, it’s just despair and sadness. The rest of it just pure numbness. I can’t remember half the thing I was doing today and I don’t even care. The only thing keeping me alive is video games and the hope of some new bond in the next school year. Eventually, it won’t be enough. I’ve always felt broken inside. Ever since 6th grade. But there. Just needed some of that off my chest. Sorry for bitching and wasting your time.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###The post directly mentions feeling sadness and despair, indicating that the person feels sad much of the time.'])
+('2', ['indirectly_mention', 'I feel I have nothing to look forward to.###The post talks about pure numbness and not caring about their daily activities, which suggests a lack of motivation and hope for the future, indirectly indicating a feeling of having nothing to look forward to.'])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The post mentions feeling broken inside since 6th grade. This suggests a potential history of past failures, which aligns with feeling like I have failed more than the average person.'])
+('4', ['directly_mention', 'I get very little pleasure from the things I used to enjoy.###The post mentions pure numbness and only finding joy in video games and the hope of a new bond in the next school year. This implies that I do not get much pleasure from the things I used to enjoy.'])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time###The post mentions feeling despair and sadness, which are negative emotions that could potentially lead to guilt. The poster also expresses feelings of being broken inside, which could contribute to feelings of guilt.'])
+('6', ['indirectly_mention', 'I feel I may be punished###The post mentions feeling numbness and not caring about things, which could be viewed as a form of self-punishment. Additionally, the poster mentions feeling broken inside since 6th grade, which could imply a sense of punishment or feeling deserving of punishment.'])
+('7', ['indirectly_mention', 'I dislike myself.###The poster mentions feeling broken inside since 6th grade, which implies a dislike for oneself.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The poster mentions feeling numb and not caring about their actions, which suggests increased self-criticism and self-blame.'])
+('9', ['directly_mention', 'I do not have any thoughts of killing myself.###The post mentions that the only thing keeping me alive is video games and the hope of some new bond in the next school year. This implies that although the person may feel dead inside, they still have a will to live.'])
+('10', ['indirectly_mention', 'I cry more than I used to.###The post mentions feelings of despair and sadness, which indicates a higher level of emotional distress. This suggests that the person may cry more than they used to as a way of expressing their emotions.'])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The poster mentions feeling pure numbness, which suggests a lack of physical and emotional activation. This numbness can be interpreted as a form of agitation that makes it hard to stay still.'])
+('12', ['indirectly_mention', 'I have lost most of my interest in other people or things.###The poster mentions feeling despair, sadness, and pure numbness, indicating a profound lack of interest and engagement with others and activities. This suggests a loss of interest.'])
+('13', ['indirectly_mention', 'I have greater difficulty in making decisions than I used to.###The post mentions feeling numbness and not caring about things, which indicates a lack of motivation and interest. These symptoms often accompany difficulties in making decisions.'])
+('14', ['indirectly_mention', "I feel more worthless as compared to other people.###The post mentions feeling broken inside and despair, which could indicate a feeling of worthlessness in comparison to others. The poster also apologizes for 'bitching and wasting your time,' suggesting a lower sense of self-worth."])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###The post mentions feeling despair, sadness, and numbness, which suggests a lack of energy to engage in activities.'])
+('16', ['directly_mention', 'I sleep somewhat less than usual.###The post states the inability to sleep and difficulty in remembering daily activities, which could indicate a change in sleeping pattern.'])
+('17', ['indirectly_mention', 'I am much more irritable than usual.###The post mentions that the poster feels despair, sadness, and numbness, which are all indicators of a low mood. Feeling constantly low and emotionally unresponsive can lead to increased irritability.'])
+('18', ['directly_mention', "I have no appetite at all.###The post mentions that the poster doesn't care about half of the things they were doing today, indicating a lack of interest or motivation. This lack of interest could extend to their appetite, resulting in having no appetite at all."])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###The post mentions that the poster cannot remember half of what they were doing today, indicating difficulties with concentration.'])
+('20', ['directly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post mentions feeling pure numbness and being too tired or fatigued to do most of the things they used to do, indicating tiredness or fatigue.'])
+('21', ['indirectly_mention', 'I have almost no interest in sex.###The post mentions that the individual is feeling pure numbness and despair, and has lost interest in many things. This could imply a decrease in interest in sex as well.'])
+Do MS Check Record:
+('1', ['Correct', 'Ensure to continue recognizing direct references in the post when assessing emotions.'])
+('2', ['Correct', 'Remember that indirect references can still be informative. Keep making connections between emotions and described experiences.'])
+('3', ['Correct', 'When answering, continue to look for implicit evidence of the mental state in question, such as references to past feelings, to support your deductions.'])
+('4', ['Correct', 'Great job identifying relevant information. Ensure to maintain a balance and do not infer beyond what is expressed. Continue being specific about the evidence that supports your conclusions.'])
+('5', ['Incorrect', 'While the emotions of despair and sadness are noted in the post, it does not provide clear evidence of guilt. Be cautious not to assume guilt without explicit information or more context that indicates the poster feels responsible for something they feel was wrong.'])
+('6', ['Incorrect', 'The post does not explicitly mention feelings of being punished. Whilst feeling numb and broken could imply self-punishment, it is not prudent to infer that without additional context. Ensure that interpretations are closely tied to the content provided in the post.'])
+('7', ['Correct', 'Ensure to continue identifying emotional expressions that imply self-perception to accurately infer feelings of self-dislike.'])
+('8', ['Correct', 'Good job on recognizing implied emotions. Keep looking for subtle cues in language that might indicate self-criticism or self-accusations.'])
+('9', ['Incorrect', 'Review the post for explicit mentions of suicidal ideation or wishes. Explore alternative interpretations and remember that expressions of hope indicate a will to live, not necessarily an absence of suicidal thoughts.'])
+('10', ['Incorrect', 'Find evidence in the post that supports any claims about behavior changes, such as crying more. Avoid assumptions about behavior based solely on expressed emotions without direct mention.'])
+('11', ['Incorrect', 'Revisit the post and note the absence of any direct mention of feeling agitated. Consider other interpretations of numbness that may not imply restlessness or agitation.'])
+('12', ['Correct', 'You correctly identified the loss of interest. In future tasks, continue to analyze the emotions and behaviors that the poster explicitly mentions to infer accurate answers to the mental scale questions.'])
+('13', ['Correct', 'Ensure to continue analyzing the emotional content of the post, noting expressions of apathy or diminished interest, that could relate to indecisiveness. However, always cross-check with the post to confirm that such inferences are well-grounded in the presented evidence.'])
+('14', ['Correct', "Good job identifying emotions that may relate to self-worth. Keep in mind to look for explicit cues in the post that correspond to the concept you are inferring, like the apology for 'wasting your time', but be cautious of overextending beyond what is available in the text."])
+('15', ['Correct', 'Good job on connecting the expressed feelings of despair and numbness to loss of energy. However, ensure you are not oversimplifying the relationship between emotional states and energy levels; consider other factors that might contribute.'])
+('16', ['Incorrect', "Careful with assuming specific details about sleep not mentioned in the post, such as 'the inability to sleep.' Instead, focus on what is directly conveyed — the mention of numbness and forgetfulness may hint toward sleep issues, but does not confirm a change in sleeping pattern."])
+('17', ['Incorrect', 'Be cautious not to make assumptions unless the post provides clear evidence. Analyze the words used for any indication of irritability but avoid inferring emotions not explicitly mentioned.'])
+('18', ['Incorrect', 'Do not assume changes in appetite based on unrelated statements about memory or carelessness. Look for direct evidence or explicit mentions regarding eating patterns or appetite changes.'])
+('19', ['Correct', "Ensure all deductions about the poster's emotional and cognitive state are rooted in concrete evidence from the post."])
+('20', ['Incorrect', 'Re-evaluate the provided information and avoid inferring symptoms like tiredness or fatigue unless explicitly stated or indirectly implied by the content of the post.'])
+('21', ['Correct', 'Your inference about the lack of interest in sex based on the expressed numbness and despair in the post seems justified. However, be cautious not to overextend beyond the information given, and always preface your conclusions as speculative if the content is not directly addressed.'])
+
+ITER 1
+Do MS Record:
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention any feelings of guilt."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention any feelings of punishment."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention anything about suicidal thoughts or wishes."])
+('10', ['directly_mention', 'I cry all the time now.###The post explicitly mentions feeling despair and sadness, which can contribute to crying more often than before.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling restless or wound up than usual."])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###Although the post does not directly mention changes in sleeping patterns, it does mention feeling numbness and forgetfulness. Numbness and forgetfulness can often be associated with sleep issues, which may indicate a change in sleeping pattern, specifically sleeping somewhat less than usual.'])
+('17', ['indirectly_mention', 'I am much more irritable than usual.###The post mentions feeling emotions such as despair and sadness, which indicates a negative emotional state. This could be associated with irritability, although it is not explicitly mentioned.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions feeling numbness and not caring about half the things done during the day. This lack of interest may also extend to appetite, resulting in somewhat decreased eating.'])
+('20', ['indirectly_mention', "I am too tired or fatigued to do most of the things I used to do.###The post indicates that the poster is experiencing numbness and lack of interest in their daily activities, stating that they can't remember half of what they did today and don't even care. This suggests a lack of energy and motivation, which can be indicative of feeling too tired or fatigued to engage in usual activities. However, it is important to note that the post does not explicitly mention tiredness or fatigue."])
+Do MS Check Record:
+('5', ['Incorrect', "Consider exploring how expressions of feeling 'dead inside' and experiencing 'despair and sadness' could relate to the concept of guilt in the context of not fulfilling personal expectations or societal norms, which is a common source of such emotions."])
+('6', ['Incorrect', "Reflect on how the individual's mention of feeling 'broken inside' since 6th grade and the absence of caring could imply a sense of self-directed punishment or a belief in being deserving of negative experiences, thus answering about punishment feelings."])
+('9', ['Incorrect', 'Consider the expression of feelings and the context suggesting hopelessness. Look for any implicit indication of suicidal thoughts, such as phrases that imply a lack of future orientation or despair.'])
+('10', ['Correct', "Your inference is reasonable as emotions of 'despair and sadness' are often associated with crying. However, ensure that your interpretation aligns with explicit cues without overgeneralizing."])
+('11', ['Incorrect', 'Review the post for emotional descriptors; agitation may be inferred from expressions of distress or emotional turmoil.'])
+('16', ['Correct', 'Good inference linking numbness and forgetfulness to potential sleep issues. Continue to use contextual clues for establishing indirect mentions.'])
+('17', ['Correct', 'Consider clarifying how emotional states such as despair might naturally correlate with irritability to strengthen your inference.'])
+('18', ['Correct', 'When inferring changes in appetite, cross-reference with other expressions of disinterest or numbness for a stronger reasoning foundation.'])
+('20', ['Correct', 'Ensure future assessments differentiate between explicitly stated symptoms and those inferred from the context.'])
+
+ITER 2
+Do MS Record:
+('5', ['indirectly_mention', "I feel quite guilty most of the time###The post mentions feeling 'dead inside' and experiencing 'despair and sadness.' Feelings of guilt can often be associated with these emotions, as the individual may feel guilty for not fulfilling personal expectations or societal norms, leading to their feelings of despair and sadness. Hence, I deduce that the person feels quite guilty most of the time."])
+('6', ['directly_mention', "I feel I am being punished###The post mentions feeling 'broken inside' since 6th grade, which could imply a sense of self-directed punishment or a belief in being deserving of negative experiences. Additionally, the individual mentions feeling pure numbness and not caring about their actions. This lack of caring could be interpreted as expecting or feeling as if they are being punished. Therefore, I deduce that the person feels they are being punished."])
+('9', ['indirectly_mention', 'I would like to kill myself.###The post mentions feeling despair and sadness, as well as feeling broken inside since 6th grade. The mention of being dead inside and having pure numbness suggests a lack of future orientation and hopelessness. This indicates a possibility of having suicidal thoughts or wishes.'])
+('11', ['indirectly_mention', 'I am so restless or agitated that it is hard to stay still.###The post mentions feeling restlessness, as well as being unable to remember half the things done during the day. This suggests a heightened level of agitation, making it hard to stay still.'])
+Do MS Check Record:
+('5', ['Incorrect', 'Avoid assuming emotions not explicitly mentioned in the post. Without clear indicators of guilt, suggest possibilities rather than definitive states of feeling.'])
+('6', ['Incorrect', 'Do not extrapolate feelings of punishment without clear evidence; refer only to emotions and states presented in the post.'])
+('9', ['Incorrect', 'Be mindful not to conflate expressions of distress with explicit suicidal thoughts. Look for direct mentions or clear indicators before concluding on such a serious matter.'])
+('11', ['Incorrect', 'Do not infer agitation solely from forgetfulness or lack of care. Agitation typically involves physical restlessness, which was not described in the post.'])
+
+ITER 3
+Do MS Record:
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention any feelings of guilt or indicate any actions that would lead to guilt."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not indicate any feelings of punishment or suggest any actions that would result in punishment."])
+('9', ['directly_mention', "I have thoughts of killing myself, but I would not carry them out.###The post mentions feeling despair and sadness, as well as feeling broken inside. It also mentions the poster being 'dead inside' and expresses that video games and the hope of new bonds are the only things keeping them alive. These statements suggest some level of depression and hopelessness, but there is no indication of a desire to actually carry out suicide."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything about restlessness or agitation. It mainly focuses on the feelings of despair, sadness, numbness, and brokenness, as well as the coping mechanisms of video games and hope for the future."])
+Do MS Check Record:
+('5', ['Incorrect', 'Reassess the emotional content described in the post; Despair may imply guilt about current life circumstances or past actions.'])
+('6', ['Incorrect', 'Consider feelings of punishment as a component of despair and assess how these might manifest in the described numbness or disinterest in daily activities.'])
+('9', ['Correct', 'Ensure to maintain objectivity and avoid inferring thoughts or intentions not explicitly stated in the post. Good job on identifying expressed emotions and linking them to potential suicidal ideation without overstepping into assumption.'])
+('11', ['Incorrect', 'Even if agitation is not explicitly mentioned, use context clues to infer possible psychological states. The poster’s inability to remember and not caring could suggest a level of agitation or restlessness. Look for indirect signs and read between the lines.'])
+
+ITER 4
+Do MS Record:
+('5', ['indirectly_mention', 'I feel guilty all of the time.###The post mentions feeling emotions of despair and sadness, which can lead to guilt. The poster also expresses feeling broken inside since 6th grade, which could contribute to ongoing guilt.'])
+('6', ['indirectly_mention', 'I feel I am being punished.###The post mentions feeling numbness and not caring about daily activities, which could indicate a sense of punishment or undeserving. The poster also mentions feeling broken inside since 6th grade, which could contribute to a sense of ongoing punishment.'])
+('11', ['directly_mention', 'I am so restless or agitated that I have to keep moving or doing something.###The poster mentions feeling pure numbness and not caring about things, which could be indicative of high levels of restlessness and agitation.'])
+Do MS Check Record:
+('5', ['Incorrect', 'Be cautious of assuming feelings not explicitly stated. Focus on the emotional content that is present; guilt was not directly mentioned.'])
+('6', ['Incorrect', 'Avoid inferring a sense of punishment without clear evidence. Stick to emotions and thoughts expressed directly in the post.'])
+('11', ['Incorrect', "Avoid assuming emotions that aren't explicitly mentioned in the post. The poster talks about numbness, not agitation. Focus on the emotions and behaviors that are clearly described."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the mental scale questions indicate symptoms of depression, such as feeling sad, having no pleasure, self-dislike, self-accusations, suicidal thoughts, loss of interest, indecisiveness, worthlessness, loss of energy, changes in sleeping pattern, irritability, changes in appetite, concentration difficulty, tiredness or fatigue, and changes in interest in sex. These symptoms align with the diagnostic criteria for depression, suggesting that the poster is likely suffering from depression.
+
+Correct
+Ensure to consider each piece of evidence carefully, avoiding overgeneralization or assumptions. When analyzing symptoms, correlate them directly with relevant criteria for mental health conditions to maintain accuracy. Continuously refine your diagnostic skills by cross-referencing with established diagnostic guidelines.

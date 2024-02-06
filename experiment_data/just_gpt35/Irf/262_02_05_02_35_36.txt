@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My life I feel is just a mess lately. Whenever I do get in the mood to clean my house, my two children always destroy it. I wonder what‚Äôs the point, but I hate living like this. I have absolutely no motivation to do anything. My days are usually filled with binge watching tv shows and ignoring the mess because I find no enjoyment in the things I used to do. Everything seems like too much work and I feel like I‚Äôm drowning and don‚Äôt know what to do. Therapy doesn‚Äôt help and neither does medication. I need someone‚Äôs constant presence but I‚Äôm all alone.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling alone and needing someone's constant presence, indicating a lack of social connection and potential thwarted belongingness.
+

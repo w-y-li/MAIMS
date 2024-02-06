@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  28, Male, Denver, divorced two years ago, then got the greatest job, lots of money, just got laid off... and now I'm broke. Just applied for unemployment... I grew up in a family w mental illness and some abuse, not super close to parents or siblings, or friends really... I have enough friends but... God I just feel like... so fuckin alone now. I need connection and intamacy but I have become cold and untrusting... and there's a part of me that has hope and is positive and strong - and I'm a good man, but I struggle with addiction to niccotine weed and alcohol... and depression... I'm hyper critical of myself and lazy from depression and make all these excuses... like... fuck I just want to hug myself and love myself or meet someone as cold as me and hug them because I know it... So if you're reading this - just know, you deserve to love yourself and nurture yourself. You deserve to do things that are good for you and make you happy. Know that it's okay to let someone love you, and to love them. Love just for the sake of sharing kindness with someone. Be kind to yourself. It isn't easy for anyone to be human and this world should have more love in it. No matter how cold, don't forget ... I love you.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of loneliness and a desire for connection and intimacy. The poster mentions feeling alone and not being close to family or friends. This sense of isolation suggests a risk of thwarted belongingness, which is a psychological state characterized by a lack of social connection and support.
+

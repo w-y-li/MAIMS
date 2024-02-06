@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I talked to someone at the hospital a couple of years ago when i was on the edge of killing myself but i was to tired to meet up so i acted like i had gotten much better and so i did not have to visit anymore. But after a break down this fall i have been convinced i need to try it again so i will. I am depressed but i dont know why, no clue, i just dont like living at all, its just not for me, and it makes me sad. But thats it, how can that be cured?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness and a desire to end one's life, suggesting a risk of perceived burdensomeness.
+

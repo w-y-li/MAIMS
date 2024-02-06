@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Does anyone else get such intrusive thoughts like “I hate myself, I should cut myself, I wanna die” that are so intense you have to say it out loud? Sometimes when I get into a cycle of negative thoughts they are so strong and it’s just automatic that I say it out loud. Sometimes if just comes out as an “oh my god” but other times I actually say those thoughts to myself. Physically telling myself that I’m stupid, I have no worth, I wish I could die. Does anyone feel this compulsive need to say their thoughts out loud?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The post mentions having intense negative thoughts and feeling the need to say them out loud. These thoughts include self-hatred, wanting to cut oneself, and wishing to die. These are all indicators of intense sadness.'])
+('2', ['indirectly_mention', 'I feel the future is hopeless and that things cannot improve.###The post mentions feeling that oneself is stupid, has no worth, and wishing to die. These negative thoughts imply a sense of hopelessness and pessimism about the future.'])
+('3', ['indirectly_mention', "I feel I have failed more than the average person###The post mentions that the individual has negative thoughts about themselves, saying things like 'I'm stupid' and 'I have no worth'. These thoughts can be indicative of feelings of failure or low self-esteem."])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to###The post mentions that the individual is in a cycle of negative thoughts and feels the need to say them out loud. This could indicate a loss of pleasure or enjoyment from activities that were once enjoyable to them.'])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###The post mentions having negative thoughts and calling themselves stupid and worthless which are indicative of guilt.'])
+('6', ['indirectly_mention', 'I feel I may be punished.###The post mentions having intrusive thoughts about self-harm and a desire to die, which can be interpreted as feeling a need for punishment.'])
+('7', ['directly_mention', 'I dislike myself.###The post explicitly mentions the intense negative thoughts the person has about themselves, such as feeling stupid, having no worth, and wishing to die. This indicates a strong self-dislike.'])
+('8', ['directly_mention', 'I am more self-critical or blaming than usual.###The post mentions the compulsive need to say negative thoughts out loud, including self-critical and self-accusatory statements like being stupid and having no worth. This suggests an increase in self-criticism compared to usual.'])
+('9', ['directly_mention', "I have thoughts of killing myself, but I would not carry them out.###The post mentions having thoughts of self-harm and the desire to die, indicating the presence of suicidal thoughts. However, the poster clarifies that they would not carry out these thoughts, suggesting they fall under the option 'I have thoughts of killing myself, but I would not carry them out."])
+('10', ['indirectly_mention', "I cry more than I used to.###The post describes feeling intense negative thoughts and a compulsive need to say them out loud. This emotional distress, along with the mention of feeling worthless, might suggest an increase in crying, indicating the option 'I cry more than I used to.'"])
+('11', ['indirectly_mention', 'I am so restless or agitated that I have to keep moving or doing something.###The post mentions feeling agitated and having intrusive thoughts that are intense and automatic. This suggests a restlessness and agitation that may compel the individual to say their thoughts out loud.'])
+('12', ['indirectly_mention', 'I have lost most of my interest in other people or things.###The post mentions feeling negative, having low self-worth, and wishing to die. These thoughts and feelings may indicate a loss of interest in general activities and other people.'])
+('13', ['indirectly_mention', 'I have greater difficulty in making decisions than I used to.###The post mentions being in a cycle of negative thoughts, which may indicate difficulty in making decisions due to the overwhelming negative emotions.'])
+('14', ['directly_mention', 'I feel more worthless as compared to other people.###The post directly mentions feeling stupid, having no worth, and wishing to die, all of which indicate feeling more worthless compared to other people.'])
+('15', ['directly_mention', 'I have less energy than I used to have.###The post mentions experiencing intense negative thoughts, such as self-hatred and a desire to die. These thoughts can be emotionally draining, leading to a loss of energy.'])
+('16', ['directly_mention', 'I have not experienced any change in my sleeping pattern.###The post does not mention any changes in sleeping pattern, indicating that the sleeping pattern has remained the same.'])
+('17', ['directly_mention', 'I am much more irritable than usual.###The post mentions intrusive thoughts that are negative and intense, and the poster states that sometimes they say these thoughts out loud. This indicates a high level of irritability, as the thoughts are strong and automatic.'])
+('18', ['directly_mention', 'My appetite is somewhat less than usual.###The post mentions being caught in a cycle of negative thoughts and having thoughts of self-hatred, self-harm, and death. Such intense negative thoughts can often lead to changes in appetite, including a somewhat decreased appetite.'])
+('19', ['indirectly_mention', 'I find I can not concentrate on anything.###The post mentions the experience of having intense negative thoughts and the need to say them out loud. This suggests difficulty in concentration and indicates that I cannot concentrate on anything.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post discusses the cycle of negative thoughts and how they are so strong that they are automatically said out loud. This level of intensity and exhaustion indicates that I am too tired or fatigued to do most of the things I used to do.'])
+('21', ['directly_mention', 'I have almost no interest in sex.###The post directly mentions a decrease in interest in sex, as the poster describes feeling intense negative thoughts and compulsively saying them out loud. This suggests a significant decrease in interest in sex.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to the questions indicate symptoms of depression. They reported feeling sad much of the time, having a pessimistic outlook on the future, experiencing past failure, loss of pleasure, guilty feelings, self-dislike, self-accusations, and thoughts of killing themselves. These are consistent with the diagnostic criteria for depression.
+

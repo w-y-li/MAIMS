@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I was getting better... until I ruined everything. Now everyone hates me. I have nobody to turn to until my therapy appointment on Saturday...it‚Äôs too far away...how am I supposed to show my face in school tomorrow when even my best friends hate me now? I‚Äôm failing chemistry. My teachers a pervert. I want to die soon. I‚Äôm done.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the poster feels isolated, rejected, and lacking social support. They mention that everyone hates them, their friends hate them, and they have nobody to turn to until their therapy appointment. These feelings of social rejection and isolation indicate a risk of thwarted belongingness.
+

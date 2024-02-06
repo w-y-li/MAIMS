@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  hi i'm very distressed right know. Recently met this guy who said he wants to murder someone before he ends his life, doesn't respond to my chat messages anymore. Idk what to do, I feel guilty af if hes serious about it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person is feeling guilty because they believe they may be a burden to the guy who expressed thoughts of murder. This guilt suggests a risk of perceived burdensomeness.
+

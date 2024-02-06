@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Had to talk about myself in a group setting today We were all given the task of talking about our lives one at a time for two minutes Before everyone started, I asked how negative shit could be Everyone laughed When my turn came I basically said: I used to have hopes and dreams, gave up, wasted years getting fucked up, almost died a few times and now I'm trying to fix my life but it's a slow process and I regret 80% of my life No one laughed then Funny that  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement reflects feelings of hopelessness, regret, self-destructive behavior, and a slow process of trying to fix their life, which are indicative of depression symptoms.
+

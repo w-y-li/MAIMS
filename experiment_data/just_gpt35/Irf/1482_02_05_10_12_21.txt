@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I am searching my ass off in google and it looks like these world wide approved drugs (also known as reversible MAOI's) are not available in the USA. This can't possibly be true, can it? Please, someone prove me wrong!!!!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of thwarted belongingness.
+

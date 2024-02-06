@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  It's big day for me and I feel guilty for not being happy and not wanting to enjoy it but all I want to do is to shut myself off from everyone and sleep. I remember I used to be so happy about my birthday coming up but now I just don't want to celebrate it anymore.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of desire to celebrate an important day and a preference to isolate oneself from others, which can be indicative of thwarted belongingness.
+

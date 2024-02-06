@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I can just enjoy myself at a party until a thought hits me and I suddenly lose all life in myself. I can be on Cloud 9 until some insignificant thing just makes me feel worthless. I hate it. I hate being sad all the time. I'm trying to just stay positive but things are easier said than done. It's hard, but for now, I'll have to deal with this overarching sadness.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of worthlessness and sadness, which could indicate a sense of social disconnection and the absence of belongingness. The mention of losing all life in oneself and feeling sad all the time suggests a potential risk of thwarted belongingness.
+

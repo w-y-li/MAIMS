@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Tired of being lonely but there’s not much I can do about it. I just want to feel like there’s someone to talk to out there but, no one in my life ever wants to talk with me about anything except to yell at me or to tell me to do something. That is the extent of my daily social life. I could probably go a month without saying anything or talking to anyone and no one would even care or notice, I need social interaction like anyone else, but what do I do if I can’t get it? I can interact at work ok, but that’s not really the same. Online interaction isn’t really the same either.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of loneliness, lack of social interaction, and a sense of isolation. They mention that no one in their life wants to talk to them about anything and that their daily social life consists of being yelled at or being given orders. They also mention feeling like no one would notice if they went a month without talking to anyone. These symptoms suggest a potential case of depression.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Hey ya'll. I'm okay. I'm trying to be okay with being okay. I've been trying lots of things lately, and I'm certainly seeing the results of my bravery. I've sobered up. I just got a job that I'm super motivated about, and I think after a few weeks I'll really be able to rock the shit out of it. All in all, I've learned a lot about self-care and self-love in the past month. In the grand scheme, I feel like I might finally be out of the rabbit hole, and can finally get my life moving again. But at the same time, I feel alone. I finally accept myself again, which is the most important step. But I feel like no one else wants to share the riches if found within myself. I'm a pretty cool guy, I make pretty cool music, and I'm pretty damn funny. But I have no one to sing for, and no one to make laugh. And as much as I appreciate my own company, it would be nice to have someone who values me as much as I do. That might come off as egotistical, but hey I'm a human being and yeah I have an ego. Sometimes I still need someone to take care of me, and I feel like I'm coming up short. I could really use a companion right about now. Some one to let me know that it truly is worth it to try to be the best version of myself. Someone more than my mom and my mirror. If you're alone tonight, I might be too. So let's maybe not be alone?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses a desire for companionship and validation from others, suggesting a possible feeling of burden or not being valued by others.
+

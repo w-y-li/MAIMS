@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I'm ending 2016 having to fight through a situation I have no energy to deal with. I am being victimised once more and have little hope of getting help, yet I have no choice but to fight. I feel so much despair and anguish, and the NYE celebrations going on around me only make it worse. I honestly don't know if I can live through to the new year. God or someone help me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of despair, anguish, and hopelessness. The individual expresses being victimized and having little hope of getting help, suggesting a perceived burden on themselves and a lack of support.
+

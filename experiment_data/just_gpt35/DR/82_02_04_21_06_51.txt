@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Should I still communicate with my father? Hello everyone. So the past few days my mom caught my dad cheating on her (2 women specifically). Now my mom sent him a closure to cut the ties (we live on the US while my dad is on another country). I'm angry and familiar with this feeling as well because my previous girlfriend cheated on me too (I guess it runs on the blood to be cheated on). Right now I don't know if I should cut my ties as well, as I can't forgive someone who broke my mom's heart and also someone who can't be contented at all. I'm 24 and take full responsibility on her. Our little family is all what my mom have, as she never worked her whole life and expended it to nurture us her children, giving up her career and dreams.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling angry, familiar with the feeling of being cheated on, and the responsibility they feel for their mother. These can be indicators of depression, particularly if they persist over time and are accompanied by other symptoms such as sadness, lack of interest, changes in appetite or sleep patterns, or difficulty concentrating.
+

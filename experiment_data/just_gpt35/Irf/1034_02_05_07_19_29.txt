@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Just another New Year post to add to the mix. Spending it alone. I know there are parties around where I would be welcome, but I'm tired. I can't deal with wearing a happy mask today. So much bad stuff has been dropped on me in the past week or two that I just can't. And here comes the New Year. I know it's just another day. An arbitrary start and stop point. But I still cant help but think about how it's a bad omen and since I'm starting it bad it's just going to be a bad year. Optimists might say  hey, it can only get better from here.  Never seems that way to me. There is no  rock bottom,  just more falling. I'm tired.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and a desire to be alone, which suggests a potential risk of thwarted belongingness. The poster mentions spending New Year alone and feeling tired of wearing a happy mask. They also express feeling overwhelmed by recent negative experiences and anticipate a bad year ahead, suggesting a lack of social support and connection.
+

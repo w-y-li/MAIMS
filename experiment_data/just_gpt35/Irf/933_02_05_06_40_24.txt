@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I want someone to hit me and make it look like an accident. That way, my family can claim the insurance and I would be finally free. Win win. All I could think of everyday is to wish I‚Äôd be in an accident and die right away. I‚Äôm too weak yet to kill my own self, but I‚Äôm mustering all my courage - my family can‚Äôt claim the insurance though. Any takers to hit me with your car?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a desire to be harmed or killed in order to benefit the family financially, suggesting a feeling of being a burden to them and a belief that their death will provide relief from that burden.
+

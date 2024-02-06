@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I'm an 18 male and I'm very confused about life as a whole... I know school is important but I'm disencouraged to pursue it. I can't seem to do anything normal teens do like going out, clubbing or partying or even casual picnics. For as long as I have lived I've never really done something with friends.. At first, it was because of family problems I ended up hating wanting money or needing it so I created a lifestyle for myself in which I don't use money or ask my parents for it. My life has always been sitting behind a screen watching people enjoy life and thinking to myself that once I get a bit older the family problems would be gone and the coast would be clear but I was dead wrong. Now I'm 18, a loser no lifer, worthless, socially unwanted and ugly and the reason I say ugly is because I truely consider myself ugly.. I reckon the last time I actually bought new clothes was in the summer like january 2016.. I have been thinking a lot and maybe this is my life and I should accept that.. I can't really see a way out of the situation I'm in because weither its now or in the future, I will have to be in situations where the same family problems still present themselves.. I might start cutting maybe it'll ease off the stress and having to worry about problems.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post contains statements such as feeling like a loser, worthless, socially unwanted, and considering oneself as ugly. These negative self-perceptions can contribute to a sense of burdensomeness, where the individual feels like a burden to others or society.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  All these bull shit new year post makes me sick. My only reaction is perhaps this will be my last year.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a perception of being burdened by the new year posts and suggests a potential belief that this year may be the poster's last, indicating a risk of perceived burdensomeness.
+

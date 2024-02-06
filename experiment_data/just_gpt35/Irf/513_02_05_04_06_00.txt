@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I found out accidentally last week that all of my friends are going to another one of my friend's party. I was not invited. My one friend who isn't going isn't responding to my texts. So now I'm alone at my house with Chinese food and beer. This past month I've felt more alone than I've ever have and i don't know how to deal with it. I'm starting to realize my place in friendships as the excess, the one who is forgotten or dismissed. This NYE was the icing to the cake. I'm hoping that 2017 will be better but it's not promising. Does this feeling of loneliness ever get better? Im scared that if I don't do something about it, it'll spiral out of control and that terrifies me  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of being forgotten or dismissed by friends, which can contribute to perceived burdensomeness.
+

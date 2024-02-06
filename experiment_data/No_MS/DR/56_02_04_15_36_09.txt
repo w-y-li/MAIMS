@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  My Life = Depressed Cycle HELL I have been depressed since my early teens. 18 now. In last year of high school but my grades are horrible, Im MISERABLE at my job but cant quit due to the pay, I completely lack a social life and girlfriend, and have so little motovation I feel like I will flunk out of college if I go. I was going to go to talk to my psychiatrist that does medication management for ADD when I went to see her the other day. I literally couldnt suck up the pride to tell her I was depressed and need a psychologist referal. She even asked how my moods were and I said they were just fine. I feel weird just meeting a random psychologist and dont know how to find a good one. Being a guy I have just sucked it up for the last 5 year and I feel weak for needing help, and even with me telling myself I need help I keep thinking every psychologist listing i see isnt good enough and keep pushing it off like I have for a LONG time. My life is a MISERABLE cycle of depression that I cant seem to get out of. I NEED help but I literally dont know how I can get myself to suck up the pride and go to a psychologist.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling depressed since their early teens, lacking motivation, having low mood, and not being able to find the courage to seek help despite recognizing the need for it. These factors indicate symptoms of depression.
+
+Correct
+Continue to carefully evaluate the content of posts for direct evidence of mental health issues as you did here. Avoid over-inference by not assuming traits or issues that are not explicitly mentioned. Also, ensure that you are distinguishing between the mental health of the poster and any other individuals that may be mentioned in different scenarios.

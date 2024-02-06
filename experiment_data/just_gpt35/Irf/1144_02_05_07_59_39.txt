@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm scared and lost and I hate how I feel like this for weeks and then come out of it for a day or two then go back into it  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of being scared and lost, which can be indicative of a sense of isolation and not belonging. This is a potential risk factor for thwarted belongingness, as the poster mentions feeling this way for weeks and going in and out of it.
+

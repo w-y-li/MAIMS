@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Millions of years of evolution and I'm somehow I'm one of the results. I'm ugly, I self harm, and I'm socially awkward freak. I don't deserve the few friends I have and I'm constantly blowing them off to lay in bed all day and do nothing. 2020 was supposed to be different, but I'm unfixable. 2019 was supposed to be different, 2018 was supposed to be different, so were 2017 and 2016, but it's always the same fucking shit.I don't know how much longer I can pretend I'm not suffering. I wish I never existed. I don't know what I did to deserve this.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of worthlessness, self-harm, social isolation, and a strong desire to not exist, which are indicative of perceived burdensomeness.
+

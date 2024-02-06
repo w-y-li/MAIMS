@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Does anybody feel like their life is meaningless if they don’t have a relationship or crush In my opinion it feels like love is the only medicine strong enough to cure my depression. Whenever I’m in love or lust I’m on top of the world I feel so good everything feels great, but once something happens to it I fall down this hole and my depression comes back even stronger. I need to learn to be their for me to grow love for myself. That almost seems impossible but I won’t give up and I’m going to work on becoming a better me. Better for myself, better for my life, and kicking my depression away once and for all.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I am sad all the time.###The poster mentioned that their depression comes back even stronger when something happens to their relationship or crush, indicating a constant state of sadness.'])
+('2', ['directly_mention', 'I feel discouraged about my future.###The poster mentioned that they need to work on becoming a better person and kicking their depression away once and for all, suggesting a feeling of discouragement about their future.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The poster mentions feeling like a complete failure as a person when their relationship or crush ends, which suggests that the feeling of failure is present in their life.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The poster mentions experiencing depression when their relationship or crush ends, which implies a loss of pleasure in things they used to enjoy.'])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###In the post, I mention feeling good when I am in love or lust, but once something happens to the relationship, my depression comes back even stronger. This suggests that I may feel guilty about the relationship ending and blame myself for it.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to punishment feelings."])
+('7', ['directly_mention', "I dislike myself.###The post mentions that when the poster's relationship or crush ends, their depression comes back even stronger. This suggests that the poster may have negative feelings about themselves which aligns with the option 'I dislike myself'."])
+('8', ['directly_mention', "I am more self-critical or blaming than usual.###The post mentions that the poster's depression comes back even stronger when their relationship or crush ends. This indicates that the poster may engage in self-critical or blaming thoughts, which corresponds to the option 'I am more self-critical or blaming than usual'."])
+('9', ['indirectly_mention', 'I cry more than I used to.###In the post, I mention that once something happens to my love or lust, I fall into a hole and my depression comes back even stronger. This implies that I experience a significant emotional distress, which could manifest through increased crying.'])
+('10', ['directly_mention', "I have thoughts of killing myself, but I would not carry them out.###In the post, I mention that love is the only medicine strong enough to cure my depression. This indicates that I struggle with depressive symptoms, and while I have thoughts of killing myself, I wouldn't actually act on them."])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The post mentions feeling good and on top of the world when in love or lust, but falling into a hole and experiencing stronger depression when something happens to it. This suggests that the person experiences restlessness and agitation as a result of their relationship status.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The post mentions that the person feels their life is meaningless without a relationship or crush and that love is the only medicine strong enough to cure their depression. This suggests a loss of interest in other aspects of life when not involved in a romantic relationship.'])
+('13', ['directly_mention', 'I can not make decisions at all anymore.###I mentioned that I fall down a hole and my depression comes back even stronger once something happens to my relationship or crush. This suggests that I have greater difficulty in making decisions than I used to.'])
+('14', ['directly_mention', 'I feel more worthless as compared to other people.###I mentioned that if I don’t have a relationship or crush, I feel like my life is meaningless. This suggests that I feel more worthless as compared to other people.'])
+('15', ['directly_mention', "I have less energy than I used to have.###I mentioned that my depression comes back once something happens to my love or crush, which suggests that I have less energy compared to when I'm in love or lust."])
+('16', ['indirectly_mention', "I sleep somewhat less than usual.###Although I didn't specifically mention changes in my sleeping pattern, I mentioned that my depression comes back even stronger when something happens to my love or crush. This indicates that my sleep may be somewhat disrupted."])
+('17', ['indirectly_mention', 'I am much more irritable than usual.###The post mentions that the poster falls into depression once something happens to their love or crush, which implies a significant emotional response. Depression often includes symptoms of irritability, so it can be deduced that the poster is experiencing increased irritability.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions depression, which is often associated with changes in appetite. Although the post does not specifically state a change in appetite, the mention of depression suggests that there may be some decrease in appetite.'])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###The post mentions that the person falls into depression when something happens to their love or lust, which indicates a difficulty in concentrating or keeping their mind on anything for very long.'])
+('20', ['indirectly_mention', "I am too tired or fatigued to do most of the things I used to do.###The post mentions that the person's depression comes back even stronger when something happens to their love or lust. This suggests that they may experience tiredness or fatigue to an extent that they are no longer able to do most of the things they used to do."])
+('21', ['indirectly_mention', 'I have lost interest in sex completely.###In the post, I mentioned that my depression comes back even stronger once something happens to my relationship or crush. This suggests that I may be experiencing a significant decrease in interest in sex, as it seems to be strongly affected by my emotional state and relationships.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's description of feeling depressed, their experience of a meaningful relationship being the only thing that temporarily alleviates their depression, and their desire to work on self-love and overcome depression indicate that they are likely suffering from depression.
+

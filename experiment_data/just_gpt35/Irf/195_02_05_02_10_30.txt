@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I know tonight is supposed to be a good one but I'm having a hard time shaking the thoughts of just pulling the plug. The thought of going through yet another year in poverty, loneliness, hatred and sadness is almost too much for me to bear. I'm 23 years old, I've never had a girlfriend, I've barely had any sex to speak of, I work minimum wage shitty jobs, I have no friends, no family to speak of, and no young woman even close to my age seems to want anything to do with me. I get degraded by other men for not having had enough sex, not seeming masculine enough, and while I understand men are supposed to be strong, few people understand that men have feelings too. It's like my life is some nightmare I can't wake up from. I look young for my age, and while I've been through so much and so many difficult experiences, people only see an 18 year old kid when they look at me. Girls assume I am naive and immature and look the other way, guys assume I'm a pussy. I get nothing, because apparently I am nothing, at least to the naked eye. My parents are both 61 and may die before I even find happiness in my life. But honestly I want to die first.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, loneliness, and a desire to die rather than continue experiencing the hardships mentioned. These thoughts and emotions suggest a risk of perceived burdensomeness, where the poster may feel like a burden or believe that their existence is causing distress for others.
+

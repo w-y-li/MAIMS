@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  dealing with an emotionally unavailable best friend I see my best friend a lot. I dont wear my heart on my sleeve but I'm emotional. I definitely give too much in a relationship and end up getting hurt because of it. My friend has troubles expressing her emotions and generally gets very annoyed when she has to  prove herself  because she feels like people should just trust her. She doesn't have many friends because of this. I always express my irrational feelings but when shes angry she doesnt want to say anything because she doesnt want to hurt me. I don't want her to hold anything in but I know that I would suffer because of the truth. How do I balance our give and take? Is there anyway I can help her open up? Or is that impossible?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster does not mention any symptoms of depression in their post. They discuss difficulties in their relationship with their emotionally unavailable best friend and express concerns about balancing give and take in the relationship.
+

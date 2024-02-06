@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I miss some of my ex gfs but all of them ghosted me.. I hate my job .. I cant stand living with my dad.. Im afraid to apply to any developer jobs or show my skills off to employers..I dont even have a car rn... I just feel like a failure..Im really lonely.. I feel like everything is getting worse and worse.. maybe I should start taking anti depressant medication..  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Not at all true for me.###The post expresses feelings of loneliness, failure, and worsening circumstances, but doesn't explicitly mention anything about the people in their life being better off without them."])
+('2', ['directly_mention', "Not at all true for me.###The post expresses feelings of loneliness, failure, and worsening circumstances, but doesn't explicitly mention anything about the people in their life being happier without them."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentioned feeling like a failure, being lonely, and feeling like everything is getting worse and worse. These feelings can contribute to feeling like a burden on society.'])
+('4', ['indirectly_mention', 'Not at all true for me###The post mentioned feeling like a failure, being lonely, and feeling like everything is getting worse and worse. However, there is no mention of thinking that my death would be a relief to the people in my life.'])
+('5', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like a failure, being lonely, and feeling like everything is getting worse and worse. These negative emotions could potentially lead to thinking that I make things worse for the people in my life.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything about people in the poster's life wishing to be rid of them."])
+('7', ['directly_mention', 'Not at all true for me.###The post mentions feeling lonely and like a failure. This suggests that other people do not care about me.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention feeling like I belong or not."])
+('9', ['directly_mention', 'Very true for me###The post mentions feeling lonely and that everything is getting worse and worse. This indicates a lack of interaction with caring people.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having caring and supportive friends."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feelings of loneliness and feeling like a failure, which are indicative of feeling disconnected from other people.'])
+('12', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like a failure and feeling lonely, which can contribute to feeling like an outsider in social gatherings.'])
+('13', ['indirectly_mention', "Somewhat true for me###The post mentions feeling lonely and that everything is getting worse and worse. Feeling like everything is getting worse and worse can imply that the person is lacking support from others. Therefore, I can infer that the person doesn't have many people they can turn to in times of need, but they do have some."])
+('14', ['indirectly_mention', 'Not at all true for me###The post mentions feeling lonely and missing ex-girlfriends. This suggests that the person is not close to other people and lacks emotional intimacy in their current relationships.'])
+('15', ['indirectly_mention', "Somewhat true for me###The post mentions feeling lonely, like a failure, and that everything is getting worse and worse. These feelings suggest a lack of satisfaction in daily interactions, although it doesn't explicitly state whether there is at least one satisfying interaction every day. Therefore, I interpret it as somewhat true for me."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden on society, thinking that death would be a relief to others, and believing that the people in their life wish they could be rid of them. These are all signs of perceived burdensomeness, suggesting a risk of this mental health issue.
+

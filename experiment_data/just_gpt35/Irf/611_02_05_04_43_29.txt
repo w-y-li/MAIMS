@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  It'll be 2017 in 49 minutes. What a year 2016 has been. I lost my girlfriend of almost three years. The business I tried to get going failed before it even started. I got back in touch with the one girl I ever truely loved. Now we don't talk to each other anymore - but at least she found her someone, and she's doing better now. I'm not. I don't have any friends to get drunk with tonight. So I'll be hitting the gin on my own until I pass out and hopefully I'll choke on my own vomit. But I digress. What I was trying to say, apart from telling the whole world 'O how I'm sad, is that I know plenty of you guys and girls are in the same position. Remembering that we're together in our loneliness is creepily heartwarming. Here's to hoping for a better 2017 - but it won't happen, right? So let's hope we find bliss in our sleep never waking up again. It'll be 2017 in 42 minutes. Finishing the year as it started. Happy new fucking year.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness, hopelessness, and thoughts of self-harm. The statement about hoping to choke on vomit suggests a lack of value for one's life, which aligns with risk of perceived burdensomeness.
+

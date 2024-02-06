@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  My parents don‚Äôt care, my friends are sick of me, and no one else gives a shit because everyone has their own shit to deal with. Not even you guys care. We are all just hear so feel slightly less pathetic because other people are here in the same boat as us. I just feel completely alone and I‚Äôm just pissed off I can‚Äôt find it in myslef to just fucking do what I want to do already. I want this shit to stop.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of being a burden to others and believing that nobody cares about their problems. This indicates a risk of perceived burdensomeness, which is a key factor in suicidal ideation and psychological distress.
+

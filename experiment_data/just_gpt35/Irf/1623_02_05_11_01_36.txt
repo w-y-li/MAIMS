@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  It's like every other lonely night of the year, but with a more urgent sense of isolation, and a sadder pit of regret inside. Different year, same story.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of perceived burdensomeness. It mainly focuses on feelings of loneliness, isolation, and regret.
+

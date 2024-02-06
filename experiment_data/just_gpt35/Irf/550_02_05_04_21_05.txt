@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôm losing everyone and everything around me. I‚Äôve reached out but no one seems to understand the fight I have within myself in my own head. I have 2 children under 8 yrs old and it aches me to wonder how they‚Äôd be without me. I always think okay they have my parents they have their dad. When is someone going to save me from my demons I can‚Äôt seem to battle anymore. I lost my brother two years ago to suicide and I wish it were me instead. Everyone keeps telling me that time heals all wounds, but no one can tell me what I‚Äôm supposed to do right now. Right now I can‚Äôt sleep. It‚Äôs right now that I can‚Äôt eat. Right now I still hear his voice and sense his presence even though I know he‚Äôs not here. Right now all I seem to do is cry. I know all about time and wounds healing, but even if I had all the time in the world, I still don‚Äôt know what to do with all this hurt right now. I want to walk away. I‚Äôm ready to end it all. This is my last resort. I graduated college for what? I paid thousands of dollars to be told I‚Äôm not good enough. I can‚Äôt make anyone love me. I‚Äôll never be enough. I‚Äôve attempted suicide when I was younger I hid my depression for so long but I don‚Äôt think anyone realizes how far off the grid I‚Äôve gone. I‚Äôm only 27. I‚Äôve literally lost everything but my babies. I lost my determination I lost my strive for life. I give up.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation and a desire for someone to save them from their demons. The poster expresses a lack of support from others and a sense of losing everyone and everything around them. This suggests a risk of thwarted belongingness, as they feel disconnected and unsupported by others.
+

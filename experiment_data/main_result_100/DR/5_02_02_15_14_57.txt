@@ -1,0 +1,136 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Anyone ever wish they were good at something? Something. Anything. Be it something innocuous or something that can get you a kickass job. Anything from which you could derive happiness and fulfillment. I've failed at everything I've tried. Good at absolutely nothing, even after years of trying. If there were even one such thing, I could just devote myself to it and use it to keep myself busy.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "I feel sad much of the time.###The post mentions that the poster has failed at everything they've tried and feels good at absolutely nothing. This lack of success and fulfillment can lead to feelings of sadness."])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post indicates that the poster has tried multiple things and failed at all of them. This persistent lack of success can lead to feelings of pessimism and discouragement about their future prospects.'])
+('3', ['directly_mention', "I feel I have failed more than the average person.###The post directly mentions that the poster has failed at everything they've tried, indicating a perception of failure."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to loss of pleasure or inability to derive pleasure from enjoyable activities."])
+('5', ['directly_mention', "I feel quite guilty most of the time.###The post mentions feeling like a failure at everything they've tried, which could lead to feelings of guilt."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything that could indicate feelings of being punished."])
+('7', ['indirectly_mention', 'I dislike myself.###The post mentions feeling like a failure and being bad at everything, which suggests a level of self-dislike.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The post indicates that the poster has tried various things and failed at all of them, suggesting a tendency for self-criticism and self-blame.'])
+('9', ['directly_mention', "I do not have any thoughts of killing myself.###The post mentions that the poster has failed at everything they've tried and wishes they were good at something. This implies a sense of frustration and disappointment, but it does not suggest any thoughts or wishes of killing oneself."])
+('10', ['indirectly_mention', "I cry all the time now.###The post talks about the poster's repeated failures and feeling of being good at absolutely nothing, even after years of trying. This sense of frustration and lack of fulfillment can lead to increased emotional distress, potentially resulting in crying all the time as a coping mechanism."])
+('11', ['indirectly_mention', 'I am more restless or agitated than usual.###The post mentions feeling like a failure and being unable to find something to devote oneself to. These feelings can often lead to restlessness and agitation due to a lack of fulfillment and purpose in life.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The post mentions feeling like a failure and being unable to find something to devote oneself to. These feelings can often lead to a loss of interest in other people or activities as one becomes consumed by their own internal struggle and lack of fulfillment.'])
+('13', ['directly_mention', "I have greater difficulty in making decisions than I used to.###The post mentions that the person has failed at everything they've tried and is not good at anything. This implies a lack of confidence and ability to make decisions, which indicates a greater difficulty in making decisions than before."])
+('14', ['directly_mention', 'I feel more worthless as compared to other people.###The post expresses a feeling of failure and not being good at anything. This comparison to others suggests a sense of worthlessness in relation to them.'])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post mentions feeling like a failure after trying many things without success. This could be indicative of low energy levels and potential burnout.'])
+('16', ['directly_mention', 'I have not experienced any change in my sleeping pattern.###The post does not mention any changes in the sleeping pattern. This suggests that the sleeping pattern has remained consistent and unchanged.'])
+('17', ['indirectly_mention', "I am no more irritable than usual.###The post doesn't directly mention irritability, but it implies a sense of frustration and failure, which can often lead to irritability. The poster mentions that they have failed at everything they've tried and they feel like they are good at absolutely nothing. This constant failure and lack of success may lead to increased irritability, although it's not explicitly stated."])
+('18', ['indirectly_mention', "My appetite is much less than before.###The post doesn't directly mention changes in appetite, but it indirectly suggests a decrease in appetite. The poster mentions feeling like a failure and having tried everything without success, which can lead to a loss of appetite due to feelings of low mood and decreased interest. Additionally, the desire to keep oneself busy with something they are good at implies a lack of motivation and interest, potentially leading to a decrease in appetite."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to concentration difficulty."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to tiredness or fatigue."])
+('21', ['indirectly_mention', 'I am less interested in sex than I used to be.###The post mentions a lack of success in everything the poster has tried, which could potentially contribute to a decrease in interest in sex. However, the post does not directly mention any specific changes in interest in sex.'])
+Do MS Check Record:
+('1', ['Correct', "Be cautious not to attribute feelings that aren't explicitly stated in future posts, but in this case, the connection to sadness is well-founded."])
+('2', ['Correct', 'Your inference of pessimism is reasonable given the context. Moving forward, ensure that you always tie your conclusions closely to the content of the posts.'])
+('3', ['Correct', 'Ensure to maintain this level of attention to detail for future assessments of direct mentions within posts.'])
+('4', ['Incorrect', 'Explore the post more deeply to infer potential underlying feelings, such as a lack of pleasure, as the described persistent failures could imply a reduced ability to derive happiness or fulfillment from activities.'])
+('5', ['Incorrect', "Review the post's content carefully and consider the emotional implications of feeling like a failure. Guilty feelings often relate to a sense of disappointment in oneself, which is suggested in the post."])
+('6', ['Correct', 'Continue to differentiate between explicitly stated feelings and those that are not mentioned. Ensure analysis of emotional content is based on the post itself, not assumptions.'])
+('7', ['Correct', 'Ensure that observations about self-dislike are backed with specific examples from the post to strengthen your argument.'])
+('8', ['Correct', 'Continue to identify textual evidence of self-criticism but remain cautious not to overextend inferences beyond what is evident.'])
+('9', ['Incorrect', 'Avoid assuming that expression of frustration or failure necessarily equates to having suicidal thoughts. Look for explicit indicators before concluding the presence of such serious thoughts.'])
+('10', ['Incorrect', "Do not over-interpret by assuming that the expression of struggle implies a behavior like crying all the time. Look for direct expressions of feelings to accurately ascertain the poster's emotional state."])
+('11', ['Correct', 'Be cautious not to jump to conclusions without clear evidence from the post. Continue to articulate how post content relates to psychological states.'])
+('12', ['Correct', 'Ensure to maintain focus on the content of the post and avoid overgeneralizing feelings of the poster without direct indications.'])
+('13', ['Incorrect', 'Look for explicit statements or clear implications about indecisiveness in the post. Avoid assuming that failure equates to indecisiveness without sufficient evidence.'])
+('14', ['Correct', 'Continue to deduce feelings of worthlessness when the post clearly implies a comparative lack of achievement or skill.'])
+('15', ['Incorrect', 'Do not infer signs of low energy without explicit mention or clear context suggesting it. Focus on the content provided and avoid assumptions beyond the text.'])
+('16', ['Correct', 'Continue to refrain from making inferences about details not provided in the post, such as changes in sleeping patterns.'])
+('17', ['Incorrect', 'Avoid assuming emotions that are not explicitly mentioned in the post. Focus on the content provided without inferring feelings like irritability, unless evidence within the text supports it.'])
+('18', ['Incorrect', 'Do not make assumptions about physiological states like appetite without clear references. Instead, ask clarifying questions or base your answers solely on the information presented.'])
+('19', ['Incorrect', 'Review the post to identify implicit signs of concentration difficulty, such as the inability to find a fulfilling occupation, which could suggest difficulty in maintaining focus on a single activity.'])
+('20', ['Incorrect', 'Consider the potential link between expressions of failure in multiple endeavors and feelings of fatigue, as sustained effort without success can lead to tiredness which may not be explicitly stated.'])
+('21', ['Incorrect', 'Avoid making assumptions about topics not directly mentioned in the post. Focus on the information provided and don’t infer beyond that.'])
+
+ITER 1
+Do MS Record:
+('4', ['indirectly_mention', "I get very little pleasure from the things I used to enjoy.###The post mentions that the person has failed at everything they've tried and feels they are good at absolutely nothing, even after years of trying. This suggests a lack of pleasure and fulfillment from activities they used to enjoy."])
+('5', ['indirectly_mention', "I feel guilty a good part of the time.###The post expresses feelings of failure and frustration, indicating a possible sense of guilt. The person mentions that they wish they were good at something and feel they have failed at everything they've tried, suggesting a consistent experience of guilt."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to crying."])
+('13', ['directly_mention', "I find it more difficult to make decisions than usual.###The poster mentioned that they have failed at everything they've tried, indicating that they have difficulty making decisions as they haven't been successful in their attempts."])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The poster expresses a sense of disappointment and frustration in not being good at anything, which can be emotionally draining. This suggests a possible loss of energy compared to before.'])
+('17', ['not_mention', "Doesn't mention at all.###The post does not provide any information about irritability."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information about appetite changes."])
+('19', ['indirectly_mention', 'I find I can not concentrate on anything.###The post mentions that the poster has failed at everything they have tried and is good at absolutely nothing, even after years of trying. This suggests a difficulty in maintaining focus, which is indicative of concentration difficulty.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post mentions that the poster has failed at everything they have tried, which could imply sustained effort without success. This can lead to feelings of fatigue, as stated in the options for tiredness or fatigue in the scale.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in interest in sex. It focuses on the desire to be good at something and the frustration of failing at everything tried."])
+Do MS Check Record:
+('4', ['Correct', 'Be cautious not to extend beyond what is implied, keeping assumptions minimal and sticking with what is apparent from the post for future analysis.'])
+('5', ['Incorrect', 'Avoid assuming guilt when the post does not explicitly mention feelings of guilt; focus on the exact sentiments expressed without adding interpretations not supported by the post.'])
+('9', ['Incorrect', 'Consider the underlying tone of hopelessness in the post as a potential indicator of suicidal thoughts. Avoid assuming there is no information if the content suggests related emotional states.'])
+('10', ['Correct', 'Continue to analyze the post content strictly and avoid making assumptions not supported by the post. This approach was appropriate for this question.'])
+('13', ['Incorrect', 'Avoid assuming a direct correlation between failure and indecisiveness. Consider alternative interpretations, such as perseverance or a lack of opportunity rather than difficulty in decision-making.'])
+('15', ['Incorrect', 'Do not infer an emotional state like loss of energy from a general expression of dissatisfaction. Look for specific language in the post that relates to energy levels before drawing conclusions.'])
+('17', ['Incorrect', "Consider the emotional tone of the post to infer about irritability. The poster expresses a sense of frustration and failure, which can be associated with irritability. Reflect on how these feelings might impact one's irritability level."])
+('18', ['Incorrect', 'Examine the underlying emotions in the post. Feelings of failure and a lack of accomplishment could suggest changes in mood or behavior, such as appetite changes. Use this context to provide a more nuanced answer, while acknowledging that the post does not explicitly mention appetite.'])
+('19', ['Correct', "Continue to draw inferences about the poster's experiences by connecting their expressions of frustration or failure with potential underlying psychological states, such as concentration difficulty. However, ensure that any inference is supported by the content of the post."])
+('20', ['Correct', "Good job identifying feelings of tiredness or fatigue from the poster's expressed experiences. Remember to always consider alternative explanations for the observed behavior before concluding, ensuring a more nuanced understanding of the poster's state."])
+('21', ['Correct', 'Great job recognizing that the post does not explicitly mention changes in interest in sex. Remember to continue analyzing the posts for any implicit cues related to the questions but exercise caution to avoid over-inferencing.'])
+
+ITER 2
+Do MS Record:
+('5', ['indirectly_mention', 'I feel guilty quite often.###The post mentions feeling like a failure at everything, which could potentially lead to feelings of guilt.'])
+('9', ['indirectly_mention', 'I do have thoughts of killing myself, but I would not carry them out.###The post expresses a sense of hopelessness and mentions a desire to escape through being good at something. This underlying tone suggests the possibility of having suicidal thoughts or wishes, even if not explicitly stated.'])
+('13', ['indirectly_mention', "I have greater difficulty in making decisions than I used to.###The poster mentions that they have failed at everything they've tried and are good at absolutely nothing. This suggests a sense of discouragement and lack of confidence, which may lead to greater difficulty in making decisions."])
+('15', ['not_mention', "Doesn't mention at all.###The poster expresses a general dissatisfaction and feeling of failure in various aspects of their life, but there is no specific mention or indication of a loss of energy."])
+('17', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to irritability."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in appetite."])
+Do MS Check Record:
+('5', ['Incorrect', 'Be cautious not to conflate a general sense of failure with feelings of guilt. Focus on analyzing the post for explicit or strong implicit evidence before assuming guilt.'])
+('9', ['Incorrect', 'Avoid making assumptions about suicidal thoughts unless there is a more concrete indication within the post. Base your inferences on explicit content or clear implications.'])
+('13', ['Correct', "You have successfully identified an implied sense of indecisiveness from the post based on the poster's feelings of failure and lack of accomplishment. Keep utilizing the context to infer underlying psychological states when they are not explicitly mentioned."])
+('15', ['Incorrect', 'Although the loss of energy is not directly mentioned, consider how the expressions of continuous failure and lack of accomplishment in the post might imply diminished motivation or drive, which can be associated with a loss of energy. Incorporate this broader interpretation into your analysis.'])
+('17', ['Incorrect', "Re-evaluate the post for underlying emotional tones that might suggest irritability as a secondary characteristic, even if it's not explicitly mentioned."])
+('18', ['Incorrect', 'Consider the potential psychological state of someone expressing failure and lack of skills, and assess how this might affect their appetite indirectly.'])
+
+ITER 3
+Do MS Record:
+('5', ['indirectly_mention', "I feel quite guilty most of the time.###The post mentions feeling like a failure and not being good at anything, which can lead to feelings of guilt for not meeting one's own expectations."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about suicidal thoughts or wishes."])
+('15', ['indirectly_mention', "I do not have enough energy to do very much.###The post mentions that the person has failed at everything they've tried, even after years of trying. This continuous failure and lack of accomplishment can imply diminished motivation or drive, which can be associated with a loss of energy."])
+('17', ['indirectly_mention', "I am more irritable than usual.###The person mentions feeling frustrated and expresses a desire to be good at something. This frustration and longing for fulfillment can indicate increased irritability, even if it's not explicitly mentioned in the post."])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions feeling like a failure and being bad at everything. This could be indicative of low self-esteem and depression, which may result in a decrease in appetite.'])
+Do MS Check Record:
+('5', ['Correct', "Ensure to continue differentiating between explicit content in the post and possible implicit feelings. Morphological markers like 'I've failed at everything I've tried' can suggest guilt, but remain cautious to not overextend beyond what is presented."])
+('9', ['Correct', 'Excellent job recognizing the absence of information about suicidal thoughts. Always be careful not to infer too much without explicit evidence, particularly with such sensitive topics.'])
+('15', ['Correct', "Your inference regarding the loss of energy is plausible based on the post's content. Continue practicing making connections between subtle cues and psychological states while avoiding overinterpretation."])
+('17', ['Correct', "Your connection between the poster's expression of frustration and irritability was reasonable. Be cautious not to assume emotions not explicitly mentioned, but rather to rely on reasonable interpretations grounded in the text."])
+('18', ['Incorrect', "Avoid assuming specific psychological states based on vague information. Focus on what's explicitly stated, and analyze if any clear indicators of changes in appetite are mentioned before drawing a conclusion."])
+
+ITER 4
+Do MS Record:
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about changes in appetite."])
+Do MS Check Record:
+('18', ['Incorrect', 'Review the post for subtle cues about behavioral or emotional states that could indirectly imply changes in appetite, and remember not to dismiss possibilities without thoughtful analysis.'])
+
+ITER 5
+Do MS Record:
+('18', ['indirectly_mention', "I have no appetite at all###In the post, the person mentions that they have failed at everything they've tried and are good at absolutely nothing. They also talk about devoting themselves to something that can keep them busy. This could potentially indicate a lack of motivation or interest, which could result in a loss of appetite."])
+Do MS Check Record:
+('18', ['Incorrect', 'Be observant for explicit mentions of appetite or related behaviors before inferring changes in appetite. Focus on what the post reveals directly and avoid making assumptions without textual evidence.'])
+
+ITER 6
+Do MS Record:
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in appetite."])
+Do MS Check Record:
+('18', ['Incorrect', 'Carefully analyze the post for emotional cues that may suggest changes in behavior such as appetite. Avoid outright dismissal based on a lack of explicit mention.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the answers to the depression scale questions, the poster demonstrates symptoms of depression such as sadness, pessimism, past failure, loss of pleasure, guilty feelings, self-dislike, self-accusations, agitation, loss of interest, indecisiveness, worthlessness, concentration difficulty, and tiredness or fatigue. These symptoms indicate a high likelihood of depression.
+
+Correct
+Ensure to always rely on data from the post and the answered questions from a relevant mental scale before drawing a conclusion. Avoid overgeneralizing based on incomplete information and be cautious not to confuse the mental health of surrounding individuals with that of the poster. Maintain objective analysis and avoid inferring beyond the provided information.

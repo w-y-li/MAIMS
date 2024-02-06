@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm having burnouts right now trying to catch up with deadlines, practical stuffs and I can't do my own study sessions and on top of that I just found out that my aunt is dying (she's in stage 4 pancreatic cancer) and the doctors told us that they can't do anything anymore. I'm away from my family and I don't even have time to visit. I'm barely holding on now. I can't focus in class and I feel like crying even in class itself. My muscles are tense and I can't seem to feel happy, not even one bit. My suicidal thoughts are through the roof now. I'm anxious for the upcoming practicals where I'm expected to talk in front of people and I'm just shaking thinking about it. I'm sorry if I'm just whining right now and I'm supposed to  suck it up  and not complain, I know and I'm sorry for that.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of social isolation, lack of connection with family, and difficulty in finding support during a difficult time. This suggests a risk of thwarted belongingness, which is a psychological state that occurs when individuals feel disconnected and alienated from others.
+

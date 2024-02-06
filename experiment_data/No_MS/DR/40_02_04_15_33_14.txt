@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  That orange message-notification... It makes me happy, wanted, feeling like I belong. I love comments because I feel so alone in all of this. Even if the comment didn't help a lot, I feel like I'm not alone. Oh god I'm so miserable. EDIT: No its not a cry for attention or likes or upvotes. I sincerely feel good when I see the people of /r/depression commenting on my posts, and I love commenting on theirs. A mutual feeling of belonging...  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of unhappiness, loneliness, and a sense of not belonging. They specifically mention feeling miserable and seeking validation and connection through comments from others on /r/depression. These are typical symptoms and experiences associated with depression.
+
+Correct
+Ensure that your conclusions about the poster's mental health are always supported by specific evidence from the post. In this case, you have done that effectively. Additionally, continue to differentiate between the poster's emotions and the potential diagnosis, while being mindful to not pathologize normal human emotions without sufficient context.

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Now I don‚Äôt wanna be put on a FBI watch list or anything but my depression has been getting so bad Iv been getting more and more angry. Having no one to talk to adds on to this anger so I en up just bottling it up and I feel like just one day I may physically hurt someone. I don‚Äôt want to believe me but I just feel like that it may happen due to just lack of communication with my feelings.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the individual is experiencing intense anger and feelings of isolation, which can contribute to a sense of burdensomeness. They express concerns about physically hurting someone due to their inability to communicate their feelings effectively.
+

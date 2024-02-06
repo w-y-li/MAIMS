@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  1 month ago I was considering suicide. I talked to my primary care physician and told them how I was feeling and what I was thinking. They put me into a group therapy program and I was diagnosed with major depressive disorder. I can honestly say it saved my life. I cannot express how helpful this was for me and I urge you all to talk to someone. There is hope for us all and people willing to listen. It‚Äôs the new year and the perfect time for a change.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of thwarted belongingness. The poster mentioned seeking help and finding support through group therapy, which indicates a sense of belonging and connection to others who understand their struggles.
+

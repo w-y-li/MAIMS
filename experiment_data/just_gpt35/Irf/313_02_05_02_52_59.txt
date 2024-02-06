@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  School starts again for me tomorrow (in less than 9 hours) and frankly, there's no reason for me to go. I got into some complications regarding my self-harm the day before the break started, so I don't really feel like walking into a trap. Plus, the one person I can talk to about it doesn't come to school on Wednesdays, meaning I really have to reason to drag myself out of bed tomorrow. I'm getting really depressed just thinking about it. Someone help me find motivation...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a perceived burden of attending school due to complications related to self-harm. The poster expresses feeling trapped and lacking motivation. These feelings indicate a risk of perceived burdensomeness, which can be a symptom of certain mental health problems such as depression or suicidal ideation.
+

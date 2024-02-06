@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My ‚Äúfriends‚Äù never talk to me unless I‚Äôm the only one available and I‚Äôm so sick of it but I don‚Äôt want to burn those bridges cause I know it‚Äôll hurt more to get rid of them altogether than to just suck up the pain of being left out  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of being left out and a desperation to maintain connections despite feeling dismissed, suggesting a potential risk of thwarted belongingness.
+

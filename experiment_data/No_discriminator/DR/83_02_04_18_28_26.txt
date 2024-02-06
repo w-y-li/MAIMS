@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Today is my 45th birthday. Today is my 45th birthday. Being 45 doesn't bug me as much as the lack of accomplishments and life lived in those years. I've spent the last 20 years lost in depression. I'm tired, hopeless, ashamed, and emotionally defeated. I go to bed scared and wake up disappointed. People ask if I am suicidal, and my answer is,  I'm open to the possibility.  People ask if I'm planning, and I say,  No, not actively. I've already planned it out.  I can't understand why I am still here nor do I understand why I stay.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "I am sad all the time.###The post directly mentions that the poster feels sad all the time: 'I'm tired, hopeless, ashamed, and emotionally defeated. I go to bed scared and wake up disappointed.'"])
+('2', ['indirectly_mention', "I feel the future is hopeless and that things cannot improve.###Although the post does not directly mention feeling pessimistic about the future, the phrases 'lack of accomplishments and life lived in those years' and 'I can't understand why I am still here nor do I understand why I stay' imply a sense of hopelessness and lack of motivation for the future."])
+('3', ['directly_mention', 'As I look back on my life, all I can see is a lot of failures.###The post explicitly states that as the individual looks back on their life, all they can see is a lot of failures.'])
+('4', ['directly_mention', 'I get very little pleasure from the things I used to enjoy.###The post directly mentions that the individual gets very little pleasure from the things they used to enjoy.'])
+('5', ['directly_mention', 'I feel guilty all of the time.###In the post, I mentioned that I feel tired, hopeless, ashamed, and emotionally defeated. These negative emotions are often associated with feelings of guilt. Therefore, it is safe to assume that I feel guilty all of the time.'])
+('6', ['indirectly_mention', "I expect to be punished.###Although I didn't explicitly mention punishment feelings, the post implies a sense of expectation and resignation. I mentioned feeling tired, hopeless, and emotionally defeated, which may indicate a belief that I am being punished for my perceived lack of accomplishments and the life I've lived. Therefore, it can be inferred that I expect to be punished."])
+('7', ['directly_mention', 'I dislike myself.###The post mentions being tired, hopeless, ashamed, and emotionally defeated. These feelings indicate a negative view of oneself, suggesting a self-dislike.'])
+('8', ['directly_mention', 'I criticize myself for all of my faults.###The post mentions feeling disappointed in oneself and the lack of accomplishments. This suggests a tendency towards self-accusations and being self-critical.'])
+('9', ['directly_mention', 'I would like to kill myself.###In the post, I mentioned that I am open to the possibility of being suicidal and that I have already planned it out. This indicates that I have thoughts of killing myself and that I would like to carry it out given the opportunity.'])
+('10', ['indirectly_mention', "I cry all the time now.###Although I didn't explicitly mention crying in the post, I did express feeling tired, hopeless, ashamed, and emotionally defeated. These emotions are often accompanied by an increased frequency of crying. Additionally, I mentioned going to bed scared and waking up disappointed, which suggests a heightened emotional state. Thus, it can be inferred that I cry all the time now."])
+('11', ['indirectly_mention', 'I am so restless or agitated that it is hard to stay still.###The post mentions feeling tired, hopeless, ashamed, and emotionally defeated. These feelings can contribute to restlessness and agitation.'])
+('12', ['indirectly_mention', 'It is hard to get interested in anything.###The post mentions a lack of accomplishments and a sense of disappointment. These feelings can lead to a loss of interest in activities and people.'])
+('13', ['directly_mention', 'I find it more difficult to make decisions than usual.###The post mentions feeling lost in depression for the past 20 years, feeling tired, hopeless, ashamed, and emotionally defeated. These feelings are likely to affect the ability to make decisions, indicating that decision-making has become more difficult than usual.'])
+('14', ['directly_mention', 'I feel utterly worthless.###The post mentions feeling tired, hopeless, ashamed, and emotionally defeated, as well as questioning why they are still here and why they stay. These feelings and self-doubt suggest a significant decrease in self-worth, indicating feelings of utter worthlessness.'])
+('15', ['indirectly_mention', "I do not have enough energy to do very much.###The post mentions feeling tired, which indicates a lack of energy. The line 'I'm tired, hopeless, ashamed, and emotionally defeated' suggests that the person does not have enough energy to do very much."])
+('16', ['indirectly_mention', "I wake up 1-2 hours early and cannot get back to sleep.###The post mentions waking up disappointed, which suggests a change in sleeping pattern. The line 'I go to bed scared and wake up disappointed' indicates that the person is experiencing difficulty in sleeping, specifically waking up early and not being able to fall back asleep."])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post mentions feeling tired, hopeless, ashamed, and emotionally defeated, which are all indicators of increased irritability.'])
+('18', ['indirectly_mention', 'My appetite is much less than before.###The post mentions being depressed and feeling emotionally defeated, which often leads to a decrease in appetite.'])
+('19', ['indirectly_mention', "It is hard to keep my mind on anything for very long.###In the post, I mentioned that I've spent the last 20 years lost in depression. Being lost in depression often leads to difficulties in concentration and an inability to keep the mind focused on tasks for extended periods of time."])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###I stated that I am tired, hopeless, ashamed, and emotionally defeated, and that I go to bed scared and wake up disappointed. These feelings, combined with a lack of motivation and energy, suggest that I experience significant fatigue and tiredness, which hampers my ability to engage in activities I used to enjoy.'])
+('21', ['directly_mention', 'I have almost no interest in sex.###The post mentions that the individual feels tired, hopeless, ashamed, and emotionally defeated. These feelings are commonly associated with depression, which can often lead to a decrease in sexual interest and desire.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the mental scale questions indicate symptoms commonly associated with depression, such as persistent sadness, hopelessness, low self-esteem, suicidal thoughts, loss of pleasure, changes in appetite and sleep pattern, lack of energy, and difficulty concentrating. The poster's statements about feeling tired, hopeless, ashamed, emotionally defeated, and the lack of accomplishments further support the presence of depression.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I feel like the only reason I haven't already found the courage to do it is my two younger siblings. I'm sixteen, and they are twelve and ten respectively. I know that my parents would be heartbroken, but that would only be two people. My  friends  would be over it in a few weeks anyway. I feel like my brother and sister would be too emotionally damaged or traumatised if I did it, and I don't want to cause any more pain to anyone anymore. This is my first post here, so let me know if I fucked it up. thx  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and feeling like the individual's friends would not be affected by their absence. It also highlights the concern for the emotional well-being of their younger siblings, suggesting a desire for connection and belongingness that may be at risk.
+

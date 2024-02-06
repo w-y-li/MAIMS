@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Possibly most of my depression stems from dwelling on things that happened in the past. Things that could have been and should have not. Coming up on my twenty-second birthday, I still dwell on my teen years where things seemed like hell, but as I look back they were the best years of my life.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual is dwelling on past events and feeling regret over things that happened in their teen years. This dwelling on the past and the belief that those were the best years of their life may indicate a risk of perceived burdensomeness, where the individual feels like a burden to others or feels like they have not lived up to certain expectations.
+

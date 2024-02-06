@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  isnt it kind of crazy when people who actually are not clinically depressed say they want to die or are depressed for fun, when you are really dealing with those feelings for real? There are people at my work place who clearly are not clinically depressed but tag and share memes like they are lonely or depressed or just say they want to die in a funny way, when everyday is a huge challenge for me in terms of forcing myself to be alive and conform to the societal norms. This usually never gets to me because many people dont actually get what it means to be depressed. Even depressed people experience things in a spectrum. However, when I feel like I am falling off the wagon and I see these seemingly normal treat suicidal thoughts/coping mechanisms of genuinely depressed people/melancholy as fun memes and have a good laugh when all those things are part my own personal hell, I just go completely bonkers and I do not really know why. Anyone else feel like this ? Sorry for terrible punctuation.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time###The post mentions that everyday is a huge challenge for me in terms of forcing myself to be alive and conform to the societal norms. This suggests a persistent feeling of sadness.'])
+('2', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to pessimism or feelings about the future."])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The poster mentions that everyday is a huge challenge for them, forcing themselves to be alive and conform to societal norms. This suggests a sense of failure or not meeting societal expectations.'])
+('4', ['directly_mention', 'I do not enjoy things as much as I used to.###The poster mentions that they see others treat suicidal thoughts/coping mechanisms as fun memes and have a good laugh, which suggests a lack of enjoyment or pleasure in everyday activities that others may find amusing or enjoyable.'])
+('5', ['indirectly_mention', "I feel quite guilty most of the time.###The post mentions that when the poster sees others treating suicidal thoughts and coping mechanisms as fun memes, it drives them to go completely bonkers. This suggests that the poster has feelings of guilt, as they perceive others' lightheartedness about depression as mocking their own personal hell."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information that can help me deduce whether the poster feels punishment feelings or not."])
+('7', ['directly_mention', "I dislike myself.###The post mentions 'forcing myself to be alive and conform to the societal norms' which implies feelings of self-dislike for not being able to meet societal expectations."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information about self-accusations or blaming oneself."])
+('9', ['directly_mention', 'I would kill myself if I had the chance.###The poster mentions that they are dealing with the daily challenge of forcing themselves to be alive and conforming to societal norms. They also mention feeling like they are falling off the wagon, which implies a low point in their mental state. This suggests that they have thoughts of killing themselves if they had the chance.'])
+('10', ['indirectly_mention', 'I cry all the time now.###The poster mentions that everyday is a huge challenge for them and that they experience their own personal hell. They also mention feeling completely bonkers when they see others treating suicidal thoughts/coping mechanisms as fun memes. This emotional intensity and the avoidance of societal norms could indicate an increase in crying, as it is a common emotional response to such distress.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to agitation."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of interest."])
+('13', ['indirectly_mention', 'I have greater difficulty in making decisions than I used to.###The post mentions that everyday is a huge challenge for me in terms of forcing myself to be alive and conform to the societal norms. This suggests that the poster is dealing with a lot of difficulties and may have greater difficulty in making decisions compared to before.'])
+('14', ['indirectly_mention', 'I feel more worthless as compared to other people.###The post mentions that the poster sees others treat suicidal thoughts/coping mechanisms of genuinely depressed people/melancholy as fun memes and have a good laugh. This may contribute to the feeling of worthlessness as the poster sees others not fully understanding the severity and struggles associated with depression.'])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###In the post, I mentioned that everyday is a huge challenge for me in terms of forcing myself to be alive and conform to the societal norms. This indicates that I do not have enough energy to do very much.'])
+('16', ['directly_mention', 'I have not experienced any change in my sleeping pattern.###In the post, I mentioned that I am falling off the wagon and feeling completely bonkers. This suggests that I have not experienced any change in my sleeping pattern.'])
+('17', ['directly_mention', "I am more irritable than usual.###The post mentions feeling 'completely bonkers' and not knowing why, which implies a heightened level of irritability."])
+('18', ['directly_mention', "My appetite is somewhat less than usual.###The post mentions 'everyday is a huge challenge for me in terms of forcing myself to be alive and conform to the societal norms,' which suggests a decrease in appetite."])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###The post mentions that everyday is a huge challenge for me in terms of forcing myself to be alive and conform to the societal norms. This indicates a difficulty in focusing and keeping the mind on tasks for a long time.'])
+('20', ['indirectly_mention', "I am too tired or fatigued to do a lot of the things I used to do.###The post mentions that many people don't actually get what it means to be depressed, and that the poster feels like a huge challenge every day. This suggests that the individual experiences fatigue that affects their ability to engage in activities they used to do."])
+('21', ['indirectly_mention', 'I am less interested in sex than I used to be.###The post mentions that everyday is a huge challenge for me in terms of forcing myself to be alive and conform to the societal norms, which suggests a decrease in interest in sex. However, the post does not explicitly state the level of interest in sex, so I can only deduce that the poster is less interested in sex than they used to be.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the poster's responses to the questions of the mental scale, they exhibit symptoms of depression such as sadness, feeling like they have failed, loss of pleasure, guilt, self-dislike, suicidal thoughts, crying, indecisiveness, feeling worthless, loss of energy, irritability, concentration difficulty, tiredness or fatigue, and changes in interest in sex. These symptoms align with the criteria for a diagnosis of depression.
+

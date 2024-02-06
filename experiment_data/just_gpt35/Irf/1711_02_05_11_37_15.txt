@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  My closest friends have been distant lately. Mostly busy with their jobs, other friends, or partners. I feel they don't really care about me as they're hard to get in contact with. If I gave in to my depression, would they even care that I'm dead?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the poster is feeling ignored and unsupported by their closest friends, leading to feelings of isolation and being a burden. They question whether their friends would even care if they were no longer alive, indicating a possible risk of perceived burdensomeness.
+

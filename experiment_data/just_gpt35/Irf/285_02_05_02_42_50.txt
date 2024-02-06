@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I just can't stand it. It takes every ounce of me to not say  BUT I'M NOT HAPPY . New year is just another time that makes some feel a little more lonely than usual. Anyone else?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate a risk of perceived burdensomeness. The poster is expressing feeling unhappy and lonely during the new year, but there is no mention of feeling like a burden to others or expressing thoughts of being a burden.
+

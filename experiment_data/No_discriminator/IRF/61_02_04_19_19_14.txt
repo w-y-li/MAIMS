@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  No one loves me, I have no friends, I'm spending new years alone in my bed. I refuse to take my anti depressants because I'm scared they will make me happy and I don't deserve happiness because i'm an awful person and everyone leaves me.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Very true for me###The post explicitly states that I refuse to take my anti depressants because I'm scared they will make me happy and I don't deserve happiness. This suggests that I believe that the people in my life would be happier without me."])
+('2', ['indirectly_mention', 'Somewhat true for me###The post mentions that I have no friends and everyone leaves me. This suggests that I may believe that the people in my life would be better off if I were gone, though it is not explicitly stated.'])
+('3', ['directly_mention', "Somewhat true for me###I mentioned that I refuse to take my anti-depressants because I don't deserve happiness. This suggests that I may feel like a burden on society, which aligns with feeling like I am not deserving of happiness."])
+('4', ['indirectly_mention', 'Somewhat true for me###Although I did not directly mention my death being a relief to others, my statement about being an awful person and everyone leaving me suggests that I may feel like my presence is burdening others and my death might be a relief to them. This aligns with feeling somewhat true for me.'])
+('5', ['directly_mention', "Very true for me.###The post explicitly states that everyone leaves me and I believe that people in my life wish they could be rid of me. This aligns with the option 'Very true for me'."])
+('6', ['indirectly_mention', "Somewhat true for me.###The post mentions that I'm an awful person and I make things worse for the people in my life. Although it doesn't directly mention the option 'Somewhat true for me,' these statements imply that I may believe I make things worse for others, suggesting it is 'Somewhat true for me'."])
+('7', ['directly_mention', 'Not at all true for me###The post explicitly mentions that I have no friends and everyone leaves me, which suggests that other people do not care about me.'])
+('8', ['indirectly_mention', 'Not at all true for me###The post mentions that I have no friends and believe I am an awful person, which leads me to believe that I do not feel like I belong.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to interacting with people who care about me."])
+('10', ['indirectly_mention', "Somewhat true for me.###The post mentions that the poster has no friends and is spending New Year's alone, which suggests a lack of caring and supportive friends. However, it does not directly state the frequency of interaction with people who care about the poster, so I can only deduce that it is somewhat true."])
+('11', ['directly_mention', "Somewhat true for me###The post explicitly states that the poster has no friends and is spending New Year's alone in bed, indicating a sense of disconnection from other people."])
+('12', ['directly_mention', "Very true for me###The post expresses the feeling of being an outsider in social gatherings, as the poster mentions having no friends and spending New Year's alone in bed."])
+('13', ['indirectly_mention', 'Not at all true for me###The post mentions that the person has no friends and feels that everyone leaves them, indicating a lack of people to turn to in times of need.'])
+('14', ['indirectly_mention', "Not at all true for me###The post mentions that the person has no friends and is spending New Year's alone in bed, suggesting a lack of closeness to other people."])
+('15', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to having at least one satisfying interaction every day."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a high level of perceived burdensomeness, as the individual expresses beliefs that they are an awful person, everyone leaves them, they are a burden on society, and others in their life would be better off, happier, and relieved without them. These thoughts and feelings suggest a significant risk of perceived burdensomeness.
+

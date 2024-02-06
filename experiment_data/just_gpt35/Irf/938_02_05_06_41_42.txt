@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I don't know how can I explain what I'mfeeling rn. All i know is just im all alone in this life. Im useless. No matter how hard i try, im always just not good enough. Not a good friend. Not a good daughter.not a good person. Just sucks that no one wants and needs ur presence. Just want to disappear  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation, worthlessness, and a desire to disappear, suggesting a possible risk of thwarted belongingness, which is a psychological construct related to feelings of social disconnection and perceived unmet social needs.
+

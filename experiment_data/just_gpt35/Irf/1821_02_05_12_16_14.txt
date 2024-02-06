@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  It's the same shit every. damn. time. Nothing's gonna change. I'll stay miserable as always. It's always been like this my entire life. There was no hope, I was just delusional. I'm just waiting for the day I can finally kill myself with nothing to stop me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a risk of perceived burdensomeness as the poster expresses feelings of hopelessness, being miserable, and waiting for the day they can end their life without anything stopping them.
+

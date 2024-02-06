@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Life is a fucking nightmare. Having children is beyond selfish and ignorant. My parents deserve no sympathy. I will kill myself regardless of their feelings.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post reflects feelings of isolation, a sense of bitterness towards others (in this case, parents), and a desire to end one's life regardless of the impact on others. These are indicators of possible thwarted belongingness, as the poster may perceive a lack of meaningful connections or support from others.
+

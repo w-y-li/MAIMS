@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Can‚Äôt make anyone happy anymore, what‚Äôs the point? None of my friends care despite me reaching out and my fianc√©e is fed up with my depressive shit. Don‚Äôt even think he wants to marry me any more. I can tell he resents me. I can‚Äôt fix the things that are wrong with me. Why bother with anything? Don‚Äôt wanna upset my family so I‚Äôll just keep trecking on I guess. Just needed to vent cause I don‚Äôt have any real people to talk to.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation, lack of support from friends and a strained relationship with the poster's fiancée. These factors suggest a risk of thwarted belongingness, which is the feeling of lack of connection or social support.
+

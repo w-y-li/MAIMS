@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  I need advice : what was the moment that proved and showed you that you did or didn't want kids? I'm trying to find out if I myself would one day want kids of my own. I am a female in my early 20ties and as of now the answer is no, I don't see myself having or wanting kids now or anytime in the near future. However there's still the far future; I want to know if people have a change of heart about this ? Will I stay with the oppinion I have now forever ? I'm not asking to be convinced of being a parent because I don't see having kids or not having kids as a right or wrong. I simply want to be able to find out if I will also not want any in the distant future.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I do not feel sad###The post does not explicitly mention sadness, but there is no indication of feeling sad in the post. The poster expresses curiosity and uncertainty about wanting children, but there is no mention of being sad or unhappy.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention feeling discouraged about the future or having nothing to look forward to. The focus of the post is on the poster's uncertainty about wanting children and seeking advice from others."])
+('3', ['indirectly_mention', 'I do not feel like a failure###Although the post does not directly mention past failures, the poster states that she does not see herself having or wanting kids now or in the near future. This suggests that she does not consider her choice not to have children as a failure. Hence, I can infer that she does not feel like a failure.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information that can help deduce the answer to this question. There is no mention of a loss of pleasure in the post."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not provide any information or mention about guilty feelings."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or mention about punishment feelings."])
+('7', ['directly_mention', "I don't dislike myself.###The post directly mentions that the person is not asking about self-dislike, they are specifically inquiring about wanting or not wanting kids in the future. This question is not applicable to the content of the post."])
+('8', ['directly_mention', 'I do not criticize or blame myself more than usual.###The post directly mentions that the person is not asking about self-accusations, they are specifically inquiring about wanting or not wanting kids in the future. This question is not applicable to the content of the post.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to suicidal thoughts or wishes."])
+('10', ['indirectly_mention', "I cry more than I used to.###The post mentions the individual's emotional state and their ability to cry. They state that they do not see themselves wanting kids now or in the future, but they are unsure if this will change. This uncertainty can lead to emotional distress, which could result in increased crying."])
+('11', ['directly_mention', "I am no more restless or wound up than usual.###The post doesn't mention anything about agitation, so I am no more restless or wound up than usual."])
+('12', ['directly_mention', "I have not lost interest in other people or activities.###The post doesn't mention anything about losing interest, so I have not lost interest in other people or activities."])
+('13', ['directly_mention', 'I have greater difficulty in making decisions than I used to.###In the post, I mentioned that I am trying to find out if I would want kids in the future. This shows that I am unsure and indecisive about the idea of having kids, indicating that I have greater difficulty in making decisions.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information about feeling worthless or comparing oneself to others, so it does not mention the concept of worthlessness in any way."])
+('15', ['indirectly_mention', 'I have as much energy as ever.###The post mentions that the answer is currently no for wanting kids and not wanting them in the near future. This suggests that the individual does not feel drained or lacking energy from taking care of children. Therefore, I can infer that they have as much energy as ever.'])
+('16', ['indirectly_mention', 'I have not experienced any change in my sleeping pattern.###The post states that the individual is currently not interested in having kids, which indicates that they do not have any concerns or anxieties that might disrupt their sleeping pattern. Thus, it can be inferred that there has been no change in their sleeping pattern.'])
+('17', ['indirectly_mention', "I am no more irritable than usual.###The post mentions that the person is currently not wanting kids and doesn't see themselves wanting kids in the near future. This statement suggests that the person may not be experiencing any additional irritability compared to their usual state as they have made a conscious decision about not having children."])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post implies that the person is not interested in having children now or in the near future. This lack of interest in parenting might be affecting their appetite to some degree, possibly resulting in a slight decrease in their usual level of appetite.'])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to concentration difficulty."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to tiredness or fatigue."])
+('21', ['indirectly_mention', 'I have almost no interest in sex.###The poster mentions that they do not see themselves having or wanting kids now or anytime in the near future. This suggests that they may have little interest in engaging in sexual activity that could lead to having children.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the poster's responses to the depression scale questions, it is evident that they are experiencing symptoms of depression. They reported feelings of sadness (Question 1), lack of interest in sex (Question 21), increased crying (Question 10), greater difficulty in making decisions (Question 13), and decreased appetite (Question 18). These symptoms, along with the overall tone of their post, indicate a possible presence of depression.
+

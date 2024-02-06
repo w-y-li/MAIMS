@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Should I still communicate with my father? Hello everyone. So the past few days my mom caught my dad cheating on her (2 women specifically). Now my mom sent him a closure to cut the ties (we live on the US while my dad is on another country). I'm angry and familiar with this feeling as well because my previous girlfriend cheated on me too (I guess it runs on the blood to be cheated on). Right now I don't know if I should cut my ties as well, as I can't forgive someone who broke my mom's heart and also someone who can't be contented at all. I'm 24 and take full responsibility on her. Our little family is all what my mom have, as she never worked her whole life and expended it to nurture us her children, giving up her career and dreams.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time###The post mentioned that my mom caught my dad cheating on her, and I feel angry and familiar with this feeling as well because my previous girlfriend cheated on me too. These experiences of infidelity and betrayal can often lead to feelings of sadness.'])
+('2', ['indirectly_mention', "I feel discouraged about my future###Although the post does not directly mention feeling discouraged about my future, the emotions surrounding my parents' broken relationship and the impact it may have on my family dynamic could contribute to feelings of pessimism about the future. The uncertainty and lack of trust caused by infidelity can lead to a general sense of discouragement."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling like a failure."])
+('4', ['indirectly_mention', "I do not enjoy things as much as I used to.###The post mentions feeling angry and familiar with the feeling of being cheated on. These experiences can lead to a decrease in pleasure and enjoyment, as indicated by the statement 'Right now I don't know if I should cut my ties as well, as I can't forgive someone who broke my mom's heart and also someone who can't be contented at all.'"])
+('5', ['indirectly_mention', "I feel guilty a good part of the time.###The poster mentions feeling angry and familiar with the feeling of being cheated on. This suggests a sense of guilt as the poster might blame themselves for their parents' failed relationship and for not being able to protect their mother from being hurt."])
+('6', ['indirectly_mention', 'I feel I may be punished.###The poster mentions feeling angry and mentions taking full responsibility for their mother. This might indicate a sense of guilt and the expectation of punishment for not being able to prevent the situation from happening.'])
+('7', ['directly_mention', 'I dislike myself###The post mentions that the person is angry and familiar with the feeling of being cheated on. This suggests that they may have feelings of self-dislike.'])
+('8', ['directly_mention', "I am more self-critical or blaming than usual###The post mentions that the person is considering cutting ties with their father after he cheated on their mother. This implies that they may be blaming themselves or feeling self-critical for not knowing about their father's infidelity or being unable to prevent it."])
+('9', ['directly_mention', 'I do not have any thoughts of killing myself.###In the post, I did not mention having any thoughts of killing myself.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to crying."])
+('11', ['indirectly_mention', "I am so restless or agitated that I have to keep moving or doing something.###The post mentions feeling angry and familiar with the feeling of being cheated on. This suggests that there is an increased level of agitation and restlessness, which is reflected in the statement about not being able to forgive someone who broke their mother's heart."])
+('12', ['indirectly_mention', 'It is hard to get interested in anything.###The post mentions that the individual is unsure whether they should cut ties with their father. This suggests a lack of interest in the situation, as they are undecided about what action to take. It also mentions the mother giving up her career and dreams, which could indicate a loss of interest in personal aspirations.'])
+('13', ['directly_mention', 'I can not make decisions at all anymore.###In the post, I mentioned that I am currently unsure if I should cut ties with my father. This uncertainty and inability to decide suggests that I am experiencing indecisiveness.'])
+('14', ['indirectly_mention', "I do not consider myself as worthwhile and useful as I used to.###Although I didn't explicitly mention feeling worthless, I expressed feeling anger and familiarity with the feeling of being cheated on. This can contribute to a decrease in self-worth and considering myself as less worthwhile and useful compared to before."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of energy."])
+('16', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in sleeping pattern."])
+('17', ['directly_mention', 'I am more irritable than usual.###The post mentions being angry about the situation, which indicates increased irritability.'])
+('18', ['directly_mention', 'My appetite is much less than before.###The post mentions feeling angry and upset, which can lead to a decrease in appetite.'])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention any difficulty in concentration."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention any tiredness or fatigue."])
+('21', ['indirectly_mention', "I have lost interest in sex completely.###The post mentions that the poster's previous girlfriend cheated on him, which could have resulted in emotional distress and loss of interest in sexual activities. Additionally, the betrayal experienced with his father's infidelity could further contribute to a decreased interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the answers provided in the mental scale, the poster exhibits several symptoms of depression such as sadness, pessimism about the future, loss of pleasure, guilt, self-dislike, self-accusations, agitation, indecisiveness, worthlessness, irritability, loss of interest in sex, and changes in appetite. These symptoms suggest a persistent low mood and a lack of enjoyment in activities, which are characteristic of depression.
+

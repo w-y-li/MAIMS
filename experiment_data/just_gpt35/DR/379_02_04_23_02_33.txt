@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Finally going to doctors Put off many appointments because of my anxiety. Wish me luck  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post indicates that the person has anxiety about going to the doctors, but it does not provide enough information to determine if they also suffer from depression.
+

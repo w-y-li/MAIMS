@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Three years ago my dad died, it hardly feels like three weeks. It's like everything else in my life is so insignificant in comparison, it's like a black hole that distorts my perception of time. It's as if time passes 100x faster since it and everything before it is so long ago. People say that after a major event in their life everything feels categorised into before and after it but to me it feels like things that are it and not, but most of them are. People have been telling me since then that I probably have depression and should maybe get help but that's mostly just from seeing me because I don't open up. I feel like I've just always been a little gloomy and don't feel very different now compared to before other than the whole bending of time thing. People say they noticed a change in me, but I didn't, maybe they just expect something like that to mess up a 14 year old?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the people in the poster's life being better off if they were gone."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the people in the poster's life being happier without them."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention feeling like a burden on society or thinking that their death would be a relief to others."])
+('4', ['indirectly_mention', 'Somewhat true for me.###The post talks about feeling gloomy and not opening up. This suggests a possibility of low self-esteem and self-perception as a burden, though the level of agreement may be moderate.'])
+('5', ['indirectly_mention', 'Somewhat true for me###The post mentions that people have been telling me since my dad died that I probably have depression and should maybe get help. This implies that the people in my life may wish they could be rid of me.'])
+('6', ['indirectly_mention', "Somewhat true for me###The post suggests that people have noticed a change in me since my dad's death. This could mean that I have been making things worse for the people in my life due to my gloomy state."])
+('7', ['indirectly_mention', 'Somewhat true for me###The post mentions that people have been telling me since my dad died that I probably have depression and should maybe get help, this implies that people care about me to some extent.'])
+('8', ['indirectly_mention', "Not at all true for me###The post mentions that I feel like everything else in my life is so insignificant in comparison to my dad's death. This implies that I don't feel like I belong."])
+('9', ['indirectly_mention', "Somewhat true for me###In the post, the poster mentions that people have been telling them that they probably have depression and should maybe get help because they don't open up. This implies that the poster has limited interaction with people who care about them."])
+('10', ['indirectly_mention', "Not at all true for me###The post suggests that the poster feels like everything in their life is insignificant in comparison to their father's death. They also mention that they've always been a little gloomy, implying that they don't have many caring and supportive friends."])
+('11', ['directly_mention', 'Very true for me###The post directly mentions feeling disconnected from other people.'])
+('12', ['directly_mention', 'Not at all true for me###The post directly mentions feeling like an outsider in social gatherings.'])
+('13', ['indirectly_mention', "Somewhat true for me###The post mentions that people have been telling me to get help, which implies there are people I can turn to in times of need, but I don't open up. This suggests that I may have some level of trust or reliance on others, but I find it difficult to reach out for support."])
+('14', ['indirectly_mention', "Not at all true for me###The post mentions that I don't feel very different now compared to before, other than the distortion of time. This suggests that I may not feel close to other people or have strong relationships with them, which makes it unlikely that I would consider myself close to other people in the current situation."])
+('15', ['directly_mention', "Not at all true for me###I mentioned that I don't have satisfying interactions these days and that I feel gloomy, which implies that I don't have satisfying interactions every day."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to the questions of the mental scale indicate a high level of perceived burdensomeness. They express thoughts of being a burden on society and making things worse for the people in their life. Additionally, they feel disconnected from others, rarely interact with people who care about them, and do not feel a sense of belonging or closeness to others. These feelings suggest a risk of perceived burdensomeness, which is associated with certain mental health conditions such as depression and possibly suicidal ideation.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I'll probably do it in my middle age. I don't want to die old and helpless. For now, I'll push on and I'll do my best for others even if it means dying.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the person is willing to sacrifice themselves for others even if it means dying. This indicates a perception of burdensomeness, as they feel like they are a burden to others and believe that their death would be less burdensome to those around them.
+

@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My mother has been depressed most of her life from what I can tell. She and my father are separated. He's struggling with his own battle. I'm 24 in college and I live about an hour away. I come home nearly every holiday, because when I was living at home during community college she became very dependent on me(to do household chores, and support her emotionally). She's lost her white collar job about a year ago. She make some bad choices, transferred to a position that wasn't right for her, and got let go. Now she's working at a warehouse job that too physical for her(out of shape). I'm worried that her depression is getting worse and worse. I can't quit college to move back and take care of her. Nor, do I think that is the way to really help her. Every time I come home her house becomes dirtier and dirtier. She's missing bills, becoming more reclusive, and I'm worried she depleting her savings/retirement. She isn't taking care of herself and not really trying to fix any of this. She's becoming more disillusioned with her job search for another white collar job. She is going to therapy and taking medication, but I don't really see any improvement (actually the opposite). I don't know what to do. I really want to help her but I don't know how without enabling her dependence on me.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster's mother has been depressed for most of her life. This suggests that the poster may feel responsible for their mother's well-being and could have feelings of guilt or self-doubt, leading them to believe that the people in their life would be better off without them. However, the post does not explicitly state this, so my answer is based on the indirect mention in the post."])
+('2', ['indirectly_mention', "Somewhat true for me###The post indicates that the poster's mother's depression is worsening and that the poster is concerned about her well-being. This may create feelings of inadequacy or the belief that the people in their life would be happier without them. Although the post does not directly state this, my answer is based on the indirect mention in the post."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to feeling like a burden on society."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to thinking that one's death would be a relief to others."])
+('5', ['indirectly_mention', "Not at all true for me###The post mentions that the poster's mother has become more reclusive, which implies that the people in the poster's life might not wish to be rid of them because they are isolating themselves from others."])
+('6', ['indirectly_mention', "Not at all true for me###The post mentions that the poster's mother is becoming more dependent on them for emotional support and household chores. This suggests that the poster might feel like they make things worse for the people in their life because they are needed to fulfill these responsibilities."])
+('7', ['directly_mention', "Somewhat true for me###The post mentions the poster's worry about their mother's worsening depression and their desire to help her. This suggests that the poster cares about their mother and is concerned about her well-being, indicating that other people care about them."])
+('8', ['indirectly_mention', "Somewhat true for me###The post mentions the poster's worry about their mother's worsening depression and their desire to help her. This suggests that the poster may feel a sense of belonging and responsibility towards their mother, as well as their family. Therefore, it can be inferred that they feel like they belong to their family to some extent."])
+('9', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster's mother became very dependent on them during community college, indicating that there was at least some interaction with someone who cared about them. However, it is unclear how often this interaction occurs currently, hence 'Somewhat true for me'."])
+('10', ['directly_mention', "Not at all true for me###The post explicitly states that the poster's mother is not taking care of herself and not really trying to fix her situation, suggesting that she may not have many caring and supportive friends currently."])
+('11', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster's mother has been depressed, withdrawn, and losing interest in taking care of herself and her home. This suggests a lack of connection and a feeling of being an outsider in social gatherings."])
+('12', ['indirectly_mention', "Very true for me###The post describes the poster's mother becoming more reclusive and experiencing a decline in social interactions. This indicates feeling disconnected from other people and frequently feeling like an outsider in social gatherings."])
+('13', ['directly_mention', "Very true for me###The post explicitly mentions that the poster is worried about their mother's worsening depression and wants to help her but doesn't know how. This suggests a desire for emotional support and someone to turn to in times of need."])
+('14', ['indirectly_mention', "Not at all true for me###Although the post doesn't directly mention being close to other people, it does imply a lack of closeness in the poster's relationship with their mother. The poster mentions that their mother became dependent on them for household chores and emotional support when they lived at home, which suggests a lack of closeness in their relationship."])
+('15', ['directly_mention', 'Somewhat true for me###I mentioned in the post that my mother has been depressed most of her life and currently her depression is getting worse. This indicates that I am not having satisfying interactions every day, but perhaps I still have some satisfying interactions occasionally.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows risk of thwarted belongingness because the individual expresses feelings of being a burden on others, thinking that people would be better off without them, and feeling disconnected from others. These thoughts and feelings indicate a lack of social connection and belonging, which are characteristic symptoms of thwarted belongingness.
+

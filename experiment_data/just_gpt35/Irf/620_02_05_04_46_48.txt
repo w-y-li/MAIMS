@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My life‚Äôs a mess, every day my mind is flooded by suicidal thoughts - yet I‚Äôm too much of a pussy to follow through with it. I‚Äôm sick of being alone, I want people who love me. But at the same time I hate being around people, it makes me nervous and causes me to overthink everything. I feel like the whole world is out to spoil my day. Everyone of my ex friends I‚Äôve had in my life have all left me. As soon as they found out that I had baggage in the form of mental illness. No sane person gives me a chance, and I don‚Äôt blame them, I have to lie constantly to my place of work, because I‚Äôll be let go. To be honest I don‚Äôt blame them either, it‚Äôs a chore to maintain a relationship with me. I‚Äôm not normal, I‚Äôm a disgusting human, I‚Äôll let you down if you give me a chance. And I won‚Äôt even be sorry.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation, rejection, and a desire for connection and belonging. The poster expresses a belief that others have left them due to their mental illness, which can contribute to feelings of thwarted belongingness.
+

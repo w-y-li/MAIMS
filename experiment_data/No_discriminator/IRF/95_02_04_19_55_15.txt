@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I gave up all the weed and alcohol that I was doing last semester, but it was the only thing that helped. I feel like I have no one at all. I ruin everything and every friendship i have. If I don't get on something that takes me away from this dark, dark room that's my head, I cannot last long. This is all too much. Is there anybody out there even reading this? Will anyone care?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to this question. The focus is on the person feeling isolated and seeking an escape from their thoughts, rather than their role and impact on the people in their life."])
+('2', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to this question. The focus is on the person feeling isolated and seeking an escape from their thoughts, rather than how their absence may affect the happiness of others."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to being a burden on society."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to thinking that my death would be a relief to the people in my life."])
+('5', ['directly_mention', 'Very true for me.###The post mentions that the person feels like they ruin everything and every friendship they have, indicating that they believe they make things worse for the people in their life.'])
+('6', ['directly_mention', 'Very true for me.###The post explicitly mentions that the person feels like the people in their life wish they could be rid of them.'])
+('7', ['directly_mention', 'Not at all true for me###The post mentions that the person feels like they have no one and ruin every friendship they have. This indicates that they do not feel like other people care about them.'])
+('8', ['directly_mention', "Not at all true for me###The post mentions that the person feels like they don't belong. This implies that they do not feel like they belong to any social group or community."])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person feels like they have no one at all and ruin every friendship they have, indicating a lack of caring and supportive friends. Therefore, it is possible that this statement is somewhat true for the poster.'])
+('10', ['indirectly_mention', 'Not at all true for me###The post implies that the person feels alone and isolated, and that they do not have many caring and supportive friends. Therefore, it is likely that this statement is not true for the poster.'])
+('11', ['directly_mention', 'Very true for me###The post explicitly states that the poster feels like they have no one at all, indicating a sense of disconnection from other people.'])
+('12', ['directly_mention', 'Very true for me###The post explicitly states that the poster ruins everything and every friendship they have, which suggests that they often feel like an outsider in social gatherings.'])
+('13', ['directly_mention', "Not at all true for me###Based on the statement 'I feel like I have no one at all.'"])
+('14', ['directly_mention', "Not at all true for me###Based on the statement 'I ruin everything and every friendship I have.'"])
+('15', ['indirectly_mention', 'Somewhat true for me###In the post, I mentioned that I feel like I have no one at all and that I ruin everything and every friendship I have. This suggests that I may not have satisfying interactions every day, but it does not explicitly state it.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden on society, making things worse for others, and feeling disconnected and like an outsider in social gatherings. Moreover, the person expresses a strong desire for something that can take them away from their dark thoughts and room, suggesting a sense of hopelessness and potential risk for perceived burdensomeness.
+

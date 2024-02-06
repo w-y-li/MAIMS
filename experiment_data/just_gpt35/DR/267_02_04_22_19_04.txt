@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Monalove make your Love visible  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not provide enough information to determine if the poster is suffering from depression. The content of the post appears to be related to expressing love, but it does not indicate any symptoms or experiences commonly associated with depression.
+

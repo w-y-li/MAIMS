@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Im scared that one day I may not be strong enough, not thoughtful enough, not hopeful enough... and end up doing it... you all know that one word, the one that's frightening and unbearable to say or even type. Suicide :(  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of being scared, not strong enough, and not hopeful enough, which indicate a sense of isolation and disconnect. The mention of suicide suggests a potential risk of thwarted belongingness.
+

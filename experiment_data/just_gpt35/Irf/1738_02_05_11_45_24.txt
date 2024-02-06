@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  This is a daily battle for me  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not provide enough information to determine if there is a risk of thwarted belongingness. The statement 'This is a daily battle for me' suggests ongoing struggles, but it does not explicitly indicate a lack of social connection or a feeling of being excluded or rejected by others, which are key components of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I am irrelevant No friends (unable to make any) No family (I don't have anybody literally) No relationships (no potential of attaining) I am the definition of a loser in modern society. The last advice I got was  to kill myself at this point . Just here to vent  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement about feeling irrelevant, having no friends, no family, no relationships, and being labelled as a loser in modern society indicate feelings of hopelessness, loneliness, and worthlessness, which are common symptoms of depression. The mention of receiving advice to kill oneself adds further concerns regarding their mental well-being.
+

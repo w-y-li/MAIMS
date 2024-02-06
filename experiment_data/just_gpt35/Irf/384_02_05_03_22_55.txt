@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Can‚Äôt find any relief Only thing I do is distract Lost hope in all my beliefs I don‚Äôt have any impact On what I think my life is I feel so incomplete Seeing my beloved ones succeed And it feels so bittersweet Even if it doesn‚Äôt fit my creed To be so envious But tell me: How do you go on, What do you expect, Who do you rely on, When everything is failing you and you fail everyone? (Not sure how formatting will be on desktop, on mobile it usually works out fine.)  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of loss, hopelessness, and feelings of being incomplete. The poster mentions feeling envious of others' success, which suggests a potential lack of belongingness.
+

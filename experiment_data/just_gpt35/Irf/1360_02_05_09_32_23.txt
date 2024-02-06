@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I might become homeless. Just had an episode and spent my savings, can't bring myself to work more than 15 hours a week. I binged on xanies and fucked a stranger the other night, I've been hanging out with a married man. The man I really love can't handle me but won't let me go for some fucking reason. I have no support system, everyone's only halfway there for me because I'm just too unpredictable and sick for anyone to consistently keep up with my needs. I just turned 26, I wanted to do something with my life by now, I can't even handle a ft job and my adulthood has been a clusterfuck of mental illness and grief. I need to be on drugs but I'm terrified of them bc I'm so low functioning that my life will be ruined if they make me any worse. It's been like this for years. Years!!!!!! I don't know how to get better, I see my other mentally ill friends not getting better, and the older I get the more worried I am that I'll have no choice but to concede to the reality of a lifelong struggle w/o much hope for anything even remotely resembling security/ property/ prosperity/ FAMILY I'm jealous of high functioning people. I just want to be that someday. I'm so tired. Thanks for reading  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling alone and lacking a support system, as well as feeling jealous of high functioning people. These are signs of potential thwarted belongingness, which is a risk factor for mental health problems.
+

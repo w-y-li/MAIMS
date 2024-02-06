@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Most of the time it‚Äôs the opposite, but sometimes, when I get really depressed, I want to have sex or pleasure myself as much as I possibly can. I just feel worse afterwards, but I always do it. Don‚Äôt know why it‚Äôs like that sometimes. Perplexes me. Anyone have a similar experience? Just wanted to share.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not demonstrate risk of perceived burdensomeness. The individual is sharing their experience of feeling a compulsion to engage in sexual behavior when experiencing depression. There is no mention of feeling like a burden to others or expressing thoughts of being a burden to others.
+

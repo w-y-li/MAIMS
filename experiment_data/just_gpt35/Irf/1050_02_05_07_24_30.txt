@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I need some help. I've been having more anxiety again lately and I don't know what other medications there are to even try. I have tried so many different medications and they just aren't doing the job. I know I can go back to my psychiatrist and all, but I'd like to know if anyone else has any  unique  medications that I could keep in mind for some hope and possibly to bring up with the doc. Here is a website that I found that has a extensive list of anti anxiety meds, https://www.anxieties.com/152/introduction-common-medications-for-anxiety-disorders#.Wkf3p1Q-ei4, and I've tried all of the Benzo's and numerous from the other categories that are listed. Just looking for maybe something unique that someone else has had luck with. thanks!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling anxious and seeking help for their anxiety. They express frustration with not finding relief from previous medications and are looking for unique options. This suggests a potential feeling of thwarted belongingness, as they may feel disconnected from others in finding effective treatment for their anxiety.
+

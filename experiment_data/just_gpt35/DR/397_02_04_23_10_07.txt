@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Moving away from family and the family business Im 25 and have lived within an hour of my family my whole life. I work for the family business, so Ive seen my dad and brother every day for the last 6 years. I believe it causes me extra stress and when I mess up at work it feels twice as bad. Have any of you been in a similar situation?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster does not provide enough information to determine if they suffer from depression. They mention feeling extra stress and feeling bad when making mistakes at work, but these feelings could be attributed to general work-related stress and not necessarily indicative of depression.
+

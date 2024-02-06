@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Finally went to the doc after being in a nine month low, the lowest I've been in years. I started meds and my doc just upped them after my three week check up. She also gave me a pill to stop panic attacks. I thought I was making strides forward. Today my dad's girlfriend, a very nice and loving woman, died. She died the exact same way my mom died almost exactly six years later. I remained calm for him, but I'm having a terribly hard time. I'm just numb. I just don't fucking understand. Death just follows me. I don't know what to do. My boss told me to take tomorrow off. My dad lives 3 hours away and is snowed in so I can't really even go visit him. I'm drowning.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the individual is experiencing feelings of isolation and disconnection due to the recent death of their dad's girlfriend, and the distance that separates them from their father. This suggests a risk of thwarted belongingness, as they feel unable to be physically present with their loved ones in a time of grief.
+

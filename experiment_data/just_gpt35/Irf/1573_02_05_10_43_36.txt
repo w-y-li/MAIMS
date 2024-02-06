@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Right now as I'm in a taxi going home, I drank 10 pills of antidepressants, wanted to drink the entire bottle and pass out on the road peacefully but couldn't get myself to finish the bottle. My legs are going numb and I'm starting to lose sight in my eyes. Doubt I'll be able to go to work tomorrow because have never drank this much and definitely tried before but couldn't follow through. Somebody might be thinking that I'm doing this because I'm miserable, well maybe you're right. Not because I'm alone( in an amazing relationship for over two years) not because I'm unemployed or broke( working at an amazing position as an HR vice president) not because I have abusive family( they're extremely supportive and I'd give my life for them), even if you have all of those you can still be miserable and not feel happy. This is just me venting before my eyes completely black out, to anyone trying to overdose tonight, don't do it, don't be an idiot like me Obligatory edit: I'm only 21  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates the poster's feelings of burden and being a liability, as they mention feeling like an idiot and expressing concern for others who might be contemplating overdose. This suggests a risk of perceived burdensomeness, where the individual feels like a burden to others and believes that their absence would benefit those around them.
+

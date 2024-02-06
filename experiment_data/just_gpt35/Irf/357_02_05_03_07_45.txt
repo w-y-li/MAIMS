@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I‚Äôve been single for over a year now after a 5 year relationship. I accept I‚Äôll probably be single for the rest of my life. I care about someone. I accept I am only an option for them. I‚Äôm not appreciated at work I‚Äôve accepted that and it makes it just slightly more bearable. I‚Äôm depressed. I accept that I‚Äôve decided that if it‚Äôs not better by the time I‚Äôm 30 I‚Äôm done. I accept I‚Äôm not important to anyone and that‚Äôs okay. I‚Äôll find a loving home for my cat and then I‚Äôll be gone. People will say ‚Äúoh she was so loved.‚Äù They are lying and I accept that they will do this to make themselves feel better. I accept that this is my life and I‚Äôll manage until it‚Äôs over.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the person feels like a burden to others and believes that they are not important to anyone. This can indicate a risk of perceived burdensomeness, which is a characteristic associated with some mental health problems such as depression and suicidal ideation.
+

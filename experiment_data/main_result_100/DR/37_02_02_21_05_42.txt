@@ -1,0 +1,139 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Afraid to post my own comments/opinions on social media. I'm just realizing that all of the social medias I have or use (IG/ Twitter, Tumblr, Reddit and so on) I only repost/like other users posts and rarely post my own.. Idk seems like I'm afraid of what others think of me and that I'm insecure about something  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', "I feel sad much of the time###Although the post does not directly mention feeling sad, the statement 'Idk seems like I'm afraid of what others think of me and that I'm insecure about something' suggests a general sense of insecurity and self-doubt which can often be associated with feeling sad much of the time."])
+('2', ['indirectly_mention', 'I feel discouraged about my future###The post indicates that the person is afraid of posting their own comments/opinions on social media, which suggests a lack of confidence in expressing themselves. This reluctance can be associated with feeling discouraged about the future as it implies a belief that their contributions will not be valued or welcomed by others.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The post mentions that the person feels insecure about something and is afraid of what others think of them. These feelings can stem from a fear of failure or a belief that they have not been successful compared to others.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post indicates that the person is afraid of what others think of them and is insecure. These negative emotions can often lead to a decreased ability to experience pleasure or enjoyment in activities that were previously enjoyable.'])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The post mentions being afraid of what others think of me and being insecure about something. These feelings of fear and insecurity can often lead to guilt, indicating that the person may feel guilty a good part of the time.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indicate any feelings related to punishment, so I cannot deduce the answer to this question."])
+('7', ['directly_mention', 'I dislike myself.###In the post, I mentioned that I am afraid of what others think of me and that I am insecure about something. This indicates that I have a negative perception of myself and therefore, I dislike myself.'])
+('8', ['directly_mention', 'I am more self-critical or blaming than usual.###I mentioned that I am afraid of what others think of me and that I am insecure about something. This implies that I tend to criticize myself more than usual, indicating that I am more self-critical or blaming.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not contain any information related to suicidal thoughts or wishes."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information about crying or emotional response."])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###In the post, I mentioned feeling afraid of what others think of me and being insecure about something. These feelings might lead to restlessness and agitation, making it hard for me to stay still.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###In the post, I mentioned that I rarely post my own comments/opinions on social media. This suggests a decreased interest in engaging with others or sharing my own thoughts, indicating a potential loss of interest.'])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that the person is afraid to post their own comments/opinions on social media and that they are afraid of what others think of them. This fear and insecurity may lead to difficulties in making decisions, as they may constantly second-guess themselves and worry about how their decisions will be perceived by others.'])
+('14', ['indirectly_mention', 'I do not consider myself as worthwhile and useful as I used to.###The post indicates that the person feels insecure, afraid of what others think about them, and potentially lacking self-confidence. These feelings can contribute to a sense of worthlessness, as they may believe that their opinions and contributions are not as valuable or worthwhile as those of others.'])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The poster mentions feeling afraid of what others think of them and being insecure about something. These feelings of fear and insecurity can often lead to a decrease in energy levels and motivation.'])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###The poster mentions being afraid of what others think of them, which can cause anxiety and disrupt sleep patterns. Although they do not explicitly mention experiencing changes in their sleeping pattern, it can be inferred that their anxiety may be affecting their sleep, resulting in sleeping somewhat less than usual.'])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post mentions feeling afraid of what others think of me and being insecure. These feelings of fear and insecurity can often lead to increased irritability.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions feeling afraid of what others think of me and being insecure. These feelings of fear and insecurity can often lead to a decrease in appetite.'])
+('19', ['indirectly_mention', "I find I can not concentrate on anything.###The post mentions that the person is afraid of what others think of them and is insecure about something. These feelings can often lead to difficulties in concentration as the person's mind is preoccupied with worrying thoughts."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to tiredness or fatigue."])
+('21', ['indirectly_mention', "I am less interested in sex than I used to be.###In the post, I mentioned that I'm afraid of what others think of me and that I'm insecure about something. These feelings of insecurity and fear may be affecting my interest in sex, leading to a decrease in my interest in sex."])
+Do MS Check Record:
+('1', ['Incorrect', 'Be cautious not to directly infer emotions like sadness without clear evidence. Consider the broader context and possible range of emotions that could be related to insecurity.'])
+('2', ['Correct', 'Maintain a careful balance between what is stated and your inferences. Continue to connect emotional states like pessimism to behaviors such as reluctance to express oneself.'])
+('3', ['Incorrect', 'Re-examine the text for direct or indirect evidence of past failures before concluding. Avoid assumptions without textual support.'])
+('4', ['Incorrect', 'Look for specific indications of loss of pleasure in the post rather than generalizing based on the expressed insecurity.'])
+('5', ['Incorrect', "Avoid overgeneralizing based on the content of the poster's expression of fear and insecurity to attribute guilt. Carefully analyze the post's content to discern if guilt is explicitly mentioned or if there is a direct indication of feeling guilty."])
+('6', ['Correct', 'Continue being cautious not to infer or extrapolate beyond the information provided by the post. Stay focused on what is explicitly stated or can be reasonably deduced from the text.'])
+('7', ['Incorrect', "Avoid making definitive statements without evidence in the post. Look for explicit expressions of self-evaluation rather than assuming self-dislike from fear of others' opinions."])
+('8', ['Incorrect', "Do not equate insecurity or concern about others' opinions directly with self-accusations. Seek clear indications of self-blame within the post content."])
+('9', ['Correct', 'Continue to differentiate between the specific content of a post and the themes you are asked to assess. Stay objective.'])
+('10', ['Correct', 'Ensure you are not inferring emotions that are not explicitly mentioned or strongly implied by the post. Good objectivity.'])
+('11', ['Incorrect', 'Review the post for explicit mentions of agitation; do not infer psychological states that are not clearly indicated.'])
+('12', ['Correct', 'Continue connecting behaviors to psychological states while remaining cautious not to over-interpret the available information.'])
+('13', ['Correct', 'Ensure that when interpreting posts, the context of the behavior is taken into account in relation to the question. Continue to make connections between how the poster describes their feelings and how these feelings may impact related behaviors, like indecisiveness.'])
+('14', ['Incorrect', "Avoid making unfounded assumptions about the poster's sense of worth. The post indicates insecurities but does not directly suggest feelings of worthlessness. Focus solely on the evidence presented in the post, and be cautious not to overextend the implications of the poster's feelings."])
+('15', ['Incorrect', "Review the post for concrete details related to the question. Avoid assuming symptoms like 'loss of energy' without specific evidence from the post."])
+('16', ['Incorrect', "Be cautious not to infer too much from the post. State only what's implied directly by the poster's words, without extending to specific sleep pattern changes unless mentioned."])
+('17', ['Incorrect', 'Focus on concrete information present in the post rather than inferring feelings that lead to symptoms not directly mentioned. There is no direct link between the fear of posting opinions and increased irritability; avoid overgeneralizing.'])
+('18', ['Incorrect', 'Be cautious not to assume symptoms like changes in appetite based on the fear of judgment and insecurity without clear indicators. Look for explicit expressions related to the topic.'])
+('19', ['Incorrect', "Consider the link between emotional states and cognitive functions. While direct mention of concentration difficulties isn't in the post, feelings of fear and insecurity could reasonably contribute to concentration issues. Analyze the potential implications of emotional states on mental processes rather than looking for explicit mentions."])
+('20', ['Correct', "Good job on not inferring beyond the available information. However, ensure you consider all aspects of the post and reflect on whether any subtle hints may imply tiredness or fatigue, even if not directly stated, before concluding there's no mention."])
+('21', ['Incorrect', 'Do not make assumptions about topics like sexual interest that are not explicitly mentioned in the post. Focus on what is directly shared and avoid inferring psychological states or behaviors that are not supported by the text.'])
+
+ITER 1
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The post mentions feeling afraid of what others think and being insecure, which can be indicative of low self-esteem or self-worth. These feelings often accompany sadness.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention past failures. It primarily focuses on the fear of posting comments/opinions on social media and feeling insecure about what others think."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything about loss of pleasure or indicate a decrease in enjoyment of things."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling guilty or provide any indication of guilt."])
+('7', ['indirectly_mention', 'I feel the same about myself as ever.###The post mentions feeling insecure about what others think of me, which suggests a lack of confidence or self-esteem. However, there is no direct expression of self-dislike. '])
+('8', ['not_mention', "Doesn't mention at all.###The post does not contain any indication of self-accusations or self-blaming behavior. The focus is on fear of others' opinions and feeling insecure, but not on criticizing or blaming oneself."])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The post mentions feeling afraid of what others think and being insecure, which could contribute to increased restlessness or agitation.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any direct information about feelings of worthlessness. It only mentions feeling insecure and afraid of what others think, without indicating a sense of worthlessness."])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post mentions being afraid of what others think of me and being insecure about something. These feelings can cause a decrease in energy and motivation.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information or details related to changes in the sleeping pattern."])
+('17', ['indirectly_mention', 'I am somewhat less hungry than usual.###The post mentions the fear of what others think and feeling insecure, which can often result in decreased appetite.'])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to irritability."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to concentration difficulties."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+('1', ['Incorrect', 'Avoid inferring emotions not directly supported by the text. Instead, focus on the emotions that are explicitly mentioned or clearly implied.'])
+('3', ['Correct', 'Maintain an objective perspective, focusing solely on the content provided without assuming details beyond the scope of the post.'])
+('4', ['Correct', 'Ensure to analyze the posts for any subtle indications that could relate to the mental scale in question, but maintain objectivity if no information is present.'])
+('5', ['Correct', 'Continue to seek evidence within the post before inferring characteristics such as guilt; if it is not mentioned, maintain the stance of not assuming beyond the given information.'])
+('7', ['Incorrect', 'Reevaluate the post for indirect cues of self-dislike; insecurity can be a sign of negative self-perception. Look for subtle implications rather than explicit statements.'])
+('8', ['Correct', "Continue to discern between self-focused negative feelings and self-accusations. Avoid inferring issues not clearly suggested by the post's content."])
+('11', ['Correct', "When inferring mental states like agitation, it's appropriate to consider associated feelings such as fear of judgement and insecurity that could reasonably lead to restlessness, as you have done. Ensure you continue to use relevant information from the post to support your inferences."])
+('14', ['Correct', 'Good job recognizing the lack of direct information about worthlessness in the post. Continue to differentiate between the emotions explicitly mentioned and those that are not. Avoid assuming feelings that are not indicated by the text.'])
+('15', ['Incorrect', 'Examine subtle cues in the post that may suggest underlying feelings affecting energy levels, and avoid assuming direct mentions where none exist.'])
+('16', ['Correct', 'Continue analyzing the post for explicit information before drawing conclusions about unmentioned topics.'])
+('17', ['Incorrect', "Review the post carefully to find any potential indirect cues about the poster's emotional states that could relate to irritability. Avoid assuming attributes not explicitly mentioned."])
+('18', ['Incorrect', 'Although the post does not directly mention changes in appetite, inference can be made based on expressed insecurities. Consider how feelings may affect physical states like appetite.'])
+('19', ['Correct', "Remember to base your answers strictly on the post content without making assumptions. Avoid reading too much into the information that isn't there."])
+('21', ['Correct', 'Maintain objectivity and do not infer information about the poster unless it is directly or indirectly indicated in the post.'])
+
+ITER 2
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The post mentions that the person is afraid of what others think of them and feels insecure about something. This indicates a potential prolonged feeling of sadness that might be influencing their fear and insecurity.'])
+('7', ['indirectly_mention', 'I dislike myself.###The post suggests that the person is afraid of what others think of them and feels insecure about something. This fear and insecurity can be indicative of a negative self-perception and self-dislike.'])
+('15', ['indirectly_mention', "I have less energy than I used to have.###The post mentions that the poster is afraid of what others think of them and insecure about something. These feelings of fear and insecurity can often drain one's energy and result in a decrease in energy levels."])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post suggests that the poster is afraid of what others think of them and insecure about something. These underlying feelings of fear and insecurity can often lead to increased irritability, as one might constantly worry about their image and how others perceive them.'])
+('18', ['indirectly_mention', "My appetite is somewhat less than usual.###The post mentions being afraid of what others think and feeling insecure. These feelings can often lead to a decrease in appetite, thus indicating that the person's appetite is somewhat less than usual."])
+Do MS Check Record:
+('1', ['Incorrect', 'Avoid assuming emotions such as sadness without more direct evidence. Look for explicit expressions of feelings to support your deductions.'])
+('7', ['Incorrect', "Do not infer self-dislike solely based on fear of others' opinions or insecurity. Seek more specific references to self-perception before concluding self-dislike."])
+('15', ['Incorrect', 'Connect energy levels more explicitly with evidences from the post, and avoid assumptions not directly supported by the content.'])
+('17', ['Incorrect', 'Do not infer irritability without direct or indirect evidence from the post; remain neutral unless the post provides cues related to this characteristic.'])
+('18', ['Incorrect', 'Avoid assuming a direct connection between the fear of posting and appetite changes without clear evidence. Focus on analyzing the content for direct or closely related statements that address the question.'])
+
+ITER 3
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling sad."])
+('7', ['indirectly_mention', 'I dislike myself.###The post mentions being afraid of what others think of me and feeling insecure, which could indicate a level of self-dislike.'])
+('15', ['indirectly_mention', "I do not have enough energy to do very much.###The post mentions being afraid of what others think and being insecure, which can be indicative of low energy levels. The poster also mentions only reposting and liking others' posts, suggesting a lack of motivation or energy to engage in their own posting activities."])
+('17', ['not_mention', "Doesn't mention at all.###The post does not mention irritability or any related symptoms that could provide evidence for the level of irritability experienced."])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions being afraid of what others think and feeling insecure about something. These feelings of insecurity could potentially lead to a decrease in appetite, although it is not explicitly stated.'])
+Do MS Check Record:
+('1', ['Incorrect', 'Focus on implicit emotional cues. The post suggests a fear of judgment and insecurity. Consider how these feelings may relate to sadness. When the post does not explicitly mention an emotion, assess whether the described behavior could be a manifestation of that emotion.'])
+('7', ['Correct', 'Good job identifying the implications of self-dislike from the fear of judgment and insecurity mentioned in the post. Continue to use clues from the text to infer emotions not explicitly stated.'])
+('15', ['Incorrect', 'Review the post content for implicit emotional states that could link to energy loss; consider how expressing fear and insecurity might relate to mental and emotional exhaustion.'])
+('17', ['Correct', 'Good attention to the absence of explicit mention of irritability; continue assessing posts literally for direct evidence but also consider broader emotional context.'])
+('18', ['Incorrect', 'Carefully analyze the original post for explicit information before inferring psychological states that might affect behavior like appetite changes. Avoid making assumptions not directly supported by the post.'])
+
+ITER 4
+Do MS Record:
+('1', ['indirectly_mention', 'I have less energy than I used to have.###The post indirectly mentions a decrease in energy levels when the poster states that they rarely post their own comments or opinions on social media. This behavior could indicate a lack of motivation or energy to engage in self-expression.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything that directly or indirectly relates to sadness. While the poster mentions being afraid of what others think and feeling insecure, it does not explicitly state feeling sad or unhappy."])
+('18', ['indirectly_mention', "I have not experienced any change in my appetite.###The post mentions feeling insecure about what others think of me and being afraid of posting my own comments/opinions on social media. Insecurity and fear of judgment can sometimes lead to stress and anxiety, which may affect one's appetite. However, the post does not directly state any changes in appetite, so I can only infer that there might not be any actual changes."])
+Do MS Check Record:
+('1', ['Incorrect', "While the post does suggest some avoidance, the connection to sadness isn't clearly made. Consider alternative interpretations that align more closely with the content of the social media post, such as feelings of anxiety or fear of judgment, rather than assuming it is related to sadness."])
+('15', ['Correct', 'Good job identifying that the post does not explicitly mention loss of energy. Continue to distinguish between emotions and behaviors, and be cautious not to infer emotions that are not evident from the post.'])
+('18', ['Incorrect', "Avoid making assumptions or inferences not supported by the post's content. Focus on the information given; if the post does not mention changes in appetite, do not infer it has not changed. Instead, state the information is not available in the post."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses on the mental scale indicate symptoms commonly associated with depression, such as pessimism, feelings of self-dislike, restlessness, decreased interest in things, difficulty making decisions, and lack of interest in sex.
+
+Incorrect
+Avoid overinterpreting or diagnosing based on limited information. The poster does show signs of self-dislike and pessimism but has explicitly stated having no problem with other questions related to key depression symptoms such as past failure, loss of pleasure, and suicidal thoughts. Without further evidence or a comprehensive assessment, it is not appropriate to conclude that the poster suffers from depression. Look for patterns and consider the entire spectrum of symptoms before reaching a conclusion. Always interpret responses within context and ensure that a sufficient number of symptoms, as well as their severity and duration, meet the clinical criteria for a diagnosis.
+
+ITER 1
+No
+The poster does show signs of self-dislike and pessimism, but without further evidence or a comprehensive assessment, it is not appropriate to conclude that the poster suffers from depression. The poster has explicitly stated having no problem with other key depression symptoms such as past failure, loss of pleasure, and suicidal thoughts. It is important to consider the entire spectrum of symptoms before reaching a conclusion. Always interpret responses within context and ensure that a sufficient number of symptoms, as well as their severity and duration, meet the clinical criteria for a diagnosis.
+
+Correct
+Continue to avoid making assumptions without evidence and consider the full range of symptoms required for a diagnosis. Acknowledge individual symptoms, but refrain from diagnosing without a proper and comprehensive evaluation. Remain vigilant against overgeneralizing based on limited information.

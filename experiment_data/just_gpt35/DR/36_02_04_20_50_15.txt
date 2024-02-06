@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  How would you describe your life at this point? I literally feel like my life is a complete crap! I’ve been holding my feelings in(self doubt, emotionally unstable) it’s been rough! I just quit my job because it was causing more panic attacks ...so now I’m without a job and still depressed! Basically life sucks for me!!!!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of self-doubt, emotional instability, and depression. They mention feeling like their life is a complete crap, experiencing panic attacks, and being without a job and still depressed. These symptoms suggest that the poster may be experiencing depression.
+

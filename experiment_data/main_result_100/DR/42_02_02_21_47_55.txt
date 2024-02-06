@@ -1,0 +1,106 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I don't know what I am living for... I honestly don't know why I keep living another day, I have no one to love me, my very friends are dick heads, my parents don't care how i am feeling and when they do they just throw a bible verse at my face acting as if talking to some sky man is going to cure me, I have yet to even hug a girl in my life, probably because I'm such an ugly awkward beta shit... I have no plans for my future, I am overall retarded In school. All I can do is be an escapist by playing video games, watching videos, eating unhealthy food, and all i do is isolate myself from reality... My therapist is overall useless, all she does is repeat the same shit I hear from people... I honestly don't comprehend why I won't just end it all...  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "I feel sad much of the time###The post explicitly states that the poster doesn't know why they keep living, they have no one to love them, their friends are unkind, their parents are unsupportive, and they feel ugly and awkward. All of these statements suggest a feeling of sadness and unhappiness."])
+('2', ['directly_mention', 'I feel I have nothing to look forward to###The post explicitly mentions that the poster has no plans for their future and feels hopeless. These statements indicate pessimism and a lack of optimism for the future.'])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The poster mentions feeling like a failure in school, which implies that they judge themselves as having failed more than the average person.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The poster mentions being an escapist and isolating themselves from reality through video games, unhealthy food, and isolation. This suggests a loss of pleasure in activities that once brought them enjoyment.'])
+('5', ['directly_mention', "I feel quite guilty most of the time.###The poster mentioned feeling guilty and even said 'I honestly don't comprehend why I won't just end it all', which suggests guilt and self-blame."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling punished."])
+('7', ['indirectly_mention', "I dislike myself###The post mentions feeling like an 'ugly awkward beta shit' and having no one to love, which indicates a self-dislike."])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual###The post mentions feeling like a 'retard' in school and blaming oneself for not having a future or being able to socialize, indicating self-accusations."])
+('9', ['indirectly_mention', "I would like to kill myself.###The post mentions that the poster doesn't know why they keep living another day, have no one to love them, and feel ugly and awkward. These feelings of hopelessness and worthlessness indicate that they might have the desire to end their life."])
+('10', ['indirectly_mention', 'I cry all the time now.###The post mentions feeling isolated from reality, having no one to love them, and feeling overall useless. These feelings of sadness and loneliness suggest that the poster may cry all the time as a result.'])
+('11', ['indirectly_mention', "I am so restless or agitated that it is hard to stay still.###The post mentions feeling restless and agitated: 'I have no one to love me, my very friends are dick heads, my parents don't care how i am feeling and when they do they just throw a bible verse at my face acting as if talking to some sky man is going to cure me, I have yet to even hug a girl in my life, probably because I'm such an ugly awkward beta shit...I have no plans for my future, I am overall retarded In school. All I can do is be an escapist by playing video games, watching videos, eating unhealthy food, and all i do is isolate myself from reality... My therapist is overall useless, all she does is repeat the same shit I hear from people... I honestly don't comprehend why I won't just end it all...' These feelings suggest a restlessness and agitation that make it hard to stay still."])
+('12', ['indirectly_mention', "It is hard to get interested in anything.###The post mentions a lack of interest in various activities: 'All I can do is be an escapist by playing video games, watching videos, eating unhealthy food, and all i do is isolate myself from reality...' This suggests a difficulty in getting interested in anything."])
+('13', ['directly_mention', "I can not make decisions at all anymore.###The post mentions that the person has no plans for the future and describes themselves as 'retarded in school'. These indications suggest a greater difficulty in making decisions than before."])
+('14', ['directly_mention', "I feel utterly worthless.###The post expresses feelings of worthlessness, such as not knowing their purpose in life, feeling unloved and unlovable, and considering themselves as an 'ugly awkward beta shit'. These thoughts and emotions indicate a sense of utter worthlessness compared to others."])
+('15', ['directly_mention', "I have less energy than I used to have.###The poster mentions feeling like an 'ugly awkward beta shit' and having no plans for the future. These thoughts and experiences can be indicative of low energy or lack of motivation."])
+('16', ['directly_mention', 'I sleep somewhat less than usual.###The post mentions being an escapist by playing video games, watching videos, and isolating oneself from reality. These activities can often interfere with regular sleep patterns, leading to a decrease in the quantity or quality of sleep.'])
+('17', ['indirectly_mention', 'I am much more irritable than usual.###The post mentions feeling isolated and unhappy with friends and family. These feelings of dissatisfaction and lack of support can contribute to increased irritability.'])
+('18', ['directly_mention', 'My appetite is somewhat less than usual.###The post mentions eating unhealthy food and isolating oneself from reality. These behaviors may indicate a decreased appetite or a change in eating patterns.'])
+('19', ['directly_mention', "I find I can not concentrate on anything.###The post states, 'It is hard to keep my mind on anything for very long.' This directly mentions the difficulty in concentration."])
+('20', ['directly_mention', "I am too tired or fatigued to do most of the things I used to do.###The post states, 'I am overall retarded in school. All I can do is be an escapist by playing video games, watching videos, eating unhealthy food, and all I do is isolate myself from reality.' This suggests a lack of energy and motivation, and indicates fatigue in performing normal activities."])
+('21', ['directly_mention', 'I have almost no interest in sex.###The post mentions that the person has never hugged a girl in their life and refers to themselves as an "ugly awkward beta shit." This suggests a lack of experience and confidence in intimate relationships, which can lead to a decrease in interest in sex.'])
+Do MS Check Record:
+('1', ['Correct', 'Keep accurately identifying emotions depicted in the posts, but remember to avoid overgeneralizing based on limited information.'])
+('2', ['Correct', 'Continue to draw conclusions based on the clearly stated feelings from the posts. Ensure that these conclusions are directly supported by the text to avoid assumptions not evident from the post.'])
+('3', ['Correct', 'Ensure to differentiate between subjective feelings of failure and objective outcomes. Continue to use direct quotes to support your interpretations.'])
+('4', ['Correct', "Be cautious of implying a change over time ('as much as I used to') unless the post explicitly mentions such a change. Focus on current states when information about the past is not provided."])
+('5', ['Incorrect', 'Review the original post to identify specific indicators of guilt, such as feelings of worthlessness or self-blame, rather than inferring guilt from general distress.'])
+('6', ['Correct', 'Maintain the careful analysis that avoids over-inference when the post does not provide clear evidence related to the specific feeling in question.'])
+('7', ['Correct', 'Ensure to support your assessments with more specific reference to the post, highlighting direct quotes whenever possible.'])
+('8', ['Correct', "Keep aligning the poster's statements with psychological constructs, but try to avoid adding interpretations beyond what is explicitly stated."])
+('9', ['Incorrect', "Avoid assuming direct suicidal intent unless explicitly stated. Consider exploring factors that the poster mentions which contribute to their despair, but focus on accurately reflecting the post's information without implying intent."])
+('10', ['Incorrect', 'Refrain from presuming specific reactions, like crying, unless the post provides clear indicators. Instead, describe the emotional state that might lead to crying, such as feeling overwhelmed or sad, always linking back to the content of the post.'])
+('11', ['Correct', 'Ensure clarity by directly linking observable behaviors or statements in the post to the symptoms of agitation.'])
+('12', ['Correct', 'For added accuracy, consider the context of escapism through video games and videos as potential interests rather than loss of interest, and try to deduce loss of interest from other life aspects.'])
+('13', ['Correct', 'Ensure you continue to draw on specific elements from the post that relate to the psychological constructs in the questions.'])
+('14', ['Correct', "Remember to differentiate between the user's explicit expressions of their feelings and any underlying indications of their mental and emotional state."])
+('15', ['Incorrect', "Avoid assuming symptoms that aren't explicitly mentioned in the post. The student should focus on the content provided and not infer symptoms of low energy without direct evidence."])
+('16', ['Correct', 'Ensure answers are derived from explicit information in the post. In this case, activities mentioned suggest potential sleep disturbances, aligning the response with the post content.'])
+('17', ['Incorrect', 'Review the post for explicit statements or clear indicators of irritability rather than inferring it from general dissatisfaction.'])
+('18', ['Incorrect', 'Identify specific details about appetite changes rather than assuming these from unrelated behaviors like food choice or escapism.'])
+('19', ['Incorrect', 'Review the post to find any direct statements or clear indications about concentration difficulties. Avoid assumptions if the information is not explicitly mentioned or strongly inferred.'])
+('20', ['Incorrect', "Look for explicit expressions of tiredness or fatigue. The mention of 'retarded in school' may not necessarily imply fatigue—it could be interpreted differently. Avoid making direct links without clear supporting evidence in the post."])
+('21', ['Correct', 'Good analysis, but ensure not to embellish or assume details not present in the original post.'])
+
+ITER 1
+Do MS Record:
+('5', ['directly_mention', 'I feel guilty all of the time.###The post mentions feeling guilty multiple times, indicating a consistent experience of guilt.'])
+('9', ['indirectly_mention', "I have thoughts of killing myself, but I would not carry them out.###Although the post doesn't explicitly mention suicidal thoughts, the statement 'I honestly don't comprehend why I won't just end it all...' suggests that the poster has thoughts of ending their life, but lacks the motivation or intention to carry them out."])
+('10', ['indirectly_mention', 'I cry more than I used to.###The post mentions feeling overwhelmed, isolated, and having no one to love them, which suggests a potential increase in emotional distress and sadness that could lead to crying more than usual.'])
+('15', ['indirectly_mention', 'I do not have enough energy to do very much.###The post talks about feeling overall useless, isolated, and not having plans for the future. These negative emotions and lack of motivation may contribute to a decrease in energy levels, making it difficult to engage in activities.'])
+('17', ['directly_mention', 'I am much more irritable than usual.###The poster explicitly mentions being irritated by their friends, parents, therapists, and their situation in general. This indicates that they are experiencing heightened irritability.'])
+('18', ['indirectly_mention', "My appetite is somewhat less than usual.###While the post doesn't explicitly mention changes in appetite, it does mention eating unhealthy food and using escapism as a coping mechanism. These behaviors can often be associated with a decreased appetite or changes in eating habits."])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###The poster mentions being an escapist by playing video games, watching videos, and eating unhealthy food. This suggests a difficulty in concentrating as these activities require focus. However, since the post does not explicitly state concentration difficulties, this is an indirect mention.'])
+('20', ['not_mention', "Doesn't mention at all.###The post does not provide any information about tiredness or fatigue. It focuses more on the poster's emotional struggles and lack of purpose in life."])
+Do MS Check Record:
+('5', ['Incorrect', "Reassess the post for direct mentions of guilt rather than general negative feelings. Guilt pertains to a sense of wrongdoing, which isn't articulated clearly in the post."])
+('9', ['Correct', "Good inference linking the poster's language to possible suicidal thoughts. Continue to analyze the underlying implications carefully."])
+('10', ['Correct', 'Ensure you continue to draw connections from specific emotional expressions in the post to the potential behaviors they might cause, such as increased crying due to distress.'])
+('15', ['Correct', "Good inference. Keep using evidence from the text to support your conclusions about the poster's energy levels and relate them to psychological concepts."])
+('17', ['Correct', 'Continue being attentive to the explicit content of the posts for accurate assessments. Be cautious not to overgeneralize based on the tone.'])
+('18', ['Incorrect', 'Avoid assuming changes in appetite based solely on coping behavior without explicit evidence. Focus on direct statements for reliable interpretations.'])
+('19', ['Correct', 'Continue to analyze posts for indirect mentions of psychological states and remember that a lack of focus on productive tasks can imply difficulty with concentration.'])
+('20', ['Incorrect', 'Reconsider your analysis by recognizing that escapism behaviors and descriptions of low motivation may imply a state of fatigue. Look for subtle indications of mental states related to the concept of tiredness, rather than waiting for explicit mentions.'])
+
+ITER 2
+Do MS Record:
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about guilt feelings directly or indirectly."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in appetite directly or indirectly."])
+('20', ['directly_mention', "I am too tired or fatigued to do most of the things I used to do.###The poster expresses feeling tired and fatigued, saying they have no energy or motivation to engage in activities they used to enjoy. This aligns with the option 'I am too tired or fatigued to do most of the things I used to do.'"])
+Do MS Check Record:
+('5', ['Incorrect', 'Review the post for emotional state indicators and infer connections to potential guilty feelings.'])
+('18', ['Incorrect', 'Consider the mentioned behaviors that could imply changes in appetite.'])
+('20', ['Correct', 'Keep ensuring that your analysis aligns with the information provided in the post. Remember to differentiate between implicitly and explicitly stated emotions and avoid over-inference.'])
+
+ITER 3
+Do MS Record:
+('5', ['indirectly_mention', "I feel guilty all of the time.###The post mentions feelings of guilt when the poster says 'All I can do is be an escapist by playing video games, watching videos, eating unhealthy food,.' This behavior suggests a potential guilty conscience as the poster is aware that they are engaging in unhealthy coping mechanisms."])
+('18', ['indirectly_mention', "My appetite is much less than before.###The post mentions that the poster is 'eating unhealthy food' and 'isolating [themselves] from reality.' These behaviors could imply changes in appetite, with the poster's appetite being much less than before."])
+Do MS Check Record:
+('5', ['Correct', "Good job identifying the implied feelings of guilt from the poster's acknowledgment of escapism through video games and other activities. Keep looking for indirect cues in future analyses, but try to provide more detailed explanations for your inferences."])
+('18', ['Incorrect', "Your inference that the poster's appetite has lessened isn't fully supported by the text. The poster talks about eating unhealthy food, which doesn't necessarily imply eating less. Focus on the exact language used and avoid assumptions not directly supported by the text."])
+
+ITER 4
+Do MS Record:
+('18', ['indirectly_mention', 'My appetite is much less than before.###The poster mentions eating unhealthy food and isolating themselves from reality, which may suggest a decrease in appetite.'])
+Do MS Check Record:
+('18', ['Incorrect', 'Do not assume a decrease in appetite solely based on the mention of unhealthy food. Eating unhealthy can be a sign of increased or unchanged appetite, particularly in the context of escapism. Focus on direct evidence related to changes in eating behavior.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to the questions on the mental scale indicate significant symptoms of depression. They express feelings of sadness, pessimism, past failure, loss of pleasure, guilt, self-dislike, self-accusations, suicidal thoughts or wishes, crying, agitation, indecisiveness, worthlessness, loss of energy, changes in sleeping pattern, irritability, concentration difficulty, tiredness or fatigue, and changes in interest in sex. These symptoms align with the diagnostic criteria for depression and suggest that the poster is experiencing a depressive episode.
+
+Correct
+Ensure that your interpretations are solely based on the information given and do not overextend beyond the evidence. Continue to apply clinical frameworks accurately when assessing mental health, as you have done in this case.

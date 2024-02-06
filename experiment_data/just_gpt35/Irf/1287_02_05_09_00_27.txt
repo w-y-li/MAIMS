@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Because maybe I'm called  weak ,  a pussy , or an  attention seeker  when I do. One of the WORST things about having depression is dealing with ignorant assholes and the stigma. The stigma itself is why we refuse to tell anyone. I just want to know when people will wake up and realize that this thing isn't some kind of joke and that it is KILLING people.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person feels burdened and overwhelmed, as they mention being called weak, a pussy, and an attention seeker when expressing their emotions. This suggests that they may be experiencing perceived burdensomeness, which is a risk factor often associated with depression and suicidal ideation.
+

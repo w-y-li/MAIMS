@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  No one in my family knows. The days I wake up so late because it's impossible to wake up. All the student loan debt that is creeping on my back and I still haven't graduated yet. All the failed classes because I just can't focus anymore. I've really never known what to do and nobody in my family knows. Wondering if there are other people like me out there  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling alone, with no one in the family knowing about what the person is going through. The person also expresses a desire to find other people who may be going through similar struggles, indicating a lack of belongingness.
+

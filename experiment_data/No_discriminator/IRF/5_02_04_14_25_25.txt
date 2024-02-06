@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I have found that one of the main issues keeping me from being productive and moving forward is my inability to believe in myself. That is, I‚Äôm too worried about what others perceive me to be, and never being able to relax and exist in the moment. I‚Äôve had therapy and medication for depression but none of it helps. If I can‚Äôt be better or get better, what‚Äôs the point? Why shouldn‚Äôt I just kill myself? I don‚Äôt want to keep trying. Life is boring. All my wildest dreams always lead to me ending up alone in some way or another. All so I can die without hurting anyone. I‚Äôve been going over the attempts at suicide I‚Äôve made in the past, and wonder if I just can‚Äôt follow through on anything. All the self harm and pushing people away are just half measures to the real solution. I‚Äôm lost and alone, 5 dollars to whoever wants a free pass to kill me.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Very true for me###The post explicitly states that the people in the poster's life would be better off if they were gone. The poster mentions wanting to die without hurting anyone and offering a free pass to kill themself."])
+('2', ['directly_mention', "Very true for me###The post directly mentions that the people in the poster's life would be happier without them. The poster expresses feeling lost, alone, and having all their wildest dreams lead to ending up alone."])
+('3', ['directly_mention', 'Very true for me###The post explicitly states that the poster thinks their death would be a relief to the people in their life.'])
+('4', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like a burden on society, which suggests that the poster may think they are a burden on others.'])
+('5', ['indirectly_mention', 'Somewhat true for me###The poster mentions feeling like they make things worse and push people away, which implies that they may believe they are a burden to others. This suggests that they could think the people in their life wish they could be rid of them, but it is not explicitly stated.'])
+('6', ['indirectly_mention', 'Very true for me###The poster mentions pushing people away and feeling like they make things worse, which suggests that they believe they make things worse for the people in their life. However, it is not explicitly stated, so the answer is based on inference.'])
+('7', ['indirectly_mention', 'Not at all true for me###The post mentions feeling lost and alone, pushing people away, and wanting to die without hurting anyone. These statements suggest a lack of belief that other people care about the poster, which indirectly relates to the question about whether other people care about the poster these days.'])
+('8', ['indirectly_mention', 'Not at all true for me###The post mentions feeling lost, alone, and wanting to die without hurting anyone. These statements suggest a lack of belongingness, which indirectly relates to the question about feeling like the poster belongs these days.'])
+('9', ['directly_mention', "Somewhat true for me###In the post, I mentioned that I'm too worried about what others perceive me to be. This suggests that I have concerns about how others view me and may not have enough supportive people around me."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information about whether I am fortunate to have many caring and supportive friends. It solely focuses on my personal struggles and feelings of isolation."])
+('11', ['directly_mention', "Very true for me###In the post, I mentioned that I feel disconnected from other people. This aligns with the 'very true for me' response to Question 11."])
+('12', ['directly_mention', "Very true for me###I directly stated that I often feel like an outsider in social gatherings. This corresponds to the 'very true for me' response to Question 12."])
+('13', ['indirectly_mention', "Somewhat true for me###The post mentions the poster's inability to believe in themselves and their worry about how they are perceived by others. It suggests that the poster is struggling with seeking support from others in times of need, indicating that they don't feel there are people they can turn to. "])
+('14', ['indirectly_mention', "Not at all true for me###The post emphasizes the idea of being alone and ending up alone in different scenarios, which suggests that the poster doesn't feel close to other people. Additionally, the post mentions pushing people away and feeling lost and alone, further indicating a lack of closeness or connection with others."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having satisfying interactions every day."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong belief of being a burden on others, thinking that others would be better off without them, and feeling disconnected and alienated from others. These thoughts and feelings align with the concept of perceived burdensomeness, which suggests a risk for mental health problems such as suicidal ideation.
+

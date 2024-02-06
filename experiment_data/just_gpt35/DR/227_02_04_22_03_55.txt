@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  What kind of things do you want people to tell you? Whenever I reach out to someone about my depression, it seems like they never tell me the things that I want to hear. I usually want someone to protect me, to hug me and tell me they’ll help me every step of the way. I’ve never gotten that though. What do you guys want to hear? I’m wondering if it’s different for everyone and maybe that’s why we never seem to get the right reaction  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions reaching out to someone about their depression and wanting someone to protect them and help them every step of the way, which are common experiences and desires for someone suffering from depression.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm so broken. She's gone and I fucked everything up. I can't even think of what to say honestly. I'm just falling deeper and deeper into a hole and this is the only thing I can think of to do at this point.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a deep sense of brokenness and loss, as well as a feeling of personal responsibility for causing harm and losing someone. The individual expresses a sense of falling into a deeper hole and feeling unsure of what to do. These feelings of isolation and perceived failure indicate a risk of thwarted belongingness.
+

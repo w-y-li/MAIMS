@@ -1,0 +1,96 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Not allowed to feel bad? I feel like I'm not allowed to feel bad. I'm an unimportant piece of shit and there are so many other people that need help and all the other people are a lot more important than me. I'm not considered as a person, I'm just something to use to pull yourself up. It's like I'm stuck in a swamp and all the people step on me and push me deeper down just to get out themselves. I guess I don't deserve to feel good. Noone will care if I will kill myself. They'll just use another person.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', "I feel sad much of the time.###The post states that I feel like I'm not allowed to feel bad, and that I'm an unimportant piece of shit. These expressions indicate a persistent negative emotion, which aligns with feeling sad much of the time."])
+('2', ['directly_mention', 'I feel I have nothing to look forward to.###The post mentions that there are so many other people that need help and all the other people are a lot more important than me. This expression implies a sense of hopelessness and lack of anticipation for the future.'])
+('3', ['directly_mention', 'I feel I am a complete failure as a person.###The post mentions feeling like an unimportant piece of shit and not being considered as a person, which indicates a significant sense of failure as a person.'])
+('4', ['directly_mention', 'I get very little pleasure from the things I used to enjoy.###The post talks about not feeling allowed to feel bad and not deserving to feel good, indicating a decreased ability to experience pleasure from previously enjoyable activities.'])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###The poster mentions feeling like they are not allowed to feel bad, and consider themselves an unimportant piece of shit. This suggests a lack of self-worth and a potential source of guilt.'])
+('6', ['indirectly_mention', 'I do not feel I am being punished.###While the post does not directly mention punishment feelings, the poster talks about feeling stuck in a swamp and being stepped on by others. This suggests a sense of being mistreated or taken advantage of, which may indirectly relate to punishment feelings.'])
+('7', ['indirectly_mention', 'I dislike myself.###The post mentions feeling like an unimportant piece of shit and not being considered as a person, which indicates a self-dislike.'])
+('8', ['indirectly_mention', "I criticize myself for all of my faults.###The post refers to feeling like they don't deserve to feel good and that no one will care if they kill themselves, suggesting self-accusations and being self-critical."])
+('9', ['directly_mention', "I have thoughts of killing myself, but I would not carry them out.###The post explicitly mentions feeling like no one will care if they kill themselves and that others would just use another person. This suggests that the poster has thoughts of killing themselves but doesn't intend to act on them."])
+('10', ['directly_mention', "I cry all the time now.###The post mentions feeling like they're not allowed to feel bad and that they're stuck in a swamp, with people stepping on them and pushing them down. These negative emotions and experiences could contribute to an increase in crying, potentially to the point of crying all the time."])
+('11', ['indirectly_mention', 'I am so restless or agitated that it is hard to stay still.###The post mentions feeling like being stuck in a swamp and people stepping on them, which suggests the feeling of restlessness or agitation.'])
+('12', ['indirectly_mention', 'I have lost most of my interest in other people or things.###The post mentions feeling like an unimportant piece of shit and not being considered as a person, which suggests a loss of interest in other people and things.'])
+('13', ['directly_mention', 'I find it more difficult to make decisions than usual.###The post mentions feeling stuck and being pushed down, which suggests a lack of agency and difficulty in making decisions.'])
+('14', ['indirectly_mention', 'I feel more worthless as compared to other people.###The post mentions feeling like an unimportant piece of shit and feeling less important than other people, which suggests a feeling of worthlessness when compared to others.'])
+('15', ['indirectly_mention', 'I do not have enough energy to do very much.###The post mentions feeling like an unimportant piece of shit and being stuck in a swamp. These feelings indicate a lack of energy and motivation.'])
+('16', ['indirectly_mention', "I sleep somewhat less than usual.###The post mentions feeling like I'm not allowed to feel bad and that no one cares if I kill myself. These thoughts and emotions can disrupt sleep patterns and lead to difficulties in falling and staying asleep."])
+('17', ['indirectly_mention', 'I am irritable all the time.###The poster indicates feeling like an unimportant piece of shit and feeling stuck in a swamp with people stepping on them, which suggests a constant feeling of irritability.'])
+('18', ['indirectly_mention', "My appetite is much less than before.###The poster mentions feeling like they don't deserve to feel good and that nobody will care if they kill themselves. These feelings of hopelessness and low self-worth can often lead to a significant decrease in appetite."])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###The poster mentioned feeling stuck in a swamp and being stepped on by others, which implies a sense of overwhelm and difficulty in focusing on anything for a prolonged period of time.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The poster expressed feeling like an unimportant piece of shit and being used by others, which suggests a lack of energy and motivation to engage in activities they used to enjoy.'])
+('21', ['directly_mention', "I have lost interest in sex completely.###The post states that I feel like I'm not allowed to feel bad and that I'm considered unimportant. This negative self-perception is likely to lower my interest in sex. Additionally, the post mentions that I don't deserve to feel good, indicating a complete loss of interest in sexual activities."])
+Do MS Check Record:
+('1', ['Correct', 'Continue to look for clues within the post that reflect the emotional state of the poster, as you did with identifying sadness.'])
+('2', ['Correct', "Maintain attentiveness to the implications of hopelessness in the post, ensuring you're not over-inferencing but staying true to the content."])
+('3', ['Incorrect', 'Review the original post for direct mentions or clear implications of past failures without inferring information not present. Focus on concrete statements rather than abstract self-assessments.'])
+('4', ['Incorrect', 'Consider whether the post explicitly discusses a loss of pleasure or if you are inferring this from a general feeling of unworthiness. Look for specific examples of lost interest in activities.'])
+('5', ['Incorrect', 'Review the text for explicit expressions of guilt; focus less on extrapolation and more on the concrete emotions presented by the post.'])
+('6', ['Incorrect', "Differentiate between feelings of mistreatment and punishment; ensure the emotions inferred are clearly implied by the post's content."])
+('7', ['Correct', 'Good job in identifying the cues for self-dislike in the post. Keep paying attention to the explicit expressions of self-deprecation to support your inferences.'])
+('8', ['Correct', "You have correctly identified the self-accusations from the context of the post. Continue to use direct references to inform your inferences about the poster's mental state."])
+('9', ['Correct', 'Ensure that when you interpret posts implying suicidal ideation, you consider contextual clues and the gravity of the message while maintaining an objective stance.'])
+('10', ['Incorrect', 'Avoid assuming specific behaviors, such as crying, without clear evidence in the text. Focus on the information provided and infer emotions or behaviors cautiously and with clear justifications.'])
+('11', ['Correct', 'Ensure to differentiate clearly between explicitly mentioned feelings and those inferred from the overall context of the post. Continue using quotes from the post to back your inference.'])
+('12', ['Correct', 'Good inference regarding loss of interest. Keep in mind to consider alternative explanations for the behaviors and feelings expressed in the post.'])
+('13', ['Correct', 'Continue to use contextual clues to infer the emotional state relevant to the question asked.'])
+('14', ['Correct', 'Keep linking emotions stated in the post to psychological constructs while avoiding assumptions not supported by the text.'])
+('15', ['Correct', 'Ensure to maintain a careful analysis of emotions described in the post to infer about energy levels, but take care not to speculate beyond what is indicated by the text.'])
+('16', ['Incorrect', 'Be cautious not to infer specific sleep patterns such as sleeping less without direct evidence from the post. Focus on the emotions and how they may potentially affect sleep, rather than making definitive statements about changes in sleep patterns.'])
+('17', ['Correct', 'Be cautious not to infer emotion as constant irritation without more evidence, but your analysis aligns well with the expressed emotions in the post.'])
+('18', ['Incorrect', 'Avoid assuming changes in appetite without direct evidence. Look for indications of eating habits or physical symptoms to support your inference.'])
+('19', ['Incorrect', 'While the post does express feelings of being overwhelmed, there is no direct mention of concentration difficulties. Avoid assuming specifics not mentioned in the post, focus on the information given, and explore it to infer if any cognitive impairments are suggested rather than presumed.'])
+('20', ['Incorrect', 'Be cautious not to infer tiredness or fatigue solely based on negative self-perception. Look for explicit statements regarding a change in the energy levels or the ability to perform activities. Aim for direct evidence or clearer implications of fatigue before drawing conclusions.'])
+('21', ['Incorrect', 'Avoid assuming specific symptoms like changes in sexual interest without explicit evidence from the post. Look for direct statements or clear implications related to the question. Instead, focus on the emotional content and how it might relate to overall mood or self-esteem issues.'])
+
+ITER 1
+Do MS Record:
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The post mentions feeling like an unimportant piece of shit and feeling stuck in a swamp, which implies a sense of failure compared to others and being trapped in a difficult situation.'])
+('4', ['indirectly_mention', 'I get very little pleasure from the things I used to enjoy.###The post suggests feeling undeserving of feeling good and that no one would care if they killed themselves, which implies a loss of pleasure in activities that used to bring enjoyment.'])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The poster mentions feeling like an unimportant piece of shit and not being allowed to feel bad. These statements suggest a sense of guilt and self-blame, although it is not explicitly mentioned in the post.'])
+('6', ['indirectly_mention', 'I feel I am being punished.###The post mentions feeling like they are stuck in a swamp and people stepping on them and pushing them deeper down. These experiences of mistreatment can imply a sense of punishment, even though it is not directly mentioned.'])
+('10', ['indirectly_mention', 'I cry more than I used to.###The post indicates a feeling of being overwhelmed and not feeling important, which can be associated with increased emotional distress, including crying more than usual.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information or implications about changes in sleeping pattern."])
+('18', ['directly_mention', "My appetite is much less than before.###The poster mentions feeling like an unimportant piece of shit and not being considered as a person. This suggests a decrease in self-worth, which can often lead to a decrease in appetite. The poster specifically states that they don't deserve to feel good, indicating a negative self-perception that can affect appetite."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to concentration difficulties. While the poster expresses feelings of being unimportant and not cared for, there is no direct mention of difficulty in focusing or concentration."])
+('20', ['indirectly_mention', 'I have lost interest in sex completely.###The post mentions feeling like an unimportant piece of shit, being used by others, and not deserving to feel good. These thoughts and emotions might contribute to a loss of interest in sex, as the person may feel disconnected from their own desires and pleasure.'])
+('21', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post suggests feeling stuck in a swamp and being stepped on by others. This emotional burden and lack of support can lead to feelings of exhaustion and fatigue, making it difficult to engage in activities they used to enjoy.'])
+Do MS Check Record:
+('3', ['Correct', 'Ensure to incorporate direct quotes from the post to justify your interpretation.'])
+('4', ['Correct', "Try to elaborate more on why the poster's feelings suggest a loss of pleasure, relating it to specific psychological concepts."])
+('5', ['Correct', "Notice how you are connecting emotions expressed in the post with implied feelings. Continue using these cues to infer the poster's emotional state, even when not directly mentioned."])
+('6', ['Correct', 'Well done on picking up on the thematic elements that suggest feelings of punishment. Be cautious not to project additional negative characteristics onto the poster without clear evidence in the post.'])
+('10', ['Correct', 'Keep focusing on the emotional content of the posts to infer related emotional behaviors such as crying.'])
+('16', ['Incorrect', "Even if the post doesn't explicitly mention a change in sleeping patterns, consider the overall emotional tone and context to infer possible disruptions in normal routines, including sleep."])
+('18', ['Incorrect', 'Do not infer psychological states not evident in the post. Stick to the information provided and avoid making assumptions beyond what is explicitly mentioned regarding appetite.'])
+('19', ['Correct', 'Continue to distinguish between present information and the absence of information. Avoid making assumptions when the data is not directly related to the question at hand.'])
+('20', ['Incorrect', 'Distinguish between emotional states and physical symptoms. Relate tiredness and fatigue directly to the post rather than introducing unrelated concepts.'])
+('21', ['Correct', "Good job identifying underlying feelings of exhaustion. Ensure to tie back these emotions to the individual's interests and activities as expressed in the post."])
+
+ITER 2
+Do MS Record:
+('16', ['indirectly_mention', 'I sleep a lot less than usual.###The post mentions feeling bad and being stuck in a swamp, which could indicate emotional distress. Insomnia is often associated with depression and anxiety, so it is reasonable to assume that the poster is experiencing changes in their sleeping pattern.'])
+('18', ['indirectly_mention', 'My appetite is much less than before.###The post mentions feeling like an unimportant piece of shit and not being considered a person, which implies a low self-esteem and possibly depression. Reduced appetite is a common symptom of depression, so it is likely that the poster is experiencing changes in their appetite.'])
+('20', ['directly_mention', 'I am too tired or fatigued to do most of the things I used to do.###In the post, the poster states that they feel like they are not allowed to feel bad, and they describe themselves as an unimportant piece of shit. They also mention feeling stuck in a swamp and being stepped on by others. These statements suggest feelings of exhaustion and fatigue, as they feel drained and unable to function as they used to.'])
+Do MS Check Record:
+('16', ['Correct', 'Ensure that inferences about sleep based on emotional distress are backed by evidence in the post or clear psychological principles that link the observed emotions to changes in sleeping patterns.'])
+('18', ['Correct', 'Be cautious not to overextend conclusions about appetite without clear assertions in the post. However, linking self-deprecating statements to potential changes in appetite as a symptom of depression is a plausible connection; reinforce these links with contextual evidence from the post when possible.'])
+('20', ['Correct', 'Ensure to continue to pay close attention to the emotional content of the posts to accurately infer psychological states like fatigue.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses on the mental scale indicate symptoms of depression, such as feelings of sadness, pessimism, guilt, self-dislike, and worthlessness. They also express thoughts of suicide and a loss of interest in things they used to enjoy. These symptoms align with the criteria for major depressive disorder.
+
+Correct
+Your assessment appears to be largely accurate based on the information provided. It's crucial, however, to avoid making assumptions beyond the evidence presented and to not pathologize normal reactions to life stressors. Ensure that your conclusions about depression are based on a comprehensive review of the individual's symptoms over time, considering both the severity and duration, as per DSM-5 criteria. Remember to maintain objectivity and approach each case with a fresh perspective, avoiding overgeneralization or bias from previous cases. Finally, consider the impact of external factors and contextualize the individual's feelings within their specific life circumstances.

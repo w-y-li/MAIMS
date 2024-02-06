@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  That life is this huge hallucination and that this constant pain you feel is a sign you need to get out of the hallucination and the only way to do it is to kill yourself? Because I do.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling constant pain and believing that killing oneself is the only way to escape from a perceived hallucination. This suggests a strong sense of being a burden to others and feeling trapped in their own thoughts, indicating a risk of perceived burdensomeness.
+

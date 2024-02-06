@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  So for the last year I've been suicidal and knew I needed to get help but couldn't afford it. I had an idea to ask my parents to use their health insurance since in still on it to get me to see someone, but was terrified to tell my mom her little boy was so broken. Well tonight I did it and cannot believe how understanding she was. Turns out depression runs in the family and she's been secretly seeing someone for years! For all those struggling - it's okay to ask for help. You deserve to be happy and if that means opening up about your struggles to loved ones, all the power to you! I love you guys!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of perceived burdensomeness. The poster is reaching out for help and sharing their positive experience of asking for support from their parents, who turned out to be understanding and supportive. There is no indication of feeling like a burden in the post.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I am a line cook, I have been for five years. At this rate, this may be my fate for the rest of my life. I‚Äôm currently getting a marketing degree, but I‚Äôm honestly not too sure what I will do with it. I‚Äôm pretty anxious, so talking to people and selling things can be tough, though I‚Äôm pretty good at talking when I know what I‚Äôm talking about. Working in a kitchen is such an easy trap to fall into. I can make about 25,000 a year doing it, and cooking is a passion of mine. I‚Äôm afraid that I won‚Äôt be able to get a ‚Äúreal job‚Äù and I‚Äôll be stuck here the rest of my life.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being trapped and fears of not being able to find a 'real job'. These thoughts and concerns may contribute to a sense of perceived burdensomeness, as the poster expresses uncertainty about their future prospects and potential financial stability.
+

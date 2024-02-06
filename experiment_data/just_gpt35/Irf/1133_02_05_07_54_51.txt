@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  It‚Äôs your average story everyone‚Äôs heard: no friends, broken family, bullied throughout elementary and high school, rough breakup, only escapes through drugs and self harm. I just can‚Äôt take it anymore i feel so worthless, I‚Äôm turning 18 this year and i think i can no longer go on like this i‚Äôve wanted to die since i was 11. why is life so painful every day is a constantly struggle for me and i can‚Äôt even find motivation to keep going on. I cant even picture myself as an adult, i see nothing. These are all just words i cant even put together properly without autocorrect cause i‚Äôm crying too much, i just want to feel okay. How does being loved feel like? I‚Äôve only felt it once with someone who changed their mind and started caring about somebody else in that particular way and broke off all contact with me. I‚Äôm so tired of people giving me ‚Äútough love‚Äù and saying my decisions are selfish, i know i am, it‚Äôs just making it worst. I just want it all to stop, but it never did. ‚ÄúIt gets better‚Äù is burned into my mind but when does it? I‚Äôve been trying so hard to continue on and make improvements but it always ends back at square one. I‚Äôve never been this insistent on dying in my life, there are only liars and shitty people on this earth. Nobody seems to care or listen unless there‚Äôs something in for them  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, a desire to die, and a belief that nobody cares or listens unless there is something in it for them. These thoughts and emotions suggest a risk of perceived burdensomeness, where the individual feels like a burden to others and believes their existence brings more harm than good.
+

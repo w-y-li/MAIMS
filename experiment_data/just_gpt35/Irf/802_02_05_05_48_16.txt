@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I want to die but my life isn't even that difficult, there are people in worse situation than me. I feel guilty for wanting to die, knowing that. I should be grateful for everything I have, knowing there are people who don't have access to food, etc but I'm not. I want help but I don't feel like I deserve it because there and people in a worse state than me. I want to tell my friends/family that I want to die, but I don't want to look like an attention seeker so I don't tell them. The only thing stopping me from jumping off 19 storeys is my cowardice, everyday feels so repetitive and boring that I might just jump one day in front of everybody, to see if they would care. I feel so guilty that people have to deal with me, I'm a nuisance. I don't feel that anything I do in life would matter as I will eventually die, like everybody else. I keep letting everybody down. Everybody hates me and I hate myself. I can't do anything right at all, I'm ugly, I'm talentless. I'm useless.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness, isolation, and a belief that the individual is a burden to others. They express guilt for wanting to die and mention feeling like a nuisance. These indications suggest a potential risk of thwarted belongingness, which refers to feelings of disconnection and perceived lack of social support or meaningful connections with others.
+

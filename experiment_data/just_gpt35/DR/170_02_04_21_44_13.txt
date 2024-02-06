@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  My son is married to a Mexican and I don’t like it I raised him to have traditional white European values and to be proud of his race and heritage, I was always convinced he took this on board, but I hadn’t seen my son in three years after an disagreement, so I checked his Facebook and I saw pictures of him on his wedding day with a Mexican as a bride and I almost fainted I was so upset, I feel utterly betrayed, I just found this out yesterday and I don’t know how to confront him, I think it’s really gross that he lays with a mud skinned woman in bed every night, I wanted white grandchildren I could love, but if he has kids with this thing I want nothing to do with them, I feel so utterly betrayed, what should I do?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's strong negative emotions, such as feeling utterly betrayed and upset, along with displaying discriminatory and derogatory language towards the son's spouse, suggest a possible presence of depression.
+

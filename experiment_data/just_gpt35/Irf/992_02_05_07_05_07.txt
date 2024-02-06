@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm 20 years old. Diagnosed with depression and anxiety with 2 years, on SSRIs. I'm in a college course that doesn't excite me. I'm unmotivated and I feel so hollow. I'm failing my classes and I feel so worthless. All I want to do is sleep. I've lost interest in all my hobbies. It's 1.55 a.m and I feel so lost. (Just needed somewhere to write down what's going through my head and found this sub)  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling hollow, worthless, unmotivated, and lost. These feelings indicate a sense of disconnection, isolation, and lack of belonging, which aligns with the concept of thwarted belongingness.
+

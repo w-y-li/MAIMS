@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I‚Äôve been depressed since my last year of school so for 5 years now and nothing seems to make me happy. I‚Äôm convinced that life just isn‚Äôt for me. Recently I‚Äôve lost everything I‚Äôve got no job no money, I pushed all my friends away and pushed away a girl who loved me and would do anything for me. I block all my problems out and just isolate myself. I don‚Äôt open up to anyone I just say I‚Äôm fine. It‚Äôs gotten to the point where I don‚Äôt care about anything anymore. Whatever happens I just don‚Äôt care nothing bothers me or phases me I‚Äôve been so unhappy for so long and no one even knows what goes on in my mind. I feel like it‚Äôs never ending. Most of the time I dont want to live. I never tell anyone anything because I feel so embarrassed and people might not believe me but I‚Äôve hid all this for so long... I stay awake because I have nothing to be excited about waking up to. I just don‚Äôt know anymore.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, isolation, and a lack of support from others. The poster mentions pushing away friends and a girl who loved them, and feeling embarrassed to share their struggles. These factors suggest a risk of perceived burdensomeness, where the individual may feel like they are a burden to others and hesitate to seek help or support.
+

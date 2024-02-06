@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I just want to be happy. thats all  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show any explicit indication of thwarted belongingness. The poster simply expresses a desire for happiness, without mentioning any specific feelings of isolation or lack of connection with others.
+

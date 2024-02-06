@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I feel so bad for the way I am, I'm sorry, I truly am. It's been a long couple years and I've really tried, 4 therapists, so many medications, daily exercise, diet changes. For some reason something inside me wants me dead. I honestly just can't take anymore.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of being a burden to others, as the person expresses guilt and apologizes for the way they are. They also mention that something inside them wants them dead, suggesting a desire for escape or perceived burden. These thoughts and feelings suggest a risk of perceived burdensomeness.
+

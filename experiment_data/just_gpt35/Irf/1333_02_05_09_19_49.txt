@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I'm pretty sure I'm depressed but my parents don't believe in mental health and I'm too afraid to like go to a school counselor cuz my parents will ground me for just wanting attention or something. I wanna get better but I don't think I can without help of some sort. people say that meds suck and therapists suck and stuff but I feel like anything Is better than how I feel. I feel I need help but I don't know how to get it  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post highlights feelings of worthlessness and a desire for help, suggesting a possible risk of perceived burdensomeness.
+

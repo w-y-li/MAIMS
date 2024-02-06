@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I wish I knew no one. I wouldn't think twice about it then. I don't want to hurt my family.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a desire to be alone and a lack of connection with others, which is indicative of potential thwarted belongingness. The poster expresses a wish to not know anyone and mentions not wanting to hurt their family.
+

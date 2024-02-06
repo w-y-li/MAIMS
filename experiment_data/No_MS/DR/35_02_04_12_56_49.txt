@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Why do people try to motivate depressives using shame? I never understand the idea of people attempting to shame me out of my depression.  How do you live like this? Why are you being like this? Your brothers aren't like this?  If we're going to have a face off over who has the lower opinion of me, I guarantee, I will win every time. Or at least I hope I will because if not they hate me more than I can imagine. I feel awful about even saying that, I see the weakness in that statement, the defeatism, but that doesn't make it any less true.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling depressed, having a low opinion of themselves, feeling defeated, and expressing struggle and weakness. These are common symptoms experienced by individuals with depression.
+
+Correct
+Continue to focus on the explicit content of the posts without making assumptions beyond the provided information. Remember to differentiate between posts about the poster themselves and those about people around them. Reinforce your understanding of the clinical features of depression to ensure accurate analyses.

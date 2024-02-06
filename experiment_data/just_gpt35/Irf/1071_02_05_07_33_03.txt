@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  My teacher asked me if I was suicidal. Without any preliminary. I answered nope while swearing inside. It's so annoying. Then she told me I must feel miserable and pain all the time, I am a brave fighter. Well, I would have felt more miserable or annoying , but since she'd expressed her sincere sympathy in that way too much times, I've become used to it.  So there must be something or someone supporting me.  , she said. To this I answered nope again. She seemed felt ambivalent, she asked me,   if that's so then why you're sill alive.   Oh, tbh despite everything that's an interesting question because I really can't come up with a good reason at first. I have no real friends. I feel lonely all the way, but I would be disturbed if someone talked to me. So technically I don't want someone keeps me company even though I feel lonely. Besides my academic performance have been getting worse and worse since the depression developed. My family see me as nothing but a pain in the neck. I can't be more useless and rebarbative. So why I haven't taken my miserable life though? Hey, after spending one day in comtemplation, I had figured it out. Can't wait to share it with my teacher, maybe she will realize she is shortening my life then.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness and being a burden to others. The poster mentions feeling useless, rebarbative, and a pain in the neck to their family. They also express a lack of real friends and feeling lonely while being disturbed if someone talks to them. These feelings of perceived burdensomeness suggest a risk to mental health.
+

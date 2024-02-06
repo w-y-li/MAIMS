@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I'm pretending to feel positive emotions, and it makes me terrified. It scares me to know that I am not truly reacting to anything, but just putting on a mask to please others. It just makes me feel worse than I already do. I don't know what to do.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions the fear of pretending to feel positive emotions and putting on a mask to please others. This suggests that the individual feels burdensome and believes they need to hide their true emotions to avoid being a burden to others.
+

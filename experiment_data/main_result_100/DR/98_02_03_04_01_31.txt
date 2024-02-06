@@ -1,0 +1,100 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Sometimes I regret not killing myself Life if so pointless..No matter what I do I’m always gonna be sad. My life is going no where.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I am sad all the time.###The post explicitly states that no matter what the poster does, they will always be sad. This indicates that they feel sad all the time.'])
+('2', ['indirectly_mention', "I feel discouraged about my future.###The post expresses feelings of regret and states that the poster's life is going nowhere. This suggests a sense of pessimism and feeling discouraged about the future."])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The post mentions feeling sad and that their life is going nowhere, which indicates a sense of failure. Although the post does not explicitly mention past failures, the feeling of sadness and hopelessness suggests a belief in personal failure.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post mentions that no matter what they do, they will always be sad. This suggests a loss of pleasure, as they no longer experience enjoyment from activities. Though the post does not directly mention a decrease in pleasure, their statement implies a change in their ability to find joy in things.'])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The post mentions feeling sad and that their life is going nowhere, which indicates a negative emotional state. The mention of regret and thoughts of killing oneself suggests feelings of guilt and self-blame, as they might be regretting past actions or feeling responsible for their current situation.'])
+('6', ['indirectly_mention', "I feel I am being punished.###The post indicates a sense of hopelessness and negativity towards life. The statement 'No matter what I do I’m always gonna be sad' implies a belief in being punished, as if the sadness is a form of punishment for their actions or existence."])
+('7', ['indirectly_mention', 'I am disappointed in myself.###The poster expresses regret and sadness about their life, which suggests feelings of disappointment in oneself.'])
+('8', ['directly_mention', 'I criticize myself for all of my faults.###The poster mentions that no matter what they do, they will always be sad, which indicates self-criticism and blame for their faults.'])
+('9', ['directly_mention', 'I would like to kill myself.###The post explicitly mentions that the poster has thoughts of killing themselves, indicating a desire to die.'])
+('10', ['directly_mention', 'I cry all the time now.###The post directly mentions that the poster is always sad, suggesting an increase in crying frequency.'])
+('11', ['directly_mention', 'I feel more restless or wound up than usual.###The post mentions feeling sad and that life is going nowhere, which indicates a sense of restlessness and agitation.'])
+('12', ['directly_mention', 'I have lost most of my interest in other people or things.###The post mentions feeling that life is pointless and always being sad, which suggests a loss of interest in activities and people.'])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post mentions feeling sad no matter what the person does. This suggests a sense of hopelessness and helplessness, which can result in difficulty making decisions.'])
+('14', ['indirectly_mention', 'I feel more worthless as compared to other people.###The post mentions regretting not killing oneself and feeling that life is pointless. These statements indicate a low sense of self-worth and feelings of inferiority compared to others.'])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###The post mentions feeling sad and that no matter what they do, they will always be sad. This suggests a loss of energy, as sadness often leads to decreased motivation and decreased energy levels.'])
+('16', ['directly_mention', 'I sleep a lot less than usual.###The post mentions feeling sad and that their life is going nowhere. Insomnia or difficulty sleeping is commonly associated with depression, which can contribute to feeling sad. Therefore, it is likely that the poster is experiencing a change in their sleeping pattern.'])
+('17', ['directly_mention', "I am much more irritable than usual.###The post mentions that 'No matter what I do I’m always gonna be sad', which implies a persistent negative mood. This can often be associated with irritability, making me believe that I am much more irritable than usual."])
+('18', ['indirectly_mention', "My appetite is much less than before.###The post states 'Life is so pointless' and 'My life is going nowhere', which indicates a sense of hopelessness and despair. These feelings can often lead to decreased appetite or loss of interest in food, making me believe that my appetite is much less than before, although it is not explicitly mentioned."])
+('19', ['indirectly_mention', "I find I can not concentrate on anything.###The post mentions 'No matter what I do I’m always gonna be sad' which shows that the person is experiencing persistent sadness. Concentration difficulties are commonly associated with depression, as the person's ability to focus is affected by their emotional state."])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post mentions feeling that life is pointless and that their life is going nowhere. These statements suggest a lack of motivation and feeling drained, which are often associated with fatigue. Additionally, the mention of being sad all the time can also contribute to feelings of tiredness or fatigue.'])
+('21', ['indirectly_mention', "I have lost interest in sex completely.###The phrase 'no matter what I do I’m always gonna be sad' suggests that I have become hopeless and have lost interest in activities that used to bring me pleasure, including sex."])
+Do MS Check Record:
+('1', ['Correct', 'Ensure that you continue to directly draw from explicit statements within the post to support your answers to related questions.'])
+('2', ['Correct', 'You made a good inference based on the implicit information provided. Continue to connect the emotional statements in the posts to psychological constructs while avoiding unwarranted assumptions.'])
+('3', ['Correct', 'You have done well by linking the expressions of sadness and hopelessness to a sense of failure, despite the lack of explicit mention. To improve, ensure that you consider all pieces of information provided in the post and restrain from making unwarranted assumptions beyond what is implied in the text.'])
+('4', ['Correct', 'Your inference regarding the loss of pleasure is appropriate given the context of the post. Keep practicing this level of nuanced reading and aim to back up your inferences with specific textual evidence to strengthen your analysis.'])
+('5', ['Correct', 'Ensure to maintain balance between direct information and reasonable inference from the post. Continue to draw on the emotional state conveyed but be wary of confounding this with unfounded assumptions.'])
+('6', ['Incorrect', 'Be careful not to overextend the interpretation of punishment without clear indicators. Focus on evidence within the post that directly relates to feelings of punishment rather than general sadness or hopelessness.'])
+('7', ['Correct', 'Ensure to identify direct and indirect references to psychological states in the post. Maintain objectivity and use the text to support your analysis.'])
+('8', ['Incorrect', 'Avoid assuming direct references when the post does not explicitly mention self-accusation. Focus on the content that is clearly stated rather than inferring unstated details.'])
+('9', ['Correct', "Ensure to continue analyzing the post carefully. Pay attention to both explicit statements and the implications of those statements to accurately assess the poster's feelings and thoughts."])
+('10', ['Incorrect', 'Avoid making assumptions about behaviors such as crying that are not specifically mentioned or directly implied in the post. Focus on extracting information that is either stated or can reasonably be inferred without overgeneralizing.'])
+('11', ['Correct', 'Continue to use direct references from posts to support your answers, ensuring they align with the psychological constructs in question.'])
+('12', ['Correct', 'Maintain a balance between the emotional tone of the post and identifying psychological symptoms, avoiding assumptions beyond the provided information.'])
+('13', ['Correct', 'Well done on identifying the underlying feelings of indecisiveness from the expression of hopelessness in the post. Continue to draw connections between expressed emotions and their potential impact on decision-making.'])
+('14', ['Correct', 'Good job recognizing the feelings of worthlessness from the post content. Maintaining this level of empathy and understanding within the context provided is crucial for accurate role playing.'])
+('15', ['Incorrect', 'Asserting that the poster does not have enough energy requires deeper analysis; while the post implies a pervasive sense of sadness, it does not specifically mention energy levels. Consider not only the literal content but also the broader context of the emotions presented.'])
+('16', ['Incorrect', 'While changes in sleeping patterns can be associated with depression, the post does not provide specific details about sleep. Avoid making assumptions without evidence. Focus on identifying information in the post that directly or indirectly relates to the question.'])
+('17', ['Correct', 'Be mindful not to overgeneralize based on the content of a post, but in this case, the connection between persistent sadness and irritability is well-founded. Continue to use evidence from the post to support your conclusions.'])
+('18', ['Incorrect', 'Avoid making assumptions about symptoms that are not explicitly mentioned or directly implied by the post. Instead, either explain that the post does not provide enough information to answer the question or use more cautious language to suggest a possible but not definitive change in appetite.'])
+('19', ['Correct', 'Continue to look for indirect cues in the post that may signal psychological states relevant to the questions.'])
+('20', ['Correct', 'Keep relating emotional states expressed in the post to possible physical symptoms like fatigue, but ensure not to overgeneralize without clear evidence.'])
+('21', ['Correct', 'Good analysis. Continue to draw inferences based on intonation and context but ensure not to overextend beyond the information given.'])
+
+ITER 1
+Do MS Record:
+('6', ['indirectly_mention', "I criticize myself for all of my faults.###The post expresses a feeling of self-criticism and blaming by saying 'My life is going no where.' This indicates a tendency to criticize oneself for faults."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention or imply anything related to feeling punished."])
+('10', ['directly_mention', 'I cry more than I used to.###The post mentions feeling sad all the time, which can be inferred as crying more than before.'])
+('15', ['indirectly_mention', 'I do not have enough energy to do very much.###The post mentions feeling like life is pointless and that their life is going nowhere, which can be inferred as a loss of energy to engage in activities.'])
+('16', ['indirectly_mention', 'My appetite is much less than before.###The post mentions feeling sad and the belief that life is pointless, which are indicators of depression. A common symptom of depression is a decrease in appetite. Although the post does not explicitly state a change in appetite, the mention of always being sad and life being pointless suggests a possible decrease in appetite.'])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information that directly or indirectly relates to changes in sleeping patterns. The focus is primarily on feelings of sadness, regrets, and a sense of life going nowhere."])
+Do MS Check Record:
+('6', ['Incorrect', 'Consider nuances in the language used in the post. The expression of regret and the statement that life is going nowhere do imply feelings of self-criticism which can relate to punishment feelings. Reassess the sentiment expressed and explore connections to feelings of punishment beyond the literal words.'])
+('8', ['Incorrect', 'Avoid dismissing potential implications of the post too quickly. The intense negativity and hopelessness expressed can be considered a form of self-accusation. Look deeper into how expressions of regret and worthlessness may relate to feelings of guilt or self-blame.'])
+('10', ['Correct', 'Ensure that your inferences about emotions stated in the post, such as sadness, carefully align with related behaviors like crying, but avoid extending beyond what is shared.'])
+('15', ['Correct', 'Good job associating a lack of motivation and direction with a loss of energy, but be cautious not to read too much into what is written; focus on what you can reasonably deduce.'])
+('16', ['Incorrect', 'Review the contents of the post for symptoms associated with depression, which may imply changes in sleep or appetite.'])
+('18', ['Correct', 'Continue to analyze the post as is without inferring information that is not implied or directly stated.'])
+
+ITER 2
+Do MS Record:
+('6', ['indirectly_mention', 'I feel I am being punished.###The post mentions regret and feeling sad and that life is going nowhere. These feelings can be considered as self-criticism and can be interpreted as punishment feelings.'])
+('8', ['indirectly_mention', 'I blame myself for everything bad that happens.###The intense negativity and hopelessness expressed in the post can be seen as a form of self-accusation. The feeling that life is pointless and that no matter what the poster does, they will always be sad implies that they blame themselves for everything bad that happens in their life.'])
+('16', ['indirectly_mention', 'I sleep a lot less than usual.###The post mentions feeling sad and that their life is going nowhere, which are symptoms associated with depression. Depression can often lead to changes in sleep patterns, such as sleeping a lot less than usual.'])
+Do MS Check Record:
+('6', ['Correct', 'Ensure consistency in evaluating emotional content in posts for signs of self-punishment while avoiding drawing unwarranted conclusions not supported by the text.'])
+('8', ['Correct', 'Good inference of self-accusation, continue to look for implicit emotional cues that indicate self-blame but remember to differentiate between general feelings and specific incidents.'])
+('16', ['Incorrect', "Ensure that inferences regarding specific behaviors such as changes in sleep patterns are grounded in the post content. Avoid assuming specific details that aren't mentioned."])
+
+ITER 3
+Do MS Record:
+('16', ['indirectly_mention', 'I sleep a lot less than usual.###The post mentions being sad all the time and life feeling pointless, which can be signs of depression. Depression is often associated with changes in sleeping patterns, such as sleeping less than usual.'])
+Do MS Check Record:
+('16', ['Incorrect', 'Refrain from making assumptions not directly supported by the content of the post. The post expresses a general feeling of sadness and hopelessness but does not specify changes in sleeping patterns. Focus on the information given and avoid inferring details that are not present.'])
+
+ITER 4
+Do MS Record:
+('16', ['not_mention', "Doesn't mention at all.###The post does not mention any specific change in the sleeping pattern. It focuses more on feelings of sadness and hopelessness."])
+Do MS Check Record:
+('16', ['Correct', 'While your answer correctly notes that the post does not mention changes in sleeping patterns, it is also important to infer cautiously. Given the feelings of sadness and hopelessness expressed, it is plausible to suggest that there may be a disturbance in sleeping patterns as these can be associated with depression. In the future, consider the psychological state described and how it might indirectly suggest other symptoms without explicit mention.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster exhibits several symptoms of depression, including constant sadness, pessimism about the future, feeling like a failure, loss of pleasure, guilt, self-dislike, self-accusations, suicidal thoughts or wishes, increased crying, and a loss of interest in others and things. These symptoms are consistent with a diagnosis of depression.
+
+Correct
+Your observation and correlation of the symptoms to the criteria for depression are appropriate. However, always ensure that you are not making assumptions beyond the given information and that your diagnosis is strictly based on the data provided within the post and answered questions.

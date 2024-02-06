@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  hi. I'm not sure if this is one of those things where if you have to ask it then there is a definite answer, but I'm not sure if what I experience is truly suicidal thoughts. when I don't feel sad I become very thankful and when I try to express to God thanks for what he has given me, I feel guilty for spending my time self harming or being self destructive. I feel I'll never be able to truly convey how thankful I am for what he's given me and I'm back to square one, just wishing I was never born so I wouldn't have these thoughts and emotions. I don't really care about anything and many of my thoughts are just wishing I could disappear or wishing I was  less  in every possible way. I want to not be alive so I don't feel the emotions I feel. I do not often contemplate different ways to kill myself, it is moreso just wishing I wasn't born in the first place or hoping someday something else will happen to me that makes this decision for me. the majority of my thoughts are wishing I was dead or never born, and even when I'm happy I just wish I could stop feeling and the answer to that to me is death. is the way I'm feeling considered suicidal? thank you for reading. any comment will be appreciated and answered.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, guilt, and a desire to not be alive in order to escape emotions. These thoughts and emotions suggest a risk of perceived burdensomeness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Not all the time.when I'm with my friends or watching a funny video I can laugh and smile and feel happy. the rest of the time I'm sad. I'm so confused about my life and the people I'm surrounding myself with. I'm finding it hard to sleep because I'm always thinking. I cry all the time and I don't understand why. my mum died a couple of years ago when I was 13 and I never had time to fully grieve. I miss her so so much all the time and no one seems to understand why considering it happened so long ago. I don't know what to do. I always feel anxious and stressy, on the verge of tears, tired. even stuff that excited me alot I'm starting to dread and I'm so confused at what's happening to me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation, confusion, and sadness, which are signs of thwarted belongingness. The poster mentions feeling misunderstood and grieving the loss of their mother, suggesting a lack of connection and support from others.
+

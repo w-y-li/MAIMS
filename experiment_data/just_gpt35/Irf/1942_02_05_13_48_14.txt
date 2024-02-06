@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Hi there, I'm looking for a best friend, as the post says so. Looking for someone who understands the life of a depressed, and doesn't give stupid advice like  it's all in your head, you just have to think positive . Someone who doesn't give up on you no matter what. I'm specifically looking for a best friend instead of friend because most of the time, people don't take online friendships seriously. But I do. My friends are real humans with feelings. I'm ready to invest effort, time and emotions into a friendship that is worth it, even if it's just online :) A little bit about me, I'm a 23 year old female. INFP, for any myer-briggs fans out there. I'm probably the most emotional person you'll ever see. My heart totally rules my head. But I do have morals which keeps me sane of course. I get attached pretty easily, and I'm pretty clingy. Maybe a bit too much for normal people to handle... But so far I've met some who can handle it :D My interests include writing poems, collecting cute stuff, singing, and thinking about life and possibilities. Anything else you wanna know, find out for yourself! :D  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a longing for a best friend who understands the life of someone who is depressed. This suggests a potential feeling of loneliness and a desire for a deeper connection, which is consistent with the concept of thwarted belongingness.
+

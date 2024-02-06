@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  How can I get help and reach out? I am so tired of being tired. I do not know how I can ask my mother for therapy, or deal with depression aside from my coping quietly. I can't deal with this longer, so I wanna try. I lost any sort of interest for the future.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of tiredness, depression, and loss of interest in the future. The individual is considering reaching out for help and therapy, indicating a potential for perceived burdensomeness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  A lonely hurt in my lower chest, a mild stomachache, and despair. Numb to any positive emotion. Can't laugh. Can't smile. I'm dead inside.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of despair, numbness to positive emotions, and a sense of being dead inside. These symptoms suggest a possible risk of perceived burdensomeness, as the person may feel like they are a burden to others or that their existence is meaningless.
+

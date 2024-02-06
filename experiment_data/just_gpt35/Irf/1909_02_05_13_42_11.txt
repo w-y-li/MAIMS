@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I've been there once, told everyone I'd run away and never come back, take my own life because f everything. Life got better for a short while after that but it didn't take long for me to lose everything what seemed worth to me back then. Got divorced, thrown out the flat, a whole lot of lawyer bullshit, and a lot more negative thoughts. Basically haven't been truly happy since then, and as things are turning into shit again, I am feeling that these suicidal thoughts are slowly finding their way back to me. I am on meds and seeking professional help, but I still feel very lost most of the time, feels like I am failing at every little thing I do, turning away from people I adore and not being fair to them, often feels like I am being torn apart form the inside and I am very surely getting sick of it. I've been depressed for as long as I can think of, not sure if I can hold it together for much longer. Feels like a rant, perhaps that'll help. Thank you for the attention and time.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling like a burden to others, specifically turning away from people they adore and not being fair to them. This suggests a risk of perceived burdensomeness.
+

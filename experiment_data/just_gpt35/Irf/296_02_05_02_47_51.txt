@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Been having on and off waves of depression since 10th grade and just a total, consistent lack of motivation to put effort into anything. I dropped out of collage after the first semester and now I just work to keep myself afloat mentally. I just don't care enough about anything to get myself moving forward. All my relationships fail because I'm just not emotional and block everything out. New Year's Eve drank myself unconscious and now I'm back to my depressed self and self harming again. I hate myself for not being able to get though it and I'm afraid my life will just be passive and grey. I know I'm not alone but I just feel so isolated in myself. I don't talk to anyone about my feeling because I feel like I wouldn't make a difference  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a lack of emotional connection and isolation, indicating a risk of thwarted belongingness.
+

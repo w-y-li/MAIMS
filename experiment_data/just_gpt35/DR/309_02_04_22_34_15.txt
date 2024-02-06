@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Can't remember the last time I had a good day First time poster here. Just wondering if any else has the same feeling where it seems that a shitty day turned into a shitty month which turned into a shitty year. Before I knew it, I couldn't even remember the last good day I had or even the last time something went right for me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling like every day, month, and year has been bad, and they cannot remember the last good day. These feelings of negativity and inability to recall positive experiences suggest symptoms of depression.
+

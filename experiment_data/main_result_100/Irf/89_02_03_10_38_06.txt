@@ -1,0 +1,126 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Three years ago my dad died, it hardly feels like three weeks. It's like everything else in my life is so insignificant in comparison, it's like a black hole that distorts my perception of time. It's as if time passes 100x faster since it and everything before it is so long ago. People say that after a major event in their life everything feels categorised into before and after it but to me it feels like things that are it and not, but most of them are. People have been telling me since then that I probably have depression and should maybe get help but that's mostly just from seeing me because I don't open up. I feel like I've just always been a little gloomy and don't feel very different now compared to before other than the whole bending of time thing. People say they noticed a change in me, but I didn't, maybe they just expect something like that to mess up a 14 year old?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Somewhat true for me###The post mentions that people have been telling me since my dad died that I probably have depression and should maybe get help, indicating that I may have negative thoughts about myself and my impact on others.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention this question."])
+('3', ['directly_mention', 'Not at all true for me###I mentioned that I feel like a burden on society, which directly corresponds to the question. However, I stated that it is not true for me.'])
+('4', ['indirectly_mention', "Somewhat true for me###Although I didn't explicitly mention that I think my death would be a relief to the people in my life, I did express that I feel insignificant and that everything else in my life is overshadowed by the death of my father. This could imply that I may believe my absence wouldn't have a significant impact on others."])
+('5', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling gloomy and not feeling very different now compared to before. These indications suggest a possible belief that the poster makes things worse for the people in their life. However, the post does not directly address this question, so the answer is based on a deduction.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the belief of the people in the poster's life wishing to be rid of them. Hence, there is no information to make an answer for this question."])
+('7', ['directly_mention', 'Somewhat true for me###The post mentions that people have been telling me since then that I probably have depression and should maybe get help. This indicates that other people care about me to some extent.'])
+('8', ['indirectly_mention', 'Not at all true for me###The post talks about feeling insignificant and like a black hole distorts the perception of time. This suggests a sense of not feeling like I belong, which aligns with not feeling true to the statement.'])
+('9', ['directly_mention', "Not at all true for me###The post directly mentions that people have been telling me since dad's death that I probably have depression and should maybe get help, which indicates that there are people who care about me."])
+('10', ['indirectly_mention', "Not at all true for me###The post mentions that people say that after a major event in their life, everything feels categorized into before and after it. This suggests that the person may have had caring and supportive friends before the event, but it is unclear if they still have them now. However, since the post indicates that people have been telling me since dad's death that I probably have depression and should maybe get help, it implies that there may still be caring and supportive friends."])
+('11', ['indirectly_mention', "Somewhat true for me###Although I don't explicitly mention feeling disconnected from other people, I do mention that I don't open up and that I've always been a little gloomy. These characteristics can often lead to feeling disconnected from others."])
+('12', ['directly_mention', "Not at all true for me###I directly mention that I don't feel like an outsider in social gatherings. People say they noticed a change in me, but I didn't, which suggests that I still feel comfortable and included in social situations."])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions that people have been telling me to get help, which suggests that there are people I can turn to in times of need.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything about being close to other people."])
+('15', ['indirectly_mention', "Somewhat true for me###The post mentions that people have noticed a change in me, although I didn't notice it myself. This suggests that my interactions with people may have been affected, but it is not clear whether they are satisfying or not. However, since the post mentions that I feel gloomy and haven't opened up to others, it implies that my interactions may not be completely satisfying."])
+Do MS Check Record:
+('1', ['Incorrect', 'While the post does not explicitly state feelings of worthlessness, the fact that people around the poster have noticed behavioral changes suggests there may be unspoken feelings of distress or negative self-perception that the student should consider when answering. The student should explore the grey areas and implied feelings between the lines, rather than looking for direct mentions.'])
+('2', ['Correct', "Despite the post touching on potential depression and altered behaviors since a traumatic event, no specific indications about impacting others' happiness are mentioned. Continue to look for explicit or implicit evidence in the post before inferring such sentiments."])
+('3', ['Incorrect', "Review the post meticulously to identify direct mentions or implications about the poster feeling like a burden. Your assumption is not supported by the post's content."])
+('4', ['Incorrect', 'Analyze the text for explicit indicators of the poster feeling that their death would be a relief to others. The connection you made is too indirect and based on presumed feelings not stated in the post.'])
+('5', ['Correct', 'Continue utilizing context clues to deduce relevant emotional states, but be cautious not to make assumptions beyond the given evidence. Stay analytical and focused on provided information.'])
+('6', ['Incorrect', 'Remember that absence of evidence is not evidence of absence. Avoid definitive statements on unaddressed aspects and maintain a degree of openness to the various possibilities those unspoken elements might suggest.'])
+('7', ['Correct', 'Continue to utilize information from the post itself to inform your answers on the mental scale questions.'])
+('8', ['Incorrect', 'Do not infer feelings of belonging from an expression of distorted time perception. Focus on more direct indicators of social connection or isolation to address this question.'])
+('9', ['Incorrect', 'Avoid assuming a lack of mention equates to a negative response. Analyze the context more thoroughly to assess the presence and quality of social interactions.'])
+('10', ['Incorrect', 'Consider the emotional state indicated by the post. Avoid ambiguity by using specific information provided to infer current social support without overgeneralizing.'])
+('11', ['Correct', "Ensure to keep grounding your answers in the content of the post, as you did by referencing the poster's lack of openness and existing gloominess to support your inference about feeling disconnected."])
+('12', ['Incorrect', "Review the post for accurate information. The post does not state a direct reference to feeling like an outsider in social gatherings. Focus on what is mentioned rather than assuming, and avoid over-inferencing or putting words into the poster's mouth."])
+('13', ['Incorrect', 'Consider the implications of the poster mentioning that people have advised them to seek help, which indicates some level of interaction and concern from others. Reflect on the emotional content and hidden cues that suggest the availability of a support system.'])
+('14', ['Incorrect', 'Analyze the content again for indirect references to interpersonal relationships or social interactions. Avoid dismissing information that is not explicitly stated, but that can be inferred from the context and emotional tone of the post.'])
+('15', ['Incorrect', 'Review the post for explicit statements about daily interactions and refrain from assumptions about their satisfaction level without clear evidence from the text.'])
+
+ITER 1
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the people in the poster's life being better off if they were gone."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the poster feeling like a burden on society."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the idea of their death being a relief to others."])
+('6', ['indirectly_mention', 'Somewhat true for me.###The poster mentions feeling insignificant in comparison to the death of their father and feeling like everything else in their life is distorted. This could suggest a degree of self-perceived burden or belief that their absence would be a relief, although it is not explicitly stated.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling like I belong."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to rarely interacting with people who care about me."])
+('10', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like an outsider and not opening up to others. This suggests a potential lack of social connection and support, which may indicate feeling like an outsider in social gatherings.'])
+('12', ['indirectly_mention', 'Not at all true for me###The post mentions not opening up to others, suggesting a potential lack of social interaction and support. This may indicate a potential absence of caring and supportive friends.'])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions that people have been telling me to get help since my dad died, which indicates that there are people I can turn to in times of need. Additionally, the post mentions that people say they noticed a change in me, suggesting that there are others who care about my well-being and with whom I have some level of closeness.'])
+('14', ['indirectly_mention', "Not at all true for me###Although the post doesn't directly mention being close to other people, the mention of feeling gloomy and not opening up suggests a lack of emotional closeness to others. Additionally, the post questions whether others' expectations of a major event affecting a 14-year-old have any validity, which implies a lack of feeling close to others."])
+('15', ['directly_mention', 'Not at all true for me###The post mentions that the person does not open up and feels gloomy, which suggests that they do not have satisfying interactions on a daily basis.'])
+Do MS Check Record:
+('1', ['Incorrect', "Examine the emotional content and implications of the post, such as expressions of grief and feeling 'gloomy', to infer potential feelings of self-worth or burdensomeness."])
+('3', ['Incorrect', "Consider the poster's mention of not feeling very different and others perceiving a change to assess feelings of burdensomeness without direct reference."])
+('4', ['Incorrect', 'Review the post again and identify any implicit expressions of self-view, particularly related to how they believe they impact others.'])
+('6', ['Correct', "Good inference based on the information provided. Continue to pay attention to the implicit cues about the poster's self-perception."])
+('8', ['Incorrect', 'Review the emotional content and context of the post related to loss and grief; consider how these feelings might influence a sense of belonging, and incorporate this into your answer.'])
+('9', ['Incorrect', 'Reflect on the implication of social withdrawal commonly associated with grief or depressive moods, and assess how this might relate to the frequency of interactions with caring individuals.'])
+('10', ['Incorrect', "Consider the emotions expressed in the post related to grief and loss. Assess whether these would logically lead to a reduction in social connections. Avoid overgeneralizing based on minimal information about the poster's social life."])
+('12', ['Incorrect', "Re-examine the post for specific statements about the poster's social experiences. Avoid conflating the reluctance to open up with the feeling of being an outsider. Look for explicit cues in the post, rather than inferring too much from unspecified details."])
+('13', ['Correct', 'Ensure that you continue to consider the implicit information in the posts, such as signs of support like people offering help.'])
+('14', ['Incorrect', "Avoid jumping to conclusions about someone's emotional closeness based on their mood. Look for more direct mentions or clearer implications about their relationships with others."])
+('15', ['Incorrect', 'Do not conflate the absence of opening up with the absence of satisfying interactions. Focus on the specific interaction mentioned in the question, not a general mood. Seek evidence in the post for interpersonal interactions, not just internal feelings.'])
+
+ITER 2
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the people in the poster's life being better off without them, nor does it provide any information that can help deduce an answer to this question."])
+('3', ['indirectly_mention', "Somewhat true for me###The post indicates that the poster feels insignificant in comparison to the loss of their father and describes themselves as gloomy. These expressions suggest a potential feeling of being a burden on others, although it's not explicitly stated."])
+('4', ['directly_mention', "Not at all true for me###In the post, the poster states that people have been telling them that they probably have depression and should get help. However, the poster mentions that they don't feel very different now compared to before, other than the whole bending of time thing. This suggests that they don't believe their death would be a relief to the people in their life."])
+('8', ['indirectly_mention', "Not at all true for me###The post indicates that the poster feels like everything else in their life is insignificant in comparison to their father's death and that it distorts their perception of time. These feelings of insignificance and distorted perception may contribute to a sense of not belonging."])
+('9', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster doesn't open up and feels gloomy. This suggests a lack of interaction with people who care about them, though it is not explicitly stated."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the number or quality of the poster's friends."])
+('12', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like an outsider in social gatherings, and although it is not explicitly stated, the statement implies that the poster often feels like an outsider in social gatherings.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any specific information or cues about the poster being close to other people. It mainly focuses on the distortion of time and the feeling of gloominess."])
+('15', ['directly_mention', "Not at all true for me###The post mentions that the poster doesn't have satisfying interactions every day. "])
+Do MS Check Record:
+('1', ['Incorrect', 'Carefully analyze the emotions and expressions used in the post. Avoid assuming the poster feels they would be better off gone without evidence from the post.'])
+('3', ['Incorrect', 'Focus on concrete information provided in the post. Do not infer the feeling of being a burden unless it is directly hinted at or mentioned in the post.'])
+('4', ['Incorrect', 'Review the post for explicit mentions of feelings tied to their own death and how it would impact others. Avoid inferring answers not supported by the text.'])
+('8', ['Correct', 'Ensure that interpretations made are based on evidence provided in the post and are not influenced by our own assumptions about what the poster should feel.'])
+('9', ['Correct', 'Continue to analyze the subtle cues in posts and remember to differentiate between what is implicitly suggested and what is explicitly stated.'])
+('10', ['Incorrect', "Avoid assumptions about information that isn't mentioned. If the poster didn't provide information about their friends, you should refrain from making conclusive statements. Instead, consider answering with 'Not enough information' or similar wording that reflects the lack of detail provided."])
+('12', ['Incorrect', "Revisit the post and look for implicit emotional states that might affect social integration. The poster’s experience of a significant life event and the perception of being seen as 'gloomy' could suggest some withdrawal or feelings of being an outsider. Answer should reflect these subtleties without over-assuming."])
+('14', ['Correct', "Maintain your approach of not inferring information that isn't suggested in the post. This demonstrates a careful analysis of the provided material, avoiding assumptions about the poster's social closeness that are not substantiated by the text."])
+('15', ['Incorrect', 'Review the post for implicit emotional information that could indicate the frequency of satisfying interactions, rather than making assumptions not supported by the text.'])
+
+ITER 3
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me###The post mentions feeling gloomy and not feeling very different now compared to before, indicating that the person may not believe they are a burden on others. However, since the post does not directly mention feeling like a burden on society, the answer is based on deduction.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not provide any direct or indirect information regarding how the people in the poster's life would be better off if they were gone."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the question of whether the poster's death would be a relief to the people in their life."])
+('10', ['indirectly_mention', "Not enough information.###The post does not directly mention anything about having caring and supportive friends. However, the poster mentions that they don't open up and have always been a little gloomy. Based on this information, it is unclear whether they have many caring and supportive friends or not, so the answer is not enough information."])
+('12', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like an outsider in social gatherings, as the poster describes feeling different and gloomy compared to others. This suggests a sense of isolation and not fully fitting in, which aligns with feeling like an outsider.'])
+('15', ['not_mention', "Doesn't mention at all.###The post doesn't provide enough information to determine the frequency of satisfying interactions. It mainly focuses on the poster's perception of time and their emotional state after their father's death."])
+Do MS Check Record:
+('1', ['Incorrect', "Review the post for emotional implications and consider the poster's self-perception rather than inferring a lack of burden."])
+('3', ['Incorrect', 'Analyze the poster’s expressions of impact on life and consider any indirect indications of self-view as a societal burden.'])
+('4', ['Incorrect', "Consider the underlying emotions and experiences the poster shares, which may indicate a negative view of themselves or their impact on others. Reflect on how the loss and perceived changes might affect the poster's sense of self-worth."])
+('10', ['Correct', 'Continue to avoid over-inference. While assessing what is not explicitly stated, use the provided information to make reasonable assumptions without additional speculation.'])
+('12', ['Incorrect', "Consider the subtle cues in the post such as expressions of grief and isolation, which may affect social interactions. Avoid assuming specifics not mentioned, but don't ignore the emotional context provided."])
+('15', ['Correct', 'Maintain objectivity when the post does not provide information related to the question. It’s appropriate not to infer details that are not implied or stated.'])
+
+ITER 4
+Do MS Record:
+('1', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling insignificant and like a black hole distorting perception, which could indicate a sense of being a burden on others.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention feeling like the people in their life would be better off if they were gone."])
+('4', ['indirectly_mention', "Somewhat true for me###The post mentions feeling like an outsider in social gatherings indirectly when the poster says 'People say they noticed a change in me, but I didn't, maybe they just expect something like that to mess up a 14 year old?'. This suggests that the poster does not feel like they fit in with others in social situations, possibly indicating that they often feel like an outsider."])
+('12', ['indirectly_mention', "Very true for me###Although the post doesn't directly mention the statement 'These days, I think my death would be a relief to the people in my life,' the poster's overall tone and feelings of insignificance suggest a potential negative view of themselves and their impact on others. The loss of their father and the distortion of time may contribute to these thoughts, indicating that the statement could be very true for the poster."])
+Do MS Check Record:
+('1', ['Incorrect', 'Consider the complexity of emotions and their expression. While the post conveys a sense of insignificance and loss of time perception due to grief, it does not sufficiently indicate that the poster feels they would be better off gone or that they see themselves as a burden to others. Be cautious not to over-infer based on limited information and differentiate between feeling insignificant and being a burden.'])
+('3', ['Correct', "Good job on not making assumptions beyond the information provided in the post. It's important to remain objective and avoid inferring sentiments that are not clearly expressed by the original poster."])
+('4', ['Incorrect', "Review the actual content of the post for direct or indirect evidence of feelings regarding how their death might affect others, without making assumptions based solely on the poster's emotional state."])
+('12', ['Incorrect', 'Focus on the specific information provided in the post about social interactions without inferring feelings of being an outsider where such sentiments were not expressed or implied.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to the questions on the mental health scale indicate feelings of being a burden, making things worse for others, and believing that others wish they could be rid of them. These thoughts and beliefs suggest a risk of perceived burdensomeness.
+
+Correct
+Ensure to differentiate between feelings of perceived burdensomeness and a clinical diagnosis of depression. Continue practicing analyzing posts and scale responses accurately, without inferring beyond what information is provided.

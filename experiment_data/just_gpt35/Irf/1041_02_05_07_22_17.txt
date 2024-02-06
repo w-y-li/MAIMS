@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  She told me she would have married me. I thought I needed to gender transition. It all fell to pieces. I don't need to get back together with her. I just wish I knew how she was doing. I wish I could see her and tell her that with some time, I understand what she was going through. But she's the sensitive type and I think contacting her would upset her. So I can't. Pathetic, I know.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of burden and feeling worthless (pathetic) due to the belief that contacting the person mentioned would upset them, suggesting a risk of perceived burdensomeness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Last year I thought I finally got over my depression and anxiety, but then my girlfriend cheated on me, broke up with me, and told me I wasn‚Äôt good enough for her. It all came back into my life, I did countless drugs which only made my depression worse, I had a comedown that lasted one week and I never spent more time thinking about suicide on a genuine level than ever. I‚Äôve stopped the drugs, they were bad for me, but they‚Äôve affected me long term now even more than I already had been affected by my depression and anxiety.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of worthlessness, self-blame, and thoughts of suicide which are typical characteristics of perceived burdensomeness. The poster feels that their existence is a burden to others and may be contemplating suicide as a way to escape this feeling.
+

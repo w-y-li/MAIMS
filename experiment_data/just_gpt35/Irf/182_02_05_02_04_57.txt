@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I tried to kill myself multiple times since 2015 And I haven't been successful. Oh well... Another year to suffer through this hell  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement about feeling unsuccessful in their suicide attempts and expressing suffering through hell suggests a sense of thwarted belongingness, which is a risk factor for suicide.
+

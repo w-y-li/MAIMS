@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I really hate myself. I dont know why but i feel like there is no point for me to live. I want to kms but a small bit of me doesnt. If i were to tell my parents that i THINK i am depressed they would laugh and tell me im not. I self harm and its not too bad because im not a fan of blood but or pain but it does calm me down and makes me feel better. I'd rather stay alive but with so much pain its so hard for me to. My main source of pain is my parents, social pressure, and pressure. I dont know if im depressed or not and i feel like i am and it's true then the pain wont be as bad with my parents knowing i have depression. If i ask to get tested, like i said they'll laugh at me. I bury all my emotions inside of me and its so hard to keep them contained. I dont like showing my emotioms and whenever i speak up about something that i dont like i get ridiculed by my parents. Help.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the person is experiencing feelings of loneliness, lack of belonging, and rejection from their parents. They express a sense of hatred towards themselves and mention struggling with depression and self-harm. These experiences can be indicative of thwarted belongingness, where the individual feels disconnected and isolated from others, leading to an increased risk of suicidal thoughts.
+

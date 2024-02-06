@@ -1,0 +1,82 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Does everyone else just hurt all the time It’s not like physical pain or soreness, it’s just this overwhelming feeling of exhaustion and numbness. Doing anything, from applying for jobs to walking my dog, is just so overwhelmingly exhausting and it feels like running a marathon. I’ve tried everything - exercise, diet, meditation, meds. Nothing is working. Exercise just makes me tired. I’ve never gotten that rush of endorphins. I don’t have any hobbies that make me happy or that I can even focus on long enough to distract me. Every day is a huge ordeal  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The poster mentions an overwhelming feeling of exhaustion and numbness, which can be indicative of sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The poster mentions that doing anything feels overwhelmingly exhausting and that every day is a huge ordeal, which can lead to feelings of pessimism about the future.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The post mentions feeling like a failure as a person, which indicates that the poster may have experienced past failures and perceives themselves as having failed more than others.'])
+('4', ['directly_mention', 'I get very little pleasure from the things I used to enjoy.###The post directly mentions not having any hobbies that make the poster happy or distract them. This suggests a loss of pleasure in activities that they used to enjoy.'])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###The post mentions that the person feels overwhelming exhaustion and numbness. These feelings are often associated with guilt in mental health. Therefore, I can directly deduce from the post that I feel guilty a good part of the time.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about punishment feelings."])
+('7', ['directly_mention', 'I dislike myself.###The post mentions feeling overwhelming exhaustion and numbness, as well as the lack of enjoyment from hobbies and the feeling of every day being a huge ordeal. These are indicators of self-dislike.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The post mentions trying everything and feeling exhausted, suggesting a higher level of self-criticism and self-blame compared to usual.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes."])
+('10', ['indirectly_mention', 'I cry all the time now.###The post mentions feeling overwhelmed, numbness, and exhaustion which could be indicative of increased emotional distress, thus leading to increased crying.'])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The post describes a feeling of overwhelming exhaustion and numbness, which can manifest as restlessness or agitation.'])
+('12', ['indirectly_mention', 'I have lost most of my interest in other people or things.###The post mentions a lack of hobbies, inability to focus, and feeling numb, which can be indicative of a loss of interest in activities and people.'])
+('13', ['directly_mention', 'I have greater difficulty in making decisions than I used to.###The post mentions feeling overwhelmed and exhausted with everyday tasks, which could indicate difficulty in making decisions as well.'])
+('14', ['directly_mention', 'I feel more worthless as compared to other people.###The post mentions not feeling happy or focused on any hobbies, which could indicate a sense of worthlessness compared to others.'])
+('15', ['indirectly_mention', 'I do not have enough energy to do very much.###The post mentions feeling overwhelming exhaustion and the poster states that doing anything, from applying for jobs to walking the dog, feels exhausting. This suggests a decrease in energy levels.'])
+('16', ['indirectly_mention', 'I have not experienced any change in my sleeping pattern.###The post does not directly mention changes in sleeping patterns. However, the poster describes feeling exhausted and mentions having difficulty with various activities, which could suggest sleep difficulties. Additionally, the post does not provide any information to indicate specific changes in sleeping patterns.'])
+('17', ['indirectly_mention', 'I am much more irritable than usual.###The post mentions feeling overwhelming exhaustion and numbness, which can contribute to increased irritability.'])
+('18', ['indirectly_mention', 'My appetite is much less than before.###The post mentions feeling exhausted and having no energy to do anything, which can lead to a decrease in appetite.'])
+('19', ['directly_mention', "I find I can not concentrate on anything.###In the post, I mentioned that I can't even focus on hobbies long enough to distract me. This indicates that I have difficulty concentrating on anything."])
+('20', ['indirectly_mention', "I am too tired or fatigued to do most of the things I used to do.###Though I didn't explicitly mention feeling tired or fatigued, I did mention feeling overwhelmingly exhausted and that doing any task feels like running a marathon. This suggests that I am experiencing a high level of tiredness or fatigue."])
+('21', ['directly_mention', "I have almost no interest in sex.###The post mentions feeling numb and that everyday activities, including applying for jobs and walking the dog, are exhausting and overwhelming. This indicates a lack of interest not only in sex but also in other aspects of life. The statement 'Every day is a huge ordeal' further emphasizes this lack of interest."])
+Do MS Check Record:
+('1', ['Correct', "Ensure that your interpretation of sadness includes both the psychological symptoms expressed and the affective display in the post. While the poster did not explicitly state feeling 'sad', the described exhaustion and numbness are often associated with depressive symptoms which can include sadness. Remember to highlight specific phrases that align with psychological constructs."])
+('2', ['Correct', "Good job identifying the undertones of pessimism based on the expression of struggle with daily tasks and the lack of hope that things will improve. It's important to draw from explicit information in the post and link it to the psychological concept being assessed. Be cautious not to overextend beyond what the post suggests. Adding direct quotes from the post in your reasoning can strengthen your response."])
+('3', ['Correct', 'Your analysis aligned well with the content of the post. Continue to identify implicit emotional states related to the context.'])
+('4', ['Correct', 'Good identification of the loss of pleasure. Ensure that you differentiate between direct statements and inferences, even if the post suggests a strong indication of anhedonia.'])
+('5', ['Incorrect', 'Review the post for emotional expressions that could be associated with guilt; though the post doesn’t explicitly mention it, feelings of exhaustion and numbness can sometimes be related to guilt. Avoid assuming direct mentions when they are not present; infer carefully based on psychological knowledge.'])
+('6', ['Correct', 'It is appropriate not to infer punishment feelings when the post does not provide clear indications of such feelings. Continue to differentiate between the presence of information that allows for reasonable inferences and the absence of information.'])
+('7', ['Correct', 'Ensure you continue to back up assessments with specific evidence from the post and avoid making assumptions beyond the provided information.'])
+('8', ['Correct', 'Maintain a critical approach to indirectly mentioned concepts, ensuring your inferences are reasonable and based on the context of the post.'])
+('9', ['Incorrect', 'Consider the emotional content of the post and potential implications. Avoid dismissing possible interpretations without thorough analysis.'])
+('10', ['Correct', 'Good inference of related emotions based on the post content. Ensure consistency with the portrayed emotions and described mental state.'])
+('11', ['Correct', "Keep in mind the subtle expressions of emotional states; agitation can be more than the feeling of being 'restless or wound up.' It also connects with psychological exhaustion. Continue to look for indirect cues in posts that hint at emotional states relevant to the questions."])
+('12', ['Correct', "Good job identifying the indirect signals of loss of interest, such as the poster's mention of lacking hobbies and inability to focus. Remember that emotional numbness and exhaustion may lead to a general disinterest, affirming the connection to the post's content."])
+('13', ['Correct', 'Ensure that your inference about indecisiveness is backed up by explicit examples from the post. Maintain a balance between the information given and your interpretation.'])
+('14', ['Incorrect', 'Avoid assuming feelings of worthlessness without clear evidence from the post. Focus on the concrete expressions provided rather than inferring too deeply into unmentioned feelings.'])
+('15', ['Correct', 'Good observation connecting the expressed feelings of exhaustion to a loss of energy. Continue to carefully analyze the emotions described in the post and how they relate to the relevant aspects of the mental scale questions.'])
+('16', ['Incorrect', "Avoid assuming information that is not evident in the post. The post does not provide any details about sleeping patterns. Focus on what is explicitly said or can be reasonably inferred from the given information without adding details that aren't present."])
+('17', ['Correct', 'Ensure to clarify that the assessment of irritability is hypothetical and based on the mentioned symptoms rather than direct expressions of irritability in the post.'])
+('18', ['Correct', "Be cautious about inferring specifics such as 'much less than before'; instead, suggest a potential change in appetite as a likely but not confirmed consequence of the expressed symptoms."])
+('19', ['Correct', 'Ensure to maintain careful analysis to detect subtle cues in the post as you did with the mention of difficulty focusing.'])
+('20', ['Correct', 'You successfully inferred tiredness from the description of exhaustion and overwhelming feelings while doing regular tasks. Continue to differentiate between directly stated feelings and interpretive inferences.'])
+('21', ['Incorrect', "Be cautious not to infer details that aren't explicitly mentioned in the post. While the poster describes exhaustion and a lack of enjoyment in general activities, there is no specific mention of changes in interest in sex. Your deduction should not extend beyond the information provided in the post."])
+
+ITER 1
+Do MS Record:
+('5', ['indirectly_mention', "I feel guilty quite a good part of the time.###While the post doesn't directly mention feeling guilty, the overwhelming feeling of exhaustion and numbness can sometimes be associated with guilt. This suggests that the poster may experience guilt quite a good part of the time."])
+('9', ['indirectly_mention', 'I do not have any thoughts of killing myself.###Although the post does not directly mention suicidal thoughts or wishes, the description of feeling exhausted and numb does not indicate any specific intention or desire to die. Therefore, I can infer that I do not have any thoughts of killing myself.'])
+('14', ['indirectly_mention', 'I feel more worthless as compared to other people.###The post mentions feeling exhausted, numb, and overwhelmed, which can contribute to feelings of worthlessness compared to others.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to changes in sleeping pattern."])
+('21', ['directly_mention', "I have almost no interest in sex.###The post mentions that the person feels an overwhelming feeling of exhaustion and numbness, and that they have tried various things such as exercise, diet, meditation, and meds. They also mention that they don't have any hobbies that make them happy or that they can focus on. This suggests a general lack of interest or enjoyment, which includes a lack of interest in sex."])
+Do MS Check Record:
+('5', ['Incorrect', "Avoid making assumptions about emotions not explicitly expressed in the post. Focus on the evidence presented and remain neutral if the feeling of guilt isn't clearly mentioned."])
+('9', ['Correct', 'Good job avoiding assumptions about suicidal thoughts as they were not indicated in the post. Continue to base your responses on explicit or reasonably inferred information.'])
+('14', ['Correct', 'Continue to identify and connect the emotions expressed in posts with possible psychological states. Remember to avoid over-inference and focus on the content provided while adhering to relevant psychological constructs.'])
+('16', ['Correct', 'However, it is possible that the feelings of exhaustion and numbness mentioned could indirectly suggest potential sleeping issues. In future analysis, consider broadening your interpretation to include likely implications of the expressed feelings, while still using discretion to not over-infer.'])
+('21', ['Correct', "Ensure that when you make inferences about the poster's feelings or experiences, they are rooted in the content of the post. Be cautious not to extend beyond what is provided, but in this case, your deduction is valid given the general lack of enjoyment mentioned."])
+
+ITER 2
+Do MS Record:
+('5', ['indirectly_mention', 'I feel quite guilty most of the time.###The post mentions an overwhelming feeling of exhaustion and numbness, which could be interpreted as depression or other mental health difficulties. Guilt is often associated with these conditions, especially when individuals feel unable to meet their daily responsibilities or engage in activities.'])
+Do MS Check Record:
+('5', ['Correct', "Continue to analyze the emotional content of the posts for indirect cues about feelings such as guilt; however, ensure that your interpretations are grounded in the provided information and that you're not overextending judgment based on assumptions."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses indicate a high level of sadness, pessimism, loss of pleasure, guilt, self-dislike, self-accusations, agitation, loss of interest, worthlessness, loss of energy, irritability, concentration difficulty, tiredness or fatigue, and changes in interest in sex. These responses align with symptoms commonly seen in individuals with depression.
+
+Correct
+Keep using critical thinking in evaluating the symptoms. Make sure the evidence from the post matches your conclusion, avoid overgeneralizing or inferring beyond what's presented, and continue to focus on distinguishing between different individuals when the context requires. Continue to consider alternative explanations and ensure that your assessments are based on direct evidence from the mental health scale.

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I was going to rant a bit, but it‚Äôs not like that would do any good. I‚Äôm just really lonely. I just have one request. Please comment anything. It can be ‚Äúfuck you‚Äù, it can be ‚Äú.‚Äù, it can be ‚Äúhi‚Äù. I just enjoy someone taking the time to write anything when I see that orange inbox, and it makes me really happy. I‚Äôll reply with a smiley face when I see it. I promise. Edit: thank you all! Thank you thankyouthankyou. :D  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows signs of loneliness and a strong desire for attention and validation from others. The poster specifically mentions enjoying someone taking the time to write anything, indicating a need for contact and connection. This desire for interaction can be indicative of a perceived burdensomeness, as the poster may believe that their presence is only valued if others engage with them.
+

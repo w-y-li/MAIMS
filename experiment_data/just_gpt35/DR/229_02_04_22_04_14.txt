@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  The answer is never in the bottom of a glass of bourbon... and yet here I am again, looking for it. I'm not sure how long I can keep doing this for. Not the drink, the whole thing. I wish I could cry really hard. I feel like that would help but it never comes.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement of repeatedly seeking solace in alcohol and expressing a desire to cry indicates feelings of hopelessness and sadness, which are common symptoms of depression.
+

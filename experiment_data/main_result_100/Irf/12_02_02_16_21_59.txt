@@ -1,0 +1,161 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I am feeling sick. Anxious. I need some help please  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', "Not at all true for me###The post mentions feeling sick and anxious, but does not mention anything about other people's perception or feelings towards me. So, based solely on the information provided in the post, I would say it is not true for me that the people in my life would be better off if I were gone."])
+('2', ['indirectly_mention', "Not at all true for me###Similarly, the post does not mention anything about other people's happiness without me. Therefore, I would also say it is not true for me that the people in my life would be happier without me."])
+('3', ['indirectly_mention', 'Not at all true for me###The post mentions feeling sick and anxious, but there is no direct mention of being a burden on society or thinking my death would be a relief to the people in my life.'])
+('4', ['indirectly_mention', 'Not at all true for me###The post mentions feeling sick and anxious, but there is no direct mention of thinking my death would be a relief to the people in my life or being a burden on society.'])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about what other people in the poster's life wish for them or whether they think they make things worse for others."])
+('6', ['indirectly_mention', 'Somewhat true for me###The poster mentions feeling anxious, which could indicate that they may think they make things worse for the people in their life, but the level of certainty is unclear.'])
+('7', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling sick and anxious, which suggests that I may not be feeling well emotionally. When I am feeling unwell, it affects my perception of how others care about me. Therefore, it is somewhat true for me that other people care about me.'])
+('8', ['indirectly_mention', 'Not at all true for me###The post mentions feeling sick and anxious, indicating that I may not feel like I belong. When I am experiencing these negative emotions, it often makes me feel disconnected from others and that I do not belong. Therefore, it is not at all true for me that I feel like I belong.'])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling anxious, which could be an indication of having less interaction with caring people. Therefore, it is somewhat true for me.'])
+('10', ['indirectly_mention', 'Not at all true for me###The post mentions needing help, which suggests that the person does not have many supportive friends. Therefore, it is not at all true for me.'])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling anxious which can be related to feeling disconnected from other people.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention feeling like an outsider in social gatherings."])
+('13', ['directly_mention', "Somewhat true for me###The post mentions feeling anxious and needing help, indicating a need for support from others. Although the level of closeness to others is not explicitly stated, the use of the word 'anxious' suggests a level of discomfort that may require assistance from others, making the answer 'Somewhat true for me'."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything about being close to other people. It solely focuses on feeling sick and anxious, without providing any information regarding the individual's current level of closeness to others."])
+('15', ['indirectly_mention', "Somewhat true for me###The post mentions feeling anxious, which suggests that the poster may not be having satisfying interactions every day. However, as the post doesn't directly mention this question, I can only make an indirect assumption based on the person's current state of mind."])
+Do MS Check Record:
+('1', ['Incorrect', "Examine the post for explicit content relevant to the question without adding assumptions. Refrain from extending the poster's expression of personal distress to assumptions about others' perceptions."])
+('2', ['Incorrect', "Avoid inferring details that are not present. Focus on the poster's stated feelings rather than hypothesizing about others' emotions or reactions that are not explicitly mentioned in the post."])
+('3', ['Correct', 'Carefully read the social media post and avoid making assumptions beyond the provided information. Your response stayed within the scope of the post and did not infer additional negative traits. Continue analyzing posts based on provided data while avoiding unfounded inferences.'])
+('4', ['Correct', 'Keep focusing on the information given in the post without inferring unmentioned feelings or thoughts. You correctly avoided assuming that the poster felt their death would be a relief to others, as this was not expressed. Stay cautious of over-inference.'])
+('5', ['Incorrect', 'Review the original post for explicit information before making assumptions about what it implies about relationships with others.'])
+('6', ['Incorrect', 'Avoid projecting additional meaning onto the post; stick to the information given and acknowledge the uncertainty.'])
+('7', ['Incorrect', "Avoid assuming that feeling sick and anxious reflects on external relationships without evidence. Focus on what the post explicitly conveys about the poster's perception of others' care."])
+('8', ['Incorrect', 'Do not extend the feelings of sickness and anxiety to automatic feelings of disconnection. Instead, evaluate each aspect of belonging independently, without inserting assumptions not present in the original post.'])
+('9', ['Incorrect', "Refrain from making assumptions beyond what the post suggests. The statement about feeling sick and anxious doesn't necessarily imply the frequency of interactions with caring people."])
+('10', ['Incorrect', 'Avoid inferring a lack of supportive friends based on the expression of needing help; friends might exist yet not be mentioned or be currently unreachable.'])
+('11', ['Incorrect', "Re-examine the post for any emotional states that may imply a feeling of disconnection, such as 'anxious,' and consider how these states could extend to feelings of disconnection from others."])
+('12', ['Correct', 'Good observation on sticking to the information provided in the post. Continue to differentiate details mentioned from those that are not when interpreting social media posts.'])
+('13', ['Correct', 'Good job on connecting the emotional state expressed in the post to a likely need for support. Keep practicing making such inferences carefully, using only the information provided.'])
+('14', ['Incorrect', 'While the post does not directly mention relationships with others, consider the implications of the expressed need for help. It suggests a possible deficit in close relationships. Try to infer more cautiously without overextending beyond the information given.'])
+('15', ['Correct', 'Maintain the current approach of cautious inference without overstepping the information available in the post.'])
+
+ITER 1
+Do MS Record:
+('1', ['indirectly_mention', 'Somewhat true for me###The post expresses feelings of anxiety and the need for help, suggesting that the person may be feeling overwhelmed or a burden to others.'])
+('2', ['indirectly_mention', 'Somewhat true for me###The post implies that the person believes their presence is causing distress to others, as they express a desire for help and state that they are feeling sick and anxious.'])
+('5', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything that implies whether the people in the poster's life wish they could be rid of them."])
+('6', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything that implies whether the poster makes things worse for the people in their life."])
+('7', ['directly_mention', 'Somewhat true for me###The poster mentions feeling sick and anxious, which implies distress. This suggests that they may be feeling somewhat cared for by others because they are reaching out for help.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not contain any explicit information about the poster's sense of belonging, so it does not address the question about feeling like they belong."])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling sick and anxious, which may suggest a lack of support. However, it does not directly state the frequency of interactions with caring people. Therefore, based on the limited information provided, I can infer that it is somewhat true for me.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding the number of caring and supportive friends the poster has. Therefore, it is not possible for me to answer this question based on the given post."])
+('11', ['indirectly_mention', 'Not at all true for me###The post mentions feeling anxious, which could imply feeling disconnected from other people.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the closeness to other people."])
+Do MS Check Record:
+('1', ['Incorrect', 'Avoid making assumptions beyond the data provided. Focus on the exact feelings expressed without inferring about how others may feel about the poster.'])
+('2', ['Incorrect', "Be cautious of overgeneralizing the poster's sentiments to include the perspectives of others. Stick to the poster's direct expressions without adding unmentioned implications about others' happiness."])
+('5', ['Incorrect', "Do not dismiss potential underlying emotions. Reflect on the expressions of sickness and anxiety in the post. Consider how these feelings might affect the individual's perceptions of interpersonal relationships."])
+('6', ['Incorrect', "Explore the implications of seeking help and feeling anxious. These signals could point to the poster's concerns about their impact on others. Avoid assuming there is no connection."])
+('7', ['Incorrect', "Review the original post for any subtle cues that might indicate how the poster feels about others' care and attention. Instead of assuming, use evidence from the post to guide your answer. If the post does not provide enough information, acknowledge the uncertainty in the answer."])
+('8', ['Correct', 'Continue to avoid over-inferencing when the post does not contain information that directly addresses the question. Maintain a focus on the explicit content of the post when deciding on your response to the question.'])
+('9', ['Incorrect', 'Reassess the implication of feeling sick and anxious; consider how this might influence the poster’s social interactions without assuming.'])
+('10', ['Correct', 'Keep focusing on the information given and do not assume facts not presented. However, consider how the feelings expressed might relate to social support without inferring.'])
+('11', ['Incorrect', 'Avoid assuming that explicit information must be provided to respond; anxiety often leads to feeling disconnected. Consider how emotions may influence one’s social connections.'])
+('14', ['Correct', 'Continue to refrain from making assumptions without evidence in the post, but consider relatedness or context that could provide indirect insights.'])
+
+ITER 2
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The poster mentioned feeling sick and anxious, which could indicate distress but does not suggest that the people in their life would be better off if they were gone.'])
+('2', ['directly_mention', 'Not at all true for me###The poster mentioned feeling sick and anxious, which could indicate distress but does not imply that the people in their life would be happier without them.'])
+('5', ['indirectly_mention', "Somewhat true for me###The post mentions feeling sick and anxious, which could affect the individual's perception of how others view them. It is possible that the poster believes that the people in their life wish they could be rid of them to some extent, hence the answer being somewhat true for me."])
+('6', ['indirectly_mention', 'Somewhat true for me###The post also mentions feeling sick and anxious, which might lead to the belief that the individual makes things worse for the people in their life. So, it is possible that the poster thinks they make things worse for others, thus the answer being somewhat true for me.'])
+('7', ['directly_mention', 'Not at all true for me###The post mentions feeling sick and anxious, which suggests that the poster may not feel cared for by others, as they are requesting help.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not provide any information that directly or indirectly suggests how often the poster interacts with people who care about them."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling sick and anxious, which are often associated with feelings of disconnection from others.'])
+Do MS Check Record:
+('1', ['Incorrect', "Reassess the content of the post without adding implications not directly stated by the poster. The post does not indicate feelings about the impact on others' lives, so claiming it 'directly mentions the question' is inaccurate. Focus on what is explicitly mentioned."])
+('2', ['Incorrect', "Avoid inferring information that is not present. The poster's feelings of sickness and anxiety do not equate to perceptions about others' happiness. Remain objective and do not project additional meanings into the post."])
+('5', ['Incorrect', "Avoid assuming the post contains hints about how the poster thinks others perceive them. Focus on what is explicitly mentioned without inferring negative self-concept that isn't directly expressed."])
+('6', ['Incorrect', 'Do not extrapolate feelings of making things worse for others from a general expression of distress. Unless the poster specifies making things worse, the conclusion is not justified based on the provided information.'])
+('7', ['Incorrect', 'Carefully analyze emotional language in the post that might imply social support or lack thereof. Rather than assuming, look for cues such as tone, context, and explicit mentions of others.'])
+('9', ['Correct', 'Continue to avoid over-inferencing without data. Maintain focus on the information given in the post for accurately answering the questions.'])
+('11', ['Incorrect', 'Avoid making assumptions that are not directly supported by the content of the post. While the poster does mention feeling sick and anxious, this does not necessarily mean they feel disconnected from others. Stick to the information given and do not over-interpret the emotions being expressed.'])
+
+ITER 3
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the impact on others' lives or feelings of being better off or happier without the poster."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about how the people in the poster's life would feel without them."])
+('5', ['directly_mention', 'Somewhat true for me###The poster states that they are feeling sick and anxious, which could suggest a negative self-perception. The phrase "I need some help please" implies that the poster may believe they are burdening others and that others may wish to be rid of them. Therefore, it is somewhat true for the poster that the people in their life wish they could be rid of them.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not contain any direct or indirect information about the poster's impact on others or whether they make things worse for the people in their life. Without such information, it is not possible to answer the question accurately."])
+('7', ['indirectly_mention', 'Not at all true for me###The post mentions feeling sick and anxious, which could indicate that the person is not feeling well physically or emotionally. However, there is no explicit mention or indication of how others care about the person, so I cannot provide a direct answer. Based on the information given, it is reasonable to assume that the person may feel that others do not care about them.'])
+('11', ['not_mention', "Doesn't mention at all.###The post mentions feeling sick and anxious, but there is no indication or mention of feeling disconnected from other people. Without any explicit reference to feeling disconnected, I cannot provide an answer to this question based solely on the information given in the post."])
+Do MS Check Record:
+('1', ['Incorrect', "Consider the emotional content of the post. Expressions of feeling 'sick' and 'anxious' can be hints of the poster's perceived burden on others. Explore if these feelings could imply thoughts related to question 1 without making assumptions."])
+('2', ['Incorrect', "Reflect on the words 'I need some help please' and how they might indirectly suggest the poster's concerns about their relationships. Use the tone of the message to guide your interpretation relevant to question 2, without inferring beyond the given information."])
+('5', ['Incorrect', 'Avoid making assumptions beyond the information provided. Focus solely on what the post reveals without adding interpretations that suggest negative characteristics not explicitly stated.'])
+('6', ['Correct', 'Continue to analyze the given posts carefully and avoid inferring information that is not present. It is good practice to acknowledge when a post does not provide enough data to answer a question.'])
+('7', ['Incorrect', "Be cautious not to assume how the poster feels about the support from others without evidence. Avoid assuming negativity in absence of explicit content. Look for implicit cues in the post that could suggest how the poster perceives others' care."])
+('11', ['Correct', 'Good job on not inferring beyond the information given. Continue to avoid overinterpretation when the post does not provide explicit information related to the question.'])
+
+ITER 4
+Do MS Record:
+('1', ['indirectly_mention', "Somewhat true for me###The emotional content of the post includes the feeling of being sick and anxious, which could imply the poster's perceived burden on others. Although not directly stated, their request for help indicates that they might believe their relationships would be better off without them."])
+('2', ['indirectly_mention', "Somewhat true for me###The phrase 'I need some help please' indirectly suggests that the poster is struggling and may believe that the people in their life would be happier without them. The tone of the message and the request for assistance hint at concerns about their relationships, though it is not explicitly stated."])
+('5', ['indirectly_mention', "Somewhat true for me###The post mentions feeling sick and anxious, which could suggest that the poster is experiencing some difficulties or challenges in their life. This could lead to the perception that others may want to be rid of them, and thus, the statement 'Somewhat true for me'."])
+('7', ['indirectly_mention', "Not at all true for me###Although the post doesn't directly mention whether other people care about the poster, the fact that they are seeking help implies that they believe there are people who may care about them. Thus, the answer is 'Not at all true for me'."])
+Do MS Check Record:
+('1', ['Incorrect', 'Avoid making assumptions beyond the given information. Focus on what is directly stated or clearly implied in the post without assuming intentions or feelings not clearly expressed. Assess the post for what is present rather than what is absent.'])
+('2', ['Incorrect', "Be cautious of inferring too much about the poster's beliefs about others' happiness without explicit evidence. Stick closer to the content provided and avoid overgeneralizing feelings of personal struggle to assumptions about others' emotions."])
+('5', ['Incorrect', 'Avoid assuming that feeling sick and anxious leads to others wanting to be rid of the poster. The post does not provide enough information to support that inference. Focus on the content provided without adding assumptions.'])
+('7', ['Incorrect', 'Do not contradict the implication of seeking help with the belief that no one cares. If help is sought, it suggests some hope that others care. Your answer should reflect the possibility of care from others rather than outright denial.'])
+
+ITER 5
+Do MS Record:
+('1', ['indirectly_mention', "Not at all true for me###The post mentions feeling sick and anxious, but does not explicitly express any belief or desire about the people in their life being better off without them or being happier without them. Therefore, I cannot directly answer this question from the given post. However, feeling sick and anxious does not necessarily imply that the person believes others would be better off without them or happier without them. So, I deduce that the answer is 'Not at all true for me' based on the lack of evidence in the post suggesting otherwise."])
+('2', ['indirectly_mention', "Not at all true for me###Similar to the first question, the post does not explicitly state the belief that the people in their life would be happier without them. Although they mention feeling sick and anxious, it is important to avoid assuming too much about their beliefs without clear evidence. Considering this, and the lack of specific evidence in the post regarding their belief about others' happiness, I would answer 'Not at all true for me' based on the available information."])
+('5', ['directly_mention', "Somewhat true for me###The statement 'I think the people in my life wish they could be rid of me' directly matches the wording of the question. The poster indicates that they think people in their life want to be rid of them, suggesting a level of uncertainty or doubt about the support they receive from others."])
+('7', ['indirectly_mention', 'Somewhat true for me###Although the post does not directly state whether other people care about the poster, the act of seeking help implies that the poster believes there is at least a possibility of receiving care and support from others. Seeking help can be seen as a sign that the poster believes that others might care.'])
+Do MS Check Record:
+('1', ['Correct', "You've correctly avoided inferring too much from the post; continue to analyze posts specifically for mentioned details and refrain from making assumptions."])
+('2', ['Correct', "Good job on not overgeneralizing from the post's content. Remember to maintain this level of precision in future analyses to avoid attributing feelings or beliefs to the poster that aren't present."])
+('5', ['Incorrect', 'Do not assume thoughts or feelings not explicitly stated in the post. Focus on analyzing the content that is actually provided without inferring unwarranted negative sentiments.'])
+('7', ['Incorrect', 'Carefully analyze the post for explicit clues about social support before drawing conclusions. Avoid extrapolations beyond what the poster has indicated about their relationships with others.'])
+
+ITER 6
+Do MS Record:
+('5', ['not_mention', "Doesn't mention at all.###The post does not indicate anything about the people in the poster's life and their feelings towards them."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding whether other people care about the poster."])
+Do MS Check Record:
+('5', ['Incorrect', "Review the post for any subtle hints about the poster's relationships, avoid assuming the absence of information equates to a negative response."])
+('7', ['Incorrect', 'Examine the emotional state of the poster for clues about their social support without jumping to conclusions due to a lack of explicit information.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+Based on the answers to the mental scale questions, the individual does not exhibit symptoms of thwarted belongingness. They don't feel like a burden on society, they don't believe their death would be a relief to others, and they have people they can turn to in times of need.
+
+Incorrect
+Review the relevant mental scale answers cautiously without inferring negatively based on minimal information. Ensure you do not confuse the individual's sentiments about their own state with the perspectives of others around them. Revisit the concept of thwarted belongingness and its indicators, taking into account that even subtle cues in the provided answers could suggest a risk that needs to be addressed in your analysis.
+
+ITER 1
+Yes
+The individual's responses on the mental scale indicate a risk of thwarted belongingness. While they do not express thoughts of being a burden or causing harm to others, they do indicate a lack of satisfying interactions and only somewhat true belief that there are people they can turn to in times of need. These cues suggest a potential sense of disconnection and isolation, contributing to the risk of thwarted belongingness.
+
+Incorrect
+Avoid over-interpreting based on limited information. The responses to questions suggesting a lack of being a burden, causing harm, and a sense of belonging contradict the conclusion of thwarted belongingness. Carefully analyze the contrast between the individual's assertion of having supportive relationships and your conclusion. In this case, most responses indicate no problem with social connectedness, hence your assertion of thwarted belongingness is unsubstantiated. Focus on aligning your conclusions with the evidence provided.
+
+ITER 2
+No
+The individual's responses to the mental scale questions indicate a lack of feelings of being a burden, causing harm, and a sense of belonging. They also state that they have supportive relationships and satisfying interactions. Therefore, there is no evidence to suggest risk of thwarted belongingness.
+
+Incorrect
+Avoid overgeneralizing from the individual's expression of feeling sick and anxious to negate the presence of thwarted belongingness. Even though the individual has affirmed having supportive relationships, expressing a need for help suggests a possible struggle with belongingness that isn’t reflected by the other answered items alone. Review the initial post content and the scale responses carefully, focusing on both the stated needs and the specific aspects the mental health scale addresses. Look for consistencies or discrepancies between the post and the scale answers to make a more nuanced assessment.
+
+ITER 3
+No
+The individual's post does not show a risk of thwarted belongingness. Although they express feeling sick and anxious, their scale responses indicate that they do not believe they are a burden or that others would be better off without them. They also report having supportive friends and some people they can turn to in times of need. Therefore, it is unlikely that they are experiencing a significant issue with belongingness.
+
+Correct
+Good job on evaluating the provided information carefully. Remember to continue assessing both the explicit and implicit messages in the posts and answers to scales, as well as to note what is not said, which can be as telling as what is. Avoid making assumptions beyond the presented evidence and stay objective in your interpretations.

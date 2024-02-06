@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  So its currently 2 in the morning and i cant sleep-as per usual.My maths exam is in one day and i feel like i dont know anything.I dont want to go to school,but i also dont want to miss the lessons.Im having problems talking about how i feel with my friends and i feel like people are using me. I asked my parents if i could go to therapy,as i think that might help me cope with deppression and lonelyness,but i think im just getting desperate. My dad told me that he thinks therapy doesnt help and its entirely worthless.My mom says she will try and find me a psycologist but i think she is too embarrased to ask anyone. Im currently trying to stay positive but it just feels like im lying to everyone.If anyone even reads this what is your advice?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being used by others and a fear of burdening others. The poster states that they have difficulty talking about their feelings with friends and that they feel people are using them. Additionally, they express a desire for therapy as a way to cope with depression and loneliness but feel desperate. The poster's dad dismisses the idea of therapy, adding to their feelings of being a burden. These factors suggest a presence of perceived burdensomeness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôve learned that life is fucking sad sometimes. You start to think that maybe things aren‚Äôt going to get better at all. I‚Äôve been at points which I think, it can‚Äôt get worse than this, but then I discover a new section of rock bottom, thinking, ah this is it! I assure you, There‚Äôs always something worse than what you‚Äôre going through. It can get worse. Per that same logic, there‚Äôs always the chance it gets better. I think I hold onto that and you should too. You might have realised at some point, people in your life leave. They come and go, and the only constant in your life is you. You have your back, and that‚Äôs what matters at the end of the day. Keeping this in mind, Take care of yourself and be proactive towards seeking friendships and human connections whenever possible. We humans are social creatures, so having this emotional connection can literally save you. It saved me, at least. I‚Äôm sorry about whatever situation you are facing it right now, but do know that you have a power to improve it. At this point, things can either improve or worsen, and the amazing this is that you have the choice.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post emphasizes the importance of seeking friendships and human connections, which indicates a desire for belongingness rather than a risk of thwarted belongingness.
+

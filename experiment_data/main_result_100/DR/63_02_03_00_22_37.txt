@@ -1,0 +1,123 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  So I finally realized something this week... Been stuck in an episode since my birthday (just turned 25, as per my last post). Can't remember the last time I ate a proper meal. Sleep cycle is fucked. Haven't left the house in a week. Funny enough, I had planned on hanging out and doing some reading in a cafe today... only to never leave the house. All this time, I've been thinking how much I yearn to have someone, anyone, physically check in. Or a partner to cuddle with, hug, and hold me tight.... but all that just fades into the empty void. I used to be Christian, and used to pray. Now that I'm not, I'm realizing how truly alone I am in dealing with all this. My friends all live in the city center. They have jobs and livelihoods. Ultimately, I have to physically do things by myself. No one's gonna save me. It's heartbreaking. Physically, I'm just so alone.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention sadness directly or indirectly. The focus of the post seems to be on feeling alone and isolated rather than experiencing sadness."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention pessimism directly or indirectly. The main themes discussed are loneliness, yearning for companionship, and feeling alone."])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The post mentions feeling stuck in an episode, not having a proper meal, messed up sleep cycle, and not leaving the house in a week. These could be interpreted as past failures or difficulties, indicating that the person feels they have failed more than the average person.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post mentions feeling alone, yearning for someone to check in, and longing for a partner to cuddle with and hold tight. These indicate a lack of pleasure and enjoyment, suggesting that the person does not enjoy things as much as they used to.'])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The post mentions feeling alone and yearning for someone to check in or cuddle with. These feelings of loneliness often come with a sense of guilt, as if one is responsible for not being able to connect with others. Therefore, it can be inferred that the poster feels guilty a good part of the time.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indications about feeling punished or expecting punishment. There is no mention of any actions or events that would suggest a sense of being punished."])
+('7', ['directly_mention', 'I dislike myself.###The post mentions feeling alone and how everything fades into the empty void, which suggests a sense of self-dislike.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The post talks about being physically alone and feeling like no one can save me, which implies a sense of self-blame or self-criticism.'])
+('9', ['indirectly_mention', "I cry more than I used to.###The post mentions feeling alone and how it's heartbreaking. This suggests an emotional state that could lead to an increase in crying."])
+('10', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything about having thoughts of killing oneself or any related inner desires."])
+('11', ['indirectly_mention', "I feel more restless or wound up than usual.###The post mentions being stuck in an episode since the poster's birthday, not eating proper meals, and having a messed up sleep cycle. These factors may contribute to feeling more restless or agitated than usual."])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The post mentions the poster yearning for physical contact and feeling alone. These feelings may indicate a decrease in interest towards other people or things.'])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The poster mentions being stuck in an episode and having a disrupted sleep cycle, which could indicate difficulties in making decisions.'])
+('14', ['directly_mention', 'I feel more worthless as compared to other people.###The poster mentions feeling alone and yearning for someone to check in or have a partner. This indicates a sense of worthlessness in comparison to others.'])
+('15', ['directly_mention', "I do not have enough energy to do very much.###The post states 'Can't remember the last time I ate a proper meal. Sleep cycle is fucked. Haven't left the house in a week.' These symptoms suggest a loss of energy."])
+('16', ['directly_mention', "I sleep somewhat less than usual.###The post states 'Sleep cycle is fucked.' This implies a change in sleeping pattern."])
+('17', ['directly_mention', "I am much more irritable than usual.###The post mentions being stuck in an episode since the poster's birthday, not being able to eat a proper meal, and having a messed up sleep cycle. These are all indicators of increased irritability."])
+('18', ['directly_mention', "My appetite is much less than before.###The post explicitly states that the poster can't remember the last time they ate a proper meal, indicating a significant decrease in appetite."])
+('19', ['indirectly_mention', "I find I can not concentrate on anything.###The post mentions that the poster's sleep cycle is messed up and they haven't left the house in a week. These factors indicate a lack of concentration, which suggests that the poster may not be able to concentrate on anything."])
+('20', ['indirectly_mention', "I am too tired or fatigued to do most of the things I used to do.###The post mentions that the poster hasn't been eating properly, has a messed up sleep cycle, and hasn't left the house in a week. These factors indicate an increased level of tiredness or fatigue, which suggests that the poster is too tired or fatigued to do most of the things they used to do."])
+('21', ['directly_mention', 'I have almost no interest in sex.###The post states that the person is feeling alone and mentions that they yearn for physical affection and cuddling, but it fades into emptiness. This suggests a lack of interest or fulfillment in terms of sexual intimacy.'])
+Do MS Check Record:
+('1', ['Incorrect', "Consider the expressions of being 'stuck in an episode', the disrupted eating and sleeping patterns, and the desire for companionship, which indicate a state of distress that aligns with feelings of sadness. Look for implicit cues and analyze the overall emotional tone of the post."])
+('2', ['Incorrect', "Reflect on the poster's acknowledgment of their solitary struggle and the realization that 'no one's gonna save me'. This can be indicative of pessimistic thoughts. Infer the emotional state and mindset of the individual even if certain terms are not explicitly used."])
+('3', ['Correct', "Be cautious of inferring too much from limited information but in this case, the student connected the poster's behaviors to feelings of perceived failure, which aligns with the content described in the post. Continue to use evidence from the post to support your analysis."])
+('4', ['Correct', 'Your interpretation here is well-founded as the post suggests a diminished sense of enjoyment and an overall feeling of emptiness. Keep grounding your inferences in the emotional tone of the post but always look out for direct evidence to support loss of pleasure.'])
+('5', ['Incorrect', 'Review the content of the post for implicit emotional states that may suggest guilt without direct statements and avoid assuming feelings not strongly indicated by the text.'])
+('6', ['Correct', 'Ensure that inferences about punishment feelings are strictly based on the presence of relevant information in the post; continue to avoid overinterpretation if the post does not suggest such feelings.'])
+('7', ['Incorrect', 'Focus on explicit evidence within the post relating to self-dislike rather than making assumptions based on external context. Look for specific phrases where the poster reflects on their self-perception.'])
+('8', ['Incorrect', 'Be cautious of inferring too much from expressions of loneliness and ensure self-accusations are identified through clear self-critical language or blame indicated by the poster.'])
+('9', ['Incorrect', 'Avoid assuming emotions not explicitly mentioned. Focus on the elements in the post that directly relate to the question.'])
+('10', ['Correct', 'Keep using the content of the post to inform your answers and avoid making assumptions about unmentioned topics.'])
+('11', ['Correct', "Ensure to maintain this level of careful analysis, distinguishing between direct and indirect mentions, and continue to reflect thoughtfully on the poster's experiences in relation to the psychological construct in question."])
+('12', ['Correct', 'Continue to consider the implications of emotional expressions in the post for underlying psychological states such as interest levels. However, ensure not to over-pathologize and keep your inferences closely tied to the information provided.'])
+('13', ['Correct', 'Good analysis of the provided post indicating difficulties with making decisions. Be sure to differentiate between transient feelings and more pervasive issues as reflected in the mental scale questions.'])
+('14', ['Incorrect', 'Avoid jumping to conclusions about worthlessness without explicit evidence. Focus on what is stated rather than implying emotions that the poster has not explicitly mentioned.'])
+('15', ['Correct', 'Continue to analyze the explicit content of the posts to support your assessments while being cautious not to infer beyond the available information.'])
+('16', ['Correct', "Remain particular about the phrases used in the post to ascertain the presented problems, as you did with the 'Sleep cycle is fucked.' which correctly indicates a change in sleeping pattern."])
+('17', ['Correct', 'Maintain attentive reading of the posts to accurately capture the emotional state as you did here.'])
+('18', ['Correct', 'Continue to note explicit statements like changes in eating patterns to support your answers.'])
+('19', ['Correct', 'Continue to analyze subtle hints within the post that may indicate specific mental states. Make sure to consider all aspects of the post when drawing conclusions about the mental scale questions.'])
+('20', ['Correct', 'Well done on associating behavioral changes with emotional states. Keep using the information provided to infer possible psychological experiences of the individual, but be careful to avoid overgeneralizing beyond what the evidence can support.'])
+('21', ['Incorrect', 'Carefully differentiate between lack of sexual interest and the broader context of seeking physical affection and emotional support. Focus on textual evidence directly related to the question of sexual interest without assuming or inferring beyond what is provided.'])
+
+ITER 1
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###The post mentions feeling stuck in an episode, disrupted eating and sleeping patterns, and the desire for companionship, which all indicate a state of distress and align with feelings of sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post mentions feeling alone and struggling to physically do things by myself, which implies a sense of pessimism and a lack of hope for the future.'])
+('5', ['directly_mention', "I feel quite guilty most of the time###The post mentions feeling guilty by stating 'All this time, I've been thinking how much I yearn to have someone, anyone, physically check in. Or a partner to cuddle with, hug, and hold me tight.... but all that just fades into the empty void.' This suggests a sense of guilt for longing for human connection but feeling ultimately alone."])
+('7', ['directly_mention', "I dislike myself###The post explicitly mentions self-dislike by saying 'Physically, I'm just so alone.' This statement reflects a negative self-perception, indicating self-dislike."])
+('8', ['indirectly_mention', "I criticize myself for all of my faults.###The poster mentions feeling alone and states 'Physically, I'm just so alone.' This suggests that they may be self-critical and blame themselves for their situation, even though they do not explicitly use self-critical language."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes. There is no indication of the poster having any thoughts of killing themselves."])
+('14', ['directly_mention', 'I feel utterly worthless.###The poster mentions feeling alone and yearning for physical affection, which suggests a feeling of worthlessness.'])
+('21', ['indirectly_mention', 'I have lost interest in sex completely.###The poster mentions feeling alone and yearning for physical affection, but does not specifically mention a change in interest in sex. However, the lack of interest in seeking a partner or engaging in physical intimacy may imply a loss of interest in sex.'])
+Do MS Check Record:
+('1', ['Correct', 'Ensure that in future assessments, you continue to reference specific aspects of the post that correlate with the emotions or states being inquired about to support your conclusions.'])
+('2', ['Correct', 'Good job on identifying the subtle hints of pessimism in the post. Going forward, maintain the practice of deriving attitudes and beliefs from the overall sentiment and contextual clues presented.'])
+('5', ['Incorrect', 'Reassess the post and focus on the specific language used that could indicate guilt. Refrain from overgeneralizing feelings without clear evidence from the text.'])
+('7', ['Incorrect', "Carefully differentiate between feelings of social isolation and self-dislike. The post doesn't explicitly mention self-dislike, so avoid making direct inferences without support from the content of the post."])
+('8', ['Incorrect', "Consider the broader context of the post which indicates a state of desolation and neglect of basic needs, suggesting a low mood that could include self-accusations. Look for indirect cues, like the mention of being 'truly alone,' that imply a critical self-assessment related to their situation and loneliness. Avoid a literal interpretation and analyze the underlying sentiments that could be related to self-accusations."])
+('9', ['Correct', "Well done on not over-inferencing from the post regarding suicidal thoughts or wishes. It's crucial to differentiate between expressions of loneliness and an explicit mention of self-harm or suicidal ideation. Continue to practice distinguishing between available information and making unsupported assumptions."])
+('14', ['Incorrect', "Review the post carefully without making assumptions. The feeling of worthlessness should be inferred from clear evidence within the post itself, rather than extrapolating beyond what's presented. Focus on the poster's expressed feelings of physical aloneness and not on an undefined sense of worthlessness."])
+('21', ['Incorrect', 'Avoid over-inferring based on limited information. The desire for physical affection described by the poster does not necessarily equate to a loss of sexual interest. Analyze the elements of social longing and isolation without imposing additional interpretations outside of the provided context.'])
+
+ITER 2
+Do MS Record:
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The post mentions feeling alone, yearning for someone to check in, and feeling the need for a partner. These feelings could potentially lead to guilt for wanting support and companionship but not being able to attain it.'])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to self-dislike. It mainly focuses on feelings of loneliness and longing for companionship."])
+('8', ['indirectly_mention', 'I criticize myself for all of my faults.###The poster mentions feeling truly alone and dealing with everything by themselves, which implies a critical self-assessment related to their situation and loneliness.'])
+('14', ['indirectly_mention', "I feel more worthless as compared to other people.###The post mentions feeling physically alone, which can imply feeling less worthwhile as compared to others who have social connections and support networks. However, the post doesn't explicitly say so, hence the answer is more of an inference based on the context."])
+('21', ['indirectly_mention', 'I have lost interest in sex completely.###The post mentions that the poster is physically alone and yearns for physical affection, such as cuddling and hugging. This may imply a loss of interest in sex as well.'])
+Do MS Check Record:
+('5', ['Correct', 'Continue to identify indirect emotional indicators in social media posts while carefully discerning the specific emotions at play.'])
+('7', ['Incorrect', "Assess whether the poster's description of isolation and detachment from social and religious communities may contribute to a sense of self-dislike, even if not explicitly stated."])
+('8', ['Incorrect', "Avoid projecting feelings or thoughts not directly mentioned in the post. Focus on specific language used to infer self-accusations. If it's not explicit, mention that it is an assumption rather than a fact."])
+('14', ['Incorrect', 'Be cautious not to overgeneralize or infer feelings of worthlessness without clear evidence from the post. Infer only feelings that are clearly expressed or strongly implied by the poster.'])
+('21', ['Incorrect', 'Avoid making assumptions beyond the given information. The post does not directly address changes in interest in sex. Focus on analyzing the expressed feelings of loneliness and isolation without inferring additional details about sexual interest.'])
+
+ITER 3
+Do MS Record:
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything about self-dislike explicitly or implicitly."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything about self-accusations explicitly or implicitly."])
+('14', ['directly_mention', 'I feel utterly worthless.###The poster expresses feeling alone and having a sense of emptiness, which suggests low self-worth and feelings of worthlessness.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in interest in sex. The focus is on feelings of loneliness and not any potential changes in sexual interest."])
+Do MS Check Record:
+('7', ['Incorrect', 'Consider the emotional tone of the post. The feeling of loneliness and the mention of heartbreak could indicate a sense of self-dislike. Read between the lines and infer emotions related to the questions.'])
+('8', ['Incorrect', "Explore the possibility of implied self-accusations in statements like 'haven’t left the house' and realizing they’re 'truly alone.' The poster's reflections on their situation may suggest underlying self-critical thoughts."])
+('14', ['Correct', "Ensure to directly reference specific parts of the post in your explanation to show clear linkage to the poster's feelings of worthlessness."])
+('21', ['Correct', 'Since the post does not mention changes in interest in sex, stating that it was not mentioned is appropriate. Continue to be careful not to infer information that is not present in the post.'])
+
+ITER 4
+Do MS Record:
+('7', ['indirectly_mention', 'I am disappointed in myself.###The post mentions feeling alone, heartbreak, and being truly alone in dealing with their situation. These emotions could suggest a sense of disappointment in oneself.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The post mentions being stuck in an episode, not leaving the house, and realizing they are truly alone. These reflections and the tone of the post imply a higher level of self-criticism or self-blaming compared to their usual state.'])
+Do MS Check Record:
+('7', ['Correct', 'Continue to draw inferences based on emotional states expressed; however, be cautious of assuming specifics not explicitly stated.'])
+('8', ['Correct', 'Ensure that inferences about self-accusations are supported by evidence in the text, and avoid assuming severity of self-blame beyond what is provided.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to the questions of the mental scale indicate a high level of depressive symptoms. They express sadness, pessimism, past failure, loss of pleasure, guilty feelings, self-dislike, self-accusations, worthlessness, loss of energy, changes in sleeping pattern, irritability, changes in appetite, concentration difficulty, tiredness or fatigue, and changes in interest in sex. These responses are consistent with criteria for a diagnosis of depression.
+
+Incorrect
+Re-assess the provided responses without adding unfounded characteristics or negative traits. Focus only on the information given in the post and the answers to the mental health scale questions. Avoid speculating about unmentioned aspects of the poster's life or personality. Accurately distinguishing between the feelings and situations of the poster and others mentioned in the post is crucial. Do not attribute the mental health of the people around the poster to the poster themselves. Remember to base your conclusions strictly on the evidence provided.
+
+ITER 1
+Yes
+The poster's post and their responses to the mental health scale suggest symptoms of depression, such as feeling sad, discouraged, having low self-esteem, loss of pleasure, lack of energy, changes in sleeping pattern and appetite, difficulty concentrating, and feeling worthless.
+
+Correct
+The student's analysis is accurately reflective of the responses to the mental health scale, and there are no instances of over-inference. When diagnosing, continue to rely on evidence from the subject's own reported feelings and behaviors, rather than making assumptions beyond what the data suggests.

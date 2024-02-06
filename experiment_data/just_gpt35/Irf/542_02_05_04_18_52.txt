@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Sorry for the very melodramatic title. The point is, i have suffered from depression and I have gotten over it about 2 years ago, but everything that goes a little downhill in my life spurs this fear that I might not be able to be  normal . This isn't a cry for help or anything useful at all, but I'm just writing this for personal solace. However I am interested to see if anybody who has gone through depression has this same fear of going back into the cycle.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a fear of going back into the cycle of depression, which suggests a potential risk of thwarted belongingness. This fear may stem from a perceived inability to be 'normal' and may impact the individual's sense of belonging and connection with others.
+

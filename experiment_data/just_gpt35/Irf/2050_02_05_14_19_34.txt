@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm suicidal because, of, I failed graduating many times, school. How my dad treats me, bullying me. How I make myself feel awful by judging myself all the time, me. I'm unmotivated in school, I dread school, I hate school. I'm a highly sensitive person, hsp. I'm a procrastinator. Suicide has become a normal thing for me. Even in better days, I think about suicide, ways to die. I just wanna give up on life, on school and die. . I probably have more reasons but this is it  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and loneliness, as the poster mentions feeling treated poorly by their father and being bullied. These experiences can contribute to feelings of thwarted belongingness, which is a risk factor for suicide.
+

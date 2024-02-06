@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  That's two major holidays within 8 days. It's a bit overwhelming ...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show any signs of perceived burdensomeness. The poster is simply expressing that having two major holidays within a short span of time feels overwhelming without mentioning any feelings of burden or causing inconvenience to others.
+

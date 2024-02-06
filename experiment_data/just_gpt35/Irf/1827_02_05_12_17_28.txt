@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I'm using an alt because earlier this month someone went through my post history and harassed me for posting here. Literally every interaction I've had on this website lately has been shit. It seems like every person on this website is an aggressive, closed-minded asshole. I'm not like super depressed about it specifically, but it makes dealing with depression even harder with dicks on this website constantly wearing down my mood.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the poster is facing harassment and negative interactions on the website, which can contribute to a sense of burdensomeness and potentially exacerbate their existing depression.
+

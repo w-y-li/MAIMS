@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I've been doing the only thing I'm capable of to hold myself in place at this point, which is doing everything I can to ignore it all. My feelings, my life, the dread that comes every single fucking night. I've been overeating to the point of getting sick. I've been spending days and more days barely taking care of myself, and just existing in my home, from which I barely leave for days on end. I've been avoiding this conclusion forever, mostly because I'm so scared of it. I don't think I want to exist. Every single night I try really hard to dream and fantasize about my deepest desires, in a desperate attempt to find a reason to pull myself up and keep going, but lately, I've been giving up so easily. I feel like nothing's is really worth it, and that includes myself. The thought of just ending it keeps coming over and over again, and it's getting harder and harder to fight back. I'm scared. I feel cold and worthless. But what's worse is that I know tomorrow will be exactly the same. I know there are people who love me and do so much for me, and I appreciate every single second they invest on me... But I've been really afraid of the idea that, even tho they try to, they can't really change things or help me in the ways that really matter in the end, like my mental condition, my traumas and the inescapable barrier that is my social class. It's like I'm locked and always will be. And it doesn't seem very hard for me at the moment to believe that I'll end up dying by my own hands at some point.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of worthlessness, the belief that others cannot help in a meaningful way, and thoughts of ending one's own life. These factors suggest a risk of perceived burdensomeness, which is the belief that one's existence is a burden on others.
+

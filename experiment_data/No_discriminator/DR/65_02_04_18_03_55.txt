@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  what's a friendship?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to sadness or emotional state."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to pessimism about the future."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not provide any information relating to past failures or loss of pleasure. It solely asks for a definition of friendship."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information relating to past failures or loss of pleasure. It solely asks for a definition of friendship."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to guilty feelings or punishment feelings. It is focused on asking about the nature of friendship, not personal emotions or feelings of guilt or punishment."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not discuss personal emotions or feelings of guilt or punishment. It is a general question about the concept of friendship."])
+('7', ['indirectly_mention', 'I feel the same about myself as ever.###Inquiring about the definition of friendship can indirectly reflect how the poster perceives themselves. If they have a negative self-image, they may have a different understanding of friendship compared to someone who feels positive about themselves.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information or context relevant to self-accusations. It solely focuses on the concept of friendship, without discussing any personal attitudes or behaviors."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to crying."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to agitation or loss of interest. It simply asks for the definition of friendship."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to agitation or loss of interest. It simply asks for the definition of friendship."])
+('13', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything about indecisiveness or worthlessness. It solely focuses on the concept of friendship."])
+('14', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything about indecisiveness or worthlessness. It solely focuses on the concept of friendship."])
+('15', ['directly_mention', "I have as much energy as ever.###The post talks about friendship, which doesn't provide any direct information about my energy levels."])
+('16', ['directly_mention', "I have not experienced any change in my sleeping pattern.###The post asks about friendship, which doesn't mention anything about my sleeping patterns."])
+('17', ['directly_mention', "I am no more irritable than usual.###The post asks about what is friendship. It doesn't mention anything about irritability, so the answer is 'I am no more irritable than usual.'"])
+('18', ['not_mention', "Doesn't mention at all.###The post asks about what is friendship. It doesn't mention anything about appetite, so the answer is 'Doesn't mention at all.'"])
+('19', ['not_mention', "Doesn't mention at all.###The post does not contain any information related to concentration difficulty or fatigue."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not contain any information related to concentration difficulty or fatigue."])
+('21', ['directly_mention', "I have not noticed any recent change in interest in sex.###The post mentions the concept of friendship, but it doesn't provide any information or context related to changes in interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+Based on the absence of any problems related to sadness, pessimism, past failure, loss of pleasure, guilty feelings, punishment feelings, self-dislike, self-accusations, suicidal thoughts or wishes, crying, agitation, loss of interest, indecisiveness, worthlessness, changes in sleeping pattern, irritability, changes in appetite, concentration difficulty, tiredness or fatigue, and changes in interest in sex, it is unlikely that the poster is suffering from depression.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I told my mom what I have been going through earlier today through text. We live on opposite sides of the country. But, well she called me to scream at me that I wasn‚Äôt depressed and that I‚Äôm faking it. She‚Äôs blocked my number. I‚Äôm told that family will always be there. I guess fucking not. I don‚Äôt know where to go. I think I‚Äôm just gonna give up here I have been cut away from family I don‚Äôt have any friends and I‚Äôm so fucking tired of being alive  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post highlights a sense of social isolation, being cut off from family and lacking friends. The individual expresses feelings of hopelessness and being tired of life, which suggests a risk of thwarted belongingness.
+

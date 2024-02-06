@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I feel like all my emotions are fake, and everything I say is a lie because of it. I feel like my bad days are just fake and in my mind, and anything I like is garbage that I'm not really interested in, I end up feeling like I don't really love friends and family. I just end up hating myself because of these feelings and feeling even more detached from the world. Why do I have to sabotage my own mind and feelings?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not specifically mention any feelings of burden or being a burden to others. Rather, the individual expresses feelings of detachment, self-hatred, and questioning the authenticity of their emotions.
+

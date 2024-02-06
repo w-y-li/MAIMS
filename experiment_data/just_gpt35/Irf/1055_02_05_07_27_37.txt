@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I've never written on reddit before. I'm not sure what I'm expecting from doing this. I guess a feeling of release. I've been suppressing my feelings to put on a show for everyone else. That despite this year bringing me the hardest time of my life, I'm being strong, I'm being resilient. But the truth is I'm not. When I interact with people, I'm the bubbly, smiley persona that is expected of me. But as soon as I'm alone, my face is blank, my emotions are numb and all of the feelings I'm pushing down resurface. My expression completely changes when I'm alone. Im a different person. A person no one knows. But the facade is starting to fall apart. I dont want to do this anymore but no one cares about the girl behind the mask..  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the poster feels burdened by the expectation of maintaining a facade and pretending to be strong despite experiencing significant difficulties in life. They express a lack of support from others and feeling invisible. This suggests a risk of perceived burdensomeness.
+

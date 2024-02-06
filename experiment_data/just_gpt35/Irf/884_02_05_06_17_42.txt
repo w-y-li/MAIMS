@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Everyone ends up hating me eventually. My psychologist of almost ten years blew up at me and kicked me out of my last session. I‚Äôm doubting every interaction I have with every person I meet. I‚Äôm doubting every interaction I have with every single one of my friends. I can‚Äôt get my substance bias issues under control. I‚Äôm my own worst enemy. I was accused of being a bully and was subsequently bullied by the workplace bullying system. I uprooted my life to change for the better and as part of the domino of doing so my dog was killed. I would give anything to be a different person right now. To not have to be my awful, repulsive, contemptible self.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being hated by others, doubting interactions with people, struggling with substance issues, being accused of being a bully, experiencing workplace bullying, uprooting life, and feeling a strong desire to be a different person. These factors suggest a lack of belongingness and connection, which align with the risk of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Winter semester begins tomorrow and I'm in denial. Back to group work, trying to make acquaintances, perform my best. I really just don't care, and thinking of going physically pains me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of interest, motivation, and a reluctance to engage in social activities, such as group work and making acquaintances. This could be a sign of thwarted belongingness, where the individual is experiencing difficulties in forming the desired social connections and feeling like they belong.
+

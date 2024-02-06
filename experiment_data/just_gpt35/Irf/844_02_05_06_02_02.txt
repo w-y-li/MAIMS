@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôm 21, I‚Äôve ruined my credit, most of my friendships &amp, never had a real relationship. I‚Äôm currently sitting in my room.... well actually my grandmothers room because of my recent eviction. My family has an extreme history of mental illness &amp; alcohol abuse so it‚Äôs not cand land here, it‚Äôs depressing as can be. I had already suffered from severe depression my whole life, now I‚Äôm stuck in the middle of everyone else‚Äôs illness again. My mom has schizophrenia &amp; was homeless cause she was scared to go in the house due to the government watching her. My aunt never gets up off the bed or takes showers or cleans her house and makes my grandmother (70) do everything including take care of her kids. The house I‚Äôm currently in is filthy ( maggots in the carpet upstairs, chicken wings &amp; used toilet paper all over the bathroom, cat piss &amp; puke in the floor)cause I can‚Äôt keep up cleaning it &amp; neither can my grandma. I‚Äôve been trying to get my life together because I suffer from mental illness also &amp; im honestly such a failure, I‚Äôm overweight, unmotivated, extremely irresponsible &amp; lazy and I don‚Äôt know why because I want to achieve things in life buts it‚Äôs so hard with the situation I‚Äôm in. I use to work when I lived on my own but now I live so far from the bus line &amp; it‚Äôs freezing cold so it‚Äôs hard finding a job. Sad thing is, I probably wouldn‚Äôt keep the job anyway cause I suck at keeping one. I don‚Äôt wanna be a bum but idk what is that my life is complete failure. I‚Äôve tried therapy, medication but nothing is working. Do you have any type of advice???  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a lack of belongingness as the poster mentions having ruined friendships and never having a real relationship. They also mention feeling stuck in the middle of their family's mental illness and homelessness, highlighting a lack of support and connection with their family. This sense of isolation and disconnection supports the presence of thwarted belongingness.
+

@@ -1,0 +1,120 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Is there any chance of me being able to fix the friendship? Hello all, Needing some advice on how to fix this friendship, or even if I should. So, I met this girl at a club, and before I knew it, we became great friends. She would come round my place all the time. We would drink. Have some deep conversations on really interesting subjects. And, most importantly, laugh with each other and just hang out. Being at uni and doing the same course, she would also always try to help me when I was struggling, which was something I really appreciated. Anyway, sometime before Christmas, I screwed up and hurt her feelings. She didn't tell me this, and I only know because I got it out of her - through text. I've tried to apologize to her before Christmas. No real luck. I wished her Happy Christmas and New Years. She did the same to me. Now we're both back at Uni. It got awkward, as I was with my friends and she was with her friends, both sitting at the same table. At this point, the WhatsApp conversation we had went like this:(she doesn't speak to me in person anymore or even look at me): ... [13:21, 1/22/2018] Me: Hi .... [13:23, 1/22/2018] Her: Hi [13:24, 1/22/2018] Me: How you been? [13:25, 1/22/2018] Her: I m good [13:25, 1/22/2018] Her: You? [13:26, 1/22/2018] Me: All good. Helping mates with exam. [13:36, 1/22/2018] Me: Still don't just want to talk about it? [13:36, 1/22/2018] Her: Nah [13:36, 1/22/2018] Her: Leave it be [13:37, 1/22/2018] Me: Let's be friends again. [13:37, 1/22/2018] Her: Lol I m gonna pass [13:38, 1/22/2018] Me: You have me wrong. [13:38, 1/22/2018] Me: It was funnier when we were friends [13:40, 1/22/2018] Her: I know....shame [13:40, 1/22/2018] Her: But sometimes you just need to stay away [13:41, 1/22/2018] Me: It can go back to that [13:41, 1/22/2018] Me: Just. Give me some time to talk it with you [14:28, 1/22/2018] Her: Good luck with your test [15:12, 1/22/2018] Me: Yeah. You too. [16:21, 1/22/2018] Me: How'd your exam go? [16:56, 1/22/2018] Her: It was great [16:56, 1/22/2018] Her: Yours? [16:57, 1/22/2018] Me: Of course. It's you. [16:57, 1/22/2018] Me: Yeah. Felt it went good [16:57, 1/22/2018] Her: Haha that's good [16:58, 1/22/2018] Me: You going library now? [17:19, 1/22/2018] Her: No I came home [17:22, 1/22/2018] Me: Will you never allow me to apologize to you? [17:23, 1/22/2018] Me: I tried to be a good friend ... And I  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', "I feel sad much of the time###The post indicates that I have hurt the girl's feelings and tried to apologize multiple times, but she doesn't want to talk about it or be friends again. This rejection and the tension between us may lead to me feeling sad much of the time."])
+('2', ['indirectly_mention', "I feel discouraged about my future###The post suggests that I am trying to fix the friendship, but the girl is not receptive and doesn't want to be friends again. This could lead to feelings of discouragement about the future of our friendship or my ability to repair relationships."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to past failures in the person's life."])
+('4', ['indirectly_mention', "I do not enjoy things as much as I used to.###The post implies a change in the person's friendship dynamics after the conflict, which could potentially result in a loss of pleasure in the activities they used to enjoy together."])
+('5', ['directly_mention', "I feel quite guilty most of the time###In the post, the poster mentioned that they screwed up and hurt the girl's feelings before Christmas. Although the girl didn't directly express her feelings of being hurt, the fact that the poster feels the need to apologize and continuously seeks a chance to talk about it suggests a sense of guilt which is consistent with feeling quite guilty most of the time."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not contain any information or indications about punishment feelings, therefore it does not mention this aspect."])
+('7', ['indirectly_mention', 'I am disappointed in myself.###In the post, I mentioned that I screwed up and hurt her feelings. This implies that I made a mistake and therefore could feel disappointed in myself for hurting someone close to me.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about self-accusations. It only focuses on the issue with the friendship and the attempts at reconciliation."])
+('9', ['indirectly_mention', "I do not cry any more than usual.###The post doesn't directly mention crying, but based on the information provided, there is no indication that I cry more than usual or all the time."])
+('10', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to suicidal thoughts or wishes."])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The poster mentions feeling awkward and uncomfortable around the friend after the incident. This suggests that they may be experiencing increased restlessness or agitation.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The poster mentions that their friendship with the girl was enjoyable and that they miss their previous interactions. This suggests a decrease in interest in other people or things.'])
+('13', ['directly_mention', "I find it more difficult to make decisions than usual.###The post mentions that the person is indecisive in making decisions. The poster states, 'Let's be friends again. Just. Give me some time to talk it with you'. This suggests that the poster is having difficulty making a decision about whether or not to fix the friendship."])
+('14', ['directly_mention', "I do not consider myself as worthwhile and useful as I used to.###The post mentions feelings of worthlessness. The poster says, 'I tried to be a good friend ... And I'. By omitting the continuation of the sentence, they imply a sense of worthlessness and lack of self-worth in their actions."])
+('15', ['directly_mention', 'I do not have enough energy to do anything.###In the post, I mentioned that I screwed up and hurt her feelings. This event might have caused me to lose energy, as I am now trying to fix the friendship which seems to be difficult.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding changes in sleeping patterns."])
+('17', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to irritability or changes in appetite."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to irritability or changes in appetite."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to concentration difficulty."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to tiredness or fatigue."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+('1', ['Correct', 'Ensure that the analysis is specific to what can be inferred from the post, while also considering alternate emotions or states.'])
+('2', ['Incorrect', 'Pessimism is a strong term that implies a more generalized negative view of the future which cannot be clearly inferred from the single event discussed in the post. Instead, focus on observations that can be more precisely derived from the given details.'])
+('3', ['Incorrect', 'Review the posts for explicit mentions or context-related cues to the question topic. Avoid assuming details not provided.'])
+('4', ['Correct', 'Good inference on potential emotional consequences from the situation. Ensure to differentiate between temporary and enduring states.'])
+('5', ['Correct', "Your inference regarding guilt is justified based on the poster's expressed desire to apologize and mend the friendship. Continue to look for implicit emotional cues in the text that correspond with the psychological concepts in the questions."])
+('6', ['Correct', 'You correctly noted that the post does not provide information about punishment feelings. Ensure that you do not make inferences without textual evidence. Stay observant of the need for explicit information before concluding an emotional state.'])
+('7', ['Correct', 'Maintain the use of evidence from the post to support your inferences regarding the emotional state of the poster.'])
+('8', ['Incorrect', 'Consider clues from the interaction that might imply feelings of regret or responsibility for the situation, such as seeking forgiveness and expressing a desire to reconcile.'])
+('9', ['Incorrect', 'While the post does not indicate current crying behavior, the student should not infer the absence of it. Recommend analyzing post content for emotional tone and context regarding the potential for crying as a response to the situation, and answer accordingly without making assumptions.'])
+('10', ['Correct', 'Good observation that the post makes no mention of suicidal thoughts or wishes. Continue to analyze the post carefully and ensure that no inferences are made without evidence from the post.'])
+('11', ['Incorrect', 'Consider only the information presented in the post without assuming additional emotional states not clearly indicated. Restlessness or agitation should be derived from clear evidence within the post.'])
+('12', ['Incorrect', "Avoid inferring a loss of interest without explicit information from the post. The poster's feelings about the friendship should not be generalized to other areas of life or interests."])
+('13', ['Incorrect', "Be cautious not to assume traits like indecisiveness that aren't clearly indicated in the post. Look for explicit evidence before concluding emotional states or decision-making abilities."])
+('14', ['Incorrect', 'Avoid attributing feelings of worthlessness to the poster without concrete evidence in the text. The sentiment of regret for actions doesn’t necessarily imply worthlessness.'])
+('15', ['Incorrect', "Re-evaluate the post and consider if 'energy' is used metaphorically or literally. If it's metaphorical, it may not be addressing physical energy but rather emotional energy. Look for implicit rather than explicit information in the post."])
+('16', ['Correct', 'Good observation. There was no mention of sleeping patterns in the post. Continue to base your answers on provided information without making assumptions.'])
+('17', ['Correct', "Review the post for any subtle cues or statements that could hint towards emotional states that might affect one's irritability, but be cautious not to make assumptions without evidence."])
+('18', ['Correct', 'Remember to look for explicit or implicit mentions of behavior changes such as eating habits in the post, but avoid inferring such details if they are not present.'])
+('19', ['Incorrect', 'Explore the context of the post to infer possible states like concentration difficulty due to stress from the conflict.'])
+('20', ['Incorrect', 'Consider the emotional strain from the situation which could lead to feelings of tiredness or fatigue.'])
+('21', ['Correct', 'Remember to use information only from the post without assuming or adding details that are not provided.'])
+
+ITER 1
+Do MS Record:
+('2', ['indirectly_mention', "I feel I have failed more than the average person.###The poster mentioned that they screwed up and hurt their friend's feelings, which implies a sense of personal failure and potentially feeling worse than others who might not have made the same mistake."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the poster's feelings regarding their future or any discouragement about it."])
+('8', ['directly_mention', 'I blame myself for everything bad that happens.###In the post, I admit that I screwed up and hurt her feelings. I feel responsible for the situation and express a desire to apologize and fix the friendship, indicating a tendency towards self-blame and taking responsibility for the negative outcome.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not provide any information indicating the presence of suicidal thoughts or wishes. Although I am experiencing difficulties in the friendship, there is no mention or implication of thoughts of killing myself."])
+('11', ['indirectly_mention', 'I am less interested in other people or things than before.###In the post, the poster mentioned that they had deep conversations, laughed, and hung out with the friend. These activities require interest and enjoyment, implying that they were interested in the friend and their company. However, the poster expressed concern about the broken friendship and a desire to fix it. This suggests a loss of interest or decreased interest in the friendship specifically, not a general loss of interest in other people or activities.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any information or implied indication of agitation. The focus is primarily on the broken friendship and the poster's attempts to fix it. The lack of any clear evidence or mention of agitation suggests that this question is not mentioned in the post."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to indecisiveness."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any indication of feelings of worthlessness."])
+('15', ['indirectly_mention', "I do not have enough energy to do very much.###Based on the post, the user mentions that they screwed up and hurt the girl's feelings before Christmas. This implies that there may be feelings of guilt and remorse, which can drain emotional energy. Additionally, the user is seeking advice on how to fix the friendship, indicating a possible lack of motivation and energy to take action. It suggests a decrease in energy levels, although it is more related to emotional energy rather than physical energy."])
+('19', ['indirectly_mention', "It is hard to keep my mind on anything for very long.###Throughout the post, the user expresses concern about the current state of their friendship and repeatedly tries to initiate conversations to reconcile. This could indicate difficulty in concentrating on other tasks due to preoccupation with the friendship issue. While not explicitly stated, the user's actions and focus on the friendship suggest possible difficulties in maintaining concentration."])
+('20', ['indirectly_mention', "I am no more tired or fatigued than usual.###The post doesn't directly mention tiredness or fatigue, but it discusses a situation that could potentially lead to emotional strain and exhaustion. The poster mentions feeling hurt and wanting to apologize, which indicates emotional distress. This emotional strain could result in feelings of tiredness or fatigue."])
+Do MS Check Record:
+('2', ['Incorrect', "Consider whether the poster's actions really suggest pessimism, rather than merely describing the situation. Focus on the poster's expressions about the future or outcomes, rather than on the past actions."])
+('3', ['Correct', "Good discernment. There is no direct mention of past failures affecting the poster's view on their future. Keep focusing on what is stated rather than what is inferred without evidence."])
+('8', ['Correct', 'Your analysis accurately reflects the content related to Self-Accusations. Remain vigilant in connecting feelings and actions described in the post to the mental scale in question.'])
+('9', ['Correct', 'Good job identifying the absence of any information regarding Suicidal Thoughts or Wishes. Ensure you are always evaluating the presence or absence of such indicators accurately.'])
+('11', ['Incorrect', 'Review post content to differentiate between the loss of a specific interest (the friendship) and a general loss of interest as indicated in the mental scale.'])
+('12', ['Correct', 'Ensure that inferences about mental states are based on clear evidence from the social media post to avoid overgeneralization.'])
+('13', ['Correct', "While it's correct that the post does not explicitly mention indecisiveness, be cautious to not miss any underlying tones in the language or context that could imply such traits. For future reference, applying psychological theories could involve reading between the lines, understanding context, and analyzing the emotional state and possible behaviors of individuals indirectly."])
+('14', ['Correct', "Your conclusion is accurate in stating that the post doesn't explicitly express feelings of worthlessness. However, ensure that you are considering all aspects of the poster's situation, such as their emotional reaction to the described events, which might hint at their self-esteem or self-worth."])
+('15', ['Incorrect', 'Avoid assuming emotional states not directly conveyed in the post. Instead, focus on observable facts or explicitly stated feelings to infer about energy levels.'])
+('19', ['Incorrect', "Do not imply concentration difficulty unless there is clear evidence in the post. The poster's repeated attempts to reconcile may suggest focus rather than difficulty concentrating."])
+('20', ['Incorrect', "Ensure that your interpretations are closely tied to the post's content and avoid overgeneralizing the emotional state of the poster when it's not explicitly addressed."])
+
+ITER 2
+Do MS Record:
+('2', ['directly_mention', "I feel discouraged about my future.###The poster states, 'Sometimes you just need to stay away,' which suggests a sense of discouragement about the future and the possibility of repairing the friendship."])
+('11', ['indirectly_mention', "I feel more restless or wound up than usual.###Although the post does not explicitly mention agitation, the poster's persistent efforts to fix the friendship despite being rejected multiple times indirectly suggest restlessness or agitation."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of energy."])
+('19', ['indirectly_mention', "I can not concentrate as well as usual.###The post mentions that the poster screwed up and hurt the friend's feelings. This implies that the poster may be feeling guilty or preoccupied with the situation, which could affect their ability to concentrate."])
+('20', ['directly_mention', "I am no more tired or fatigued than usual.###The post doesn't mention anything about tiredness or fatigue."])
+Do MS Check Record:
+('2', ['Incorrect', "Do not assume the poster's feelings of discouragement; the post does not provide sufficient evidence of pessimism regarding the future, only the current situation with the friend."])
+('11', ['Incorrect', 'Avoid inferring agitation without explicit evidence; while the poster is persistent, this does not necessarily imply restlessness or being wound up.'])
+('15', ['Correct', 'Keep focusing on the content provided, and do not infer beyond the information given.'])
+('19', ['Incorrect', 'Avoid presuming emotional states not explicitly mentioned in the post. Stick to analyzing the content for direct answers to the question only.'])
+('20', ['Incorrect', "Review the social media post to identify any implicit clues about the poster's emotional state that could indicate feelings of tiredness or fatigue. Remember not to dismiss the relevance of psychological dynamics in a social context; aspects like stress from interpersonal conflict may contribute to such conditions."])
+
+ITER 3
+Do MS Record:
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any evidence or indication of pessimism regarding the future."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not provide any evidence or indication of agitation."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about concentration difficulty."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about tiredness or fatigue."])
+Do MS Check Record:
+('2', ['Incorrect', "Review the post for implicit emotional cues that could suggest pessimism, such as the poster's hope for reconciliation, which was not reciprocated, indicating a possible negative outlook on the friendship's future."])
+('11', ['Correct', 'No clear evidence of agitation is presented in the post. The dialogue seems calm and the poster appears to be seeking resolution without overt signs of restlessness or irritability.'])
+('19', ['Correct', 'Continue to focus on the information provided in the post without making unwarranted assumptions.'])
+('20', ['Correct', 'Keep adhering to the details shared in the social media post, avoiding inferences not supported by evidence.'])
+
+ITER 4
+Do MS Record:
+('2', ['indirectly_mention', "I feel discouraged about my future###The post indirectly mentions pessimism through the poster's hope for reconciliation and the lack of reciprocation from the friend, indicating a negative outlook on the future of the friendship."])
+Do MS Check Record:
+('2', ['Incorrect', 'Focus on the explicit content of the post and avoid generalizing feelings not directly mentioned by the poster. Look for direct evidence of pessimism regarding their circumstances, not just the future of the friendship.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+Based on the given responses to the questions on the mental scale, the poster does not indicate symptoms of depression. While they may be experiencing some sadness and guilt related to the strained friendship, they do not exhibit significant symptoms across multiple domains of depression.
+
+Correct
+Continue to examine the specific content of the posts and mental scale responses carefully. Ensure to distinguish between transitory emotional states and clinical depression, which involves persistent symptoms across multiple areas affecting daily functioning.

@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  How do you explain depression to someone who just doesn‚Äôt get it or understand it at all?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Not at all true for me###The post directly mentions the feeling of depression and the struggle to explain it to someone who doesn't understand. However, it does not specifically mention thoughts of being better off gone or people being happier without me."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the belief that people in my life would be better off without me or happier without me. It focuses solely on explaining depression to someone who doesn't understand it."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not provide any information or context related to feeling like a burden on society or thinking that one's death would be a relief to others."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information or context related to thinking that one's death would be a relief to others or any indication of feeling this way."])
+('5', ['directly_mention', "Not at all true for me###The post mentions the phrase 'How do you explain depression to someone who just doesn‚Äôt get it or understand it at all?' This indicates that the person is trying to explain depression to someone, implying that they are seeking understanding and validation. Therefore, it can be inferred that the person does not feel that the people in their life wish they could be rid of them."])
+('6', ['directly_mention', "Not at all true for me###The post mentions the phrase 'How do you explain depression to someone who just doesn‚Äôt get it or understand it at all?' This suggests that the person is seeking ways to articulate their experience of depression. Therefore, it can be inferred that they do not believe they make things worse for the people in their life."])
+('7', ['indirectly_mention', 'Somewhat true for me###In my experience with depression, I have found that there are times when other people do care about me, albeit to a limited extent. While it may not be true for everyone, I have come across instances where people have shown care and concern towards me, even during my depressive episodes. Hence, I would say that this statement is somewhat true for me.'])
+('8', ['indirectly_mention', 'Somewhat true for me###During my struggle with depression, I have had moments where I felt a sense of belonging. While it may not always be the case, and the feeling may not persist, there have been instances where I felt a connection with others and a sense of being part of a group. Therefore, I would say that this statement is somewhat true for me.'])
+('9', ['directly_mention', "Not at all true for me###In the post, I mentioned that I have difficulty explaining depression to someone who doesn't understand it. This suggests that I frequently interact with people who may not understand depression, so it is not true that I rarely interact with people who care about me."])
+('10', ['directly_mention', "Not at all true for me###In the post, I mentioned that I struggle to explain depression to someone who doesn't get it. This suggests that I don't have many caring and supportive friends who understand depression, so it is not true that I am fortunate to have many caring and supportive friends."])
+('11', ['directly_mention', 'Very true for me###The post directly mentions feeling disconnected from other people.'])
+('12', ['indirectly_mention', "Somewhat true for me###The post mentions explaining depression to someone who doesn't understand it. This suggests that the person might feel like an outsider in social gatherings, although it is not explicitly stated."])
+('13', ['indirectly_mention', "###The post doesn't directly mention the question, but it does talk about how to explain depression to someone who doesn't understand it. Therefore, it indirectly suggests that the poster may have difficulties in finding people to turn to in times of need and may not feel close to other people."])
+('14', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to feeling close to other people or having people to turn to in times of need."])
+('15', ['indirectly_mention', "Very true for me###While the post doesn't directly mention having satisfying interactions, it does imply the experience of depression. Depression often leads to a lack of satisfaction in daily interactions, thus indicating it would be 'Very true for me' in this case."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The responses to questions 1, 2, 3, 4, 5, 6, 11, 12, 13 indicate feelings of being a burden on others, believing that others would be better off without them, thinking about death as a relief, feeling disconnected from others, and perceiving oneself as an outsider in social gatherings. These responses suggest a risk of thwarted belongingness, which is a perception of being socially disconnected and lacking a sense of belonging.
+

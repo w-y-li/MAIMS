@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  How do I help my granny? She is confined to a chair most of her day. She used to love to do arts and crafts, but now suffers from arthritis. I have considered buying large print mysteries, but not knowing how a story ends makes her nervous. She tends to spend her days in the living room watching House Hunters or reruns of her favorite  good, clean  murders (JAG, Hawaii Five-O, NCIS). She refuses to try new things, or will try only to abandon the idea a few days or weeks later. She claims she doesn't want to sit and rot, but that's what she's doing. Please help with any ideas.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's description of the granny's behavior suggests signs of depression such as lack of interest in activities she used to enjoy, unwillingness to try new things, and feeling stuck in a state of stagnation.
+

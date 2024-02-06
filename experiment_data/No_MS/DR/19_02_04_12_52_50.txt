@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I starve myself When I get depressed, I just can not eat. Everything sounds so gross and eating just seems difficult. I’m a very small person, 5’4 and 100 pounds. It’s something I’m self conscious about but weight gain has always been a struggle for me. I’ll go through periods where I’m doing well and eat 3x a day and manage to put on a few pounds, but then something happens and I slip back into my old ways and the weight falls right back off. Does anyone else do this?  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions that they starve themselves when they get depressed. They also state that eating seems difficult and gross when they are depressed. These experiences are consistent with symptoms of depression.
+
+Correct
+Ensure that in future analyses you continue to base your conclusions on specific information provided in the post without making assumptions that go beyond the given data. Additionally, be cautious not to attribute characteristics or mental health conditions to the poster that have not been explicitly mentioned or can be reasonably inferred from the post.

@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I don‚Äôt know why I am so fucked up but I never feel like I can trust my parents word. My siblings are completely self successful and on their straight path to be coming everything the world wants them to be but me? I‚Äôm stuck in reverse. Sitting at home too anxious or exhausted to even shower or brush my teeth. My parents tell me they love me and they don‚Äôt care how long it takes me to succeed but I don‚Äôt believe them. I want to... but a part of me will always never believe them.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', "Not at all true for me###The post mentions feeling stuck and struggling with anxiety and exhaustion, but does not directly mention whether the people in the poster's life would be better off if they were gone."])
+('2', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling stuck and struggling with anxiety and exhaustion, which might make the poster believe that the people in their life would be happier without them because they are not successful like their siblings.'])
+('3', ['directly_mention', 'Very true for me###The post mentions feeling like a burden and feeling stuck, which suggests that the poster may feel like a burden on society.'])
+('4', ['indirectly_mention', 'Very true for me###The post mentions feeling like a burden and feeling stuck, which suggests that the poster may feel like their death would be a relief to the people in their life.'])
+('5', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling stuck in reverse, anxious, and exhausted, which indicates a negative and self-deprecating view of oneself. This suggests that the poster may also believe they make things worse for the people in their life, hence the indirect mention.'])
+('6', ['indirectly_mention', "Somewhat true for me###The post mentions not feeling like they can trust their parents' word and not believing their parents' reassurance that they love them regardless of their success. This suggests a lack of trust in others, which could lead to thinking that the people in their life wish they could be rid of them."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to other people caring about me or feeling like I belong. It primarily focuses on the poster's feelings of not being able to trust their parents and their own struggles."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling like I belong either. It mainly discusses the lack of trust towards the parents and the poster's personal struggles related to anxiety and low motivation."])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling anxious and exhausted, which are symptoms of anxiety and possibly depression. These conditions often lead to social isolation and reduced interaction with others, hence making it somewhat true for me.'])
+('10', ['indirectly_mention', "Not at all true for me###The post mentions not feeling like they can trust their parents' word and not believing them when they say they love them. This suggests a lack of trust and emotional support, which may extend to other relationships and result in not having many caring and supportive friends."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling stuck and anxious, which suggests a sense of disconnection and being an outsider.'])
+('12', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to feeling disconnected from other people or being an outsider in social gatherings."])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling anxious and exhausted, which suggests that the individual may be in need of support. Additionally, the post expresses a lack of trust towards their parents, indicating a potential difficulty in turning to them in times of need.'])
+('14', ['directly_mention', 'Not at all true for me###The post explicitly states that the individual feels stuck and unable to succeed, while their siblings are on a straight path to success. This suggests a lack of closeness to other people.'])
+('15', ['indirectly_mention', 'Not at all true for me###The post mentions feeling anxious and exhausted, which suggests that the poster may not have satisfying interactions every day.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of being left behind and not being able to succeed, leading to a lack of trust in the support and love from the parents. The poster also mentions feeling anxious and exhausted, and a part of them not believing the parents' words. Additionally, the answered questions from the mental scale indicate a strong sense of feeling like a burden and believing that others would be happier without them. This combination of feelings aligns with the concept of thwarted belongingness, where the poster may perceive a lack of belonging and support from their parents and feel disconnected from others.
+

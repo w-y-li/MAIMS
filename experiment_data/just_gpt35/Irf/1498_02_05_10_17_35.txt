@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I don't understand this, I really don't. It feels like I can't make progress. Some days I feel good (better than usual, at least) and others, like today, just feels like I can't do literally anything. I almost never take naps, and I climbed into bed after doing nothing for hours and took a two hour nap because I didn't want to be awake. Some days I think I am getting better, that I can make better habits and get myself out of this crutch. Then I just get hit like a goddamn bus with all these negative thoughts out of nowhere and I'm back to square one. It's so disheartening, it feels like I'm trying to swim through tar towards some land that is miles and miles away. I know people care about me, but it doesn't feel like it. I know I have friends and people I can call on when I need them, but I feel so alone. Depression is so hard..I hope it does get better eventually...I just need to hang on to that hope..  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness and a lack of support from others, which are signs of thwarted belongingness. The poster also expresses difficulty in making progress and feeling disheartened, which are commonly associated with depression.
+

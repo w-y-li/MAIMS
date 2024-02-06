@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  All my life people asked me why And every answer I gave was a lie You'll feel better by the way you dress Maybe, just maybe I'm just depressed You'll feel better if you sleep well often Maybe I would rather lay down in a coffin You'll feel better if only you'll try I try and try but I still want to die You'll feel better if you see your friends Maybe every beginning looks like an end You'll feel better if you hit the gym Maybe feeling bad is simply a sin You'll feel better if you leave it behind Yet I'm left with nothing, chewing the rind You'll feel better if you let it all go How hard I have tried, nobody knows  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests the presence of perceived burdensomeness as the individual expresses feelings of being a burden to others, wanting to die, and feeling like they have tried everything without any improvement.
+

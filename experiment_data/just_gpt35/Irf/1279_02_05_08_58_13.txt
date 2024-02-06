@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I know its not much but as a student living on his own for the first time and being diagnosed with anxiety and depression (I havent gone out in more than a week) actually getting out of bed to do something feels like an accomplishment as I would normally starve in my bed wondering why I even exist in the first place.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feelings of worthlessness and questioning one's existence, which are indicators of perceived burdensomeness often associated with depression.
+

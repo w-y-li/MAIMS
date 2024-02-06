@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Not sure how I'm supposed to evolve if I can't move forward. I'll study I'll prepare and everytime I'll come short of a positive outcome. Wish they had other ways of evaluating what we are capable of.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses a sense of inadequacy and frustration with not being able to achieve a positive outcome despite studying and preparing. This suggests that the poster may perceive themselves as a burden due to their apparent inability to progress or evolve in their pursuits.
+

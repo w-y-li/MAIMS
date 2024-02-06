@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  A close friend of mine, over the internet, told me that she was sorry. This was out of the blue, because the last time we talked we were really happy. I asked what for, and she said she broke a promise. I didn't understand, but then she said she hurt herself. I asked her why and she said she just did deserve it. I tried my best, but she just ended with  I'm sorry . I attempted to convince her, since I have a history with suicide attempts and depression. She said  I can't promise anything . She wanted to go offline for a while, so I just wanted to let her know how I felt. I told her  I love you.  and she said  I love you too . She isn't single, she's dating my friend, but I have a huge crush on her, and we are really close. It happened 4 hours ago from when I posted this, and I'm extremely concerned what happened.  I love you too  is the last thing she said to me. She hasn't said anything since, and I feel extremely depressed because I may have been unable to stop my closest friend from committing suicide.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and potential disconnection from close relationships. The poster's friend expresses feelings of guilt, self-harm, and a belief that they do not deserve help or support. The poster also shares their own history of suicide attempts and depression, suggesting a deeper sense of emotional distress. These factors suggest a possible risk of thwarted belongingness, a psychological state characterized by a perceived lack of social integration and support.
+

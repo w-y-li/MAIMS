@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I get off of work in three hours. When I get home I think I‚Äôm gonna dip. Woah 21.5 years of life and I‚Äôd never thought I‚Äôd be at this point but I think it‚Äôs my time to go, y‚Äôanno? idk how to start saying goodbye to people without drawing suspicion.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a desire to disconnect from people and hints at an intention to harm oneself, which suggests a potential risk of thwarted belongingness.
+

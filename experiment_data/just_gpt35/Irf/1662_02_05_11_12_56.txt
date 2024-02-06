@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  When someone tells you that  you deserve better than me , can that ever really be genuine? I can't think of any reason why it's not just always a different way of saying  I'm sorry .  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of low self-worth and a belief that the poster is not deserving of love or a healthy relationship. This suggests a potential risk of experiencing thwarted belongingness, meaning a feeling of being inadequate or disconnected in relationships.
+

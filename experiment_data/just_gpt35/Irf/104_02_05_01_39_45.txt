@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  My dad has had a long history of cheating on my mom, every time though he always denies it. I don't understand it, what exactly is he protecting with his pride? Does he not see what's happening to my mom?! Everyday since Christmas, my mom has been on the verge of tears and my dad still either doesn't notice or doesn't care. The problem is that my mom and I are both powerless because my dad has us under his money. I don't know what to do anymore; we still haven't confronted him about it because (1) he'll just deny it and (2) it's his word against ours. My dads family is wealthy and they're all a bunch of fucking elitists and my dads family protects him like he's an angel. My aunt and brother, in the past, instead of going after my dad for his shit, they instead put all the blame on my mother. WHAT THE FUCK IS WRONG WIT PEOPLE?! My mother has been through 2 cancers and survived, had just retired form her stressful office space and now she's being treated like this by some shithead of a father?! Idk what else to do, I just recovered from my depression. I think I might go through with my promise and look for a gun this time around, it seems like a fair escape from all this shit.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and powerlessness in the relationship with the poster's dad, along with feelings of anger, frustration, and hopelessness. The mention of considering self-harm (looking for a gun) suggests a potential risk of thwarted belongingness.
+

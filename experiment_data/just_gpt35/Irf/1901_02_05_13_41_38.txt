@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I always liked beauty. Probably the only thing that kept me from ending it all. But even it wasn't enough, isn't, most of the time. Sometimes the only thing that calms me is to plan how I'm going to do it. It came to a point that every time that I'm suicidal again the only thing stopping me is the complexity of the scene. I still don't have the right things, I can't go to the place, my hair isn't in the right length and etc. I never told anyone about it. I'm living between numbness and intense feelings that hurt too much. I feel like I'm wasting my privileges, I'm wasting my capacities, I don't want to, I don't know what to do. The best phases are when I'm hyper, but I get destructive and it's not ideal. I miss xanax but I'm tired of numbing it down. I'm tired of living like a nun, I'm tired of always having to control myself so much when I feel something. And I ask myself what is going to happen the day I have everything ready. Sometimes I wish it was today. Sometimes I just don't want to think about it. If someone knows a way out of this, I can listen. I'm always listening anyway.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of feeling like a burden and questioning the purpose or value of their existence. The individual expresses feelings of wasting their privileges and capacities, suggesting a belief that they are not living up to their potential and are a burden to others. The mention of planning suicide and the complexity of the scene also implies perceived burdensomeness.
+

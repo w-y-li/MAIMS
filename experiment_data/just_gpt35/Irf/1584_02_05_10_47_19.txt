@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I always have depression, but this is different, I've only experienced this once before two years ago. My heart is pounding, I feel terrified of nothing, everything is bland, im crying and crying and crying. I want to be alone, I actually want to die right now this is unbearable, nothing happened, and nothing incredibly bad is happening to me but I'm just so fucking sad and bored and lonely and terrified.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post illustrates feelings of extreme sadness, loneliness, and a desire to be alone and potentially die. These are indicative of a sense of thwarted belongingness, as the individual feels disconnected from others and experiences a lack of social support.
+

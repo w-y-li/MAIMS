@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Except to use the bathroom. I have no motivation to do anything. I'm on a waiting list to see a therapist so I feel like I'm just waiting for that. I've been double dosing on medication (metrazapine) to help me sleep excessively. Not sure what I want from this post just wanted to vent. Thanks.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of low motivation and excessive reliance on medication. These symptoms may suggest the poster's perception of themselves as a burden to others, as they express a lack of motivation to do anything except go to the bathroom and are waiting for therapy. The excessive medication use to help sleep may also be an attempt to escape or cope with these feelings.
+

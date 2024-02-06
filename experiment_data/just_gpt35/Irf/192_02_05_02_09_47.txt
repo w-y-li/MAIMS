@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Severely depressed and isolated. Wondering when this inner pain and struggle will end? Every appointment I have gone to has resulted in nothing but disappointment. Nobody seems to know how to help me, not even my therapist. Last night I attempted suicide. Could you believe that, on New Years Eve? Every one seems to be positive and upbeat, but I can't. Not when I have been isolated for years. No family, no friends, no life. I want somebody to talk to, because I can't tolerate it anymore. This isolation is making me want to cut myself more. I wish I had the guts to die, but at the same time, I just want to live a normal life. I want to see the light of day. Somebody, please. I am being torn apart.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates the individual's deep isolation and longing for connection with others. They mention having no family or friends and feeling isolated for years. This suggests a lack of belongingness, which can contribute to feelings of depression, despair, and desperation.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My friends keep talking about how they need therapy and I just stand there thinking about how I have tried starving my self and the fresh yeets on my ankle that I made in the basement of the library we meet in with a random pair of scissors I found. No one seems to notice when I'm sad but when the more popular people are sad everyone notices and everyone cares, no one even says anything when I bearly talk and when I do it's just a mumble. People always says that you should talk to people when you feel sad or depressed but who do I talk to when every time I try no one understands. Sorry to bother u I just needed to vent  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a consistent feeling of not being noticed or cared for, and a lack of understanding from others when the poster tries to reach out. This may indicate a risk of thwarted belongingness, which refers to a sense of disconnect and social isolation.
+

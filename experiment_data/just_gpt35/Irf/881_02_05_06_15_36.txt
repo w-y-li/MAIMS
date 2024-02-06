@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Don't think 2018 will be any better for me. I'll still be lonely, will have no one to talk to and afraid to leave my house. No one even knows me except my family. No one in my neighborhood knows me. I spent weeks inside my house. Hate this life üò¢  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows signs of perceived burdensomeness as the poster expresses feelings of loneliness, having no one to talk to, being afraid to leave the house, and feeling that no one knows them except their family. These factors indicate a sense of isolation and lack of social connection, which are commonly associated with perceived burdensomeness.
+

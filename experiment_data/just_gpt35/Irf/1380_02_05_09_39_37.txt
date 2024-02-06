@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I am getting past the point of wanting to hurt myself. I haven't been touched in years. I have so little self esteem that I haven't even tried to find someone to go out with, mainly because I know that I need to be held so badly that I know I would just come across as creepy and needy. Just being diagnosed as having Asperger's doesn't help at all either. I have a very hard time reading emotions and connecting with people in the first place. Maybe I should just kill myself cause I will never find someone that can put up with my difficulties.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of isolation, longing for human connection, and a self-perceived inability to form relationships, which are indicators of thwarted belongingness. The individual expresses thoughts of self-harm and suicide due to their difficulties in connecting with others.
+

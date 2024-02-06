@@ -1,0 +1,142 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Who even cares anymore I’ve just learned to accept my thought and I realise things aren’t gonna get better.I have the same cycle every day just play video games mourn for death wish I had weed and listen to sad songs till the morning life has just become such a boring shit show. Even talking to random people has me fucked up cause i fuck things up tell me guys what’s the point of even living anymore  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "I feel sad much of the time.###The poster stated 'I’ve just learned to accept my thoughts and I realize things aren’t gonna get better. I have the same cycle every day just play video games mourn for death wish I had weed and listen to sad songs till the morning life has just become such a boring shit show.' This indicates a persistent feeling of sadness."])
+('2', ['directly_mention', "I feel I have nothing to look forward to.###The poster mentioned 'I have the same cycle every day just play video games mourn for death wish I had weed and listen to sad songs till the morning life has just become such a boring s**t show.' This suggests a lack of optimism and hope for the future."])
+('3', ['indirectly_mention', "I feel I have failed more than the average person.###The post mentions feeling like a failure indirectly by saying 'Even talking to random people has me fucked up cause i fuck things up'. This suggests a pattern of mistakes and failures in social interactions that the person feels responsible for, indicating a higher level of self-perceived failure."])
+('4', ['indirectly_mention', "I do not enjoy things as much as I used to.###The post describes a cycle of playing video games, mourning death, wishing for weed, and listening to sad songs till the morning. This suggests a lack of pleasure and enjoyment from other activities, indicating a decrease in the person's ability to experience pleasure."])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The poster mentions that they mourn for death, wish they had weed, and listen to sad songs until the morning. These activities suggest that the poster is engaging in behaviors that might elicit guilt or shameful feelings.'])
+('6', ['indirectly_mention', 'I feel I may be punished.###The poster mentions that life has become a boring shit show and that they feel fucked up when talking to random people, implying a sense of discomfort or unease. This could indicate a belief that they are being punished or that life is punishing them in some way.'])
+('7', ['indirectly_mention', 'I dislike myself.###The post mentions feeling bored with life and having a negative outlook, which suggests a possible dislike for oneself.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention self-accusations or blaming oneself."])
+('9', ['directly_mention', 'I have thoughts of killing myself, but I would not carry them out.###The post explicitly mentions having thoughts of killing oneself.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about crying."])
+('11', ['directly_mention', 'I am so restless or agitated that I have to keep moving or doing something.###The post mentions feeling restless and agitated, and describes the need to keep busy by playing video games and listening to sad songs till morning.'])
+('12', ['directly_mention', 'I have lost most of my interest in other people or things.###The post explicitly states that life has become a boring shit show and the individual has lost interest in engaging with others and activities.'])
+('13', ['directly_mention', 'I have greater difficulty in making decisions than I used to.###The post mentions that I find it difficult to make decisions and that I feel fucked up talking to random people. This indicates that I have greater difficulty in making decisions than I used to.'])
+('14', ['directly_mention', 'I feel more worthless as compared to other people.###The post mentions that I mourn for death, wish I had weed, and listen to sad songs till the morning. This indicates that I feel more worthless as compared to other people.'])
+('15', ['directly_mention', "I do not have enough energy to do very much.###The post mentions having a 'loss of energy' and states that life has become a 'boring shit show', indicating a lack of motivation and energy to engage in activities."])
+('16', ['indirectly_mention', "I sleep somewhat less than usual.###The post mentions staying up till morning to listen to sad songs, which suggests a disruption in the sleeping pattern. Although the post doesn't explicitly state a change in sleeping pattern, the behavior of staying awake until morning indicates a disturbance in sleep."])
+('17', ['directly_mention', 'I am more irritable than usual.###The post mentions that talking to random people has the poster fucked up, which suggests that the poster is experiencing increased irritability.'])
+('18', ['directly_mention', 'My appetite is somewhat less than usual.###The post mentions that life has become a boring shit show, which can be an indication that the poster has a decreased appetite.'])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###The poster mentions that they are unable to concentrate and have a hard time keeping their mind on anything for very long.'])
+('20', ['directly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The poster mentions feeling tired and fatigued to the point where they are unable to do most of the things they used to do.'])
+('21', ['directly_mention', 'I have almost no interest in sex.###The post mentions that I have the same cycle every day playing video games and listening to sad songs till the morning. This suggests that I am engaging in activities that are not related to sex, indicating a lack of interest in sex.'])
+Do MS Check Record:
+('1', ['Correct', 'Ensure to maintain objectivity and continue to focus on the explicit content of the social media posts in future analyses to avoid making assumptions.'])
+('2', ['Correct', 'Good job on identifying the tone of hopelessness in the post. In the future, make sure to differentiate between the stated content and your interpretations to avoid over-inference.'])
+('3', ['Correct', "Ensure to maintain objectivity and avoid over-identifying with the post. You've made a logical inference on past failure, but always double-check the evidence."])
+('4', ['Correct', 'Good observation of the underlying emotional state related to loss of pleasure. Remember to explore alternative explanations that could also align with the post.'])
+('5', ['Incorrect', 'Reassess the content without inferring feelings not explicitly mentioned. Focus on the explicit emotions and feelings the poster conveys without adding assumptions.'])
+('6', ['Incorrect', "Avoid interpreting general negative emotions as specific feelings of punishment without clear evidence. Concentrate on the poster's stated experiences, not on inferred consequences."])
+('7', ['Incorrect', 'Revisit the post and examine the expressions of negativity and hopelessness, which can indicate self-dislike. Work on linking these feelings to the mental scale question more explicitly.'])
+('8', ['Incorrect', "Look for implicit cues of self-blame in the post such as 'I fuck things up,' which suggests self-accusations. Answer the question by considering these subtle indications of self-criticism."])
+('9', ['Incorrect', 'While the post does convey a sense of hopelessness, it does not directly mention suicidal thoughts or wishes to die. Your inference may be reasonable, but it goes beyond the information given. Keep analysis closely tied to the content.'])
+('10', ['Correct', 'You correctly noted that the post does not mention crying. Ensure to maintain this level of attention to detail and stick precisely to the information provided in the post.'])
+('11', ['Incorrect', 'Review the post to identify specific behaviors that reflect agitation without assuming feelings not explicitly mentioned. Stick to the evidence provided.'])
+('12', ['Correct', 'Continue to justify your inferences with direct evidence from the post and ensure that your conclusions about loss of interest are clearly linked to the content.'])
+('13', ['Incorrect', 'Reassess the directness of the information provided. Indirectly mentioning feelings does not equate to explicit indecisiveness. Focus on statements directly pertaining to decision-making.'])
+('14', ['Incorrect', "Avoid overgeneralizing based on emotions expressed. Feeling down does not necessarily mean feeling worthless. Contrast the poster's behavior with clinical symptoms of worthlessness."])
+('15', ['Correct', "Ensure to maintain an objective assessment of the information given without inferring details that aren't presented. Continue to practice drawing conclusions based on explicitly mentioned behaviors or states of mind."])
+('16', ['Correct', 'Good recognition of implied behaviors affecting sleep patterns. Be cautious not to overextend conclusions beyond what the behavior suggests; stay within the scope of the post.'])
+('17', ['Incorrect', 'Revisit the post and identify specific phrases that can be linked to signs of irritability; avoid general assumptions.'])
+('18', ['Incorrect', 'Avoid inferring changes in appetite without clear evidence; seek concrete details related to eating habits.'])
+('19', ['Incorrect', 'Cross-reference the specific activities and feelings mentioned in the post with the concept of concentration difficulty. The post does not explicitly state an inability to concentrate; rather, it suggests a lack of motivation or interest. Focus on the exact wording and implied meanings.'])
+('20', ['Correct', 'Although the post does not directly mention tiredness or fatigue, the overall sentiment and expressed behaviors imply a lethargic state that aligns with these feelings. Continue to infer carefully and align these inferences with the expressed emotions and behaviors in the post.'])
+('21', ['Incorrect', 'Do not assume lack of interest in other activities directly indicates lack of interest in sex. The post does not provide enough information about sexual interest, so refrain from inferring this aspect based on unrelated activities.'])
+
+ITER 1
+Do MS Record:
+('5', ['indirectly_mention', 'I feel I am being punished.###The post mentions feeling fucked up and things being fucked up, which can be interpreted as a perception of punishment.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention any guilt feelings explicitly."])
+('7', ['indirectly_mention', 'I dislike myself.###The post mentions feeling bored, having a boring life, and thinking that life has become a shit show. These expressions of negativity and hopelessness can indicate self-dislike, even though it is not explicitly stated in the post.'])
+('8', ['indirectly_mention', "I criticize myself for all of my faults.###The post mentions 'tell me guys what’s the point of even living anymore' and 'even talking to random people has me fucked up cause i fuck things up'. These expressions suggest self-accusations and self-criticism, indicating that the person criticizes themselves for their faults and failures."])
+('9', ['indirectly_mention', 'I feel more restless or wound up than usual.###The post mentions feeling fucked up when talking to random people, which indicates agitation.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not directly mention suicidal thoughts or wishes to die."])
+('13', ['directly_mention', "I feel utterly worthless.###The poster explicitly mentions feeling worthless in the sentence: 'I realise things aren’t gonna get better...life has just become such a boring shit show'."])
+('14', ['indirectly_mention', "I find it more difficult to make decisions than usual.###Although the poster does not explicitly mention difficulties in decision-making, the statement 'Even talking to random people has me fucked up cause i fuck things up' suggests a pattern of self-perceived mistakes and difficulties, which could indicate increased indecisiveness."])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post mentions feeling fucked up and fuck things up when talking to random people, which suggests increased irritability.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions having the same cycle every day, which includes playing video games, mourning for death, wishing for weed, and listening to sad songs. These activities may contribute to a decrease in appetite and feeling less hungry than before.'])
+('19', ['indirectly_mention', 'I find I can not concentrate on anything.###The post mentions that the person has the same cycle every day, playing video games, mourning for death, wishing for weed, and listening to sad songs. These activities suggest a lack of motivation and interest, which may contribute to difficulty concentrating.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not provide enough information to determine any changes in interest in sex. It focuses more on the individual's overall dissatisfaction with life and lack of motivation."])
+Do MS Check Record:
+('5', ['Incorrect', 'Review the post and focus on the expressions of regret and a desire for things to be different, which can imply guilt. Consider the broader emotional context rather than just explicit statements.'])
+('6', ['Incorrect', "Re-evaluate the connection between 'feeling fucked up' and a sense of punishment. The post suggests a cycle of negative behaviors and outcomes that can imply feelings of punishment without directly stating it."])
+('7', ['Correct', 'Continue to pay attention to the emotions and language used in the post to deduce feelings like self-dislike; however, be careful not to infer too much beyond what’s expressed.'])
+('8', ['Correct', 'Maintain your sensitivity to phrases that could indicate self-criticism, but always ensure your interpretations are grounded in the content of the post.'])
+('9', ['Incorrect', "Reflect on the poster's expressions like 'mourn for death' and 'what's the point of even living anymore,' which directly hint at suicidal thoughts or wishes. Ensure that you carefully analyze the emotional content of the post to make more accurate inferences."])
+('11', ['Incorrect', "Review the poster's language indicating a lack of change and a monotonous routine, which aligns more with feelings of hopelessness than agitation. Avoid overgeneralizing from one element of the post and focus on the overall conveyed mood and context when analyzing the content."])
+('13', ['Incorrect', 'Review the post for explicit mentions of indecisiveness rather than inferring feelings of worthlessness, which is covered in the next question. Focus on identifying text that directly relates to an inability to make decisions.'])
+('14', ['Correct', 'Continue to connect implied feelings and behaviors from the post to psychological concepts, as you did with the link between self-perceived mistakes and indecisiveness. Ensure that your inference is grounded in the content of the post.'])
+('17', ['Incorrect', 'Avoid assuming emotions not explicitly mentioned in the post. Focus on the words used and their direct implications without inferring additional feelings like irritability unless clearly stated.'])
+('18', ['Incorrect', 'Be cautious not to draw conclusions about appetite changes from unrelated activities. Stick closely to information provided or directly implied about eating habits, hunger, or food.'])
+('19', ['Incorrect', 'Review the post for implicit details that could signal concentration issues. For example, the repetitive nature of daily activities could be a subtle hint towards an impaired ability to concentrate on different tasks or to pursue a variety of interests.'])
+('21', ['Correct', 'Good judgement on not inferring information that is not present. Continue being cautious in your interpretations and only make inferences when the post gives clear and relevant information.'])
+
+ITER 2
+Do MS Record:
+('5', ['directly_mention', 'I feel guilty all of the time.###The poster mentions that they have the same cycle every day and express feelings of boredom and frustration, suggesting ongoing guilt.'])
+('6', ['indirectly_mention', "I expect to be punished.###The poster mentions feeling fucked up after talking to random people and suggests that they repeatedly 'fuck things up,' which can imply a belief in being punished for their actions."])
+('9', ['directly_mention', "I have thoughts of killing myself, but I would not carry them out.###The post directly mentions having suicidal thoughts and states that there is no point in living anymore. The phrases 'mourn for death' and 'what’s the point of even living anymore' indicate the presence of suicidal thoughts."])
+('11', ['indirectly_mention', 'I am no more restless or wound up than usual.###The post mentions feeling fucked up after talking to random people and expresses frustration about messing things up. While this may suggest agitation, it is not directly stated. However, the overall tone of the post indicates a sense of hopelessness, boredom, and resignation, which is more associated with lack of agitation or restlessness.'])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post mentions having a repetitive cycle every day, playing video games, listening to sad songs, and having a boring life. These repetitive activities and overall negative outlook may contribute to finding it more difficult to make decisions than usual.'])
+('17', ['indirectly_mention', "I am more irritable than usual.###The post mentions feeling fucked up and tells others to tell the poster what's the point of even living anymore. This suggests a state of distress and frustration, which can be associated with increased irritability."])
+('18', ['directly_mention', 'My appetite is much less than before.###The poster mentions that they have the same cycle every day of playing video games, mourning for death, wishing for weed, and listening to sad songs till the morning. This repetitive behavior suggests a lack of interest or pleasure in activities, which could also affect their appetite.'])
+('19', ['directly_mention', 'It is hard to keep my mind on anything for very long.###The poster states that even talking to random people has them messed up, suggesting difficulties in focusing or maintaining attention during conversations. This aligns with the symptom of concentration difficulty.'])
+Do MS Check Record:
+('5', ['Incorrect', 'Review the post and differentiate between expressions of guilt and other emotions. The poster does not explicitly mention feeling guilty, so avoid assuming emotions not clearly indicated.'])
+('6', ['Incorrect', "Avoid over-inference. The poster's expression of messing up interactions does not necessarily imply an expectation of punishment. Focus on what is explicitly stated or strongly implied."])
+('9', ['Correct', 'Ensure that when interpreting posts that mention death or express hopelessness, you consider the context and the explicitness of the language used to infer suicidal thoughts.'])
+('11', ['Incorrect', 'Be cautious not to understate possible signs of agitation. Although the post does not mention restlessness, the expressed frustration could be a sign of agitation. Look for subtler cues and mention them in your interpretation.'])
+('13', ['Correct', 'Ensure that even when the post implicitly suggests a symptom such as indecisiveness, continue to derive your inference directly from the content, and avoid general assumptions that are not supported by the post.'])
+('17', ['Correct', 'Keep linking your interpretations to specific expressions in the post. Be cautious not to assume emotions that are not clearly communicated, but in this case, the connection between expressed distress and irritability is appropriate.'])
+('18', ['Incorrect', 'Do not assume content not mentioned in the post. Analyze what is present, and if appetite is not directly referenced, indicate this. Focus on the expressed feelings and behaviors for clues.'])
+('19', ['Correct', 'Continue to use explicit statements from the post to infer other psychological states, such as the difficulty in maintaining attention during conversations which could be related to concentration difficulties.'])
+
+ITER 3
+Do MS Record:
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention any feelings of guilt explicitly or implicitly."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention any feelings of punishment explicitly or implicitly."])
+('11', ['indirectly_mention', '###The post describes feeling stuck in a monotonous cycle and finding life to be boring. This suggests a lack of motivation and interest, which could be linked to restlessness and agitation. Although the post does not explicitly mention restlessness, the expressed frustration and boredom may indicate a heightened level of restlessness or agitation.'])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention any changes in appetite. It mainly focuses on feelings of frustration, boredom, and a lack of motivation. There is no direct mention or indication of appetite changes in the post."])
+Do MS Check Record:
+('5', ['Incorrect', 'Look for underlying emotional states that could imply feelings of guilt, even if not explicitly stated.'])
+('6', ['Incorrect', 'Consider the context and explore if the expression of hopelessness or self-blame could indicate feelings of punishment.'])
+('11', ['Correct', 'Ensure that you continue to discern the difference between the explicit content of a social media post and the implicit psychological states that can be inferred. Avoid overreaching with assumptions not backed by the content.'])
+('18', ['Correct', 'You accurately noted the absence of information regarding changes in appetite. Keep focusing on the information provided, and avoid making inferences when there is no relevant data in the post.'])
+
+ITER 4
+Do MS Record:
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The poster mentions that they feel fucked up when talking to random people because they fuck things up. This implies a sense of guilt for their actions.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything about punishment feelings."])
+Do MS Check Record:
+('5', ['Incorrect', 'Review the post and focus on the underlying emotions expressed by the poster. The expression of messing up interactions could imply feelings of guilt; however, ensure your interpretation does not infer feelings not directly suggested by the poster.'])
+('6', ['Correct', 'Good job identifying the absence of explicit mention of punishment feelings. Continue to differentiate between what is stated and what is not, avoiding assumptions.'])
+
+ITER 5
+Do MS Record:
+('5', ['indirectly_mention', "I feel guilty most of the time.###The post mentions that talking to random people has the poster 'fucked up' because they 'fuck things up.' This could imply a sense of guilt for ruining interactions."])
+Do MS Check Record:
+('5', ['Incorrect', "Ensure careful analysis of the post's content. There's no explicit mention of guilt; avoid inferring emotions not directly hinted at in the post. Focus on what is shared and consider alternate explanations for actions."])
+
+ITER 6
+Do MS Record:
+('5', ['directly_mention', "I feel guilty a good part of the time###The post explicitly mentions feeling guilty: 'Even talking to random people has me fucked up cause i fuck things up tell me guys what’s the point of even living anymore'."])
+Do MS Check Record:
+('5', ['Incorrect', "Look for explicit expressions of guilt in the post and avoid assumptions. The statement about 'fucking things up' might indicate feelings of incompetence or regret, but it does not directly convey persistent feelings of guilt."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster displays several indicators of depression, including consistent sadness, feelings of pessimism and self-dislike, loss of interest in activities, indecisiveness, low energy levels, changes in sleeping pattern, irritability, difficulty concentrating, and fatigue.
+
+Correct
+The analysis aligns well with the information provided in the social media post and the responses from the mental health scale. Remember to consider each of the scale's questions carefully and avoid making assumptions beyond the data. Further, while it's appropriate to draw connections from symptomatic indicators to hypothesize that a poster may be experiencing depression, refrain from making definitive diagnoses without a professional assessment. Always suggest seeking professional help for a thorough evaluation.

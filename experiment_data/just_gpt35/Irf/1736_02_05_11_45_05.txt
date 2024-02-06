@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I've been pretty down since the new year. It's supposed to be this time to change, and get one's life on track again, but I've basically been sleeping and having vivid nightmares for the past two days and not eating or taking my meds. Obviously, that coupled with severe night sweats can cause some pretty drastic weight loss. I normally weigh 190ish, and now I'm down to 179. I'm afraid that things will get worse in this year, and I'm so alone.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling alone, which is a key indicator of thwarted belongingness.
+

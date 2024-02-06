@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I just don‚Äôt know why I don‚Äôt commit suicide and die Life is full of pain and misery I have done nothing wrong and I have tried so hard but i just cannot find the happiness that I deserve My Lord I ask you for nothing but my happiness  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of pain, misery, and a lack of happiness, indicating a sense of dissatisfaction and a desire for belongingness and happiness. The statement 'I have done nothing wrong' suggests the individual's struggle to understand why they are not experiencing the happiness they feel they deserve. This indicates a potential risk of thwarted belongingness, where they may feel disconnected and unfulfilled in their relationships and social interactions.
+

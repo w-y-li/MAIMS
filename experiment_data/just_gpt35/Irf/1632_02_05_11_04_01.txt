@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  and I can't even do that :( It sits just out of reach. I can't force it to happen. I always feel like this.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of being unable to reach something, which may indicate a sense of isolation or disconnection. This can be an indication of thwarted belongingness, as the person feels a lack of connection or fulfillment in their relationships or social interactions.
+

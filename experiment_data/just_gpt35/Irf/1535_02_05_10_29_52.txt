@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Hey guys, this is my first post in a long time back on reddit because I quit for awhile to try and sort myself out. Well life has hit me really hard again lately, so here I am. I‚Äôm just wondering if any of you can relate to never being excited as a kid? Or like things that were supposed to excite you made you anxious/embarrassed? For instance, I hated going on vacations with my family. I did not find them fun at all. I hated going to amusement parks and field trips because everyone around me would be having so much fun and I just couldn‚Äôt. I rarely got excited on any holiday except a little bit on Christmas because it was the only time of year when everything around me seemed to calm down and people seemed to be genuinely nice to each other. I never thought my birthday was a big deal and never wanted parties, even though I had a good amount of friends. I just feel like this isn‚Äôt normal for a kid and maybe I am actually clinically depressed, BUT I AM NOT LOOKING FOR A DIAGNOSIS.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of enjoyment and excitement in various activities, including vacations, amusement parks, and birthdays. This suggests a potential symptom of depression, which can include a diminished interest or pleasure in activities that were once enjoyable. The individual also mentions feeling anxious and embarrassed in situations that should typically evoke excitement. These experiences may contribute to a sense of perceived burdensomeness, as the individual may feel disconnected or abnormal for not sharing the same level of enjoyment as others.
+

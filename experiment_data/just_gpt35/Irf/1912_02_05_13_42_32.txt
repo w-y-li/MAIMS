@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôve had friends in the past tell me they think I have depression and that I should seek help, but if anything this makes me irritated and want to get help even less. Why is this? Does this happen to anyone else?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a reluctance to seek help for possible depression, despite others suggesting it. This may indicate a feeling of disconnect or lack of belonging, as the individual's reaction suggests they do not value the concern or advice of their friends.
+

@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  No one is gonna read this Nobody likes me and every time I interact on reddit i tend to be a laughstock and receive a bunch of downvotes, because I'm a worthless piece of shit that shouldn't even be breathing. Just wish to be happy but that's impossible, my only purpose is to choke on a fat dick and die because i'm a faggot  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', '###The post expresses a sense of worthlessness and unhappiness, which indirectly suggests feelings of sadness. However, the specific level of sadness cannot be determined from the post alone.'])
+('2', ['indirectly_mention', '###The post expresses a negative outlook on the future, suggesting feelings of discouragement and hopelessness. However, the specific level of pessimism cannot be determined from the post alone.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The post mentions feeling like a laughstock on Reddit and receiving a lot of downvotes, which implies a pattern of failure in social interactions. This suggests that the person may feel that they have failed more than the average person.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post expresses a lack of happiness and the belief that being happy is impossible. This implies a loss of pleasure and a decrease in enjoyment of things the person used to enjoy.'])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to guilt feelings."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to punishment feelings."])
+('7', ['directly_mention', "I dislike myself.###In the post, I explicitly mention that nobody likes me, that I'm a worthless piece of shit, and that I dislike myself."])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual.###Although I don't explicitly state that I am self-accusing, my derogatory language towards myself and feeling like a laughstock on Reddit indicate that I am excessively critical and blaming myself more than usual."])
+('9', ['directly_mention', "I would like to kill myself.###The post explicitly states 'Just wish to be happy but that's impossible, my only purpose is to choke on a fat dick and die because i'm a faggot' which indicates a desire to end their life."])
+('10', ['directly_mention', "I cry all the time now.###The post mentions 'Nobody likes me' and 'worthless piece of shit' which suggests feelings of sadness and despair leading to frequent crying."])
+('11', ['directly_mention', "I am so restless or agitated that I have to keep moving or doing something.###The post mentions feeling restless and agitated, stating that 'every time I interact on reddit i tend to be a laughstock and receive a bunch of downvotes'. This suggests that the person is experiencing heightened agitation."])
+('12', ['directly_mention', "I have lost most of my interest in other people or things.###The post states 'Nobody likes me' and 'every time I interact on reddit i tend to be a laughstock and receive a bunch of downvotes', indicating a loss of interest in social interactions. Additionally, the statement 'Just wish to be happy but that's impossible' suggests a general loss of interest in finding happiness."])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post mentions feeling like a laughstock on Reddit and receiving downvotes, which indicates negative experiences and potentially low self-esteem. These factors can contribute to increased difficulty in making decisions.'])
+('14', ['directly_mention', 'I feel utterly worthless.###The post directly states feeling like a worthless piece of shit and expressing the desire to die. This strongly suggests a feeling of complete worthlessness.'])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post mentions feeling like a worthless piece of shit and wishing to be happy, which suggests a lack of energy and motivation.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the poster's sleeping pattern."])
+('17', ['not_mention', "Doesn't mention at all.###The post does not provide any information or hints related to irritability."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information or hints related to changes in appetite."])
+('19', ['indirectly_mention', 'I find I can not concentrate on anything.###The post mentions feeling like a laughstock and receiving downvotes on Reddit, which could indicate difficulty in concentrating as it suggests a lack of focus and a sense of distraction.'])
+('20', ['indirectly_mention', "I am too tired or fatigued to do a lot of the things I used to do.###The post mentions feeling worthless and wishing for happiness but feeling it's impossible, which could indicate a significant lack of energy and motivation, consistent with increased tiredness or fatigue."])
+('21', ['indirectly_mention', 'I have almost no interest in sex.###The post mentions feeling worthless and wanting to die. These are often signs of depression, which can lead to a decrease in interest in sex.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the questions on the mental scale indicate symptoms of depression, such as sadness, pessimism, past failure, loss of pleasure, guilty feelings, self-dislike, self-accusations, suicidal thoughts or wishes, crying, agitation, loss of interest, indecisiveness, worthlessness, loss of energy, difficulty concentrating, and tiredness or fatigue.
+

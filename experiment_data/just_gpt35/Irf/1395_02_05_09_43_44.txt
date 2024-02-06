@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I hate myself so much and everyone hates me too even my own boyfriend. He doesn‚Äôt say it but I could tell he thinks I‚Äôm terrible and miserable and that he‚Äôs better than me. Why is it so hard to take care of myself? I just want to be dead already so I don‚Äôt have to do eat, exercise, shower... why are these things so god damn hard for me and so easy for everyone else? I‚Äôm such a fucking burden and everyone knows I‚Äôm a stupid piece of shit. Why won‚Äôt god just let me die  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post displays feelings of self-hatred, believing that everyone hates the person, feeling like a burden to others, and expressing a desire to be dead. These are indicative of a perceived burdensomeness, where the person believes they are a burden to others and would be better off dead.
+

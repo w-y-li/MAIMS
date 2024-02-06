@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Hi I don't know what the hell is going on. Today I have woken up becouse of my phone clock. I turn first of them off and went to sleep again. I'm always set few clocks to have 100% chance of woke up. After 3 clocks I turn every single one off. I don't wanna get up. I wanna just lie in my bed for all day but after few minutes i get up. I feel extremely stressed and bad. I don't have any tests today and anything that could stress me so what the hell? Why am I feeling this way? When i'm in school nothing bad I think that would happen happened but I still feel bad. Even through ppl talk to me, nothing bad happen I feel worse and worse. Then I have suicide thoughts. Realy big. Actually I may do this, there are so big if they haven't ended after some time. They and bad mood ended when I have nice conversation with friend about makeing cover of Sepultura song. I suddenly stop feel bad and feel happy for few minutes. The thoughts ended but after I came back to my house, when I'm alone I feel bad again. What the hell is happening to me? Someone on /r/suicidewatch write that I may suffer from depression. What are you thinking about this?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The poster mentions having suicidal thoughts and even considering ending their life, indicating that they do not believe the people in their life would be better off without them.'])
+('2', ['directly_mention', 'Not at all true for me###The poster mentions feeling happy after a conversation with a friend, which implies that they do not believe the people in their life would be happier without them.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything about being a burden on society or thinking one's death would be a relief to others."])
+('4', ['indirectly_mention', 'Somewhat true for me.###Although the post does not directly mention feeling like a burden on society, the poster mentions feeling extremely stressed and bad for no apparent reason. This could indicate a lack of self-worth or feeling like a burden, which aligns with the question.'])
+('5', ['indirectly_mention', "Not at all true for me###I indirectly mention this question in the statement 'When i'm in school nothing bad I think that would happen happened but I still feel bad. Even through ppl talk to me, nothing bad happen I feel worse and worse.' Even though there is no explicit mention of people in my life wishing to be rid of me, the feeling worse and worse despite nothing bad happening suggests that I may have negative thoughts about how others perceive me."])
+('6', ['indirectly_mention', "Not at all true for me###I indirectly mention this question in the statement 'When i'm in school nothing bad I think that would happen happened but I still feel bad. Even through ppl talk to me, nothing bad happen I feel worse and worse.' Similar to the previous question, there is no direct mention of making things worse for the people in my life, but the worsening feelings despite no negative events might suggest some feelings of guilt or self-blame."])
+('7', ['directly_mention', "Somewhat true for me###In the post, I mentioned that people talk to me and there is nothing bad happening, but I still feel worse and worse. This suggests that other people may care about me to some extent, but it doesn't seem to have a significant positive impact on my mood."])
+('8', ['directly_mention', "Not at all true for me###I explicitly mentioned feeling stressed and bad, as well as having suicide thoughts. These indicate that I don't feel like I belong and am experiencing a lack of connection and support."])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling extremely stressed and bad, but does not specify the reason. This may indicate a lack of support or interaction with people who care about the poster.'])
+('10', ['indirectly_mention', 'Not at all true for me###The post does not mention having many caring and supportive friends. The poster expresses feeling bad and having suicidal thoughts when alone, which suggests a lack of support from friends.'])
+('11', ['indirectly_mention', "Somewhat true for me###Although the post doesn't directly mention feeling disconnected from other people or being an outsider in social gatherings, the poster mentions feeling extremely stressed and bad, even though nothing bad happened and people talk to them. This suggests that they may feel disconnected from others and may feel like an outsider in social situations."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling disconnected from other people or being an outsider in social gatherings. No information is provided that can help make a deduction about these feelings."])
+('13', ['indirectly_mention', 'Very true for me###In the post, I mentioned that I had a nice conversation with a friend about making a cover of a song. This made me feel happy for a few minutes and the suicidal thoughts ended. This suggests that having a conversation with someone makes me feel better and I feel that there are people I can turn to in times of need.'])
+('14', ['indirectly_mention', 'Not at all true for me###Throughout the post, I mentioned that even though people talk to me and nothing bad happens, I continue to feel worse and worse. This suggests that I am not close to other people, as their presence or interactions with me do not alleviate my negative feelings.'])
+('15', ['directly_mention', 'Somewhat true for me###The post mentions that the poster had a nice conversation with a friend about making a cover of a song, which made them feel happy for a few minutes. This indicates that they have had at least one satisfying interaction recently.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's response to the questions on the mental scale indicate a high level of thwarted belongingness. They express feelings of being a burden, thinking their death would bring relief to others, and feeling disconnected from other people. These thoughts and emotions suggest a lack of social connection and may be indicative of a risk of thwarted belongingness.
+

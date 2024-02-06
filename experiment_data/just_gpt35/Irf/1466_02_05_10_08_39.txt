@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Now I don‚Äôt wanna be put on a FBI watch list or anything but my depression has been getting so bad Iv been getting more and more angry. Having no one to talk to adds on to this anger so I en up just bottling it up and I feel like just one day I may physically hurt someone. I don‚Äôt want to believe me but I just feel like that it may happen due to just lack of communication with my feelings.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person is experiencing a deep sense of loneliness and isolation, as evidenced by their statement of having no one to talk to. This lack of connection and support can lead to feelings of thwarted belongingness, which is a risk factor for anger and potential harm towards others.
+

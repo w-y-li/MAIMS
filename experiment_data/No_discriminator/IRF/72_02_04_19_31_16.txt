@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Anyone gotten off this drug? I am reading the inter webs and having the crap scared out of me. Been on it about 18 months...  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me.###The post mentions that the person is scared after reading some information about a drug. This fear and concern indicates that the person is not feeling like they would be better off gone or that others would be happier without them.'])
+('2', ['indirectly_mention', 'Not at all true for me.###The post mentions that the person is scared after reading some information about a drug. This fear and concern indicates that the person is not feeling like they would be better off gone or that others would be happier without them.'])
+('3', ['indirectly_mention', 'Not at all true for me###The post mentions being scared after reading about the drug on the internet. This indicates that the person may be worried about the potential negative effects of the drug. However, there is no direct mention of feeling like a burden on society.'])
+('4', ['indirectly_mention', 'Not at all true for me###The post mentions being scared after reading about the drug on the internet. This indicates that the person may be worried about the potential negative effects of the drug. However, there is no direct mention of thinking that their death would be a relief to others.'])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to these questions."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to these questions."])
+('7', ['indirectly_mention', "Somewhat true for me###The post mentions being scared and reading negative information about a drug. These concerns can impact the person's perception of how others care about them, so it is possible that they feel somewhat true for me."])
+('8', ['indirectly_mention', 'Not at all true for me###The post mentions feeling scared and reading negative things about the drug, which might contribute to feelings of not belonging. Thus, it is possible that the person feels not at all true for me.'])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person is scared after reading the interwebs about the drug. This suggests that the individual is feeling worried and may need support from caring friends.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the individual's current level of interaction with caring people, whether positively or negatively."])
+('11', ['indirectly_mention', 'Not at all true for me###The post expresses fear and concern about the effects of a drug, which suggests a level of worry and anxiety. This feeling of fear might lead to a sense of disconnection from other people and feeling like an outsider in social gatherings, but there is no direct mention of these feelings.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention feeling disconnected from other people or feeling like an outsider in social gatherings. It primarily focuses on the fear and concerns about the effects of a drug."])
+('13', ['indirectly_mention', 'Somewhat true for me###The post indicates that the person is scared and looking for information. This suggests that they may feel the need to turn to others for support in this situation, but it is not explicitly stated.'])
+('14', ['indirectly_mention', 'Not at all true for me###The post mentions that the person is scared after reading information about the drug. This could indicate that they are not feeling close to other people at the moment, as they are dealing with this fear alone.'])
+('15', ['indirectly_mention', "Not at all true for me.###Though the post doesn't directly mention having satisfying interactions, the poster expresses fear and concern after reading about the drug on the internet. This suggests that they might be experiencing distress or anxiety, which could negatively impact their daily interactions and make it less likely for them to have satisfying interactions."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of disconnection from others, alienation in social gatherings, and lack of close relationships or satisfying interactions. Additionally, the poster mentioned concerns about being a burden and the possibility of others wishing they could be rid of them. These factors suggest a potential risk of thwarted belongingness.
+

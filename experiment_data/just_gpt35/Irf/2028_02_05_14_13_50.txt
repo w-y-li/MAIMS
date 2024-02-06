@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My psychologist gave me a new med to try and it was amazing. I felt 90% percent back to my happy self when on just my other meds I'm about 50%. Colors seemed to be brighter and I found myself feeling happy most days. Best 6 weeks ever. When she gave it to me she told me to stop taking it if the new med messes with my stomach too much. Well it did, to the point where any pressure on my stomach caused me pain and I would have to just lay down until the upset stomach subsided. I toughed it out for awhile because i felt so good but it just got to be too much so I stopped taking it about a week ago when it started making me vomit. I only have until next Monday until I see her again but everything is just awful. I feel like I'm worse off then before I took it and I don't know how I'm going to make it. Time is just dragging and every day is just awful. I find myself snapping at people and I just wanna cry all the time. It feels like when I wasn't taking anything. I haven't stopped taking my other meds just the new one. I just need a hug ;(  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling worse off than before taking the new medication, snapping at people, wanting to cry all the time, and feeling like they don't know how they're going to make it. These are indicators of a disrupted sense of belonging and social isolation, suggesting risk of thwarted belongingness.
+

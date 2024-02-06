@@ -1,0 +1,72 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I gave up all the weed and alcohol that I was doing last semester, but it was the only thing that helped. I feel like I have no one at all. I ruin everything and every friendship i have. If I don't get on something that takes me away from this dark, dark room that's my head, I cannot last long. This is all too much. Is there anybody out there even reading this? Will anyone care?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like I ruin everything and every friendship I have. This suggests that the people in my life may be better off without me to some extent, so the answer is somewhat true for me.'])
+('2', ['indirectly_mention', "Not at all true for me###The post suggests that I feel isolated and alone, but it doesn't mention anything about the people in my life being happier without me. Therefore, the answer is not at all true for me. "])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like a burden and ruining friendships, which implies that the poster might feel like a burden on society.'])
+('4', ['indirectly_mention', "Not at all true for me###Although the post doesn't directly mention the relief of death, the statement about needing something to take them away from their dark thoughts implies that the poster may not see their death as a relief to others."])
+('5', ['indirectly_mention', 'Very true for me###The post mentions feeling like they ruin everything and every friendship they have. This suggests that the person may believe they make things worse for the people in their life, which aligns with the question.'])
+('6', ['indirectly_mention', 'Very true for me###The post mentions feeling like they have no one at all and that they ruin everything. These feelings suggest that the person may believe that the people in their life wish they could be rid of them, which aligns with the question.'])
+('7', ['indirectly_mention', "Somewhat true for me###The post mentions feeling like they have no one, ruin everything, and every friendship. These statements suggest a lack of support and feeling isolated. The use of substances to escape indicates a need for external coping mechanisms. Although the post doesn't directly address whether other people care about them, the mention of their feelings of loneliness and desperation suggests that they may perceive some level of care from others, even if it is not explicitly stated."])
+('8', ['directly_mention', 'Not at all true for me###The post explicitly states feeling like they have no one and ruin every friendship, indicating a lack of belonging. The mention of being in a dark room and needing something to take them away from their thoughts further suggests a disconnect and lack of belonging. Therefore, it is evident that the person does not feel like they belong.'])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions that the poster feels like they have no one at all and that they ruin everything and every friendship they have. This suggests a lack of support and caring from others, which aligns with the concept of rarely interacting with people who care about them.'])
+('10', ['indirectly_mention', 'Not at all true for me###The post mentions that the poster feels like they have no one at all and that they ruin everything and every friendship they have. This suggests a lack of supportive friends, which aligns with the concept of not having many caring and supportive friends.'])
+('11', ['directly_mention', 'Somewhat true for me###In the post, I mentioned that I feel like I have no one at all and that I ruin everything and every friendship I have. These statements suggest that I feel disconnected from other people, indicating that feeling disconnected is somewhat true for me.'])
+('12', ['directly_mention', 'Very true for me###In the post, I mentioned that I feel like I have no one at all and that I ruin everything and every friendship I have. These statements suggest that I often feel like an outsider in social gatherings, indicating that feeling like an outsider is very true for me.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to feeling supported or having people to turn to in times of need. It mainly focuses on the poster's struggles and feelings of isolation."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding the poster's current closeness to other people. It primarily discusses the poster's feelings of loneliness and despair."])
+('15', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like they have no one at all, and that they ruin everything and every friendship they have. This suggests a lack of satisfying interactions, although it is not explicitly stated in the post.'])
+Do MS Check Record:
+('1', ['Correct', "Make sure to consider the emotional context of the poster when linking their sentiments to the question. You have successfully inferred a connection between the poster's expression of ruining friendships and the perceived impact on others."])
+('2', ['Incorrect', "Carefully analyze the sentiments expressed in the post. While explicit mention of others' happiness is lacking, the feeling of being a burden may imply that others could be happier, which the poster seems to believe. Explore the emotional undertones more deeply."])
+('3', ['Incorrect', "Review the post for explicit sentiments of being a burden and distinguish between personal turmoil and assessing one's impact on society. Avoid assuming that self-reported feelings automatically translate to a broader societal view."])
+('4', ['Incorrect', 'Focus on the language in the post and use that to guide your inference. Only infer about death being a relief if there are clear indicators. Be cautious of reading too deep into statements about seeking escape from mental distress.'])
+('5', ['Correct', 'Continue to appropriately match the sentiments expressed in the post with the mental scale question, ensuring your inference is clearly rooted in the posted content.'])
+('6', ['Correct', 'Good job on correlating emotions expressed in the post to the self-view of the poster, aligning with the mental scale. Maintain focus on the direct implications of the post without over-inferencing.'])
+('7', ['Correct', 'When analyzing social media posts, continue to draw inferences based on explicitly stated feelings and hardships mentioned, while being mindful not to extend beyond what is shared.'])
+('8', ['Correct', 'Continue to use direct statements from the post to answer questions, ensuring the sentiments expressed align with the mental scale responses given.'])
+('9', ['Correct', 'Ensure that you continue to directly reference the post when supporting your interpretation of the mental scale questions.'])
+('10', ['Correct', 'Good job on using the content of the post to inform your response to the mental scale. Keep using evidence from the post to justify your interpretation.'])
+('11', ['Correct', "You have interpreted the sentiments expressed in the post accurately, reflecting the poster's feeling of disconnection from others. Continue to use direct information from posts to inform your responses to mental scale questions."])
+('12', ['Correct', "Good job on recognizing the implied feeling of being an outsider from the post's content. Keep using relevant cues from the post to deduce the poster's feelings in relation to social situations."])
+('13', ['Incorrect', "Examine the language of the post for implied feelings. The poster's expression of having 'no one at all' suggests a perceived lack of support. Use this to infer a likely response related to having people to turn to in times of need."])
+('14', ['Incorrect', "Pay closer attention to the emotional context. The sentiment of 'ruining everything and every friendship' implies a sense of distance from others, which relates to the question regarding closeness to people."])
+('15', ['Correct', 'Continue to evaluate the sentiment expressed in the post to inform your responses; however, ensure that your inferences are supported by the content and tone.'])
+
+ITER 1
+Do MS Record:
+('2', ['directly_mention', 'Somewhat true for me###The poster mentions feeling like a burden and ruining every friendship they have, which implies that they believe people in their life would be happier without them.'])
+('3', ['indirectly_mention', 'Somewhat true for me###The poster mentions feeling like they ruin everything and every friendship they have, which suggests that they may also feel like a burden on society.'])
+('4', ['indirectly_mention', "Somewhat true for me###The post states 'I feel like I have no one at all' which suggests a perceived lack of support, indicating that the person may not feel they have people to turn to in times of need."])
+('13', ['indirectly_mention', "Somewhat true for me###The post implies feelings of distress and darkness in the person's mind. It suggests that they may feel death would be a relief to the people in their life, although it is important to exercise caution in interpreting such statements as they may come from a place of seeking escape and not necessarily a true desire for death."])
+('14', ['indirectly_mention', "Not at all true for me.###The post mentions feeling like the poster has no one and ruins every friendship, which implies a sense of distance from others. This suggests that the statement 'Not at all true for me' is likely the answer to the question about being close to other people."])
+Do MS Check Record:
+('2', ['Correct', 'Ensure to always consider the context of the post and differentiate between direct statements and inferred meanings when answering the questions. Maintain a critical but empathetic approach.'])
+('3', ['Incorrect', 'Be cautious not to overextend inferences about the poster. While the feeling of being a burden can be contextually deduced, there is not enough information to claim it pertains to society as a whole. Focus on explicit evidence in the post.'])
+('4', ['Correct', "Continue to draw inferences carefully from the post content, ensuring they align with the explicit expressions of the individual's feelings."])
+('13', ['Incorrect', "Avoid drawing definitive conclusions about the poster's perceived support systems based on indirect cues. Focus more on the specific language used regarding feelings of isolation and analyze the content for any mention of others who may offer support."])
+('14', ['Correct', 'Good job on grasping the underlying emotional state from the post. However, be cautious not to assume that a lack of current friendships equates to a permanent inability to be close to others. Future responses could benefit from acknowledging any implied transient states of mind.'])
+
+ITER 2
+Do MS Record:
+('3', ['indirectly_mention', 'Somewhat true for me###The poster mentions feeling like they have no one at all and ruin every friendship they have. This suggests a belief that they are a burden on others and society, although it is not explicitly stated.'])
+('13', ['indirectly_mention', 'Not at all true for me###The poster mentions feeling like they have no one at all. This suggests a lack of people they can turn to in times of need, although it is not directly mentioned.'])
+Do MS Check Record:
+('3', ['Correct', 'Make sure to continue to use evidence from the post to support your responses, even when the connections are indirect. Be cautious about assuming information not provided in the post.'])
+('13', ['Correct', "Good job on accurately reflecting the poster's apparent lack of support system based on their post. Keep focusing on the content of the post to inform your answers."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden, thinking that others would be better off without them, and feeling like they make things worse for the people in their life. These thoughts align with the concept of perceived burdensomeness, which is a key feature of risk for suicide.
+
+Correct
+Ensure that each inference is grounded in specific evidence from the social media post and the scale responses. Avoid overstating or inserting information that is not presented. Stay objective and continue to draw connections between the individual's expressed feelings and the scale responses to accurately assess their mental health.

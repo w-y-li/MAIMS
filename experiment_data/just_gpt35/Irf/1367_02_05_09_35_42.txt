@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I am depressed and wanna die my own family puts me down! I am trying to grow my youtube channel and nothing works! What to do? I am losing interest in all my favourite things I just wanna die!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person is feeling overwhelmed and burdensome, as they mention being put down by their own family and feeling like nothing is working with their YouTube channel. They also express losing interest in their favorite things and feeling like they want to die.
+

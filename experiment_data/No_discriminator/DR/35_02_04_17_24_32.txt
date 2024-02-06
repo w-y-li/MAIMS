@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I think about multiple ways of killing myself everyday but I can't bring myself to do it. I'm so done feeling so so alone. I have friends who I can talk to, but I feel like I'm burdening them everytime. I'm pretty much done with my life. my studies are going nowhere, and I have no motivation in life. I thought of running into the road, but I wouldn't want to be that selfish and traumatise some innocent driver. I thought of throwing myself off the building, but I wouldn't want my family to be burdened with that gruesome image.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###The post mentions feeling sad and alone, which indicates a high level of sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post mentions feeling done with life, having no motivation, and studies going nowhere, which suggests a sense of pessimism about the future.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The post mentions that their studies are going nowhere and they have no motivation in life, which suggests a sense of failure.'])
+('4', ['directly_mention', 'I get very little pleasure from the things I used to enjoy.###The post mentions feeling so alone and having no motivation in life, indicating a loss of pleasure.'])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###The post mentions feeling guilty for burdening friends and for potentially traumatizing others, indicating a sense of guilt.'])
+('6', ['directly_mention', "I feel I may be punished.###The post mentions feeling burdened and experiencing negative feelings about one's life situation, which could be interpreted as a sense of punishment."])
+('7', ['directly_mention', "I dislike myself.###The post states 'I'm pretty much done with my life' and 'I feel so so alone', which suggests that the poster has a negative view of themselves. This aligns with the option 'I dislike myself'."])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual.###The post mentions feeling like a burden to friends, thinking about running into the road or throwing themselves off a building. These thoughts and feelings could imply self-critical tendencies, even though the post doesn't directly state it. Thus, the answer aligns with the option 'I am more self-critical or blaming than usual'."])
+('9', ['directly_mention', "I have thoughts of killing myself, but I would not carry them out.###In the post, I mentioned that I think about multiple ways of killing myself everyday. This indicates that I have thoughts of killing myself. However, I also stated that I can't bring myself to do it, suggesting that I would not carry out these thoughts."])
+('10', ['directly_mention', 'I cry all the time now.###I mentioned in the post that I feel so alone and that my studies are going nowhere, which indicates that I am experiencing distress. Furthermore, I stated that I think about killing myself, which suggests that I am in a highly emotional state. In combination, these factors are likely to cause me to cry all the time. Therefore, I cry all the time now.'])
+('11', ['directly_mention', 'I feel more restless or wound up than usual.###The post explicitly states that the person feels restless and agitated, mentioning thoughts of running into the road or throwing themselves off a building.'])
+('12', ['directly_mention', 'I have lost most of my interest in other people or things.###The post explicitly mentions a loss of interest in life and studies and feeling alone, suggesting a loss of interest in other people or activities.'])
+('13', ['directly_mention', 'I make decisions about as well as ever.###The post mentions that the author is indecisive and has difficulty making decisions, indicating a worsening in decision-making ability.'])
+('14', ['directly_mention', 'I feel more worthless as compared to other people.###The post explicitly states that the author feels worthless, particularly in comparison to other people, indicating an increase in feelings of worthlessness.'])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###The post mentions feeling alone, burdened, and having no motivation in life, which are all indicative of a loss of energy.'])
+('16', ['directly_mention', 'I have not experienced any change in my sleeping pattern.###The post does not mention any changes in sleeping pattern, indicating that there has been no change in this aspect.'])
+('17', ['directly_mention', 'I am more irritable than usual.###The post mentions feeling alone, burdening friends, and having no motivation in life, which indicates a higher level of irritability than usual.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions feeling alone, burdening friends, and having no motivation in life. These factors can contribute to a decrease in appetite, although it is not explicitly stated.'])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###The post mentions that the person is unable to concentrate on anything and is feeling like their studies are going nowhere, indicating difficulties in concentration.'])
+('20', ['directly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post mentions feeling tired and fatigued, and also expresses a lack of motivation which suggests a significant decrease in energy levels.'])
+('21', ['indirectly_mention', 'I have lost interest in sex completely.###The post mentions feeling alone, having no motivation, and thoughts of death. These symptoms are consistent with depression, which often includes a loss of interest in sex.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's response to the questions on the mental scale indicates symptoms of depression, such as feelings of sadness, pessimism, loss of pleasure, guilt, self-dislike, thoughts of suicide, crying, loss of interest, and fatigue. These symptoms are consistent with a diagnosis of depression.
+

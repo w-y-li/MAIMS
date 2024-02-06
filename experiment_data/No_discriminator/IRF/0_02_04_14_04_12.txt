@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  [I'm not seeking any medical advice, just want to know if anyone has had similar experiences] I've just started taking Lexapro for moderate depression and anxiety. For the first week I was prescribed 5mg, 10mg thereafter. It's been two days and I have this mild feeling like I'm on ecstasy/MDMA. My body feels light and I have this weird concentration of energy above my neck at the back of my head. Has anyone felt this/experienced this?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the belief that the people in their life would be better off if they were gone."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the belief that the people in their life would be happier without them."])
+('3', ['not_mention', "Doesn't mention at all.###"])
+('4', ['not_mention', "Doesn't mention at all.###"])
+('5', ['indirectly_mention', 'Not at all true for me.###The post mentions that the person has started taking Lexapro for moderate depression and anxiety. This suggests that the person may be experiencing feelings of depression and anxiety, which could lead to thoughts that people in their life wish to be rid of them. However, the post does not directly mention this question, so I can only make an inference based on the information provided.'])
+('6', ['indirectly_mention', 'Not at all true for me.###The post mentions that the person has started taking Lexapro for moderate depression and anxiety. This suggests that the person may be experiencing feelings of depression and anxiety, which could lead to thoughts that they make things worse for the people in their life. However, the post does not directly mention this question, so I can only make an inference based on the information provided.'])
+('7', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person is taking Lexapro for moderate depression and anxiety, which suggests that they may be seeking treatment due to feeling low and experiencing symptoms of depression. This indirectly suggests that other people care about them, as seeking treatment for mental health issues often involves seeking support from others.'])
+('8', ['indirectly_mention', 'Not at all true for me###The post mentions that the person is taking Lexapro for moderate depression and anxiety, which suggests that they may be feeling a sense of disconnection or not feeling like they belong. Seeking treatment for mental health issues often suggests a lack of belonging or feeling disconnected from others.'])
+('9', ['indirectly_mention', "Somewhat true for me###The post mentions taking medication for depression and anxiety, which suggests that the person may have a mental health issue. This could potentially lead to decreased social interactions, as depression and anxiety often impact one's ability to engage with others."])
+('10', ['indirectly_mention', "Not at all true for me###The post does not mention anything about having many caring and supportive friends. Additionally, the focus of the post is on the side effects of the medication, not on the person's social support network."])
+('11', ['indirectly_mention', "Somewhat true for me###The post doesn't directly mention feeling disconnected from other people, but the mention of starting Lexapro for depression and anxiety suggests that the poster may be experiencing some level of disconnection or isolation from others."])
+('12', ['indirectly_mention', "Somewhat true for me###The post doesn't directly mention feeling like an outsider in social gatherings, but the mention of starting Lexapro for depression and anxiety suggests that the poster may feel some level of discomfort or alienation in social situations."])
+('13', ['indirectly_mention', "Somewhat true for me###The post mentions experiencing a weird concentration of energy above their neck at the back of their head, which could indicate a feeling of connection or closeness to other people. However, the level of closeness is not explicitly stated in the post, so I have chosen 'Somewhat true for me' as a moderate level of closeness."])
+('14', ['indirectly_mention', "Somewhat true for me###The post talks about seeking similar experiences and mentions taking medication for depression and anxiety. This suggests that the person may be actively reaching out and seeking support, indicating a moderate level of trust and closeness with others. Therefore, I have chosen 'Somewhat true for me' as the answer."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to having satisfying interactions every day."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show any indication of risk of thwarted belongingness. The individual expresses experiences related to the side effects of medication and seeks to connect with others who may have had similar experiences. There is no indication of feeling disconnected from others or lacking social support.
+

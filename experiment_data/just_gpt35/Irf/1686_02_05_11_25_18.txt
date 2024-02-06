@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Why can‚Äôt I just feel hungry when I‚Äôm hungry and tired when I‚Äôm tired and feel fine the rest of the time? :-/  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of thwarted belongingness. The poster is expressing confusion about their physical sensations of hunger and tiredness, and does not mention anything about feeling disconnected or lacking a sense of belonging.
+

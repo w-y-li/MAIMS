@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I need some sort of support or some shit, I‚Äôve been fucked by depression for years and now I found a lump on my testicle. All my friends blew it off. I‚Äôm scared and mad, I think I‚Äôm just gunna get drunk off my ass. Even thou it could be nothing it still scary  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling supported or cared for, indicating a lack of belongingness and social support.
+

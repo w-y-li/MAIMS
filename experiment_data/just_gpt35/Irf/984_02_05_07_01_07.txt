@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I have been trying to have a baby for the last 4 years and after several miscarriages, and late periods here I am empty handed. There is this huge void in my heart and It has been horrible this past holiday season. I usually can shut out the baby stuff but everyone on social media is having a baby. My heart yearns more everyday and it isn't any closer to happening. Every single month I'm so disappointed in myself and my body. Aunt flo comes without fail...oh would you look at that..  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of isolation and longing for a sense of belonging. The poster mentions a void in their heart, the disappointment in their body, and the constant reminder of others having babies on social media. These feelings of isolation and longing are indicative of thwarted belongingness.
+

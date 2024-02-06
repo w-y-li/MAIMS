@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Me? Getting to know a girl beyond the usual acquaintance. And maybe if i'm brave enough, ask her out. But then again, same goal as last year, and the year before that... Why haven't i already given up?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of continually trying to connect with someone on a deeper level and experiencing repeated disappointment. This persistence despite previous failures may indicate a sense of thwarted belongingness, a risk factor for mental health issues.
+

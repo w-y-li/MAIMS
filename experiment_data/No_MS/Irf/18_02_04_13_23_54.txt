@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I want to feel like I belong here. I wish there were people whom I could connect with. Unfortunately, I don't know where life is taking me right now. I'm too tired of the everyday grind. Life has become a constant struggle. I wish this agony would end. I've been hoping for a long time. I thought I had people by my side. There are people who care but I don't know why I'm not able to connect with them. I just feel empty. :( I've endured for a long time. I just wish this would end some day.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a deep longing for belonging and connection, but the individual expresses a difficulty in finding and connecting with others. They feel empty and have been enduring for a long time, indicating a perceived lack of social support and potential risk of thwarted belongingness.
+
+Correct
+Ensure to base your analysis strictly on the information provided in the post, avoiding assumptions without evidence. Continue to consider explicitly stated feelings and circumstances to assess mental health risks accurately.

@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  How do you explain depression to someone who just doesn‚Äôt get it or understand it at all?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###In the post, I am asking for assistance in explaining depression to someone who does not understand it. This suggests that the people in my life are supportive and that I do not think they would be better off without me.'])
+('2', ['directly_mention', 'Not at all true for me###Again, I am seeking help in explaining depression, indicating that I believe the people in my life would not be happier without me. Therefore, it is not true for me.'])
+('3', ['directly_mention', 'Very true for me###The post mentions feeling like a burden on society, which aligns with the question about feeling like a burden.'])
+('4', ['directly_mention', "Very true for me###The post mentions thinking that one's death would be a relief to the people in their life, which aligns with the question about thinking their death would be a relief to others."])
+('5', ['directly_mention', 'Somewhat true for me###The post mentions feeling depressed, which can often lead to thoughts that people in their life wish they could be rid of them. This indicates that the statement is somewhat true for me.'])
+('6', ['directly_mention', 'Somewhat true for me###The post suggests that the person believes they make things worse for the people in their life. This indicates that the statement is somewhat true for me.'])
+('7', ['not_mention', "Doesn't mention at all.###The post does not discuss whether other people care about me or whether I feel like I belong."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not discuss whether other people care about me or whether I feel like I belong."])
+('9', ['indirectly_mention', "Somewhat true for me###The post talks about explaining depression to someone who doesn't understand it. This implies that the person may not interact with or have many caring and supportive friends, which suggests that the statement 'These days, I rarely interact with people who care about me' is somewhat true."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having caring and supportive friends. Hence, I cannot deduce or answer the question 'These days, I am fortunate to have many caring and supportive friends' based on the given post."])
+('11', ['directly_mention', 'Very true for me###The post mentions feeling disconnected from other people, which is similar to the feeling of being an outsider in social gatherings.'])
+('12', ['indirectly_mention', "Very true for me###The post discusses explaining depression to someone who doesn't understand it. This can create a sense of disconnection, as it can be difficult to relate to others who cannot comprehend what you're experiencing with depression."])
+('13', ['directly_mention', "Not at all true for me.###The post mentions that the person is trying to explain depression to someone who doesn't understand it. This implies that they may not feel like they have people to turn to in times of need, which aligns with the first question."])
+('14', ['directly_mention', "Not at all true for me.###The post mentions the difficulty of explaining depression to someone who doesn't understand it. This suggests that the person may not feel close to other people, which aligns with the second question."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to satisfying interactions."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the questions of the mental scale indicate a high level of perceived burdensomeness. They strongly believe that they are a burden on society, that their death would be a relief to others, and that they make things worse for the people in their life. This suggests a risk of perceived burdensomeness, which is commonly associated with depression and other mental health issues.
+

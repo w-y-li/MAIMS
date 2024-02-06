@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Friendless, depressed, the only thing i had going for myself was that i started sleeping well. Then i found out two days ago i have tinnitus. Tinnitus is a constant buzzing sound in your head that only you can hear. There are no known cures for it, and it lasts forever. I cant be at peace in my own head now. Sleeping is impossible, because the less sound there is, the louder i hear the buzzing. Living is a chore right now. All the emotions i can feel are profound sadness, anger, or complete apathy.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness, depression, and a sense of being burdened by the newly developed tinnitus. The poster expresses difficulty in finding peace, sleeping, and experiencing a range of negative emotions. This suggests a risk of perceived burdensomeness.
+

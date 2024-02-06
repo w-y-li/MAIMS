@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  No one loves me, I have no friends, I'm spending new years alone in my bed. I refuse to take my anti depressants because I'm scared they will make me happy and I don't deserve happiness because i'm an awful person and everyone leaves me.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of loneliness, isolation, and feeling unloved. The poster expresses feelings of not having friends and spending New Year's Eve alone in bed. Additionally, the fear of taking antidepressants and the belief that they might make the poster happy suggests a desire for happiness but a feeling of unworthiness. This overall sense of social disconnection and a negative self-perception aligns with the risk of thwarted belongingness.
+
+Correct
+Great work analyzing the post. Continue to use direct evidence from the post to support your responses to mental health questions. Be cautious not to infer beyond the provided information, and always focus on the poster's statements, not those around them, unless explicitly stated.

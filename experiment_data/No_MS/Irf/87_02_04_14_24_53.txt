@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I‚Äôm frustrated with my life. I have very few friends, and as a 20 year old college student about to turn 21 it‚Äôs driving me crazy to realize that I can‚Äôt celebrate it with anyone. My closest friends are all younger than me, and 2 of the closest are 16 (don‚Äôt worry, I met them through my job, I‚Äôm not a pedophile), so I feel pathetic for being unable to make friends my own age. It‚Äôs just plain creepy. Only thing that keeps people from calling me out is that I look only a year older than them. I‚Äôm gay, in a hyper conservative family, so I can‚Äôt please anyone in it. I live at home, so my life is restricted a lot (due to paying college expenses). My parents frequently remind me of my lack of friends and constantly question if I‚Äôm trying to sleep with every male I talk to, and particularly question my friendship with anyone younger than me. They think that because I‚Äôm gay, I‚Äôm a pedophile. The few friends I had my own age ditched me because they think me being gay is disgusting. I try approaching the LGBT groups on campus but I feel like they‚Äôll ostracize me for other reasons. I feel like I was cheated my teenage years by my restrictive parents, now I‚Äôm lonely and angry at everyone around me for having what I couldn‚Äôt. My siblings are successful, and I feel like the dissappointment and failure of the family. I have much more anger but these are the ones that keep popping up today, and I just wanted to vent about it somewhere.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+While the post does express feelings of isolation, anger, and frustration, these emotions do not necessarily equate to the individual perceiving themselves as a burden to others. The poster is mainly conveying a sense of personal dissatisfaction and disappointment in their current social situation and familial relationships, rather than explicitly stating that they believe they are a burden to others. The individual's concerns seem to be more focused on the lack of understanding and acceptance they are experiencing, rather than an internalized view of themselves as being a weight on their friends or family. It's important to differentiate between feelings of loneliness and the specific psychological state of perceived burdensomeness, which involves a belief that one's existence is a burden to others. The post does not clearly indicate such a belief.
+
+Correct
+Ensure future analyses are grounded in concrete information from posts without over-interpreting. Remain objective and avoid projecting additional negative characteristics onto posters without explicit evidence. For posts about others, always distinguish between the mental health of the poster and the people mentioned in the post to avoid confusion. Continue to cite specific examples from the text to support your conclusions as done here.

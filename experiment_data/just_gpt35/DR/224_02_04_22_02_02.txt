@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Has your mental illness ever resulted in failing a course or degree? How do you get over that? I may very well be failing my graduate degree right now. It is a one year Master's program and there is no time to be failing a course without failing the whole damn thing. I can't even type how devastating and embarrassed I am. Not to mention throwing away literally tens of thousands of dollars that I will have to pay back, some that my parents invested in me and supported me with. I want to crumble. I think being awake hurts. My hair hurts.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's feelings of devastation, embarrassment, physical pain, and thoughts of wanting to crumble indicate depressive symptoms and suggest that they may be suffering from depression.
+

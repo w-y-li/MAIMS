@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I told my parents I loved them and that I was sorry. I told them its not their fault Im just tired of waking up and feeling like I‚Äôm in fight or flight every day all day. I told my girlfriend she should move on and find someone better who actually deserves her love. I told my friends thank you for being there sometimes but Im done fighting. I‚Äôve lost the battle. Tomorrow is my last sunrise. Tomorrow night I‚Äôm out of here. Good bye all.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person is feeling disconnected from their loved ones ('I told my parents...', 'I told my girlfriend...'). They express a strong desire for their loved ones to move on and find someone better and state that they are 'done fighting' and have 'lost the battle'. These experiences suggest a potential risk of thwarted belongingness, as the person may feel like they don't belong or fit in with their social support network, leading to feelings of isolation and despair.
+

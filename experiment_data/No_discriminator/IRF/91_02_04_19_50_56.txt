@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I just don‚Äôt know why I don‚Äôt commit suicide and die Life is full of pain and misery I have done nothing wrong and I have tried so hard but i just cannot find the happiness that I deserve My Lord I ask you for nothing but my happiness  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The post suggests that the person is feeling unhappy and believes that they deserve happiness. However, there is no indication that they believe others would be better off without them.'])
+('2', ['directly_mention', "Not at all true for me###The post states that the person believes their Lord for their happiness but does not mention anything about others being happier without them. Hence, it can be concluded that the answer is 'Not at all true for me'."])
+('3', ['indirectly_mention', 'Not at all true for me###The post talks about not finding happiness, which implies that the person might not feel like a burden on society.'])
+('4', ['indirectly_mention', "Not at all true for me###The post mentions nothing about the reactions of the people in their life to their own death. It only focuses on the individual's own search for happiness."])
+('5', ['indirectly_mention', "Somewhat true for me###The post mentions feelings of pain, misery, and not finding happiness which suggests that the person may feel like they are a burden to others and make things worse for the people in their life. However, the explicit statement is not made in the post, hence it's an indirect mention."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not indicate anything about people in their life wishing to be rid of them. It primarily focuses on the individual's own pain and lack of happiness."])
+('7', ['indirectly_mention', 'Somewhat true for me###The post mentions that life is full of pain and misery, and the poster has tried hard but cannot find happiness. This suggests that the person may feel lonely and isolated, which could indicate that others do not care much about them. However, it is not explicitly stated whether other people care or not.'])
+('8', ['indirectly_mention', "Not at all true for me###The post expresses a feeling of not finding belonging and happiness in life. This implies that the person may not feel like they belong, indicating that the statement is 'Not at all true for me.' However, it is not directly stated whether the person feels like they belong or not."])
+('9', ['directly_mention', 'Not at all true for me###The post mentions that the person has tried so hard but cannot find happiness. This suggests that the person may not have interacted with people who care about them, implying that they rarely interact with people who care about them.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding whether the person has many caring and supportive friends or not."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling disconnected from other people and not finding happiness, which suggests a sense of isolation. Therefore, it indirectly suggests that feeling disconnected from other people is somewhat true for me.'])
+('12', ['indirectly_mention', 'Very true for me###The post mentions feeling like an outsider in social gatherings and not finding happiness, which implies a lack of belongingness. Therefore, it indirectly suggests that feeling like an outsider in social gatherings is very true for me.'])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling pain and misery, and wanting happiness. These indicate that the person is in need of support and connection with others. Although it is not directly stated that there are people they can turn to, it can be inferred from their plea for help.'])
+('14', ['indirectly_mention', 'Not at all true for me###The post expresses a sense of isolation and a lack of closeness to other people. The person feels that they are not finding the happiness they deserve, which may suggest a absence of emotional support or connection with others.'])
+('15', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything about having satisfying interactions every day."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows consistent patterns indicating a risk of perceived burdensomeness, as the person expresses feelings of being a burden, making things worse for others, and feeling like an outsider in social gatherings.
+

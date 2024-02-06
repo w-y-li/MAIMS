@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Hi friends, me and another friend are looking for more friends to add to our small circle, requirements include a sense of humor, no filter, and tolerance to offensive topics and subjects, and lastly the ability to DEBATE and push your point stubbornly even if you’re wrong  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not provide enough information to conclude whether the poster is suffering from depression. The content of the post focuses on looking for friends with specific qualities and preferences in humor and conversation style, rather than expressing any depressive symptoms or feelings.
+

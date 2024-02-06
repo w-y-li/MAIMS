@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  It sucks because a flaw about your personality can easily be fixed and I doubt it has a strong impact. Being reminded constantly of body flaws is the worse in my opinion because that can just ruin someone completely. It just hits you in the heart because that's what everyone views you as. What sucks even more is that, you can be confident in your own skin and as soon as someone points out a flaw, that thought stays with you forever and will never escape your mind. All these insecurities build up and it's just horrible.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate any explicit mention of feelings of social isolation or disconnection from others, which are key indicators of thwarted belongingness.
+

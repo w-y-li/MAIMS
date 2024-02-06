@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Like the title says, I often times feel like I'm just a side character in the lives of those around me (19 M in college). It sucks. I was diagnosed with MDD about 2 months ago after struggling to convince myself I needed help for about 2 years, and it just kind of feels like despite trying to be more present in the lives of those around me I end up hurt and ignored no matter what I try. For example, I have tried to get into the habit of asking my roommates what they've been up to recently, how their day is going, if they want to get food, etc., and it just kinda feels like they don't have the time or motivation to reciprocate. When I try and share something from my life, I just feel like they shrug me off or ignore me completely. Every day feels like I am growing apart from those around me and needless to say it's not fun. I am introverted by nature, so socializing can often be exhausting, so I guess it's just even more insulting when those around me blow me off despite the colossal effort it can take to even say hello.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of feeling ignored and growing apart from those around them despite their efforts to be more present in their lives. This suggests a potential risk of thwarted belongingness, which is a key factor in mental health problems like depression and social isolation.
+

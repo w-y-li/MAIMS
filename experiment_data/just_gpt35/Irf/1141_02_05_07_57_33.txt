@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I‚Äôm fake , the person everyone knows is actually just an act . I‚Äôm that guy all of you know but don‚Äôt really know . I‚Äôm that guy that makes the whole room laugh . I‚Äôm that guy that is always there to help someone . I‚Äôm that guy that no matter how much pain it‚Äôs caused me I will forgive someone. But the truth is nobody knows who I really am , I don‚Äôt even know who I really am . I spend so much time being the fake me that I have lost me . But do any of us really know who we are ? I just want to be free . Behind my smile is pain and hatred , every laugh is a distraction. Like every good show it has a beginning and an end and I don‚Äôt know when it began or how it will end . Like everyone else I‚Äôm just an audience member watching .  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the person is constantly putting on a façade and feeling like they have lost their true self. This can indicate a significant burden of constantly having to maintain this fake persona, which is a risk factor for perceived burdensomeness.
+

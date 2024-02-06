@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  For years leading up to this point, I had been eating healthy, exercising, I had friends and was doing well in my life, had no major health problems. I almost never get sick (even now). I'm comically healthy. All my vitamin levels are good. At the start of this crisis, my doctor raved about my amazing cholesterol numbers, thyroid was good etc. etc. So, It doesn't correlate to events in my life, or to my  actual  feelings, or to my physical health. So why did I get cripplingly depressed all of a sudden? The brief period where I was exposed to just a little too much lead as a kid? When I fell on my head and got a crack in my skull at age 2? My parents don't eat that healthy and I didn't start eating right until my teens. I have psoriasis so technically I have an inflammatory disease. Is it one of these things?? What went wrong for me to be otherwise so successful, but suddenly want to die? Why does no one know what causes depression??????? For those with inexplicable depression, what's your favorite theory?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of perceived burdensomeness. The poster is questioning the cause of their sudden depression and seeking theories or explanations for it but does not mention feelings of being a burden to others.
+

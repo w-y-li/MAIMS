@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  i'm worthless and nothing to anyone. i'm going to kill myself people have ruined everything in my life for me  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness and being a burden to others, which are consistent with perceived burdensomeness. Additionally, the mention of suicidal ideation further emphasizes the presence of perceived burdensomeness.
+

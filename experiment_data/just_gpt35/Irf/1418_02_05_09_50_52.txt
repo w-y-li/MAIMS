@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  And I really want to help him somehow but I just don't know how. I don't understand how he feels to be honest, since we are just so different I guess, but I try. What should I do? We don't live in the same city, so I'm taking a day off from college and going home this weekend. Is it a good idea to take origami paper to fold origami or play chess or something similar? He doesn't know any of those, so I thought maybe a new activity might help. What do you think?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the poster is feeling a lack of understanding and connection with someone important to them. They express a desire to help but feel unsure of how to do so, indicating a potential risk of thwarted belongingness.
+

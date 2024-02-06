@@ -1,0 +1,28 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Tomorrow is my 35th birthday. So tomorrow is my 35th birthday. I really thought I would have a family, have a husband or wife and just be happy having this awesome life. Nope. At 35, I am miserably in debt, unhappy, no family and I'm very far from all of my friends. So, yay I guess.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of unhappiness, loneliness, and being in debt which are common symptoms of depression.
+
+Incorrect
+Avoid making definitive diagnoses based on a single social media post. The poster does show signs of distress, but diagnosing depression requires a thorough assessment by a professional. Instead, consider discussing the signs and suggesting the poster may benefit from seeking a professional evaluation.
+
+ITER 1
+Yes
+The poster expresses feelings of unhappiness, loneliness, and being in debt. The mention of not having a family or being far from friends suggests a lack of social support. These symptoms align with the criteria for depression, but a definitive diagnosis cannot be made based on this single post.
+
+Incorrect
+Avoid making definitive conclusions about mental health without thorough assessment. Expressing feelings of unhappiness or loneliness in one post does not suffice for a depression diagnosis. Consider the limitations of a single social media post and refrain from over-inference. Look for consistent patterns over time or additional information before suggesting a mental health condition.
+
+ITER 2
+No
+Expressing feelings of unhappiness or loneliness in one post does not suffice for a depression diagnosis. Additional information is needed.
+
+Correct
+While you have made a correct assessment in this case, it's important to continue to avoid over-inferencing from limited information and to distinguish between the feelings of the individual posting and those around them. Ensure any conclusions about mental health are based on consistent, substantial evidence.

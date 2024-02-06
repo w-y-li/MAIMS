@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Ive been after a girl for awhile and she just hugged my best friend at work. A pretty romantic hug. I just blew it off and went back to work. Well actually, I went out and had a panic attack in my truck and smashed my phone. Then i punched my door and fucked up my hand. Thats when i went inside and got back to work. It was hell watching them flirt all night, and not saying anything because i was choked up. I think im gonna stop chasing her. Im just gonna stay single, and sad. Its a hard feeling cause i hate my friend right now, but i couldnt live without him. I wish i could just be happy for him.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a sense of perceived burdensomeness as the individual feels torn between hating their friend and needing them, and also expresses a desire to stay single and sad. The mention of a panic attack and self-destructive behaviors further indicate a significant emotional distress and a potential risk of feeling like a burden to others.
+

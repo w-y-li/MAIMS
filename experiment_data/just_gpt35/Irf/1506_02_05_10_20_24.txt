@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Another day the same shit. Just because you celebrated yesterday it doesn't mean anything. You will still have the same problems, amount of friends, salary and so on. You just basically got drunk and you think it will make it better based on that? NO.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and dissatisfaction with social interactions and relationships, indicating a risk of thwarted belongingness.
+

@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Just like the title says, I have no good ways of doing the deed. Want to keep it non-gory for my kids sake. Consumed 90% of my waking days thinking about it. At my wits end with my wife even though we have a pretty decent relationship by most people's standards. Hell, we are the couple all our friends wish to be. Yet I have no desire to stay on this earth and continue to be unhappy with myself and my place, my purpose, and feelings of never being good enough for anyone or anything despite the constant praise and nut sucking of how smart I am and how much potential I have. Well if that was all true I'd never have been abused as a kid, treated like I have been as an adult, and maybe my life would be in a positive place. It's not so obviously all that other bullshit isn't true. Fuck it. I'm so done.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Very true for me###The post directly states that the poster has no desire to stay on this earth and expresses feelings of never being good enough for anyone or anything. This suggests that the people in their life would be better off without them.'])
+('2', ['directly_mention', 'Not at all true for me###The post directly states that the poster has a decent relationship with their wife and that they are the couple all their friends wish to be. This suggests that the people in their life would not be happier without them.'])
+('3', ['directly_mention', "Very true for me###The post says 'Yet I have no desire to stay on this earth and continue to be unhappy with myself and my place, my purpose, and feelings of never being good enough for anyone or anything despite the constant praise and nut sucking of how smart I am and how much potential I have.' This indicates that I think I am a burden on society."])
+('4', ['directly_mention', "Very true for me###The post states 'Well if that was all true I'd never have been abused as a kid, treated like I have been as an adult, and maybe my life would be in a positive place. It's not so obviously all that other bullshit isn't true.' This implies that I think my death would be a relief to the people in my life."])
+('5', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to other people's perception of me."])
+('6', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything about how I perceive myself in relation to others."])
+('7', ['directly_mention', 'Not at all true for me.###The post clearly states that the person feels that they are not good enough for anyone or anything despite constant praise and recognition. This suggests that they do not feel cared for by others.'])
+('8', ['indirectly_mention', "Not at all true for me.###Although the post doesn't explicitly mention feeling like they belong, the person expresses feelings of unhappiness, dissatisfaction with their place and purpose in life. These feelings often indicate a lack of belonging and connection to one's environment."])
+('9', ['directly_mention', "Somewhat true for me###The post states, 'I have no desire to stay on this earth and continue to be unhappy with myself and my place, my purpose, and feelings of never being good enough for anyone or anything.' This suggests a lack of support and care from others."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to having caring and supportive friends."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling unhappy with myself and my place, my purpose, and feelings of never being good enough for anyone or anything, which can contribute to feeling disconnected from other people.'])
+('12', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling unhappy with myself and my place, my purpose, and feelings of never being good enough for anyone or anything, which can make someone feel like an outsider in social gatherings.'])
+('13', ['directly_mention', "Not at all true for me###The post explicitly states that the individual has no desire to stay on this earth and doesn't feel good enough for anyone or anything. This implies a lack of support and people to turn to in times of need."])
+('14', ['directly_mention', 'Not at all true for me###The post mentions feeling unhappy with oneself and feeling like they are not good enough for anyone or anything. This suggests a lack of closeness to other people.'])
+('15', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling unhappy with myself and my place in life. This suggests that I may not be having satisfying interactions on a daily basis, but it does not directly state it.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a high level of perceived burdensomeness, as indicated by the strong agreement with statements such as feeling like a burden on society, believing that others would be better off without the poster, and thinking that their death would be a relief to others.
+

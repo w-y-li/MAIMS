@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I can't look at myself. I'm revolting in the inside and the outside, the more I look at myself the more I want to tear my face off, I deserve to die like the horrid monster I am. That's what goes through my mind every day all day  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of self-hatred, disgust, and a desire to die. These thoughts suggest a lack of belongingness and feeling disconnected from others, which can be indicative of thwarted belongingness.
+

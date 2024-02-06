@@ -1,0 +1,138 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  is there a comfort in sadness? my therapist, my psychiatrist, and my parents all say i’m “so much better” than i used to be. and i am. i know that. i don’t even think about suicide anymore and i haven’t self harmed in a few years. but my brain is still fucked up and it always will be. i can live with that. but not when all these people around me are telling me how happy i am. just because i’m better than i was a few years ago doesn’t mean i’m good. i’m better by comparison. but that’s it. and i hate being told how “great” i’m doing. but then i think maybe i’m just overreacting to the word “happy” because i’m more comfortable being sad. i’ve been sad for so long that there’s a certain comfort in it. sad is familiar. happy is unknown and risky. can anyone relate to this or am i alone?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time###The poster mentions being sad for a long time and finding comfort in sadness, suggesting that they feel sad frequently.'])
+('2', ['indirectly_mention', 'I feel I have nothing to look forward to###The poster expresses feeling that they are not good and that they are better only in comparison to their past self. This suggests a pessimistic outlook about their future.'])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The poster mentions that their brain is still messed up and always will be, which indicates a perception of personal failure compared to others.'])
+('4', ['directly_mention', 'I do not enjoy things as much as I used to.###The poster mentions that there is comfort in sadness and suggests that happiness is unknown and risky, implying a decrease in pleasure from previously enjoyable things.'])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The post mentions feeling better now compared to before, and acknowledges that the brain is still messed up. This suggests a lingering sense of guilt, as the person acknowledges their improvement but still feels like something is wrong with them.'])
+('6', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to punishment feelings. There is no mention of feeling punished or expecting to be punished."])
+('7', ['indirectly_mention', "I dislike myself.###The post mentions that the poster's brain is still 'fucked up' and will always be. This negative self-perception suggests a dislike towards oneself."])
+('8', ['directly_mention', "I am more self-critical or blaming than usual.###The post mentions that the poster hates being told how 'great' they're doing. This implies that they are criticizing themselves and being self-critical."])
+('9', ['directly_mention', "I do not have any thoughts of killing myself.###I mentioned in the post that I don't even think about suicide anymore."])
+('10', ['directly_mention', "I do not cry any more than usual.###I didn't mention any increase in crying, so I still cry the same amount as before."])
+('11', ['indirectly_mention', "I am so restless or agitated that I have to keep moving or doing something.###The poster mentions that their brain is still 'fucked up' and that they hate being told how 'great' they are doing. This suggests a sense of discomfort or restlessness despite the improvement in their mental health. Additionally, the poster expresses that they are more comfortable being sad, which may indicate a restlessness or agitation when experiencing happiness or positive emotions."])
+('12', ['indirectly_mention', "I have lost most of my interest in other people or things.###The poster mentions that they don't think about suicide anymore and haven't self-harmed in a few years. This suggests a significant change in their level of interest in life and possibly a loss of interest in engaging with others or activities. They also express feeling that 'sad is familiar' and that there is comfort in sadness, indicating a potential loss of interest in seeking happiness or positive experiences."])
+('13', ['directly_mention', 'I have greater difficulty in making decisions than I used to.###In the post, I mentioned that my brain is still messed up and it always will be. This suggests that I still struggle with some cognitive processes, such as decision-making.'])
+('14', ['indirectly_mention', 'I do not feel I am worthless.###Although the post does not directly mention worthlessness, it implies that I am no longer considering suicide and have not self-harmed in years. This indicates that I may have a better sense of self-worth compared to before.'])
+('15', ['directly_mention', 'I have less energy than I used to have.###In the post, I mentioned that my brain is still messed up, indicating that I may still be experiencing some symptoms of depression which commonly include loss of energy.'])
+('16', ['indirectly_mention', "I sleep somewhat less than usual.###The post implies that the person is experiencing some discomfort and unease, which may result in changes in their sleeping pattern. Although it doesn't explicitly state that they are experiencing changes in their sleeping pattern, it is reasonable to assume that they are sleeping less than usual based on their overall emotional state."])
+('17', ['indirectly_mention', "I am no more irritable than usual.###Although I mention that my brain is still messed up and always will be, I did not specifically mention irritability. However, based on my statement that I am better than I used to be and that I don't think about suicide or self-harm anymore, it implies that my irritability may not have increased."])
+('18', ['indirectly_mention', "My appetite is somewhat less than usual.###While I didn't explicitly mention changes in appetite, I did state that I am better than before, which implies some improvement. Considering my previous struggles with mental health, it is possible that my appetite is somewhat less than usual as a result of this improvement."])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###In the post, I mentioned that my brain is still messed up. This suggests that I have difficulty concentrating and it is hard for me to keep my mind on anything for very long.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###I mentioned that I am better than I was a few years ago, but not necessarily good. This implies that I still experience tiredness or fatigue that prevents me from doing most of the things I used to do.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to sex or changes in interest in sex."])
+Do MS Check Record:
+('1', ['Correct', 'Continue to use direct quotes and clear indications from the post to support your interpretations.'])
+('2', ['Correct', "Be cautious of inferring too much but maintain the use of context to guide your understanding of the poster's outlook."])
+('3', ['Correct', "Ensure to maintain a balance between the post's content and inferences that can be logically drawn. Good job at identifying a sense of personal failure from the poster's reflection on their mental state, which suggests a comparison to others."])
+('4', ['Correct', "Carefully analyze the emotional implications within the post. The poster's identification with sadness over happiness can imply a loss of pleasure, but remember to avoid over-interpreting beyond what the post suggests."])
+('5', ['Incorrect', "Review the original post for any indirect expressions of guilt, such as disappointment in oneself or a dissonance between others' perceptions and one's own feelings. Avoid assuming guilt when it is not explicitly mentioned."])
+('6', ['Correct', 'Continue to carefully analyze the post content and refrain from inferring emotions or feelings that are not explicitly stated or strongly implied by the context.'])
+('7', ['Correct', 'Ensure to continue analyzing the implications of the statements, especially when they provide insight into the self-perception of the poster.'])
+('8', ['Incorrect', 'Avoid conflating self-criticism with self-accusation, and look for explicit evidence in the post before concluding that the poster is accusing themselves of something.'])
+('9', ['Correct', 'Continue to analyze the content directly mentioned in the post to answer the questions accurately without making assumptions that extend beyond the given information.'])
+('10', ['Incorrect', 'Reassess the post for any emotional indicators such as crying that could be linked to the individual’s current mental state and answer based on the provided information without assuming details that were not explicitly stated.'])
+('11', ['Incorrect', "Review the post for explicit evidence of agitation. The inability to remain still due to restlessness is different from discomfort with being labeled 'happy.' Avoid assuming agitation without clear markers."])
+('12', ['Incorrect', "Focus on explicit mentions of interest. Improvement in mental state doesn't equate to a loss of interest. Avoid conflating comfort in sadness with a loss of interest in people or things."])
+('13', ['Incorrect', "Reflect on the poster's acknowledgment of their progress and consider how this self-awareness might impact their decisiveness. Avoid assuming deterioration in cognitive abilities without clear evidence."])
+('14', ['Correct', 'Continue to interpret the subtext of the posts, recognizing where self-worth has improved. Be cautious not to infer positive self-esteem broadly without clear support from the post content.'])
+('15', ['Incorrect', "Avoid assuming symptoms not explicitly mentioned in the post. Focus on information provided without overgeneralizing from 'my brain is still messed up.'"])
+('16', ['Incorrect', 'Do not infer details like sleeping patterns without direct evidence from the post. Maintain objectivity and avoid assuming.'])
+('17', ['Incorrect', 'Review the original post for direct or indirect mentions of the trait in question without inferring traits not presented. Avoid assuming characteristics such as irritability are unchanged without evidence.'])
+('18', ['Incorrect', 'Focus on the information given. Do not imply changes in appetite without specific indicators; the post does not provide sufficient evidence for this deduction.'])
+('19', ['Incorrect', "Review the original post for direct statements or clear implications about concentration difficulties. Avoid assuming symptoms that weren't explicitly mentioned or strongly implied."])
+('20', ['Incorrect', 'Consider the evidence provided in the post for feeling tired or fatigued. There is no mention of reduced energy levels or an inability to do things. Do not infer beyond the available information.'])
+('21', ['Correct', 'Great attention to detail. Continue to focus on the explicit content of the post for specific issues. Remember to stay objective and avoid making assumptions beyond the given information.'])
+
+ITER 1
+Do MS Record:
+('5', ['indirectly_mention', 'I feel guilty a good part of the time###The poster mentions that their brain is still fucked up and always will be, which implies that they feel responsible and guilty for their own mental state.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual###The poster expresses frustration at being told how happy they are, indicating that they are critical of themselves and may blame themselves for not being completely happy despite improvements.'])
+('10', ['indirectly_mention', "I cry more than I used to.###The post mentions feelings of sadness and discomfort with being labeled as 'happy.' This suggests that the individual may still experience emotional distress, which could potentially manifest as increased crying compared to before."])
+('11', ['not_mention', "Doesn't mention at all.###The post doesn't provide any explicit information related to restlessness or agitation. It primarily focuses on the individual's feelings of sadness, discomfort with being labeled as 'happy,' and the familiarity and comfort found in sadness."])
+('12', ['directly_mention', 'I am less interested in other people or things than before.###The poster explicitly mentions that they are not as happy or good as others perceive them to be, indicating a decreased interest in life compared to their previous state.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to indecisiveness. The focus is mainly on the poster's perception of their happiness and comfort in sadness."])
+('15', ['directly_mention', 'I do not have enough energy to do anything.###The poster mentions that their brain is still messed up and they can live with that, which indicates a lack of energy to do anything.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to changes in sleeping pattern."])
+('17', ['indirectly_mention', 'I am more irritable than usual.###Although the post does not directly mention irritability, the description of feeling uncomfortable when others perceive the poster as happy suggests a degree of irritability that may be higher than usual.'])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to changes in appetite."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to concentration difficulties."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to tiredness or fatigue."])
+Do MS Check Record:
+('5', ['Incorrect', 'Review the post for explicit references to feelings of guilt, rather than inferring them from generalized statements about mental well-being.'])
+('8', ['Incorrect', 'Focus on the distinction between self-criticism and self-accusation, ensuring the latter is clearly indicated before attributing such feelings to the poster.'])
+('10', ['Incorrect', 'Re-evaluate the emotional context of the post and consider that expressing discomfort with happiness could imply an emotional response such as crying. Reflect the emotional tone in your answer more accurately.'])
+('11', ['Correct', 'Ensure your answers remain based on information explicitly mentioned or reasonably inferred from the post without adding assumptions, as done well in this instance.'])
+('12', ['Incorrect', "While the post does express a state of being 'better by comparison,' it does not specifically address a current loss of interest in people or things. Consider the nuances in expressions of mood and behavior without assuming them to be indicative of loss of interest. Look for explicit instances where the poster discusses their engagement with others or activities."])
+('13', ['Correct', "Your analysis is accurate. Continue to base your inferences on direct information from the post. For situations like indecisiveness, where the post doesn't provide specific details, it is appropriate not to make assumptions beyond the available evidence."])
+('15', ['Incorrect', "Review the post to identify any related expressions of lethargy, fatigue, or a lack of motivation which could imply a loss of energy rather than assuming the mention of a 'messed up' brain equates to no energy."])
+('16', ['Correct', 'Continue to avoid making inferences without textual support, maintaining accuracy in representing the information given in the post.'])
+('17', ['Incorrect', "While the post does not spell out irritability explicitly, the frustration with being told how 'great' they're doing can imply a level of irritability. Focus on the emotions that the poster expresses which can be associated with irritability and provide a grounded inference."])
+('18', ['Correct', "For questions not addressed in the post, it's appropriate to note that the information is not mentioned. However, remain open to implicit cues in the post that might suggest changes in behavioral patterns such as appetite."])
+('19', ['Incorrect', "Review the poster's statements about their current emotional state and consider if these could possibly impact concentration, as feelings of sadness and being 'fucked up' could imply difficulties in focusing."])
+('20', ['Incorrect', 'Consider the emotional context of the post, which implies chronic sadness and struggle, and explore how these feelings might relate to symptoms of fatigue, even if not explicitly stated.'])
+
+ITER 2
+Do MS Record:
+('5', ['indirectly_mention', 'I feel quite guilty most of the time.###The post mentions feeling better than before, but still feeling that their brain is messed up. This suggests a sense of guilt and self-blame for their current state of mind.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The post talks about being told how happy they are, but feeling that they are only better by comparison. This suggests a tendency for self-criticism and blaming themselves for not feeling truly happy.'])
+('10', ['directly_mention', 'I cry more than I used to.###The poster mentions being more comfortable being sad, suggesting a tendency to cry more frequently.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not discuss a specific loss of interest in people or activities."])
+('15', ['directly_mention', "I have less energy than I used to have.###The post mentions that the poster's brain is still messed up and always will be. This indicates a sense of ongoing fatigue and lack of energy, as the brain's functioning is affected."])
+('17', ['indirectly_mention', "I am more irritable than usual.###The post expresses frustration with being told how 'great' they're doing. This indicates a level of irritability, as the poster does not appreciate these comments and may feel misunderstood or invalidated."])
+('19', ['indirectly_mention', "I find I can not concentrate on anything.###The poster says 'my brain is still fucked up and it always will be', which implies difficulties in focusing."])
+('20', ['indirectly_mention', "I am too tired or fatigued to do most of the things I used to do.###The poster mentions feeling 'so much better' than before, but still feeling 'fucked up', which could imply fatigue and lack of energy."])
+Do MS Check Record:
+('5', ['Incorrect', 'Do not assume guilt without clear evidence in the post. Focus on the given information and avoid adding emotions that are not explicitly stated. Examine the content for any direct mention of guilt before concluding that the poster feels guilty.'])
+('8', ['Incorrect', 'Avoid inferring self-accusation if it is not plainly indicated. Distinguish between self-criticism and self-accusation. The poster does mention negative feelings but does not directly accuse themselves of anything specific.'])
+('10', ['Incorrect', "Review the post for emotional content and context before inferring increased crying. The post doesn't explicitly state a change in crying frequency, avoid assumptions not supported by the text."])
+('12', ['Correct', 'Good job on not making inferences beyond the information provided. Continue to differentiate between what is explicitly mentioned and what requires unwarranted assumptions.'])
+('15', ['Incorrect', 'Re-examine the post for explicit statements or clear indicators of energy levels rather than inferring them from general emotional state.'])
+('17', ['Correct', 'Continue to draw inferences from emotional cues in the post, balancing between the direct information provided and what is reasonably implied.'])
+('19', ['Incorrect', "Avoid literal interpretations of phrases that lack detail on cognitive functions, such as 'my brain is still fucked up'. Look for specific evidence in the post about concentration to better justify your reasoning."])
+('20', ['Incorrect', 'Refrain from assuming tiredness or fatigue without explicit mentions or context that strongly suggests such states. Examine the post for clearer indications of energy levels before concluding.'])
+
+ITER 3
+Do MS Record:
+('5', ['indirectly_mention', 'I feel quite guilty most of the time.###The post mentions feeling better than before but not feeling good. This implies that the poster still feels negative emotions, which may include guilt. However, guilt is not directly stated in the post.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention self-accusations or blaming oneself. The poster discusses feeling better compared to the past but does not explicitly mention self-criticism or self-blame."])
+('10', ['directly_mention', 'I cry more than I used to.###The poster mentions feeling sad for a long time and finding comfort in sadness. This suggests a possibility of increased crying.'])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The poster mentions that their brain is still messed up and indicates that they are not good despite being better than before. This could imply a decrease in energy levels.'])
+('19', ['indirectly_mention', "I find I can not concentrate on anything.###The post mentions that the brain is still 'fucked up', which implies ongoing difficulties with cognitive functioning. Additionally, the post talks about being 'better' but not 'good', which suggests the presence of ongoing challenges, potentially including difficulty with concentration."])
+('20', ['indirectly_mention', "I am too tired or fatigued to do most of the things I used to do.###The post describes feeling 'better' than before, but not necessarily 'good'. This could indicate a decreased ability to engage in activities due to tiredness or fatigue. Additionally, the mention of being more comfortable in sadness and the risk associated with happiness could imply a lack of energy or motivation to fully participate in life."])
+Do MS Check Record:
+('5', ['Incorrect', "Revisit the post and carefully consider if any expressions of guilt are implied by the discomfort with being labeled as 'happy' despite feeling 'sad' and 'fucked up'. Refrain from asserting feelings not clearly derived from the post."])
+('8', ['Correct', 'Good job on not over-inferencing. Continue to use direct evidence from the post to inform your answers and avoid assumptions not supported by the text.'])
+('10', ['Incorrect', 'The post does not mention an increase in crying, instead focus on the expressed emotional state without assuming behaviors not mentioned.'])
+('15', ['Correct', 'Continue to draw inferences with caution, ensuring they are grounded in the actual content of the post. Avoid assuming symptoms not explicitly stated.'])
+('19', ['Incorrect', "Do not assume that a description of the brain being 'fucked up' equates to an admission of concentration difficulty. Look for explicit statements about the ability to focus or manage tasks, and consider the context without overgeneralizing."])
+('20', ['Incorrect', "Avoid inferring tiredness or fatigue without clear indicators. Focus on the poster's current state as expressed explicitly. Determine if sentiments of comfort in sadness are related to energy levels, rather than general emotional state."])
+
+ITER 4
+Do MS Record:
+('5', ['indirectly_mention', "I feel guilty a good part of the time###The post mentions feeling 'fucked up' and not feeling 'good'. These negative emotions may be associated with guilt."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention crying or any change in crying behavior."])
+('19', ['indirectly_mention', "I can not concentrate as well as usual.###The post mentions that the brain is 'fucked up' and that the person is not good, only better by comparison. This suggests that there may be ongoing difficulties with concentration, although it is not explicitly stated."])
+('20', ['indirectly_mention', "I get more tired or fatigued more easily than usual.###The post mentions feeling 'better' but not necessarily 'good.' This implies that there may still be some level of tiredness or fatigue, although it is not explicitly stated."])
+Do MS Check Record:
+('5', ['Incorrect', 'Do not assume emotions such as guilt without clear evidence in the post. Look for specific language that may signify feelings of guilt.'])
+('10', ['Correct', 'Continue to avoid inferring emotions or behaviors not explicitly mentioned in the post, such as crying, to maintain accuracy in your assessment.'])
+('19', ['Incorrect', 'Examine the specific language in the post for explicit mention of concentration difficulties. Avoid inferring symptoms not clearly described; focus on what is written and only suggest possible symptoms when there is a clear indication in the text.'])
+('20', ['Incorrect', "Be cautious not to assume symptoms like tiredness or fatigue unless they are suggested in the post. Assess whether the individual's statements about their feelings imply physical symptoms before making an inference."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to the questions of the mental scale indicate symptoms of depression. They express sadness, pessimism, feeling of past failure, loss of pleasure, self-dislike, and less energy than before, which are all characteristic of depression.
+
+Correct
+Good analysis of the individual's responses to the mental health scale indicates an understanding of symptoms of depression. Continue to carefully differentiate between the individual's own statements and your own inferences, avoiding assumptions not supported by the evidence provided.

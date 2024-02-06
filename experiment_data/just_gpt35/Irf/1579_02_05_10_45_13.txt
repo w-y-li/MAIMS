@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  If you‚Äôre reading this, chances are you‚Äôre still alive. Why haven‚Äôt you killed yourself yet? Since I‚Äôm still alive, there must be a reason but all signs point to it not being worth it for me. Hopefully your reasons can help other people find theirs.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests thoughts of suicide, indicating a potential sense of being a burden to others. The poster questions why they haven't killed themselves yet, indicating a possible belief that their existence is not valuable or worth it.
+

@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I feel sad for myself when I see a couple walking holding hands or kissing.. I don't want to feel that way.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me.###The post mentions feeling sad when seeing couples showing affection, which suggests that the person may be experiencing loneliness or longing for a romantic relationship. However, it does not directly indicate a desire for self-harm or a belief that others would be better off without them.'])
+('2', ['indirectly_mention', "Somewhat true for me.###The post expresses a desire to not feel sad when seeing couples in loving relationships. Although it does not explicitly state that others would be happier without the poster, the feeling of sadness and the desire to change suggests a lack of self-worth or perceived negativity in the poster's presence."])
+('3', ['indirectly_mention', 'Not at all true for me.###The post suggests that the person feels sad when they see couples displaying affection. However, this does not necessarily imply that they feel like a burden on society or that their death would be a relief to others in their life.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication related to feeling like a burden on society or thinking that death would be a relief to others in their life. Thus, it does not address these questions."])
+('5', ['directly_mention', "Not at all true for me###The post mentions feeling sad when seeing couples, but it doesn't imply that people in the poster's life wish to be rid of them."])
+('6', ['directly_mention', "Not at all true for me###The post mentions feeling sad when seeing couples, but it doesn't imply that the poster makes things worse for the people in their life."])
+('7', ['indirectly_mention', "Somewhat true for me###The post indicates that the person feels sad for themselves when they see a couple walking holding hands or kissing. This suggests that they may be feeling lonely or lacking companionship, which could be interpreted as feeling like other people don't care about them. Therefore, I would say that it is somewhat true for me."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any direct or indirect information about how the person feels like they belong. It focuses more on their feelings of sadness when seeing couples, rather than their sense of belonging."])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling sad when seeing couples being affectionate, which suggests a desire for a romantic relationship. This implies a potential lack of interaction with people who care about me.'])
+('10', ['indirectly_mention', 'Not at all true for me###The post expresses a feeling of sadness when witnessing couples being affectionate. This suggests that the poster may not feel fortunate to have many caring and supportive friends at the moment.'])
+('11', ['indirectly_mention', 'Somewhat true for me###I feel sad for myself when I see a couple walking holding hands or kissing, which suggests that I feel disconnected from other people to some extent.'])
+('12', ['indirectly_mention', "Very true for me###I don't want to feel sad when I see a couple showing affection, which implies that I often feel like an outsider in social gatherings."])
+('13', ['directly_mention', "Somewhat true for me###The post states that the person feels sad when seeing couples, indicating a need for emotional support in times of distress. Therefore, it is likely that they believe there are people they can turn to, although it may not be entirely true as indicated by the word 'somewhat'."])
+('14', ['indirectly_mention', "Not at all true for me###The post expresses sadness when witnessing romantic gestures between couples. This suggests a lack of closeness to other people, which aligns with the statement 'not at all true for me'. The person's emotional response implies a disconnect or distance from others."])
+('15', ['indirectly_mention', 'Somewhat true for me###The post indicates that the poster feels sad when seeing couples, suggesting a lack of satisfying interactions. However, the post does not explicitly mention how often satisfying interactions occur, so I can only deduce that the interactions are somewhat true for me.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The response to the mental scale questions indicates that the individual experiences feelings of being disconnected from others, feeling like an outsider in social gatherings, and having limited interactions with caring and supportive friends. These feelings suggest a risk of thwarted belongingness, which is a psychological term used to describe a perceived lack of social connection and belongingness.
+

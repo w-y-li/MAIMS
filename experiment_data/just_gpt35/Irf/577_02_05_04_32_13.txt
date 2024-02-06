@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I never thought that one day I'd ever be depressed or start having depressing thoughts, but here I am. I feel like I'm failing at everything. I don't think anybody in particular is causing it. I just feel like I don't deserve anything good that happens to me and that I'll never be good enough for my family or friends. I feel guilty since on paper, it seems like I wouldn't be so depressed. My family's alright, my girlfriend's great, and I have good friends, but I feel like I don't deserve any of it and that I'm only holding them back. I know that I sound like a whining bitch right now since I say that I have all these people who can help me, but I feel guilty for making them worry and for being depressed in the first place. Every time I feel depressed, I start thinking that I shouldn't be, and that only makes me feel worse.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows signs of perceived burdensomeness as the individual feels guilty for their depression, feels like they don't deserve anything good, and believes they are holding their family and friends back.
+

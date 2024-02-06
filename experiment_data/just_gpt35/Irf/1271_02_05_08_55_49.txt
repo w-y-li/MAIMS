@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  It feels like I can never be enough for anything because I‚Äôm not worth it, I‚Äôm a waste of space. I‚Äôm worse than everyone else no matter what I do. I feel like I deserve nothing...and I can‚Äôt really explain why. I want to feel good...but my mind says it‚Äôs wrong. I feel so defeated and worthless and that I‚Äôll never amount to anything and that I I‚Äôm inferior to everyone. No one wants anything to do with me. Everyone knows I‚Äôm worse than them. I‚Äôm left isolated, longing for just the slightest of warmth, but I really don‚Äôt deserve anything. I deserve to suffer in eternal torment. I really wish I could just kill myself already, I‚Äôm so tired of this agony and lack of energy...and the aching pain. I don‚Äôt see any hope in this miserable life...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, inferiority, and wanting to be alone. The poster expresses a strong desire to end their life and talks about feeling like a burden. These are signs of perceived burdensomeness, which is associated with increased risk of suicide.
+

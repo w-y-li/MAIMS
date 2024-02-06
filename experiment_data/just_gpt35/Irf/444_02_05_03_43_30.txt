@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I really miss playing ps1 games with my best friend all day, I miss not having to worry about anything. Is there any way of making this feeling stop ? (yes, I tried playing the same games I used to play but it just doesn't feels the same.)  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a longing for past experiences and a desire for connection with a friend. The poster mentioned missing not having to worry about anything, which suggests a possible feeling of isolation or lack of belonging in the present. This longing for the past and desire for connection may indicate a risk of thwarted belongingness.
+

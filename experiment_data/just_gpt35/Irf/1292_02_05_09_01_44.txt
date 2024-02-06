@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I don't know if it's the anxeity disorder or what, but lately I've been thinking for some reason that my life is gonna be short and end with a tragic and traumatic death. It's been kind of scaring me lately. I've also been having dreams about car crashes to the point I'm scared to drive farther than 5 minutes from my house. It may seem stupid but I'm just curious if anyone else has experienced this before.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post describes symptoms of anxiety and fear related to thoughts of a short and tragic life as well as dreams of car crashes, indicating a potential anxiety disorder. The post does not specifically mention any feelings of social isolation or lack of belongingness, which are central to the concept of thwarted belongingness. Therefore, there is no apparent risk of thwarted belongingness in this post.
+

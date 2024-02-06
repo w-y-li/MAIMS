@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Been feeling detached all my life from everything that make people happy. Not even drugs and alcohol. Also I've been giving less and less fucks about everything. Birthday? Don't care. Christmas? Big deal. New Year's Eve? Just fuck it. I'm supposed to have the time of my life now, but all I have are constant compulsive suicidal thoughts, loneliness/isolation issues, not being able to etc.) So here I sit in the dark, in front of the screen, listening to depressing music, feeling absolutely nothing, but this endless amount of dread and despair from the future. /rant  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of detachment, lack of enjoyment in activities, and constant suicidal thoughts. These can be indicative of a sense of perceived burdensomeness, as the poster feels disconnected from things that typically bring happiness and is experiencing despair from the future.
+

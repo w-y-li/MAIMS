@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôm unworthy, I hate myself, I hate life, nobody fucking cares, fuck the human race, fuck whatever any of this is.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of unworthiness and a strong hatred towards oneself, life, and the human race. These negative emotions suggest a sense of isolation, disconnection, and a lack of belongingness, indicating a potential risk of thwarted belongingness.
+

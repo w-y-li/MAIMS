@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Graduated from a shitty uni with shitty degree to a shitty job market so I've been jobless for the whole year, relatives makes fun of my unemployment, ended up obese from my dependency on food as an emotional comfort, contemplating suicide a few times from all this. I used to be one of the happiest people around and now I seclude myself all day only finding whatever joy i have left in my hobbies. I want get better, I want to exercise, I want to socialise and just have fun, but I couldn't get past all the crushing shitty reality I found myself in and wonder if its worth it. Thank you for reading, whoever you are. Let's hope this year will a brighter spot in our lives  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, burdensomeness, and contemplating suicide, which are common indicators of perceived burdensomeness.
+

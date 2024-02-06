@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Its extremely difficult for me to ask for help. But I tried. And I got straight up ignored. Note taken, definitely best course of action just to suck it up and push it down. Even though it's just getting worse and worse.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a struggle to ask for help and feeling ignored, which can contribute to feeling disconnected and experiencing thwarted belongingness.
+

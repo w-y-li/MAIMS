@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Help.. So, I have a friend, who's had quite a tough life.(prefer not to go into details) I've always had severe anxiety issues, mostly social Such was the cause for major bullying. This, combined with family issues, put me into a deep depression, bringing me to contemplate suicide. All of this was before I knew this friend. I brought this up to him the other day, and he replied with  all the shit ive been through in my life and im STILL GOING THROUGH and you you think about suicide because of your social awkwardness?  He now has me blocked on all social media, and I'm not exactly sure how to go about this.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentioned experiencing a deep depression and contemplating suicide, which are indicative of depression.
+
+Correct
+Good job identifying the expression of depressive symptoms in the post, such as experiencing a deep depression and contemplating suicide, which substantiate the conclusion that the poster suffers from depression. To continue providing accurate analyses, ensure you maintain an objective stance and rely solely on the information given, without making assumptions beyond the provided evidence.

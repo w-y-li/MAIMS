@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Whenever I start dreaming up serious ways of killing myself I get tingly all over. Kind of like sharp, electromagnetic waves. It almost hurts. Feels really weird. Anyone else get those sensations? I think it‚Äôs my body‚Äôs way of telling me NO!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of isolation and a desire for connection as expressed by the phrase 'my body's way of telling me NO!'. This suggests a possible risk of thwarted belongingness, which is expressed as a feeling of not belonging or being disconnected from others.
+

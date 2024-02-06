@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I dont to get into many details but I hate that today the people you think you can trust are actually the people doing damage they have no respect for you or for themselves for that matter they instead walk all over you I've had seven people I call friends walk all over me and I'm getting tired of it why even try getting along with people if there going to lie and betray you there definitely not friends I got rid of them but now I have 0 friends and I feel suppressed I'm tired of being treated like dirt by peoples even though I'm just like most everyone and im ussually friendly unless treated like dirt by people  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and loss of belongingness due to negative experiences of being mistreated and betrayed by supposed friends.
+

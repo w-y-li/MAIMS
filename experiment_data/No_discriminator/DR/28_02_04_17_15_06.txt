@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Looking for friends. I'm a socially awkward college student that'd like to make some friends. Not necessarily hangin out (would be nice sometimes) but just want people to talk too, so it's all good if you don't live near me. :)  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The poster states that they are a socially awkward college student who is seeking friends. This indicates their potential loneliness and difficulty in social interactions, which could contribute to feeling sad much of the time.'])
+('2', ['not_mention', "Doesn't mention at all.###The post doesn't include any information that directly or indirectly implies feelings of discouragement or hopelessness about the future."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to past failure."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of pleasure."])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The poster mentions being socially awkward, which could lead to feelings of guilt or self-consciousness in social situations.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not contain any information that can be used to deduce feelings of punishment."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to self-dislike. The poster only expresses a desire to make friends, without indicating any negative feelings towards themselves."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to self-accusations. The poster only expresses a desire to make friends, without indicating any tendency to blame or criticize themselves excessively."])
+('9', ['indirectly_mention', "I do not cry any more than usual.###The post mentions that the person is socially awkward and looking for friends. This suggests that I may be feeling lonely or experiencing social difficulties, which could potentially lead to an increase in crying. However, since the post doesn't explicitly state any change in crying behavior, I would assume that I cry the same as usual."])
+('10', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to suicidal thoughts or wishes. It mainly focuses on the desire to make friends and have someone to talk to, rather than discussing any thoughts or intentions of self-harm or suicide."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to agitation. "])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The post mentions that the person would like to make friends, but not necessarily hang out, indicating a decrease in interest in other people or activities.'])
+('13', ['indirectly_mention', "I have greater difficulty in making decisions than I used to.###The post mentions being 'socially awkward' which suggests a potential lack of confidence or indecisiveness in social situations. This implies that decision-making may be more difficult for the poster compared to before."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication related to worthlessness, so it is not possible to determine the answer to this question based on the post alone."])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post mentions being socially awkward which can be indicative of social anxiety. Social anxiety can lead to a loss of energy due to the constant worry and overthinking in social situations.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to changes in sleeping patterns."])
+('17', ['indirectly_mention', 'I am no more irritable than usual.###The poster describes themselves as socially awkward, which suggests that they may feel uncomfortable or anxious in social situations. This could potentially lead to irritability in certain situations. However, the post does not directly mention irritability, so this answer is based on indirect information.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post does not directly mention changes in appetite. However, the poster mentions being socially awkward and wanting people to talk to. Social anxiety or discomfort can sometimes lead to a decrease in appetite due to nervousness or stress. Therefore, based on indirect information, it is possible that their appetite is somewhat less than usual.'])
+('19', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to concentration difficulty."])
+('20', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to tiredness or fatigue."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers indicate several symptoms of depression, such as feeling sad much of the time, feeling guilty, being less interested in other people or things, having difficulty making decisions, and having less energy and appetite than usual.
+

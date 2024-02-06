@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  My parents fight all the time, Idk if ive been verbally abused or what but my mother yells at me a lot, typically calls me a little shit. i dont really give a fuck about that its just middle school man. Everybody is just so fucking two-faced and even though i have a good amount of friends idk if they are really my friends or what. I really scared myself last week though, had my first suicidal thought. Im not trying to commit suicide yet, the thought has just crossed my mind and i kinda wanna talk about it  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the poster is feeling burdened by their parents' constant fighting, possible verbal abuse, and their mother's yelling. The reference to having suicidal thoughts suggests that the poster may be perceiving themselves as a burden on others and feeling overwhelmed.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My therapist is thinking about terminating me seeing her due to the fact that im not making any progress. What the fuck am I supposed to do afterwards? Suffer with mental illness? Get medication and hope it helps? Go to a physiologist? Im confused and scared and I just want to get better.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses fear and confusion about the possibility of being terminated by the therapist and not making progress in overcoming mental illness. This indicates a potential risk of thwarted belongingness, as the individual is concerned about losing support and feeling isolated in dealing with their mental health issues.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  My brain is maybe telling different but I can't believe it. I don't believe that anybody on this world can be real friends with me. Maybe some do but I can't trust in it. I can't trust anybody and nothing.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a belief that nobody can be real friends with the poster and a lack of trust in others, which indicates a risk of perceived burdensomeness.
+

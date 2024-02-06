@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Winter semester begins tomorrow and I'm in denial. Back to group work, trying to make acquaintances, perform my best. I really just don't care, and thinking of going physically pains me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses a sense of not caring and feeling physical pain at the thought of attending classes and engaging in group work. This suggests a potential risk of perceived burdensomeness, as they may believe their presence and contributions are burdensome to others. 
+

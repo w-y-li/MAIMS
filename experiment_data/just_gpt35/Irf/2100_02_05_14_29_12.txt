@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Do you ever sleep 17 hours? Help me not feel so alone  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate risk of thwarted belongingness, it is solely mentioning about feeling alone due to sleeping excessively.
+

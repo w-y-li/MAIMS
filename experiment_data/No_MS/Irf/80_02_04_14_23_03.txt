@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôve sat in a dark room for 5 hours staring at a wall, doing nothing. Yet I still felt as bored as if I were to just watch Netflix or play games. I feel bored and scared. Scared that I lost my mind and will never be normal again.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation and being disconnected from others. Sitting alone in a dark room for hours and feeling scared about not being normal again suggests a risk of thwarted belongingness.
+
+Correct
+Ensure that inferences about mental health are based on clear evidence from the post and avoid extrapolating beyond the given information. Continue to differentiate between the poster's own feelings and those of the people around them, focusing directly on what the poster has communicated about their own experiences.

@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  My friends fall out with the rest of the group as we don’t agree with them on genders. I’m just going to get straight to the point, I have these two friends ( I’ll call them Ava and Chloe) who fall out with me and the rest of my friends as they believe there’s more that two genders and the rest of us don’t believe that (I’m not saying they can’t believe that but I’m just saying the way that they act when we say we don’t is bad). They usually talk to us the day after and act like nothing happened, but it bothers me. So here’s a summary of what happens. Someone brings up the topic of genders, and then will say how they think there’s two, then either Ava or chole will get mad and will storm of or start shouting at us. Ava once called my boyfriend a “close minded cunt” simply because he said he didn’t agree with her. If they believe that there’s more than two genders, I am totally ok with that, it’s just that they try and make the rest of us believe it too and then put the blame onto us and it’s starting to bug me. So if anyone knows what I can do about this, I’d be really glad if you could help me out. Thank you for reading :)  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to sadness."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to pessimism."])
+('3', ['not_mention', "Doesn't mention at all.###"])
+('4', ['not_mention', "Doesn't mention at all.###"])
+('5', ['directly_mention', "I feel guilty all of the time.###In the post, I mentioned that I feel bothered and guilty when my friends fall out with me and the rest of the group because we don't agree on the topic of genders. This indicates that I have ongoing feelings of guilt."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or mention about punishment feelings. Hence, I cannot deduce an answer based on the given post."])
+('7', ['directly_mention', 'I am disappointed in myself.###In the post, I mentioned that the behavior of my friends bothers me. This implies that I am disappointed in myself for not being able to handle the situation better or maintain a harmonious relationship.'])
+('8', ['directly_mention', 'I do not criticize or blame myself more than usual.###In the post, I stated that my friends try to make the rest of us believe in their perspective and put the blame onto us. This implies that I do not excessively blame myself for the conflicts that arise due to differing opinions on gender.'])
+('9', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to suicidal thoughts or wishes. There is no information provided that would allow me to make any deduction regarding this question."])
+('10', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to crying. There is no information provided that would allow me to make any deduction regarding this question."])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The post mentions that when the topic of genders is brought up, Ava or Chloe will get mad and either storm off or start shouting. This behavior indicates agitation and restlessness.'])
+('12', ['indirectly_mention', 'I have lost most of my interest in other people or things.###The post mentions that the behavior of Ava and Chloe bothers the poster. This suggests a decrease in interest and engagement with their friends as a result of the disagreement over genders.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to indecisiveness."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feelings of worthlessness."])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###In the post, I mentioned that the situation with my friends bothers me, indicating a decrease in my energy level due to the conflict and tension.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information about changes in my sleeping pattern or difficulties related to sleep."])
+('17', ['directly_mention', 'I am more irritable than usual.###The post mentions that the behavior of Ava and Chloe when the topic of genders is brought up bothers me.'])
+('18', ['directly_mention', 'My appetite is somewhat less than usual.###The post mentions that Ava once called my boyfriend a "close minded cunt" simply because he said he didn\'t agree with her. This implies that the behavior of Ava has affected my appetite, causing it to be somewhat less than usual.'])
+('19', ['indirectly_mention', 'I can not concentrate as well as usual.###The post mentions that the behavior of Ava and Chloe bothers me. This suggests that their actions have an impact on my concentration and ability to focus.'])
+('20', ['indirectly_mention', 'I get more tired or fatigued more easily than usual.###The post indicates that the situation with Ava and Chloe is starting to bug me. This suggests that it is causing emotional distress and potentially contributing to feelings of fatigue or tiredness.'])
+('21', ['indirectly_mention', "I have not noticed any recent change in interest in sex.###The post doesn't directly mention this question, but it provides some information that allows me to make an inference. The poster talks about her friends falling out with the rest of the group over a disagreement about genders. Although this doesn't directly relate to changes in interest in sex, it suggests that the main issue within the group is centered around differing beliefs and values. Therefore, it is unlikely that the poster has noticed any recent change in interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+Based on the provided information, the poster does not exhibit significant symptoms of depression. Although they express some negative emotions and conflicts with their friends, it does not appear to meet the criteria for a depressive disorder.
+

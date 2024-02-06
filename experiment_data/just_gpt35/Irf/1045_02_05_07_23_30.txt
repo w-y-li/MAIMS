@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I have so much, but feel as if I have nothing.... I feel like nothing I do will be good enough to succeed.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement of feeling like nothing they do will be good enough to succeed indicates a perceived sense of inadequacy and burden. This suggests a risk of perceived burdensomeness, which is a common feature in mental health problems such as depression and low self-esteem.
+

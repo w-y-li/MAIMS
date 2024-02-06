@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  How can I get help and reach out? I am so tired of being tired. I do not know how I can ask my mother for therapy, or deal with depression aside from my coping quietly. I can't deal with this longer, so I wanna try. I lost any sort of interest for the future.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of loneliness, exhaustion, and loss of interest in the future, which are all symptoms of thwarted belongingness. The person feels tired of being tired and expresses a desire for help and reaching out, but also struggles with asking their mother for therapy and coping quietly with depression.
+

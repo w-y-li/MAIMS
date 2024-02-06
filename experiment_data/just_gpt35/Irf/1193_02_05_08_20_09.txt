@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I'm mid 21 and balding and to add to it I'm 5'6. I've already accepted I won't have a love life but I can't come to terms what how I'll be treated by society, people I know. If not suicidal then I've thought that I wouldn't mind dying. Also I don't need anyone to talk about dying kids in Africa. To add to this I've got my exams which I should be ok for. The other thing is that after exams I'll probably go to a psychiatrist. Before I went to a counsellor which helped a bit but I'd hardly say they cured me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post hints at feelings of being a burden to others, as the poster mentions concerns about how they will be treated by society and people they know. The thoughts of not having a love life and contemplating death may stem from a sense of feeling burdensome and unwanted by others.
+

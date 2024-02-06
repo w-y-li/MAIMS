@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  In this world full of wifi connection, human connection seems obsolete. I feel so alone. It's a cliche feeling, I know. Me against the world and nobody is on my side. The world is winning, etc. But I just feel so down. So so so depressed. I told myself that this 2018 I will embrace what is real - real people, real words, real friends. And then I realized everyone around me is fake. I envy those people who have friends who stick with them whatever happens. I wonder if I could still find real friends nowadays. Just one real friend would be nice. Just so I don't feel this way anymore. Some will say this too shall pass but it has been weeks and it ain't done yet.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The post mentions feeling alone and depressed, but does not imply that my presence would make things worse for the people in my life.'])
+('2', ['directly_mention', 'Not at all true for me###The post mentions feeling alone and depressed, but does not suggest that the people in my life would be happier without me.'])
+('3', ['indirectly_mention', 'Not at all true for me###The post mentions feeling alone and depressed, which could be indicative of feeling like a burden on society. However, the poster does not explicitly state this feeling.'])
+('4', ['indirectly_mention', 'Not at all true for me###The post mentions feeling down and depressed, but does not directly state that the poster believes their death would be a relief. Therefore, it is implied that this statement is not true for me.'])
+('5', ['indirectly_mention', 'Somewhat true for me###The post indicates feelings of loneliness and a lack of real friends, which indirectly suggests that the person may think that the people in their life wish they could be rid of them to some extent.'])
+('6', ['indirectly_mention', 'Somewhat true for me###The post expresses a belief that everyone around them is fake, which indirectly suggests that the person may think they make things worse for the people in their life.'])
+('7', ['indirectly_mention', "Not at all true for me###The post states that the person feels alone, lonely, and depressed. These feelings suggest a lack of support and care from others. While the post doesn't directly mention whether other people care about the poster, the feelings expressed indicate that it is not true for them."])
+('8', ['indirectly_mention', "Not at all true for me###The post talks about feeling alone and not having real friends. This suggests a sense of not belonging among others. While the post doesn't directly mention whether the person feels like they belong, the content implies that the feeling of belonging is not true for them."])
+('9', ['indirectly_mention', "Somewhat true for me###The post mentioned that the person feels alone and that everyone around them is fake, which implies that they rarely interact with people who care about them. However, the post doesn't explicitly state the frequency of interaction, so I can only infer that it is somewhat true for the person."])
+('10', ['indirectly_mention', "Not at all true for me###The post indicates that the person feels alone and envies those who have friends who stick with them. This suggests that they don't have many caring and supportive friends. However, since the post doesn't mention whether the person has any supportive friends or not, I can only infer that it is not at all true for the person."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling alone and disconnected, which suggests a sense of disconnection from other people.'])
+('12', ['indirectly_mention', 'Very true for me###The post mentions feeling like an outsider and not having real friends, which implies feeling excluded in social gatherings.'])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling alone and longing for real friends. This suggests that the person may feel they can turn to others in times of need, albeit with some reservations.'])
+('14', ['indirectly_mention', 'Not at all true for me###The post expresses feelings of being alone and not having close relationships with others, indicating that the person is not currently close to other people.'])
+('15', ['directly_mention', "Not at all true for me###The post explicitly states that the person feels alone and doesn't have real friends. This suggests that they do not have any satisfying interactions on a daily basis."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post exhibits feelings of isolation, loneliness, and a desire for real connections. The individual expresses envy towards those with real friends and feels that everyone around them is fake. They also mention feeling down and depressed for weeks. Additionally, their answers to the mental scale questions indicate a belief that they make things worse for the people in their life, feel like an outsider in social gatherings, and have limited interactions with people who care about them. These signs suggest a risk of perceived burdensomeness.
+

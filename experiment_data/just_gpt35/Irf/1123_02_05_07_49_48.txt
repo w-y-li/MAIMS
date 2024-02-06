@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  What can you recommend? Movies, music, tv, activities, new hobbies, etc. Anything to get my brain on something else besides my own worthlessness  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling worthless and wanting to distract their brain from this feeling, which suggests a risk of perceived burdensomeness.
+

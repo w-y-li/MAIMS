@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  My offer to my dream university was just declined. I don't know what i'm going to do now. I was so sure. I'm broken.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of brokenness and uncertainty after receiving a decline from the dream university. These emotions indicate a sense of perceived burdensomeness, as the individual may perceive themselves as a burden or disappointment to others due to this outcome.
+

@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Dini ticaret haline getirenler  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not provide enough information to assess if the poster suffers from depression or not. The content of the post suggests that the poster may be discussing a business or trade-related topic, which does not directly indicate depression.
+
+Correct
+Continue to evaluate mental health based on clear and explicit information from posts, and avoid making inferences without evidence. Maintain an objective viewpoint, focusing on the content provided rather than assumptions.

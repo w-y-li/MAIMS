@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  ... I just cannot take it anymore.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of isolation, longing for connection, and a sense of being overwhelmed. These factors indicate a possible risk of thwarted belongingness, which refers to the perception or experience of inadequate social connections and support.
+

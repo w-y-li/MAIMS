@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Welp, just got done with another batch of doctors visits and the results are in, I will be crippled for the rest of my life. But that's not what bothers me, I've had plenty of time to come to terms with my condition and the affect it will have on my quality of life and my life expectancy. What bothers me is the soul crushing loneliness, I havent had a girlfriend in years and I haven't been physically touched in what seems like forever. I spend all day in a shitty little side room by myself writing and hardly see hide nor hair of another person besides my dad most of the time. I'm pretty done with it all to be honest, I don't really see any reason to continue living like this.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', "Somewhat true for me###The post mentions soul crushing loneliness and the lack of physical touch. These feelings are often associated with a sense of being burdensome to others, which could indicate that the people in the poster's life would be somewhat better off without them."])
+('2', ['indirectly_mention', "Somewhat true for me###The post expresses a desire to no longer continue living due to the difficult circumstances. This could imply that the people in the poster's life would be somewhat happier without them."])
+('3', ['directly_mention', 'Very true for me###The poster expresses feeling like a burden on society by stating that they have been alone in a shitty little side room and hardly see anyone besides their dad. This suggests that they believe they are isolated and not contributing to society, indicating that they find themselves as a burden on society.'])
+('4', ['directly_mention', "Very true for me###The poster expresses thoughts of their death being a relief to the people in their life by stating that they don't see any reason to continue living in their current state of loneliness and physical limitations. This implies that they believe their death would bring relief, indicating that they think their death would be a relief to the people in their life."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to this question. The focus is on the poster's physical condition and loneliness, not on how others perceive them or the impact they have on others."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to this question. The focus is on the poster's physical condition and loneliness, not on whether they believe they make things worse for others."])
+('7', ['directly_mention', "Not at all true for me.###The post explicitly mentions 'But what bothers me is the soul crushing loneliness.' This indicates that other people do not care about me, as the post describes feeling lonely and not having a girlfriend or physical touch for a long time."])
+('8', ['directly_mention', "Not at all true for me.###The post explicitly mentions 'I don't really see any reason to continue living like this.' This implies that the person does not feel like they belong, as they do not see any reason to continue living in their current situation."])
+('9', ['directly_mention', "Very true for me###The poster mentions feeling lonely, not having a girlfriend, and rarely seeing another person besides their dad. These factors suggest limited social interactions and lack of people who care about the poster, indicating that the answer is 'Very true for me'."])
+('10', ['directly_mention', "Not at all true for me###The poster clearly states that they haven't had a girlfriend in years, have not been physically touched, and feel soul-crushing loneliness. These factors indicate the absence of caring and supportive friends, suggesting that the answer is 'Not at all true for me'."])
+('11', ['directly_mention', 'Very true for me###The post directly mentions feeling disconnected from other people, which aligns with the question about feeling disconnected from other people.'])
+('12', ['directly_mention', 'Very true for me###The post directly mentions feeling like an outsider in social gatherings, which aligns with the question about feeling like an outsider in social gatherings.'])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling soul crushing loneliness and not having a girlfriend in years. These statements suggest a lack of connection and closeness to others, indicating that the poster is not close to other people. However, the post does not directly answer the question, so my answer is based on the information provided.'])
+('14', ['indirectly_mention', 'Not at all true for me###The post mentions feeling soul crushing loneliness and not having physical contact with others for a long time. These statements suggest a lack of support or people to turn to in times of need, indicating that the poster does not feel there are people they can turn to. However, the post does not directly answer the question, so my answer is based on the information provided.'])
+('15', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling soul crushing loneliness and not having a girlfriend or physical touch in a long time. These indicate a lack of satisfying interactions and suggest that the poster does not have at least one satisfying interaction every day. However, the post does not directly mention the question.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of feeling like a burden on society and the people in their life. The poster expresses thoughts that the people in their life would be better off, happier, and relieved if they were gone. This suggests a risk of perceived burdensomeness.
+

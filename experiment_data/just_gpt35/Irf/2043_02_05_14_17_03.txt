@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  She said it's because our daily conversations in the past was something she deliberately attempted to adjust to because it's not her cup of tea. I don't get her. I don't get her at all. I asked her why she hadn't informed me, because I wouldn't have found out if I hadn't brought it up. She said it was an out of mind, out of sight sort of thing and she doesn't really need to tell me every single thing, that she thought I figured it out, but eventually she apologized and said that it was disrespectful of her to suddenly revert to her usual ways when she knows I'm used to the contrary. I... don't know what this all means. Am I boring? Does she not want me? Am I supposed to be mad at her? Is she worth keeping? What do you people make of this?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show a clear risk of perceived burdensomeness. The person seems confused and unsure about the situation, but there is not enough information to determine if they feel burdensome to the other person.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  As the title says, I cut myself for the first time yesterday. It was only 2 swipes, but it feels like a huge step back and I don't know what to do. I don't have a therapist and I can't talk to my parents about it because they think its not as serious as it is. I just don't know where to go from here.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the poster is feeling overwhelmed and unsure of what to do after engaging in self-harm. The mention of not having a therapist and being unable to talk to parents about the seriousness of the situation suggests a lack of support and emotional burden.
+

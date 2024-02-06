@@ -1,0 +1,108 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I don't have the motivation for anything anymore. I just don't. Not even for the things that i love. I've always struggled with depression, i've had it for like 6 years now. But lately for some reason it has gotten really bad, to the point that i can't even live my life anymore. I can't concentrate on school, i don't feel like talking to people, i don't feel like replying to messages. I don't even feel like crying anymore, i just feel like a mess. All i do everyday now is listen to music, listen to music and daydream. Daydream of all the things that i really want to do, but i just can't find the motivation to actually do. I feel lost. I really don't even know where i stand anymore.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', "I feel sad much of the time###The post mentions that the poster has been struggling with depression for 6 years and recently it has gotten really bad, to the point where they can't live their life anymore. They also mention feeling like a mess and listening to music all day. These are all indicators of sadness."])
+('2', ['indirectly_mention', "I feel I have nothing to look forward to###The post mentions that the poster doesn't have motivation for anything anymore, including the things they love. They feel lost and don't know where they stand anymore. These are indicators of pessimism and feeling like there is nothing to look forward to."])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The post mentions that the person has always struggled with depression and seems to be currently experiencing an exacerbation of symptoms. The feeling of being a failure could be a result of their overall negative mood, lack of motivation, and inability to live their life.'])
+('4', ['indirectly_mention', 'I get very little pleasure from the things I used to enjoy.###The post indicates that the person does not have the motivation or pleasure in doing things they once loved. They are unable to concentrate on school, do not feel like talking to people, and find it difficult to reply to messages. This suggests a significant loss of interest and pleasure from previous activities.'])
+('5', ['indirectly_mention', "I feel guilty a good part of the time.###The post mentions that I've always struggled with depression for 6 years now and lately it has gotten really bad. This suggests that I may feel guilty about my depression as it has been a continuous struggle for me."])
+('6', ['indirectly_mention', "I feel I may be punished.###The post mentions that I feel lost and don't know where I stand anymore. This indicates that I may feel that I could be punished for my current state of feeling lost and unsure."])
+('7', ['directly_mention', "I dislike myself.###In the post, I mentioned that I don't have the motivation for anything anymore, not even for the things that I love. I also talked about feeling like a mess and being lost. These statements indicate a negative perception of myself, suggesting that I dislike myself."])
+('8', ['directly_mention', "I am more self-critical or blaming than usual.###I mentioned that I feel like I can't live my life anymore, I can't concentrate on school, and I don't feel like talking to people or replying to messages. These statements indicate a more negative attitude towards myself, which suggests that I am more self-critical or blaming than usual."])
+('9', ['indirectly_mention', 'I would like to kill myself.###The post mentions feeling like a mess and feeling lost. These are indicators of depression, which can often lead to suicidal thoughts and wishes.'])
+('10', ['directly_mention', 'I cry all the time now.###The post specifically mentions not feeling like crying anymore, which suggests an increase in crying. This indicates that the person cries all the time now.'])
+('11', ['directly_mention', "I am so restless or agitated that it is hard to stay still.###The poster mentioned they feel restless and agitated, to the point that they can't concentrate on school or engage with others. This indicates a high level of agitation."])
+('12', ['directly_mention', "I have lost most of my interest in other people or things.###The poster stated that they don't have motivation for anything anymore, not even the things they love. This suggests a significant loss of interest."])
+('13', ['directly_mention', "I have greater difficulty in making decisions than I used to.###The post mentions that the person can't concentrate on school and doesn't feel like talking to people or replying to messages. These difficulties in functioning and lack of motivation are indicative of increased difficulty in making decisions compared to before."])
+('14', ['directly_mention', 'I feel utterly worthless.###The post directly mentions feeling like a mess, not being able to live life, and not knowing where the person stands anymore. These feelings of hopelessness and loss indicate a sense of utter worthlessness.'])
+('15', ['directly_mention', "I do not have enough energy to do very much.###The post mentions that the person doesn't have motivation for anything anymore, not even for the things they love. They also state that they feel like a mess and can only listen to music and daydream. This suggests a lack of energy and motivation to engage in activities."])
+('16', ['directly_mention', "I have not experienced any change in my sleeping pattern.###The post does not mention any changes in the person's sleeping pattern. They only discuss their lack of motivation and concentration, but do not mention any specific changes in their sleep."])
+('17', ['directly_mention', 'I am much more irritable than usual.###The post mentions feeling like a mess and feeling lost, which could indicate increased irritability.'])
+('18', ['directly_mention', 'My appetite is much less than before.###The post mentions not having the motivation to do anything, which could lead to a decrease in appetite.'])
+('19', ['directly_mention', 'It is hard to keep my mind on anything for very long.###The post specifically mentions that the person is having difficulty concentrating on school and other activities.'])
+('20', ['directly_mention', "I am too tired or fatigued to do most of the things I used to do.###The post mentions that the person feels tired and fatigued to the point that they can't even live their life anymore."])
+('21', ['directly_mention', "I have almost no interest in sex.###The post says 'I don't have the motivation for anything anymore. I just don't. Not even for the things that i love.' This indicates a lack of interest or motivation, which can extend to interest in sex as well."])
+Do MS Check Record:
+('1', ['Correct', "Good analysis of the post's content. Keep focusing on specific phrases that reflect the emotional state of the poster."])
+('2', ['Correct', 'You have correctly deduced pessimism from the lack of motivation and direction mentioned in the post. Continue to connect specific details to the psychological construct.'])
+('3', ['Correct', 'Continue to use the emotional tone and themes of the post to infer the feelings of the poster, such as feelings of failure, even when not directly mentioned.'])
+('4', ['Correct', "Maintain the use of explicit and implied content within the post to determine the poster's experience of pleasure or lack thereof. Keep focusing on the consistency of the poster's stated feelings with the construct being measured by the question."])
+('5', ['Incorrect', 'Avoid assuming unmentioned feelings such as guilt; focus more on described emotions and behaviors. Analyze the explicit content before inferring underlying emotions.'])
+('6', ['Incorrect', 'Do not infer punishment feelings without clear evidence from the post. Stay with the information given and avoid adding assumptions that are not supported by the post.'])
+('7', ['Correct', 'Ensure to maintain objectivity and rely on explicit statements from the post when inferring feelings like self-dislike.'])
+('8', ['Correct', 'Continue to focus on evidence within the post for indications of self-accusation, without assuming facts not presented.'])
+('9', ['Incorrect', 'Review the post to identify any indications of suicidal thoughts without making assumptions beyond the information given. Avoid inferring thoughts or wishes not explicitly stated.'])
+('10', ['Incorrect', 'Avoid contradicting the post. If it mentions not feeling like crying, do not deduce this means increased crying. Instead, answers should be aligned with the expressed feelings.'])
+('11', ['Correct', 'Ensure that future responses continue to reflect the direct content of posts, as you did in assessing agitation.'])
+('12', ['Correct', 'Keep using evidence from the post to support your interpretations regarding emotions like loss of interest.'])
+('13', ['Correct', "Ensure that you continue to reference direct evidence from the post to support your assertions, keeping in line with the person's expressed feelings and struggles as related to indecisiveness."])
+('14', ['Correct', 'Continue to draw connections between expressed emotions in the post and psychological concepts, such as worthlessness, but caution against assuming intensity of feelings without explicit statements.'])
+('15', ['Correct', 'Ensure that you continue to reference the text directly when making connections to the mental scale questions, as you did here by correlating the lack of motivation and feeling like a mess to a loss of energy.'])
+('16', ['Incorrect', 'Avoid making assumptions about information not present in the post. The post does not mention sleeping patterns, so you should not infer any information about them. Instead, indicate that the post does not provide enough information to answer the question about changes in sleeping patterns.'])
+('17', ['Incorrect', 'Consider the specific expressions the poster used to describe their mental state. Use only what is explicitly mentioned or can be reasonably inferred regarding irritability without overgeneralizing.'])
+('18', ['Correct', "Ensure to connect the lack of motivation for activities directly to changes in appetite, where such a connection is reasonable and supported by the post's content."])
+('19', ['Correct', 'Ensure that each response is clearly supported by evidence from the post, as you have done here.'])
+('20', ['Incorrect', "Although the poster mentions a lack of motivation and feeling lost, they do not specifically mention feeling tired or fatigued. Be careful not to infer symptoms that aren't explicitly stated in the post."])
+('21', ['Correct', 'Ensure you are cautious with inferring specific symptoms from a general statement of lacking motivation. While the deduction in this instance seems reasonable, be wary of assuming too much without concrete evidence.'])
+
+ITER 1
+Do MS Record:
+('5', ['indirectly_mention', 'I feel guilty all of the time.###The post mentions feeling like a mess, feeling lost, and not being able to live life anymore. These feelings likely contribute to a constant sense of guilt.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or hints about feelings of being punished or expecting punishment."])
+('9', ['directly_mention', 'I have thoughts of killing myself, but I would not carry them out.###The post mentions having thoughts of killing oneself, indicating the presence of suicidal thoughts without the intention of acting on them.'])
+('10', ['directly_mention', "I cry all the time now.###The post explicitly states that the person doesn't feel like crying anymore, suggesting an increase in crying."])
+('16', ['not_mention', "Doesn't mention at all.###The post does not mention any information related to changes in sleeping pattern."])
+('17', ['indirectly_mention', "I am much more irritable than usual.###The post mentions feeling irritable by stating, 'I don't feel like talking to people, I don't feel like replying to messages.' These expressions suggest an increase in irritability compared to usual."])
+('20', ['not_mention', "Doesn't mention at all.###Although the post mentions a lack of motivation, feeling lost, and struggling with depression, it does not specifically mention tiredness or fatigue. The post focuses more on emotional and motivational aspects rather than physical symptoms."])
+Do MS Check Record:
+('5', ['Incorrect', 'Assess the feeling of guilt more critically, considering how symptoms of depression described may impact self-perception and potential feelings of guilt. Refrain from assuming feelings not explicitly stated, but infer based on related symptoms and information provided.'])
+('6', ['Correct', 'Continue to carefully distinguish between stated emotions and those not mentioned in the post. Avoid making inferences where there is no supporting information in the text.'])
+('9', ['Incorrect', "Review the original post for any explicit mentions of suicidal thoughts. Do not assume details that are not provided, ensure answers are grounded in the post's content."])
+('10', ['Incorrect', 'Carefully read the statement in the post. The answer should reflect the specific emotions or behaviors mentioned, such as the poster not feeling like crying, rather than assuming an increase in crying.'])
+('16', ['Incorrect', "Review the post for any hints of changes in daily routines which can include sleeping patterns. Avoid assuming lack of information means it doesn't exist in the post. Infer carefully from context."])
+('17', ['Correct', 'Continue to infer emotional states like irritability from indirect cues in behavior mentioned within the post, such as avoiding social interactions.'])
+('20', ['Incorrect', 'Consider the context and implications of the words used in the post. Lack of motivation and inability to do everyday tasks often imply fatigue. Reassess the post content and relate it to the psychological state described, even if not explicitly mentioned.'])
+
+ITER 2
+Do MS Record:
+('5', ['indirectly_mention', 'I feel quite guilty most of the time.###The post mentions feeling like a mess and feeling lost, which could indicate a sense of guilt and self-blame for not being able to handle life properly. Therefore, I infer that I feel quite guilty most of the time.'])
+('9', ['directly_mention', "I have thoughts of killing myself, but I would not carry them out.###The post explicitly states that I've always struggled with depression and it has gotten really bad lately to the point that I can't even live my life anymore. It implies a significant level of distress and hopelessness, which leads me to have thoughts of killing myself, even though I won't carry them out."])
+('10', ['directly_mention', "I used to be able to cry, but now I can not cry even though I want to.###The post mentions that the poster doesn't feel like crying anymore, which suggests a change in their crying behavior."])
+('16', ['indirectly_mention', 'I sleep a lot less than usual.###The post implies that the poster is having trouble sleeping due to feeling lost and struggling with depression, which could indicate a change in sleeping pattern.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The poster mentions feeling tired and fatigued which suggests a decrease in energy levels. They also mention being unable to concentrate on school, which may indicate a lack of motivation and increased fatigue.'])
+Do MS Check Record:
+('5', ['Correct', 'Ensure to distinguish between direct mentions and inferred feelings; continue to explore subtle cues in the text that may signal underlying emotions like guilt, but avoid overgeneralizing.'])
+('9', ['Incorrect', 'Avoid making assumptions about suicidal ideation without explicit evidence from the post. Focus on the presented symptoms and feelings; do not infer beyond the data provided.'])
+('10', ['Correct', 'Good job on identifying the change in crying behavior mentioned in the post. Continue to pay attention to direct statements and use them to inform your answers.'])
+('16', ['Incorrect', 'Be cautious of assuming specific changes like sleeping patterns without direct mention. Instead, state that the post suggests potential disturbances in daily routines, which could include sleep, and further assessment would be beneficial to determine specifics.'])
+('20', ['Correct', 'Ensure to maintain a clear distinction between directly stated symptoms and inferred symptoms, and continue to provide evidence from the post to support your inferences.'])
+
+ITER 3
+Do MS Record:
+('9', ['directly_mention', "I have thoughts of killing myself, but I would not carry them out.###The post states that the person feels like a mess, can't concentrate, and can't live their life anymore. This indicates a severe level of depression which may lead to thoughts of suicide, but there is no indication that the person would actually carry them out."])
+('16', ['indirectly_mention', "I sleep a lot less than usual.###Although the post doesn't explicitly mention changes in sleeping pattern, it states that the person can't concentrate, feels lost, and listens to music and daydreams all day. These symptoms suggest potential sleep disturbances, such as insomnia or difficulty falling asleep or staying asleep, which would result in sleeping a lot less than usual."])
+Do MS Check Record:
+('9', ['Incorrect', 'Avoid assuming symptoms or thoughts that are not explicitly mentioned. Focus on the information provided in the post. If suicidal thoughts are not directly stated, do not infer them. Stay close to the text and use qualifying language if necessary.'])
+('16', ['Correct', 'Good inference on the sleeping pattern based on symptoms described. Continue to make educated guesses based on the psychological consequences of the feelings and behaviors that are shared in the post.'])
+
+ITER 4
+Do MS Record:
+('9', ['directly_mention', "I have thoughts of killing myself, but I would not carry them out.###The poster explicitly states, 'All i do everyday now is listen to music, listen to music and daydream. Daydream of all the things that i really want to do, but i just can't find the motivation to actually do.' These daydreams may involve thoughts of killing themselves, but the poster clearly states that they would not carry them out."])
+Do MS Check Record:
+('9', ['Incorrect', 'Review the content for explicit statements regarding the topic in question before inferring unstated feelings or thoughts. Focus on the words used and the direct implications they carry, avoiding assumptions beyond what is clearly indicated.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster exhibits several symptoms of depression, including persistent sadness, lack of motivation, loss of interest, difficulty concentrating, feeling lost, self-dislike, feelings of worthlessness, fatigue, changes in sleeping pattern, irritability, and loss of pleasure in activities they used to enjoy. These symptoms align with the diagnostic criteria for major depressive disorder.
+
+Correct
+Continue to analyze posts carefully by checking for alignment with diagnostic criteria, but remain cautious to not overextend conclusions beyond the information provided. Always verify that the symptoms described are from the perspective of the poster when assessing mental health and not from others unless specifically mentioned.

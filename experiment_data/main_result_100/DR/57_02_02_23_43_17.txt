@@ -1,0 +1,133 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I appreciate you. Life is a strange place. Full of misfortune, pain and suffering. For whomever is reading this. You don't deserve the pain and depression that you may have. I don't know what you've experienced in you're life. I want to say I'm sorry for everything bad that's happened to you. Everyone deserves to be loved and to be happy. For those who don't have anyone to compliment you, let me be their friend. You are the most beautiful being I have ever seen. You are intelligent, strong, and wonderful. I'm am so proud of you. You can do whatever you want. If you want be successful then I'll be here to say  I believe in you!.  I'm you're biggest fan and I'll always be rooting for you. When I see you, I see a hero. You survived so many years of life. Nothing has fully stopped you from living your life. You've survived this long. If you think life would be better with you being gone, then you're sadly mistaken. Screw those people who try to bring you down. To spite them you should live your life to the fullest. Take a moment and try to enjoy this. Feel the sun's light on your beautiful face. Take a nap on the earth soft grass. Smell the flowers and enjoy your favorite food. It's important to take a break and just take things slow for a moment. Life is constantly going to try to bring you down. When you fall I wanna lend you my hand to lift you back up, as l believe you would do the same for me. We're all brothers amd sisters here. When life pushes we need to stand together and push back. I appreciate you and all that you stand for. When you're feeling down, I want you to stop and try to appreciate others. Appreciate those who walk the same path with you. Thank you for listening to me and thank you for being you. I appreciate you and I'm sure others do too. I hope you can find it in you to appreciate and help others. Have a lovely day.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not contain any direct or indirect mention of sadness."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not contain any direct or indirect mention of pessimism."])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###Although the post does not directly mention past failures, the language used suggests that the person may have experienced pain, depression, and misfortune in their life. This indicates the possibility of past failures, which leads me to believe that they may feel they have failed more than the average person.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of pleasure, such as a decrease in enjoyment or inability to derive pleasure from things."])
+('5', ['indirectly_mention', "I feel guilty a good part of the time.###The post mentions that life is full of misfortune, pain and suffering, and apologizes for everything bad that has happened to me. This suggests that I may feel guilty for some of the negative experiences in my life, although it doesn't directly state that I feel guilty."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not contain any information that can help me determine whether I feel I am being punished or not. It primarily focuses on expressing empathy, encouragement, and support."])
+('7', ['directly_mention', "I dislike myself.###The post acknowledges that the reader may experience pain and depression, and the author apologizes for everything bad that has happened to them. This indicates a negative self-perception, suggesting that the answer to Question 7 is 'I dislike myself'."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any explicit information or hints that would suggest the answer to Question 8. Therefore, the question is not mentioned in the post."])
+('9', ['indirectly_mention', 'I do not have any thoughts of killing myself.###The post mentions pain, depression, and feeling down. It also mentions that life is constantly going to try to bring me down. However, it also emphasizes the importance of appreciating others and helping one another. Therefore, I can deduce that I do not have any thoughts of killing myself.'])
+('10', ['indirectly_mention', "I cry all the time now.###The post mentions that life is full of misfortune, pain, and suffering. It also mentions appreciating others and standing together when life pushes. Although it doesn't directly state crying, I can infer that I cry all the time now as a result of the challenging experiences mentioned in the post."])
+('11', ['directly_mention', 'I am no more restless or wound up than usual.###The post mentions feeling happy and wanting to slow down and appreciate life, which indicates a lack of agitation or restlessness.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about my level of interest in other people or things."])
+('13', ['directly_mention', "I have greater difficulty in making decisions than I used to.###The line 'It's important to take a break and just take things slow for a moment.' suggests that I have greater difficulty in making decisions than I used to."])
+('14', ['directly_mention', "I feel more worthless as compared to other people.###The line 'You don't deserve the pain and depression that you may have.' suggests that I feel more worthless as compared to other people."])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###The post mentions that life is full of misfortune, pain, and suffering, which indicates a lack of energy and motivation to engage in activities.'])
+('16', ['directly_mention', "I have not experienced any change in my sleeping pattern.###The post does not mention any changes in the sleeping pattern, indicating that there hasn't been any alteration in the poster's sleep duration or quality."])
+('17', ['directly_mention', "I am no more irritable than usual.###The post mentions that life is full of misfortune, pain, and suffering. This indicates that the person may be experiencing negative emotions, which can lead to irritability. However, since the post does not specify that the person is more irritable than usual, my answer is 'I am no more irritable than usual.'"])
+('18', ['directly_mention', "I have not experienced any change in my appetite.###The post does not mention any changes in appetite. Therefore, my answer is 'I have not experienced any change in my appetite.'"])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###The post directly mentions that the reader may have pain and depression, which can lead to difficulty concentrating on anything.'])
+('20', ['indirectly_mention', 'I get more tired or fatigued more easily than usual.###The post talks about misfortune, pain, and suffering, which can be emotionally and physically draining, potentially leading to increased tiredness or fatigue compared to usual.'])
+('21', ['not_mention', "Doesn't mention at all.###There is no mention or indication of any changes in interest in sex in the post."])
+Do MS Check Record:
+('1', ['Incorrect', "Review the post and look beyond explicit statements to find implicit emotions and attitudes. The post, although doesn't directly mention 'sadness,' implies an understanding of pain and suffering which could lead to sadness."])
+('2', ['Incorrect', 'Reassess the post considering the overall tone and message. The post is optimistic and supportive, opposite of pessimism. Recognize the encouragement and hope offered, despite acknowledging misfortunes.'])
+('3', ['Incorrect', 'Avoid making assumptions not supported by the text. Instead, analyze the content for implicit messages related to the question. Expand on how the themes of support and encouragement in the post could indicate a personal understanding of failure without assuming it means the poster feels they have failed more than average.'])
+('4', ['Correct', 'Good recognition that the post does not explicitly address loss of pleasure. Stay objective and don’t infer beyond the information given. However, when a post is rich in emotional support and encouragement, consider how aspects related to enjoyment and pleasure can be subtly implied and address them cautiously if relevant.'])
+('5', ['Incorrect', 'Consider the overall empathetic and supportive tone of the post rather than assuming guilt is present. Focus on the provided content and avoid adding emotions or sentiments that are not explicitly mentioned. Re-examine the post for any possible implicit messages about guilt but avoid over-inference.'])
+('6', ['Correct', 'Your approach to the punishment feelings question is appropriate. The post does not provide enough information to infer feelings of being punished. Continue to distinguish between what is directly stated and what requires speculation, avoiding assumptions not supported by the text.'])
+('7', ['Incorrect', "Re-evaluate the post's content focusing on any implicit messages about self-perception that could inform Question 7."])
+('8', ['Correct', 'Continue to differentiate between explicit and implicit content within posts to accurately address the questions posed.'])
+('9', ['Incorrect', 'Avoid assuming emotions not clearly stated or implied. Focus on the explicit message of the post which encourages and supports others rather than expressing personal suicidal thoughts.'])
+('10', ['Incorrect', 'Do not infer emotions beyond what is presented. The text emphasizes encouragement and resiliency, not personal expressions of continual crying.'])
+('11', ['Incorrect', 'Consider the positive affirmations and supportive language used in the post which imply a strategy to cope with negative feelings rather than experiencing them. Reassess agitation levels considering the overall context.'])
+('12', ['Correct', 'Good job on identifying that the post does not provide enough information about loss of interest. However, ensure to closely analyze the emotional undertones that can give subtle hints about interest levels in future assessments.'])
+('13', ['Incorrect', "Review the post and focus on the sentiments expressed by the author towards the reader. There is no indication of the author's own indecisiveness, but rather an encouragement for the reader to slow down and appreciate life."])
+('14', ['Incorrect', "Reassess the interpretation of the post. It suggests empathy towards the reader's potential feelings of worthlessness but does not reflect the poster's own feelings of being worthless."])
+('15', ['Incorrect', 'Carefully analyze the content of the post without assuming information not presented; the post does not indicate a loss of energy.'])
+('16', ['Correct', 'Keep focusing on the explicit content of the post and avoid inferring information not directly stated concerning changes in sleeping patterns.'])
+('17', ['Incorrect', "Review the post's content for emotional context without assuming characteristics that aren't explicitly mentioned, such as irritability."])
+('18', ['Correct', 'Continue to analyze posts closely and avoid making inferences when the information is not provided, as done correctly for the appetite question.'])
+('19', ['Incorrect', "Review the original post without inferring states that are not explicitly mentioned. Focus on what the post reveals about the poster's own state of mind, if at all, rather than the readers' potential feelings."])
+('20', ['Incorrect', 'Avoid assuming that the poster personally experiences the conditions described. Concentrate on the content that pertains directly to the poster’s own feelings or states, which is lacking in this case.'])
+('21', ['Incorrect', 'While the post does not explicitly mention changes in interest in sex, as an analysis task, you must infer from the emotional tone and content. Look for any subtle clues that may indirectly relate to the topic of interest, such as overall well-being or changes in behavior.'])
+
+ITER 1
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time###While the post does not directly mention feeling sad, it acknowledges misfortune, pain, and suffering in life. This implies an understanding of negative emotions, which could lead to feeling sad much of the time.'])
+('2', ['indirectly_mention', "I am not discouraged about my future###Although the post doesn't explicitly mention feeling discouraged about the future, it conveys a positive and supportive tone. The encouragement to appreciate life, stand together, and push back against difficulties implies optimism and a belief in the potential for improvement."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention anything about past failures."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention anything about guilty feelings."])
+('7', ['indirectly_mention', "I feel the same about myself as ever.###The post mentions that everyone deserves to be loved and to be happy, but it does not directly mention the poster's feelings towards themselves. However, the message of appreciation and support in the post implies that the poster may have a positive self-perception and does not dislike themselves."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not contain any explicit or implicit messages about having suicidal thoughts or wishes. It focuses on spreading positivity, appreciation, and support to others, rather than expressing personal thoughts of self-harm."])
+('10', ['directly_mention', 'I cry more than I used to.###The post acknowledges the pain and depression that the reader may have experienced, and expresses sympathy for everything bad that has happened to them. This indicates that the person may cry more than they used to, as crying is often a response to emotional pain.'])
+('11', ['indirectly_mention', 'I am no more restless or wound up than usual.###Although the post does not directly mention agitation, it encourages the reader to take a break, enjoy the moment, and appreciate others. This implies a focus on finding calm and positivity in life, suggesting that the person may not feel more restless or wound up than usual.'])
+('13', ['indirectly_mention', "I do not feel I am worthless.###The post shows empathy towards the reader's potential feelings of worthlessness, but does not reflect the poster's own feelings of being worthless."])
+('14', ['not_mention', "Doesn't mention at all.###There is no indication in the post regarding the author's own level of indecisiveness."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not indicate any loss of energy. The content focuses on appreciation, support, and encouragement, rather than addressing the individual's energy levels."])
+('17', ['indirectly_mention', "I am no more irritable than usual.###Although the post doesn't explicitly mention irritability, it emphasizes support, encouragement, and positivity. This suggests that the individual is not experiencing heightened irritability as there is no indication of negative emotions or frustration in the post."])
+('19', ['indirectly_mention', 'I can not concentrate as well as usual.###The post mentions about pain, depression, and misfortune which implies that the poster may be experiencing difficulties in concentration.'])
+('20', ['not_mention', "Doesn't mention at all.###The post does not contain any information about tiredness or fatigue. The focus is on appreciating others and living life to the fullest."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex. It primarily focuses on expressing appreciation and encouragement towards the reader, rather than discussing personal experiences or feelings about sex."])
+Do MS Check Record:
+('1', ['Correct', 'You made a reasonable interpretation based on the tone of the post. Continue to analyze subtle cues that indicate emotional states, but be careful not to draw too firm conclusions from implicit content.'])
+('2', ['Correct', 'You correctly inferred optimism from the encouraging language. Remember to maintain a balanced perspective and avoid over or underestimating emotions or views not explicitly stated.'])
+('3', ['Correct', 'Continue carefully reading posts for explicit content related to the questions. Maintain objectivity and avoid making assumptions not supported by the text.'])
+('5', ['Correct', "Good job on not inferring emotions or feelings that are not mentioned in the post. When information is not provided, it's important to refrain from speculation."])
+('7', ['Correct', "Continue to evaluate the content of the posts with care, making distinctions between what is explicitly stated and what can be reasonably inferred about the poster's attitude towards themselves."])
+('9', ['Correct', 'Good job recognizing the absence of direct evidence relating to suicidal thoughts or wishes in the post. Ensure that assessments are based on the content provided, avoiding over-inference when no relevant information is available.'])
+('10', ['Incorrect', 'Review the content of the post carefully. Consider both the explicit and implicit messages, focusing on what the poster conveys about their own emotions. Avoid inferring details that are not supported by the post.'])
+('11', ['Correct', 'Continue to analyze the implied emotional state of the poster as you did here. Ensure that all inferences are logically connected to the content of the post.'])
+('13', ['Incorrect', 'The post demonstrates empathy and a desire to uplift others, not an expression of self-evaluation on indecisiveness. Focus on the content relevant to the scale item.'])
+('14', ['Incorrect', 'Avoid assuming that the lack of direct mention equates to an absence of the trait. Consider the overall tone and message of the post to infer if it aligns with feelings of worthlessness or counters them to determine the appropriate response.'])
+('15', ['Incorrect', "Review the post carefully for any implicit information about energy levels rather than making assumptions based on what is not mentioned. Look for cues in the language that might imply the poster's own state of energy."])
+('17', ['Correct', 'Continue to assess the tone and content of posts carefully to infer the absence of certain emotional states like irritability when not explicitly mentioned.'])
+('19', ['Incorrect', 'Review the post carefully to assess for any implicit information about concentration difficulty that might be inferred from the context. Avoid directly attributing personal struggles to the poster unless explicitly stated.'])
+('20', ['Correct', 'Continue to analyze the post as written without inferring issues not mentioned. However, remain open to subtle cues in the language that could hint at tiredness or fatigue.'])
+('21', ['Correct', 'Continue to distinguish between the explicit content of a post and the questions asked. When a post does not provide information relevant to a specific question, as in this case with sexual interest, it is appropriate to note that the post does not mention the topic.'])
+
+ITER 2
+Do MS Record:
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about crying or emotions related to crying."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything about indecisiveness or difficulties in making decisions."])
+('14', ['indirectly_mention', 'I have less energy than I used to have.###The post mentions that life is full of misfortune, pain, and suffering, which could imply a loss of energy. Additionally, it encourages the reader to take a break and enjoy simple pleasures, suggesting that the poster may feel depleted and in need of rest.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not directly mention worthlessness or provide any information that can be used to deduce the answer. It focuses more on expressing appreciation, offering support, and encouraging the reader to embrace life."])
+('19', ['directly_mention', 'I can not concentrate as well as usual.###The post directly mentions that life is full of misfortune, pain, and suffering, which implies that the author may be experiencing difficulties in concentration.'])
+Do MS Check Record:
+('10', ['Correct', "While your analysis aligns with the content of the post, which does not explicitly mention crying, ensure that you're also considering contextual emotional undertones that might suggest a mood or state related to the topic of crying."])
+('13', ['Correct', "It's good that you did not infer indecisiveness where it was not indicated. Remember to analyze the tone and content to identify if there are any subtle hints about decision-making abilities in the future."])
+('14', ['Incorrect', 'Review the post for emotional tone and content. Address elements that may suggest a decrease in vitality indirectly through expressions of empathy and the motivation to uplift others but avoid assuming unmentioned feelings of the poster.'])
+('15', ['Correct', "Ensure an absence of information related to a topic in the post justifies a direct 'does not mention' answer, reflecting the importance of not inferring beyond the given content."])
+('19', ['Incorrect', 'Avoid inferring psychological states not explicitly mentioned in the text. Focus on identifying concrete evidence for concentration difficulty within the post content.'])
+
+ITER 3
+Do MS Record:
+('14', ['indirectly_mention', "I can not concentrate as well as usual.###In the post, the author encourages the reader to take a break and enjoy the simple things in life, such as feeling the sun's light on their face, taking a nap on the soft grass, and smelling the flowers. This suggests that the author recognizes the need for a break and potentially has difficulty concentrating on daily tasks."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not directly mention or indirectly suggest any feelings of worthlessness."])
+Do MS Check Record:
+('14', ['Incorrect', "Review the content of the post for any subtle hints that may reflect on the poster's ability to concentrate. Consider the context and positive messaging when interpreting indirect references to the poster's own experiences or states."])
+('19', ['Incorrect', "Do not assume the absence of information implies a negative state. If the post doesn't indicate the poster's feelings of worthlessness, avoid making such inferences without supporting evidence."])
+
+ITER 4
+Do MS Record:
+('14', ['directly_mention', "I feel utterly worthless.###The post mentions that the reader may be experiencing pain and depression, and the poster expresses sympathy for everything bad that has happened to them. This suggests that the poster may feel worthless in relation to the reader's experiences."])
+('19', ['indirectly_mention', "It is hard to keep my mind on anything for very long.###While the post does not explicitly mention concentration difficulty, it emphasizes the need to take a break and slow down. This suggests that the poster may have difficulty concentrating for extended periods of time, as indicated by the option 'It is hard to keep my mind on anything for very long.'"])
+Do MS Check Record:
+('14', ['Incorrect', "The post is meant to uplift and encourage, showing empathy towards the reader. There's no indication that the poster feels worthless. As a student, focus on the content and tone of the message to accurately reflect the poster's perspective without adding assumptions not supported by the post."])
+('19', ['Incorrect', "The post suggests taking a break and enjoying the moment, which does not necessarily imply concentration difficulty. It could indicate mindfulness. Avoid inferring psychological states that aren't supported by the post's content. Stick to the actual message the poster is conveying."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's post contains themes of pain, suffering, depression, and thoughts about life being better without them. Additionally, the answers to the mental scale questions indicate feelings of sadness, pessimism, and self-dislike, suggesting a possible presence of depression.
+
+Incorrect
+Avoid overgeneralizing based on limited information. The post is supportive and empathetic towards others, and does not necessarily reflect the poster's own mental health. The scale responses indicate only a feeling of sadness, but no other symptoms to suggest clinical depression. Analyze the provided answers more carefully and do not infer beyond the data. Be cautious not to project the supportive message intended for others onto the poster themselves.
+
+ITER 1
+No
+The scale responses indicate only a feeling of sadness, but no other symptoms to suggest clinical depression. The post is supportive and empathetic towards others, and does not necessarily reflect the poster's own mental health.
+
+Correct
+Continue to be careful not to over-infer based on limited information and maintain objective analysis using provided data points. Stay vigilant about differentiating between supportive expressions and personal experiences of the poster.

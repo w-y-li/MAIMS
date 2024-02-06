@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  She told me she would have married me. I thought I needed to gender transition. It all fell to pieces. I don't need to get back together with her. I just wish I knew how she was doing. I wish I could see her and tell her that with some time, I understand what she was going through. But she's the sensitive type and I think contacting her would upset her. So I can't. Pathetic, I know.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses a deep sense of loss and longing for the person they were previously involved with. They mention feeling pathetic and unable to contact the person due to fear of upsetting them. These emotions and concerns indicate a risk of thwarted belongingness, where the individual feels disconnected and isolated from a desired relationship.
+

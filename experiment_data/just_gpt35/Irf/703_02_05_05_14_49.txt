@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I don't wanna live like this. I'm typing as I'm sobbing cause it's just hit me that it won't ever get any better. This is it for me. I promised myself that I would hold on until I could leave my family in a better financially. Until my grandma passed away so I couldn't save her up the pain. But I'm suffering so much. No one fucking likes me. And I don't say anything but god it hurts. It hurts being alone. It hurts being rejected. I've tried to keep going. And perhaps tomorrow I'll wake up and go to work like nothing happened. But tonight I wanna pretend I'm dying. That when I fall asleep it'll be the last time I see this fucking planet. That when I wake up I won't remember anything. I'll be free.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of being alone, rejected, and not liked by others. They also mention wanting to pretend they are dying and wanting to escape their current situation. These thoughts and emotions suggest a risk of perceived burdensomeness, where the individual believes that their existence is a burden to others.
+

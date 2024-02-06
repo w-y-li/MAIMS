@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I can‚Äôt believe I‚Äôve driven a beloved friend to the point of not being able to bear a conversation with me after almost 6 months of no contact. I lose the will to live each and every day.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual feels a sense of isolation and has driven away a beloved friend, leading to a feeling of not being able to bear a conversation. This indicates a potential risk of thwarted belongingness, as the person is experiencing a lack of social connection and support.
+

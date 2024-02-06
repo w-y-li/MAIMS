@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  If you think getting someone to marry you and swear their everlasting love to you will make it any better, it doesn't. It just makes it harder because instead of having the freedom to break down and cry, you actually make another excuse to stay in the bath tub for 2 hours and just feel lonely, hopeless and isolated. And then after that, you come out of the bathroom and pretend work is stressing you out and act cheery and happy over dinner that you don't even taste anymore because literally everything is just not good anymore. And then the whole thing repeats, 7 days a week.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of loneliness, hopelessness, and isolation despite being in a romantic relationship. The individual portrays a sense of burden and pretends to be cheerful and happy despite feeling overwhelmed. These factors indicate a risk of perceived burdensomeness, which is commonly associated with mental health problems such as depression.
+

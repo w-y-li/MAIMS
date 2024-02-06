@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Just booked some counselling sessions. I don't want to go. I don't want to try any more. Fuck it, fuck this shit. I hate feeling like this. I don't want to exist. I want to hurt myself until I don't exist any more. Yet I don't want to do that. I want to live. Oh God, I want to live. Fuck this. A fucking year ago I was in the same place. I wasn't though. I don't even fucking know. Am I crazy? What is this shit? What is this shit? I don't care, fuck it. That's like my catchphrase nowadays. Fuck it. I don't care. I'm in Hell. Is any of this even real? Is it all in my head? What the fuck. I am very upset. I don't want any more of this. What the fuck is my life. My girlfriend reckons I'm doing really well and everything is hunky dory. I don't want to tell her that it's going back to how it was. It will always go back to how it was. This is how it is. This is how it will always be. Fuck it. I don't care about me. That's what I always say. If she ever wants out I'd be fine with it. I love her to fucking bits but I want her to be happy more than I want me to be happy. That's all I want. I gotta do this fucking shit again for another year. And then for God knows how many years after that. I don't want to do it. I don't want to live. Just got off the phone with a lady from the Samaritans. Felt like a fucking idiot. I'm so stupid. Am I crazy? Is this real? I'm sorry.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of isolation, wanting to hurt oneself, questioning the reality of their situation, and a lack of desire to live. These are indicators of thwarted belongingness, a risk factor for suicide.
+

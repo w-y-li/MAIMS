@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm 15 and I think this it. I think once she moves I'm gonna kill myself. I don't wanna feel so alone again and I know I won't be able to take it I'm sorry but this is definitely it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong feeling of loneliness and the belief that the individual won't be able to handle being alone again once someone they're close to moves away. This suggests a risk of thwarted belongingness, which refers to feeling disconnected, isolated, or rejected from meaningful relationships.
+

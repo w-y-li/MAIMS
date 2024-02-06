@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I thought there was a small chance that I might get invited to make plans by old friends, but I should have known that wasn't gonna happen due to persisting false rumors. Now I'm stuck in my room just sad and depressed. I am 21 though, so I'm wondering if I should just go to the bar and drink a bit so at least I'm surrounded by people when the new year starts. I'm hopeful for the future, but rn I'm down as hell. I try to look my best all the time but my nerdy demeanor and social anxiety kills any interest someone might have towards me. Idk what to do.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of isolation, sadness, and low self-esteem due to not being included in social plans and persisting false rumors. The mention of wanting to go to a bar to be surrounded by people and the comment about a nerdy demeanor and social anxiety indicate a desire for social connection but also the belief that one's presence may not be valued or desired by others, which is a risk factor for perceived burdensomeness.
+

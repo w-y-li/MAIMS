@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I thought there was a small chance that I might get invited to make plans by old friends, but I should have known that wasn't gonna happen due to persisting false rumors. Now I'm stuck in my room just sad and depressed. I am 21 though, so I'm wondering if I should just go to the bar and drink a bit so at least I'm surrounded by people when the new year starts. I'm hopeful for the future, but rn I'm down as hell. I try to look my best all the time but my nerdy demeanor and social anxiety kills any interest someone might have towards me. Idk what to do.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions that the poster feels excluded by old friends due to persisting false rumors, leading to feelings of sadness and depression. The desire to go to a bar to be surrounded by people during the new year implies a need for social connection. The mention of social anxiety and feeling that one's nerdy demeanor kills any interest from others further suggests a lack of belongingness.
+

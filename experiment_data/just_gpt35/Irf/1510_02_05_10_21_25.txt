@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  If I down a bottle of sleeping pills and painkillers, would it take me?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a suicidal ideation and a desire to end one's life, which can be a sign of lacking a sense of belonging and connection with others, thus reflecting a risk of thwarted belongingness.
+

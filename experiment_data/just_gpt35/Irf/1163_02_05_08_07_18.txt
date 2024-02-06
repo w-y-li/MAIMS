@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  It's kind of getting to me. I've never been in a relationship, only been on a date twice, I don't even have that many friends. When my dad was my age he was married and had a kid. I know it's not everything, but I feel like I've done so little and have had such a bad time so far. I've been trying online dating but nobody ever responds to my messages. Sorry if this is a jumble. I needed to vent my thoughts I've been having lately.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of inadequacy, comparing oneself to others, and expressing frustration with not being able to form connections. This suggests a risk of perceived burdensomeness, as the individual may feel like a burden or believe that they are incapable of forming meaningful relationships or experiences.
+

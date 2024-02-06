@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I have beaten depression before! I really have! But this time for the life of me I can't! I have so much going on. Too much. A lot of heavy burdens but I also have lots of good too. My dad is living in the hospital. My mom had angina. My dad is a VERY COMPLICATED case. My mom's attitude is  whatever . And I have two older brothers, one who can't help through no fault of his own he has heart problems. The other can't be counted on, he flys out of province regularly. So often in fact that he doesn't even bother to let family know. I have the most amazing husband ever! He is simply the best thing that's ever happened to me. I have three of the world's most friendly cats. We live in a nice house, cheap rent for what we have. Awesome neighbors.and my favorite weather outside, sunny cold and crisp air with crunchy snow on the ground. But I can't kick this depression. I'm attempting medication finally. Because after two years I finally gave in and am trying them. So far I feel worse than usual. I don't know if I have anything left in me to keep trying. In the evening I feel better and try to fill my days as best I can Because commitment seems to be the only thing that gets me out of bed.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me###The post mentions that the person has a lot of good things in their life, such as an amazing husband, friendly cats, a nice house, and great neighbors. This suggests that the people in their life would not be better off without them.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any information or hint about whether the people in the person's life would be happier without them."])
+('3', ['directly_mention', "Not at all true for me.###Based on the post, the individual expresses that they have a lot going on and many burdens, such as their dad's health issues, their mom's angina, and their brothers' problems. However, they also mention having a supportive husband, friendly cats, and enjoying their current living situation. While they may be feeling overwhelmed, there is no indication that they believe they are a burden on society."])
+('4', ['indirectly_mention', 'Somewhat true for me.###The individual mentions feeling worse than usual after starting medication for their depression. This could indicate that they are experiencing a sense of hopelessness and considering their death as a relief for others. However, more information would be needed to determine the extent of this belief.'])
+('5', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person is feeling worse than usual after starting medication and is unsure if they have anything left in them to keep trying. These statements indicate that they may be feeling like they are making things worse for the people in their life, although it is not explicitly stated.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about how the people in their life wish they could be rid of them. It focuses more on their personal struggles with depression and the various challenges they are facing."])
+('7', ['directly_mention', 'Not at all true for me###The post mentions a lot of heavy burdens the poster is facing, such as their dad being in the hospital and their mom having angina. This suggests that the poster may not feel that other people care about them.'])
+('8', ['directly_mention', 'Not at all true for me###The post states that the poster is attempting medication for their depression, but they feel worse than usual. This could indicate that they do not feel like they belong and therefore, the statement is not true for them.'])
+('9', ['indirectly_mention', 'Somewhat true for me###The post talks about having a lot of heavy burdens and not being able to kick depression. This suggests a lack of support and interaction with people who care about the poster.'])
+('10', ['indirectly_mention', 'Not at all true for me###The post mentions having an amazing husband and friendly cats, which indicates that the poster has some level of support and companionship.'])
+('11', ['indirectly_mention', 'Not at all true for me###The post mentions having an amazing husband and friendly cats, which suggests connection with loved ones and pets. Additionally, the mention of commitment and trying to fill the days as best as possible indicates a desire for social interaction and involvement.'])
+('12', ['indirectly_mention', "Somewhat true for me###The post mentions feeling like an outsider in social gatherings due to the heavy burdens and complications the poster is currently facing with their family, particularly with their dad's health issues and their brother's lack of support. These challenges might make the poster feel disconnected and out of place in social situations."])
+('13', ['indirectly_mention', "Somewhat true for me###Although the post doesn't directly mention having people to turn to in times of need, the poster mentions having an amazing husband and friendly cats, which suggests that there are some individuals the poster can rely on to some extent. Hence, I would say that it is somewhat true for the poster."])
+('14', ['indirectly_mention', "Not at all true for me###Although the post doesn't directly mention being close to other people, the poster mentions having a complicated case with their dad, angina with their mom, a brother who can't be counted on, and another brother who doesn't bother to let the family know when he travels. These circumstances indicate a lack of closeness or connection with family members. Therefore, it is likely not at all true for the poster."])
+('15', ['directly_mention', 'Somewhat true for me###The post mentions that the person attempts to fill their days as best they can and that commitment seems to be the only thing that gets them out of bed. This suggests that they have at least some satisfying interactions every day, though it may not be consistent.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a lack of social support and feelings of disconnection from others. The poster mentions feeling like a burden and thinking that their death would be a relief to the people in their life. They also indicate that they rarely interact with people who care about them and feel like an outsider in social gatherings. These feelings of isolation and disconnection indicate a risk of thwarted belongingness.
+

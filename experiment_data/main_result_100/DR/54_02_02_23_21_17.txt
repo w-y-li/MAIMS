@@ -1,0 +1,106 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  My struggle I barely get out of bed, I lost my job because I got to depressed to go in, My family don’t speak to me because they don’t believe in how depressed I am, I’ve distanced myself from all my friends they don’t even check up on me anymore. I just feel like I’ve been forgotten and it hurts so, so much  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###The post mentions that the poster feels forgotten and it hurts so much. Feeling forgotten and hurt can be indicative of sadness, and the intensity of these emotions suggests that the poster feels sad much of the time.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post mentions several struggles, such as losing a job, family not believing in their depression, and distancing from friends. These struggles and the resulting feelings of being forgotten can potentially contribute to a sense of discouragement about the future.'])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The post mentions losing a job, distancing from friends, and feeling forgotten. These experiences can be perceived as failures, which suggests that the individual feels they have failed more than the average person.'])
+('4', ['directly_mention', 'I do not enjoy things as much as I used to.###The post mentions feeling forgotten and being in pain. These feelings can result in a loss of pleasure, indicating that the individual does not enjoy things as much as they used to.'])
+('5', ['directly_mention', 'I feel guilty all of the time.###In the post, I mentioned that I feel forgotten and it hurts so much. This feeling of being forgotten might lead to guilt, as though I am to blame for not being remembered or valued by others.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication of punishment feelings. There is no mention of feeling punished or an expectation of punishment."])
+('7', ['indirectly_mention', 'I am disappointed in myself###The post mentions feeling forgotten and hurt, which can indicate a sense of self-dislike or disappointment in oneself. However, the post does not directly mention self-dislike, but it implies a negative self-perception due to feeling forgotten and hurt.'])
+('8', ['directly_mention', 'I criticize myself for all of my faults###The post directly mentions distancing oneself from friends and feeling forgotten. This can suggest a higher level of self-criticism or self-accusations, as the post implies that the poster blames themselves for the situation and the loss of friends.'])
+('9', ['directly_mention', 'I have thoughts of killing myself, but I would not carry them out.###The post mentions feeling forgotten and that it hurts so much, indicating a deep sense of emotional pain. This is consistent with having thoughts of killing oneself, as mentioned in question 9.'])
+('10', ['indirectly_mention', 'I cry more than I used to.###The post mentions feeling depressed and how much it hurts. These emotional struggles can often lead to increased crying as a way to release the emotional pain, indicating an answer of crying more than I used to, as mentioned in question 10.'])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The post states that the person feels like they have been forgotten and it hurts so much. This suggests a high level of restlessness and agitation.'])
+('12', ['directly_mention', 'It is hard to get interested in anything.###The post mentions that the person has distanced themselves from friends and no longer feels checked up on. This indicates a loss of interest in social activities, which can also extend to a general difficulty in getting interested in anything.'])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###In the post, I mentioned that I struggle to get out of bed and lost my job because I got too depressed to go in. This suggests that I am experiencing a decrease in motivation and an increase in difficulty in making decisions.'])
+('14', ['indirectly_mention', "I feel utterly worthless.###From the post, I mentioned feeling like I've been forgotten and that it hurts a lot. This suggests that I have a strong sense of worthlessness and low self-esteem, feeling completely worthless in comparison to others."])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###The post states that the poster struggles to get out of bed, lost their job, and has distanced themselves from friends and family. These are all indications of a loss of energy.'])
+('16', ['directly_mention', 'I sleep a lot less than usual.###The post mentions that the poster lost their job because they were too depressed to go in, which suggests disrupted sleep patterns. Additionally, feeling forgotten and hurt can contribute to difficulties in falling asleep or waking up early.'])
+('17', ['directly_mention', "I am much more irritable than usual.###The post states that 'I just feel like I’ve been forgotten and it hurts so, so much'. The feeling of being forgotten can lead to increased irritability, as it may make me feel disregarded and unsupported."])
+('18', ['directly_mention', "My appetite is much less than before.###The post mentions 'I lost my job because I got too depressed to go in' and 'I just feel like I’ve been forgotten and it hurts so, so much'. These indicate a change in mood and emotional distress, which can lead to a decrease in appetite."])
+('19', ['indirectly_mention', "It is hard to keep my mind on anything for very long.###In the post, I mentioned that I can barely get out of bed, lost my job, distanced myself from my friends, and my family doesn't speak to me. All these indicate that I have a difficulty concentrating on anything for very long."])
+('20', ['directly_mention', "I am too tired or fatigued to do most of the things I used to do.###I specifically mentioned that I feel like I've been forgotten, and it hurts so, so much. This feeling of being forgotten and the emotional pain I am experiencing suggest that I am currently too tired or fatigued to do most of the things I used to do."])
+('21', ['directly_mention', "I have almost no interest in sex.###The post mentions feeling forgotten and hurt, which suggests a sense of emotional disconnection and low mood. Loss of interest in sex is a common symptom of depression, and the poster's description of feeling neglected by friends and family aligns with the emotional and social withdrawal often present in depressive disorders."])
+Do MS Check Record:
+('1', ['Correct', "Ensure that your assessment of sadness is based on clear evidence from the post. Consider the poster's expressions and the context to accurately interpret their emotional state."])
+('2', ['Correct', "While associating life struggles with pessimism is reasonable, be cautious to infer specifically about the future. Reflect on whether the post provides enough information to make a definitive statement about the poster's outlook on the future."])
+('3', ['Correct', 'Ensure to continue tying your deductions to specific details in the post, as you did by linking the job loss and feeling forgotten to feelings of failure.'])
+('4', ['Correct', 'Good connection between the expressed emotions in the post and loss of pleasure. Keep focusing on mentioned details to support your inferences.'])
+('5', ['Incorrect', 'Be careful not to add emotions not explicitly mentioned in the post. Guilt is not directly mentioned or implied in the context of the original post. Try to infer feelings only when there are direct indicators present in the post.'])
+('6', ['Correct', 'Good job on not inferring emotions that are not present in the post. The poster does not discuss punishment feelings, so it is accurate to state that the post does not mention this emotion.'])
+('7', ['Correct', 'Ensure that you continue to emphasize the indirect ways information can be gathered from a post. However, be careful not to assert certainty where the information is not explicit.'])
+('8', ['Incorrect', "Remember that direct mentions require explicit statements related to the question. Look for clear and specific evidence in the post before concluding there's a direct mention of self-accusations."])
+('9', ['Incorrect', 'Be cautious not to infer suicidal thoughts without clear evidence from the post. Focus on identifying any explicit mention or clear indications related to the question at hand.'])
+('10', ['Correct', 'Continue identifying emotions that could relate to behaviors, like crying, based on what is shared in the post. Maintain the balance between analysis and avoiding over-inference.'])
+('11', ['Incorrect', 'While the post does suggest a high level of distress, it does not provide enough specific evidence of agitation or restlessness. Avoid making assumptions beyond the provided information. Focus on the aspects of the post that pertain directly to the question.'])
+('12', ['Correct', "Good job on identifying the loss of interest from the context of the post. The poster's distancing from friends and lack of motivation to engage in activities like going to work are congruent with a loss of interest as per the question."])
+('13', ['Correct', 'Ensure that all inferences about symptoms like indecisiveness are clearly grounded in the content of the post and continuously cross-check with the DSM criteria for depression.'])
+('14', ['Correct', "For questions about feelings of worthlessness, be mindful to separate the poster's feelings from your own interpretations. Use language from the post to support your answer directly."])
+('15', ['Correct', 'Ensure every inference you make is directly supported by the content of the post to maintain accuracy in your assessments.'])
+('16', ['Incorrect', "Refrain from making assumptions about specific changes in sleep patterns unless they are explicitly mentioned in the post. Instead, state the information generally, such as mentioning 'possible changes in sleep' due to depressive symptoms."])
+('17', ['Correct', "Ensure to maintain the balance between deriving insights and not over-inferencing beyond what's indicated. Explore multiple interpretations and consider their plausibility before finalizing your answer."])
+('18', ['Correct', 'Good application of psychological understanding to infer changes in behavior based on emotional state. Be cautious not to assume direct causation without more specific evidence.'])
+('19', ['Correct', 'This is a good inference based on the symptoms described, such as losing a job and trouble getting out of bed, which can imply concentration difficulties. Keep making connections between explicit information and potential implicit psychological states.'])
+('20', ['Correct', "You've effectively connected the feeling of being forgotten with symptoms of fatigue and the lack of motivation to do usual activities that the poster once did. Continue to utilize the emotions and situations expressed in the post to infer related psychological states."])
+('21', ['Incorrect', "While the post suggests a low mood, it does not directly mention changes in sexual interest. Your inference may be logical, yet it's important only to base answers on the information provided. Carefully differentiate between direct mentions and assumptions. Focus on explicit cues before making inferences about the poster."])
+
+ITER 1
+Do MS Record:
+('5', ['not_mention', "Doesn't mention at all.###The post does not contain any direct or indirect mention of guilty feelings."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not contain any direct or indirect mention of self-accusations."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything about suicidal thoughts or wishes. The focus is primarily on feeling forgotten and hurt."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not provide any clear indication of agitation or restlessness. The focus is on feeling forgotten and hurt, not on restlessness or agitation."])
+('16', ['directly_mention', 'I sleep a lot less than usual.###The post mentions that the poster barely gets out of bed and has lost their job due to depression, which suggests a change in their sleeping pattern. Since they mention struggling to get out of bed, it implies that they are experiencing insomnia or sleeping a lot less than usual.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in interest in sex."])
+Do MS Check Record:
+('5', ['Incorrect', 'Re-examine the post to identify any underlying feelings of guilt the poster may have expressed. Consider the context in which the individual mentions the consequences of their depression, such as job loss and damaged relationships, which may imply feelings of guilt.'])
+('8', ['Incorrect', 'Look for implicit self-accusations within the mention of job loss and ostracization from family and friends. Use your knowledge of depression to infer potential self-blaming thoughts the poster may have for their situation.'])
+('9', ['Incorrect', 'While the post may not explicitly mention suicidal thoughts, the severity of depression described suggests a possibility that should not be dismissed without consideration. Review the emotional context and implications of the post more carefully before concluding about the presence of suicidal thoughts or wishes.'])
+('11', ['Correct', 'The absence of agitation in the post has been correctly identified. Continue to focus on the explicit statements of emotional state provided and avoid inferring unmentioned feelings or behaviors. This level of analysis is appropriate for the task.'])
+('16', ['Correct', "Well done on making a legitimate inference from the post's description of the poster's behavior to answer the question about changes in sleeping pattern. Just ensure that future inferences continue to be closely tied to the specific information provided in the post."])
+('21', ['Correct', 'Good job recognizing that the post did not mention anything about changes in interest in sex. Continue to avoid making assumptions beyond the provided information.'])
+
+ITER 2
+Do MS Record:
+('5', ['directly_mention', 'I feel guilty all of the time.###The poster mentions feeling forgotten and hurting, which implies that they may feel guilty for their current situation and the impact it has on their relationships.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The post mentions losing their job and their family not believing in how depressed they are, which indicates that the poster may engage in self-criticism and self-blame for these outcomes.'])
+('9', ['indirectly_mention', 'I have thoughts of killing myself, but I would not carry them out.###The post mentions feeling forgotten and experiencing a lot of pain. These feelings can often contribute to having thoughts of killing oneself, even if the person does not have the intention to carry them out.'])
+Do MS Check Record:
+('5', ['Incorrect', 'The student should not infer guilt solely based on the expression of sadness and hurt. Look for explicit mentions or clues suggesting feelings of guilt before reaching a conclusion.'])
+('8', ['Incorrect', "Be cautious of overgeneralizing self-accusations. The post mentions external consequences but doesn't directly relate them to self-blame. Focus on what is explicitly stated about self-criticism."])
+('9', ['Incorrect', 'Be cautious not to infer suicidal thoughts where none are explicitly mentioned. Instead, link the elements of the post to associated feelings, and note the possibility of such thoughts without confirming their existence.'])
+
+ITER 3
+Do MS Record:
+('5', ['indirectly_mention', 'I feel quite guilty most of the time.###The post mentions feeling forgotten and hurt, which may indicate a sense of guilt and self-blame for the current situation. However, there is no explicit mention of guilt, so I cannot conclude that I feel guilty all of the time.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention any self-criticizing or blaming behaviors, so I cannot make a deduction or provide an answer."])
+('9', ['directly_mention', 'I have thoughts of killing myself, but I would not carry them out.###The post mentions feeling forgotten and being in pain, indicating the presence of depressive symptoms. Although the post does not explicitly state suicidal thoughts, these feelings suggest the possibility of having thoughts of killing oneself without intending to carry them out.'])
+Do MS Check Record:
+('5', ['Incorrect', 'Review the post for implied emotions related to guilt, such as feeling hurt by being forgotten. Consider guilt as a possible underlying emotion in the context of the described situation.'])
+('8', ['Correct', 'Continue to avoid inferring emotions or behaviors not explicitly mentioned in the post. However, keep in mind the overall context might imply certain feelings or attitudes you could explore.'])
+('9', ['Incorrect', 'Review the post for explicit content and avoid adding information not presented. Explore the emotional language used but refrain from assuming thoughts of self-harm unless stated.'])
+
+ITER 4
+Do MS Record:
+('5', ['indirectly_mention', 'I feel guilty quite a bit of the time.###In the post, the poster mentions feeling forgotten and hurt. These emotions may be indicative of underlying guilt, as feeling guilty is often associated with feeling responsible for negative outcomes or feeling like a burden.'])
+('9', ['indirectly_mention', "I have thoughts of killing myself, but I would not carry them out.###Although the post does not explicitly mention suicidal thoughts or wishes, the intense feelings of being forgotten and the statement 'it hurts so, so much' indicate emotional distress. This emotional distress can imply the presence of thoughts of self-harm, even if not explicitly stated."])
+Do MS Check Record:
+('5', ['Incorrect', 'Avoid inferring guilt from general emotional distress; focus on specific language used to express guilt. Re-analyze the post for explicit evidence of guilt feelings.'])
+('9', ['Incorrect', 'Do not assume suicidal thoughts without explicit mentions or clear indicators; consider the gravity of implying such thoughts and seek more concrete evidence before drawing such conclusions.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to the mental scale indicate symptoms consistent with depression. They frequently feel sad, discouraged about the future, and have lost interest in things. They also express feelings of worthlessness, low energy, changes in sleeping patterns, irritability, and difficulties with concentration. This combination of symptoms suggests the presence of depression.
+
+Correct
+Good work on using the evidence from the post and the answered questions of the relevant mental health scale to support your conclusion. To improve, it is crucial to consistently ensure your analysis is grounded in provided data and avoid making unwarranted assumptions beyond that evidence. Always cross-reference the individual's statements with their responses to the mental health scale to avoid overgeneralizing or misattributing symptoms.

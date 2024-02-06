@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I'm done. I just want to go. I fucking hate that woman who calls herself my mother. I'm tired of being a fucking failure. I'm tired of choosing wrong all the time. I'm just done. I'm tired of her lack of sensibility with others and abundance of greed. Talking about money all the fucking day making me feel shit. I'm tired of always being alone and being the only asshole who is alone when all my friends have a girl. Someone please tell how is the best way to go. I can't afford a gun, i just want to sleep. I got here some painkillers. Will that do the trick? I could cut my veins off but I'm too much of a pussy to stand the pain.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of worthlessness, failure, and a desire to escape from the burden of not living up to expectations. The mention of being alone and comparing oneself to others' relationships also suggests a feeling of being a burden or unwanted.
+

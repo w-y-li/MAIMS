@@ -1,0 +1,138 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  How do you explain depression to someone who just doesn‚Äôt get it or understand it at all?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me.###The post directly mentions that the people in my life would be better off if I were gone.'])
+('2', ['directly_mention', 'Not at all true for me.###The post directly mentions that the people in my life would be happier without me.'])
+('3', ['directly_mention', 'Very true for me###I often feel like I am a burden on society, and it is a constant thought in my mind.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the relief of my death to the people in my life."])
+('5', ['indirectly_mention', "Somewhat true for me###I sometimes feel like the people in my life wish they could be rid of me because of my depression. It's not a constant thought, but it does cross my mind occasionally."])
+('6', ['indirectly_mention', 'Somewhat true for me###I often think that I make things worse for the people in my life because of my depression. I believe my sadness and negative emotions might burden them and negatively affect their own well-being.'])
+('7', ['indirectly_mention', "Very true for me###The post mentions depression, which is often accompanied by feelings of isolation and loneliness. The question asked is about feeling cared for, which can be related to one's experience of depression and how supported they feel by others."])
+('8', ['indirectly_mention', "Not at all true for me###The post talks about explaining depression to someone who doesn't understand it, which suggests a lack of belonging or feeling like an outsider. This can be related to not feeling like they belong in their social environment."])
+('9', ['indirectly_mention', "Not at all true for me.###The post mentions depression, which is often associated with feelings of isolation and disconnection from others. The poster seems to be struggling with explaining depression to someone who doesn't understand it, indicating that they might not have many people in their life who truly care about them."])
+('10', ['directly_mention', 'Not at all true for me.###The post specifically mentions the lack of understanding of depression, which implies a lack of caring and support from others. This suggests that the poster rarely interacts with people who care about them.'])
+('11', ['directly_mention', 'Somewhat true for me###The post mentions feeling disconnected from other people and not being understood, which can indicate a sense of disconnection from others.'])
+('12', ['indirectly_mention', "Very true for me###The post suggests that the individual struggles to explain depression to someone who doesn't understand it. This could lead to feeling like an outsider in social gatherings, as others may not empathize with their experiences."])
+('13', ['indirectly_mention', 'Somewhat true for me###The post talks about explaining depression to someone who doesn‚Äôt understand it at all. This implies that the person is experiencing depression and seeking understanding. Therefore, it is likely that they feel the need to turn to someone in times of need.'])
+('14', ['indirectly_mention', 'Not at all true for me###The post mentions trying to explain depression to someone who doesn‚Äôt get it. This suggests a lack of closeness or connection with others, as the person may feel misunderstood and isolated in their struggle with depression.'])
+('15', ['indirectly_mention', "Very true for me###The post talks about explaining depression to someone who doesn't understand it. This suggests that the person posting has experienced depression and may have had interactions with others who don't understand it. Given the nature of depression, it is possible that the person can have satisfying interactions every day as a coping mechanism or support system. Therefore, I believe the answer is 'Very true for me'."])
+Do MS Check Record:
+('1', ['Incorrect', "Remember to analyze the content of the post carefully. The post asks a question about explaining depression but does not provide direct information about the poster's thoughts on whether others would be better off without them. Avoid assuming content that is not present."])
+('2', ['Incorrect', 'Be cautious not to over-infer from the post. There is no indication that the poster feels that others would be happier without them. Stick to information provided and do not add details that are not implied by the post.'])
+('3', ['Incorrect', 'Avoid assuming that feeling misunderstood about depression equates to a self-perception of being a societal burden. Analyze the content for direct or indirect implications about self-worth or societal contributions.'])
+('4', ['Correct', 'Continue refraining from making inferences without textual evidence. Maintain objectivity when the post does not provide sufficient information on specific inquiries.'])
+('5', ['Incorrect', 'Carefully analyze the content and context of the original post. Avoid assuming details that are not clearly mentioned, and focus on neutrality rather than projecting negative attributes onto the poster without evidence.'])
+('6', ['Incorrect', 'Be careful not to over-interpret or infer negativity that is not explicitly expressed in the original post. Stick to the evidence present and avoid attributing thoughts or feelings to the poster that cannot be directly linked to the post content.'])
+('7', ['Incorrect', 'Avoid making assumptions not directly indicated by the post. Focus on analyzing the given content without inferring feelings or experiences not explicitly mentioned. The post discusses difficulty explaining depression, not whether others care about the poster.'])
+('8', ['Incorrect', "Refrain from concluding feelings of belonging or lack thereof without explicit evidence from the post. The task is to analyze the post's content, not to infer additional emotional states or social connections."])
+('9', ['Incorrect', 'Do not assume the presence or absence of social interactions solely based on the mention of depression. The post does not provide clear evidence about the level of interaction with caring people. Focus on analyzing the content that is explicitly provided.'])
+('10', ['Incorrect', "Avoid concluding that the lack of understanding of depression equates to having no supportive friends. Not all aspects of the poster's social life can be inferred from this single post. Base your answers on direct information rather than assumptions."])
+('11', ['Incorrect', "Avoid assumptions that are not directly supported by the post. Focus on the concrete information provided and remain neutral unless the poster's feelings are explicitly stated. Question 11 does not provide enough context to claim a clear disconnection from others."])
+('12', ['Correct', 'Continue to infer carefully from the context of the post. The connection between struggling to explain depression and feeling like an outsider in social gatherings is a reasonable interpretation that is indirectly supported by the post.'])
+('13', ['Incorrect', "Avoid making assumptions about the poster's support network. The post does not provide enough context to determine their social support. Focus on analyzing the content provided without inferring additional details."])
+('14', ['Incorrect', "Do not jump to conclusions about the poster's closeness to others. The post's question about explaining depression is not sufficient evidence to presume a lack of close connections. Assess only what is explicitly stated or reasonably implied."])
+('15', ['Incorrect', "Avoid making assumptions about the poster's daily experiences based on limited information. Focus on the literal content of the post rather than inferring details that are not explicitly mentioned."])
+
+ITER 1
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the poster's thoughts on whether others would be better off without them."])
+('2', ['not_mention', "Doesn't mention at all.###There is no indication in the post that the poster feels that others would be happier without them. It is important not to over-infer from the given information."])
+('3', ['indirectly_mention', "Somewhat true for me###The post mentions feeling misunderstood and trying to explain depression to someone who doesn't understand it, which implies a sense of burden on society. However, the level of self-perception as a burden is not explicitly stated, so I infer that it is somewhat true for me."])
+('5', ['indirectly_mention', 'Somewhat true for me###The post suggests that the person feels misunderstood and is attempting to explain their depression. This implies a belief that the people in their life might wish to be rid of them, but the level of truthfulness is not clearly mentioned. Therefore, I infer that it is somewhat true for me.'])
+('6', ['directly_mention', 'Very true for me###The post mentions that the poster is experiencing depression, which could contribute to making things worse for the people in their life.'])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything about whether other people care about the poster. It solely focuses on explaining depression to someone who doesn't understand it."])
+('8', ['indirectly_mention', 'Somewhat true for me###The post mentions depression, which can often lead to feelings of not belonging or feeling isolated.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding interactions with caring people."])
+('10', ['indirectly_mention', "Somewhat true for me###The post mentions how to explain depression to someone who doesn't understand it, indicating a need for understanding and support. This suggests that the poster may not feel entirely supported, but it does not explicitly state the level of support received, so I choose 'Somewhat true for me.'"])
+('11', ['indirectly_mention', "Somewhat true for me###The post suggests the need to explain depression to someone who doesn't understand it, which may indicate a feeling of disconnection from others. However, there is no direct statement indicating a clear disconnection, so I choose 'Somewhat true for me' based on the limited information provided."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to whether the poster can turn to people in times of need."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the poster's closeness to other people."])
+('15', ['directly_mention', "Not at all true for me###The post explicitly talks about depression and explaining it to someone who doesn't understand it. This suggests that the poster may not have satisfying interactions on a daily basis due to their depression."])
+Do MS Check Record:
+('1', ['Incorrect', 'Consider the emotional context of the original post: questioning how to explain depression implies the poster may be experiencing feelings related to the condition. Carefully analyze if this could relate to feelings of self-worth regarding how their presence affects others.'])
+('2', ['Incorrect', "Reassess the post's emotional tone. Reflect on whether a person asking about explaining depression might feel like a burden, which could imply they think others might be happier without them. Avoid assumptions, but consider the potential for underlying emotions."])
+('3', ['Incorrect', 'Avoid making assumptions not directly supported by the post. Focus solely on the content provided. Restate only the feelings explicitly expressed about being a burden without inferring further.'])
+('5', ['Incorrect', 'Do not over-interpret or project feelings onto the poster that are not clearly stated in the post. Avoid assuming implications about how others may feel about the poster.'])
+('6', ['Incorrect', 'Reflect on the content and check for any implicit information related to the impact on others. Avoid assuming explicit mention for inferences.'])
+('7', ['Correct', "Continue to distinguish between what's directly stated and what requires inference. For questions the post does not address, maintain neutrality."])
+('8', ['Incorrect', "Consider that the post's reference to depression might imply a struggle with belonging. Reflect on the emotional states associated with depression and infer cautiously without assuming unstated feelings."])
+('9', ['Correct', 'You were right not to infer details that the post did not provide. Ensure always to base your analysis on actual content or context clues present in the posts.'])
+('10', ['Incorrect', 'Avoid inferring levels of support from the post; focus on what is explicitly mentioned without adding assumptions.'])
+('11', ['Incorrect', 'Refrain from assuming feelings of disconnection based solely on the need to explain depression; stick to information provided.'])
+('13', ['Incorrect', 'Examine the nuances in the post. Questioning how to explain depression indicates an experience or understanding of it. This may reflect on their social support. Instead of dismissing the question, consider how depression can affect social connections and use this to infer a more thoughtful answer.'])
+('14', ['Incorrect', "Avoid assuming the lack of information equates to irrelevance. The post's context of depression can imply difficulties in social relationships. Reflect on this possibility when considering the individual's closeness to others and offer a nuanced answer based on psychological knowledge of depression's impact on social life."])
+('15', ['Incorrect', 'Do not infer specifics about daily interactions solely from the mention of depression. Consider alternative ways the poster might have satisfying interactions unrelated to their depression.'])
+
+ITER 2
+Do MS Record:
+('1', ['indirectly_mention', "Somewhat true for me###The post is asking for advice on explaining depression to someone who doesn‚Äôt understand it. This implies that the poster likely has personal experience with depression. Considering the emotional context and the potential underlying emotions of feeling like a burden, it is reasonable to infer that the statement 'These days, the people in my life would be better off if I were gone' could be somewhat true for the poster."])
+('2', ['indirectly_mention', "Somewhat true for me###Given that the post is about explaining depression to someone who doesn‚Äôt understand it, it suggests that the poster may feel like a burden and think others would be happier without them. Therefore, it is reasonable to infer that the statement 'These days, the people in my life would be happier without me' could be somewhat true for the poster."])
+('3', ['indirectly_mention', "Somewhat true for me###In the post, the poster asks how to explain depression to someone who doesn't understand it, which suggests that they might feel like they are a burden on others who don't understand their condition."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about how the people in the poster's life feel about them. It solely focuses on explaining depression to someone who doesn't understand it."])
+('6', ['indirectly_mention', "Somewhat true for me###In the post, the individual is seeking advice on how to explain depression to someone who doesn't understand it. This suggests that the individual may feel like they make things worse for the people in their life, which aligns with a somewhat true response to question 6."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information that directly or indirectly addresses the feeling of belonging, mentioned in question 8. It focuses on explaining depression to others, rather than personal feelings of belonging."])
+('10', ['indirectly_mention', "Not at all true for me###The post indirectly mentions feeling disconnected from other people when the poster asks how to explain depression to someone who doesn't understand it at all. This suggests that the poster may feel disconnected from others because they are struggling to explain their experience of depression."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention having caring and supportive friends, so it does not provide any information to answer this question."])
+('13', ['indirectly_mention', "Somewhat true for me###The post mentions the topic of depression and the struggle to explain it to someone who doesn't understand. This suggests that the person posting may be experiencing difficulties in finding understanding and support from others, indicating that they may have some level of uncertainty regarding the availability of people to turn to in times of need."])
+('14', ['indirectly_mention', 'Not at all true for me###The post touches upon the concept of depression and the challenge of explaining it to others. Depression can often lead to feelings of isolation and distancing oneself from others, making it difficult to be close to them. Therefore, it is likely that the person posting feels that they are not close to other people.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything about satisfying interactions or any interaction-related information."])
+Do MS Check Record:
+('1', ['Incorrect', "Avoid assuming the poster's feelings about being a burden without clear evidence. Focus on what is explicitly stated or strongly implied in the post; do not infer feelings of worthlessness without direct indication."])
+('2', ['Incorrect', "Refrain from speculating on the poster's perception of how others might feel about them. Instead, base your responses on the content and tone of the original post without overgeneralizing or inferring too deeply into the poster's emotional state."])
+('3', ['Correct', "Ensure to maintain objectivity, and don't infer details that are not present. Continue to assess the posts accurately based on the provided information."])
+('5', ['Correct', 'Good job on not inferring emotions or thoughts that are not explicitly stated in the post. Stay vigilant in distinguishing between what is stated and what is implied.'])
+('6', ['Incorrect', 'Review the post carefully and avoid inferring information not present. Focus on what is explicitly mentioned rather than assuming underlying feelings.'])
+('8', ['Correct', 'Keep identifying the absence of information as you did for this question. Avoid making unwarranted inferences about the poster.'])
+('10', ['Incorrect', 'Review the post for implicit clues about social connections rather than assuming an absence of information.'])
+('11', ['Incorrect', 'Do not omit information. Analyze the sentiment behind the post to deduce feelings of connection or isolation.'])
+('13', ['Incorrect', "The post does not directly convey the poster's social support or closeness to others. Avoid assuming the lack of support or closeness based solely on the mention of depression; instead, explore the content for any explicit mentions or hints about relationships."])
+('14', ['Incorrect', 'Do not infer a lack of closeness to others without explicit evidence from the post. Avoid overgeneralization about the effects of depression on social relationships and stick to information present in the post.'])
+('15', ['Incorrect', "Carefully analyze the post for implied information about the poster's social interactions. Consider the context: discussing depression could imply a struggle with finding daily interactions satisfying. Reflect on the emotional content of the post to inform your answer."])
+
+ITER 3
+Do MS Record:
+('1', ['directly_mention', "Not at all true for me###The post directly mentions the statement 'How do you explain depression to someone who just doesn‚Äôt get it or understand it at all?' which indicates that the person is trying to communicate the experience of depression to someone else. This suggests that the person does not feel that the people in their life would be better off if they were gone."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the statement 'These days, the people in my life would be happier without me.' Therefore, there is no information available to make a deduction or form an answer to this question."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to making things worse for people in the poster's life. It solely focuses on explaining depression to someone who doesn't understand it."])
+('10', ['directly_mention', "Not at all true for me.###The post explicitly states the difficulty of explaining depression to someone who doesn't understand it, but it does not mention anything about making things worse for people in the poster's life."])
+('11', ['directly_mention', 'Not at all true for me###The post mentions feeling disconnected from other people, which directly aligns with Question 11 about feeling disconnected.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not provide any information about whether there are people the poster can turn to in times of need. It solely talks about explaining depression to someone who doesn't understand it."])
+('14', ['directly_mention', "Very true for me###The post explicitly talks about explaining depression to someone who doesn't understand it. This implies that the poster is close to other people and has satisfying interactions every day, which aligns with the question."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not provide any information or context that can help me determine the answer to this question. It doesn't mention anything about being close to other people or having satisfying interactions every day."])
+Do MS Check Record:
+('1', ['Correct', 'Good job assessing the content of the post without making unwarranted inferences. Keep focusing on the information provided and continue to avoid making assumptions beyond the data.'])
+('2', ['Correct', 'Well done recognizing the absence of information related to the question. Continue to practice differentiating between the content that is explicitly mentioned and content that requires speculation.'])
+('6', ['Incorrect', "The conclusion that the post doesn't mention anything about the question is correct, but the response should reflect a neutral stance rather than an assumption of the poster's situation. Avoid assuming information not provided."])
+('10', ['Incorrect', "The student incorrectly states the question is directly mentioned in the post. The response should be neutral since the post does not provide information about the poster's social support. Avoid inferring facts not explicitly stated in the source material."])
+('11', ['Incorrect', 'Although the post mentions depression, which can be associated with feeling disconnected, the student should not assume this implies the poster feels disconnected from others without clear evidence from the text. Look for explicit statements or strong contextual clues before answering.'])
+('13', ['Correct', 'Continue analyzing the text as is and do not infer information that is not there. Maintain this objective approach to provide accurate responses based on the available data.'])
+('14', ['Incorrect', "Focus on the content of the post and avoid assumptions. The post doesn't indicate the poster's current social interactions or feelings of closeness to others. Evaluate if the question is addressed indirectly through the emotional context of the post, without assuming details not provided."])
+('15', ['Correct', "Good job recognizing when the post doesn't provide information relevant to the question. It's important to not make inferences when the data isn't present in the post."])
+
+ITER 4
+Do MS Record:
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to making things worse for others in the poster's life."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to having caring and supportive friends."])
+('11', ['not_mention', "Doesn't mention at all.###The post is discussing how to explain depression to someone, but it doesn't mention anything about feeling disconnected or close to other people."])
+('14', ['not_mention', "Doesn't mention at all.###The post is discussing how to explain depression to someone, but it doesn't mention anything about feeling disconnected or close to other people."])
+Do MS Check Record:
+('6', ['Incorrect', 'Review the post for implicit emotions or attitudes that could reflect on interpersonal relationships. Avoid dismissing the content too quickly; consider the tone and context.'])
+('10', ['Incorrect', 'Consider the sentiments expressed in the post to infer about the social support system. Think about how someone questioning the understanding of depression might relate to social connections.'])
+('11', ['Incorrect', 'The post may not explicitly mention feelings of connection or disconnection, but discussing depression does imply possible feelings of isolation or separation. To improve, analyze the implications of the post content and provide a response that explores feelings of connection appropriately in the context of depression.'])
+('14', ['Incorrect', 'While not directly stated, the subject of depression often correlates with social withdrawal or altered social relationships. Rather than dismissing the question, use psychological knowledge to hypothesize how the poster might feel about social closeness and explain your reasoning.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The person's answers to the questions of the mental scale indicate a sense of isolation, feeling like a burden, and feeling like an outsider in social gatherings. These responses suggest a risk of thwarted belongingness, which is a key factor in depression and other mental health problems.
+
+Correct
+Continue to carefully assess the specific answers on the mental health scale and accurately connect them to the conceptual elements of mental health concerns, such as thwarted belongingness. Ensure that your interpretation is always backed up by the evidence provided and maintain this structured and critical approach to analysing self-reported data.

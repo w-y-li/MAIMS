@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  My friend wants to cut everybody off Hi all. I talked to a friend a few days ago who is going through depression and she told me she wants to cut all of her friends and family off. I am taken aback — we’ve known each other since primary school! I just don’t know what to say. She says it isn’t anything personal and she just wants to end all of her relationships. Has anyone dealt with something similar?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to sadness."])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post mentions that the friend wants to cut off all her friends and family, which could indicate a feeling of hopelessness and pessimism about her future relationships.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to past failure."])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post mentions that the friend is going through depression and wants to cut off all her friends and family, which implies a loss of pleasure. However, the post does not directly mention not enjoying things as much as before, but the desire to end all relationships can suggest a decrease in pleasure from social interactions and relationships.'])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###The post mentions that my friend is going through depression, which is a mental state often associated with feelings of guilt. Therefore, I can infer that I feel guilty a good part of the time.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about whether I feel like I am being punished or expect to be punished."])
+('7', ['directly_mention', 'I dislike myself.###The post directly mentioned that the person going through depression wants to cut off all of their friends and family, which may indicate a sense of self-dislike.'])
+('8', ['directly_mention', "I criticize myself for all of my faults.###The post mentioned that the person going through depression wants to end all of their relationships and it isn't anything personal. This could suggest that they may be engaging in self-accusations, blaming themselves for the state of their relationships."])
+('9', ['indirectly_mention', 'I do not have any thoughts of killing myself.###The post mentions that my friend is going through depression and wants to cut all of her friends and family off. While she wants to end her relationships, there is no direct mention of suicidal thoughts or wishes. However, feeling depressed and wanting to isolate oneself can be indicators of potential suicidal ideation. Therefore, based on my understanding of depression, I would say that I do not have any thoughts of killing myself.'])
+('10', ['indirectly_mention', 'I cry more than I used to.###The post does not explicitly mention crying, but it does highlight that my friend is going through depression. Depression often leads to heightened emotional sensitivity and an increased tendency to cry. Therefore, based on my understanding of depression, I would say that I cry more than I used to.'])
+('11', ['indirectly_mention', "I feel more restless or wound up than usual.###The post mentions that my friend is going through depression, which is often associated with agitation and restlessness. While it doesn't provide specific details about the level of restlessness, it implies that my friend is experiencing some level of agitation."])
+('12', ['indirectly_mention', "I am less interested in other people or things than before.###The post states that my friend wants to cut all of her friends and family off, which suggests a loss of interest in relationships. Although it doesn't explicitly mention a general loss of interest in other activities, the desire to end all relationships indicates a significant decrease in interest towards others."])
+('13', ['directly_mention', 'I make decisions about as well as ever.###The post mentions that the friend wants to cut off all her friends and family, indicating a desire to end relationships. This suggests that she might have difficulty in making decisions, as cutting off relationships can be a challenging decision to make.'])
+('14', ['indirectly_mention', 'I feel more worthless as compared to other people.###Although the post does not directly mention feeling worthless, the friend is going through depression, expressing a desire to cut off everyone. Depression often brings feelings of worthlessness and self-doubt. Therefore, it is plausible to assume that the friend might feel more worthless as compared to other people.'])
+('15', ['indirectly_mention', 'I sleep somewhat less than usual.###The post mentions that my friend is going through depression and wants to cut off all her friends and family. Changes in sleeping patterns, such as sleeping less than usual, can be a common symptom of depression.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to the loss of energy, so I cannot make a judgment or provide an answer for this question."])
+('17', ['not_mention', "Doesn't mention at all.###The post does not mention anything about irritability. There is no information provided that would indicate the person's level of irritability."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in appetite. There is no information provided regarding the person's appetite or any changes they may be experiencing."])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###The post mentions that my friend is going through depression, and she expresses a desire to cut off all her friends and family. Wanting to end all relationships can be a sign of feeling overwhelmed and having difficulty concentrating. Therefore, I can say that I am unable to concentrate on anything.'])
+('20', ['directly_mention', "I am too tired or fatigued to do most of the things I used to do.###The post states that my friend is experiencing depression and wants to cut off all her friends and family. This desire to end relationships can drain one's energy. Therefore, I am too tired or fatigued to do most of the things I used to do."])
+('21', ['indirectly_mention', "I am less interested in sex than I used to be.###The post does not directly mention changes in interest in sex, but the poster talks about their friend going through depression. Depression can often affect one's interest in sex, reducing their desire for it. Therefore, based on my knowledge as a psychology expert, I can deduce that the poster might be experiencing a decrease in their interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers on the mental scale indicate symptoms of depression, such as feeling discouraged about the future, not enjoying things as much, feeling guilty, disliking oneself, criticizing oneself, crying more than usual, feeling restless, being less interested in people or things, difficulty concentrating, feeling tired or fatigued, and being less interested in sex.
+

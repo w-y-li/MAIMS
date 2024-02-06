@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I used to be super emotional and negative but now I'm less emotional and more apathetic and sometimes it feels like I'm just there. Like just living and breathing. Like it feels almost spacey. I'm also super lazy and procrastinate hardcore. idk if it's possible for me to still have depression especially since I don't get severe sadness anymore and rarely cry. I'm I just something else?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post primarily describes symptoms of apathy, laziness, and procrastination, as well as a change in emotional state. Although these symptoms may be associated with depression, there is no explicit mention of perceived burdensomeness, which is a key factor in determining risk.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  You know, because people who have it sussed it go to parties and celebrate the new year whereas I re-watch a favourite movie or tv series at 11:30 so I can avoid midnight.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of perceived burdensomeness. The individual's decision to avoid midnight celebrations and instead watch a movie or TV series may simply be a personal preference or a way to cope with social anxiety or discomfort in social situations. There is no indication of feeling burdensome to others.
+

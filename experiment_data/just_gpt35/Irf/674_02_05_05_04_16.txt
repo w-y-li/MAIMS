@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  For the last few years I've ben hopping in and out of depression, but recently I have stopped caring about myself, I just want to make the people around me happy so that they don't end up the same way as me. But I can't. Why? I always try to be as supportive and open as I can, never turn down invitations and try to hide what's inside me. I feel like everyone would rather not have me with him, that everyone sees me as a  third weel , an extra weight they have to carry on their shoulders, and that my  friends  are acting friendly just for compassion. Thank you for reading.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a sense of not belonging and feeling like a burden on others, which suggests a risk of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I’m an empty shell of a person I only show emotion I don’t feel it when society dictates that I should laugh or cry I do but I don’t feel happy or sad just nothing. It makes day to day things hard because I can’t emotionally connect with people and they usually end up hating me for it, I want more than anything to be able to feel something again  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's description of feeling emotionally numb, being unable to connect with people, and expressing a desire to feel something again, aligns with symptoms of depression.
+
+Correct
+Ensure to reference specific symptoms and signs mentioned in the post when justifying your diagnosis, as you did here, to avoid over-inference.

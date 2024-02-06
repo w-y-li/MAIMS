@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I've only ever had one friend that I can tell anything to, but I've always hid my depression and various other mental issues from her. But she knew something was up because sometimes I go weeks to months where I don't leave my room more than once a day and barely eat or drink don't talk to anyone and lose whatever job I have at that time. And finally last night I told her everything and she was the first person to not down play my problems or end the friendship on the spot. She told me that she will be there to support me through everything and even told me she liked me a lot. But I'm hesitant to start a relationship because every relationship I've been in has ended after a month at most because of the way I am and I don't want to lose her as a friend. I do feel a lot better having finally told someone about my depression and other shit. I might ask her out anyway because she is the first girl to fully accept who I am.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and loneliness, as the poster mentions only having one friend and hiding their depression and other mental issues. They also express fear of losing this friend if they start a romantic relationship. This fear of losing social support and connection suggests a risk of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  For the longest time, I couldn't see myself living past 25. This mostly came about towards the last year of University and got worse around the end of 2017, when I wasn't landing work. In 2018, I met someone and suddenly I felt alive again. I felt calm and collected. Although I was stuck in the same loop of applying for work, it didn't feel as tiresome. In 2019, I got accepted into medicine and moved overseas. My partner starts tearing us apart 3 weeks into my move... I drop out of med school because the stresses from the break up became way too much to handle. Especially since I was overseas. Now I am back to applying for jobs in my old degree and getting nowhere. I am heavily depressed. I can't see myself past 25 again. I have this strong feeling I will die this year. Atm, I welcome death with open hands... I am tired of life constantly shifting on me. :'(  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of belongingness and a feeling of isolation. The poster mentions feeling alive and calm when they met someone in 2018, implying a sense of connection and belonging. However, the breakup and subsequent isolation in a foreign country have intensified their feelings of depression and hopelessness, leading to a belief that they may die this year. This suggests a risk of thwarted belongingness.
+

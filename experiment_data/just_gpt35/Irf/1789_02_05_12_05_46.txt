@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I've had depression for as long as I can remember and I can't make any lasting friendships, let alone date anyone. My severe acne gives me really bad anxiety and makes me undesirable and I've tried getting rid of it but nothing works. I've been in stationary therapy for half a year after a suicide attempt. For a while everything was fine, I got a voluntary job in child care and felt like I had a purpose but now, 2 Months in, I am a raging alcoholic and feel like dying again. I feel like everyone hates me and I don't know why. I don't know if I am really insecure or suffering from a mental illness. I really need help but don't know how to get it because I am too scared to reach out.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden to others, as the person mentions feeling like everyone hates them and not knowing why. This suggests a risk of perceived burdensomeness, which is a common factor in suicidal ideation and depressive symptoms.
+

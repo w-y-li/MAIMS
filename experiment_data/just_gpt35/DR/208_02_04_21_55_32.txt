@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Any recommended supplements/vitamins for depression? (Or maybe just tips in general) Lately, I have been taking Vitamin D and doing some light exercising throughout the week and I have noticed the improvement on my mood. It might just be a placebo type of thing, but it would be great if any of you guys can recommend more alternatives/habits to do when depressed. I have depression and I sometimes recognize when I’m starting to fall into a pit of despair and I try my best to avoid it all costs- it is almost impossible to crawl back out!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster explicitly states that they have depression and are experiencing mood improvement through certain habits and supplements.
+

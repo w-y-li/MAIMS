@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Things have been super hard for me lately. I‚Äôve been thinking a lot about death and suicide, more than I ever have. I‚Äôve been having detailed thoughts of suicide‚Äîhow I would do it, where I would do it, what time of day I would do it, how people would react, IF people would react... for the first time in my life I feel like I might actually do it one of these days but idk.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person is experiencing thoughts of suicide and contemplating the details of it. This suggests that they might perceive themselves as burdensome to others and are considering ending their life as a way to alleviate this perceived burden.
+

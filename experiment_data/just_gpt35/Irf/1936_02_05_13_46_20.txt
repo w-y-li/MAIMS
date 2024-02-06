@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Has someone here survived an attempt or knows someone who did? I'd like to know how life looks like when you survive. How it's gonna impact social life (got no friends and family so probably not too much). How it impacts work and school (trying to graduate 2nd time. Dropped out cause of massive depressive episode and cause I got homeless). And just other things like are you put in therapy or even hospitalized and for how long. I'm in a situation where I just wish to die. But I can't kill myself cause I'm worried about what might happen if it fails or I somehow survive. Like how my life that's already the worst could get even worse then.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of social connections and support, as well as a strong desire to die but concerns about potential failure or further worsening of life. These feelings suggest a potential risk of thwarted belongingness, as the individual is expressing feelings of isolation, hopelessness, and a fear of worsening circumstances.
+

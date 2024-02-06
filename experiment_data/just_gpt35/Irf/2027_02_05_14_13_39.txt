@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  So just sent everyone a New Year snaps, they opened it and no one has wished me back. Sums 2017 &amp; a great start to 2018. Here's to another depressing year!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of being ignored and unimportant, which could indicate a risk of perceived burdensomeness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  If you‚Äôre reading this, chances are you‚Äôre still alive. Why haven‚Äôt you killed yourself yet? Since I‚Äôm still alive, there must be a reason but all signs point to it not being worth it for me. Hopefully your reasons can help other people find theirs.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of hopelessness and questioning of one's worth, suggesting feelings of isolation and disconnection from others, which are common signs of thwarted belongingness.
+

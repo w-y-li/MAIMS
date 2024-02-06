@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I hate my life so much I would be better off dead I feel, everyday is the same and nothing in life gets better, and the few friends I have seen to not like me anymore, a lot of them don‚Äôt talk to me at all and my school friends seem like they don‚Äôt like me anymore and I found out a lot of them talking shit about me that I thought were my friends, and I already got bullied for half the year. I don‚Äôt wanna live anymore, and I can‚Äôt even see a doctor even though I have the legal right to one there is none available and walk in clinics are useless. Canada has shit healthcare My grades are so bad and I‚Äôm disappointment to my parents. At this point I wanna just drown my problems with drugs. Me and my gf keep fighting and having problems and she just moved to a new school and told me how ‚Äúeveryone‚Äôs been so nice especially the boys‚Äù and like that‚Äôs troubled me because I‚Äôm ugly and I have nothing to offer with my personality so I feel like any guy is better for her than I am but I need her. I want help but there‚Äôs no one to help me I‚Äôm so done. None of that made sense I‚Äôm just rambling but I just want to die and I‚Äôm contemplating it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of loneliness and social rejection, with the poster stating that their friends don't like them anymore and have been talking negatively about them. This suggests a perceived lack of belongingness, which can be a risk factor for suicidal ideation and self-harm.
+

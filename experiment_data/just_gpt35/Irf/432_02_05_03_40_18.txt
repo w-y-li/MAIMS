@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I don‚Äôt like people. I have isolated myself from the outside world for over six years now. I don‚Äôt want to have long conversations with no one. I just need the strongest meds I can get to combat my issues. Before I try something illegal which I have been tempting to use for some time now. Is there a way for me to achieve this without having to see a psychologist? Sorry if I‚Äôm coming off a certain way. I‚Äôm just tired and need help.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person has isolated themselves from the outside world for over six years and expresses a dislike for people. They also mention needing strong medication to combat their issues and feeling tempted to use illegal substances. These statements suggest a risk of thwarted belongingness, as they feel disconnected from others and are seeking alternative ways to cope with their problems without seeking professional help.
+

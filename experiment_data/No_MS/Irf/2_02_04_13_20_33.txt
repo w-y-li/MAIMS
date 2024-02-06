@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Im afraid. The suicide scale is true. Its gets progressively worse and you dont even realize it. I was at 1 contemplating death and that was it. Now as i live i keep moving farther into the scale. Not existing is all i long for. Its all i think about. Its all i desire. Ive written 2 goodbye notes. I constantly open up the lid of pills and acting as if ill swallow them. Yesterday and today i have been making nooses with a thin belt and putting it around my neck. I squeeze so hard to simulate what its like. When i do i can feel the pressure in the top sides of my head. I can feel the rush and fear. I stopped giving a shit about everything and my attention is mainly death. Someone please comfort me. I am afraid.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation, detachment, and a desire for emotional support and comfort. The individual expresses a fear of not belonging, as they are contemplating self-harm and constantly thinking about death. This suggests a risk of thwarted belongingness, a psychological state characterized by a sense of not fitting in or lacking social connections.
+
+Correct
+Your analysis shows careful attention to the content of the post. You've accurately identified a heightened risk of thwarted belongingness based on the poster's expressions of isolation and longing for nonexistence. To strengthen future responses, ensure that each aspect of psychological terminology you employ is directly supported by evidence from the post, thus avoiding overgeneralization and maintaining a focus on the individual's expressed experiences without inferring unstated characteristics.

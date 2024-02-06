@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I wasn't supposed to live this long I tried to kill myself on my birthday, january 7th, but failed because i vomited up all of the drain cleaner I drank. They kept me in a psych ward for a week. I just came back home and it is kinda surreal given that i packed all my shit up and wrapped up most loose ends the only feeling I can compare this to is like beating an open-world game and just wandering around with nothing left to do. Honestly I am prepared to die but am not willing to overcome my instinctual fear of death again.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions having attempted suicide, feeling prepared to die, and not willing to overcome their fear of death again, indicating a possible presence of depression.
+

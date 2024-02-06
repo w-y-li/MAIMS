@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I was thinking about this today and it is a bit of a quirky unfortunate coincidence.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show signs of perceived burdensomeness. It is simply mentioning a quirky unfortunate coincidence, which does not indicate feeling like a burden to others.
+

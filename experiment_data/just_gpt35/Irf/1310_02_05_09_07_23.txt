@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm not sure which is worse: to be completely physically alone or mentally alone despite there being physical presence. Although I don't have to pretend to be mentally okay when I'm on my own.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of disconnect and loneliness, both physically and mentally. The mention of being mentally alone despite physical presence indicates a lack of emotional connection and potential feelings of isolation. This aligns with the concept of thwarted belongingness, which is characterized by a sense of being disconnected from others and experiencing a lack of belongingness.
+

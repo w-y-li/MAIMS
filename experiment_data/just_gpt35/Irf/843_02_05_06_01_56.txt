@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I‚Äôve said my goodbyes. I think I‚Äôm ready and I broke up with my boyfriend, hopefully since he‚Äôll find out later and/or not at all or won‚Äôt hurt him. I just have no more energy left for the life I‚Äôm living.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the person feels they have no more energy left for the life they are living and have mentioned breaking up with their boyfriend without consideration for his potential hurt. This indicates a potential risk of perceived burdensomeness, as the individual may feel like a burden to others and believes that removing themselves from their current situation would be better for everyone involved.
+

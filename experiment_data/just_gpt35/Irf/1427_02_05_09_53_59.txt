@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Hello.. I've been in a bad way for over 5 years as of today and tried almost every anti depressant but none of them help. I see a therapist and that helps a little having someone to talk to.. but doesn't really fix anything. I really try to be happy I exercise I got a job I was good at Well recently I got fired for  Not being a good fit anymore  or  You seem really down and its bad in the work place  I've turned to cocaine witch atleast makes me feel happy for 30 minutes before I feel like shit again I'm not a heavy user but it honestly seems like drugs are the only thing that really help and I know that sounds crazy.. My family has given up on my bullshit and I dont blame them I get really sad and upset over nothing and without a job I have just become a burden. I have tried to kill myself 2 times and I really reallly don't want to get to that point again but I just really need advice on what to do. I have stopped taking drugs for just over 3 months now to see if that was making it worse but it wasnt Anyone out there?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling like a burden to their family and having tried to kill themselves twice. These are indicators of perceived burdensomeness, which is associated with a higher risk of suicide.
+

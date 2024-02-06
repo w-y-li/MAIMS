@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  A vent more than advice post my close friend who i haven't seen in a while has a few days off so we plan to go for a catch up drink on Tuesday afternoon shes going to her boyfriends on tuesday evening, i dont want to step on any toes so i make sure to ask what time is ok to meet for drinks/when she would want to leave she messages me saying  bf says i can come over tuesday evening whenever suits me  half an hour later she messages again saying  bf said he was hoping we could spend tuesday afternoon together before i stay the night at his.  and asks to move the drinks to another day - even though tuesday is my *only* day off this week and any other day is actually really inconvenient for me and her and her boyfriend both have free afternoons for a few days in a row. not sure if the bf is getting annoyed that i'm spending more time with his girlfriend (barely) and that's why he changed his mind in that half hour between messages, but it's just getting to me. tl;dr - today i feel like i've been put on the backburner, and i'm not any kind of priority when it comes to time spent with my friend. and it sucks.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time###The post mentions feeling like being put on the backburner and not being a priority, which indicates a sense of sadness.'])
+('2', ['directly_mention', "I feel discouraged about my future###The post expresses feeling like being disregarded and not given priority, which can lead to a sense of discouragement about one's future."])
+('3', ['indirectly_mention', 'As I look back on my life, all I can see is a lot of failures.###The post mentions feeling like being put on the backburner and not being a priority, which can contribute to feelings of failure and not being successful in maintaining importance in relationships.'])
+('4', ['directly_mention', 'I do not enjoy things as much as I used to.###The post mentions feeling like being put on the backburner and not being a priority, which can lead to a decrease in pleasure from previously enjoyed activities.'])
+('5', ['indirectly_mention', "I feel guilty a good part of the time.###The post mentions feeling like being put on the backburner and not being a priority when it comes to time spent with the friend. This suggests a sense of guilt for taking up her friend's time and feeling like she is not important enough."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding punishment feelings."])
+('7', ['indirectly_mention', 'I dislike myself.###The poster mentions feeling put on the backburner and not being a priority when it comes to spending time with their friend. This suggests a sense of self-dislike as they are feeling undervalued and unimportant.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information or hints regarding self-accusations. Therefore, it cannot be determined if the poster has any self-accusations based solely on the given content."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes. The focus of the post is on feeling relegated and not being a priority for time spent with the friend."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to crying. The main topic of the post revolves around feeling neglected and not being given priority when it comes to spending time with the friend."])
+('11', ['directly_mention', "I feel more restless or wound up than usual.###The post mentions that the situation is getting to me and I feel like I've been put on the backburner, which indicates a sense of restlessness and agitation."])
+('12', ['directly_mention', "I am less interested in other people or things than before.###The post states that I'm not any kind of priority when it comes to time spent with my friend and it sucks, suggesting a loss of interest in the friendship."])
+('13', ['indirectly_mention', "I find it more difficult to make decisions than usual.###The post mentions that the friend wants to move the drinks to another day, even though Tuesday is the poster's only day off this week and any other day is inconvenient for both of them. This suggests that the poster is finding it more difficult to make a decision about when to meet up with the friend due to the inconvenience caused by changing plans."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention any feelings of worthlessness or compare oneself to others in terms of worth. Therefore, it does not provide any information to answer the question about worthlessness."])
+('15', ['indirectly_mention', "I have less energy than I used to have.###The post mentions that today I feel like I've been put on the backburner and not a priority. This feeling of being neglected can cause a decrease in energy levels."])
+('16', ['indirectly_mention', "I have not experienced any change in my sleeping pattern.###Although the post does not directly mention changes in sleeping patterns, it indicates that the person is frustrated and upset. Typically, changes in sleeping patterns can occur when someone is experiencing emotional distress or anxiety. Since the person does not mention any changes in their sleeping pattern, it can be inferred that there hasn't been a significant change."])
+('17', ['directly_mention', "I am more irritable than usual.###The post mentions that I feel like I've been put on the backburner and that it sucks. This indicates that I am more irritable than usual because of the situation with my friend."])
+('18', ['directly_mention', "My appetite is somewhat less than usual.###The post mentions that I feel like I've been put on the backburner and that it sucks. This emotional distress can lead to changes in appetite and make my appetite somewhat less than usual."])
+('19', ['indirectly_mention', "I find I can not concentrate on anything.###In the post, I mentioned that I feel like I've been put on the backburner, and it's getting to me. This suggests that my mind is preoccupied with negative thoughts and emotions, which can impair my ability to concentrate."])
+('20', ['indirectly_mention', "I get more tired or fatigued more easily than usual.###I mentioned that today I feel like I've been put on the backburner, which implies that I may be feeling emotionally drained or exhausted. This emotional fatigue can translate into physical tiredness or fatigue."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the questions on the mental scale indicate symptoms of depression such as sadness, pessimism, feeling discouraged about the future, loss of pleasure, guilty feelings, self-dislike, restlessness, decreased interest in others and activities, difficulty making decisions, irritability, decreased appetite, difficulty concentrating, and fatigue.
+

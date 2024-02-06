@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  My girlfriend of 18 months broke up with me last March, I got over her within a couple depressing months. Then, I had bad acne, so I was put on accutane, and if anyone who sees this has taken it, they know how bad it is to take that shit, they even warn you that it can cause major depression, but I just wanted my acne gone. I was more depressed than ever, I hated my job, I was lonely, and I had nobody to talk to. There were multiple nights where I sat by my desk with my brothers 9mm, crying, wanting so badly to pull the trigger, but I knew it would affect all the lives around me. Somehow I made it through those 5 or so months of pure hell. Now the depression is somewhat gone, but I‚Äôm twice as lonely. I wake up every morning to the dreadful alarm being the only notification on my phone. I work 8 hours, all 8, I think of being home, but when I get home, I‚Äôm just as sad and lonely. It feels like I‚Äôm the only one on this planet and nobody hears me or my voice. I guess all I want is for somebody to appreciate me for who I am but I‚Äôm still looking for that someone. If you have any words of advice or just want to talk, feel free to comment.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a clear sense of burden and feelings of being lonely and unheard, indicating a risk of perceived burdensomeness.
+

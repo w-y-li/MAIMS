@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm pretending to feel positive emotions, and it makes me terrified. It scares me to know that I am not truly reacting to anything, but just putting on a mask to please others. It just makes me feel worse than I already do. I don't know what to do.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions pretending to feel positive emotions and putting on a mask to please others, which suggests a lack of genuine connection and a fear of rejection or not belonging. This can indicate a risk of thwarted belongingness.
+

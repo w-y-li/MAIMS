@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I can either stay at home and drink wit my parents friends which will be shit or I can ride my bike about 4 hours to get to the city where my friends live. Part of that ride includes going over a fucking mountain. Plus, just took a ritalin pill so I'll be fucked after the ride.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not suggest risk of thwarted belongingness. Although the person is expressing a dislike for spending time with their parents' friends, there is no indication of feeling excluded or isolated from their own social circle or experiencing a loss of connection with friends.
+

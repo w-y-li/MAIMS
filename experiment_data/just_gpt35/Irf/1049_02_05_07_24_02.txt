@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I‚Äôve been struggling with depression, S H since before my teen years and just started to barely get hold of myself. Like just today morning my brain was like, ‚ÄúLIFE IS MEANINGLESS! I WANT TO DIE! LET‚ÄôS DO IT AGAIN! WRIST THEN FOREARM BECAUSE WE‚ÄôRE DOOMED!!!!!‚Äù And I was like, ‚ÄúBAD BRAIN!!!!!‚Äù Then I realise: Even if the situations triggering you are no longer present, even if everything is running smooth by others standards, your brain still relies on its default thought pattern. The only thing one could do is to bypass these thought patterns until it becomes the default. Therapy finally made sense.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate a risk of perceived burdensomeness. The poster discusses struggling with depression, self-harm, and negative thoughts, but there is no specific mention of feeling like a burden to others.
+

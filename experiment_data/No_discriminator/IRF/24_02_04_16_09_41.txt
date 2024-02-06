@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  It just blows my mind. Are there really people out there that wake up, don't continue to lay in bed, and just start doing things? I dunno how they do it. I don't get how someone could enjoy whatever their hobbies are, and enjoy them without ever stopping due to how pointless it is, or how pointless all of life is. I can't imagine what it's like to have a family that loves you, or to be an important person to anyone else. Some people can get so much out of life with minimal effort, and all I can really do is lay in bed and cry about how nothing makes me feel good, how I can't enjoy anything, and how incredibly lonely and alien I feel. Classic question: Why me?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me.###The post mentions feeling incredibly lonely and alien, which suggests a strong sense of isolation. This might lead to the belief that the people in their life would be better off without them. However, it is important to note that this is an indirect mention and not a direct statement about the belief.'])
+('2', ['indirectly_mention', 'Somewhat true for me.###The post mentions feeling incredibly lonely and alien, which suggests a lack of connection and support from others. This could lead to the belief that the people in their life would be happier without them. However, it is important to note that this is an indirect mention and not a direct statement about the belief.'])
+('3', ['indirectly_mention', 'Somewhat true for me###In the post, I mention feeling like a burden and feeling incredibly lonely and alien. These feelings can contribute to the belief that I am a burden on society, although it is not explicitly stated.'])
+('4', ['indirectly_mention', "Somewhat true for me###In the post, I mention feeling like I can't enjoy anything and how nothing makes me feel good. These statements suggest that my death would be a relief to the people in my life, even though it is not directly mentioned."])
+('5', ['directly_mention', "Not at all true for me###The post states, 'all I can really do is lay in bed and cry about how nothing makes me feel good, how I can't enjoy anything, and how incredibly lonely and alien I feel.' This suggests that I don't believe the people in my life wish they could be rid of me."])
+('6', ['directly_mention', "Not at all true for me###The post states, 'all I can really do is lay in bed and cry about how nothing makes me feel good, how I can't enjoy anything, and how incredibly lonely and alien I feel.' This suggests that I don't think I make things worse for the people in my life."])
+('7', ['indirectly_mention', 'Not at all true for me###The poster mentions feeling incredibly lonely and alien, which suggests that they do not feel cared about by others.'])
+('8', ['indirectly_mention', 'Not at all true for me###The poster expresses a sense of not belonging and feeling alien, indicating that they do not feel like they belong.'])
+('9', ['indirectly_mention', "Somewhat true for me###The post mentions feeling incredibly lonely and alien. This implies a lack of meaningful social connections, which suggests that the person does not interact much with people who care about them. However, since the post does not explicitly state the frequency of interaction, the answer is 'Somewhat true for me'."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to having caring and supportive friends. Hence, the answer is 'Doesn't mention at all'."])
+('11', ['directly_mention', "Very true for me###The post directly mentions feeling disconnected from other people with the statement 'how incredibly lonely and alien I feel.'"])
+('12', ['directly_mention', "Very true for me###The post directly mentions feeling like an outsider in social gatherings with the statement 'I don't get how someone could enjoy whatever their hobbies are, and enjoy them without ever stopping due to how pointless it is, or how pointless all of life is.'"])
+('13', ['indirectly_mention', "Somewhat true for me###Although the post doesn't explicitly mention whether there are people the poster can turn to in times of need, it does indicate feelings of loneliness and alienation. Therefore, I deduce that the answer to Question 13 would be 'Somewhat true for me'."])
+('14', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information or indicators regarding the closeness to other people. Hence, I conclude that it doesn't mention Question 14."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention or provide any information related to having satisfying interactions on a daily basis or the level of satisfaction in social interactions."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness, alienation, and a lack of belonging. The poster expresses difficulty in imagining having a family that loves them or being an important person to anyone else. They also mention feeling incredibly lonely and alienated. These sentiments suggest a risk of thwarted belongingness, which is a psychological state characterized by perceived social disconnection and a lack of meaningful relationships.
+

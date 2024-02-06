@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My health, both mental and physical, have been going down hill since December. My life is on hold, I can't do anything, I hate feeling useless. My family yells and screams at me because I'm depressed. They call me lazy and a loser, then question why I dont talk to them about my mental health. It's the two faced nature of them that really gets to me. I'm tired of fighting everything. I have zero support, no friends, nothing but pain. I want it to end, I'm starting to plan out how I want to go. I would go to a hotel to kill myself but I dont have any money because I've been off work. Theres so many people I want to reach out to but I burn all my bridges. Fuck I'm so alone, I can't do this anymore. I hate myself  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of isolation and loneliness, with the poster expressing feelings of having no support, no friends, and burning bridges with people they could potentially reach out to. This sense of disconnection and lack of belongingness increases the risk of experiencing thwarted belongingness, which can further exacerbate mental health issues.
+

@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Does anyone else get such intrusive thoughts like “I hate myself, I should cut myself, I wanna die” that are so intense you have to say it out loud? Sometimes when I get into a cycle of negative thoughts they are so strong and it’s just automatic that I say it out loud. Sometimes if just comes out as an “oh my god” but other times I actually say those thoughts to myself. Physically telling myself that I’m stupid, I have no worth, I wish I could die. Does anyone feel this compulsive need to say their thoughts out loud?  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's intrusive thoughts about self-hatred, self-harm, and wanting to die indicate symptoms of depression. The intensity and automatic nature of these thoughts, as well as the compulsive need to say them out loud, further suggest that the poster may be suffering from depression.
+
+Correct
+Ensure to differentiate symptoms of disorders without overgeneralization, and always consider alternative explanations in your assessments.

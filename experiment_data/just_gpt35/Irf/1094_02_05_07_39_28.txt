@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Im about to graduate and I feel 0 desire to go to college and find a career or anything. What's the point? To while my time away because everyone else is doing it? Lol. Thanks, but no thanks. I'd much rather just not exist. This shits boring and dumb af.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post expresses a lack of desire for college and finding a career, as well as a negative view of life. However, there is no explicit mention of social disconnection or feelings of being excluded, which are key indicators of thwarted belongingness.
+

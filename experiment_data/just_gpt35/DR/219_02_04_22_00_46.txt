@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Feeling drugged and crushing anxiety This post is not unlike the others in this sub. Today im struggling, ive been struggling for years but today its worse. The depression is so bad that i feel drugged. My head feels too heavy for my neck to carry. My anxiety is crushing my chest. How much longer will this continue? Where do i get the energy to keep going?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentioned feeling drugged, heaviness in the head, and crushing anxiety, all of which are common symptoms of depression. They also expressed struggling for years and questioned how much longer this will continue, indicating a long-lasting and chronic depressive state.
+

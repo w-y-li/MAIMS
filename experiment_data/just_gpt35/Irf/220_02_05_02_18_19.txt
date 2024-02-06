@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I was having a good time hanging at home with my parents. .. and now... nothing... all I can think of doing is cutting myself.. wtf is wrong with me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a sudden change in mood and a desire to self-harm, which could indicate feelings of isolation and lack of connection or belonging with others.
+

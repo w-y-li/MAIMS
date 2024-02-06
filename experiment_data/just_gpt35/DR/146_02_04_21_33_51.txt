@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Am I the only one when in social situations even around friends I just want to go home? I feel like it’s a horrible circle to get stuck in because every single time I’m home I’m depressed and want to be out but when I’m with friends I just want to go back home.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling depressed when they are at home, indicating a possible depressive symptom. Additionally, their desire to constantly go back and forth between being out with friends and being home may suggest mood instability and difficulty finding comfort in social situations, which are common features of depression.
+

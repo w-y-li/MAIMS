@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I have been a chronic sufferer of gad all my life. Thanks to klonopin my worries symptons anxieties were gone. But now, the side effects of overdosing on it (which I dont understand cause I only take 2 a day maybe its because my inept doctor upped the dose from 0.5mg to 1) has made my emotions go haywire. I'm constantly euphoric, spontaneous feeling of deep rage and an impulse to punch and scream. On top of that, being ticked off by little things and become explosive. If the price to pay to not feel worried all the time is explosive behaviour Id rather take the other. I have recurred to smoking to calm myself. Right now Im a step away of losing control over and really lose myself go in a blind beastly rage. Since I cant see my inept doctor (the only doctor i can afford) till last day of march. I decided to cut down the pill to one dose a day and Im cosidering splittling the dose myself to see if their are improvements.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person is experiencing feelings of deep rage, explosive behavior, and a struggle to control their anger. These emotions and behaviors can be indicators of perceived burdensomeness, which is a risk factor for various mental health problems.
+

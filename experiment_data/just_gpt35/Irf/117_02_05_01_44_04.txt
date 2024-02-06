@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  PSA: when someone takes their life, the wrong thing to do is reach out to their closest friends asking for explanations surrounding their depression and general mental state. You certainly DO NOT state that you wish the deceased had reached out to their friends. NEWSFLASH: THEY WISH THAT TOO! This is not a time to point fingers, dig for answers, or to share just how much this has hurt you (I'm talking to you -- the people who have met my friend once or twice) -- especially over social media. Depression isn't simple. It is not brought on by having a few bad days at work. It is not remedied by a change of scenery, a phone call, or a quick trip to the doctors. The people who were closest to the deceased are not here to console you. Life is not about you. It is about the people who surround you. It is a time to celebrate the persons life who has passed, reflect inward, and reach out to those who are in your life and ask for what they might need.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post emphasizes the idea that the person who took their life may have felt burdensome to others, especially when the author states 'THEY WISH THAT TOO!'
+

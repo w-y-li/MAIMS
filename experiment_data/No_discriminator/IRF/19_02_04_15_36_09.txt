@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I want to feel like I belong here. I wish there were people whom I could connect with. Unfortunately, I don't know where life is taking me right now. I'm too tired of the everyday grind. Life has become a constant struggle. I wish this agony would end. I've been hoping for a long time. I thought I had people by my side. There are people who care but I don't know why I'm not able to connect with them. I just feel empty. :( I've endured for a long time. I just wish this would end some day.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me###The post mentions feeling empty and that life has become a constant struggle. These feelings indicate a lack of fulfillment and may suggest a low sense of self-worth or a desire for self-harm. However, the post does not directly state that the people in their life would be better off without them, so I cannot give a definitive answer.'])
+('2', ['indirectly_mention', "Somewhat true for me###The post mentions feeling like they don't belong and struggling to connect with people. These feelings could contribute to believing that others would be happier without them. However, the post does not explicitly mention this belief, so I cannot provide a definitive answer."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like a burden and wanting the agony to end, which suggests a belief of being a burden on society. However, it is not explicitly stated, hence I consider it as an indirect mention.'])
+('4', ['indirectly_mention', "Somewhat true for me###The post mentions wishing for the agony to end and hoping for it to end someday. This implies a desire for relief, which could be interpreted as thinking that one's death would be a relief to others. However, it is not explicitly stated, hence I consider it as an indirect mention."])
+('5', ['indirectly_mention', "Somewhat true for me###The post mentions feeling empty and not being able to connect with people. This suggests a possible belief that the people in the poster's life might wish they could be rid of them, which aligns with the 'Somewhat true for me' response."])
+('6', ['indirectly_mention', "Somewhat true for me###The post mentions feeling like the poster is not able to connect with people. This suggests that they might perceive themselves as making things worse for the people in their life, which aligns with the 'Somewhat true for me' response."])
+('7', ['directly_mention', "Not at all true for me###The post mentions that I don't know why I'm not able to connect with people, which suggests that others don't care about me."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling like I belong."])
+('9', ['indirectly_mention', "Somewhat true for me###Although I mentioned that there are people who care about me, I also said that I don't know why I'm not able to connect with them. This suggests that I have difficulty interacting with those who care about me, indicating that the statement is somewhat true for me."])
+('10', ['indirectly_mention', "Not at all true for me###In the post, I expressed my longing for a sense of belonging and connections with people. I also mentioned that I don't know where life is taking me right now. This indicates that I don't perceive myself as having many caring and supportive friends, making the statement not at all true for me."])
+('11', ['directly_mention', "Very true for me###I mentioned feeling disconnected in my post - 'I wish there were people whom I could connect with', 'I don't know why I'm not able to connect with them' and 'I just feel empty'. These statements show that I feel disconnected from others."])
+('12', ['directly_mention', "Very true for me###I mentioned feeling like an outsider in social gatherings in my post - 'I wish there were people whom I could connect with' and 'I don't know why I'm not able to connect with them'. These statements imply that I feel like I don't belong or feel like an outsider."])
+('13', ['indirectly_mention', "Somewhat true for me###The post mentions feeling like I don't belong, not being able to connect with people, and feeling empty. These feelings suggest that I am not close to other people, although there may be some individuals who care about me. Hence, the answer to the question 'These days, I am close to other people' would be 'Somewhat true for me'."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having people to turn to in times of need. Therefore, the answer to the question 'These days, I feel that there are people I can turn to in times of need' would be 'Doesn't mention at all.'"])
+('15', ['indirectly_mention', "Not at all true for me###In the post, I mentioned that I wish there were people whom I could connect with and that I don't know why I'm not able to connect with them. This suggests that I am not having satisfying interactions with people on a daily basis."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden on society and thinking that the people in their life would be better off without them. This aligns with the construct of perceived burdensomeness, which is a component of suicidal ideation and a risk factor for mental health problems.
+

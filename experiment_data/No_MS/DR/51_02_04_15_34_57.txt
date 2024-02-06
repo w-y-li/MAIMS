@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  The good times don't make the bad times worth living. People always act like it's worth living through bad times so you can experience the good times but to me it doesn't feel worth it. Even the good times are tainted and I can barely ever even  enjoy  them the way I'm supposed to. They barely even make it into the picture when I think about my life.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement reflects a negative outlook on life, difficulty finding joy in positive experiences, and a sense of hopelessness. These are common symptoms of depression.
+
+Correct
+Continue practicing cautious interpretation of language and symptoms without overgeneralization or assumptions beyond the given information.

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  As I get set to go to bed at 6pm on NYE (the first %#&amp;$ing NYE I got off from work in years and can't find any plans), I've come to realize that this year, the holidays have done nothing but make me angry. Seeing others having fun, holiday decorations, stuff that are supposed to bring joy... did nothing but piss me off.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of anger and frustration towards the holiday season, as well as a sense of isolation and not belonging. This can suggest a risk of thwarted belongingness, which refers to feeling excluded or disconnected from others, leading to negative emotions.
+

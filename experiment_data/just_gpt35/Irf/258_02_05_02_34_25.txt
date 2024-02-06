@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  It's 5:12 PM central time. I've been in bed, in the dark all day long and I can't get up. I mean, yes, obviously I've gotten up to pee, but then it's straight back to bed. It's birthday depression all over again. Laying around knowing that it's another year and I'm not in a better position that I was in last year, and I genuinely dislike so much about myself. I'm stuck here, feeling miserable, and knowing I have to go out tonight and be social so I don't end up sitting here alone, probably drinking by myself and inevitably hurting myself. Fuck. Whatever. This is obnoxious and I just needed to vent. We'll get through this bullshit. It's just another day. Fuck.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of isolation and detachment, mentioning being alone and potentially drinking by themselves. They also mention feeling miserable, disliking themselves, and feeling stuck, which indicates a sense of not belonging or being disconnected from others.
+

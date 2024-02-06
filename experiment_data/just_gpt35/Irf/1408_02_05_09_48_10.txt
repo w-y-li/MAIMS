@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Does anybody know how I can stop living in the past?! How I can stop wishing my life away because of stupid decisions I‚Äôve made. I can‚Äôt keep going on like this. It‚Äôs destroying me in so many ways.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person is experiencing distress and frustration due to their past decisions. This may lead to a sense of isolation and feeling disconnected from others, which is a characteristic of thwarted belongingness.
+

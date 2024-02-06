@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  This will sound trivial perhaps but I don't know where else to post it. I got enough friends posting on my wall but there's always that one person you deeply care about that doesn't wish you a happy birthday. Then your mind sorta spirals that they don't care about you, that you love them but they either hate you or couldn't care less about you. It's just the person is special and I'm not, and if I lose her as a friend then I'll never find someone like that again. I don't blame her, I bring all my problems to her and she's deeply caring but I think that's just the way she is. And if I got that happy birthday from her I would probably be relieved for a few minutes but that's it. It's just invalidating that the person I share the most to doesn't even really care about me, but my mind just might be jumping to conclusions. Anyways thanks for listening  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of being invalidated and not cared about by a person the poster deeply cares about. These feelings may indicate a risk of thwarted belongingness, where the individual perceives a lack of connection, support, and belonging in important relationships.
+

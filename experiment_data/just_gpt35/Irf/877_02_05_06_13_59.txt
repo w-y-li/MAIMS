@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I‚Äôm so over it. I‚Äôm so over everything. I‚Äôve been getting worse in my isolation, but it yields better results for the world and myself for me to be alone. Maybe i‚Äôll go insane, but what does it matter. My boyfriend does not love me, none of them ever have. My best friend does not like me that much. I have so much wrong with me physically and mentally, if society wasnt so accomodating to idiots like myself i‚Äôd be dead. I should be dead. My boss thinks i‚Äôm racist because i‚Äôm terrible at communicating something. Once i loose that job, i‚Äôll have to deal with my dad, who is bad enough as it is to deal with when i do have a job. Loud noises make me panic, i dont trust anyone, i like to deprive myself of sleep.. if i was anywhere else i‚Äôd be dying slowly. Or maybe someone would of come along and put me out of my misery. But i dont feel complete without the misery, i dont like to inflict it on others unlike people i know, i just dont feel like myself unless i‚Äôm depressed and suffering. I feel greedy if i‚Äôm not unhappy. I listen to everyone, but no one listens to me. When they do, i over do it because i guess i‚Äôm just selfish and thats all they see of me. So when i ever open up again, they roll their eyes and leave. God my head hurts. The virus just needs to wipe me out.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of worthlessness, self-hatred, and a desire for death. The individual perceives themselves as a burden to others and believes that their absence would benefit both themselves and society. These are indicative of risk of perceived burdensomeness, a characteristic often associated with suicidal ideation.
+

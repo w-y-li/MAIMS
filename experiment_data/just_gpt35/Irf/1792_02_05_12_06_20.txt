@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  does anyone else hate school?? It has always been the main cause of my depression and anxiety. Now that school is coming up again, I'm feeling really hopeless and nauseous from nerves.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of depression and anxiety related to school, suggesting a sense of isolation or not fitting in. This aligns with the concept of thwarted belongingness, which refers to a perceived lack of meaningful connections or social support.
+

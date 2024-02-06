@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  The wife isn't negative impact... she's not hateful or part of the problem or anything like that, she's just an unhelpful no-impact. She's supportive insofar as it isn't inconvenient to what she wants. She'll tearfully say she cares, then goes off to watch tv and does nothing to help in any way.  Well what do you want me to do?  I don't fucking know, man. Pay attention, figure something out. Anything other than nothing would be great. I already have a counselor, and a 1st appointment with a psych (after an adventure with my insurance fyi if ***any*** entity is actually hateful, it's any health industry entity, end rant). What I need is directly related only to my S.O. I've been asking her to get involved for years. What I get is  I don't know what to do  and then more tv watching.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual feels their spouse is unhelpful and uninvolved, leading to a sense of burden and frustration. The language used indicates a level of distress and a desire for the spouse to be more supportive.
+

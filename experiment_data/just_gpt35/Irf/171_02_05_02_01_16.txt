@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  All these people lying to me and going behind my back every day has made me bitter and cold. I really miss the feeling of meeting someone new and being interested but I just assume the worst in people and can‚Äôt seem to be happy in a relationship. Anyone else agree!??  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement about people lying, going behind their back, and assuming the worst in people suggests a feeling of being burdened or betrayed by others, which aligns with perceived burdensomeness.
+

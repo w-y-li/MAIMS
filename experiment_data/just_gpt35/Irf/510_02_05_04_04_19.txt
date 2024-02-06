@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I wish I had the courage to open up about my depression. It's my birthday today and it feels like the most miserable day of my life. 21 years old and nothing to show for it. It eats me up inside when I bottle up my emotions and I desperately want to talk to my friends and family but I feel like it would make me a massive burden, or that I'm just looking for sympathy.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual wishes to open up about their depression and talk to their friends and family, indicating a desire for connection and belonging. However, they fear being seen as a burden or seeking sympathy, which suggests a potential risk of thwarted belongingness.
+

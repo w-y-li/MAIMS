@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I can never have a meaningful relationship with anyone, romantically or otherwise. I'm too fucked to make a lasting impression one anyone other than the lost puppy who follows people around hoping for some attention, or a good lay but nothing worth taking to me your friends and family. I'm not looking for pity I just have no one to voice this too. I always feel looked over, left behind, or just plain snubbed altogether. At this point in my life (mid 30s) I'm just done trying and it hurts. I enjoy myself, my hobbies and my alone time. But that is literally all I have other than work. I'm just feeling betrayed and hurt by someone I have always been there for and I just don't want to go through this again and again. I'm just done.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden to others, as seen in statements like 'I'm too fucked to make a lasting impression,' 'nothing worth taking to your friends and family,' and 'just feeling betrayed and hurt by someone I have always been there for.' This suggests a perceived lack of value or worthiness in relationships, which aligns with the risk of perceived burdensomeness.
+

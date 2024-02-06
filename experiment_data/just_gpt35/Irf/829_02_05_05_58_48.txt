@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  How do you talk to people about depression, either about your own or theirs? Do/don'ts?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post is seeking advice on how to talk to people about depression, which indicates a willingness to communicate and engage with others. There is no indication of risk of perceived burdensomeness.
+

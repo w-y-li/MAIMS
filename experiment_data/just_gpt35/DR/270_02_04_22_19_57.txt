@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Never rely on anyone, for even your own shadow leaves you when you are in darkness. Meaning? Once you're in, its impossible to get out.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The statement suggests a feeling of hopelessness and a lack of support from others, which are common symptoms of depression.
+

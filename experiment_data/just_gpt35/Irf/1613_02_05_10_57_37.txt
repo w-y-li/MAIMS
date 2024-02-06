@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I‚Äôve posted here a lot over the last year on both this account and others. I‚Äôve struggled with depression and anxiety for a very long time and it felt like things weren‚Äôt going to get any better. I was giving up. However, about 4 months ago I had perhaps the worse mental breakdown In my life. Everything kind of happened at once and I hit rock bottom. I couldn‚Äôt bring myself to go to work. I spent my days in my room crying. I was angry and miserable. I was a mess. Eventually my sister and brother in law came to my aid and pushed me to get better. We found me a new less stressful job away from my triggers. I opened up about my mental illness. I got a new doctor who took interest in my problems and prescribed me medication and guides to conquer them. I started a new job that I really enjoy. I also started dating this guy that has gone through some of the same struggles and understands how I feel. It‚Äôs been an incredible 4 months. I know it‚Äôs not this easy for others but I got lucky. I also want to thank the people who would give me advice. Thanks guys! Happy New Year!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of perceived burdensomeness. The poster mentions struggling with depression and anxiety, hitting rock bottom, and experiencing a mental breakdown. However, the post also mentions seeking support from family, getting a less stressful job, opening up about mental illness, finding a new doctor, getting prescribed medication, enjoying a new job, and dating someone who understands their struggles. These factors indicate a positive progress and support system, suggesting a decrease in perceived burdensomeness.
+

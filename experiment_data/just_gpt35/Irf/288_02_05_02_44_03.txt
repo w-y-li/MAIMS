@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I can say i'm blessed, I'm 20 with no bills, free college tuition until i'm 25, and a full time 5 x 8 full benefit job. But I can't handle the pressure. I want to work but with a full time job I don't have the time to attend classes and waste the free tuition, I hate the job because I work taking phone calls everyday being yelled by customers but the pay is good. My parents only keep me around so I can attend college but if I don't I'm out. I just want to quit, and attend college full time and have a social life because i still have so many hours to complete to be even close to getting a degree. My depression just gets to me because i'm unhappy and stressed with no social life whats so ever and I want it back. My parents want me to work both full-time and attend college full time but i just can't. I really don't know what i should do, should i leave my job and accept my parents being disappointed over giving up such a good paying job just to achieve my dreams, or give up my social life and college dreams just for a Full benefit job and work throughout my 20's.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of social life and desire for belongingness. The poster expresses feeling unhappy and stressed without a social life and wanting it back. This reflects a potential risk of thwarted belongingness.
+

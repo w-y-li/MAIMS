@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôm within inches of losing my job. I (M25) spent the last year at this job spiraling in apathy and it‚Äôs catching up with me. I‚Äôve been written up and reprimanded and if I lose this job I‚Äôm gonna lose my house and possibly my wife. Wtf do I do? My depression is just fucking my life up again.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of despair and fear about losing their job, house, and possibly their wife. This suggests a potential risk of thwarted belongingness, as the individual feels that their social connections and support systems are at risk.
+

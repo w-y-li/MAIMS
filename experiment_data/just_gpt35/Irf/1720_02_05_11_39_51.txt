@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Anybody else? I'm an aspiring screenwriter and I write my best stuff when I'm in the dark places my depression takes me. I stopped seeing my therapist and stopped taking my medication (sertraline) because I'm scared I'll never get to go to that place again and my writing will suffer because of it. It's ruining my life but it's helping me make a better one for myself. It's the weirdest fucking thing. I guess I could be take my medication like a good little boy, give up on ambition and go work in retail like everybody else I know. But I'm stubborn. I need somebody to talk to. For those wondering: male, 23, recovered alcoholic (nearly 5 years sober), depression began at 18.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and alienation, as the person mentions being in dark places due to their depression and feeling the need to talk to someone. This suggests a risk of thwarted belongingness, which refers to feeling disconnected from others and lacking social support.
+

@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I dont care about anything I honestly dont care about anything. i just drift through this pointless life.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', "I feel sad all the time.###The post mentions that the person doesn't care about anything and says they drift through life, which suggests a lack of interest or pleasure. This feeling of emptiness and indifference is often associated with chronic sadness."])
+('2', ['indirectly_mention', "I feel I have nothing to look forward to.###The post indicates that the person doesn't care about anything and describes their life as pointless. This sense of desolation and lack of purpose can be indicative of pessimism, as they feel that there is nothing positive to expect or anticipate in the future."])
+('3', ['indirectly_mention', "I feel I have failed more than the average person.###The post mentions that the poster doesn't care about anything and drifts through life. This apathetic attitude may indicate a lack of motivation and a sense of failure in different aspects of life compared to others."])
+('4', ['indirectly_mention', "I do not enjoy things as much as I used to.###The post mentions that the poster doesn't care about anything and drifts through life. This suggests a lack of interest or pleasure in activities that were once enjoyable, indicating a potential loss of pleasure."])
+('5', ['indirectly_mention', "I feel guilty all of the time.###The statement 'I don't care about anything, I honestly don't care about anything' suggests a lack of motivation and interest in life, which could be indicative of depressive feelings. In the context of guilt, feeling guilty all of the time can often be associated with low self-esteem, a negative self-image, and self-blame. The post suggests a sense of apathy and a lack of purpose, which aligns with feeling guilty all of the time."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to punishment feelings. It solely focuses on the lack of interest and purpose in life. There is no indication of feeling punished or expecting punishment."])
+('7', ['directly_mention', "I dislike myself.###The post explicitly states that the poster doesn't care about anything and drifts through life. This indicates a lack of self-worth and self-dislike."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to self-accusations or blaming oneself. It solely focuses on the lack of interest and purpose in life."])
+('9', ['indirectly_mention', "I do not have any thoughts of killing myself.###The post mentions that the person doesn't care about anything and feels that life is pointless. These feelings may indicate a sense of indifference or apathy, but they do not directly express a desire to end one's life."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding the person's crying frequency or intensity."])
+('11', ['indirectly_mention', "I am so restless or agitated that it is hard to stay still.###The post mentions that the person drifts through life and doesn't care about anything. This lack of interest and motivation could be indicative of restlessness or agitation, making it hard for them to stay still."])
+('12', ['indirectly_mention', "I have lost most of my interest in other people or things.###The post states that the person doesn't care about anything and drifts through life. This suggests a loss of interest and lack of investment in other people or activities."])
+('13', ['directly_mention', "I can not make decisions at all anymore.###The post mentions 'I honestly dont care about anything' and 'i just drift through this pointless life',which indicates a lack of motivation or interest to make decisions."])
+('14', ['directly_mention', "I feel more worthless as compared to other people.###The post mentions 'I dont care about anything' and 'this pointless life', which suggests a perception of increased worthlessness in comparison to others."])
+('15', ['indirectly_mention', "I have less energy than I used to have.###In the post, I mentioned that I don't care about anything and drift through life. This suggests a lack of motivation or interest, which is often associated with decreased energy levels."])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###In the post, I mention that I drift through life, indicating a lack of purpose or motivation. This could potentially lead to changes in sleeping patterns, such as sleeping somewhat less than usual.'])
+('17', ['directly_mention', "I am much more irritable than usual.###The poster explicitly states that they don't care about anything and they just drift through life, indicating a lack of interest and apathy. These feelings are often associated with irritability, so it can be inferred that the poster is more irritable than usual."])
+('18', ['directly_mention', "I have not experienced any change in my appetite.###The poster does not mention any changes in their appetite. Instead, they state that they don't care about anything and drift through life. Since there is no indication of changes in appetite in the post, it can be inferred that the poster has not experienced any change in their appetite."])
+('19', ['indirectly_mention', "I find I can not concentrate on anything.###In the post, I mentioned that I don't care about anything and just drift through life. This suggests a lack of interest and motivation, which can be associated with difficulty in concentrating. Therefore, it indirectly implies that I find it hard to keep my mind on anything for very long."])
+('20', ['indirectly_mention', "I am too tired or fatigued to do most of the things I used to do.###In the post, I mentioned that I don't care about anything and just drift through life. This indicates a lack of energy and enthusiasm, which can be indicative of tiredness or fatigue. Therefore, it indirectly implies that I am too tired or fatigued to do most of the things I used to do."])
+('21', ['indirectly_mention', 'I have almost no interest in sex.###The poster mentions not caring about anything and drifting through life, which can be interpreted as a lack of interest in various activities, including sex.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the mental scale questions indicate symptoms of depression, such as feeling sad all the time, having no pleasure in things, feeling guilty and worthless, losing interest in others, experiencing changes in sleep and energy levels, difficulty concentrating, and a loss of interest in sex. These symptoms align with the diagnostic criteria for depression.
+

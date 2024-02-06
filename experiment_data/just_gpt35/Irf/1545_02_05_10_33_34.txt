@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I don't think any one on here cares honestly I'm tired of being alone with depression and ptsd and being constantly disrespected trying to make friends  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the poster is feeling alone, depressed, and constantly disrespected. They mention trying to make friends but feeling like nobody cares. This indicates a potential perception of burdensomeness, as they may feel that their presence and needs are unwanted or burdensome to others.
+

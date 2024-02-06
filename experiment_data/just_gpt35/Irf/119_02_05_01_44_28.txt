@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Growing up, people always tell me that I will be somebody and I can be whoever I wanna be if I put my mind into it, 10 years passed turns out I'm a nobody with no motivation to live. Looking back, I wanna hug my old self and tell him to cherish every moment of being a young kid because the world is a harsh place to everyone and you'll also be a victim of society. I'm nothing, worthless, and nobody. If I die nothing would happen... The world around me would still be the same... People die every day, so what would make it different if I disappear? NOTHING! I decided to hang myself in the bathroom. I cried with pain and satisfaction that I will be leaving this earth then the shower curtain rod in my bathroom broke... It was a loud thud but luckily everyone's asleep... I proceeded to cry in silence and thinking about what should I do? I'm ugly, worthless, piece of crap, and a waste of oxygen... My acne scars make me feel like I'm nothing... Everything about me is SHIT. I wanna die... or be murdered so I can blame somebody for my death. I don't wanna live anymore...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a sense of worthlessness, feeling like a burden to others, and expressing thoughts of wanting to die or be murdered to blame someone else for their death. These are indicative of a risk of perceived burdensomeness which is often associated with depression and suicidal ideation.
+

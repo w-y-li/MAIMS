@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I‚Äôm not sure I‚Äôm depressed or not but here‚Äôs what‚Äôs I‚Äôve been going through. I sometime feel great and productive in the morning and when I‚Äôm about to leave home, I get this very down feeling forcing me to overthink about my appearance, my life, my education. Or in the other word, I feel good in the morning and feel worse in the afternoon. It happens like only 1 or 2 days a week, sometimes every 2 weeks, or sometimes none in a week. I have googled stuff about depression and bipolar (not sure what‚Äôs the difference) but I‚Äôm not certain what I‚Äôm going through. I‚Äôve been getting told to see a therapist on the internet but I don‚Äôt feel like spending my money on that especially I have financial issues. Oh btw I‚Äôm male 20yo.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling great and productive in the morning, but experiencing a down feeling and overthinking in the afternoon. This pattern of fluctuating moods and negative thoughts could indicate a sense of disconnect or lack of belonging, which suggests a potential risk of thwarted belongingness.
+

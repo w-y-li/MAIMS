@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Really. They care, but it doesn't make *me* feel better. I make them feel worse. What's the point? They feel worse, I never feel better (apart from when I do sport or go some place such as school, because it is a distraction from myself), so really, there is no point. I'm a waste. I'm a terrible person, by the way, you really don't have to tell me. And I know this is simply because I only care about myself. Really, I don't know why I'm posting this. Don't even bother, happy new year, I guess.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of worthlessness and self-blame, which are commonly associated with perceived burdensomeness. The poster expresses a belief that they make others feel worse and that they are a waste and a terrible person.
+

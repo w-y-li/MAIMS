@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My partner and I recently moved across country. I was doing so well up until now. No homesickness, not even really upset about leaving, found a job, trying to make friends. Then I wake up one morning and can't stop crying. Pull myself together and go to work. Next morning same thing. Just super emotional but also numb inside. I'm lonely and I feel like I can't even really talk about it. I'm supposed to be having this huge life adventure and I just wake up crying all the time. Don't know what to do.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions feeling lonely and the inability to talk about it, which suggests a lack of social connection and belongingness. This can be indicative of thwarted belongingness.
+

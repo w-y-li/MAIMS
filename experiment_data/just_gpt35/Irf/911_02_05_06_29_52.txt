@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  All my life, I have been a sycophant trying to be better, because I can't find it within myself. I don't want to be this person, but I don't know how to stand up for myself and fend for the person who I want to be. It's gotten me nowhere. I feel like I am so far behind and get caught up in the past. I need to be someone better, and I need to stop sulking. I feel that every time I try to get better, someone does something petty to set me off, and because of this, I have fallen into avoiding people. I don't want to be this person, and I'm so scared that I'm falling into a slump that I won't be able to pick myself out of. I can't get scared, and I have to pick myself out of that, or I just won't make it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a constant feeling of being behind, being unable to stand up for oneself, and a fear of falling into a slump without being able to get out of it. These thoughts and emotions suggest a risk of perceived burdensomeness, feeling like a burden to others and perceiving that others are intentionally causing setbacks.
+

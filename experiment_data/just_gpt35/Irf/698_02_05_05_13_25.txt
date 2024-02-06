@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  i have 34 375 mg tablets and alcohol. i just want to know if it will hurt and how long it will take.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a potential risk of thwarted belongingness as the person is expressing feelings of wanting to know if the combination of tablets and alcohol will cause harm and how long it will take. This indicates a potential desire to escape or disconnect from their current social environment.
+

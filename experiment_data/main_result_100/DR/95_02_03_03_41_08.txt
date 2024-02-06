@@ -1,0 +1,214 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Accidentally kissing my friend after a party, what did i fuck up So there's this situation that happened once a week or two ago that kind of made my pretty-close-but-not-best friend dude friend feel...distant? I'm not sure but it coincides with the event and theres this subtle awkward  accidentally  distant attitude i feel coming from him, though I apologized for the kiss the very same day by text, that happened the morning after i slept in his bed at his party (we were 5 friends chatting in his bedroom until 6 am and the others left but we fell asleep spooning. madeout when we woke up. He has a girlfriend whos super jelly and absolutely doesnt want him to mess around, even tho he cheated on her a few weeks ago without telling. I have a boyfriend of 2 years that i love as well but we have a history of cheating on eachother and not knowing how to end this. POINT IS, i really wanna have sex with my friend right here. Once or whatever, i don't really care, but i want my hots to go away and while hes only generically attractive, with very bland taste in women (im bisexual af and i don't understand most straight men tastes alright) , hes really more than that and has some kinks i share. Plus, everyone has had some sort of relationship or hookup with eachother in the past in our friend group, and him and I are the only pair that hasn't, so thats kind of anpther thing that makes the idea awkward. Not bright. I don't know what to feel about this. I slept in his bed again last night after an intimate party with our friends because the guest room was busy. At some point I was pretty sleepy and felt his hand on my panties (i didnt have pants on because its uncomfortable), but he was well asleep. I gradually felt a tingling growing round there and it slightly woke me up, and after some time he was starting to give me hand stuff, leaned in to kiss me, and then - maybe it was because i didnt bring my toothbrush and had bad breath, i hope not for the love of god, a few seconds after that he removed his hand from what i literally had been dreaming -fuck my life for making me that horny, grabbed my boob a little and then got his hand back to him and fell asleep. I dont know why he stopped, and thats the most awlward thing : what could that mean? If we had full on sex we could both agree it was wanted but a mistake, and reveal sexual tension between us. But right now it looks like i dont really attract him at all, but he still likes some intimacy, just not with me. Is that your analysis as well? What do you guys read in this? Im well known for liking girls and have short jaw length cherry red hair. A very cute face but Basically not your typical bombshell. Maybe that's what differences me from other girls he would dig having sex with? Otherwise...im just lost. I have no way of finding out if hes attracted to me in the slighest at the moment , and if we're not meant to bang, i really feel like we lost this kinda vibe in the past months where he would randomly text me every few days and have long, intimate convos about feelings and things happening in our lives, even if were not best friends, we got along well. (We dont really hang out alone together though, that might have happened once or twice only) I really hope i wont lose this definitely from those two awkward, unwanted situations(?) , it would really suck cause I really like him as a friend.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about sadness. There is no indication or expression of feeling sad in the content."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything about pessimism. There is no indication of feeling discouraged about the future or expressing hopelessness."])
+('3', ['directly_mention', 'As I look back on my life, all I can see is a lot of failures.###The poster mentions feeling like a failure and talks about past failures in relationships and cheating with their current boyfriend.'])
+('4', ['directly_mention', 'I do not enjoy things as much as I used to.###The poster mentions wanting to have sex with their friend to relieve their sexual tension and mentions losing the vibe and intimacy they used to have in the past months.'])
+('5', ['directly_mention', 'I feel guilty all of the time.###The post explicitly mentions feeling guilty multiple times throughout the text.'])
+('6', ['directly_mention', 'I feel I am being punished.###The post mentions feeling punished, particularly in the context of the awkward and unwanted situations.'])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to self-dislike. It mostly talks about the dynamics of a friendship and the poster's attraction towards their friend."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to self-accusations. It mainly focuses on the confusion and dynamics of the friendship between the poster and their friend."])
+('9', ['indirectly_mention', 'I have thoughts of killing myself, but I would not carry them out.###The post mentions being lost and not knowing what to feel about the situation. This indicates some level of emotional distress and confusion, which might lead to thoughts of suicide. However, the post does not mention any desire or intention to act on these thoughts.'])
+('10', ['directly_mention', 'I cry more than I used to.###The post explicitly states feeling lost and experiencing unwanted situations, which can be emotionally distressing. Crying more than usual could be a reflection of heightened emotional turmoil.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything about agitation. The focus is on the dynamics between the poster and their friend."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything about loss of interest. The topic is primarily about the poster's feelings towards their friend."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything about indecisiveness."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything about worthlessness."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything about loss of energy."])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###The post mentions that the poster slept in his bed again last night and felt his hand on her panties. This suggests a change in sleeping pattern as she mentions being somewhat sleepy. Although the information is not explicit, it indirectly suggests a change in sleeping pattern.'])
+('17', ['directly_mention', 'I am more irritable than usual.###The post mentions that I feel a subtle awkward and distant attitude coming from my friend after the incident, which could indicate increased irritability.'])
+('18', ['directly_mention', "My appetite is somewhat less than usual.###The post mentions that I have lost my hots and my friend's behavior is making me feel unattractive, which could suggest a decrease in appetite."])
+('19', ['indirectly_mention', "I find I can not concentrate on anything.###The post mentions the poster's difficulty in concentrating as evidenced by the statement 'what could that mean? If we had full on sex we could both agree it was wanted but a mistake, and reveal sexual tension between us.' This statement suggests that the poster's mind is preoccupied with thoughts of having sex with their friend, making it difficult to concentrate on other things."])
+('20', ['indirectly_mention', "I get more tired or fatigued more easily than usual.###The post indirectly mentions tiredness or fatigue through statements like 'I was pretty sleepy and felt his hand on my panties' and 'maybe it was because i didnt bring my toothbrush and had bad breath.' These statements suggest a lack of energy and tiredness, indicating that the poster is more fatigued than usual."])
+('21', ['directly_mention', 'I have lost interest in sex completely.###Based on the post, the poster mentions that they have a strong desire to have sex with their friend but also states that they have lost interest in their current boyfriend. This suggests a decrease in overall interest in sex.'])
+Do MS Check Record:
+('1', ['Incorrect', 'Consider the emotional context and implications of the post. The poster expresses confusion and concern about the change in their relationship with their friend, which can be associated with feelings of sadness. Look for underlying emotions that are not directly stated but implied through the situation.'])
+('2', ['Incorrect', 'Assess the tone and implications of uncertainty within the post. The poster questions the future of their friendship and expresses doubts about the mutual attraction, indicating elements of pessimism. Infer the emotional undertones that are present, even if not explicitly mentioned.'])
+('3', ['Incorrect', 'Carefully analyze the post for explicit mentions of past failures. The poster discusses a specific event rather than a broader reflection on life failures. Focus on the content directly related to the event.'])
+('4', ['Incorrect', 'Do not infer a loss of pleasure from the desire to resolve sexual tension or change in interaction patterns. Assess whether the poster explicitly states a diminished interest in previously enjoyable activities.'])
+('5', ['Incorrect', 'Revisit the text to identify explicit mentions of guilt rather than inferring unsaid emotions.'])
+('6', ['Incorrect', 'Avoid assuming feelings of punishment without clear evidence in the post.'])
+('7', ['Incorrect', 'Examine the context for implicit clues of self-dislike; the poster discusses actions that may not align with their values, indicating potential for covert self-dislike.'])
+('8', ['Incorrect', 'Look for underlying themes of regret or guilt that could point to self-accusations, as the poster describes actions that may carry such emotional weight.'])
+('9', ['Incorrect', 'Be cautious not to misconstrue emotional distress as suicidal ideation without clear evidence. Focus on analyzing the post for explicit indications of suicidal thoughts before inferring such serious matters.'])
+('10', ['Incorrect', 'Avoid making assumptions about behaviors such as crying without explicit mention in the post. Look for concrete statements related to the question and base your response solely on provided information.'])
+('11', ['Incorrect', 'Re-examine the post for implicit signs of agitation, such as the described awkwardness or the intense desire to resolve sexual tension.'])
+('12', ['Incorrect', "Consider the possibility of a loss of interest in the poster's existing relationship, as indicated by their expressed desire for another person and past history of infidelity."])
+('13', ['Incorrect', "Review the post and consider the context in which issues of indecisiveness may be inferred, such as the poster's ambiguity about wanting a sexual encounter with their friend."])
+('14', ['Correct', 'Ensure that your analysis is based on information provided within the post. If the post does not reference feelings of worthlessness, stating so is appropriate.'])
+('15', ['Incorrect', 'Look for implicit information that can suggest emotional or physical states related to the question. The post does not provide direct information about loss of energy, but try to infer from the overall situation or emotional tone.'])
+('16', ['Correct', 'Good inference on the sleeping patterns from the context provided. Continue to look for indirect cues in the post that suggest changes in regular behavior, like changes in sleeping environment and habits.'])
+('17', ['Incorrect', 'Carefully analyze the content of the post for explicit mentions related to the question; the post does not provide clear information about increased irritability that belongs to the poster.'])
+('18', ['Incorrect', "Ensure that inferences about changes in appetite are based on direct evidence; the post does not specifically discuss the poster's appetite."])
+('19', ['Incorrect', 'Look for specific evidence within the post that relates directly to concentration difficulties. Refrain from inferring psychological states that are not supported by explicit statements in the post.'])
+('20', ['Incorrect', 'Focus on instances in the post that discuss energy levels explicitly. Do not equate the state of being sleepy at a single event with an overall increase in tiredness or fatigue.'])
+('21', ['Incorrect', "Re-examine the post and accurately reflect the poster's expressed feelings and experiences related to sexual interest. Avoid misrepresenting the poster's level of interest in sex; cite specific portions of the text to support your assessment."])
+
+ITER 1
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time###The poster expresses confusion, concern, and a sense of loss in their relationship with their friend. They mention feeling distant and the presence of awkwardness and tension. These emotional experiences suggest sadness.'])
+('2', ['directly_mention', "I feel discouraged about my future###The poster questions the future of their friendship and expresses doubts about the mutual attraction. They mention feeling uncertain and hope that the friendship won't be lost. These feelings indicate elements of pessimism."])
+('3', ['directly_mention', 'I do not enjoy things as much as I used to###The poster mentions feeling a subtle awkward and distant attitude from their friend, which coincides with the event of the accidental kiss. This suggests a change in their enjoyment of the friendship and indicates a possible loss of pleasure.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any explicit mention or indication of past failures. The focus is primarily on the situation with the friend and the desire for sexual intimacy."])
+('5', ['directly_mention', 'I feel guilty all of the time.###The post mentions feeling guilty for kissing the friend and wanting to have sex with him, despite having a boyfriend. This indicates a pervasive sense of guilt throughout the post.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any clear evidence or mention of feeling punished. It primarily focuses on the dynamics between the poster, their friend, and their respective partners."])
+('7', ['indirectly_mention', 'I am disappointed in myself.###The post mentions feeling lost and unsure about the situation with the friend, which could indicate disappointment in oneself for potentially ruining the friendship and engaging in actions that may not align with personal values.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The post discusses the guilt and regret surrounding the actions with the friend, including the desire for sex and potential betrayal of their respective partners. This suggests a tendency towards self-critical and self-blaming thoughts.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything about suicidal thoughts or wishes. There is no indication of any intention or desire to kill oneself."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not contain any information about the frequency of crying. Crying is not mentioned or discussed in the post."])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The post mentions feeling distant from the friend and describes a subtle awkward and distant attitude from the friend, which could indicate restlessness or agitation.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The poster expresses a strong desire to have sex with their friend, even though they have a boyfriend. This can suggest a decreased interest in their current relationship and potential loss of interest in other people or activities.'])
+('13', ['indirectly_mention', 'I have greater difficulty in making decisions than I used to.###The post mentions that the poster is unsure about how to feel regarding their attraction towards their friend, which suggests indecisiveness.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding loss of energy."])
+('17', ['not_mention', "###Doesn't mention at all."])
+('18', ['not_mention', "###Doesn't mention at all."])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###The post mentions that the poster is feeling distant and noticing a subtle awkward and distant attitude from their friend. This indicates that their mind is preoccupied with these thoughts, making it difficult for them to concentrate.'])
+('20', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indications about tiredness or fatigue, other than briefly mentioning being sleepy at a party."])
+('21', ['directly_mention', 'I have lost interest in sex completely.###The poster mentioned that they want to have sex with their friend but do not care about having sex with other people, indicating a complete loss of interest in sex.'])
+Do MS Check Record:
+('1', ['Incorrect', 'Review the post for specific statements of feeling sad instead of drawing general conclusions. Consider the context and explicit expressions before attributing emotions to the poster.'])
+('2', ['Incorrect', 'Focus on references the poster makes about their future perspectives and refrain from inferring pessimism without clear indications in the post.'])
+('3', ['Incorrect', 'Re-examine the post for implied emotions and feelings rather than explicit statements. Consider how the described events could lead to a decrease in enjoyment or pleasure as part of the friendship.'])
+('4', ['Correct', 'Maintain your cautious approach in not inferring loss of pleasure where it is not explicitly stated or clearly implied in the context of the post.'])
+('5', ['Incorrect', 'Reevaluate the content for implied feelings of guilt, rather than explicit statements. Consider the context and consequences of actions described which may suggest guilt.'])
+('6', ['Correct', 'Continue to use direct references from the post to determine the presence or absence of emotions related to the questions. Good job identifying a lack of evidence for punishment feelings.'])
+('7', ['Incorrect', 'Avoid conflating direct statements with indirect implications. The post does not explicitly state or suggest self-dislike. Your analysis should reflect only what can be supported by the explicit content in the post. Look for direct evidence of self-dislike before concluding that it exists.'])
+('8', ['Incorrect', "Be cautious not to over-infer based on guilt or regret expressed in the post. While the poster mentions feeling lost, this does not necessarily imply self-accusations. Your role-playing should be grounded in the explicit content of the post and not make assumptions about the poster's self-critical nature."])
+('9', ['Correct', "Remember, it's important to avoid inferring information not present in the text. Stick to the information given."])
+('10', ['Correct', 'Good job on not making assumptions beyond the content of the post. Be cautious of reading into the text what is not there.'])
+('11', ['Incorrect', 'Review the original post for concrete behaviors that display agitation, rather than inferring based on assumptions; agitation should be identifiable by observable markers of restlessness or increased frustration.'])
+('12', ['Incorrect', 'Focus on direct mentions of interests or activities the poster has stopped enjoying; loss of interest should not be inferred from the pursuit of a single desire or from changes in a relationship.'])
+('13', ['Correct', 'Ensure that all claims of indecisiveness are substantiated with specific examples from the post. Continue to focus on direct evidence within the post when assessing traits.'])
+('15', ['Incorrect', 'Carefully analyze the post to identify any expressions of physical or emotional states that could suggest a loss of energy, such as descriptions of lethargy or fatigue after social events.'])
+('17', ['Incorrect', "Review the post to identify any emotional cues or contexts that could offer insight into the poster's irritability, rather than dismissing the question outright."])
+('18', ['Incorrect', 'Analyze the post for any indications of behavioral changes such as changes in routine or desires that could hint at an altered appetite.'])
+('19', ['Incorrect', 'Review the post and focus on any cues that might suggest issues with concentration. Avoid making assumptions not supported by the content.'])
+('20', ['Correct', 'Good job on not inferring information that is not present. Keep focusing on what is explicitly mentioned in the post.'])
+('21', ['Incorrect', "Review the post and match the response to the explicit sentiments of the poster. The post conveys a continued and specific interest in sexual relations with the friend, which contradicts the statement of having 'lost interest in sex completely.' Focus on reflecting the intricacies and contradictions within the poster's narrative without over-simplifying."])
+
+ITER 2
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention feelings of sadness."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention feelings of pessimism."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not contain any explicit mention or indication of past failure."])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The poster expresses guilt when discussing their desire to have sex with their friend, who has a girlfriend, while also being in a committed relationship themselves. This indicates a sense of guilt about their actions and intentions.'])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention self-dislike explicitly or indirectly. There is no evidence or implication of feeling the same about oneself as ever, losing confidence, being disappointed, or disliking oneself."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention self-accusations explicitly or indirectly. While the poster expresses feeling lost, this does not necessarily imply self-criticisms or blaming oneself for everything bad that happens."])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The post mentions feeling a subtle awkward and distant attitude from the friend after the incident, which indicates restlessness and agitation.'])
+('12', ['directly_mention', 'I am less interested in other people or things than before.###The post mentions a decrease in the friendship and intimacy with the friend, indicating a loss of interest.'])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post mentions feeling tired and sleepy after social events, indicating a potential loss of energy.'])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post mentions feeling distant and experiencing awkwardness with the friend, which could contribute to increased irritability.'])
+('18', ['directly_mention', "My appetite is somewhat less than usual.###In the post, the poster mentions having a decreased appetite by saying 'i want my hots to go away' and 'if were not meant to bang, i really feel like we lost this kinda vibe in the past months' which suggests a decrease in appetite."])
+('19', ['indirectly_mention', "It is hard to keep my mind on anything for very long.###Although the post does not explicitly mention concentration difficulties, the poster talks about feeling 'lost' and not knowing what to feel about the situation, suggesting a possible difficulty in maintaining focus or concentration on their emotions and thoughts."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about changes in interest in sex. The focus is mainly on the poster's desire to have a sexual relationship with the friend."])
+Do MS Check Record:
+('1', ['Incorrect', 'Review the post to identify any implicit emotional content, such as regret or disappointment, that could suggest feelings of sadness.'])
+('2', ['Incorrect', "Consider the implications of the poster's situation and reflect on whether the uncertainty and confusion expressed could imply a pessimistic outlook."])
+('3', ['Incorrect', 'Re-examine the content of the post, as it contains hints of emotional conflict which may imply a sense of perceived failure in maintaining personal boundaries or relationships.'])
+('5', ['Correct', 'Continue recognizing indirect cues in social media posts that suggest underlying feelings, such as guilt, that are not explicitly stated.'])
+('7', ['Incorrect', 'Re-evaluate the post for subtleties that may indicate self-dislike, such as dissatisfaction with personal behavior or relationships.'])
+('8', ['Incorrect', "Consider the implications of the poster's actions and feelings as potential sources of self-accusation, despite not being stated overtly."])
+('11', ['Incorrect', 'Consider the context without inferring additional emotions not mentioned. The post does not explicitly state agitation but rather confusion and desire to maintain a relationship with the friend. Focus on textual evidence rather than assumption.'])
+('12', ['Incorrect', 'Avoid conflating a specific complicated relationship with a general loss of interest. The poster indicates a complex dynamic and specifically mentions a desire for a sexual encounter, not a broad loss of interest in people or activities.'])
+('15', ['Incorrect', "Consider context-specific cues without overgeneralizing emotional states. Focus on the poster's behavior and reported feelings directly related to energy levels in the given scenario, rather than assuming a general loss of energy."])
+('17', ['Incorrect', "Do not infer irritability without explicit evidence. Assess the poster's statements for specific affective language that indicates irritability rather than attributing general emotional states based on the situation's complexity."])
+('18', ['Incorrect', 'Review the post and evaluate if there is a specific reference to changes in appetite rather than inferring broadly from expressions of desire. Consider the literal context and avoid extrapolating beyond the given information.'])
+('19', ['Incorrect', "Analyze the post for concrete examples of concentration difficulty instead of general feelings of being 'lost.' Look for expressions that suggest an inability to focus on tasks or maintain attention."])
+('21', ['Incorrect', "Review the content for implicit information related to changes in interest in sex and assess the poster's expressed desires and behaviors to accurately answer the question."])
+
+ITER 3
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time###The poster mentions feeling distant from their friend and feeling awkward and lost. These emotions could indicate sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future###The poster expresses uncertainty, confusion, and a fear of losing their connection with the friend. These feelings suggest a pessimistic outlook about their future relationship.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###In the post, the person talks about their history of cheating on their boyfriend and not knowing how to end the relationship, which suggests a sense of failure in maintaining their commitment to the relationship.'])
+('7', ['indirectly_mention', 'I dislike myself.###The person mentions feeling lost, unsure about their attractiveness, and questioning why their friend stopped the intimate interaction, which indicates a level of self-dislike and insecurity.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The poster mentions feeling distant and awkward after the accidental kiss and wonders if they messed up. This indicates that they are being self-critical and blaming themselves for the situation.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indications about restlessness or agitation. The focus of the post is on confusion and desire to maintain a friendship."])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The poster mentions feeling distant from their friend and describes a subtle awkward and distant attitude coming from the friend after the kiss. This suggests a potential loss of interest in their friend and possibly other people or things.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to loss of energy. It focuses more on the dynamics of the relationship and the desire for a sexual encounter, rather than discussing energy levels or fatigue."])
+('17', ['directly_mention', 'I am much more irritable than usual.###The post states that there is a subtle awkward and distant attitude coming from the friend, which suggests that the poster is experiencing a higher level of irritability than usual.'])
+('18', ['directly_mention', "My appetite is somewhat less than usual.###The post mentions feeling horny and having bad breath, which could affect the poster's appetite. The statement suggests a decrease in appetite compared to the usual."])
+('19', ['directly_mention', 'I can not concentrate as well as usual.###The post mentions feeling lost and unsure about how to feel about the situation, which suggests difficulty concentrating and staying focused on the issue at hand.'])
+('21', ['directly_mention', "I have almost no interest in sex.###The post expresses a strong desire for sex with the friend, but also mentions feeling confused about the friend's mixed signals and lack of interest in intimacy. This suggests a decrease in interest in sex overall."])
+Do MS Check Record:
+('1', ['Incorrect', "Be cautious not to read emotions into the post that aren't explicitly described. Focus on the content and tone of the post, and avoid assuming emotions like sadness without clear evidence."])
+('2', ['Incorrect', 'Avoid inferring a pessimistic outlook based solely on expressions of confusion or fear of losing a connection. Look for direct expressions that reflect a negative view on the future to support your conclusions.'])
+('3', ['Incorrect', 'Review the post to assess failure without overgeneralizing. The poster mentions specific incidents, but not a general sense of failure more than the average person. Focus on the evidence provided.'])
+('7', ['Incorrect', "Carefully analyze the post's content to determine self-dislike. The poster expresses confusion and concern, but does not explicitly state they dislike themselves. Avoid inferring emotions not directly supported by the text."])
+('8', ['Incorrect', "The post does contain evidence of self-accusation, such as describing the situation as 'awkward' and pondering what they did wrong. Examine the language and context to identify self-critical themes."])
+('11', ['Correct', 'Good job identifying the lack of agitation in the post. Continue to focus on explicit indicators rather than assuming emotions not clearly expressed by the poster.'])
+('12', ['Incorrect', "Consider the poster's expression of ongoing interest in their friend, and the stated desire for a sexual encounter; this contradicts the notion of a general loss of interest. Re-evaluate the post to better match the poster's demonstrated levels of interest."])
+('15', ['Correct', 'Recognize that the absence of any mention of loss of energy in the post precludes making inferences about it in the answer. Continue to distinguish between content that is directly related to the question and content that is not.'])
+('17', ['Incorrect', 'Avoid assuming emotions not explicitly stated. Focus on information given about mood and behavior without adding interpretations of irritability.'])
+('18', ['Incorrect', 'Do not extrapolate information about appetite from unrelated details. Stick to concrete mentions or context clues directly tied to eating habits.'])
+('19', ['Incorrect', "Review the post and pay attention to details that indicate the poster's current mental state. Do not assume that a sense of confusion automatically means difficulty with concentration. Look for explicit examples or information in the post that substantiate the claim of concentration difficulty."])
+('21', ['Incorrect', "Reassess the post content concerning sexual interest. The poster expresses a clear interest in sexual activity, which contradicts the answer given. Avoid making false inferences about the poster's levels of sexual interest based on mixed signals or confusion described in the post."])
+
+ITER 4
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not explicitly mention the feeling of sadness. Although the poster expresses confusion and concern about the situation with their friend, it does not indicate that they are feeling sad."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not directly mention feelings of pessimism. While the poster expresses uncertainty about the future of their relationship with their friend, there is no indication of a generalized negative outlook on life or lack of hope."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to past failure."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to self-dislike."])
+('8', ['not_mention', "Doesn't mention at all.###The post doesn't contain any evidence of self-accusations. The focus is more on the dynamics between the poster, their friend, and their respective partners."])
+('12', ['not_mention', "Doesn't mention at all.###The post doesn't provide any indication of a loss of interest. The poster expresses ongoing interest in their friend and is contemplating a sexual encounter."])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The poster mentioned feeling a subtle awkward and distant attitude in her friend after the incident, which could indicate increased irritability.'])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information about changes in appetite."])
+('19', ['indirectly_mention', 'I can not concentrate as well as usual.###The poster mentions feeling distant and experiencing subtle awkwardness in their relationship with their friend after the kiss. This suggests that their mind is preoccupied with thoughts and emotions related to this event, potentially affecting their concentration abilities.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to changes in interest in sex. The focus is on the dynamics and confusion surrounding the friendship and potential sexual attraction."])
+Do MS Check Record:
+('1', ['Incorrect', 'Examine the emotional tone and context of the post more closely to infer underlying feelings of sadness. Though not explicitly mentioned, feelings of confusion and concern could be associated with sadness.'])
+('2', ['Incorrect', "Consider the implications of the poster's concerns about the relationship and their confusion over the situation to infer potential pessimism regarding outcomes with their friend."])
+('3', ['Incorrect', "The answer lacks a deeper analysis of the implications of the poster's actions and their reflective comments. Though past failures are not explicitly mentioned, the underlying tone and context suggest a pattern of behavior that can infer past failures in relationships. Consider the consequences and emotional responses to these events as they imply a history that may relate to past failures."])
+('7', ['Incorrect', "Though no direct expression of self-dislike is present, the poster's reflection on their own appearance and comparison to others suggests underlying insecurities. This can hint at a form of self-dislike. Analyze the emotional subtext and the implications of their words to infer more than just the surface-level content."])
+('8', ['Incorrect', 'Review the post for implicit information. Look for cues that might suggest self-accusation, such as regret or apology for actions.'])
+('12', ['Correct', 'Continue to carefully analyze the content for relevant information before answering, as you have done here.'])
+('17', ['Incorrect', "The post does mention a sense of tension and awkwardness, but it does not directly relate to the poster's own irritability. Analyze whether the emotions described are more about the poster's own feelings or projections onto the other person."])
+('18', ['Correct', 'The conclusion about the absence of information on changes in appetite is valid. However, make sure to consider subtle cues that might suggest emotional states possibly affecting appetite in future posts.'])
+('19', ['Correct', 'Consider connecting details in the post to psychological concepts with precision, noting how specific events may affect cognitive functions such as concentration.'])
+('21', ['Incorrect', 'Review the post content carefully to assess relevant information. Although the post does not explicitly mention changes in sexual interest, it heavily discusses sexual thoughts and desires, thus indicating a maintained or increased interest which should have been the answer to the question.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the answers provided, the poster's responses suggest feelings of guilt, difficulty making decisions, and decreased ability to concentrate. These are symptoms commonly associated with depression.
+
+Incorrect
+Review the diagnostic criteria for depression carefully and avoid conflating temporary emotional states with clinical conditions. Guilt feelings and decision-making difficulties alone do not constitute a diagnosis of depression. Consider the full context of the poster's situation and avoid overgeneralization based on limited information. Look for persistent patterns rather than isolated incidents when assessing mental health, and be mindful not to diagnose without sufficient evidence.
+
+ITER 1
+Yes
+The poster mentioned feeling guilty a good part of the time, having greater difficulty in making decisions, and having trouble concentrating. These symptoms, along with the context provided, suggest a possibility of depression. However, further evaluation would be necessary for a definitive diagnosis.
+
+Incorrect
+Avoid overgeneralizing or diagnosing based on limited information. While the poster exhibits some symptoms that may be associated with depression, such as guilt and issues with concentration and decision-making, these alone are not sufficient to diagnose depression. Additionally, the context of these symptoms is not clear. The poster's behaviors and experiences described in the post do not necessarily indicate depression and could be related to other factors or stressors in their life. When answering mental health questions, students should refrain from making a diagnosis and instead observe if there is a pattern that warrants professional evaluation. Remember to consider the whole context and avoid confirmation bias. Provide a response that reflects the complexity of mental health and the necessity for thorough assessment by a professional.
+
+ITER 2
+No
+While the poster exhibits some symptoms that may be associated with depression, such as guilt and issues with concentration and decision-making, these alone are not sufficient to diagnose depression. Additionally, the context of these symptoms is not clear. The poster's behaviors and experiences described in the post do not necessarily indicate depression and could be related to other factors or stressors in their life. When answering mental health questions, it is important to refrain from making a diagnosis and instead observe if there is a pattern that warrants professional evaluation. The complexity of mental health requires thorough assessment by a professional.
+
+Incorrect
+Avoid making assumptions about the individual's mental health without evidence from the post and the answered questions. Focus on the evidence presented rather than inferencing additional unstated information. Review the relevant symptoms of depression in-depth and differentiate between emotional responses to complex social situations and clinical symptoms. When analyzing answered questions from a mental health scale, do not ignore responses that indicate significant issues like 'feeling guilty' and 'difficulty making decisions'. Do not diagnose, but do recognize when the pattern of answers suggests that a professional evaluation is warranted. Instead of dismissing possible symptoms, consider how they may or may not fit into a broader behavioral context and pattern that could suggest depression. Consistently apply the same rigor to all items of the mental health scale when analyzing its results.
+
+ITER 3
+Yes
+The poster's responses to the mental health scale indicate feelings of guilt, difficulty making decisions, and difficulty concentrating. These responses, along with the description of feeling lost, wanting to have sex as a way to alleviate the 'hots,' and potential loss of a friendship, suggest that the poster may be experiencing symptoms of depression.
+
+Incorrect
+Avoid overgeneralizing based on limited information. Focus on concrete evidence from provided answers and differentiate between actions taken and mental health symptoms. Challenge assumptions and clarify the difference between impulsivity, interpersonal conflicts, and actual indicators of depression.
+
+ITER 4
+No
+The poster does not demonstrate significant indicators of depression based on the provided information. While there may be some interpersonal conflicts and feelings of guilt, there is no evidence of other symptoms such as loss of pleasure, worthlessness, changes in appetite, or changes in sleeping pattern.
+
+Correct
+Continue to analyze the poster's mental health using their direct responses to the mental health scale without inferring additional issues that are not explicitly stated. Be cautious to avoid assuming that conflicts or experiences of guilt alone are indicative of depression. Keep applying critical thinking to distinguish between emotional reactions to situational stressors and clinical symptoms of a mental health condition.

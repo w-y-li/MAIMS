@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I took an IQ test on queendom and got a score of 112. That puts me at or near one standard deviation below the engineering fields. The science fields are probably close to that as well. I feel like this is a result of my genetics, my economic background, and my lack of learning things throughout life. This IQ would qualify me to go into Accounting, IT, or the trades but I don't want to be sitting at a desk all day or getting dirty. I want an occupation that allows me to have a mixture of being outdoors and being at a desk or lab.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of thwarted belongingness.
+

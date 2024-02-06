@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I've struggled with depression for a few years amd gone through eating disorders and self harm addiction amd suicidal thoughts but its just become too much recently. I decided im going to resort to just weed at first but if that doesn't work try something harder until it either works or i od and die but if nothing ends up working ill probably end up killing myself. Edit: narcotics  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of burden on the individual, as they express feelings of struggling with depression, eating disorders, self-harm addiction, suicidal thoughts, and mention resorting to substances in an attempt to find relief. This suggests a high risk of perceived burdensomeness.
+

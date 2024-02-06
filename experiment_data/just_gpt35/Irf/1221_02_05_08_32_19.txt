@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  We had a 2 hour delay this morning in school and I came in with all my homework done but I still have to make it through swim practice and work. I kinda hope I drown during practice before the pain comes back tho.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests thoughts of wanting to drown during swim practice, possibly as a way to escape the perceived burdens of schoolwork, swim practice, and work.
+

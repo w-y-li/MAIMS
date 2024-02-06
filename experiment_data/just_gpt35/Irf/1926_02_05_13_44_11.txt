@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I cant concentrate on my work. I'm moving so slowly. I just want to curl up and not exist.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The individual's statement of wanting to curl up and not exist suggests a feeling of isolation and disconnection, which is indicative of a risk of thwarted belongingness.
+

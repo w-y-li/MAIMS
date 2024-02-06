@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I'm supposed to take one pill every night to help me sleep but I wonder if I just fucking take like 5. I don't give a shit. No one else gives a shit either. Maybe tomorrow it'll be 2, the the next day 6 then maybe I'll do 9 if I'm still alive. I dont care. Nothing feels good.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a lack of caring about oneself and a desire to inflict harm, which is indicative of risk of perceived burdensomeness.
+

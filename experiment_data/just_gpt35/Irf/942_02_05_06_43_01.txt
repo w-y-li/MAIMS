@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Sometimes life can be too much. We can often feel like sharing how depressed we are is being burdensome to those we love but all of the people who care about you, would much rather hear about how unwell you've been feeling instead of seeing you crack or break down or have to go to your funeral. It may not be comfortable but we have to be bold in our sharing with our friends because at the end of the day our people are all we have. Please, if you need to talk, dont keep it in. Find someone to talk to.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and the fear of burdening others with one's depressed feelings, suggesting a potential risk of thwarted belongingness.
+

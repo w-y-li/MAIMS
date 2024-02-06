@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  All day today I've been shaking and my anxiety has been through the roof. I spent my day in bed crying and throwing up. Nothing brought on this panic attack, I've just been awfully down.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post describes symptoms of anxiety and depression but does not indicate a risk of thwarted belongingness.
+

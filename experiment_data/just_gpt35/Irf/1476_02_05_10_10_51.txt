@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm still young, but that's my entire issue. I'm 15, a freshmen at online school, I don't have much friends, and That's kind of the problem, but when I start feeling better I have a birthday, and it makes me feel like the deadline for being an adult is coming closer. I am so worried about growing up, I grew up in an extremely poor family with a single mother but the bond I have with my sister (17) and mother is what keeps me going. I don't want these times to end,I am so alone. I don't have anyone but my sister and mother, and when I am 18 I don't know what I'll do. I'm not good at anything, I'm ugly, I have no friends, no social life, I have no plan at all and I'm so scared. I just need someone to talk to. I just want a friend, I'm so lonely.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of loneliness, longing for connection, and a lack of social support. The poster expresses feelings of being alone and having no friends, which can contribute to a sense of thwarted belongingness.
+

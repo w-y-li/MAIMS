@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I need to do my homework soon and shower but i just cant anymore i feel empty and i want to stop existing. I want to kill myself but also want to erase myself painlessly. üòê  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of emptiness, a desire to stop existing, and wanting to erase oneself painlessly. These thoughts and emotions are characteristic of thwarted belongingness, as the individual may feel disconnected, isolated, and lacking a sense of belonging in their current situation.
+

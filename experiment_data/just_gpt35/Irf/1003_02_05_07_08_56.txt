@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I have been taking Mirtazapine 15mg for a month and the last 3 days I've been taking Mirtazapine 7.5mg to start to wean myself off them. Like 30 minutes ago, I had what I believe to be a seizure. I was taking a bath. When I got up to get out I felt dizzy, light-headed, and my vision started blacking out. I sat down on the toilet because I felt faint, and then all I can remember is waking up on the ground inbetween the toilet and my sink, twitching. I am wondering if this could have anything to do with me taking Mirtazapine? I know the obvious answer is go talk to your GP, but I can't get in until Thursday and I'm worried so I would like to figure out possible causes before I go. Thanks any help is appreciated. Also I don't know if this is the right subreddit to ask, but I figured it would be worth a shot.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate risk of perceived burdensomeness. The poster is seeking information about a possible side effect of their medication and expressing concern about their recent experience. There is no indication of feelings of burden or being a burden on others in the post.
+

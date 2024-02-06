@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôm fake , the person everyone knows is actually just an act . I‚Äôm that guy all of you know but don‚Äôt really know . I‚Äôm that guy that makes the whole room laugh . I‚Äôm that guy that is always there to help someone . I‚Äôm that guy that no matter how much pain it‚Äôs caused me I will forgive someone. But the truth is nobody knows who I really am , I don‚Äôt even know who I really am . I spend so much time being the fake me that I have lost me . But do any of us really know who we are ? I just want to be free . Behind my smile is pain and hatred , every laugh is a distraction. Like every good show it has a beginning and an end and I don‚Äôt know when it began or how it will end . Like everyone else I‚Äôm just an audience member watching .  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of disconnection and a lack of authentic connection with others. The individual describes themselves as being known by others but not truly known, highlighting feelings of isolation and a lack of belonging. This suggests a risk of thwarted belongingness, which is a psychological state characterized by the perception of being disconnected from others and lacking meaningful social connections.
+

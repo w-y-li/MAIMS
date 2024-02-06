@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I'm 23, I have a worthless ass history degree, no physical attraction whatsoever, no real job, no social life, and no hope of getting out of the US because fuck this country. Sure my nieces and nephews might miss me, but they're good kids and they'll get over it when I'm dead. The only reason I haven't killed myself yet, is that I'm too much of a pussy to shoot my empty fuckin head  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, hopelessness, and a desire to escape which are signs of a perceived burdensomeness. Additionally, the mention of contemplating suicide suggests a potential risk.
+

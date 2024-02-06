@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm tired, I'm trying so hard, I want to be happy but I don't know what to do, I have no one to talk to and no matter how I try it seems like I can never be better or good enough. I don't know what to do, I want to overdose but have nothing and I'm to much of a pussy to cut deep enough. I don't know what to do. I'm trying not to but I don't know if I can  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of social support and a feeling of isolation, as the individual mentions having no one to talk to. They express a desire to be happy but feel like they are unable to improve or be good enough, which suggests a sense of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  ...And each day hurts. Sometimes I am angry as hell at her for leaving me for the boyfriend who originally dumped her; some days all I want is for her to come back (I know, I know-- it won't happen, get over it, blah blah blah; that doesn't mean the wishing goes away). It feels like she was my last chance at happiness, and that I am doomed to be alone forever. I do not want this pain. :-(  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post highlights feelings of anger, sadness, and perceived burden due to the person's significant other leaving them for someone else. The poster expresses a sense of hopelessness and loneliness, indicating a risk of perceived burdensomeness.
+

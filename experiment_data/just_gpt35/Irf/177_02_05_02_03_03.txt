@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  My parents got a divorce like in June My whole life turned upside down. I got depression, my grades were failing, and have been very suicidal recently. I just found out that my dad has been cheating on my mom for about a year before their divorce. It really messed me up. I just want someone to talk to. Please PM. I want to talk. Not about this just a normal conversation. Please! Someone  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the poster is feeling suicidal and is requesting someone to talk to. This suggests a potential risk of perceived burdensomeness, where the individual feels like a burden to others and may believe that their problems are overwhelming and too much for others to handle.
+

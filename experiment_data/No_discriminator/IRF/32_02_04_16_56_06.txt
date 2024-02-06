@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Its only been two days and i've fcked up so much already. Two days in and i'm already depressed as fck. I can already feel all the shit coming from this year. I fcking hate myself for being so fcking useless, fcking ugly and a fcking pussy. I want to just fcking disappear but im a fcking pussy and im afraid that even in my deathbed all these fcking people would still look at me with their disgusted fcking eyes.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Very true for me###The post explicitly expresses the wish to disappear and the fear of being looked at with disgust even in one's deathbed, suggesting that the poster believes people would be better off without them."])
+('2', ['directly_mention', 'Very true for me###The post directly states that the poster thinks people would be happier without them, as they mention feeling useless, ugly, and depressed.'])
+('3', ['directly_mention', 'Very true for me###The post directly mentions feeling like a burden on society and hating oneself for being useless and ugly. This suggests that the person believes they are a burden to others and considers themselves to be undesirable.'])
+('4', ['directly_mention', 'Very true for me###The post directly states that the person wants to disappear, but is afraid of how others would perceive them even in their deathbed. This implies that they believe their death would be a relief to the people in their life.'])
+('5', ['directly_mention', 'Very true for me###The post mentions feeling hated and disgusted by others, which indicates a belief that people in their life wish they could be rid of them.'])
+('6', ['directly_mention', 'Somewhat true for me###The post expresses self-hatred and feeling useless, which suggests the belief that they make things worse for the people in their life.'])
+('7', ['directly_mention', "Not at all true for me###The post mentions that they feel people look at them with disgusted eyes. This implies that they don't feel cared about by others."])
+('8', ['indirectly_mention', 'Not at all true for me###The post mentions feeling useless, ugly, and like a pussy, which can contribute to a sense of not belonging or feeling accepted by others.'])
+('9', ['directly_mention', "Not at all true for me###The post states 'i'm already depressed as fck', indicating that I am not feeling cared about by others."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding the number or supportiveness of friends."])
+('11', ['directly_mention', "Not at all true for me.###The post mentions feeling disconnected from other people, indicating that the answer to this question is 'Not at all true for me.'"])
+('12', ['directly_mention', "Very true for me.###The post mentions feeling like an outsider in social gatherings, indicating that the answer to this question is 'Very true for me'."])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling depressed and hating oneself, which suggests a lack of support and connection with others. However, the post does not explicitly mention whether there are people to turn to in times of need.'])
+('14', ['indirectly_mention', "Not at all true for me###The post mentions feeling depressed, useless, and ugly, which indicates a negative self-perception. This may contribute to a lack of closeness with other people. However, the post does not directly address the person's closeness to others."])
+('15', ['directly_mention', 'Not at all true for me###The post explicitly mentions feeling depressed, useless, and ugly, which suggests a lack of satisfying interactions.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses to the questions indicate strong feelings of worthlessness, self-hatred, and a belief that they are a burden on others. They express a desire to disappear and feel like an outsider. These thoughts and emotions are consistent with the concept of thwarted belongingness, as they reflect a deep sense of disconnection and disengagement from meaningful social relationships.
+

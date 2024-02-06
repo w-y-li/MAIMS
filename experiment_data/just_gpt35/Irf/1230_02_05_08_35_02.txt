@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I hate it when my mom compares me to my cousin saying ‚ÄúCJ never stress his mom out, but you stress me out‚Äù... when I‚Äôm trying my ass off to not stress my mom out, to the point where I want to grab a bottle of pills and chug it down my throat and it‚Äôs sucks to think about that.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of being misunderstood and unappreciated by the poster's mother, leading to a desire to escape through self-harm. This aligns with the risk factor of thwarted belongingness, as the poster may feel a lack of meaningful connection and support within their family environment.
+

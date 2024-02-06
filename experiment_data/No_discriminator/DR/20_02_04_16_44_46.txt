@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Please try watching The Joy of Painting with Bob Ross It may not have the same effect on you as it does me, hence why I say  please try . That show calms me, makes me feel better, and helps me sleep. Bob Ross has a soothing voice and I love his mindset. You can watch the entirety of the show on the official Bob Ross YouTube channel.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to sadness."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to pessimism."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to past failure."])
+('4', ['indirectly_mention', 'I get as much pleasure as I ever did from the things I enjoy.###Although the post does not directly mention loss of pleasure, the poster states that watching The Joy of Painting with Bob Ross makes them feel better and helps them sleep. These positive emotions indicate that they still derive pleasure from this activity and therefore can answer that they get as much pleasure as they ever did from the things they enjoy.'])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feelings of guilt or punishment."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feelings of guilt or punishment."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to self-dislike. It talks about watching a show, feeling calm, better, and sleepy while watching it, and liking the voice and mindset of the show's host. There is no indication of any self-dislike or negative feelings towards oneself."])
+('8', ['indirectly_mention', "I do not criticize or blame myself more than usual.###Although the post does not explicitly mention self-accusations, it does talk about the show calming the person down, making them feel better, and helping them sleep. This implies that they are finding relief or relaxation through watching the show, which suggests that they are not engaging in excessive self-criticism or blame. Therefore, the answer would be 'I do not criticize or blame myself more than usual' based on the information provided."])
+('9', ['indirectly_mention', 'I do not have any thoughts of killing myself.###The post mentions that watching the show calms me, makes me feel better, and helps me sleep. This suggests that I have a positive emotional response to watching the show, so it is unlikely that I have any thoughts of killing myself.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to crying. It only discusses the positive effects of watching the show and Bob Ross's soothing voice and mindset."])
+('11', ['indirectly_mention', 'I am no more restless or wound up than usual.###The post mentions that watching The Joy of Painting with Bob Ross calms me and makes me feel better, which indicates that it has a soothing effect on me. Therefore, it suggests that I am no more restless or agitated than usual.'])
+('12', ['indirectly_mention', 'I have not lost interest in other people or activities.###The post states that watching The Joy of Painting with Bob Ross helps me sleep and makes me feel better. This suggests that I still have an interest in activities, particularly in watching this show. Hence, I have not lost interest in other people or activities.'])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that watching The Joy of Painting with Bob Ross calms me, makes me feel better, and helps me sleep. This indicates that I may have difficulty in making decisions, as the show is used as a coping mechanism or source of relaxation.'])
+('14', ['indirectly_mention', "I do not consider myself as worthwhile and useful as I used to.###The post mentions that watching The Joy of Painting with Bob Ross makes me feel better, which suggests that I may have feelings of worthlessness or lower self-esteem. While the post doesn't directly state this, the positive impact of the show on my mood implies a contrast in how I perceive myself."])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###In the post, I mentioned that the show calms me, makes me feel better, and helps me sleep. This implies that I may be experiencing a decrease in energy levels.'])
+('16', ['indirectly_mention', "I sleep somewhat less than usual.###The post mentions that watching the show helps me sleep, but it doesn't explicitly mention any changes in sleeping patterns. However, the fact that it helps me sleep implies that there might be some disruption in my usual sleeping pattern, although it is not specified."])
+('17', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to irritability or changes in appetite. It focuses on the calming and soothing effects of watching The Joy of Painting with Bob Ross."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to irritability or changes in appetite. It focuses on the calming and soothing effects of watching The Joy of Painting with Bob Ross."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to concentration difficulty. It only talks about the calming and soothing effect of watching The Joy of Painting with Bob Ross."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to tiredness or fatigue. It only talks about the calming and soothing effect of watching The Joy of Painting with Bob Ross."])
+('21', ['directly_mention', 'I have not noticed any recent change in interest in sex.###The post does not mention anything about changes in interest in sex.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster does not show any signs of depression. They do not report any significant symptoms related to sadness, pessimism, past failure, loss of pleasure, guilt, punishment feelings, self-dislike, self-accusations, suicidal thoughts or wishes, crying, agitation, loss of interest, worthlessness, changes in sleeping pattern, irritability, changes in appetite, concentration difficulty, tiredness or fatigue, or changes in interest in sex. They mentioned finding comfort and relaxation in watching The Joy of Painting with Bob Ross, but this does not indicate depression.
+

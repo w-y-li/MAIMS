@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I need some sort of support or some shit, I‚Äôve been fucked by depression for years and now I found a lump on my testicle. All my friends blew it off. I‚Äôm scared and mad, I think I‚Äôm just gunna get drunk off my ass. Even thou it could be nothing it still scary  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of burden, as the poster mentions feeling scared and mad, and mentions getting drunk as a coping mechanism. This indicates that the individual may perceive themselves as a burden to others and may be experiencing thoughts of hopelessness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  These days I just want to die... the friends I thought that would understand me, don‚Äôt actually give a damn about me. And it is all in head.... always having bad thoughts about them with the worst intentions. I know they are trying to help me, but even the smallest action, makes me feel worthless and just alone. I don‚Äôt except you to understand me and I understand that what I feel can‚Äôt be helped by others... I have to go through this alone. I can‚Äôt sleep anymore... today was the worst... I actually thought of jumping in front of a car... I just dont belong in this world. Maybe I should really disappear... noone would know and noone would notice that I‚Äôm gone...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a strong desire to disconnect from others and a feeling of being alone and worthless. The poster expresses thoughts of disappearing and feeling like they don't belong, which aligns with the concept of thwarted belongingness.
+

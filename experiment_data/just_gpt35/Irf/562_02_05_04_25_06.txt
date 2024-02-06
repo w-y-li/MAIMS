@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I don't visit this subreddit that often, but every time I do I leave feeling like I don't belong; I feel like I'm just a whole lot weaker than anybody else here. I read the posts and stories that all of you are going through or have gone though and despite being able to relate to a certain degree, it doesn't feel like I've gone through it to the same degree that you've all dealt with. I feel like a fraud, like I'm just another millennial feeling down on his luck and glamorizing the idea of having depression because it's easier than admitting I'm some sort of a brat unable to pull myself through some shitty times. I don't know anymore  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of not belonging and a sense of being weaker compared to others in the subreddit. This suggests a potential risk of thwarted belongingness, which is a psychological state characterized by feelings of social disconnection and isolation.
+

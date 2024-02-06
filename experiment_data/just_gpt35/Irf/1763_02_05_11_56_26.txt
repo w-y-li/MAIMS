@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I cant stand this loneliness one more minute. Im afraid to go to sleep and overthink about how nobody know I even exist  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness, fear, and a belief that nobody knows the person exists. These thoughts and emotions can contribute to a perceived burdensomeness, where the individual may feel like they are a burden to others and their existence holds no value. Perceived burdensomeness is often associated with depression, social isolation, and thoughts of self-harm or suicide.
+

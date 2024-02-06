@@ -1,0 +1,98 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Hi all, I have been struggling with the idea of being too greedy. I mean: I have people who love me (family, friends, partners, pets), I have a job with an acceptable salary, I have hobbies. Lately I haven't been feeling competent, but I know I am good in my job, and also that I am a good, nice, kind person who cares about others. So, what do I have to complain about? Why am I not satisfied? Why do I want more? Meh.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me###The post mentions feeling competent in their job, being a good and kind person who cares about others, and having people who love them. These are all positive aspects of their life that contribute to their feeling of worth and significance. Therefore, it indirectly suggests that the people in their life would not be better off without them.'])
+('2', ['indirectly_mention', 'Not at all true for me###The post highlights having people who love them, feeling competent in their job, being a good and kind person who cares about others, and having hobbies. These factors indicate a sense of connection, fulfillment, and worth. Therefore, it indirectly suggests that the people in their life would not be happier without them.'])
+('3', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to being a burden on society or thinking about death being a relief."])
+('4', ['indirectly_mention', 'Somewhat true for me.###The post mentions feeling unsatisfied and wanting more, which could indicate a sense of inadequacy or burden on society. However, this answer is only somewhat true as the post also talks about being a good, nice, kind person who cares about others.'])
+('5', ['indirectly_mention', 'Not at all true for me###The post mentions that the person has people who love them and that they care about others. This suggests that the person believes their presence is valued by others and that they have a positive impact on the people in their life. Therefore, it is unlikely that they think the people in their life wish they could be rid of them.'])
+('6', ['indirectly_mention', 'Not at all true for me###The post mentions that the person believes they are a good, nice, kind person who cares about others. This suggests that they do not think they make things worse for the people in their life. Therefore, it is unlikely that they think they make things worse for the people in their life.'])
+('7', ['directly_mention', 'Very true for me###The post mentions that I have people who love me, which indicates that other people care about me.'])
+('8', ['indirectly_mention', 'Somewhat true for me###The post mentions that I have hobbies, which can contribute to a feeling of belongingness to a community or group with similar interests.'])
+('9', ['indirectly_mention', "Very true for me###Although the post doesn't directly mention about the frequency of interacting with people who care about me, the poster states that they have people who love them (family, friends, partners, pets). This implies that there are people in their life who care about them, but the poster feels a lack of satisfaction. Therefore, it can be deduced that these days they rarely interact with people who care about them."])
+('10', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information or indication about the number or presence of caring and supportive friends. It does mention having people who love them, but it does not specify whether these individuals are friends or not. Thus, it cannot be determined whether the poster is fortunate to have many caring and supportive friends or not."])
+('11', ['directly_mention', "Somewhat true for me.###The post mentions feeling disconnected from other people by saying 'Lately I haven't been feeling competent,' which implies a sense of disconnection from others who may see me as competent."])
+('12', ['directly_mention', "Somewhat true for me.###The post indirectly mentions feeling like an outsider in social gatherings by saying 'Why do I want more?' This implies a sense of not fully fitting in or feeling satisfied with the current social interactions."])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling competent in their job and being a good, nice, kind person who cares about others. This suggests that there are people they can turn to in times of need, although they may not explicitly state it.'])
+('14', ['indirectly_mention', 'Somewhat true for me###The post mentions having people who love them, such as family, friends, partners, and pets. This implies that they are close to other people, although it is not explicitly stated.'])
+('15', ['directly_mention', "Not at all true for me###The post explicitly mentions that the person hasn't been feeling competent and is not satisfied, suggesting that they do not have satisfying interactions every day."])
+Do MS Check Record:
+('1', ['Correct', 'Continue to analyze the post thoroughly, noticing not only the explicit content but also the underlying emotions and attitudes towards oneself and others, as you did here.'])
+('2', ['Correct', "Maintain the practice of cross-referencing the content of the post with the sentiments it conveys, but also consider exploring the reasons for discontent to deepen the understanding of the poster's feelings."])
+('3', ['Incorrect', 'Review the content of the post thoroughly before responding to questions. Do not disregard elements that may subtly imply feelings related to the question. However, be cautious not to infer extreme feelings, such as being a societal burden, without clear indications.'])
+('4', ['Correct', 'Despite the lack of explicit mention, look for underlying sentiments that may be associated with the questions. Your deduction is reasonable, but make sure that it remains a plausible interpretation rather than an overgeneralization.'])
+('5', ['Correct', 'Continue to analyze the content of the post accurately, ensuring that each answer draws directly from explicit or implied sentiments expressed by the poster.'])
+('6', ['Correct', "Keep focusing on the specific content and the emotional tone of the post to guide your inferences about the poster's perspective on their social relationships."])
+('7', ['Correct', 'Good job on interpreting the indication of being cared for by others. Continue to seek direct evidence from posts for your responses.'])
+('8', ['Incorrect', 'The presence of hobbies does not directly imply a sense of belonging. Focus on analyzing the post for more specific information regarding belonging and avoiding assumptions.'])
+('9', ['Incorrect', 'Carefully consider the content of the post. The poster does acknowledge interactions with people who care about them, so your response should reflect that they do interact with these people. Avoid assuming that the lack of satisfaction implies rarity of interaction.'])
+('10', ['Incorrect', "Pay attention to the details provided by the poster. The post mentions having people who love them, which could logically include friends. Instead of stating the post doesn't mention at all, infer that having loving people likely includes supportive friends, then judge the extent to which this statement could be true."])
+('11', ['Incorrect', 'Review the content of the post carefully and avoid equating the feeling of incompetence with social disconnection. Focus on what the poster explicitly says about their social relationships.'])
+('12', ['Incorrect', 'Avoid making inferences that are not directly supported by the post. The feeling of wanting more does not necessarily indicate feeling like an outsider in social situations.'])
+('13', ['Correct', 'Ensure you continue to analyze the nuances within the post that suggest underlying feelings, as you did effectively by identifying the presence of supportive relationships.'])
+('14', ['Correct', 'Continue to infer connections based on the explicit content of the post, as you successfully deduced closeness with others from the mention of loved ones.'])
+('15', ['Incorrect', 'Review the post thoroughly to ensure understanding of the content. The poster mentions having people who love them and taking care of others, which could indicate satisfying interactions. Avoid making assumptions not supported by the post.'])
+
+ITER 1
+Do MS Record:
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling not satisfied and wanting more, which can imply a sense of being a burden on society as one may feel guilty for wanting more despite already having a fulfilling life.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not contain any information that directly or indirectly addresses the feeling of belonging. It focuses more on feelings of incompetence and wanting more."])
+('9', ['directly_mention', 'Somewhat true for me###The poster mentions that they have people who love them, such as family, friends, partners, and pets. However, they also express feeling unsatisfied and wanting more, which suggests that their interactions with people who care about them might be limited or not fulfilling enough.'])
+('10', ['indirectly_mention', "Very true for me###The poster mentions having people who love them, including family, friends, partners, and pets. Although the post doesn't explicitly mention having many caring and supportive friends, it can be inferred that the love and support from these people likely includes friends as well. Therefore, it is reasonable to assume that the poster is fortunate to have many of those friends who care and support them."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions that the poster has people who love them (family, friends, partners, pets), which indicates some level of connection. However, the poster also mentions feeling disconnected and not satisfied, suggesting that there may be some degree of disconnection in their current state of mind.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any explicit information about feeling like an outsider in social gatherings. It primarily focuses on the poster's feelings of being greedy, not feeling competent, and wanting more, without mentioning social situations explicitly."])
+('15', ['directly_mention', 'Somewhat true for me###The poster mentions feeling competent in their job and being a good, nice, kind person who cares about others. This suggests that they are likely to have positive and satisfying interactions in their daily life.'])
+Do MS Check Record:
+('3', ['Incorrect', "Review the post, focusing on the expressed feelings of the individual. There is no clear evidence suggesting that the poster feels like a burden; they express dissatisfaction despite life's blessings. Be cautious not to project feelings that are not explicitly or implicitly stated in the original post."])
+('8', ['Incorrect', 'Look for implicit information that could relate to the feeling of belonging. The poster mentions having supportive relationships and being competent, which can be associated with a sense of belonging. Answer the question considering these subtle cues, rather than simply noting whether the topic was explicitly mentioned.'])
+('9', ['Incorrect', "Review the content of the post to accurately reflect the sentiment expressed. The poster states they have loving people around them, and there's no indication of rare interaction. Focus on what is explicitly mentioned without assuming an unsatisfied feeling translates to limited interactions."])
+('10', ['Correct', 'Continue to make informed inferences where direct information is lacking, as long as it aligns with the stated sentiments in the post. The poster acknowledges having supportive people around them, which can reasonably include friends.'])
+('11', ['Incorrect', 'Re-evaluate the connection between the poster’s feelings of dissatisfaction and the potential for feeling disconnected. Being not satisfied could imply emotional disconnection; consider nuanced interpretations of the post.'])
+('12', ['Correct', 'Good work on not inferring information that is not present in the post. Continue to distinguish between what is explicitly stated and what is not mentioned at all.'])
+('15', ['Correct', "Well done on paying attention to the content of the post and using it to infer about daily interactions. Despite the poster's expressed dissatisfaction, their recognition of positive aspects in personal and professional life supports the idea of having satisfying interactions. However, ensure that you also consider the emotional tone of the post to avoid making unwarranted inferences. For instance, their struggle with the idea of being greedy or not feeling competent could affect the quality of their interactions."])
+
+ITER 2
+Do MS Record:
+('3', ['indirectly_mention', "Somewhat true for me###Although the post doesn't directly mention feeling like a burden on society, the poster expresses dissatisfaction and a sense of wanting more despite having a good job, supportive relationships, and hobbies. This suggests a possible underlying feeling of being a burden on society, albeit indirectly."])
+('8', ['indirectly_mention', "Very true for me###The post indirectly mentions the sense of belonging through the poster's expression of feeling competent, loved, and cared about by others. These factors can contribute to a feeling of belonging, leading to the conclusion that the poster feels a strong sense of belonging, hence answering 'Very true for me'."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything about rare interaction with people who care about the poster."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling disconnected from other people."])
+Do MS Check Record:
+('3', ['Incorrect', "Be cautious not to infer feelings not explicitly mentioned in the post. There's no clear indication that the poster feels like a burden. Instead, focus on the information given and avoid adding sentiments that are not supported by the text."])
+('8', ['Correct', "Good job recognizing the indirect cues about belonging. Continue to draw connections between the feelings expressed and related sentiments, ensuring they are well-supported by the post's content."])
+('9', ['Incorrect', 'Review the post, focusing on the stated emotions and social relationships to infer interaction levels.'])
+('11', ['Incorrect', 'Analyze the sentiments expressed to draw conclusions about possible feelings of connection.'])
+
+ITER 3
+Do MS Record:
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling like a burden on society."])
+('9', ['indirectly_mention', 'Not at all true for me.###The post mentions having people who love them, such as family, friends, partners and pets. This suggests that the poster has people who care about them.'])
+('11', ['indirectly_mention', 'Somewhat true for me###The poster mentions feeling disconnected and questioning why they are not satisfied despite having people who love them and hobbies. This suggests a possible feeling of disconnection from others.'])
+Do MS Check Record:
+('3', ['Incorrect', 'Review the post content and context to infer internal states of the poster without introducing information not present. Focus on the expression of dissatisfaction which could imply feelings of inadequacy rather than being a burden.'])
+('9', ['Correct', 'Continue to draw inferences from the specific content mentioned in the post, as you did by noting the connections with family and friends. However, double-check for any nuances or subtleties in the language that may imply a lack of interaction contrary to the explicit content.'])
+('11', ['Incorrect', 'Avoid assuming a feeling of disconnection based on dissatisfaction; focus on direct evidence in the post regarding social connections.'])
+
+ITER 4
+Do MS Record:
+('3', ['not_mention', "Doesn't mention at all.###The post does not contain any information or context that directly or indirectly relates to feeling like a burden on society."])
+('11', ['directly_mention', "Somewhat true for me.###The post mentions feeling disconnected from other people with the statement 'Why am I not satisfied? Why do I want more?'. This suggests a feeling of disconnection from others, albeit indirectly."])
+Do MS Check Record:
+('3', ['Incorrect', 'While the post does not explicitly mention feeling like a burden, avoid dismissing potential implications. Consider context and emotions expressed—feeling unsatisfied despite a good life could hint to deeper issues. Be attentive and infer carefully, without assuming details not presented.'])
+('11', ['Incorrect', 'Do not overextend the meaning of the poster’s words; wanting more does not necessarily equate to feeling disconnected from others. The post does not provide clear evidence of disconnection; focus on the provided text and refine your interpretation to align with the explicit content.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate a risk of thwarted belongingness. The poster mentions having people who love them, friends, partners, and pets. They also express feeling cared for by others and having satisfying interactions with others. This suggests a sense of belonging and connection to others, rather than feelings of isolation or exclusion.
+
+Correct
+Continue to use direct evidence from the post and responses to the mental health scale to guide your analysis, and avoid making assumptions without clear support. Maintain this methodological rigour in future analyses.

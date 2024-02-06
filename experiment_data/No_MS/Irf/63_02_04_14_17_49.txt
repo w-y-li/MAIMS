@@ -1,0 +1,56 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Hi I don't know what the hell is going on. Today I have woken up becouse of my phone clock. I turn first of them off and went to sleep again. I'm always set few clocks to have 100% chance of woke up. After 3 clocks I turn every single one off. I don't wanna get up. I wanna just lie in my bed for all day but after few minutes i get up. I feel extremely stressed and bad. I don't have any tests today and anything that could stress me so what the hell? Why am I feeling this way? When i'm in school nothing bad I think that would happen happened but I still feel bad. Even through ppl talk to me, nothing bad happen I feel worse and worse. Then I have suicide thoughts. Realy big. Actually I may do this, there are so big if they haven't ended after some time. They and bad mood ended when I have nice conversation with friend about makeing cover of Sepultura song. I suddenly stop feel bad and feel happy for few minutes. The thoughts ended but after I came back to my house, when I'm alone I feel bad again. What the hell is happening to me? Someone on /r/suicidewatch write that I may suffer from depression. What are you thinking about this?  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling extremely stressed and experiencing suicidal thoughts. These thoughts are indicative of a perceived burdensomeness, where the individual may feel like they are a burden to others and that their existence causes problems or distress.
+
+Incorrect
+Avoid inferring perceived burdensomeness without explicit evidence. The poster does not mention feeling like a burden to others, so focus on what is directly conveyed rather than assumptions. Look for specific statements that indicate a sense of being a burden when assessing for perceived burdensomeness.
+
+ITER 1
+No
+The poster does not mention feeling like a burden to others or expressing any explicit evidence of perceived burdensomeness.
+
+Incorrect
+Carefully consider both the explicit and implicit content of the post. Although the poster does not directly state they feel like a burden, the intensity of their suicidal thoughts and the relief experienced during positive social interaction could indirectly suggest feelings of perceived burdensomeness. Revisit the concept and assess the post for subtler indications of whether the poster feels like a burden.
+
+ITER 2
+Yes
+The intensity of the poster's suicidal thoughts and the relief experienced during positive social interaction suggest feelings of perceived burdensomeness.
+
+Incorrect
+Review the concept of perceived burdensomeness and avoid inferring characteristics not explicitly stated. The post does not specifically mention feelings of being a burden to others, but rather describes fluctuations in mood and suicidal thoughts. Focus on the information provided and address the mental health question directly without additional assumptions.
+
+ITER 3
+Yes
+The post describes feelings of extreme stress, bad mood, and suicidal thoughts. These feelings, along with the desire to lie in bed all day and thoughts of suicide, indicate a potential risk of perceived burdensomeness.
+
+Incorrect
+Review the definition of perceived burdensomeness and provide evidence directly from the post to support your answer. Focus on whether the poster expresses feelings of being a burden to others, rather than general signs of depression or suicidal thoughts.
+
+ITER 4
+Yes
+The poster expresses feelings of being a burden to others when they mention having suicide thoughts and feeling bad again when they are alone. These thoughts and feelings suggest a high risk of perceived burdensomeness.
+
+Incorrect
+Be cautious not to infer perceived burdensomeness solely based on expressions of negative emotions or suicidal ideation. In the post, the individual does express feeling stressed and having suicidal thoughts, but they do not explicitly state they feel like a burden to others. Focus on identifying specific language indicative of feeling burdensome, such as causing trouble for others or being a weight on them, before concluding there is a risk of perceived burdensomeness. Assess each post based on the actual content rather than inferring beyond what is presented.
+
+ITER 5
+No
+While the individual expresses feeling stressed and having suicidal thoughts, there is no explicit indication of feeling like a burden to others. The post does not contain specific language indicative of perceived burdensomeness.
+
+Incorrect
+Carefully re-examine the poster's expressions of distress and consider how statements of hopelessness and worthlessness can imply perceived burdensomeness. Even if not explicitly stated, the intensity of the poster’s negative feelings and suicidal thoughts could suggest a sense of being a burden. Revisit the concept of perceived burdensomeness and how it can manifest in someone's narrative.
+
+ITER 6
+Yes
+The post shows explicit expressions of distress, hopelessness, and suicidal thoughts, indicating a high risk of perceived burdensomeness. The poster mentions feeling extremely stressed and bad without any apparent reason and having thoughts of suicide. These statements reveal a sense of being a burden and feeling overwhelmed by negative emotions.
+
+Correct
+Ensure that your assessments are based on clear evidence from the post. Avoid jumping to conclusions without direct information. Continue to carefully differentiate between the poster's feelings from those around them, keeping the focus on the poster's experiences as you have done here.

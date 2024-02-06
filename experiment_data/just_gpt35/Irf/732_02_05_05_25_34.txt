@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  So my ex and I were dating for a while. 2 years this April. Throughout the relationship we both ‚Äòflirted‚Äô with other people but never physically cheated. For the past couple months it wasn‚Äôt working and we mutually decided to call it off New Year‚Äôs Eve. Being in so much pain last night I slept with someone else hoping it would help at least sone of the pain. It didn‚Äôt. My ex and I spoke on the phone after it while I was driving home and agreed on whatever happened while we were single happened and wanted to talk after a few weeks and maybe give us another shot. The anxiety took over and I told her I slept with someone else and hearing her cry like that broke me even more. She told me there‚Äôs no chance now we‚Äôre ever getting back together and it‚Äôs done for good. Does she really mean it or is she saying it because she‚Äôs hurt?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of thwarted belongingness because the poster is dealing with the aftermath of a breakup and seeking closure with their ex. There is no indication of prolonged or ongoing feelings of social disconnection or loneliness.
+

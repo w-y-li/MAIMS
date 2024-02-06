@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I have never been diagnosed with depression, although my girlfriend has. She frequently has periods of extremely low moods that can go on for days or even weeks, and has attempted suicide in the past. Whenever I see her like this it eats me apart from the inside with guilt, because I feel like it's my responsibility to help her and make her feel better and when I can't I feel like shit. I feel like a failure whenever this happens and I don't know what to do. Does anyone here know what to do? Or how to help? I hate watching this happen to her and I feel so guilty.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of responsibility and guilt for not being able to help the girlfriend, which suggests a potential risk of thwarted belongingness. Thwarted belongingness refers to feelings of being disconnected from others and not meeting the desired social connections, which can contribute to mental health problems such as depression and suicidal ideation.
+

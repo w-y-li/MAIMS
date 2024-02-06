@@ -1,0 +1,118 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Welp, just got done with another batch of doctors visits and the results are in, I will be crippled for the rest of my life. But that's not what bothers me, I've had plenty of time to come to terms with my condition and the affect it will have on my quality of life and my life expectancy. What bothers me is the soul crushing loneliness, I havent had a girlfriend in years and I haven't been physically touched in what seems like forever. I spend all day in a shitty little side room by myself writing and hardly see hide nor hair of another person besides my dad most of the time. I'm pretty done with it all to be honest, I don't really see any reason to continue living like this.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the impact of the person's presence or absence on the people in their life."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the happiness of the people in the poster's life without them."])
+('3', ['directly_mention', "Very true for me###The post clearly states that I don't see any reason to continue living like this, indicating that my death would be a relief to the people in my life."])
+('4', ['indirectly_mention', 'Somewhat true for me###The post mentions the soul-crushing loneliness that I experience, which could make me feel like a burden on society, although it is not explicitly stated.'])
+('5', ['indirectly_mention', 'Not at all true for me###The post mentions feeling soul-crushing loneliness and a lack of physical touch. These feelings may lead to a belief that people in their life wish to be rid of them. However, the poster does not explicitly state that they believe this to be true, only mentioning their own perception of loneliness.'])
+('6', ['indirectly_mention', "Not at all true for me###The post describes the poster's isolation and feeling of making things worse, which might lead to the belief that they make things worse for people in their life. However, the post does not explicitly state that they believe this to be true, only expressing their frustration and sense of being done."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to other people caring about me."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling like I belong."])
+('9', ['indirectly_mention', 'Not at all true for me###The post mentions being in a side room by myself and hardly seeing another person besides my dad. This suggests a lack of interaction and support from others.'])
+('10', ['directly_mention', 'Not at all true for me###The post explicitly mentions the soul crushing loneliness and the lack of physical interaction with others. This indicates a lack of caring and supportive friends.'])
+('11', ['directly_mention', 'Very true for me.###The post mentions that the person spends all day in a room by themselves and hardly sees anyone besides their dad. This demonstrates a significant level of disconnection from other people.'])
+('12', ['indirectly_mention', "Somewhat true for me.###The post mentions that the person hasn't had a girlfriend in years and hasn't been physically touched in a long time. While this doesn't directly indicate feeling like an outsider in social gatherings, it does suggest some level of social isolation and potential feelings of being left out."])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling soul crushing loneliness and not having a girlfriend in years. These experiences suggest a lack of closeness to other people, which aligns with the question being asked.'])
+('14', ['indirectly_mention', 'Not at all true for me###The post mentions feeling soul crushing loneliness and not having been physically touched for a long time. These experiences suggest a lack of people to turn to in times of need, which aligns with the question being asked.'])
+('15', ['directly_mention', "Not at all true for me.###I clearly stated that I haven't had a girlfriend in years and haven't been physically touched in a long time. This indicates a lack of satisfying interactions with others."])
+Do MS Check Record:
+('1', ['Incorrect', "Although the post doesn't explicitly mention people being better off without the poster, the feeling of loneliness and lack of purpose expressed could infer feelings of burden. Try to analyze the subtext and emotions conveyed about relationships, not just the literal words."])
+('2', ['Incorrect', "The sense of loneliness and the implied lack of meaningful connections in the poster's life might suggest they could believe others would be happier without them. Look for emotional undertones that relate to the poster's perception of their value in others' lives."])
+('3', ['Incorrect', 'Carefully distinguish between personal feelings and general societal views. The post does not indicate that the poster believes they are a burden on society, only that they are experiencing personal struggles and loneliness.'])
+('4', ['Incorrect', 'Avoid over-generalizing personal feelings to how others may perceive them. The post expresses personal despair and isolation, but it does not provide evidence that the poster believes their death would be a relief to others.'])
+('5', ['Incorrect', "Re-examine the post for implicit cues about the poster's perception of how they affect others and avoid assuming no evidence is present."])
+('6', ['Incorrect', "Consider the possible implications of the poster's expressed feelings on their perceived impact on others without over-inferencing."])
+('7', ['Incorrect', "Review the context of the post for implied emotional states that could be relevant to the question. While direct mention of others' care might be absent, expressions of loneliness can be a proxy for feeling uncared for."])
+('8', ['Incorrect', 'Consider the emotional implications of feeling lonely and isolated when assessing feelings of belonging. The mention of loneliness and isolation suggests a lack of belonging.'])
+('9', ['Incorrect', 'Review the text and consider the emotional expressions and any mention of social interactions. The poster does speak of his father, implying some interaction. Adjust your interpretation to reflect this.'])
+('10', ['Correct', "Maintain careful analysis of the post's content when concluding about the poster's social circle, ensuring to avoid assumptions beyond the information given."])
+('11', ['Correct', 'Ensure to continue recognizing direct references to feelings of disconnection as evidence for answering related questions.'])
+('12', ['Incorrect', 'Avoid extending implications too far without support; focus on the specific social contexts mentioned in the post to determine feelings of exclusion.'])
+('13', ['Correct', 'Continue to analyze the emotional content of social media posts for indications of social connectivity or isolation.'])
+('14', ['Correct', "Make sure to differentiate between the presence of people in one's life and the emotional closeness to others."])
+('15', ['Correct', 'Maintain your attention to the details expressed in the post and continue to answer the questions based on the explicitly mentioned information.'])
+
+ITER 1
+Do MS Record:
+('1', ['indirectly_mention', "Not at all true for me###The post expresses a sense of loneliness and a lack of physical touch, which could contribute to feeling isolated and disconnected from others. However, the post does not explicitly mention that the people in the poster's life would be better off without them."])
+('2', ['indirectly_mention', "Not at all true for me###The post mentions the poster's soul-crushing loneliness and lack of physical touch. These feelings may contribute to the belief that others would be happier without them. However, the post does not explicitly state that the poster believes people would be happier without them."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling like a burden on society."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any evidence or indication of the poster's belief about how their death would be perceived by others."])
+('5', ['directly_mention', "Somewhat true for me###The poster states that they feel soul-crushing loneliness and haven't had a girlfriend in years. This suggests that they may perceive themselves as burdensome or unwanted by others."])
+('6', ['indirectly_mention', 'Very true for me###The poster mentions that they spend most of their time alone in a room and hardly see anyone besides their dad. This isolation and lack of physical touch may lead them to believe that they make things worse for the people in their life, even if it is not explicitly mentioned.'])
+('7', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling soul crushing loneliness and not having a girlfriend in years, which suggests a lack of connection and support from others. This can imply that other people do not care about the poster to some extent.'])
+('8', ['indirectly_mention', "Not at all true for me###The post expresses feeling isolated in a shitty little side room and hardly seeing another person besides the poster's dad. This suggests a lack of belonging and connection to a social group, leading to a feeling of not belonging."])
+('9', ['indirectly_mention', 'Not at all true for me###The post mentions that the poster spends all day in a room by himself and hardly sees another person besides his dad. While there is some interaction with the dad, the post suggests a lack of social interaction with others who care about the poster.'])
+('12', ['directly_mention', 'Very true for me###The post specifically mentions feeling soul-crushing loneliness and not having a girlfriend or physical affection for years. This suggests a significant lack of connection and feeling like an outsider.'])
+Do MS Check Record:
+('1', ['Incorrect', "Avoid assuming thoughts or feelings not explicitly mentioned in the post. Focus on analyzing the given information without extrapolating beliefs about others' perceptions of the poster."])
+('2', ['Incorrect', "Do not infer conclusions about others' happiness in relation to the poster without clear evidence from the post. Stick to the content and feelings directly expressed by the poster to answer the question."])
+('3', ['Incorrect', "Revisit the post to examine undertones of emotional distress, consider the poster's expressed feelings of loneliness and hopelessness which may imply feeling burdensome."])
+('4', ['Incorrect', "Analyze the statement about 'not seeing any reason to continue living' in relation to potential perceptions about death, considering the context provided rather than dismissing lack of direct evidence."])
+('5', ['Incorrect', "Re-analyze the content to avoid assuming that the poster feels they are a burden without explicit evidence; focus on the poster's expressed feelings rather than inferring unstated beliefs."])
+('6', ['Incorrect', "Reflect on the poster's actual words about their isolation, and avoid making assumptions about their impact on others without clear information; provide answers that stick to the given content."])
+('7', ['Correct', 'Continue to analyze posts critically, but always remain vigilant for implicit information that could change the interpretation of the post.'])
+('8', ['Correct', 'Good identification of the sentiment in the post, but make sure to differentiate between temporary feelings and persistent states when inferring such feelings of belonging.'])
+('9', ['Incorrect', 'Carefully analyze all elements of the post before drawing conclusions. The mention of the dad suggests some level of care is present. Consider that limited interaction might not equate to no one caring. Adjust the answer to reflect this nuance.'])
+('12', ['Correct', "Continue to use direct evidence from the post to support your answers. Keep considering the emotional states implied by the poster's expressions to accurately represent their perspective in your responses."])
+
+ITER 2
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to whether the people in the poster's life would be better off if they were gone."])
+('2', ['indirectly_mention', "Somewhat true for me.###Although the post does not explicitly state whether the people in the poster's life would be happier without them, the post does mention the soul-crushing loneliness experienced by the poster. Loneliness can often lead individuals to believe that others would be happier without them. Based on the expression of loneliness and the feeling of being done with it all, it is reasonable to infer that the poster might believe the people in their life would be somewhat happier without them."])
+('3', ['directly_mention', "Very true for me###The post mentions feeling like a burden on society, which aligns with the statement 'I don't really see any reason to continue living like this.'"])
+('4', ['indirectly_mention', "Somewhat true for me###Although the post doesn't explicitly mention relief to the people in the poster's life, the statement 'I don't really see any reason to continue living like this' suggests a belief that their death would provide relief to others."])
+('5', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling soul crushing loneliness and not having had a girlfriend in years. This suggests that the poster may feel a sense of being undesirable or unwanted, hence leading to the belief that people in their life might wish they could be rid of them.'])
+('6', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling soul crushing loneliness and not being physically touched for a long time. This could lead the poster to believe that they make things worse for the people in their life by causing them distress or discomfort through their condition and isolation.'])
+('9', ['directly_mention', 'Very true for me###The post explicitly states that the person spends all day in a room by themselves and hardly sees another person, except their dad. This indicates a lack of interaction with people who care about them.'])
+Do MS Check Record:
+('1', ['Incorrect', 'Review the post for explicit content related to the question. Avoid assuming details not provided in the post. Stick to information that is mentioned.'])
+('2', ['Correct', 'Continue to practice critical inferencing. Look for indirect cues in the post that could suggest answers to the questions posed.'])
+('3', ['Incorrect', "Review the post for explicit statements regarding societal burden rather than inferring; focus on the poster's feelings about their own situation without assuming it extends to societal views."])
+('4', ['Incorrect', "Avoid assuming the poster believes their death would relieve others without clear evidence; consider the expressed feelings of loneliness and isolation as separate from beliefs about others' relief."])
+('5', ['Incorrect', 'Avoid assuming information not present in the post. The student should focus on identifying statements or feelings that directly relate to the question.'])
+('6', ['Incorrect', "Do not infer negative beliefs about the poster's impact on others unless explicitly stated. Instead, analyze the post for direct indications of the poster's beliefs about their effect on people in their life."])
+('9', ['Correct', 'Ensure to maintain objectivity and avoid making assumptions beyond the information provided in future tasks.'])
+
+ITER 3
+Do MS Record:
+('1', ['directly_mention', "Very true for me###The poster explicitly expresses the feeling of being a burden by saying, 'I'm pretty done with it all to be honest, I don't really see any reason to continue living like this.' This indicates that they believe their presence is burdensome."])
+('3', ['directly_mention', 'Not at all true for me###There is no indication in the post that the poster believes their loved ones would be better off if they were gone. In fact, they mention feeling lonely and longing for physical touch, suggesting that they desire connection with others.'])
+('4', ['directly_mention', 'Very true for me###The poster expresses feelings of loneliness, isolation, and a lack of physical touch. This suggests a belief that the people in their life wish they could be rid of them.'])
+('5', ['not_mention', "Doesn't mention at all.###The post does not provide any clear evidence or statement about whether the poster believes their death would be a relief to the people in their life."])
+('6', ['indirectly_mention', 'Somewhat true for me###The poster mentions feeling lonely and isolated, not having a girlfriend or physical touch, and spending most of their time alone. These statements suggest that the poster may feel that they make things worse for the people in their life to some extent, even though they do not explicitly state it.'])
+Do MS Check Record:
+('1', ['Incorrect', 'Review the post for explicit sentiments related to being a burden, rather than inferring them indirectly.'])
+('3', ['Incorrect', 'Avoid assuming the poster feels they are a burden to society without explicit evidence from the post itself.'])
+('4', ['Incorrect', 'Consider the explicit expressions of loneliness and desperation. Assess the likelihood that someone feeling this way might also believe their death would be a relief to others. Re-evaluate the post for implied meanings, even if they are not directly stated.'])
+('5', ['Correct', 'Good observation in recognizing that the post does not explicitly state others wish to be rid of the poster. Continue to avoid over-inference and ensure answers are based on information provided in the post.'])
+('6', ['Incorrect', "Refrain from making assumptions not directly supported by the text; focus on analyzing the explicit content of the post without extending to unwarranted conclusions about the poster's perceived impact on others' lives."])
+
+ITER 4
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not explicitly mention anything about the people in their life being better off if they were gone."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not explicitly mention feeling like a burden on society."])
+('4', ['directly_mention', 'Somewhat true for me###The post mentions feeling like there is no reason to continue living, which implies that the poster believes their death would be a relief to the people in their life.'])
+('6', ['indirectly_mention', 'Not at all true for me###The post describes feeling lonely and isolated, but it does not provide any information to suggest that the poster believes they make things worse for the people in their life.'])
+Do MS Check Record:
+('1', ['Incorrect', "Review the post for emotional tone and themes of isolation that may imply feelings of being a burden. Answer should reflect the poster's emotional state and potential beliefs about their impact on others."])
+('3', ['Incorrect', "Consider the psychological implications of the poster's expressed feelings of loneliness and hopelessness. Infer the likely internal state that could lead one to feel like a societal burden."])
+('4', ['Incorrect', "Carefully analyze the emotional content of the post. The poster expresses a sense of burden which can imply that their death might be seen as a relief to themselves, but it is not clearly projected onto others. Consider the possibility that the poster may have complex feelings, including concerns about others' well-being."])
+('6', ['Correct', "Continue to differentiate between explicitly stated information and assumptions. The poster does describe loneliness and isolation but does not express causing harm or inconvenience to others' lives. Maintain objectivity and avoid over-inference."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a deep sense of loneliness and a lack of social connections. The poster expresses feeling isolated, disconnected, and like an outsider in social gatherings. They also report rarely interacting with people who care about them and not feeling like they belong. These feelings align with the concept of thwarted belongingness, which refers to the perception of a lack of meaningful social connections and support in one's life.
+
+Correct
+Good job on correctly interpreting the information and identifying indicators of thwarted belongingness based on the post and mental scale answers. Continue to use direct evidence from the content in your analyses and avoid making assumptions beyond what is provided. Always tie your conclusions directly to the source material as you did here.

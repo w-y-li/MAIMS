@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I did something that made me really happy. After flunking a test, getting yelled at by a classmate. sitting alone at lunch with incredible anxiety and spilling milk on my uniform and having to go thru an hour long commute in a really hot day i get home feeling really overwhelmed with tons of homework i remember feeling very numb at the time that I just decided to turn off all the lights in my dorm and got completely naked and played my ukelele. i played my favourite song and started crying and just sang at the top of my lungs sounding like a dying whale and it lasted for like 2 hours i could feel every bit of depression and anxiety slowly leak off my body until the water bill knocked on my door.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's description of feeling overwhelmed, numbness, crying for a prolonged period, and mentioning depression leaking off their body suggests the presence of depression.
+

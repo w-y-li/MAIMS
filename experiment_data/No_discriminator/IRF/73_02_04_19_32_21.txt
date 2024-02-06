@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Anyone gotten off this drug? I am reading the inter webs and having the crap scared out of me. Been on it about 18 months...  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me.###The post mentions that the person is scared and worried about the drug they have been taking, but it does not suggest suicidal or self-harming thoughts. Therefore, it indirectly implies that the statement is not true for the poster.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not provide any information or suggestion about the happiness of the people in the poster's life without them. Therefore, the question has not been mentioned in the post."])
+('3', ['indirectly_mention', 'Not at all true for me###The post mentions being scared after reading information on the internet, which suggests some level of concern or anxiety. However, there is no direct mention of feeling like a burden on society or thoughts about death being a relief for others.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling like a burden on society or thoughts about death being a relief for others."])
+('5', ['indirectly_mention', "Somewhat true for me###The post mentions that the person is scared after reading about the drug on the internet. This fear could be related to the person's concern about their impact on the people in their life, hence making things worse for them."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or hint about how the people in the person's life feel about being rid of them."])
+('7', ['indirectly_mention', "Somewhat true for me###The post mentions being scared after reading about the drug, which could indicate a sense of concern for one's well-being. Feeling cared about by others may be related to this fear and seeking support and reassurance."])
+('8', ['indirectly_mention', 'Not at all true for me###The post mentions feeling scared and reading negative information about the drug. This indicates a lack of sense of belonging and feeling disconnected from others, as the concerns described are not being shared or understood by others.'])
+('9', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to the question."])
+('10', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to the question."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling scared after reading information on the internet. This indicates a sense of disconnection and fear, which could indicate feeling disconnected from other people.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling like an outsider in social gatherings."])
+('13', ['indirectly_mention', 'Not at all true for me###The post mentions being scared and reading about negative experiences on the internet. This indicates a lack of trust and reliance on others in times of need.'])
+('14', ['indirectly_mention', 'Not at all true for me###The post expresses fear and concern, suggesting a lack of closeness to other people.'])
+('15', ['indirectly_mention', "Somewhat true for me###The post doesn't directly mention having satisfying interactions, but the poster expresses fear and concern about the drug they are taking. This suggests that they may be experiencing some negative effects on their daily interactions and may not find them as satisfying as before. Therefore, I believe it is somewhat true for me as they are likely experiencing a decrease in satisfying interactions."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The response to Question ID 5 suggests that the person feels that the people in their life wish they could be rid of them. This aligns with the risk of perceived burdensomeness, which is characterized by feeling like a burden on society or believing that others would be better off without them.
+

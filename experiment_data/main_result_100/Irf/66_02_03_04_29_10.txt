@@ -1,0 +1,165 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Hello. I'm not depressed, but my friend is terribly blue. Their life is crumbling and I can't bear to see them like this. I care about them very much. I don't want to reveal much information and I hope you understand. To summarize for you all: * They were involved in some deep stuff. * Some time back, they got their house broken into and while fighting the intruder(s) off, they received an injury in their head. * The injury increased the mental illnesses they had, one of them being Post Traumatic Stress Disorder. &gt; And this resulted a rise on violent seizures, traumatizing flashbacks, haunting voices that returned to the time they were in that deep stuff, not to mention that they can barely get out of bed. * They tried contacting with their family and friends, they tried going to professionals for help for their bodily and mental dysfunctions, but to their dismay, they (the doctors) gave up in the last moment. * Their friends just turned their back on them and they treat them unpleasantly. I'm one of the few friends they have left and I'm distant from them in location and I don't think there's a chance I would be able to be with them. What can I do?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Not at all true for me###The post explicitly states that the poster cares about their friend very much and doesn't want to reveal much information. This suggests that the people in the poster's life would not be better off if they were gone."])
+('2', ['directly_mention', "Not at all true for me###The post also explicitly states that the poster cares about their friend very much and doesn't want to reveal much information. This suggests that the people in the poster's life would not be happier without them."])
+('3', ['directly_mention', "Not at all true for me###The post does mention feeling like a burden on society, stating that the person's life is crumbling and they can't bear to see their friend in such a state. However, there is no indication that the poster themselves feels like a burden on society."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the question of whether the poster thinks their death would be a relief to others. It focuses on the friend's struggles and the poster's concern."])
+('5', ['directly_mention', 'Very true for me.###The post mentions that their friends have turned their back on them and treat them unpleasantly, indicating that the poster feels like they make things worse for the people in their life.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information that relates to the question of whether people in their life wish they could be rid of them. "])
+('7', ['not_mention', "Doesn't mention at all.###"])
+('8', ['not_mention', "Doesn't mention at all.###"])
+('9', ['indirectly_mention', "Somewhat true for me###The post mentions that their friends turned their back on them and treated them unpleasantly. This suggests a lack of support from friends, which indirectly reflects a decrease in people caring about them, hence 'Somewhat true for me'."])
+('10', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to the number of caring and supportive friends the person has, so it doesn't mention this question at all."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions that the friend has been going through deep stuff, has been traumatized, and is experiencing mental illnesses such as Post Traumatic Stress Disorder. As someone who cares about them, I am deeply affected by their situation, which can lead to feeling disconnected from other people.'])
+('12', ['indirectly_mention', "Somewhat true for me###The post states that the friend's other friends have turned their back on them and treat them unpleasantly. This suggests that the friend may feel like an outsider in social gatherings, as they are no longer accepted and supported by their social circle."])
+('13', ['directly_mention', 'Very true for me###The post mentions that the person is one of the few friends left for their depressed friend and they care about them very much, indicating that they have people they can turn to in times of need.'])
+('14', ['directly_mention', "Not at all true for me###The post states that the person is distant from their depressed friend and doesn't think there is a chance they would be able to be with them, suggesting they are not close to other people."])
+('15', ['indirectly_mention', "Somewhat true for me###The post mentions that the person is not depressed, but their friend is going through a difficult time. This suggests that the person might be feeling some negative emotions themselves because of their friend's situation, hence it is likely that they have had some unsatisfying interactions. However, the post does not directly mention this question, so my answer is based on the indirect information provided."])
+Do MS Check Record:
+('1', ['Incorrect', "Review the post carefully to distinguish between details about the friend's experiences and the poster's feelings. Base your inference on the poster’s own sentiments rather than the friend's situation. Avoid assuming that feelings attributed to others apply to the poster."])
+('2', ['Incorrect', "Ensure your response reflects only what the poster has communicated about themselves. You have brought in assumptions that are not supported by the text of the post. Refrain from extending the friend's experiences and emotions to the poster unless explicitly stated."])
+('3', ['Incorrect', 'Review the post to identify the perspective and feelings of the poster, not the friend. Only analyze feelings or thoughts that the poster implies about themselves.'])
+('4', ['Correct', 'Continue to differentiate between the experiences of the poster and their friend. Avoid inferring feelings or thoughts not explicitly stated or implied about the poster.'])
+('5', ['Incorrect', "Review the post carefully, focusing on the difference between the poster's perspective and their friend's experiences. Avoid projecting feelings that aren't explicitly stated about the poster themselves."])
+('6', ['Incorrect', "Clarify whose perspective is being assessed. The post discusses the friends' actions towards the poster's friend, not the poster. Assess if the poster implies any self-reflection based on their friend's situation."])
+('7', ['Incorrect', 'Review the post for implicit emotional content. While it may not explicitly state the feelings of being cared for or a sense of belonging, consider the context of the support mentioned.'])
+('8', ['Incorrect', "Analyze the feelings that might be implied by the poster's situation. There are indications of isolation which may affect one's sense of belonging, use these to inform a more nuanced answer."])
+('9', ['Incorrect', "Review the post to infer the emotional support the poster receives. The lack of support from friends except for you, as indicated, should influence the poster's subjective sense of being cared for."])
+('10', ['Incorrect', "Reassess the post considering it mentions the turning away of friends. Inferring from the poster's narration about a friend's situation can lead to an answer reflecting reduced social support."])
+('11', ['Incorrect', "Focus on analyzing the given post from the perspective of the poster only, not the person they're describing. Avoid assumptions about the poster's feelings based on their friend's experiences."])
+('12', ['Incorrect', "Ensure that your responses reflect only the information about the poster, not their friend. Do not infer the poster's feelings of being an outsider from their friend's situation."])
+('13', ['Incorrect', "Review the post and focus on the explicit statements about the poster's friend rather than assuming the poster's own support network. Avoid inferring feelings or support availability about the poster when the content primarily describes someone else's experience."])
+('14', ['Incorrect', "Do not conflate the poster's geographical distance from their friend with the poster's own closeness to others. Their ability to have close relationships is not addressed in the post."])
+('15', ['Incorrect', "Review the post and strictly adhere to the information given about the poster's own experiences. Avoid making inferences about the poster's daily interactions based on their friend's situation."])
+
+ITER 1
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the person feeling that others would be better off if they were gone."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the person feeling that others would be happier without them."])
+('3', ['directly_mention', 'Not at all true for me.###The post explicitly states that the poster cares about their friend and does not mention feeling like a burden on society.'])
+('5', ['indirectly_mention', "Somewhat true for me.###The post mentions that the poster's friend's other friends turned their back on them and treated them unpleasantly, which implies the possibility that the poster feels like people in their life wish they could be rid of them to some extent."])
+('6', ['indirectly_mention', "Not at all true for me###The post indirectly mentions the question when the poster says, 'I'm not depressed, but my friend is terribly blue. Their life is crumbling and I can't bear to see them like this.' This statement implies that the poster is concerned about their friend's well-being and does not believe they make things worse for others."])
+('7', ['indirectly_mention', "Very true for me###The post indirectly mentions the question when the poster says, 'Their friends just turned their back on them and they treat them unpleasantly. I'm one of the few friends they have left.' This statement implies that the poster feels that other people do not care about them, as their friend's friends have abandoned them and treated them unpleasantly."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feeling like I belong."])
+('9', ['indirectly_mention', "Somewhat true for me.###Although the post does not directly mention rarely interacting with people who care about me, it does mention that their friends turned their back on them. This implies a lack of support and interaction with people who care, which aligns with 'Somewhat true for me'."])
+('10', ['indirectly_mention', "Somewhat true for me###The post mentions that the friend's friends have turned their back on them and treat them unpleasantly, indicating a lack of support. As someone who cares about the friend and feels distressed seeing them in this situation, it is likely that I also feel somewhat disconnected from other people."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the number of caring and supportive friends that the poster currently has."])
+('12', ['indirectly_mention', "Somewhat true for me###The post states that the poster's friend is going through a difficult time, their life is crumbling, and the poster can't bear to see them like this. This suggests that the poster may feel like an outsider in social gatherings, as they are struggling to connect with their friend and potentially feeling isolated in their experience."])
+('13', ['not_mention', "Doesn't mention at all.###The post primarily focuses on the poster's friend's challenges and their own struggles in supporting their friend. It does not provide any information about the poster's own social support network or whether they have people they can turn to in times of need."])
+('14', ['indirectly_mention', 'Somewhat true for me###The post mentions that the poster cares about their friend very much and is concerned about their well-being. This indicates that the poster is emotionally invested and therefore, may have satisfying interactions with their friend on a regular basis.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the poster's daily interactions or whether they have at least one satisfying interaction every day. The focus of the post is on the poster's friend's struggles and the question is not addressed."])
+Do MS Check Record:
+('1', ['Correct', 'Maintain objectivity and focus on what is explicitly mentioned in the post without making assumptions.'])
+('2', ['Correct', 'Continue to avoid inferring feelings or thoughts that are not directly expressed by the poster.'])
+('3', ['Incorrect', "Review the post focusing solely on the poster's expressions and feelings, not interjecting with unwarranted assumptions about their self-perception."])
+('5', ['Incorrect', "Avoid overgeneralizing from the situation of the poster's friend and imposing those feelings on the poster without any concrete evidence from the post."])
+('6', ['Correct', 'You acknowledged the indirect reference to the question and inferred correctly based on the content. However, be cautious not to infer too much. Stick to the information provided and avoid assuming feelings not explicitly stated.'])
+('7', ['Incorrect', "You misconstrued the post's information regarding the question about whether others care about the poster, rather than the poster's friend. You should concentrate on the poster's perspective and the direct context surrounding them individually without assuming their feelings based on their friend's experiences."])
+('8', ['Incorrect', 'Revisit the post and consider the emotional context rather than a direct mention. Reflect on how the care for their friend might affect their sense of belonging.'])
+('9', ['Correct', 'Continue practicing the skill of making inferences based on indirect information while maintaining objectivity.'])
+('10', ['Incorrect', "Review the post to identify if it speaks about the poster's social circle or someone else's. It is important to differentiate between the poster and other individuals mentioned."])
+('11', ['Incorrect', 'Analyze the post to determine if the isolation or disconnection applies to the poster or to others. Do not infer feelings of disconnection for the poster without evidence from the post itself.'])
+('12', ['Incorrect', "Remember that the task is to convey the poster's possible feelings from the text provided. In this case, the student over-inferred the poster's feelings of being an outsider based only on the friend's experiences, not the poster's own statements. Consider the content strictly from the poster's perspective without adding assumptions."])
+('13', ['Correct', "Good job on recognizing that the post doesn't mention the poster's own support network. Keep focusing on the content provided and avoid making inferences beyond the given information."])
+('14', ['Incorrect', "While the post indicates the poster cares for their friend, it does not explicitly state the poster's current social interactions. Reflect on whether the content truly suggests that the poster is 'somewhat true' for being close to other people. Consider that the statement conveys concern for a friend rather than the poster's own social proximity."])
+('15', ['Correct', "Indeed, the post does not provide information about the poster's daily interactions. Maintain this level of specificity and ensure that no assumptions are made without evidence from the post."])
+
+ITER 2
+Do MS Record:
+('3', ['directly_mention', "Very true for me###The poster mentions feeling like a burden on society by saying that their friend's life is crumbling and they can't bear to see them like this. These words indicate a sense of responsibility and guilt, suggesting that the poster may also feel like a burden on society."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication as to whether the people in the poster's life wish they could be rid of them or not. Therefore, I cannot deduce an answer to this question from the given information."])
+('7', ['indirectly_mention', "Somewhat true for me###The post indirectly mentions the question by discussing the poster's concern for their friend and their desire to help them. Although the post is not about the poster's own feelings, their care for their friend can imply that others care about them as well, leading to a somewhat positive response."])
+('8', ['indirectly_mention', "Somewhat true for me###The post indirectly mentions the question by describing the poster's sense of belonging to their friend. The poster states that they are one of the few friends left and expresses a desire to be with them. This suggests that their friend's companionship is important to them and contributes to a somewhat positive response."])
+('10', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person has few friends left and is distant from them in location, which suggests a sense of disconnection from other people.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding the poster's social circle or the level of support they receive from friends."])
+('12', ['indirectly_mention', "Somewhat true for me###From the post, the poster mentions feeling distant from their friend in location and not being able to be with them. This suggests a sense of being an outsider in social gatherings, as the friend's social gatherings are inaccessible to the poster. However, this is an inference based on the given information and not a direct mention of feeling like an outsider in social gatherings."])
+('14', ['not_mention', "Doesn't mention at all.###The post focuses on the friend's life struggles and the poster's concern for them. There is no indication of the poster's current closeness to other people, so it cannot be determined if they are close to other people or not."])
+Do MS Check Record:
+('3', ['Incorrect', "Reevaluate the post, noting that it's about the poster's friend, not the poster. Avoid attributing the friend's feelings directly to the poster unless explicitly mentioned."])
+('5', ['Correct', "Continue employing careful analysis to distinguish when the post does not provide enough information to answer the question about the poster's personal feelings."])
+('7', ['Incorrect', "Consider only the information presented about the poster, not their friend. Avoid assumptions about how others may treat the poster based on their friend's experiences."])
+('8', ['Incorrect', "Focus on analyzing the poster's own sense of belonging rather than assuming it through their connection to the friend. The information required should be about the poster, not the friend."])
+('10', ['Incorrect', "Read the post carefully; it indicates the poster's friend has few friends left, not the poster themselves. Answer the question as if you are the person who wrote the post, not the friend being described."])
+('11', ['Incorrect', "Do not ignore indirect information. The post shows the poster is concerned about their friend's social disconnection. Use this to infer about the poster's own feelings of possible disconnection due to their friend's situation."])
+('12', ['Incorrect', 'Avoid making inferences about information that is not present in the post. Focus on what is explicitly mentioned or strongly implied about the poster, not their friend.'])
+('14', ['Correct', "Good job for not inferring information that is not present. Continue to distinguish between the poster's experiences and those of the people they describe."])
+
+ITER 3
+Do MS Record:
+('3', ['indirectly_mention', "Not at all true for me###The post indirectly mentions feeling like a burden on society as the poster mentions their friend is going through a tough time in their life and the poster is concerned about their friend's well-being. However, there is no direct mention of the poster feeling like a burden on society, so I can infer that it is not true for the poster."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not provide any information about how other people care about the poster. It mainly focuses on the friend's struggles and the poster's concern for their friend. Therefore, I cannot determine the answer to this question based on the given information."])
+('8', ['indirectly_mention', "Somewhat true for me###The post mentions that the friend is terribly blue and their life is crumbling. As a result, the poster, who cares about the friend, might feel a sense of belonging to the friend's struggle, indicating the poster's own emotional state."])
+('10', ['not_mention', "Doesn't mention at all.###The post doesn't provide any direct or indirect information regarding the number of caring and supportive friends the poster has. It solely focuses on the friend's situation and the lack of support they are receiving."])
+('11', ['directly_mention', 'Very true for me###The post explicitly states that the poster feels disconnected from their friend, who is going through a difficult time. This indicates that the poster feels disconnected from other people.'])
+('12', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster's friend is being treated unpleasantly by their other friends. This suggests that the poster may feel like an outsider in social gatherings, although it is not explicitly stated. Additionally, the distance between the poster and their friend may contribute to this feeling of being an outsider."])
+Do MS Check Record:
+('3', ['Incorrect', "Reassess the content of the post, focusing on the perspective of the individual writing it. Avoid assuming feelings not explicitly mentioned, and instead draw inferences from the context provided about the poster's own experiences, not their friend's."])
+('7', ['Correct', 'Continue to analyze the text as it relates to the poster directly and avoid drawing inferences about their feelings from unmentioned details. However, consider exploring how expressing concern for others might indirectly suggest how others perceive the poster.'])
+('8', ['Incorrect', "Focus on the poster's own feelings rather than inferring from the friend's situation. The post does not provide information about the poster's sense of belonging."])
+('10', ['Correct', "Continue to discern between direct information about the poster and the situation regarding the friend. The post doesn't mention the poster's social support, so stating it doesn't mention is appropriate."])
+('11', ['Incorrect', "Avoid projecting feelings onto the poster based on the friend's experiences. Focus on what the post reveals about the poster's feelings, not the friend's condition."])
+('12', ['Incorrect', "Do not infer feelings of the poster from the friend's social troubles. Stick to analyzing the given text for direct or indirect information about the poster's own social experiences."])
+
+ITER 4
+Do MS Record:
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions that the friend is going through a difficult time and the poster expresses concern for them. This suggests that the poster might have feelings of being a burden on society, although not explicitly stated.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the poster's sense of belonging. The focus is on the friend's situation and the poster seeking advice on how to help them."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention feeling disconnected from other people. It primarily focuses on the friend's struggles and the poster's concern for their friend's well-being."])
+('12', ['indirectly_mention', 'Somewhat true for me###Although the post does not explicitly state that the poster feels like an outsider in social gatherings, the mention of being distant from their friend in location and being unable to be with them suggests a sense of isolation and potentially feeling like an outsider when not being able to provide support or physically be there for their friend.'])
+Do MS Check Record:
+('3', ['Incorrect', "Focus on the content specific to the poster. Avoid assumptions about the poster's feelings based solely on their friend's experience."])
+('8', ['Correct', 'Continue identifying whether the information is available in the post before answering and maintain objectivity without inferring beyond the given content.'])
+('11', ['Incorrect', "Avoid making assumptions not directly supported by the post content. Focus on the information provided about the poster's experience, not the friend's."])
+('12', ['Incorrect', 'While the post suggests the poster feels a sense of distance, there is no clear evidence of them feeling like an outsider in social gatherings. Avoid extrapolating beyond the given details.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows risk of thwarted belongingness because the poster mentions that their friend's life is crumbling, they can barely get out of bed, and their friends have turned their back on them and treat them unpleasantly. This indicates a lack of support and connection, which can contribute to feelings of isolation and thwarted belongingness.
+
+Incorrect
+Remember to correctly identify the subject of the post. The post describes a friend's situation and does not provide information about the poster's feelings of belongingness. Your analysis should focus on the person described in the mental health scale answers, which in this case is the poster themselves. They did not report problems with feelings of belonging or being supported by others. Focus on the given data about the poster to avoid assumptions about their mental state that are not supported by the evidence provided.
+
+ITER 1
+No
+The post does not provide any evidence or indication that the poster is experiencing thwarted belongingness. The focus of the post is primarily on the mental health struggles of their friend and their concern for them.
+
+Incorrect
+Avoid confusing the poster's mental state with that of the subject they are describing. Ensure you critically assess who the focus of the mental health scale responses is - in this instance, the responses relate to the poster, not their friend. When analyzing for thwarted belongingness, the answers to the mental health scale indicate the poster feels a sense of belonging and is not facing social isolation; therefore, the correct response to the question about the post showing risk of thwarted belongingness should be 'Yes', as it indicates the poster's friend, who is the subject of concern, may be experiencing feelings of being uncared for or disconnected from others.
+
+ITER 2
+Yes
+The poster's answers to the mental health scale indicate a sense of belonging and connection, suggesting that they are not experiencing thwarted belongingness. However, the post mentions that the friend is facing unpleasant treatment from their friends and feeling distant. This suggests that the friend may be at risk of experiencing thwarted belongingness.
+
+Incorrect
+Remember to differentiate between information about the poster and the person the poster is referring to. The post and the responses are from two different perspectives, the poster and their friend. The scale responses relate to the poster, indicating no thwarted belongingness on their part. The post discusses the friend's experience, not the poster's. Analyze the given information carefully to avoid confusing the subject of the mental health situation. Your response should exclusively reflect the perspective of the individual whose mental health is in question.
+
+ITER 3
+Yes
+The post indicates that the friend is experiencing a lack of social support and is feeling isolated from others. The friend's family and other friends have turned their back on them, and the poster, who cares about the friend, is unable to be physically present. This suggests a potential risk of thwarted belongingness for the friend mentioned in the post.
+
+Incorrect
+Be careful not to confuse the experiences of someone close to the subject of the post with the subject themselves. The answered questions pertain to the poster's feelings, not the friend's. There is no indication the poster feels a lack of belonging. Focus on evaluating the mental health of the person described in the questions, which in this case is the person writing the post, not their friend.
+
+ITER 4
+Yes
+The post indicates that the person described is feeling isolated and distant from their friend. They mentioned that their friend's other friends have turned their back on them and they themselves are physically distant. This suggests a lack of belonging and potential risk of thwarted belongingness.
+
+Incorrect
+Remember to differentiate between the mental health of the person posting and the individual they are discussing. Respond only to the mental health of the person directly providing responses to the scales. In this case, none of the answered scale questions from the person providing the social media post indicate a personal experience of thwarted belongingness for themselves, as they answered neutrally or negatively to questions about their own sense of belonging and value to others. Only consider the poster's direct answers, not the situation of their friend, when determining the mental health state of the poster.
+
+ITER 5
+No
+The person directly providing responses to the scales does not indicate a personal experience of thwarted belongingness. Their answers to the scale questions about their own sense of belonging and value to others were neutral or negative. Therefore, it does not show a risk of thwarted belongingness.
+
+correct
+Review the distinction between the poster's feelings and the individual being described in the post. The responses to the scale questions should reflect the feelings of the person being described, not the friend who is posting about them. In this case, the person in the post is concerned about their friend's mental health, not their own. Your answer to the mental health question should be focused on the friend's experience as described in the post. Examine the evidence carefully and don't infer characteristics or feelings that aren't supported by the provided information.

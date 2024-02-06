@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Depression is so exhausting. I used to look forward to going to sleep at night because that was my escape, finally a break. Now it's a time machine to anther rough day. I'm not trying to be a fucking poet, I just needed to put my thoughts somewhere. I'm just tired. I wish I knew what there was to do to make me feel okay again and how to get the energy to do it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of exhaustion, longing for escape, and a lack of energy. These are common signs of depression and may also indicate a sense of disconnection and isolation, which aligns with the concept of thwarted belongingness.
+

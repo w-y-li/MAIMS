@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Anybody else? I'm an aspiring screenwriter and I write my best stuff when I'm in the dark places my depression takes me. I stopped seeing my therapist and stopped taking my medication (sertraline) because I'm scared I'll never get to go to that place again and my writing will suffer because of it. It's ruining my life but it's helping me make a better one for myself. It's the weirdest fucking thing. I guess I could be take my medication like a good little boy, give up on ambition and go work in retail like everybody else I know. But I'm stubborn. I need somebody to talk to. For those wondering: male, 23, recovered alcoholic (nearly 5 years sober), depression began at 18.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling like their depression helps them create better writing, implying that they rely on their depression for inspiration. They also express fear of losing access to that dark place if they resume therapy and medication. This suggests a risk of perceived burdensomeness, as they see their depression as necessary for their creative work and may feel burdened by the idea of seeking help and potentially losing that inspiration.
+

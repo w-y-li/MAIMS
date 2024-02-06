@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I have beaten depression before! I really have! But this time for the life of me I can't! I have so much going on. Too much. A lot of heavy burdens but I also have lots of good too. My dad is living in the hospital. My mom had angina. My dad is a VERY COMPLICATED case. My mom's attitude is  whatever . And I have two older brothers, one who can't help through no fault of his own he has heart problems. The other can't be counted on, he flys out of province regularly. So often in fact that he doesn't even bother to let family know. I have the most amazing husband ever! He is simply the best thing that's ever happened to me. I have three of the world's most friendly cats. We live in a nice house, cheap rent for what we have. Awesome neighbors.and my favorite weather outside, sunny cold and crisp air with crunchy snow on the ground. But I can't kick this depression. I'm attempting medication finally. Because after two years I finally gave in and am trying them. So far I feel worse than usual. I don't know if I have anything left in me to keep trying. In the evening I feel better and try to fill my days as best I can Because commitment seems to be the only thing that gets me out of bed.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions heavy burdens, complicated family issues, and lack of support from family members. These factors can contribute to feelings of isolation and thwarted belongingness, which is a risk factor for depression.
+

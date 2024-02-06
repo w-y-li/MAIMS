@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  It is often in combination with being sick. But I can just wake up in the morning and be unable to move my legs, and have great difficulty moving my arms as well. I have had it confirmed by doctors and psychologists alike that it is not physical. Something psychological is keeping me unable to get out of bed. It has been suggested to me by my psychiatrist that it is repressed emotions. But most of what I am feeling is just stress, frustration and anxiety due to being unable to go to work. I feel like I will be let go because I have to constantly call in sick. (Not actually let go, just not getting my contract renewed) Does anyone else suffer with this? Has anyone overcome it?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post mentions a sense of isolation and potential fear of losing their job, which can be indicative of thwarted belongingness.
+

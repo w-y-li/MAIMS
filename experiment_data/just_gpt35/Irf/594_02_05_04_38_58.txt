@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm so fucking stupid. I should've kept pretending like everything was ok. I finally opened up to 2 of my best friends about how I've been suicidal recently. They got really upset and started telling me how selfish that is, and they're right. I knew they've both dealt with suicidal thoughts before, and it was insensitive to bring it up around them. Since then they stopped talking to me. I've never felt worse about myself and dealing with it alone isn't helping. At this point I'm ready to die. I'm failing out of school, I can't start a relationship, my autism is getting worse, and I won't even have a place to live next month when I turn 18. My one reason for not ending it already were the few friends that I did have, but now they're gone too, so I don't have a reason to stay alive anymore  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of isolation and loss of social support, as well as a perceived lack of belongingness. The poster mentions feeling alone, losing friends, and not having a reason to stay alive anymore, suggesting a risk of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I wish there was something to fight for other than a paycheck at the end of the month. Life feels so meaningless.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of hopelessness and a lack of purpose in life which can be indicative of perceived burdensomeness.
+

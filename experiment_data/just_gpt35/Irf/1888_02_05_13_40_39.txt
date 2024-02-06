@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  All I want is for people in my everyday life at school to care about me  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a strong desire for care and concern from people in the poster's everyday life. This desire for social connection and belongingness indicates a potential risk of thwarted belongingness, which is a psychological state characterized by feelings of isolation, loneliness, and a lack of interpersonal connection.
+

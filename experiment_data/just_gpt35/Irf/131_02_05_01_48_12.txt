@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  What if I have an amazing family, and amazing boyfriend, amazing friends, amazing schooling, amazing financial status. What if I have no reason to be depressed? All of my family is coming over this afternoon to enjoy the night and I'm crying in my room, afraid and tired. But all I can think about is how tired I am of life. How nothing is bringing me joy anymore. I have no reason to live. Is anyone else feeling this way? Please PM me. I feel so done.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of exhaustion, being tired of life, and a lack of joy, despite having numerous positive aspects in life. The poster also expresses feeling done and having no reason to live. These feelings indicate a potential risk of perceived burdensomeness, where the individual may believe that they are a burden to others despite having supportive relationships and circumstances.
+

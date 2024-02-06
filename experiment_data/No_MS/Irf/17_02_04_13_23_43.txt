@@ -1,0 +1,21 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Someone will love me one day, but I just need reassurance right now  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a need for reassurance and implies a sense of loneliness and longing for someone to love them in the future. This can indicate a risk of perceived burdensomeness, where the individual may feel like a burden to others and doubt their own worthiness of love and support.
+
+Incorrect
+Be cautious not to make unwarranted inferences about negative characteristics or feelings such as perceived burdensomeness without clear evidence from the post. Stick to the information provided without adding assumptions. Focus on identifying specific language in the post that directly indicates perceived burdensomeness if present.
+
+ITER 1
+No
+The post does not directly mention or indicate any feelings of burdensomeness. The poster is seeking reassurance and expressing a belief that someone will love them in the future, but it does not specifically imply a burden on others.
+
+Correct
+Continue to carefully analyze the content of the posts without over-inferencing. Remember to distinguish between the expressions of seeking support and the explicit expressions that would suggest feelings of burdensomeness. Keep focusing on the information provided and avoid assumptions that go beyond the presented evidence.

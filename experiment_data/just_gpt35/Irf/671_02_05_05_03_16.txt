@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Many of us know that spending your days and nights away on the computer keeps you from thinking of doing anything stupid, at least that's how it is for me. Without this thing, it's nothing but me and my thoughts. Maybe I just have some sort of addiction, but when I'm off of it for even 5 minutes to go to the bathroom or something, I'm reminded of how shitty life is. I'm reminded of the shit I'll have to do in a few months, since I'm about to graduate (only had 2 classes for grade 12). I still don't have any ideas on what I want to do for my life, and it still is a looming thought over my head that what I pick I'll be stuck with until I retire. I know, you don't have to stick with it, but still. Having to work your life away, what's the point. But yeah, the computer is my life and without it I'm truly broken. When I'm not on it I just want to fucking die, even sometimes when I'm on it like right now I just want to drop what I'm doing, and just lie down on the floor. I just want to give up. There's not really a point in anything anymore.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being overwhelmed by the future and a sense of hopelessness, leading to thoughts of giving up and perceiving oneself as a burden to others.
+

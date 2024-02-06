@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Its only been two days and i've fcked up so much already. Two days in and i'm already depressed as fck. I can already feel all the shit coming from this year. I fcking hate myself for being so fcking useless, fcking ugly and a fcking pussy. I want to just fcking disappear but im a fcking pussy and im afraid that even in my deathbed all these fcking people would still look at me with their disgusted fcking eyes.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Very true for me###The post mentions that the person feels useless, ugly, and like a pussy, and expresses a desire to disappear. These thoughts and feelings indicate a low self-esteem and self-worth, as well as a belief that the people in their life would be better off without them.'])
+('2', ['directly_mention', 'Very true for me###The post directly states that the person believes the people in their life would be happier without them. This is evident in their expression of self-hatred, wanting to disappear, and thinking that others look at them with disgust.'])
+('3', ['indirectly_mention', 'Somewhat true for me###The post expresses feelings of being useless and a burden on others, which suggests that the person may feel like a burden on society.'])
+('4', ['indirectly_mention', 'Somewhat true for me###The post mentions wanting to disappear and fears of being judged even in their deathbed. This implies that the person may think their death would be a relief to the people in their life.'])
+('5', ['directly_mention', 'Very true for me###In the post, I mentioned that I feel like people would look at me with disgust, even on my deathbed. This indicates that I believe the people in my life wish they could be rid of me.'])
+('6', ['directly_mention', 'Very true for me###I explicitly stated that I hate myself for being useless and ugly. This implies that I think I make things worse for the people in my life, making it true that I believe I make things worse for them.'])
+('7', ['not_mention', "Doesn't mention at all.###The post does not contain any information related to the question about whether other people care about me. It mainly focuses on the individual's negative feelings towards themselves."])
+('8', ['indirectly_mention', "Somewhat true for me.###Although the post does not directly mention feeling like I belong, it does imply a sense of isolation and not fitting in. The individual expresses self-hatred and refers to themselves as 'useless' and 'ugly,' which could indicate a lack of belonging. Therefore, it is likely that they feel somewhat true that they do not belong."])
+('9', ['indirectly_mention', 'Somewhat true for me###I mention feeling depressed and hating myself, which suggests that I may not have many supportive friends currently.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information that allows me to determine the answer to this question."])
+('11', ['indirectly_mention', "Very true for me###Although the post doesn't directly mention feeling disconnected from other people, the use of phrases like 'useless', 'ugly', and 'afraid that even in my deathbed all these people would still look at me with their disgusted eyes' suggests a sense of disconnection and being misunderstood by others."])
+('12', ['indirectly_mention', "Very true for me###The post talks about feeling like an outsider, using phrases like 'fcking pussy', 'afraid that even in my deathbed all these fcking people would still look at me with their disgusted fcking eyes'. These expressions suggest a feeling of not fitting in or feeling excluded in social gatherings."])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling depressed and hating oneself, which suggests a lack of support or close relationships. Therefore, it is likely that the person does not feel that there are people they can turn to in times of need, but they might still have some limited support network.'])
+('14', ['indirectly_mention', 'Not at all true for me###The post mentions feeling depressed and hating oneself, which suggests a lack of close relationships. Therefore, it is likely that the person does not feel close to other people.'])
+('15', ['indirectly_mention', "Somewhat true for me###The post mentions feeling depressed and hating oneself, which suggests a lack of satisfaction with interactions. However, the post doesn't explicitly mention having satisfying interactions, so I deduced that it is somewhat true for me."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post demonstrates a strong indication of perceived burdensomeness, as evident from the poster's self-hatred, feelings of worthlessness, and a desire to disappear. The answers to the questions on the mental scale further reinforce this perception with the poster strongly agreeing that their existence negatively impacts the people in their life and that their death would provide relief. This suggests a significant risk of perceived burdensomeness.
+

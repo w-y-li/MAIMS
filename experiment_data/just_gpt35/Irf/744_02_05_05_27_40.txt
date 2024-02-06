@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  My job sucks. I know everybody and their mothers complain about working, but my job SUCKS. The bosses are total unprofessional cunts, they are uncouth and rude, they yell at everyone. They want me to do shit that I can't do. I work at a tv repair company. they take broken tv's, they fix em, they sell em. I broke one. They are going to sue me. I reckon i have a good case, because the tv was in a prone position to get damaged. And i know i can win the case. but im still nervous and anxious. I really want to quit. but i need the money. I need advice.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post primarily focuses on dissatisfaction with the job, boss, and anxiety about a potential lawsuit. It does not specifically mention feelings of social isolation, exclusion, or a lack of belongingness, which are characteristic of thwarted belongingness.
+

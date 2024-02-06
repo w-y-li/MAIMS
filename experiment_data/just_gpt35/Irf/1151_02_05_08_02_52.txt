@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I‚Äôm hoping there‚Äôs an active forum somewhere online I can chat with others at. Talking to someone 1 on 1 on reddit has always bothered me, so I appreciate anyone who offers but I‚Äôm definitely looking more for a casual group setting so I don‚Äôt feel like I‚Äôm the center of attention. I may feel like I want to die but I‚Äôm definitely not going to do it tonight, others could use the help.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster mentions feeling like they want to die but also states that they are not going to do it tonight because others could use the help. This indicates that they still have concern for others and are not solely focused on their own perceived burdensomeness.
+

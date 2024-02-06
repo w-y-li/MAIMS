@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  ‚ÄúThere‚Äôs a lot of people who want to be in despair, just so they can pity themselves. But I think it‚Äôs a waste of time, that‚Äôs all. After all, your the one who wishes to be left alone and refuses to share your pain with anyone else. Don‚Äôt just sit on your ass, waiting for somone to give you a job. It‚Äôs common sense for a person to go out in the world and work his ass off no matter how much problems he has! Yet you pretend the rest of the world has nothing to do with you and just laze around with a face that might as well belong to a corpse...! All you do is whine, whine, whine! Always whining about how you don‚Äôt want to be a slave to society, or how shit the job market is! Back in our day, people worked to the bone in far harsher conditions than you can imagine!! SO DONT GET COCKY, PUNK!! YOU DONT EVEN CONTRIBUTE A SINGLE THING TO SOCIETY!! NO MATTER WHAT TIMES WE LIVE IN, A WORTHLESS PIECE OF TRASH IS A WORTHLESS PIECE OF TRASH, YOU PASSIVE, LAZY, BUM!‚Äù That‚Äôs what she said when I opened up about my depression. I guess she is right, though. It‚Äôs dog eat dog world out there. To not even try because your afraid of failing, is just too pathetic. I should probably just do everyone a favor and kms.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of feeling like a burden to others and expressing thoughts of self-harm as a way to relieve others from the burden.
+

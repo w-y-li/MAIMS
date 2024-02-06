@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I tried to kill myself multiple times since 2015 And I haven't been successful. Oh well... Another year to suffer through this hell  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person has attempted to take their own life multiple times and expresses a sense of suffering and hopelessness. This shows signs of perceived burdensomeness, as they may feel like a burden to others and believe that ending their life would alleviate their suffering.
+

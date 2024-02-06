@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  The one and only thing I want to and have a will to do is to listen to the music all day and space out in it. Everything else is boring, draining and dull. And I receive no mental pleasure from doing anything else.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', "I feel sad much of the time.###The statement 'Everything else is boring, draining and dull' implies a lack of fulfillment or enjoyment in activities other than listening to music. This suggests that the poster may experience a consistent underlying level of sadness."])
+('2', ['indirectly_mention', "I feel the future is hopeless and that things cannot improve.###The statement 'Everything else is boring, draining and dull' implies a pessimistic view of the future, as the poster expresses no enjoyment or interest in any activities other than listening to music. This suggests a lack of hope and belief in the possibility of improvement."])
+('3', ['directly_mention', "I do not enjoy things as much as I used to.###The post states 'Everything else is boring, draining and dull' and 'I receive no mental pleasure from doing anything else.' This indicates a decrease in enjoyment from previously enjoyable activities."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to past failure."])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###The post mentions that everything else is boring, draining and dull, and the poster receives no mental pleasure from doing anything else. This suggests a lack of enjoyment or fulfillment from other activities, which may lead to guilt for not engaging in them.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about feeling punished or expecting to be punished."])
+('7', ['indirectly_mention', 'I dislike myself.###The post mentions that everything else is boring, draining, and dull, and that the poster receives no mental pleasure from doing anything else. This suggests a dislike for oneself as they perceive other activities as unenjoyable.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information that can be used to deduce the answer to this question."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes. The focus is primarily on the poster's preference for listening to music and finding other activities boring and dull."])
+('10', ['indirectly_mention', "I cry more than I used to.###Although the post does not directly mention crying, the statement 'Everything else is boring, draining and dull. And I receive no mental pleasure from doing anything else' suggests a lack of enjoyment or fulfillment in other activities. This could potentially lead to increased feelings of sadness or frustration, resulting in more frequent crying."])
+('11', ['indirectly_mention', 'I am so restless or agitated that it is hard to stay still.###The post mentions feeling bored, draining, and dull with everything else except listening to music. This implies a lack of interest and satisfaction in other activities, which could lead to restlessness and agitation.'])
+('12', ['indirectly_mention', 'I have lost most of my interest in other people or things.###The post explicitly states that the poster receives no mental pleasure from doing anything else except listening to music. This suggests a loss of interest in other activities or people.'])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that everything else besides listening to music is boring, draining and dull. This implies that the person may have difficulty in making decisions because they do not find any other activities enjoyable or fulfilling.'])
+('14', ['indirectly_mention', 'I do not consider myself as worthwhile and useful as I used to.###The post mentions that the person receives no mental pleasure from doing anything else besides listening to music. This suggests a decrease in self-perceived worth and usefulness, indicating a level of worthlessness compared to their previous state.'])
+('15', ['indirectly_mention', 'I do not have enough energy to do very much.###The post mentions that everything else is boring, draining, and dull. This suggests a lack of motivation and energy to engage in other activities.'])
+('16', ['indirectly_mention', 'I sleep a lot less than usual.###The post mentions that the person wants to listen to music all day and space out in it. This suggests a potential disruption in their sleeping pattern as they prioritize music over sleep.'])
+('17', ['directly_mention', 'I am more irritable than usual.###The post mentions that everything else is boring, draining, and dull, and that the person receives no mental pleasure from doing anything else. This suggests a lack of enjoyment or fulfillment in their usual activities, which could lead to increased irritability.'])
+('18', ['directly_mention', 'My appetite is somewhat less than usual.###The post mentions that everything else is boring, draining, and dull, and that the person receives no mental pleasure from doing anything else. This lack of enjoyment or pleasure can potentially lead to a decrease in appetite or reduced interest in food.'])
+('19', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###The post mentions that everything else is boring, draining and dull, and the person receives no mental pleasure from doing anything else. This suggests a difficulty in concentrating or keeping their mind focused on other activities.'])
+('20', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding tiredness or fatigue. It solely focuses on the person's desire to listen to music and space out."])
+('21', ['directly_mention', 'I have almost no interest in sex.###The post explicitly states that the only thing the poster wants to do is listen to music. They describe everything else as boring, draining, and dull. This suggests a lack of interest in activities other than listening to music, including sex.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the depression-related questions indicate symptoms commonly associated with depression, such as sadness, pessimism, loss of pleasure, guilt, self-dislike, agitation, loss of interest, indecisiveness, worthlessness, changes in sleeping pattern, irritability, changes in appetite, concentration difficulty, and loss of interest in sex.
+

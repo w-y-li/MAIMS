@@ -1,0 +1,21 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Help? I'm just feeling really shitty at how I seem to have spent the majority of my time recently lying around not doing anything, letting my room and shit get into a mess and just been consumed by negative thoughts. I'm also worse at a particular time of day. Like I've barely done anything productive this month and I hate myself for it, and I hate the fact I can't try hard enough/be bothered to help myself out of this. Some days are better than others, yes, but at the end of the day I just can't do it. I'm 17 and wasting my fucking life being lazy and doing nothing, the new year has made me realise. I want to make resolutions but I know I can't keep them so I'm not bothering. Any help/advice??  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a sense of isolation and feeling disconnected from others. The poster expresses negative thoughts, self-hatred, and a lack of motivation. They mention feeling lazy, wasting time, and not being able to help themselves. These feelings of alienation and lack of purpose could indicate a risk of thwarted belongingness.
+
+Incorrect
+Avoid overgeneralizing feelings of negative self-perception as signs of thwarted belongingness without specific evidence pointing to social isolation or a lack of connection with others. Focus on the information given and consider alternative explanations for the behaviors described, such as symptoms of depression or a mood disorder, before concluding that they pertain to social belongingness issues.
+
+ITER 1
+No
+The post mentions feeling lazy, not being productive, and being consumed by negative thoughts. However, there is no specific evidence pointing to social isolation or a lack of connection with others, which are key indicators of thwarted belongingness. The focus of the post seems to be more on self-perception and feelings of low self-worth rather than issues related to social belongingness.
+
+Correct
+Ensure to distinguish between self-deprecatory thoughts and social isolation. Continue to look for clear signs of thwarted belongingness like expressions of loneliness or lack of social support when making your assessments.

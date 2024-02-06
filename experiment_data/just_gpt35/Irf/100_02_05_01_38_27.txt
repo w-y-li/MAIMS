@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Its irony when my mom keeps bugging me like why wont I spend my time to talk with her instead of me sulking in my bedroom when everytime I talk to her,she always manage to either compare me with one of her friend's child who are far way more successful or reminds me of how much my dad not wanting me.I wish I was never alive.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a lack of connection and belongingness with the poster's mother, as indicated by the conflict and comparison between the poster and their mother's friend's child. The mention of the poster's father not wanting them further reinforces feelings of rejection and isolation, which can contribute to a sense of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  First time on antidepressants but I've been on them for 4 months now. I like the meds I'm on now and if I have an issue then I'll make an appointment with my psychiatrist is what I thought. But when I called my pharmacy they said I was out of refills. Is there any way I can just keep getting refills without having to keep visiting my Dr to renew the prescription? Is there a reason why I need to keep seeing this psychiatrist just to sit in a waiting room for 2 hours just to say hey I need refills?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of perceived burdensomeness.
+

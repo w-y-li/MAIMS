@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  (Venting, throwaway account for privacy.) My mind is blank. I cannot think. I don't want to eat. I don't want to try anymore. I've been trying for almost 30 years now. It hasn't gotten better like everyone said it would. It's just been a series of ups and downs, a rollercoaster that never seems to end. I fucking hate it. My partner's grad program fucked us over with direct deposit again, so now all our bills are gonna be overdue. Again. We barely have food in the house, and neither of us have had the mental energy lately to cook what we do have. I could pick up more shifts to work all weekend for pennies to try and slowly pay a tiny bit of everything off, but I won't be able to make enough to pay everything. I'll work myself to the brink of death again just to barely get by, smoke to get through the day, and drink to fall asleep at night. Or I could just end it all. My partner knows I'm mentally ill and tries their best. They go above and beyond any efforts I've ever seen, including my own parents. I don't want to leave them behind. I feel so guilty for feeling this way. But I just can't keep going like this. I want this to be over. And there's no end in sight. So I should just make my own exit.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Very true for me###The post states 'I want this to be over' and 'And there's no end in sight. So I should just make my own exit.' This indicates that the person believes others would be better off without them and that they are considering suicide."])
+('2', ['directly_mention', "Not at all true for me###The post mentions that the person's partner goes above and beyond in their efforts to support them, which suggests that the person feels guilty for feeling this way and doesn't want to leave their partner behind."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling guilty for feeling this way and not wanting to leave their partner behind, which suggests that the person may feel like a burden on society. However, they do not explicitly state that they think they are a burden on society.'])
+('4', ['indirectly_mention', 'Somewhat true for me###The post mentions wanting this to be over and feeling like there is no end in sight, which implies that the person may think their death would be a relief to the people in their life. However, they do not directly state that this is true for them.'])
+('5', ['directly_mention', 'Somewhat true for me###In the post, I mentioned feeling guilty for feeling this way and feeling like I want to leave everyone behind, which suggests that I think the people in my life wish they could be rid of me to some extent.'])
+('6', ['directly_mention', 'Very true for me###In the post, I mentioned feeling guilty for feeling this way and feeling like I make things worse for the people in my life, which suggests that I think I do make things worse for them.'])
+('7', ['directly_mention', 'Not at all true for me###The post mentions feeling guilty for feeling this way and not wanting to leave their partner behind, which suggests that they feel like other people care about them.'])
+('8', ['directly_mention', "Not at all true for me###The post expresses a desire for the pain to be over, indicating a lack of belonging and feeling like they don't belong."])
+('9', ['directly_mention', "Not at all true for me###I mentioned that my partner tries their best and goes above and beyond any efforts I've ever seen, which implies that I do have someone who cares about me, so the answer to Question 9 is 'Not at all true for me'."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information that indicates the number or presence of caring and supportive friends, so I cannot answer Question 10 based on the given post."])
+('11', ['directly_mention', 'Somewhat true for me###In the post, I mentioned that my mind is blank and I cannot think. This suggests that I feel disconnected from other people to some extent.'])
+('12', ['directly_mention', "Somewhat true for me###In the post, I mentioned that I don't want to try anymore and that I feel disconnected from others. This indicates that I often feel like an outsider in social gatherings."])
+('13', ['directly_mention', "Not at all true for me###The post mentions feeling like there are no people to turn to in times of need, which aligns with the options 'Not at all true for me'."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything about being close to other people, so it doesn't provide any information to answer this question."])
+('15', ['directly_mention', 'Not at all true for me###The post directly mentions that the person is feeling blank and unable to think. They also express a lack of desire to eat or try and indicate that they have been struggling for almost 30 years. These statements imply a lack of satisfying interactions on a daily basis.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statements suggest that they feel like a burden on society and believe their death would be a relief to the people in their life. They also express guilt for feeling this way and mention thoughts of making their own exit. These thoughts and feelings indicate a risk of perceived burdensomeness.
+

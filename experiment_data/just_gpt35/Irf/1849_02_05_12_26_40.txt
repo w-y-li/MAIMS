@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  That's all I can really say. Nothing is worth the effort... I don't think I am capable of taking steps to improve my life, because I just don't even fucking care. Whatever I'm doing, wherever I go in my life, I'll find a way to be miserable. Why try... I just... ugh...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of motivation and an overall sense of hopelessness. The poster conveys a belief that they are burdensome and that their efforts to improve their life will be futile. This suggests a risk of perceived burdensomeness, which is a component of several mental health disorders such as depression or suicidal ideation.
+

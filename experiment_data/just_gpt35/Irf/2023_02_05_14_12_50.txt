@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  My life, from an outside perspective, is objectively comfortable . I‚Äôm not terribly rich, but I have a roof over my head and food on my plate, with money to spare for my hobbies. I have a group of close supportive friends. I have depression. I‚Äôve had it on and off since I was 11, but it‚Äôs been consistently bad for the past year. Everyday is filled with excruciating pain and loneliness. But I often wish it was worse. I‚Äôm ashamed to admit that I sometimes wish my parents died all of a sudden or that my house will burn down or that I‚Äôll get in a bad accident so that I‚Äôll receive public sympathy. I‚Äôll FINALLY have something concrete to complain about! Because guess what? Right now, I *don‚Äôt* have much concrete things to complain about. At least not things I can tell people publicly. I guess another way to put it is that I‚Äôm desperate for attention, although I don‚Äôt like the connotation that comes with that phrase (as true as it may be). My head‚Äôs constantly battling these dark thoughts. My life is a living hell, and I‚Äôm frustrated that nobody‚Äôs taken notice, when it‚Äôs my own damn fault I‚Äôm not opening up to anybody. Man... I‚Äôm just so tired. I don‚Äôt know how much longer I can keep this up for. Everyday I think that this is the last straw. One of these days I‚Äôm going to collapse, but this time I won‚Äôt be able to get back up...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows signs of risk of perceived burdensomeness because the poster expresses a desire for something concrete to complain about and attention from others. They also mention feeling frustrated that nobody has taken notice of their suffering, indicating a perception of being a burden on others.
+

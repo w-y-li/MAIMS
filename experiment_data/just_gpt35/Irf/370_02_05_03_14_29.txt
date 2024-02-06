@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Throwaway account for obvious reasons. About two weeks ago my mom took all my meds away, u know , just in case. Recently I‚Äôve been feeling better, and I asked for them back. but I can‚Äôt help but feel weird about it. Like , I don‚Äôt trust myself enough to have them next to me? Does that sound weird? Does anyone else know what I mean? do you guys trust yourselves ?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual's mother took away their medication, possibly due to concerns about safety. The individual expresses feeling weird and lacking trust in themselves to have the medication nearby. This indicates a potential risk of thwarted belongingness, as they may perceive a lack of support and understanding from their mother.
+

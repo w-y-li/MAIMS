@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I just had another relationship end and I have no solid internal base, or friendships to fall back on. I'm alone. Has anyone gotten through this and genuinely felt like they were okay? Here's how I feel: -She broke up with me and said we're romantically incompatible. How is it that I thought things were okay and she thought they were terrible. -I'm 28 and have abandonment issues. I so badly want a relationship but I am starting to wonder if I'm capable of having a healthy one. -I have this sneaking suspicion that at some point I won't be able to keep going. I've been so close to quitting several times and have barely pulled myself up but then it's all happened again. -I am unable to foster healthy relationships with friends or otherwise. I've been in therapy off and on for years and still can't do it. I know everyone is busy, but please, it would really help me to know that there are other people out there. I feel very alone and just want someone to tell me it'll be okay. Thank you.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of being a burden and a longing for someone to tell them it'll be okay, indicating a risk of perceived burdensomeness.
+

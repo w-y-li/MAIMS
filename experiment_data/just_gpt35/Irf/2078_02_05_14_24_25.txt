@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Life was really great but then things just completely changed and now life is just really horrible. I find myself thinking about suicide more often, and I thought about it before during a bad time, but now I‚Äôm just more sure that I‚Äôm gonna do it and I‚Äôm kind of relieved about it. I can imagine myself about to die, and I‚Äôm not as fearful as before. Anyways, I‚Äôm thinking of making a plan soon, and I‚Äôm thinking about hanging or maybe even using hydrogen sulfide (detergent suicide). If anyone knows anything about using hydrogen sulfide and any discomfort associated with it, I‚Äôd appreciate learning about it :) I‚Äôm so exhausted guys, I just wish I had someone to talk to but I feel like I just get this weird feeling that stops me from talking about it to a specific person. I hope I can end things peacefully. Thanks for reading.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a clear sense of loneliness and an intense desire for connection. The poster expresses feeling exhausted and longing for someone to talk to, but also mentions a weird feeling that stops them from reaching out to a specific person. This suggests a potential risk of thwarted belongingness – a perceived lack of social connection or meaningful relationships.
+

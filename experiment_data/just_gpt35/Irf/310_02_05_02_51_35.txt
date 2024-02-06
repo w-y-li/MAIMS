@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I feel like everyone just doesn't appreciate me. And I only feel this because of school. My teacher told me today that if I didn't do anything that would be more helpful than me actually trying to do something. I'm only 10 and I feel like no one my age should be feeling like this. I know you people are much older and have to deal with way worse problems but when your a goddamn 5th grader life shouldn't make you feel like your worthless. My entire day was filled with unfairness. Teachers have their favorites and if you aren't one of them you'll be treated like shit.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of not being appreciated and feeling worthless, which suggests a potential risk of thwarted belongingness.
+

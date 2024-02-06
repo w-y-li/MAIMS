@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Life can go fuck itself. I think I'm done. I'm a mechanical engineer graduate. I came from a different country to the United States to study engineering, hoping I can make something out of myself. I poured blood sweat and tears trying to get good grades and graduate proudly. I never went to parties, stayed away from drugs, focused on having good relationships with people and overall being kind wherever I could. This country does not want to hire me at all.. Wherever I send my applications I get rejects. This was my only dream and meant everything in life. All my friends and moved on getting jobs. I have an excellent profile and some really good work to show for but the leadership is a little unpredictable, so companies don't what to hire people like me.. I watched so many people cheat their way through exams and projects and gone to get hired by companies like Amazon and Google. I have not seen my family in three years. And can barely afford to eat more than one meal a day. I'm getting recurring nightmares of being a failure and this makes me want to end it all. I've decided to stay in the US as long as I legally can. Then then, if I'm not getting a job.. I'm simply ending it. I have nothing else to live for. Oh and becomes this, I have fucking health problems.. So who knows how long I'll be alive anyway. Life is unfair.. So life can go fuck itself. I'm out.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I am so sad or unhappy that I can not stand it.###The post explicitly states that the person is experiencing recurring nightmares of being a failure, which suggests a high level of sadness and distress.'])
+('2', ['indirectly_mention', "I feel discouraged about my future.###The post mentions that the person's dream of getting a job in engineering has not been fulfilled and they are facing rejection in their job applications. This could lead to feelings of discouragement towards their future prospects."])
+('3', ['indirectly_mention', "I feel I have failed more than the average person###The post mentions that the poster has poured blood, sweat, and tears into getting good grades and graduating. They also mention that they have an excellent profile and good work to show for. However, they feel that companies don't want to hire them, which implies a sense of failure as they have put in a lot of effort but haven't been successful in finding a job."])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to###The poster expresses feelings of hopelessness, recurring nightmares, and the belief that they have nothing else to live for. These indicate a decrease in pleasure and enjoyment, suggesting a loss of pleasure.'])
+('5', ['directly_mention', 'I feel guilty all of the time###The post mentions that the poster has recurring nightmares of being a failure and expresses feelings of being a failure. These feelings of failure are often associated with guilt, leading me to conclude that the poster feels guilty all of the time.'])
+('6', ['indirectly_mention', "I feel I am being punished###Although the post doesn't directly mention punishment feelings, the poster expresses a strong sense of injustice and unfairness in life. This can often lead to feelings of being punished or undeserving of happiness. Therefore, it can be inferred that the poster feels that they are being punished."])
+('7', ['directly_mention', "I dislike myself.###The post explicitly expresses self-dislike by stating 'Life can go fuck itself' and 'Life is unfair'. These statements indicate a strong disdain towards oneself and a negative perception of life in general."])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual.###Although the post doesn't explicitly state self-accusations, the poster indicates feeling like a failure and mentions watching others cheat their way through exams and projects. This suggests a tendency towards self-criticism and blaming oneself for not achieving success, particularly in comparison to others."])
+('9', ['indirectly_mention', 'I have thoughts of killing myself, but I would not carry them out.###In the post, I mentioned having recurring nightmares of being a failure and expressing a desire to end it all. This indicates that I have thoughts of killing myself, but I clarify that I would not carry them out.'])
+('10', ['indirectly_mention', 'I cry more than I used to.###Although I did not explicitly mention crying, I mentioned feeling like a failure and stated that life is unfair, which suggests a significant emotional distress. This suggests that I cry more than I used to, as I am likely experiencing heightened emotions.'])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The post mentions feeling restless and agitated due to the recurring nightmares and the frustration of not finding a job. This suggests that the person is experiencing increased agitation.'])
+('12', ['indirectly_mention', 'I have lost most of my interest in other people or things.###The post indicates a loss of interest in life and the future, as well as a lack of motivation and enjoyment. The person also mentions feeling like they have nothing else to live for. These statements suggest a significant loss of interest in other people or activities.'])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that the poster is experiencing recurring nightmares of being a failure and contemplating suicide. These symptoms suggest that the poster is indecisive, as they are struggling to make a decision about their future.'])
+('14', ['directly_mention', 'I feel utterly worthless.###The post explicitly states that the poster feels that life is unfair, they have nothing else to live for, and that they feel worthless. These statements indicate a strong sense of worthlessness.'])
+('15', ['indirectly_mention', 'I do not have enough energy to do very much.###The post mentions feeling like a failure and having recurring nightmares, which indicate a loss of energy and motivation.'])
+('16', ['indirectly_mention', 'I wake up 1-2 hours early and can not get back to sleep###The post talks about having recurring nightmares and wanting to end it all, suggesting changes in sleeping patterns.'])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post mentions recurring nightmares of being a failure which can be indicative of increased irritability.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post states that the person can barely afford to eat more than one meal a day, suggesting a decrease in appetite.'])
+('19', ['directly_mention', 'It is hard to keep my mind on anything for very long.###The post mentions that the person has recurring nightmares of being a failure, which indicates difficulty in concentrating on anything for long.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post states that the person can barely afford to eat more than one meal a day and has health problems. These circumstances can contribute to increased fatigue and tiredness, making it difficult to perform daily activities.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's post and their answers to the questions on the mental scale indicate several symptoms of depression, such as overwhelming sadness, pessimism, feelings of failure and worthlessness, loss of pleasure, thoughts of suicide, lack of energy, changes in sleep and appetite, difficulty concentrating, and fatigue. These symptoms suggest that the poster is likely suffering from depression.
+

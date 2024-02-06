@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I thought I was getting over it. But now after eight years my depression has reached a new stage. I've managed to self-medicate with video games and youtube for years, but over the past couple weeks it stopped working. Now nothing is interesting anymore. It's driving me absolutely bonkers. I'm so stir crazy. I'm SO BORED. But I don't want to to do anything. Nothing feels worth my time. Everything makes me feel guilty that I'm not doing something else. I wish I knew hot how to emphasize how bad this is. I can FEEL it inside me, like a thirst. Like I'm craving some physical thing and if it was in front of me I'd pounce and devour it like a tiger. I've always felt uncomfortable in my skin, now it's like all of me. I need to rip myself apart to tear the corruption out. I'm going mad, just mad. Like I desperately need a sedative or something before I spiral out of control. I've never thought more seriously about hospitalizing myself. If I wasn't afraid of the treatment I'd get I'd do it now. Someone please give me some advice.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of isolation and disconnection, as indicated by the desire for sedatives and hospitalization. The poster expresses a sense of boredom, lack of interest, and guilt, which are potential signs of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  EVERYTHING IS WRONG. But I can't really talk to my coworker about it... I just apologized for interrupting his workflow.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+Apologizing for interrupting a coworker's workflow suggests a concern for their feelings and a desire to maintain a positive relationship. Thwarted belongingness is not evident in this post.
+

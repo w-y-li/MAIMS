@@ -1,0 +1,116 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Intrusive Thoughts I feel like I am standing on a grassy hill and the blades of grass is blowing in the wind around me, the sky is turning darker and darker. I can feel it becoming colder and the rain starts. When it rains it pours. The intrusive thoughts, the little will I have left to keep myself upright, the wind makes one big push and I fall. I fall hard. The wind is keeping me pushed down as I lay flat on my back and watch the storm go by, its cold, dark and rainy. People close to me are pushed out and a large glass cup is placed over me. They can’t see I am struggling and if they do they can’t get in. How long is the storm going to stay this time? I am not sure. The sad thoughts are like my safety blanket. Whenever things feel okay the thoughts come over and hug me tight. I am constantly depressed. When I laugh or smile, it’s like putting a band aid over a small cut. It feels better and it can start healing, but when I feel sad its like the band aids rip off and I am faced with the hurt all over again. The mask I put on, the adhesive falls right off when it no longer needs to be on. I am falling apart yet I am hanging on by a thread.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I am sad all the time.###The post directly states that the person is constantly depressed and describes the sadness as their safety blanket.'])
+('2', ['directly_mention', 'I feel the future is hopeless and that things cannot improve.###The post mentions feeling discouraged about the future and describes the band-aids ripping off when feeling sad, implying a sense of hopelessness.'])
+('3', ['directly_mention', "I feel I have failed more than the average person.###The post specifically mentions feeling like a failure, which aligns with the option 'I feel I have failed more than the average person.'"])
+('4', ['directly_mention', "I get very little pleasure from the things I used to enjoy.###The post directly states 'When I laugh or smile, it’s like putting a band aid over a small cut. It feels better and it can start healing, but when I feel sad its like the band aids rip off and I am faced with the hurt all over again.' This indicates a significant decrease in pleasure derived from activities, which aligns with the option 'I get very little pleasure from the things I used to enjoy.'"])
+('5', ['indirectly_mention', 'I feel guilty all of the time.###The post mentions intrusive thoughts, feeling depressed constantly, and the sad thoughts acting as a safety blanket. These statements suggest a high level of guilt and self-blame, indicating that the poster may feel guilty all of the time.'])
+('6', ['indirectly_mention', 'I feel I am being punished.###The post talks about feeling like a large glass cup is placed over them, preventing others from seeing their struggles. This can be interpreted as a form of punishment, as the poster feels isolated and trapped by their emotions.'])
+('7', ['indirectly_mention', 'I dislike myself.###The post mentions feeling constantly depressed, putting on a mask, and feeling like a band-aid is ripped off when feeling sad. These indicators suggest a negative self-perception, which aligns with self-dislike.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The post talks about the poster feeling like a failure, falling apart, and constantly experiencing intrusive thoughts. These statements imply a heightened self-critical mindset, indicating an increase in self-accusations.'])
+('9', ['indirectly_mention', 'I cry all the time now.###The post mentions feeling sad and describes how the band aid of laughter or smiling falls off, exposing the hurt all over again. This suggests a constant state of sadness which could lead to crying all the time.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about suicidal thoughts or wishes specifically."])
+('11', ['indirectly_mention', 'I am so restless or agitated that I have to keep moving or doing something.###The post describes feeling agitated and restless, stating that the person is constantly depressed and falling apart. This indicates a high level of restlessness and agitation that makes it difficult for the person to stay still.'])
+('12', ['indirectly_mention', 'It is hard to get interested in anything.###The post mentions feeling constantly depressed and experiencing sad thoughts. This indicates a loss of interest in activities or people, as the person describes finding it difficult to feel okay and constantly being faced with hurt.'])
+('13', ['directly_mention', 'I have greater difficulty in making decisions than I used to.###The post mentions that I have little will left to keep myself upright and the wind makes me fall. This suggests that I am experiencing difficulty in making decisions, as I am struggling to maintain control and stability in my life.'])
+('14', ['indirectly_mention', 'I feel more worthless as compared to other people.###The post mentions that I constantly feel depressed and that sad thoughts are like a safety blanket to me. This suggests that I have low self-esteem and may perceive myself as less worthwhile compared to others.'])
+('15', ['directly_mention', 'I have less energy than I used to have.###I mentioned that I am constantly depressed and falling apart, which suggests that I have less energy than I used to have.'])
+('16', ['directly_mention', 'I sleep somewhat less than usual.###I mentioned that when I feel sad, the band aids rip off and I am faced with the hurt all over again. This indicates that I have changes in my sleeping pattern and sleep somewhat less than usual.'])
+('17', ['directly_mention', "I am much more irritable than usual.###The post mentions that the person is constantly depressed and that the sad thoughts act as a safety blanket. This suggests that the person's mood is consistently low, which can contribute to increased irritability."])
+('18', ['indirectly_mention', 'My appetite is much less than before.###The post mentions that the person is constantly depressed and that sad thoughts keep resurfacing, which indicates a persistent low mood. Changes in appetite, such as a decrease, are common symptoms of depression.'])
+('19', ['indirectly_mention', 'I find I can not concentrate on anything.###The post mentions feeling like standing on a grassy hill, the wind blowing, and the rain pouring. These descriptions indicate a sense of distraction and inability to focus, suggesting difficulties in concentration.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post mentions feeling constantly depressed and struggling to keep oneself upright. These statements indicate a persistent state of tiredness or fatigue, which can be inferred from the information provided.'])
+('21', ['indirectly_mention', 'I have not noticed any recent change in interest in sex.###The post mentions feelings of depression and sadness, but does not directly mention any changes in interest in sex. However, the poster describes using laughter and smiles as a temporary relief from sadness, which suggests that their interest in sex may not have changed recently.'])
+Do MS Check Record:
+('1', ['Correct', "Ensure that you continue to focus on concrete information provided in the post to support your conclusions about the poster's emotional state."])
+('2', ['Correct', 'Good job on recognizing the implied feelings related to pessimism. Keep drawing from explicit and implicit content in the post to support your interpretations.'])
+('3', ['Correct', 'Good analysis of the post in relation to the concept of past failure, keep ensuring the information in the post supports your assessment.'])
+('4', ['Correct', "Well done on identifying the poster's loss of pleasure. Continue to look for direct expressions of feelings to support your answers."])
+('5', ['Incorrect', 'Carefully differentiate between feelings of guilt and expressions of depression. The post describes a feeling of constant depression and does not explicitly mention guilt. Avoid assuming guilt based on depressive symptoms alone; focus on the information given.'])
+('6', ['Incorrect', "Refrain from interpreting situations as punishment without clear evidence from the text. The sensation of being isolated described in the post may resemble punishment but does not confirm the feeling of being punished. Stick to the poster's explicit expressions and avoid over-inference."])
+('7', ['Correct', 'Ensure continuance of careful analysis of posts for subtle cues about self-concept but also consider other dimensions of self-dislike that may be indirectly expressed.'])
+('8', ['Correct', 'Continue to infer based on the emotional content of the post, but balance your interpretations with the understanding that not all expressions of difficulty necessarily indicate self-accusation.'])
+('9', ['Incorrect', 'Review the post for any emotional indications that might imply suicidal thoughts; consider the described feelings of helplessness and despair.'])
+('10', ['Incorrect', 'Analyze the metaphorical language that indicates a state of sadness which might be associated with crying, rather than dismissing the post for a literal mention.'])
+('11', ['Correct', 'Ensure that the level of agitation described is not exaggerated beyond what the post suggests, as this could lead to over-inference.'])
+('12', ['Correct', 'Consider exploring subtle cues of loss of interest in future posts to further support your inference and avoid potential assumptions.'])
+('13', ['Correct', 'Your interpretation of decision-making difficulty is properly inferred from the metaphor of struggling to stay upright in the storm, implying a loss of control which can relate to indecisiveness. Continue to carefully extract relevant information to support your answers as you did here.'])
+('14', ['Correct', "You've made a reasonable connection between the expressions of constant depression and the use of sad thoughts as a 'safety blanket' to feeling a sense of worthlessness. Be mindful to avoid overgeneralizing emotions as indicators of self-perceived worth without clear evidence, but in this scenario, your response was appropriate."])
+('15', ['Incorrect', 'Revisit the post and identify concrete evidence of loss of energy, avoid assuming it from related but not direct statements.'])
+('16', ['Incorrect', 'Look for explicit mentions or clear implications of changes in sleeping patterns rather than inferring it from statements about emotions.'])
+('17', ['Correct', 'Ensure to provide clear justifications for your inferences relating to mood-related symptoms such as irritability, using evidence from the post.'])
+('18', ['Incorrect', 'Avoid making direct assumptions about physiological symptoms like appetite without clear evidence from the post. Instead, focus on emotional aspects that are explicitly mentioned.'])
+('19', ['Incorrect', 'Review the post to find clear indicators of concentration difficulty without inferring too much from the metaphorical descriptions.'])
+('20', ['Correct', "Your interpretation relating to tiredness aligns with the poster's expressions of feeling constantly depressed and implies a level of fatigue. Good inference."])
+('21', ['Incorrect', 'Avoid assuming details not provided in the post. Focus on extracting information directly related to the query from the given text. Refrain from inferring or deducing aspects like changes in interest in sex without any supportive evidence from the post.'])
+
+ITER 1
+Do MS Record:
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling guilty."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling punished."])
+('9', ['directly_mention', 'I have thoughts of killing myself, but I would not carry them out.###The post mentions that the person is constantly depressed and that sad thoughts are like a safety blanket. This indicates that they have thoughts of killing themselves, but they would not carry them out.'])
+('10', ['indirectly_mention', 'I cry all the time now.###The post mentions that the person feels like they are falling apart and constantly depressed. This suggests a state of sadness and despair that might be associated with crying all the time.'])
+('15', ['directly_mention', "I do not have enough energy to do very much.###The post mentions that the person has 'little will I have left to keep myself upright' and feels constantly depressed, indicating a significant loss of energy."])
+('16', ['directly_mention', "I sleep a lot less than usual.###The post mentions insomnia symptoms by saying 'when I feel sad its like the band aids rip off and I am faced with the hurt all over again,' indicating a change in sleeping patterns."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in appetite."])
+('19', ['indirectly_mention', 'I find it hard to keep my mind on anything for very long.###The post mentions that the poster feels constantly depressed and has intrusive thoughts, which may lead to difficulty in concentration and keeping focus on tasks.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to changes in interest in sex. Neither is there any indication of the individual's sexual interests or desires."])
+Do MS Check Record:
+('5', ['Incorrect', 'Carefully analyze the emotional content of the post. Descriptions of feeling overwhelmed, depressed, and helpless may imply underlying feelings of guilt. Consider the metaphor of the storm and being trapped under a glass cup. Reflect deeper on what these could suggest about guilt.'])
+('6', ['Incorrect', "The post implies a feeling of punishment through the metaphor of the storm and the intrusive thoughts keeping the poster down. Examine the language used, such as 'fall hard' and 'lay flat on my back,' and consider how these may relate to feelings of being punished."])
+('9', ['Incorrect', 'Do not assume specific suicidal thoughts without direct evidence from the post. Focus on identifying emotions and thoughts actually expressed rather than inferring extreme states like suicidal thoughts.'])
+('10', ['Correct', "Your analysis linking the expression of constant depression and feeling apart to crying is appropriate, but be cautious not to overextend assumptions about frequency ('all the time') without clear indications."])
+('15', ['Correct', 'Ensure you continue to reference specific parts of the post that relate to the mental scale questions to validate your analysis.'])
+('16', ['Incorrect', 'Be cautious not to infer symptoms that were not explicitly mentioned or clearly suggested in the post; look for more direct evidence for changes in sleeping patterns.'])
+('18', ['Incorrect', 'Carefully extract implicit information related to physical symptoms like appetite that could be inferred from emotional states.'])
+('19', ['Correct', 'Good job inferring difficulty in concentration from the described emotional state, continue using indirect cues to infer mental states when not explicitly mentioned.'])
+('21', ['Correct', 'Good job on acknowledging the absence of information related to changes in interest in sex within the post. Remember to maintain this level of careful reading and not to infer details that are not implied.'])
+
+ITER 2
+Do MS Record:
+('5', ['indirectly_mention', 'I feel guilty a good part of the time###The post contains descriptions of feeling depressed, overwhelmed, and the need for a safety blanket, which may imply underlying feelings of guilt. The metaphor of the storm and being trapped under a glass cup can also suggest feelings of guilt.'])
+('6', ['indirectly_mention', "I feel I may be punished###The post implies a feeling of punishment through descriptions such as 'fall hard' and 'lay flat on my back.' The metaphor of the storm and the intrusive thoughts keeping the poster down further indicate a sense of being punished."])
+('9', ['directly_mention', 'I have thoughts of killing myself, but I would not carry them out.###The post explicitly states having intrusive thoughts and feeling constantly depressed. Although it does not mention carrying out the thoughts, it does express having thoughts of killing oneself.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not mention any changes in sleeping pattern. It focuses on emotions and thoughts related to depression and intrusive thoughts."])
+('18', ['indirectly_mention', "My appetite is much less than before.###The post mentions feeling constantly depressed and sad, which can often lead to a decrease in appetite. The poster implies that when they feel sad, it's like the band aids are ripped off and they are faced with the hurt all over again, indicating a negative emotional state that impacts their appetite."])
+Do MS Check Record:
+('5', ['Incorrect', 'Be cautious not to infer emotions like guilt that are not explicitly mentioned in the post. Focus on the content that is clearly expressed, such as feelings of depression and being overwhelmed, rather than assuming guilt.'])
+('6', ['Incorrect', 'Avoid over-interpreting the metaphor of the storm to mean punishment. Instead, look for explicit statements or clear contextual clues related to punishment feelings before making such inferences.'])
+('9', ['Incorrect', "Avoid including statements not present in the post. The post does not make any direct reference to suicidal thoughts or wishes to end one's life. Refrain from assuming such thoughts and instead focus only on the information given."])
+('16', ['Correct', 'Continue to assess the content of the post accurately without making assumptions about unmentioned details. The post indeed does not discuss changes in sleeping patterns.'])
+('18', ['Correct', 'Ensure that you continue to base your interpretations on specific cues from the post without adding assumptions. Your analysis should remain grounded in the text while you make educated inferences.'])
+
+ITER 3
+Do MS Record:
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###Although the post does not explicitly mention feeling guilty, the mention of constantly being depressed and the sad thoughts acting as a safety blanket suggest a high likelihood of experiencing guilt.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not contain any explicit or implicit information regarding punishment feelings. The metaphor of the storm is not enough to make such an inference."])
+('9', ['indirectly_mention', "I have thoughts of killing myself, but I would not carry them out.###The post mentions feeling depressed and struggling, but does not directly state any thoughts of killing oneself. However, the mention of constantly feeling depressed and the use of the word 'struggling' suggests the presence of suicidal thoughts. Based on this information, I would say that I have thoughts of killing myself, but I would not carry them out."])
+Do MS Check Record:
+('5', ['Incorrect', 'Avoid overinterpreting feelings of guilt based on depression. Focus on explicit mentions or clear indications of guilt in the post.'])
+('6', ['Correct', 'Ensure your conclusions about punishment feelings are grounded in the content of the post rather than assumptions.'])
+('9', ['Incorrect', "Avoid over-inference by sticking to the information provided in the post. There's no explicit mention of suicidal thoughts. Focus on the clear expressions of distress and depression without assuming intentions or actions not indicated by the poster."])
+
+ITER 4
+Do MS Record:
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The post mentions feeling constantly depressed and the presence of sad thoughts as a safety blanket. These feelings may contribute to a sense of guilt, although it is not explicitly mentioned.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention any thoughts or wishes of killing oneself. The focus is more on feeling depressed and struggling with intrusive thoughts."])
+Do MS Check Record:
+('5', ['Incorrect', "Consider the broader context of the individual's experiences as described in the post. While guilt is not explicitly mentioned, the pervasive feelings of sadness could encompass guilt. Explore the connections between emotional states more deeply."])
+('9', ['Correct', 'Good restraint in not inferring suicidal ideation where it is not indicated. However, be cautious and watch for any subtle clues or hints that might suggest the presence of such thoughts, as they could be expressed metaphorically.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses indicate several symptoms of depression such as sadness, pessimism, loss of pleasure, self-dislike, self-accusations, worthlessness, loss of energy, irritability, changes in appetite, concentration difficulty, tiredness or fatigue. These symptoms suggest a significant level of distress and impairment, consistent with a diagnosis of depression.
+
+Correct
+Continue using specific examples from the given information to support your analysis and be mindful to differentiate between the poster's own statements and those about others to avoid making incorrect inferences.

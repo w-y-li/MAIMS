@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Lately it feels like a haven't been doing enough with my life I have no job even though I've applied to a lot of places. I rarely leave the house now and I don't feel like I have the energy to leave I feel like a drone doing the same things everyday any advice on how to break this pattern?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of isolation and lack of connection, which are indicators of thwarted belongingness.
+

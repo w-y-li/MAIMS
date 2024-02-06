@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Just told him about my depression and suicide attempt 2 months ago. It was so difficult to talk about but I feel like a weight is lifted of my shoulders. Let‚Äôs step into 2018 stronger, braver, happier and better! I love you all brothers and sisters and wish you all the best!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The mention of depression and a suicide attempt, as well as the difficulty in talking about it, suggest a significant level of distress and potentially a perceived burden on others.
+

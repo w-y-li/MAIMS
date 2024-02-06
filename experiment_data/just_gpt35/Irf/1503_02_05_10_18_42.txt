@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Turns out no self-esteem for years really ruins your life. Due to this I developed major and chronic depression. Know exactly what I need to do, can't do it. You don't just rebuild self-esteem over days, weeks, months, or even years. This takes decades. Decades of kindness, decades of acceptance, decades of love. It's real hard to get that as someone who feels like every breath is robbing another of oxygen. Pretty sure it's game over for my mental health. Oh well. Maybe I can learn to live without these things but 4+ years of trying make me weary, y'know. Anyways my life sucks, your life might suck, but supposedly life in general doesn't suck. Hard to believe I know.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of worthlessness, lack of self-esteem, and a belief that the poster is a burden to others. This indicates a risk of perceived burdensomeness, which is a characteristic associated with certain mental health conditions such as depression.
+

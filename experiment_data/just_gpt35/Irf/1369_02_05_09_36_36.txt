@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  That's all. I have no value, nothing to offer anyone, and everyone knows it. If I act exceptionally nice and let people use me I can get them to spend time with me sometimes. But no one actually gives the slightest fuck about me. There's no one to share in my successes, no one who's there for me when I'm extra sad, no one who cares about what I'm thinking, no one who even enjoys my company. I'm just worthless  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, lack of value, and a sense of being used by others. The statement about no one caring about the person, sharing in their successes, or being there for them when sad suggests a perceived burden on others.
+

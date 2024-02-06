@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I keep thinking my friends are planning to hurt me. Ever time we hang out I‚Äôm convinced they are speaking in code. I get very frustrated when I can‚Äôt decipher the code. I will eventually get so frustrated that I just demand them to tell me what‚Äôs going on, which results in them telling me they have no idea what I‚Äôm talking about. Several times I‚Äôve thought I was going to be publicly shamed by my closest friends. I find harsh insults and threats in their speech that they always claim they didn‚Äôt mean. They always say I‚Äôm paranoid and that I‚Äôm making everything up. On several occasions I thought I was going to be forced to have sex with someone and then later realized I was the only one aware of this. I have now severed my relationships with most of them out of fear. I don‚Äôt know who I can trust anymore. I know I can‚Äôt trust myself.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post describes a persistent belief that the person's friends are planning to harm them, resulting in paranoia and fear of being shamed or forced into unwanted sexual situations. This suggests a risk of perceived burdensomeness, as the individual feels incapable of trusting themselves or others and has severed relationships out of fear.
+

@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I am feeling sick. Anxious. I need some help please  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The post mentions that the person is feeling sick and anxious, but there is no mention or indication of feeling that their presence negatively affects the people in their life.'])
+('2', ['directly_mention', 'Not at all true for me###The post mentions that the person is feeling sick and anxious, but there is no mention or indication of feeling that their presence negatively affects the happiness of the people in their life.'])
+('3', ['indirectly_mention', "Not at all true for me###The post mentions feeling sick and anxious, which can be indicators of mental distress. However, it does not directly mention being a burden on society or thinking that one's death would be a relief to others."])
+('4', ['indirectly_mention', "Not at all true for me###The post mentions feeling sick and anxious, which can be indicators of mental distress. However, it does not directly mention thinking that one's death would be a relief to others."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the people in their life or their interactions with them."])
+('6', ['indirectly_mention', 'Somewhat true for me.###The poster mentions feeling anxious, which could potentially contribute to them thinking that they make things worse for the people in their life.'])
+('7', ['directly_mention', 'Not at all true for me###The post mentions feeling anxious which suggests that I am not feeling cared for by other people.'])
+('8', ['directly_mention', 'Not at all true for me###The post mentions feeling sick and anxious which suggests that I am feeling disconnected and do not feel like I belong.'])
+('9', ['indirectly_mention', 'Somewhat true for me###The post indicates that the person is feeling anxious and in need of help, suggesting that they are not receiving the care and support they need. This implies that they may rarely interact with people who care about them.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information that can help determine whether the person has many caring and supportive friends."])
+('11', ['indirectly_mention', "Not at all true for me###The post mentions feeling anxious, which can often lead to feelings of disconnection from other people. However, it doesn't directly state that the person is feeling disconnected from others."])
+('12', ['indirectly_mention', "Not at all true for me###The post mentions feeling anxious, which can sometimes make a person feel like an outsider in social gatherings. However, it doesn't directly state that the person is currently feeling like an outsider in social gatherings."])
+('13', ['directly_mention', 'Somewhat true for me###The post explicitly states that the person is feeling anxious and needs help. This suggests that they may be seeking support from others, indicating that they have people they can turn to.'])
+('14', ['not_mention', "Doesn't mention at all.###The post focuses on the person feeling sick and anxious, but does not provide any information regarding their closeness to other people or relationships."])
+('15', ['directly_mention', 'Not at all true for me###The post mentions feeling sick and anxious which indicates that the person is not having any satisfying interactions during these days.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The responses to questions 1, 2, 3, 4, and 6 indicate that the poster is experiencing thoughts and feelings of being a burden on others, and that their death may be relieving to the people around them. These thoughts are characteristic of perceived burdensomeness, suggesting a risk in this aspect of their mental health.
+

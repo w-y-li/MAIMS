@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Do you ever secretly hope you get cancer? Do you ever go to sleep and console yourself with pretty thoughts as you close your eyes Do you ever desperately pray every night to wake up with brain cancer So you can go Peacefully FFS. My wrists are patched today but deep down I know if I really was brave enough I would have gone completely. Now I have to face people wearing the fucking bandages and they will all pretend they didn't notice and it will be fucking awkward And the worst part is I am still here If it was cancer they would cry a bit and buy me a drink and say 'how tragic' when I finally go My heart breaks for all the precious souls trapped in bodies struck by that horrible desease, while my own body stubbornly keeps existing and breathing and providing home for this rotten mind and filthy soul and I feel I've ripped off everyone that could use this body and it's so disgustingly unfair I really, really want to go. But I am a coward and I am trapped.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time###The post mentions feeling sad and unhappy, which indicates that the person experiences sadness frequently.'])
+('2', ['indirectly_mention', 'I feel I have nothing to look forward to###The post mentions feeling hopeless and wanting to escape life, which suggests a sense of pessimism about the future.'])
+('3', ['directly_mention', "I feel I have failed more than the average person###The post mentions feeling like a failure in the sentence: 'My heart breaks for all the precious souls trapped in bodies struck by that horrible desease, while my own body stubbornly keeps existing and breathing and providing home for this rotten mind and filthy soul and I feel I've ripped off everyone that could use this body and it's so disgustingly unfair.'"])
+('4', ['directly_mention', "I do not enjoy things as much as I used to###The post directly mentions loss of pleasure in the sentence: 'If it was cancer they would cry a bit and buy me a drink and say 'how tragic' when I finally go.'"])
+('5', ['indirectly_mention', 'I feel guilty all of the time.###The post indicates a strong sense of guilt throughout, specifically mentioning feeling like a coward, feeling trapped, and feeling as though they have let down others who could use their body. This suggests that the person feels guilty in a significant way.'])
+('6', ['indirectly_mention', "I feel I am being punished.###The post includes references to feeling trapped, wanting to go, feeling like a coward, and feeling as though they've ripped off others. These statements indicate a belief that they are being punished in some way, either by their own mind or by external forces."])
+('7', ['directly_mention', 'I dislike myself.###The post mentions feeling trapped, being coward and wanting to go. These feelings indicate self-dislike.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The post talks about having a rotten mind and a filthy soul, which suggests self-criticism and self-blame.'])
+('9', ['directly_mention', "I would like to kill myself.###The post states 'I really, really want to go', which indicates a desire for death."])
+('10', ['directly_mention', "I cry all the time now.###The post mentions 'deep down I know if I really was brave enough I would have gone completely,' implying a heightened level of emotional distress and sadness, resulting in frequent crying."])
+('11', ['directly_mention', 'I am so restless or agitated that I have to keep moving or doing something.###The post mentions feeling desperate and restless, praying for something to happen, and feeling trapped and wanting to escape. These feelings indicate a higher level of restlessness and agitation than usual.'])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The post mentions losing interest in life, feeling trapped and wanting to escape, and feeling unfairness. These emotions suggest a decrease in interest in other people or things.'])
+('13', ['directly_mention', 'I have greater difficulty in making decisions than I used to.###The post mentions "my own body stubbornly keeps existing and breathing and providing home for this rotten mind and filthy soul", which implies that the poster is having difficulty in making decisions and is feeling trapped.'])
+('14', ['directly_mention', 'I feel utterly worthless.###The post mentions "it\'s so disgustingly unfair" and "I really, really want to go", indicating a strong feeling of worthlessness and a desire to escape from one\'s own existence.'])
+('15', ['directly_mention', 'I do not have enough energy to do very much.###In the post, I mentioned feeling a lack of energy and not having enough energy to do very much.'])
+('16', ['indirectly_mention', "I sleep somewhat less than usual.###Although I didn't explicitly mention a change in my sleep pattern, I mentioned going to sleep with pretty thoughts and praying to wake up with brain cancer. These thoughts indicate difficulty falling asleep and a potential change in sleep duration."])
+('17', ['indirectly_mention', '###The post indicates feelings of hopelessness and wanting to escape from the current circumstances. These emotions can often lead to changes in appetite, such as having no appetite at all.'])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything about irritability."])
+('19', ['directly_mention', "I find I can not concentrate on anything.###The post mentions difficulty in concentrating by saying 'Do you ever go to sleep and console yourself with pretty thoughts as you close your eyes' and 'And the worst part is I am still here If it was cancer they would cry a bit and buy me a drink and say 'how tragic' when I finally go My heart breaks for all the precious souls trapped in bodies struck by that horrible desease' which suggests a lack of concentration."])
+('20', ['directly_mention', "I am too tired or fatigued to do most of the things I used to do.###The post mentions tiredness or fatigue by saying 'My wrists are patched today but deep down I know if I really was brave enough I would have gone completely' and 'and I feel I've ripped off everyone that could use this body and it's so disgustingly unfair' which suggests a high level of tiredness or fatigue."])
+('21', ['directly_mention', 'I am less interested in sex than I used to be.###The post mentions feeling trapped and having a rotten mind and filthy soul. These negative feelings can often lead to a decrease in interest in sex. Additionally, the poster expresses a desire to escape their current situation, which may contribute to the decrease in interest.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the mental scale questions (e.g., feeling sad, having pessimistic thoughts, feeling guilty, self-dislike, suicidal thoughts or wishes, loss of pleasure, worthlessness, loss of energy, concentration difficulty, changes in sleeping pattern, and decreased interest in sex) strongly indicate symptoms of depression.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I had a week off over Christmas. My family is all overseas so I was not busy or rushed. I took things easy and slow and didn't do much. It really alleviated the pressures of life and did help my depression a bit. Now that I'm back at work I feel incredibly depressed - way more than before. I had a taste of feeling relaxed but crashed to the ground. I need time off to just sort out what I want to do in life, but at work during the week it's all rush rush rush and stress and chores and anxiety. At the end of the day I am just exhausted and do need to sleep or rest. I know what helps - having time off to just figure stuff out. But it's just so unobtainable.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of thwarted belongingness. The poster mentions feeling depressed after returning to work and feeling overwhelmed by rush, stress, anxiety, and exhaustion, but there is no indication of social isolation, lack of social support, or feelings of disconnectedness from others.
+

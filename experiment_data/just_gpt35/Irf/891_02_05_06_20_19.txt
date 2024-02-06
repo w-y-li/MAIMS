@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  She's happier after she broke up with me, I feel like its my fault i lost her it probably was, bipolar disorder OCD and anxiety just get to be to much for me and i either say things i don't mean or make dumb jokes. I honestly feel like i could never love anyone else but i'm just glad she's happy now.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of guilt and worthlessness, suggesting a possible risk of perceived burdensomeness.
+

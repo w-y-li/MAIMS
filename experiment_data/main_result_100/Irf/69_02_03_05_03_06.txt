@@ -1,0 +1,82 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I'm using a new account because I can't remember my old password for my main account. But yeah I'm probably dead tonight. Im 20 and moved from the East coast to St Louis about 5 months ago ( it feels longer ). I got a good job delivering but quit it almost two weeks ago because I'm a bitch and was having an anxiety attack. I don't know what's wrong with me. A bit before quitting I went into the er because I was suicidal and spent 4 days trapped and with no actual help. I faked being better to get out. My only friends were at this job and they're mad at me ( understandably ). My old roommates are holding some of my stuff hostage until I pay them a certain amount of money. I've been couch surfing for the entire time up here. This was stupid. I hate myself. Sorry if it's not making too much sense I can't think straight right now. It doesn't matter either way.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Very true for me###In the post, I mentioned that I'm probably dead tonight and that I hate myself. This indicates that I believe the people in my life would be better off without me and that they would be happier without me."])
+('2', ['indirectly_mention', "Somewhat true for me###Although I didn't directly mention that the people in my life would be happier without me, I mentioned that my friends are mad at me and my old roommates are holding my stuff hostage. This suggests that my presence has caused tension and unhappiness in their lives to some extent."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like a burden on oneself and expressing self-hatred, which could suggest feeling like a burden on society.'])
+('4', ['indirectly_mention', "Somewhat true for me###The post mentions feeling suicidal and thinking that others would feel relieved by one's death, indicating a belief that their death would be a relief to the people in their life."])
+('5', ['directly_mention', 'Somewhat true for me###The post mentions that the friends of the poster are mad at him and his old roommates are holding his stuff hostage, which suggests that he thinks he makes things worse for the people in his life.'])
+('6', ['indirectly_mention', 'Very true for me###The post indicates that the poster feels like he is a burden to the people in his life. He mentions feeling suicidal and being in the ER, which implies that he thinks the people in his life may wish they could be rid of him.'])
+('7', ['indirectly_mention', "Not at all true for me###The post mentions feeling like the poster's friends are mad at them. Feeling like others are mad at me can indicate a lack of belief that others care about me, which suggests that the answer to the question is 'Not at all true for me'."])
+('8', ['indirectly_mention', "Not at all true for me###The post expresses feelings of isolation and being trapped, which can contribute to a sense of not belonging. Therefore, the answer to the question is 'Not at all true for me'."])
+('9', ['directly_mention', 'Very true for me###The post states that the only friends were at the job, but they are currently mad at me (understandably), indicating that I rarely interact with people who care about me.'])
+('10', ['indirectly_mention', "Not at all true for me###The post mentions that the old roommates are holding some of my stuff hostage until I pay them a certain amount of money, suggesting that I don't have many caring and supportive friends."])
+('11', ['directly_mention', 'Very true for me###I mentioned that I have no friends and my only friends were at my job which I quit. This implies that I feel disconnected from other people.'])
+('12', ['directly_mention', 'Very true for me###I stated that my friends are mad at me, which indicates that I feel like an outsider in social gatherings as they are no longer accepting me.'])
+('13', ['directly_mention', "Not true at all for me###I mentioned that I don't have any friends and my only friends were at my previous job, indicating that I don't have people to turn to in times of need."])
+('14', ['directly_mention', "Not true at all for me###I mentioned that I don't have any friends and my only friends were at my previous job, indicating that I am not close to other people."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to having satisfying interactions every day."])
+Do MS Check Record:
+('1', ['Correct', "Maintain attention to the explicit content of the post to assess the poster's sentiments accurately as you did here. Be careful not to overstate the poster's feelings; stick to the information given."])
+('2', ['Incorrect', "Avoid assuming the emotions of others involved based solely on their actions. Focus on the poster's explicit expressions about their own feelings rather than inferring the emotions of others."])
+('3', ['Correct', 'Ensure to continue distinguishing between direct and indirect references to the scale questions in future tasks.'])
+('4', ['Correct', "Continue to look for emotional cues that imply the poster's feelings towards themselves and their impact on others."])
+('5', ['Correct', 'Ensure to maintain a balance between the textual evidence from the post and the inferences made to prevent over-interpretation.'])
+('6', ['Correct', "Continue using the contextual clues provided in the post to effectively deduce the poster's feelings, but be cautious not to assume details not presented."])
+('7', ['Correct', "Good job analyzing the underlying sentiments in the post. Continue to pay close attention to implicit details that can give insight into the poster's feelings."])
+('8', ['Correct', "You've made a correct inference based on the poster’s expression of isolation. Keep focusing on context clues to determine emotional states and perspectives."])
+('9', ['Correct', 'Maintain a careful approach to analyzing posts, considering both explicit and implicit information before answering.'])
+('10', ['Incorrect', 'Do not infer a lack of supportive friends solely based on conflicts with roommates. Explore the post for more direct information about friendships.'])
+('11', ['Correct', 'Ensure that you continue to draw connections from specific statements to the questions without assuming information not provided in the post.'])
+('12', ['Correct', "Good inference from the social context provided, but be cautious not to extend beyond what's available in the text."])
+('13', ['Incorrect', 'Review the post for explicit statements regarding social connections, rather than assuming a complete lack thereof. The poster mentions friends from the job and the act of couch surfing suggests some level of support, although strained. Focus on the specific wording used in the post.'])
+('14', ['Incorrect', "Note that the poster had friends at their job, which implies some form of past closeness. Avoid definitive statements like 'I don't have any friends,' unless the post explicitly says so. Instead, consider the possibility that relationships might have changed over time."])
+('15', ['Incorrect', "Review the post for emotional cues that might indirectly answer the question. The poster's reference to quitting a job due to anxiety and feeling hated by former friends suggests a lack of satisfying social interactions."])
+
+ITER 1
+Do MS Record:
+('2', ['directly_mention', 'Very true for me###The poster explicitly expresses feeling that the people in their life would be happier without them.'])
+('10', ['directly_mention', 'Not at all true for me###The poster mentions that their only friends were at their previous job, and those friends are mad at them now. This suggests that they do not have many caring and supportive friends at the moment.'])
+('13', ['indirectly_mention', "Not at all true for me###Although the post doesn't explicitly mention whether there are people the poster can turn to in times of need, they do mention having friends at their job and couch surfing, which suggests some level of support. However, given the tone of the post and the mention of feeling trapped and faking being better, it can be inferred that the poster currently feels isolated and lacks a strong support system."])
+('14', ['indirectly_mention', 'Not at all true for me###The post mentions having friends at their job in the past, indicating some level of closeness. However, the poster also mentions that their friends are currently mad at them, which suggests strained relationships. Overall, the post implies a lack of closeness to other people in the present moment.'])
+('15', ['indirectly_mention', 'Not at all true for me###The poster mentions feeling hated by former friends and having no social support. This suggests a lack of satisfying social interactions.'])
+Do MS Check Record:
+('2', ['Correct', 'Remember to continue citing specific examples from the post to support your answers as you did here.'])
+('10', ['Correct', 'Good job on using direct information from the post to answer the question. Ensure that all future responses remain grounded in provided content.'])
+('13', ['Incorrect', 'Carefully analyze the emotional context of the post. The poster does express isolation but also mentions some connections. Consider the possibility of transient support and acknowledge it in your answer.'])
+('14', ['Correct', 'Maintain a balanced interpretation by recognizing past relationships alongside current conflicts to infer the lack of current closeness in relationships.'])
+('15', ['Correct', 'Ensure that your interpretation stays true to the content provided and avoid making assumptions beyond the available information. Good work on identifying the lack of positive social interactions in the post.'])
+
+ITER 2
+Do MS Record:
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions that the poster had friends at their previous job who are now mad at them. Although they are currently in a difficult situation and feeling isolated, it suggests that there were people they could turn to in the past.'])
+Do MS Check Record:
+('13', ['Incorrect', 'Carefully analyze the emotions and context presented in the post. The poster expresses a feeling of isolation and lack of support, thus a more accurate answer would reflect a lack of people they feel they can turn to.'])
+
+ITER 3
+Do MS Record:
+('13', ['indirectly_mention', "Somewhat true for me###The poster mentioned that their only friends were at their job and now they're mad at them. This implies that they might not feel they have people they can turn to in times of need."])
+Do MS Check Record:
+('13', ['Incorrect', 'Review the post to avoid the trio of mistakes. This answer over-inferences negativity. Look for direct references in the post regarding support systems rather than inferring.'])
+
+ITER 4
+Do MS Record:
+('13', ['indirectly_mention', "Not at all true for me###In the post, the poster mentions that they don't have any friends and their only friends were at their old job, but now they're mad at them. This suggests that the poster does not have people they can turn to in times of need, indicating that it is not true for them."])
+Do MS Check Record:
+('13', ['Correct', "Continue to pay attention to the details provided in the post and use them to inform your answer. Keep in mind the current state of the poster's relationships and support networks as you did with this question."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of self-perceived burden and a belief that the people in the poster's life would be better off without them. This is evident through the high ratings on statements such as feeling like a burden on society, thinking their death would be a relief to others, and feeling that they make things worse for the people in their life. The overall tone of self-hatred and hopelessness further supports the presence of perceived burdensomeness.
+
+Correct
+While your assessment of perceived burdensomeness appears accurate in this instance, it is important to remain cautious in generalizing mental health issues. Base your conclusions strictly on provided evidence without inferring additional negative characteristics. Also, ensure that the focus is correctly placed on the poster's feelings and not transferred onto others mentioned indirectly.

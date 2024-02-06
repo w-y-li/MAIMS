@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  All I do is work and sleep and stare at the wall Unsure about it  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement about only working, sleeping, and staring at the wall indicates a lack of interest and motivation. This, combined with feelings of uncertainty, suggests symptoms of depression.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Work was my only way out of the house and I have 0 friends who would talk to me outside of work I can't go pub till next Friday when I get paid I can't go OK much longer I'm gonna relapse soon my music isn't helping  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness, isolation, and a lack of social support. The statement about having no friends outside of work suggests a lack of social connections, which can contribute to feelings of burdensomeness.
+
+Correct
+Continue to analyze posts carefully, focusing on explicit content rather than implied characteristics. Be cautious to differentiate the situation related to the poster directly from that of people around them. In future analyses, confirm whether elements of perceived burdensomeness, such as feeling like a burden to others or that others would be better off without them, are explicitly mentioned or can be directly inferred from the post content before concluding there is a risk.

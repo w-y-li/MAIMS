@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I have beaten depression before! I really have! But this time for the life of me I can't! I have so much going on. Too much. A lot of heavy burdens but I also have lots of good too. My dad is living in the hospital. My mom had angina. My dad is a VERY COMPLICATED case. My mom's attitude is  whatever . And I have two older brothers, one who can't help through no fault of his own he has heart problems. The other can't be counted on, he flys out of province regularly. So often in fact that he doesn't even bother to let family know. I have the most amazing husband ever! He is simply the best thing that's ever happened to me. I have three of the world's most friendly cats. We live in a nice house, cheap rent for what we have. Awesome neighbors.and my favorite weather outside, sunny cold and crisp air with crunchy snow on the ground. But I can't kick this depression. I'm attempting medication finally. Because after two years I finally gave in and am trying them. So far I feel worse than usual. I don't know if I have anything left in me to keep trying. In the evening I feel better and try to fill my days as best I can Because commitment seems to be the only thing that gets me out of bed.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###I mentioned that I have lots of good things in my life such as an amazing husband, three friendly cats, a nice house and awesome neighbors. This indicates that the people in my life would not be better off without me.'])
+('2', ['indirectly_mention', "Somewhat true for me###Although I didn't directly mention that the people in my life would be happier without me, I did state that I am currently battling depression and considering medication. Feeling worse than usual after starting medication suggests that I am struggling with my mental health, which could potentially make the people in my life less happy."])
+('3', ['directly_mention', "Not at all true for me###The post mentions that the person has a lot of burdens and difficulties, such as their parents' health issues and their brother's lack of support. However, there is no indication that they believe they are a burden on society."])
+('4', ['directly_mention', 'Not at all true for me###The post does not mention anything that would indicate that the person believes their death would be a relief to the people in their life. They talk about their struggles with depression and medication, but there is no mention of their death being a relief.'])
+('5', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person is feeling worse than usual after starting medication for depression. This suggests that the person may feel that they are making things worse for the people in their life.'])
+('6', ['indirectly_mention', "Not at all true for me###The post mentions having a supportive husband, friendly cats, a nice house, and good neighbors. These positive aspects of the person's life suggest that they may not believe that the people in their life wish they could be rid of them."])
+('7', ['indirectly_mention', "Very true for me.###The post mentions that the poster has an amazing husband who is the best thing that's ever happened to them and three friendly cats. These positive relationships suggest that the poster feels cared about and belongs."])
+('8', ['directly_mention', "Not at all true for me.###The post mentions that the poster is feeling worse than usual after starting medication and doesn't know if they have anything left in them to keep trying. This suggests that they may not feel that others care about them."])
+('9', ['indirectly_mention', "Somewhat true for me###The post mentions that the poster has heavy burdens and a lot going on, including a dad in the hospital, a mom with angina, and brothers who can't provide support. This suggests that the poster may not have as much interaction with caring people as they would like, indicating that it is somewhat true for them."])
+('10', ['indirectly_mention', 'Somewhat true for me###The post mentions having an amazing husband and friendly cats, but it also mentions feeling depressed and not being able to kick the depression. This suggests that while the poster may have some support in their husband and pets, they may still feel a lack of support from other caring friends. This indicates that it is somewhat true for them.'])
+('11', ['indirectly_mention', 'Not at all true for me###The post mentions having an amazing husband and friendly cats. Having these positive relationships and companionship suggests a level of connection to other people.'])
+('12', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling better in the evening and trying to fill the days with activities. This suggests that the poster may feel disconnected during the day.'])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person has a supportive husband and friendly cats, which can be seen as a form of social support. However, it is also mentioned that the person feels worse than usual after starting medication, indicating a lack of support in managing their depression.'])
+('14', ['indirectly_mention', 'Not at all true for me###The post describes feelings of isolation and the lack of people to turn to in times of need. The person mentions that their brothers cannot be counted on, indicating a lack of close relationships and support from family members.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to having a satisfying interaction every day."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The answer to question 2 ('These days, the people in my life would be happier without me') suggests that the poster perceives themselves as a burden and believes that others would be better off without them. This indicates a risk of perceived burdensomeness.
+

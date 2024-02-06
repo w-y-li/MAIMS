@@ -1,0 +1,96 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Today is my 45th birthday. Today is my 45th birthday. Being 45 doesn't bug me as much as the lack of accomplishments and life lived in those years. I've spent the last 20 years lost in depression. I'm tired, hopeless, ashamed, and emotionally defeated. I go to bed scared and wake up disappointed. People ask if I am suicidal, and my answer is,  I'm open to the possibility.  People ask if I'm planning, and I say,  No, not actively. I've already planned it out.  I can't understand why I am still here nor do I understand why I stay.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###The post explicitly states that the person has been lost in depression for the past 20 years and describes feeling tired, hopeless, ashamed, and emotionally defeated. These feelings align with experiencing sadness much of the time.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post expresses a lack of accomplishments and a sense of a life wasted. Combined with feeling tired, hopeless, and emotionally defeated, it suggests a pessimistic view of the future.'])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The post explicitly mentions feeling like a failure and being ashamed of the lack of accomplishments in life, indicating a belief of having failed more than the average person.'])
+('4', ['directly_mention', 'I get very little pleasure from the things I used to enjoy.###The post states feeling tired, hopeless, and emotionally defeated, which suggests a loss of pleasure in activities that were previously enjoyed.'])
+('5', ['directly_mention', 'I feel guilty all of the time.###The post explicitly mentions feeling tired, hopeless, ashamed, and emotionally defeated. These are all common symptoms associated with feelings of guilt, which suggests that the person feels guilty all of the time.'])
+('6', ['directly_mention', 'I feel I am being punished.###The post states that the person has spent the last 20 years lost in depression, feels tired, hopeless, and emotionally defeated. These feelings can often be associated with a sense of punishment, indicating that the person feels they are being punished.'])
+('7', ['directly_mention', 'I dislike myself.###The poster explicitly states that they feel tired, hopeless, ashamed, and emotionally defeated. These negative emotions indicate a dislike for oneself.'])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual.###The poster mentions feeling disappointed in themselves and stating that they stay even though they don't understand why. This implies a level of self-criticism and self-blame."])
+('9', ['directly_mention', "I'm open to the possibility.###The post directly mentions that I am open to the possibility of being suicidal."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about crying."])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###In the post, I mentioned that I am tired, hopeless, ashamed, and emotionally defeated. These emotions often manifest as agitation and restlessness, making it difficult for me to stay still.'])
+('12', ['directly_mention', 'I have lost most of my interest in other people or things.###In the post, I mentioned that I feel a lack of accomplishments and a sense of living in those years. These feelings are commonly associated with a loss of interest in various aspects of life, including other people and activities.'])
+('13', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to indecisiveness."])
+('14', ['directly_mention', 'I feel utterly worthless.###The post specifically mentions feeling tired, hopeless, ashamed, and emotionally defeated, which indicate a sense of worthlessness.'])
+('15', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything about energy."])
+('16', ['directly_mention', "I have experienced a change in my sleeping pattern.###The post states 'I go to bed scared and wake up disappointed.' indicating a change in sleeping pattern, specifically difficulty falling asleep or staying asleep since they go to bed scared and wake up disappointed."])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post mentions that the poster feels tired, hopeless, ashamed, and emotionally defeated. These feelings are often associated with irritability. Therefore, it can be deduced that the poster is experiencing more irritability than usual.'])
+('18', ['indirectly_mention', "My appetite is much less than before.###The post mentions that the poster is tired, depressed, and emotionally defeated. These symptoms are often associated with changes in appetite, such as a decrease in appetite. Therefore, it can be deduced that the poster's appetite is much less than before."])
+('19', ['directly_mention', "I find I can not concentrate on anything.###The post directly mentions that the person has difficulty concentrating and states 'I can not concentrate as well as usual.'"])
+('20', ['directly_mention', "I am too tired or fatigued to do most of the things I used to do.###The post directly mentions that the person is tired and fatigued and states 'I am too tired or fatigued to do most of the things I used to do.'"])
+('21', ['directly_mention', "I have lost interest in sex completely.###In the post, I mentioned that I have almost no interest in sex. This indicates a significant decrease in my interest in sex, which aligns with the option 'I have lost interest in sex completely' from the provided question."])
+Do MS Check Record:
+('1', ['Correct', "Your assessment of the poster's sadness based on their explicit descriptions of depressive feelings is accurate. Continue to use direct evidence from posts when available."])
+('2', ['Correct', 'You demonstrated an ability to infer underlying emotions such as pessimism from the described experiences. However, be cautious when inferring and make sure that there are enough contextual clues to support your interpretation.'])
+('3', ['Correct', 'Maintain your careful reading of the post content to accurately infer the emotional state of the poster. Your analysis aligns well with the explicit text mentioning ’lack of accomplishments’ and ’ashamed,’ which support the feeling of having failed.'])
+('4', ['Incorrect', 'While the conclusion about a loss of pleasure may seem reasonable, it is not directly mentioned in the post. Be careful not to infer states that aren’t explicitly described. Focus on elements in the post that directly respond to the scale’s question, and avoid making assumptions.'])
+('5', ['Correct', "Continue carefully analyzing the emotional content of the posts to accurately represent the poster's feelings."])
+('6', ['Incorrect', "Despite the negative feelings, avoid assuming feelings of punishment without explicit mention. Focus on what's directly inferred rather than extrapolating beyond the given information."])
+('7', ['Correct', 'Ensure to keep focusing on the explicit emotional language used by the poster to support your analysis. Good job on identifying direct mentions.'])
+('8', ['Correct', 'Continue to pay attention to the implicit cues that suggest self-criticism or blame. However, take care not to overextend these inferences without supporting evidence.'])
+('9', ['Correct', 'Remember to base your answers strictly on what is expressed in the post, which was done well here.'])
+('10', ['Incorrect', 'Consider the emotions described in the post and infer how they may relate to behaviors such as crying, even if not explicitly mentioned.'])
+('11', ['Correct', "Ensure to always highlight specific connections between the post content and the psychological symptoms when explaining your response, just as you've done here by associating expressed emotions with agitation."])
+('12', ['Correct', "Keep focusing on explicitly linking the poster's described feelings to psychological concepts, such as the loss of interest, and continue to use direct quotes to support your reasoning."])
+('13', ['Incorrect', 'Consider the context in which the poster mentions feelings related to their emotional state. When someone expresses feelings of hopelessness and being emotionally defeated, it may suggest difficulty in making decisions due to their emotional state. Analyze further and infer carefully without negating potential indirect indications of indecisiveness.'])
+('14', ['Correct', "Continue to use direct references in the post to support your answers. The feelings of being 'tired, hopeless, ashamed, and emotionally defeated' are clearly identifiable elements that contribute to a sense of worthlessness, which was appropriately acknowledged in your answer."])
+('15', ['Incorrect', "Review the post for implied information about energy levels. The mention of feeling 'tired' suggests that there is indeed a loss of energy, which is relevant to the question."])
+('16', ['Correct', 'Your analysis of sleep patterns is accurate based on the information provided. Continue to connect implied emotional states with their potential impact on sleep.'])
+('17', ['Correct', 'Good observation in associating emotional states mentioned in the post to potential irritability. In future, continue to carefully analyze for indirect cues that may hint at psychological states like irritability.'])
+('18', ['Correct', 'Your inference that a decrease in appetite can be associated with the described emotional state is appropriate. Remember to always consider the possibility of alternative explanations and variations in individual responses to emotional states.'])
+('19', ['Incorrect', 'Analyze the post more thoroughly to find direct or indirect mentions of the issue. The post does not specifically state a concentration problem, so avoid assuming details not provided.'])
+('20', ['Correct', 'Continue to directly correlate the feelings expressed in the post to the mental scale questions when there is a clear connection, as you did with tiredness and fatigue.'])
+('21', ['Incorrect', 'Do not infer information that is not indicated in the post. The post does not provide specific information about changes in interest in sex. Stay closely connected to the given information without making assumptions.'])
+
+ITER 1
+Do MS Record:
+('4', ['directly_mention', 'I get very little pleasure from the things I used to enjoy.###The post explicitly mentions that the lack of accomplishments and life lived in the past years bothers me more than being 45. This indirectly suggests a loss of pleasure in activities that were previously enjoyable.'])
+('6', ['indirectly_mention', 'I feel I am being punished.###The post mentions feeling tired, hopeless, ashamed, and emotionally defeated. While punishment is not explicitly mentioned, these negative emotions may give an indication of feeling punished.'])
+('10', ['indirectly_mention', "I cry more than I used to.###Based on the poster's description of feeling tired, hopeless, ashamed, and emotionally defeated, it can be inferred that the emotional distress they are experiencing may lead to increased crying."])
+('13', ['indirectly_mention', 'I have greater difficulty in making decisions than I used to.###The poster mentions feeling lost in depression for the last 20 years, which indicates a prolonged period of emotional distress. They also express feelings of being tired, hopeless, and emotionally defeated. These factors suggest a potential impact on decision-making abilities.'])
+('15', ['indirectly_mention', "I do not have enough energy to do very much.###Based on the post, the person mentions feeling tired, which implies a lack of energy. They also state that they are 'emotionally defeated,' which suggests they do not have enough energy to engage in activities."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not contain any direct or indirect mentions of concentration difficulties. Therefore, I cannot deduce an answer to this question based on the given post."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything about changes in interest in sex."])
+Do MS Check Record:
+('4', ['Correct', 'Good job capturing the essence of the original post. Continue to use the language from the post to infer psychological states related to the mental scale questions.'])
+('6', ['Incorrect', 'Be cautious not to infer feelings of punishment without sufficient evidence. While the original post conveys negative emotions, equating these to feelings of being punished may be too far-reaching. Try to identify specific language in the post that aligns with the concept of punishment if you want to make that connection.'])
+('10', ['Correct', 'Continue to infer the underlying emotions and states that are implicit in the post, but ensure that the inferences are supported by the content of the post and psychological constructs.'])
+('13', ['Correct', "Consider the context and specifics of the poster's described emotions when inferring about cognitive processes such as decision-making, and maintain a direct connection to the evidence provided in the post."])
+('15', ['Correct', 'Ensure to continue analyzing the emotional state of the poster to infer other symptoms beyond what is directly mentioned.'])
+('19', ['Incorrect', "Re-examine the given post for indirect indications of concentration difficulty, like the inability to understand or make decisions about one's own life, which could suggest an issue with concentration."])
+('21', ['Incorrect', "In responding to questions about specific topics like changes in interest in sex, look for any indirect indications in the mood or emotional state of the individual that could relate to the topic. In this case, considering that the poster mentions a long-term struggle with depression, which often affects libido, it would be more analytical to infer a potential decrease in sexual interest as a typical symptom of depression rather than stating it wasn't mentioned."])
+
+ITER 2
+Do MS Record:
+('6', ['indirectly_mention', 'It is hard to keep my mind on anything for very long.###The post mentions feeling lost in depression for the past 20 years, being tired, hopeless, ashamed, and emotionally defeated. These experiences can contribute to difficulty in concentration and the inability to keep focus on anything for long periods of time.'])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feelings of punishment."])
+('21', ['directly_mention', 'I have almost no interest in sex.###The poster mentions feeling tired, hopeless, and emotionally defeated, which are common symptoms of depression. Since depression often affects libido, it is reasonable to infer that the poster has almost no interest in sex.'])
+Do MS Check Record:
+('6', ['Incorrect', 'Revisit the description of emotions in the post. Match the reported feelings of hopelessness and defeat to the concept of punishment feelings. Reflect these in your answer.'])
+('19', ['Correct', "Ensure to thoroughly read the post for any direct or indirect mention of the scale's specific element before concluding it's not mentioned. In this case, no evidence of punishment feelings was provided in the post."])
+('21', ['Correct', 'Ensure when making inferences, they are closely anchored to information provided in the post and relevant psychological concepts. Avoid overgeneralization.'])
+
+ITER 3
+Do MS Record:
+('6', ['directly_mention', 'I feel I am being punished.###In the post, the individual expresses feelings of being tired, hopeless, ashamed, and emotionally defeated. These emotions align with the concept of punishment feelings, indicating that they feel they are being punished.'])
+Do MS Check Record:
+('6', ['Correct', 'Ensure to look for implicit emotional expressions within the post that are related to the mental scale question, as you did here. However, be cautious not to extrapolate beyond what is available in the text.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the poster's responses to the questions of the mental health scale, it is evident that they are experiencing symptoms associated with depression. They expressed feelings of sadness, pessimism, guilt, worthlessness, and indicated a loss of interest and pleasure in activities. They also mentioned suicidal thoughts and feelings of fatigue. These symptoms align with the diagnostic criteria for depression.
+
+Correct
+Continue to meticulously analyze the information provided in the posts and answered questions. Ensure you remain objective and base your assessments on the evidence at hand. Avoid making any inferences that are not supported by the information given. Double-check that you are evaluating the person in question, and not those around them, unless otherwise specified. Maintain a clear distinction between observations and interpretations.

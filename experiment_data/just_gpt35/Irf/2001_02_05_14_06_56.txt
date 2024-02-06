@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I recently had to go to the hospital per my therapist (or get IVCd). That was a month ago and nothing has gotten better. No meds have helped and I still find myself planning my death. My psychiatrist prescribes me ambien and I've googled the lethal dosage. I have more than enough. Part of me wants to live but the part that wants to die is bigger. Sadness is like an ocean. Sometimes you swim but right now I'm drowning and I'm not sure there is any coming back from it. Part of me wants to do it in my birthday but I fear that will just devastate my family even more. Sorry for the rant.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the individual feels like a burden to others, as they mention their fear of devastating their family by taking their own life.
+

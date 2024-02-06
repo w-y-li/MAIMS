@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I'm looking for a self-help book to help cope with anxiety and depression, have any of you read any that were particularly helpful?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post is seeking recommendations for self-help books to cope with anxiety and depression, indicating a desire for personal growth and improvement rather than exhibiting risk of perceived burdensomeness.
+

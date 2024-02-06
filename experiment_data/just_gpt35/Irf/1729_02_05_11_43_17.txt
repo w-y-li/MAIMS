@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I have been crying for the whole morning. I could not take it anymore. I had a horrible nightmare about my life. It was telling me who was my real parent. I am an orphan and my adoptive parent never told me this. My dad and his family constantly biasd me and my mon when I was kid. They said we both poor and from uneducated family. We were filthy peasant. After my mom died he and his family told me to marry a rich man and didn't matter if I became a hidden wife, second wife of an old man. He told me I was different from normal girl I didnt deserve a good life. It was discovered two years ago that I was adopted. Neither my mom or my dad are my biological parent. And in my country it is a shame, an orphan usually treated very bad and deserved to be a maid. I had a nightmare about this and I remembered all my father told me and his family when I was kid. I could not take it anymore. I really want to die. I dont really have a purpose on my life. I dont know why I should life. I have my life and I hate myself.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, shame, and a desire to die. This suggests a risk of perceived burdensomeness, where the poster may feel like a burden to others and believe their existence brings more harm than good.
+

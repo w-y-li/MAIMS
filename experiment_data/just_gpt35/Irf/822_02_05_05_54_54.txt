@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I am not fit for society. If I could pay someone to kill me I would. I'm a worthless sack of rotten withered flesh, I can feel the holes in my brain and the age in my skin and I just want to be nothing. The only thing I want is for someone normal to talk to me and tell me about their life. I haven't talked to anyone about my life in years, I haven't had a friend like that in years and I know I never will again. At least knowing I can be of use to someone else helps sometimes. Happy new year, I know this is probably a bad time for many or most of us. Hopefully in the new year I'll just die  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of social isolation and a desire for connection with others. The poster expresses feelings of being unfit for society and a longing for someone normal to talk to. This suggests a potential risk of thwarted belongingness, which is a psychological state characterized by a lack of meaningful social connections and feelings of exclusion.
+

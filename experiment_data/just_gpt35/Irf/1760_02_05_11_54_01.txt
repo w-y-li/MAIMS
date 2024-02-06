@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My mind isn‚Äôt even clear enough to articulate my thoughts to write here clearly. I just feel so lonely and want to die.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of extreme loneliness and a desire to die, suggesting a lack of connection and belongingness. Thwarted belongingness is commonly associated with suicidal ideation and is evident in this post.
+

@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I've recently started a blog where I'm posting my poetry and other thoughts on depression, anxiety, and life. Does anyone else blog about their depression? This is my blog, feel free to check it out: misunderstoodmammal.com  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the people in the author's life being better off without them."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the people in the author's life being happier without them."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person is posting about depression and anxiety on their blog. This indicates that they may have personal experience with these conditions, which could contribute to feeling like a burden on society.'])
+('4', ['indirectly_mention', 'Not at all true for me###The post does not directly mention thoughts about death being a relief to others, but it does mention that the person is blogging about depression and anxiety. Sharing personal thoughts and experiences on these topics suggests a willingness to communicate and seek support, which may indicate that they do not feel their death would be a relief to others.'])
+('5', ['directly_mention', 'Very true for me###The post indicates that the person is dealing with depression and anxiety, which could lead to feeling like a burden to others in their life.'])
+('6', ['directly_mention', "Not at all true for me###The post expresses the person's intention to share their experiences with depression through their blog, indicating a desire to connect with others who may have similar experiences. This suggests that they do not believe they make things worse for the people in their life."])
+('7', ['directly_mention', 'Somewhat true for me###The post mentions that they are posting about depression, anxiety, and life, which implies that they might be seeking support or validation from others. It is possible that they feel somewhat cared for by others, considering they are sharing their thoughts on such personal topics.'])
+('8', ['indirectly_mention', 'Somewhat true for me###The post reveals that the person is posting their poetry and thoughts about depression and anxiety. The act of writing about these topics might provide a sense of belonging to a community of people who also experience similar struggles. Therefore, it is probable that the person feels somewhat like they belong.'])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person is blogging about their depression and anxiety, which suggests that they may be experiencing a lack of interaction with people who care about them. However, since the post does not explicitly state the level of interaction, I can only infer that it is somewhat true for the poster.'])
+('10', ['indirectly_mention', 'Not at all true for me###The post mentions that the person is blogging about their depression, anxiety, and life, which suggests that they may not have many caring and supportive friends. However, since the post does not explicitly state the number of friends the person has, I can only infer that it is not at all true for the poster.'])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person is blogging about depression and anxiety, which suggests that they may feel disconnected from other people.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling like an outsider in social gatherings."])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions that the blog is about depression and anxiety, which suggests that the poster may be experiencing these mental health issues. Based on this, it is reasonable to assume that the poster may feel that there are people they can turn to in times of need, but the level of truth is uncertain.'])
+('14', ['indirectly_mention', 'Not at all true for me###The post does not directly mention being close to other people, but since it is about depression and anxiety, it is possible that the poster may not feel close to others.'])
+('15', ['indirectly_mention', "Somewhat true for me###The post mentions that the blog is about depression and anxiety, which suggests that the poster may have experiences with these mental health issues. Since depression and anxiety can impact daily interactions, it is reasonable to assume that the poster's interactions may not always be satisfying. However, without further information, it is difficult to determine the exact frequency of satisfying interactions."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the poster's answers to the mental scale, they have indicated that they feel like a burden on society, that the people in their life wish they could be rid of them, and that they rarely interact with people who care about them. These responses suggest a risk of perceived burdensomeness, which is a characteristic often associated with depression and anxiety.
+

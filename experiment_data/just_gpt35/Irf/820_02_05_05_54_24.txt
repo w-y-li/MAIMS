@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My life is on repeat. I wake up and do the same things over again every single day. I don‚Äôt have any friends, I have no one. I feel so empty and alone. I guess it‚Äôs another on of these nights for me when I just sit and stare into nothing and think about how crap my life is. Seeing everyone happy having a great time meanwhile I am home. 18 years old about to graduate. Don‚Äôt even know if I want to go to college. I always think about ending it when it comes to that time.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a significant sense of isolation, emptiness, and loneliness. The poster states that they don't have any friends and feel alone. They express a desire to end their life when thinking about their future. These feelings of social disconnection and thoughts of self-harm indicate a potential risk of thwarted belongingness.
+

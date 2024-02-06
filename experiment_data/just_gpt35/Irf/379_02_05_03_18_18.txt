@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Why is it so damn hard to find any sense of purpose? I wake up every morning feeling like a disappointing peace of garbage who can't accomplish anything and it's eating away at me. I suck at everything I try to do and I feel like I'm just a disappointment to my family. Maybe tomorrow will be better.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of being a disappointment and not being able to accomplish anything, which may lead to a sense of burden and worthlessness.
+

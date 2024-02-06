@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I'm fucking sick of it all I do is spend my days helping people with their bullshit problems and get nothing back, what's even the point and without them I just feel bored and lonely  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of being overwhelmed by constantly helping others and not receiving anything in return. There is a sense of frustration and despair expressed by the poster, which aligns with the concept of perceived burdensomeness.
+

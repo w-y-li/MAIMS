@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I dont care about anything I honestly dont care about anything. i just drift through this pointless life.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's lack of interest in anything, feeling of drifting through life, and describing life as pointless are consistent with depressive symptoms.
+
+Correct
+Ensure to substantiate any conclusions about mental health by referring to specific cues in the post. Avoid jumping to assumptions without evidence. Always consider alternative explanations for the behavior and language used in the post, avoiding overgeneralization.

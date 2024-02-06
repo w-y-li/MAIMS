@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I'm laying in bed and thinking about what a fucked up year I've had. Seriously, what a fucking shit show. Years of depression and other mental illnesses finally caught up to me. Like it beat the shit out of me. I put an end to something fucked up that I did but the damage is still there and not completely cleared because I don't know how to approach the situation because I'm fucking mentally fucked up and I don't even know how to explain that to someone. I spent days in bed, crying, paranoid walking around outside thinking people know all my secrets and all thats wrong with me. I've spent days being yelled at by my parent, being a second parent to my little sibling and still being told that I do nothing. That I don't give. Being emotionally and verbally abused by my sister. Letting guilt numb me till I can't feel anymore. Hating myself on top of hating myself, to the point where I want to rip myself apart whenever I see my reflection. 21 years and I have no fucking friends. I feel like the biggest piece of shit. I don't know who I am, all I know is that I'm depressed and have issues of identity, gender, personality, and traumatic experiences that fucking haunt me. Every time I told myself to go seek help I failed. Every time I tried to have a good day I came back to my room and cried till nothing came out anymore. It was a fucking shitty year. I don't see anything changing in the new year. Don't even know if I'll make it through. Tough shit. I pray every day that I die because I don't have the courage to do it myself.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person feels like a burden to others and expresses a desire to die so as to relieve others from the burden of their presence.
+

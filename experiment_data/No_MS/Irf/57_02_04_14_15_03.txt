@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Long story short: In december I talked to my mother about how I feel and that I currently don't get my shit together; Mainly work. She asked whether it's ok if my family would know (If they asked questions after christmas etc) and I told her it would be ok. First thing she did was going to my aunt and telling her and now my whole family knows and everyone is super protective and sending help, which is exactely what I don't need. When I critizied her, she started the whole  everything I do is wrong -bullshit and now even my father called me, who is currently in hospital because of his weak heart and told me I should start using my brain. While I'm writing this my mother sits crying in the kitchen after she told me that she can't deal with this whole current situation and that I  don't live alone on this planet . I do the fuck not know how to deal with this shit either. Getting drunk now. Thx for reading.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of burden and feeling overwhelmed by the reactions and expectations of family members. The poster expresses frustration with their mother's actions, feeling criticized, and the lack of understanding or support they are receiving.
+
+Correct
+Ensure that your conclusions about perceived burdensomeness are always backed by evidence in the post. Avoid overgeneralizing or attributing feelings and characteristics to the poster that aren't explicitly stated. In this case, the poster's expression of frustration and the mention of getting drunk to cope suggests the answer 'Yes' is appropriate for the risk of perceived burdensomeness. Keep using direct quotes or clear summaries of the content to support your rationale, as you did here.

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I have such intense flashbacks about the trauma I had through therapy and being held at a hospital where the staff were horrible to the patients, I break down crying. I feel like I'm living it all over again and it's impossible to break out of until the flashback ends How do I handle these? It feels so real at the time and it stops me doing day to day things at the time it happens I'm not going back into therapy before anyone suggests that, and I'm already on anti depressants  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests intense flashbacks and a sense of reliving trauma, which can contribute to the perception of burdensomeness on oneself.
+

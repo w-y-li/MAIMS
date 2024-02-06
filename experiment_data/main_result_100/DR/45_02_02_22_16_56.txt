@@ -1,0 +1,143 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Classmate/ bullying problems I have a classmate who constantly bullies our other classmates. Seems like she feels as if she is superior, the leader of our whole class and everyone has to follow and do what she says. If someone is late to the meetings she is harassing them. She is being very rude and insulting. Her voice is always extremely loud, and if she has a problem with people she always shouts it to the class instead of approaching the person and discussing it with them like a normal person would do. For example, she was upset with a group of her classmates because they didnt want to follow whatever she says, and she heard that they might have said something bad about her, but instead of approaching them to ask them about it, if its true or whatsoever, everytime we have meetings she will just talk extra loud and will let our whole class listen to her nonsense comments like she keeps on talking about  fake people , as if she wanted the group who said something about her to hear it and feel guilty. I dont get why she does it and why she is the way she is. Does anyone have an idea? And what should we do about it? It's getting annoying and I know already if we would approach and talk to her she would put the blame on everyone else and just be more mad and find stupid excuses. Does anyone have any advice? By the way, including teachers or some other people doesnt help either so any other advices or info to shed light on this is welcome. Thank you  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', 'Doesnt mention at all.###The post does not mention anything about sadness.'])
+('2', ['not_mention', 'Doesnt mention at all.###The post does not mention anything about pessimism.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not provide any information directly or indirectly related to the feeling of failure."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not provide any information directly or indirectly related to the loss of pleasure."])
+('5', ['directly_mention', "I feel guilty all of the time.###The poster mentions feeling guilty all the time in the statement: 'as if she wanted the group who said something about her to hear it and feel guilty.'"])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention any feelings of punishment being experienced by the poster."])
+('7', ['indirectly_mention', 'I dislike myself.###The post indicates that the classmate bullies other classmates, has a superiority complex, and constantly insults and belittles others. This behavior may lead me to develop dislike towards myself as a result of the constant negativity and mistreatment from this classmate.'])
+('8', ['directly_mention', 'I am more self-critical or blaming than usual.###The post mentions that the classmate constantly harasses and insults others, has a habit of shouting at the entire class, and frequently blames others for her problems instead of taking responsibility herself. This behavior may make me more self-critical and prone to blaming myself for any issues that arise.'])
+('9', ['indirectly_mention', 'I cry all the time now.###Although the post does not explicitly mention crying, it does describe the behavior of the classmate who constantly bullies others. This behavior can be emotionally distressing for the classmates being bullied, leading them to cry more frequently.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information or hints related to suicidal thoughts or wishes. It solely focuses on the behavior of the classmate who bullies others."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to agitation. There is no information provided that indicates the level of restlessness or agitation the poster may be experiencing."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of interest. There is no information provided that indicates a lack of interest in other people or activities."])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that the classmate constantly bullies others,acts as if she is superior,and expects everyone to follow her lead. This kind of behavior can create a stressful environment where others may find it difficult to make decisions out of fear of confrontation or reprisal.'])
+('14', ['indirectly_mention', 'I do not consider myself as worthwhile and useful as I used to.###The post describes how the classmate behaves in a rude, insulting, and loud manner. This kind of behavior can negatively affect the self-esteem of others, possibly making them feel less worthwhile and useful compared to the classmate.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of energy."])
+('16', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in sleeping pattern."])
+('17', ['directly_mention', 'I am more irritable than usual.###The post mentions that the classmate is constantly harassing and being rude to others, which can be irritating and would lead to an increase in irritability.'])
+('18', ['directly_mention', "My appetite is somewhat less than usual.###The post states that the situation with the classmate is getting annoying, which can have an impact on one's appetite. A decrease in appetite is mentioned indirectly."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not address any issues related to concentration difficulty. There is no mention of the person experiencing difficulty concentrating or any related symptoms."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention any feelings of tiredness or fatigue. There is no indication that the person is experiencing increased tiredness or fatigue compared to usual."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+('1', ['Incorrect', 'Consider the context and emotions surrounding the situation; the poster describes a scenario that could naturally elicit feelings of frustration or distress, which can be associated with sadness. Try to infer the emotional state that may not be directly mentioned but could be reasonably deduced from the circumstances described.'])
+('2', ['Incorrect', "While the term 'pessimism' isn't explicitly mentioned, the overall tone of the post indicates a negative view of the situation that could suggest pessimistic feelings. Look for indirect indicators of pessimism, such as the description of the classmate's behavior and the lack of effective solutions, which could imply a sense of helplessness or negative expectations for the future."])
+('3', ['Incorrect', "Consider indirect indications of past failure in the post, such as the bully's need to assert dominance, which may stem from feelings of inadequacy or previous failures. Reassess the post for potential underlying causes of the behavior."])
+('4', ['Incorrect', "Explore the possible loss of pleasure as a motive behind the bullying behavior. The bully's actions could be a reaction to not deriving satisfaction from healthier social interactions. Look for subtle signs in the post that might suggest this, without making assumptions beyond the available information."])
+('5', ['Incorrect', 'Review the post and differentiate between the feelings of the poster and those of the individuals the poster describes. The guilt mentioned is associated with the classmates, not the poster.'])
+('6', ['Correct', 'Continue to distinguish clearly between the content of the social media post and the specific questions from the mental scale.'])
+('7', ['Incorrect', "Re-read the post and provide an answer that accurately reflects the poster's perspective without adding assumptions. Focus on what is explicitly stated about feelings and behavior. Avoid presuming internal states not shared by the poster."])
+('8', ['Incorrect', "Do not infer details that are not present. Concentrate on the poster's descriptions of actions and spoken words only. Refrain from assuming the poster's internal experiences or feelings unless they are explicitly mentioned."])
+('9', ['Incorrect', 'Review the post for direct or implied emotional impacts rather than introducing emotions not mentioned, like crying. Stick to the information given.'])
+('10', ['Correct', 'Continue identifying when posts do not provide information related to the question, and avoid making assumptions or inferences beyond the content presented.'])
+('11', ['Correct', 'Good job at sticking to the information provided. Remember to always base your answers on explicit content within the post.'])
+('12', ['Correct', "Well done for not making assumptions beyond the post's content. Continue to look for clear indications before inferring psychological states."])
+('13', ['Incorrect', "Do not assume characteristics or feelings not explicitly mentioned in the post. Answer based solely on the poster's viewpoints without inferring unfounded personal difficulties."])
+('14', ['Incorrect', 'Avoid projecting emotions such as worthlessness onto the poster without concrete evidence from the post. Stick to the facts and context provided.'])
+('15', ['Correct', 'Continue to focus on the information provided in the post without making unwarranted assumptions. Remember to always closely analyze the content for any potential implications related to the questions.'])
+('16', ['Correct', "Maintain a rigorous approach to analyzing the post content. Be careful not to infer information that isn't explicitly mentioned or implied in the social media post."])
+('17', ['Incorrect', "Carefully analyze the text assuming the role of the person posting. There is no information suggesting the poster is irritable, rather it is the classmate being described. Avoid inferring emotions not directly expressed by the text's subject."])
+('18', ['Incorrect', "Be careful not to over-interpret or infer details about appetite or other characteristics not mentioned. Stick to the information given and avoid assumptions about how the described situation might affect the poster's appetite."])
+('19', ['Correct', 'Your assessment is accurate; the post does not provide information about concentration difficulty. To enhance role-playing, continue to carefully assess only the content provided without making assumptions.'])
+('20', ['Correct', 'You correctly identified that the post does not discuss tiredness or fatigue. Maintain focus on the literal content of the posts for accurate representations.'])
+('21', ['Correct', 'Ensure to focus on what is explicitly mentioned within the post and refrain from making assumptions or inclusions of unrelated topics unless there is an indication of relevance.'])
+
+ITER 1
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time###The post describes a classmate who constantly bullies others, and the poster expresses frustration and annoyance with the situation. This indicates that they may feel sad due to the ongoing bullying and negative atmosphere in the class.'])
+('2', ['indirectly_mention', "I feel I have nothing to look forward to###The post expresses a sense of helplessness and frustration in dealing with the classmate's behavior. The poster mentions that approaching and talking to her would be futile, indicating a lack of hope for improvement or resolution. This suggests a pessimistic outlook towards the future of the class dynamics."])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The post mentions that the classmate constantly bullies others and feels superior. This behavior may stem from feelings of inadequacy or previous failures, suggesting that the person may believe they have failed more than the average person.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post describes how the classmate exhibits rude and insulting behavior, seems to lack normal communication skills, and engages in attention-seeking through loud and aggressive behavior. These behaviors suggest a potential loss of pleasure in healthier social interactions, leading them to seek negative attention instead. However, direct mention of a lack of pleasure is not explicitly stated in the post.'])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling guilty, it focuses more on the behavior of the classmate."])
+('7', ['indirectly_mention', 'I am disappointed in myself.###The post mentions that the classmate is always rude and insulting to others, and I find it annoying. This suggests that I may be disappointed in myself for not standing up to her or finding a way to address the issue more effectively.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual###The post suggests that the classmate constantly bullies others, feels superior and expects everyone to follow her lead. This behavior indicates a sense of entitlement and a need for control, which are often rooted in feelings of insecurity and low self-esteem. The poster also mentions that the classmate blames others, shouts at the class, and criticizes fake people. These behaviors demonstrate a tendency towards self-criticism and blaming others for personal dissatisfaction.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not provide any information or imply any suicidal thoughts or wishes. The main focus of the post is on describing the classmate's bullying behavior and seeking advice on how to handle the situation."])
+('13', ['directly_mention', 'I have greater difficulty in making decisions than I used to.###The post mentions the classmate constantly bullies other classmates and feels superior. This behavior suggests a lack of consideration for others and a disregard for their feelings, which may lead to difficulty in making decisions.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not contain any information related to feelings of worthlessness."])
+('17', ['directly_mention', 'I am more irritable than usual.###The post describes the classmate as constantly bullying, rude, insulting, and shouting at others. These behaviors are indicative of irritability.'])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information about changes in appetite. It focuses on the classmate's behavior, not the poster's physical symptoms or eating patterns."])
+Do MS Check Record:
+('1', ['Incorrect', "Be cautious not to project emotions onto the poster that aren't directly implied. Restrict your analysis to the information given and avoid assuming emotions like sadness unless expressly communicated."])
+('2', ['Incorrect', "Do not infer feelings such as pessimism without clear evidence. Focus on the information provided and analyze the poster's language and context before concluding their emotional state."])
+('3', ['Incorrect', "Review the post carefully to ensure the classmate's experience is distinct from your own perception. Avoid attributing emotions or experiences to the poster without clear evidence from the post. Focus on analyzing what is explicitly mentioned or can be reasonably inferred."])
+('4', ['Incorrect', "Avoid making inferences that are not supported by the post. If the post does not discuss the classmate's own loss of pleasure, you should not extend their behavior to infer such internal feelings. Stick to observable facts and behaviors mentioned."])
+('5', ['Incorrect', "Remember to base your response strictly on the provided post's content. If the post doesn't discuss guilty feelings directly or indirectly, avoid making assumptions. Remain objective and only infer when there is supporting evidence within the text."])
+('7', ['Incorrect', "Be cautious not to project feelings onto the poster that aren't expressed or implied in the post. Dislike for the classmate's behavior doesn't necessarily equate to self-dislike. Focus on analyzing the content relating directly to the scale question."])
+('8', ['Incorrect', 'Carefully analyze the content of the post before answering. The post describes the behavior of the classmate and doesn’t reflect the perspective of the poster towards themselves. Avoid projecting feelings such as self-criticism onto the poster without evidence.'])
+('9', ['Correct', 'Continue to answer based on the information provided and avoid making assumptions. The post indeed does not mention anything about suicidal thoughts or wishes. Good job on not over-inferring from the provided social media post.'])
+('13', ['Incorrect', 'You should not attribute feelings or states of the poster without evidence from the post. Focus on the behavior described and avoid extrapolating or inferring internal states that are not explicitly mentioned.'])
+('14', ['Correct', 'Continue to base your answers strictly on the content provided in the post. If the post does not mention a topic related to the mental scale question, you are right to answer that it does not apply.'])
+('17', ['Incorrect', "Remember to maintain the perspective of the poster. The irritability mentioned concerns the classmate, not the poster. Evaluate the information given from the poster's view and describe their experiences only."])
+('18', ['Correct', 'Well done on identifying that the post does not mention changes in appetite. Continue to discern which details are actually provided and which are not related to the questions asked.'])
+
+ITER 2
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about sadness."])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post mentions the behavior of the classmate being rude, insulting, and constantly bullying others. This behavior can lead to feelings of discouragement about the future.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not explicitly mention or provide any information related to the poster's perception of themselves as a failure."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not discuss the poster's pleasure or lack thereof from things they used to enjoy. The focus is on the behavior of the classmate."])
+('5', ['not_mention', "Doesn't mention at all.###The post doesn't discuss guilty feelings directly or indirectly. No information or evidence provided."])
+('7', ['not_mention', "Doesn't mention at all.###The post doesn't discuss self-dislike directly or indirectly. No information or evidence provided."])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual.###Although the post does not directly mention self-accusations, the description of the poster's classmate's behavior indicates that the poster is affected by the constant bullying and rude treatment. The poster expresses frustration and annoyance towards the classmate, suggesting that they may be attributing blame to themselves for not being able to address the issue effectively. This indirectly implies a tendency towards self-criticism or self-blame in this situation."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to indecisiveness. There is no information provided about the poster's decision-making abilities or any difficulties in making decisions. Therefore, it can be concluded that the post does not mention the question of indecisiveness."])
+('17', ['directly_mention', 'I am more irritable than usual.###The poster states that the classmate being discussed is constantly bullying other classmates, being rude and insulting. This behavior can be frustrating and lead to increased irritability for the poster.'])
+Do MS Check Record:
+('1', ['Incorrect', "Review the post for emotional content and implications about the writer's feelings rather than asserting that it doesn't mention sadness. Consider subtle cues that may suggest emotional states."])
+('2', ['Incorrect', "Focus on the factual content of the post without inferring emotions or attitudes such as pessimism that are not explicitly mentioned. Remain objective and resist making assumptions about the poster's feelings."])
+('3', ['Correct', 'Keep in mind that not all questions can be accurately answered purely based on the provided post. Be cautious not to infer or fabricate details that are not present in the original content.'])
+('4', ['Correct', 'Well done on not over-inferencing information that is not present. Always stay true to the content provided and be mindful of the scope of the information available in the post.'])
+('5', ['Correct', 'Continue to focus on explicit information provided in the post. However, try to consider any potential indirect hints about the questions in future tasks.'])
+('7', ['Correct', 'Good job on not assuming information not presented. Remember to always look for any subtle indications that might relate to the question at hand.'])
+('8', ['Incorrect', 'Avoid assuming emotions or reactions not explicitly stated by the poster. Focus on analyzing the content provided without inferring additional feelings such as self-blame or criticism that are not clearly indicated.'])
+('13', ['Correct', 'Continue identifying the absence of specific information when the post does not provide evidence related to the scale question. Ensure thorough analysis to confirm the lack of relevant details before concluding.'])
+('17', ['Incorrect', "Focus more on identifying indicators of irritability in the post author's language and experience rather than ascribing feelings to the author without explicit evidence."])
+
+ITER 3
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention or imply anything about sadness."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention or imply anything about pessimism."])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual.###The poster mentions that the classmate constantly bullies other classmates and feels superior. This suggests that the poster may engage in self-criticism or blaming themselves for the classmate's behavior."])
+('17', ['indirectly_mention', "I am more irritable than usual.###The poster described the classmate's behavior as constantly rude, insulting, and loud. This may indicate that the poster is experiencing increased irritability due to the classmate's actions."])
+Do MS Check Record:
+('1', ['Incorrect', 'Revisit the post and consider the emotional context. Look for indirect indications of mood that could imply sadness.'])
+('2', ['Incorrect', "Analyze the behavior and circumstances described to infer if pessimism is reflected in the poster's view or experiences."])
+('8', ['Incorrect', 'Do not assume or project feelings of self-accusation onto the poster based on the actions of another; focus only on information provided about the poster.'])
+('17', ['Incorrect', "Avoid inferring the poster's emotional state without clear evidence; describe the poster's directly expressed feelings only."])
+
+ITER 4
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to sadness."])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post describes a classmate who constantly bullies others and has a sense of superiority. This behavior could lead the poster to feel discouraged about their future interactions with this classmate.'])
+('8', ['indirectly_mention', 'I criticize myself for all of my faults###The post mentions that the classmate constantly bullies others, and the poster expresses frustration that approaching her would result in blame being placed on everyone else. This suggests that the poster may criticize themselves for any faults or negative behavior in order to avoid conflict with the classmate.'])
+('17', ['directly_mention', "I am more irritable than usual###The post describes the classmate's behavior as rude, insulting, and loud, which would likely lead to increased irritability in the poster as they have to deal with these actions on a regular basis."])
+Do MS Check Record:
+('1', ['Incorrect', 'Do not dismiss potential emotional content implied by the context. Explore how the bullying situation could induce feelings of sadness in those affected, including the poster, and provide a nuanced answer based on that analysis.'])
+('2', ['Incorrect', 'Avoid over-inference. The post does reveal a negative situation but does not specifically indicate that the poster feels discouraged about the future. Focus on the specific emotions and thoughts the poster expresses, rather than assuming unstated feelings.'])
+('8', ['Incorrect', "Review the post for explicit statements made by the original poster, rather than inferring traits about them based on the behavior of others. Focus on understanding the poster's feelings and reactions."])
+('17', ['Incorrect', "Avoid drawing conclusions about the poster's emotions based on another person's behavior. Stick to information that describes the poster's personal experiences or direct expressions of their emotions."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's description of the classmate's behavior, such as feeling superior, harassing others, being rude and insulting, shouting instead of discussing problems, and seeking attention through loud and nonsense comments, indicates a potential pattern of aggressive and attention-seeking behavior. These traits, along with the annoyance and frustration expressed by the poster, suggest that the poster may be experiencing feelings of sadness, helplessness, and possibly depression due to the ongoing bullying problem in their class.
+
+Incorrect
+Carefully distinguish between the subject of the post and the subject of the mental health scale. The post discusses the behavior of a classmate, not the poster. The poster is providing an observation, not expressing personal mental health issues. Utilize the scale responses to make inferences about the individual answering the scale, not the individuals they describe. Avoid making assumptions about the poster's mental health when they have not indicated any personal distress consistent with the scale's measure, such as symptoms related to depression. Stay objective and avoid overinterpretation of the information provided.
+
+ITER 1
+No
+The post does not indicate any personal distress or symptoms related to depression. The poster is describing the behavior of a classmate, not expressing personal mental health issues.
+
+Correct
+Keep focusing on the information provided and avoid making assumptions beyond the evidence. Maintain clear boundaries between the subjects being discussed and the individual reporting the situation.

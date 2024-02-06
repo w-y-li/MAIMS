@@ -1,0 +1,21 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  My hands won't do what I want them to. I know I know I've ranted about not being able to do anything artistic a thousand times now, but this is different. A few times I've forced myself to draw I was garbage, but I figured that's to be expected since I haven't done it in a while. However lately I've found playing video games much more difficult because I find myself pressing the wrong button almost purposely, or not reacting to something my brain processed seconds ago. It's even gotten to the point where typing is difficult for me--every other letter I find myself making a stupid typo, and its irritating. It shouldn't take every ounce of will and concentration to type a stupid reddit post, yet here we are........  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's difficulty in performing simple tasks such as drawing, playing video games, and typing, along with feelings of frustration and irritability, suggest possible symptoms of depression that may be affecting their cognitive and motor skills.
+
+Incorrect
+Avoid drawing conclusions about mental health conditions like depression without sufficient evidence. The poster describes difficulty with motor coordination and concentration, but does not indicate experiencing core symptoms of depression such as persistent sadness, loss of interest, or feelings of worthlessness. Consider alternative explanations and focus on the presented facts without inferring beyond them.
+
+ITER 1
+No
+The poster does not exhibit core symptoms of depression such as persistent sadness, loss of interest, or feelings of worthlessness. The difficulty with motor coordination and concentration may be indicating another issue.
+
+Correct
+When analyzing similar posts, consider whether any indicated symptoms are characteristic of depression or other conditions. Continue to avoid overgeneralizing based on limited information and remember to distinguish whether symptoms are directly related to mood disorders or could potentially be indicative of other medical or psychological issues. It's important to consider a broader differential when assessing mental health from brief descriptions.

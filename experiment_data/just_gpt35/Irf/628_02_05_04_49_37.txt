@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Everyone on the street was pretty much drunk but also filled with happiness for 2017. As for myself, I came back home and cried in my shower..  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's statement suggests a lack of connection or belongingness with others, as they mention feeling different compared to others who are drunk and happy. The act of crying in the shower also implies a need for emotional release and a potential sense of isolation or disconnection.
+

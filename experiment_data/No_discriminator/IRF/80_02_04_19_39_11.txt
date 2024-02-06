@@ -1,0 +1,33 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôve sat in a dark room for 5 hours staring at a wall, doing nothing. Yet I still felt as bored as if I were to just watch Netflix or play games. I feel bored and scared. Scared that I lost my mind and will never be normal again.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to the question of whether the people in my life would be better off if I were gone."])
+('2', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to the question of whether the people in my life would be happier without me."])
+('3', ['indirectly_mention', 'Not at all true for me###The post mentions feeling bored and scared, but does not mention feeling like a burden on society or thinking that my death would be a relief to others. Based on the information given, I can deduce that I do not feel like a burden on society.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything about thinking that my death would be a relief to the people in my life. There is no information that can help me deduce an answer to this question."])
+('5', ['directly_mention', "Not at all true for me###The post mentions feeling bored and scared, but it does not mention anything about the people in the poster's life wishing to be rid of them."])
+('6', ['directly_mention', 'Not at all true for me###The post mentions feeling bored and scared, but it does not mention anything about the poster making things worse for the people in their life.'])
+('7', ['directly_mention', "Not at all true for me###The post implies that the person feels alone and that no one cares about them, hence 'Not at all true for me'."])
+('8', ['directly_mention', "Not at all true for me###The post implies that the person feels like they don't belong, hence 'Not at all true for me'."])
+('9', ['indirectly_mention', 'Very true for me###The post mentions feeling scared and worried about losing my mind. These feelings suggest a lack of support and interaction with caring people.'])
+('10', ['indirectly_mention', "Not at all true for me###The post mentions feeling bored and spending hours alone in a dark room. This suggests that I don't have many caring and supportive friends around me."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling disconnected and bored, which could indicate feeling disconnected from other people as well. However, it is not explicitly stated, so I cannot say it is very true for me. '])
+('12', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling like an outsider and scared of not being normal again, which could indicate feeling like an outsider in social gatherings. However, it is not explicitly stated, so I cannot say it is very true for me. '])
+('13', ['indirectly_mention', "Somewhat true for me###The post mentions feeling scared and worried about losing one's mind, which suggests a need for support and someone to turn to in times of need. Although it is not explicitly stated, feeling scared and needing help indicates a level of dependence on others."])
+('14', ['indirectly_mention', 'Not at all true for me###The post indicates spending a significant amount of time alone in a dark room, showing a lack of closeness to other people. The feeling of boredom and disconnection also suggests a lack of closeness to others. Therefore, it can be inferred that the person is not close to other people.'])
+('15', ['indirectly_mention', 'Not at all true for me.###The post mentions feeling bored and scared, which suggests that the individual is not having satisfying interactions.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of disconnectedness, feeling like an outsider in social gatherings, and rarely interacting with people who care about the person. These factors suggest a possible risk of thwarted belongingness, which is a key element in assessing mental health problems.
+

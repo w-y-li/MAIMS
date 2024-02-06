@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Anyone want to be depression buddies? Preferably female  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a desire for companionship and connection specifically with those who may also be experiencing depression. This suggests a potential sense of social isolation and a need for belongingness, which aligns with the concept of thwarted belongingness often associated with depression.
+

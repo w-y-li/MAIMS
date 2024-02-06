@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I feel like since she left there is no good reason for me to live. I have loving friends and family and a pretty good life but it‚Äôs like that stuff doesnt matter when all I want is for her to love me but she doesn‚Äôt she left me for him and I‚Äôll never understand why.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of worthlessness and a lack of purpose due to a failed romantic relationship, suggesting potential feelings of thwarted belongingness.
+

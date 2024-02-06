@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My parents got a divorce like in June My whole life turned upside down. I got depression, my grades were failing, and have been very suicidal recently. I just found out that my dad has been cheating on my mom for about a year before their divorce. It really messed me up. I just want someone to talk to. Please PM. I want to talk. Not about this just a normal conversation. Please! Someone  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of loneliness and a desire for someone to talk to. The poster specifically requests a normal conversation, suggesting a need for connection and belonging that is currently lacking in their life.
+

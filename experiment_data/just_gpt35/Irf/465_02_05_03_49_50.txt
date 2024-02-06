@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Hi. I have had a bit of a rough day and honestly it feels like my thoughts are actually killing me. So I really feel like I need to express my feelings right now. So my thoughts are just gonna be thrown out there so without further ado.... I think I suck. At everything...my job, having friends, just...everything really. It honestly feels like I cannot just work like a human being. Now don't get me wrong, i don't hate life. I have things I rather love about life such as my family and my job including the people I work with. And everyone keeps telling me how  nice  and  good  I am at my job such as winning a rather  employee of the month  sorta thing but as strange as this seems.... I struggle to believe them. Now of course I'm not calling them liars I just find it to hard to believe. I know that sounds rather stupid but I honestly just can't help feel this way. As I said I truly love my job and everyone there but that is honestly where most of my self esteem comes from so constantly thinking I'm horrible at it is obviously not a good cycle. Now as for everything else apart from my job, well I will just break it down like this: I'm at overweight, ugly, shy, embarssing and awkward guy that honestly anyone could cringe at talking to. And of course I'm trying to overcome some of these things like the overweight part but...I'm honestly losing hope at this point and it's giving thoughts of doing something silly to my self. Sorry about this silly dump of self pity but I actually couldn't think of what else to do. Thanks for reading and have a good rest day.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of self-doubt, low self-esteem, and hopelessness. They mention struggling to believe positive feedback and feeling like they suck at everything. These thoughts and emotions indicate a risk of perceived burdensomeness, which is a characteristic associated with mental health issues such as depression or low self-worth.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Honestly, I'm really happy about it. It wasn't a very bad relationship, I just couldn't handle being in it. But I'm feeling a lot better then I ever have. It was definitely a good thing for me and I'm actually glad it happened.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post shows that the poster is happy and feeling better after ending a relationship that they couldn't handle. There is no indication of feelings of isolation, disconnection, or lack of belongingness, which would suggest thwarted belongingness. Hence, the response is 'No'.
+

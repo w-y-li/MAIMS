@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I can either stay at home and drink wit my parents friends which will be shit or I can ride my bike about 4 hours to get to the city where my friends live. Part of that ride includes going over a fucking mountain. Plus, just took a ritalin pill so I'll be fucked after the ride.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of perceived burdensomeness. The individual is discussing their choices of spending time with their parent's friends or riding their bike to the city to meet their own friends. There is no indication of feeling burdensome to others in this post.
+

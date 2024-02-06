@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I want to keep going. I want to have things to look forward to. But I don‚Äôt. I really don‚Äôt want to end it. It seems like the only option right now. Everyone has cut me off, and the few people that have noticed that I am not myself aren‚Äôt able to do anything to help me. Just living right now is painful. I have nothing left. I‚Äôm sorry to those that cared about me. I just can‚Äôt handle it anymore. I‚Äôm planning to be gone by the end of the night. I don‚Äôt know how or where, but I‚Äôm over it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of hopelessness, isolation, and a desire to end one's life, which align with the risk of perceived burdensomeness.
+

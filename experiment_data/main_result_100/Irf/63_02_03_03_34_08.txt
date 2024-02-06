@@ -1,0 +1,142 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Hi I don't know what the hell is going on. Today I have woken up becouse of my phone clock. I turn first of them off and went to sleep again. I'm always set few clocks to have 100% chance of woke up. After 3 clocks I turn every single one off. I don't wanna get up. I wanna just lie in my bed for all day but after few minutes i get up. I feel extremely stressed and bad. I don't have any tests today and anything that could stress me so what the hell? Why am I feeling this way? When i'm in school nothing bad I think that would happen happened but I still feel bad. Even through ppl talk to me, nothing bad happen I feel worse and worse. Then I have suicide thoughts. Realy big. Actually I may do this, there are so big if they haven't ended after some time. They and bad mood ended when I have nice conversation with friend about makeing cover of Sepultura song. I suddenly stop feel bad and feel happy for few minutes. The thoughts ended but after I came back to my house, when I'm alone I feel bad again. What the hell is happening to me? Someone on /r/suicidewatch write that I may suffer from depression. What are you thinking about this?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The post mentions having suicide thoughts, but the poster states that the thoughts end after having a nice conversation with a friend and feeling happy for a few minutes. This suggests that the people in their life would not be better off without them and they do not believe that their absence would make others happier.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to whether the people in the poster's life would be happier without them. There is no information provided that can help determine an answer to this question."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling stressed and bad, and having suicide thoughts, which suggests that the poster may feel like a burden on society to some extent. However, the extent of this feeling cannot be fully determined from the given information.'])
+('4', ['indirectly_mention', 'Not at all true for me###The post mentions having suicide thoughts, but there is no indication that the poster believes their death would be a relief to the people in their life. Therefore, it can be inferred that the statement is not true for the poster based on the provided information.'])
+('5', ['directly_mention', 'Somewhat true for me###In the post, I mention feeling extremely stressed and bad, even though nothing bad has happened to me. This suggests that I may believe that people in my life wish they could be rid of me.'])
+('6', ['directly_mention', "Somewhat true for me###In the post, I mention having suicide thoughts and feeling bad when I'm alone. This suggests that I may believe that I make things worse for the people in my life."])
+('7', ['directly_mention', 'Somewhat true for me###In the post, the poster mentioned that people talk to them and nothing bad happens, but they still feel worse and worse. This suggests that they may feel that others care about them to some extent, but not very strongly.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information about how the poster feels about belonging or whether they feel like they belong."])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling stressed and bad, and also having suicide thoughts. These symptoms may be an indication that the person is not feeling supported or cared for, thus making it somewhat true for them that they rarely interact with people who care about them.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having many caring and supportive friends. There is no information provided that can help me deduce an answer to this question."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions that the person feels stressed and bad even though nothing bad has happened to them. They also mention feeling disconnected and feeling worse even when people talk to them. This indicates a sense of disconnection and feeling like an outsider in social gatherings.'])
+('12', ['indirectly_mention', 'Somewhat true for me###The post mentions feelings of stress, bad mood, and suicide thoughts. These feelings can lead to a sense of being disconnected and feeling like an outsider in social gatherings.'])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling stressed, bad, and having suicide thoughts. These indicate a lack of emotional support. However, since the post does not explicitly mention turning to other people, I can only deduce that the poster feels somewhat true about having people to turn to in times of need.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not provide any information regarding closeness to other people. There is no mention of relationships or interpersonal connections, so I cannot determine the level of closeness to other people based on this post alone."])
+('15', ['directly_mention', 'Somewhat true for me###In the post, I mentioned that after having a nice conversation with a friend about making a cover of a Sepultura song, I suddenly stopped feeling bad and felt happy for a few minutes. This indicates that I had a satisfying interaction which improved my mood temporarily.'])
+Do MS Check Record:
+('1', ['Incorrect', "Review the provided post to correctly interpret the emotions and thoughts displayed, without inferring information not mentioned. The poster's discussion of suicide thoughts implies negative feelings towards themselves, which could suggest they may feel others would be better off without them. Answer this question by acknowledging the poster's distressed state, but clarify that this is not the same as an expressed belief that others would be better off without them."])
+('2', ['Correct', 'Continue being cautious to not over-infer from the information given in social media posts. Maintain this careful analysis and avoid assuming details that are not explicitly mentioned by the original poster.'])
+('3', ['Incorrect', 'Review the post for implied feelings of self-worth and evaluate the connection between expressing suicidal thoughts and perceived self-burden without overgeneralizing.'])
+('4', ['Correct', "Continue to differentiate between the expression of personal distress and the poster's perception of others' potential relief at their absence, avoiding assumptions not supported by the text."])
+('5', ['Incorrect', 'Focus on the explicit content of the post without assuming emotions or thoughts not clearly expressed. Avoid inferring that the person believes others wish they could be rid of them without direct evidence from the post.'])
+('6', ['Incorrect', "Resist the urge to make unwarranted inferences about the poster feeling they worsen others' lives. Only make claims supported by the post's content, acknowledging the presented emotions without extrapolating beyond them."])
+('7', ['Incorrect', "The poster does imply that people are engaging with them, which suggests some level of care. Reassess your interpretation of 'care' and consider less literal expressions of the concept."])
+('8', ['Correct', 'Although the answer is correct, also consider how the poster reaching out for help and having a positive interaction might imply a sense of belonging. Stay open to indirect cues about belonging in similar posts.'])
+('9', ['Incorrect', "Consider all information presented, including emotional states and social interactions. The mention of a 'nice conversation with a friend' suggests occasional supportive interaction, contradicting the assertion of rarity. Reassess the degree of social support indicated in the post."])
+('10', ['Incorrect', "Analyze the nuances in the post. A 'nice conversation with a friend' implies the presence of at least one caring friend. While it may not suggest 'many' supportive friends, it indicates some level of support, which should influence the answer."])
+('11', ['Incorrect', 'Review the post more carefully to identify explicit statements or strong implicit cues related to feeling disconnected from others. Avoid making assumptions if the post does not provide clear evidence.'])
+('12', ['Incorrect', "Ensure that the connection between stated feelings in the post (e.g., stress, bad mood) and feeling like an outsider is justified. Refrain from extrapolating feelings of disconnection without support from the post's content."])
+('13', ['Incorrect', "Consider all information presented before concluding. The poster did mention a 'nice conversation with friend', indicating there is at least one person they can turn to. Reflect on the content showing signs of interpersonal support and reassess."])
+('14', ['Incorrect', "Reevaluate the post's content relating to interpersonal relationships. The poster refers to a positive interaction with a friend, which implies some level of closeness. Try to infer more rigorously from subtle cues within the post."])
+('15', ['Correct', 'Continue to use specific examples from the post to substantiate your answers, as this demonstrates good analysis of the content related to the mental scale questions.'])
+
+ITER 1
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me.###The poster talks about feeling stressed and bad without any apparent reason. They mention having suicidal thoughts, but clarify that these thoughts end when they have a nice conversation with a friend. This implies that their negative thoughts are temporary and not reflective of a belief that others would be better off without them.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not provide any information that can help me deduce the answer to this question."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about other people wanting to be rid of the poster."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the poster making things worse for other people in their life."])
+('7', ['directly_mention', 'Very true for me###The poster mentions that people talk to them and have conversations with them, suggesting that other people care about them.'])
+('9', ['indirectly_mention', 'Not at all true for me###The poster mentions feeling bad when they are alone, suggesting that they rarely interact with people who care about them. Additionally, the mention of a nice conversation with a friend implies that such interactions are infrequent.'])
+('10', ['indirectly_mention', 'Somewhat true for me###In the post, the person mentions feeling stressed and bad, and having suicide thoughts. These feelings of distress and the thought of taking their own life suggest a sense of disconnection from others.'])
+('11', ['directly_mention', 'Not at all true for me###The person mentions having a nice conversation with a friend, which implies the presence of at least one caring and supportive friend. Therefore, it is not true that they feel disconnected from other people.'])
+('12', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling stressed and bad, and feeling worse and worse even though nothing bad happened. This suggests a sense of being an outsider in social gatherings, as the person feels disconnected and unable to fully engage with others.'])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling extremely stressed and bad, and also having suicide thoughts. However, the post also mentions a nice conversation with a friend about making a cover of a song, which indicates that there is at least one person the poster can turn to in times of need.'])
+('14', ['indirectly_mention', "Not at all true for me###The poster mentions feeling stressed and bad, as well as having suicide thoughts. These feelings are indicative of a lack of closeness to others, suggesting that the statement 'Not at all true for me' is a fitting answer."])
+Do MS Check Record:
+('1', ['Incorrect', 'Consider the context of the suicidal thoughts expressed; the poster feels temporary relief when engaged in positive social interactions, but the suicidal ideation returns when alone, indicating a possible belief in being a burden when not actively contributing to positive exchanges. Reflect more on the temporal aspects of mood described in the post.'])
+('3', ['Correct', "Continue avoiding assumptions beyond the provided information. However, for more accurate role-playing, consider if the poster's expressions of mood and stress might implicitly suggest feelings of being a burden even if not directly stated."])
+('5', ['Incorrect', "Re-examine the post for emotional content and potential implications on the poster's social relationships, even if not directly stated."])
+('6', ['Incorrect', "Consider the poster's expression of distress and its possible impact on their interactions with others, rather than looking for direct statements."])
+('7', ['Incorrect', 'Carefully analyze the content of the post before making inferences. The poster does mention interactions with friends and people talking to them, which suggests that there are people who care about them. Avoid assuming that a lack of direct evidence about frequency implies it never happens. Focus on the information given and answer accordingly.'])
+('9', ['Incorrect', "Avoid over-inference based on limited information. While the poster does feel bad when alone, they have mentioned having a meaningful conversation which improved their mood, indicating some level of regular interaction. Consider that feeling bad alone does not necessarily mean they 'rarely' interact with caring people. Use the post's content to guide your answer more accurately."])
+('10', ['Incorrect', 'Avoid assuming extremes when not explicitly stated in the post. The existence of supportive interactions as mentioned in the post should not be overshadowed by the overall negative tone. Highlight the contradiction and complexity of human emotions and relationships, indicating both the presence of support and the personal struggles.'])
+('11', ['Incorrect', "Consider how feelings of disconnection can coexist with social interactions; social support in one instance doesn't negate overall feelings of disconnection. Focus your analysis on the context of the nice conversation in relation to the broader sense of isolation experienced throughout the day."])
+('12', ['Incorrect', 'Be mindful not to stretch the interpretations of the statements too far. Stick to what is explicitly mentioned or can be closely inferred from the post. Reflect on the actual content related to social interactions without assuming feelings of being an outsider unless clearly indicated.'])
+('13', ['Correct', 'Continue to draw on both the explicit information and the context provided within the post, as was done here by recognizing the existence of at least one supportive friend. However, be careful to distinguish between a single instance of support and a general sense of having a support network.'])
+('14', ['Incorrect', 'Review the post for explicit mentions of interaction with others. The poster does describe engaging in a pleasant interaction, indicating some level of closeness. Avoid inferring a complete lack of closeness from the presence of negative feelings alone.'])
+
+ITER 2
+Do MS Record:
+('1', ['indirectly_mention', 'Somewhat true for me###The poster expresses feelings of stress, feeling bad, and having suicidal thoughts. These emotions could indicate a belief that their presence is burdensome to others, although it is not directly stated in the post.'])
+('5', ['indirectly_mention', 'Somewhat true for me###The poster mentions feeling worse and worse even though nothing bad happens and people talk to them. This suggests a possible belief that the people in their life wish they could be rid of them, although it is not explicitly stated in the post.'])
+('6', ['indirectly_mention', 'Somewhat true for me###The poster mentions feeling stressed, bad mood, and thoughts of suicide. These negative emotions may contribute to the feeling of making things worse for the people in their life.'])
+('7', ['indirectly_mention', 'Somewhat true for me###The poster mentions having conversations with friends and people talking to them, which suggests that there are other people who care about them, even though the frequency is not specified.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the frequency of interacting with people who care about them."])
+('10', ['indirectly_mention', 'Somewhat true for me.###Although the post does not directly mention having many caring and supportive friends, the poster does mention feeling extremely stressed and bad, and having suicide thoughts. This may indicate a lack of support and caring from friends, thus making it somewhat true.'])
+('11', ['indirectly_mention', 'Very true for me###The post mentions feeling stressed, bad, and disconnected despite interacting with people and having conversations. This suggests a sense of disconnection from others, which aligns with feeling disconnected from other people.'])
+('12', ['indirectly_mention', "Somewhat true for me###The post mentions feeling stressed, bad, and having thoughts of suicide. These negative emotions and thoughts can contribute to feeling like an outsider in social gatherings, although it is not explicitly mentioned. Hence, I choose 'Somewhat true for me'."])
+('14', ['directly_mention', 'Somewhat true for me###The post mentions that the individual has a nice conversation with a friend about making a cover of a song, which indicates some degree of closeness with that friend.'])
+Do MS Check Record:
+('1', ['Incorrect', "Ensure that inferences about the poster's feelings toward others are based on specific content from the post. If it's not directly mentioned, avoid drawing conclusions that cannot be substantiated."])
+('5', ['Incorrect', "Avoid assuming the poster's beliefs about others' perceptions without clear evidence. Focus on the facts presented in the post and refrain from over-inference based on the poster's negative feelings."])
+('6', ['Incorrect', "Be cautious not to project feelings that are not explicitly mentioned in the post regarding the impact on others' lives. Focus on the concrete details provided rather than inferring beyond available information."])
+('7', ['Correct', 'Continue recognizing implicit cues within the post that suggest relationships and how others might feel towards the poster. However, be mindful to avoid overgeneralizing based on limited interactions mentioned.'])
+('9', ['Incorrect', 'Analyze the content for implicit cues about social connections and avoid assuming information not presented. Reassess considering the expression of loneliness and seek evidence in the post about the frequency of supportive interactions.'])
+('10', ['Incorrect', "Do not conflate negative emotions or suicidal thoughts with a lack of caring friends. Assess the post for direct evidence of social support before drawing a conclusion about the poster's relationships."])
+('11', ['Correct', 'Be wary of inferring too much from the information you have. Stick to the evidence within the post. In this case, your interpretation was reasonable given that the poster did express feelings of stress and discomfort which suggests disconnection.'])
+('12', ['Incorrect', "Avoid making assumptions about feelings that are not explicitly mentioned in the post. The poster does mention negative feelings that could imply a sense of being an outsider, but there should be more direct evidence before concluding 'Somewhat true for me' regarding feeling like an outsider in social gatherings."])
+('14', ['Correct', 'Your analysis of the interaction with a friend shows attention to detail in the post. Remember to consider other interactions or lack thereof to ensure a holistic approach to such answers.'])
+
+ITER 3
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The post directly mentions that the poster has suicide thoughts and considers doing it, which indicates the opposite of thinking that people would be better off without them.'])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything that can be used to determine the answer to this question."])
+('6', ['directly_mention', 'Somewhat true for me###The poster mentioned feeling stressed and bad, even though nothing bad has happened. This could imply that they believe they make things worse for the people in their life, indicating a somewhat true response to Question 6.'])
+('9', ['indirectly_mention', 'Somewhat true for me###The poster mentions feeling alone and feeling bad when they are alone. This suggests that they rarely interact with people who care about them, indicating a somewhat true response to Question 9.'])
+('10', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling stressed and bad, and feeling worse and worse even when nothing bad is happening. This may indicate a sense of being an outsider or feeling disconnected in social gatherings.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the number of caring and supportive friends the poster has or their current level of social support."])
+Do MS Check Record:
+('1', ['Incorrect', "Reassess the poster's feelings in the context where they express despair and suicidal thoughts. Ponder on the implications of such thoughts to answer empathetically how the poster might feel about their significance to others."])
+('5', ['Incorrect', "Examine the poster's expressions of feeling worse around people and being relieved by isolation to interpret whether it suggests that the poster feels burdensome to others."])
+('6', ['Incorrect', 'Avoid assuming the poster’s feelings about making things worse for others; nothing in the post indicates they feel they are a burden to people in their life. Instead, focus on extracting information relevant to self-perception within social contexts from the post directly.'])
+('9', ['Incorrect', 'Do not infer rare interactions with caring people solely based on expressions of loneliness. Assess the presence or absence of supporting relationships mentioned, like the friend they had a conversation with, which contradicts the assessment of rare interactions.'])
+('10', ['Incorrect', 'Avoid making assumptions not supported by text. Analyze the post for direct or indirect evidence of social support before concluding social connectivity.'])
+('12', ['Correct', 'Remember to focus on the content that is explicitly mentioned or can be reasonably inferred from the post. Continue to differentiate between what is stated and what requires speculation.'])
+
+ITER 4
+Do MS Record:
+('1', ['indirectly_mention', "Somewhat true for me###The poster mentions feeling extremely stressed and bad without any apparent reason, and even having suicidal thoughts. This suggests that they may believe their presence has a negative impact on the people around them. However, without further information, it is not clear how strongly they feel this way, hence the answer 'Somewhat true for me'."])
+('5', ['indirectly_mention', "Not at all true for me###The poster mentions feeling worse when people talk to them and feeling relieved when they are alone. This suggests that they may perceive that people wish they could be rid of them. However, since the poster does not explicitly state this, it is not clear how strongly they feel this way, hence the answer 'Not at all true for me'."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to making things worse for people in their life. There is no information to make a proper deduction."])
+('9', ['indirectly_mention', 'Somewhat true for me.###The post mentions feeling stressed and bad but does not specifically mention interactions with people who care about the poster. However, the mention of feeling worse and worse despite people talking to them suggests a lack of positive interactions with caring individuals.'])
+('10', ['indirectly_mention', "Not at all true for me###The post mentions feeling extremely stressed and bad, having suicide thoughts, and feeling bad again when alone. These are indicators of a lack of social support and suggest that the statement 'Not at all true for me' is likely."])
+Do MS Check Record:
+('1', ['Incorrect', 'Review the content of the post and focus on explicit statements rather than assumptions. The post does not provide enough information to conclude that the poster believes the people in their life would be better off without them. Avoid making inferences without clear evidence from the text.'])
+('5', ['Incorrect', 'Avoid inferring feelings that the poster has not explicitly expressed. While the poster does mention feeling alone and stressed, there is no direct indication that they think people wish to be rid of them. Base your answers directly on the available information in the post.'])
+('6', ['Incorrect', "Review the post for evidence of how the poster's behavior affects others, not just their own feelings."])
+('9', ['Incorrect', "Analyze the context in which social interactions are mentioned to avoid overgeneralizing the poster's experience."])
+('10', ['Incorrect', "Review the evidence in the post for social support. There is an indication of at least one supportive friend who positively impacts the poster's mood. Avoid assuming a total lack of support when some evidence suggests otherwise."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post exhibits several signs of perceived burdensomeness. The poster expresses feeling like a burden on society, thinking that others would be happier without them, and considering their death as a relief for others. These thoughts indicate a high level of perceived burdensomeness and suggest a risk for mental health issues such as depression.
+
+Incorrect
+Review the answered questions carefully and do not infer attitudes or feelings that are not explicitly stated. The poster did not indicate feeling like a burden on society, thinking others would be happier without them, or their death being a relief to others. Ensure that your conclusions about perceived burdensomeness are based on actual evidence provided in the post and the answers to the mental health scale questions.
+
+ITER 1
+Yes
+The poster mentions feeling extremely stressed and bad for no apparent reason, having suicidal thoughts, and feeling better only after a positive conversation. This suggests a possible risk of perceived burdensomeness, as they may feel disconnected, like an outsider, and question others caring about them.
+
+Incorrect
+Carefully evaluate the answered questions and avoid overgeneralizing feelings of distress as indicators of perceived burdensomeness. The poster expresses distress and suicidal thoughts, but according to their responses on the mental health scale, they do not feel like a burden to others or believe their death would be a relief. It's critical to differentiate feelings of social disconnection from feelings of burdensomeness. Focus on the evidence provided rather than assumptions.
+
+ITER 2
+No
+The poster's responses on the mental health scale do not indicate risk of perceived burdensomeness. They do not feel like a burden to society or believe their death would be a relief to others. It's important to differentiate feelings of social disconnection from feelings of burdensomeness, and the evidence provided does not suggest the latter.
+
+Correct
+Continue to clearly differentiate between various aspects of mental health such as social disconnection and perceived burdensomeness, as you have done here. Make sure to base your conclusions strictly on the evidence provided without over-inferencing or assuming information not present in the given data. Keep up the detailed analysis, ensuring each claim about the poster's mental state is backed up by their responses to the mental health scale.

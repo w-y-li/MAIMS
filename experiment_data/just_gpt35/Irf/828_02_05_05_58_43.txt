@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  How do you talk to people about depression, either about your own or theirs? Do/don'ts?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show any immediate signs of risk of thwarted belongingness. The individual is seeking advice on how to effectively communicate and talk about depression with others, indicating a willingness to engage and connect with others on this topic.
+

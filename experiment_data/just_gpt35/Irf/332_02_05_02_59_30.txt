@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  **CLIFFS--** Was high on life, having good party times. Let it all get to my head, inflated my ego and created an image I wasn't able to maintain. Was pretending to be someone I wasn't. Had a nervous breakdown, sobering event, and lost all my confidence and now am filled with self loathing as if my life has peaked. Doctors diagnosed me with bipolar manic depression 8ish years ago. I tried some medication but didn't like it. Smoked weed to push my problems aside for many years and now they are coming back almost as strong as ever. I don't know how to get comfortable around my peers anymore. I feel like my facial expressions and personality are completely empty and Im having trouble finding myself. All this is making it really tough for me to open up in relationships, especially ones with females my age. Im 28 and its been 8 years since I've been in an intimate situation with a woman. The worst part is, I remember how things used to be. How confident and comfortable I was in my own skin. The attraction from girls I liked. I liked who I was. Now, all I can see is some sad lonely man whos trapped inside his own mind and overly self conscious. I cant stop beating myself up about it. When I look in the mirror, all I see is a sadder, older, uglier version of myself without the personality which got me all the girls in the first place  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of isolation, self-consciousness, and difficulty in connecting with peers and forming intimate relationships. These feelings are indicative of thwarted belongingness, which is a risk factor for mental health issues like depression and anxiety.
+

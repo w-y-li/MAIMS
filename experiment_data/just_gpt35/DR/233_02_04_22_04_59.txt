@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Do you ever feel like you can't do anything right and everyone secretly hates you? I've felt like that for as long as I can remember, and it feels like no matter how many times people tell me it's not true, I can't convince myself that I'm not a worthless waste of human existence and that everyone doesn't see me for the shitty person that I am. How can anyone else like me if I don't even like myself? I'll always be alone with only my parents caring about me because they feel obligated to and they probably don't think I could function without them. Even with them, I can barely function.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's feelings of worthlessness, self-doubt, and the belief that everyone hates them are indicative of depressive symptoms. They also express a lack of self-liking and difficulty functioning, which are common in depression.
+

@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Just found out my mum is pregnant. Advice on big age gaps between siblings would be appreciated. I have two younger sisters, and we're all really close in age (my youngest sister is 3 years younger than me), but I'm turning 20 this year. So this new baby will be 20 years younger than me. I'm not sure how to feel. My sisters and I are fairly close, and I'm worried that we won't be able to bond with our new sibling because of the huge age difference. We'll probably have all moved out in a few years (I've been planning on moving out this year) so we won't even get to have time to make those connections like we did with each other. It's just that it doesn't even feel real to me yet. Like if I was told that a relative or family friend was pregnant, not my own mother. If anyone has any advice or experience with something like this I would be really grateful to hear it. Thank you.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The post mentions feeling worried about not being able to bond with the new sibling due to the age difference, which indicates a potential sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post expresses concern about not having time to make connections with the new sibling, which could imply a sense of pessimism about the future.'])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to past failures."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of pleasure."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to guilt or punishment feelings."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to guilt or punishment feelings."])
+('7', ['directly_mention', 'I feel the same about myself as ever.###The post does mention the question of self-dislike. The poster states that they are worried about not being able to bond with their new sibling because of the huge age difference. This indicates a concern about their own ability to connect with the new family member, suggesting that they may feel the same about themselves as ever.'])
+('8', ['directly_mention', 'I do not criticize or blame myself more than usual.###The post directly mentions the question of self-accusations. The poster expresses worry about their ability to bond with the new sibling due to the age difference, but they do not attribute blame or criticize themselves for this situation, indicating that they do not engage in self-accusations more than usual.'])
+('9', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to suicidal thoughts or wishes."])
+('10', ['indirectly_mention', 'I cry more than I used to.###The post mentions feeling unsure and worried about bonding with the new sibling due to the age difference. This emotional distress may manifest as increased crying, indicating that the person cries more than they used to.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to agitation."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of interest."])
+('13', ['directly_mention', "I find it more difficult to make decisions than usual.###I mentioned that I'm not sure how to feel about my mum being pregnant, which suggests that I am indecisive about my emotions related to this situation."])
+('14', ['indirectly_mention', "I do not consider myself as worthwhile and useful as I used to.###Although I didn't explicitly mention feeling worthless, I expressed concern that my sisters and I won't be able to bond with the new sibling due to the age difference. This could indicate a negative perception of myself and my ability to connect with others, suggesting a decrease in self-worth compared to before."])
+('15', ['not_mention', "Doesn't mention at all.###The post doesn't provide any information related to loss of energy. The main topic is about the concern regarding the age gap between the poster and the new sibling."])
+('16', ['not_mention', "Doesn't mention at all.###The post doesn't mention any changes in sleeping pattern. The main focus is on the worry about bonding with the new sibling due to the significant age difference."])
+('17', ['indirectly_mention', "I am more irritable than usual.###The post mentions that the poster is unsure how to feel about the news of their mother's pregnancy. This uncertainty and worry may lead to increased irritability compared to their usual state."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information about changes in appetite, so it does not mention the question regarding appetite changes."])
+('19', ['indirectly_mention', 'I can not concentrate as well as usual.###The post mentions concerns about not being able to bond with the new sibling because of the huge age difference and the fact that they will probably have all moved out in a few years. This indicates potential distraction and worry which can impact concentration.'])
+('20', ['indirectly_mention', 'I get more tired or fatigued more easily than usual.###The post mentions feeling worried and unsure about how to feel regarding the big age gap with the new sibling. This emotional distress can lead to tiredness or fatigue.'])
+('21', ['indirectly_mention', "I have not noticed any recent change in interest in sex.###Although the post did not directly mention anything about the poster's interest in sex, there is no information provided that suggests any changes in their sexual interest. Thus, it can be inferred that the poster has not noticed any recent change in interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the questions of the mental scale indicate several symptoms of depression, such as feeling sad much of the time, feeling discouraged about the future, crying more than usual, finding it more difficult to make decisions, being more irritable than usual, and feeling less worthwhile and useful than before. These symptoms suggest a high likelihood of depression.
+

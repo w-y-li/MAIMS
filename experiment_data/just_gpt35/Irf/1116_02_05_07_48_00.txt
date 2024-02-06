@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Parents divorcing. Grandparents died some time ago. College going shit. Feeling depressed and sad all the time and when i'm talking to my friends about it they seem to ignore it and talk about something else. Please give me one reason not to end it all... :/  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of loneliness and isolation, as the individual mentions their parents divorcing, the death of their grandparents, and feeling ignored by their friends. These factors suggest a potential risk of thwarted belongingness, where the person may feel disconnected from others and lack a sense of support or belonging in their social relationships.
+

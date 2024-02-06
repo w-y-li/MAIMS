@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Hi... I'm 19 y.o., today around 23:00 I had a big fight with my mother, I made joke about her loud chewing and she flipped out...I walked away to my room and had anxiety attack while I listened to her crying in another room.... At midnight when we drinked champagne she didn't even looked me in the eye... Now I'm sitting in my room crying and listening how she wants to throw me out of the house, how she is screaming at my father... I just see one way out... I did nothing wrong, I didn't ment it wrong... I don't understand how it could turn into this... So I guess happy new year... I hope it's gonna be the last one....  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden and the desire to end their life, suggesting a risk of perceived burdensomeness.
+

@@ -1,0 +1,21 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Im afraid. The suicide scale is true. Its gets progressively worse and you dont even realize it. I was at 1 contemplating death and that was it. Now as i live i keep moving farther into the scale. Not existing is all i long for. Its all i think about. Its all i desire. Ive written 2 goodbye notes. I constantly open up the lid of pills and acting as if ill swallow them. Yesterday and today i have been making nooses with a thin belt and putting it around my neck. I squeeze so hard to simulate what its like. When i do i can feel the pressure in the top sides of my head. I can feel the rush and fear. I stopped giving a shit about everything and my attention is mainly death. Someone please comfort me. I am afraid.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's post indicates feelings of being a burden and thoughts of suicide. They mention contemplating death, longing for non-existence, writing goodbye notes, pretending to take pills, and making nooses. These thoughts and behaviors demonstrate a high risk of perceived burdensomeness.
+
+Incorrect
+Be cautious to differentiate between perceived burdensomeness and suicidal ideation. The post does show clear signs of suicidal ideation and a desire to no longer exist. However, there is no explicit mention of feeling like a burden to others, which is crucial for assessing perceived burdensomeness. Focus on the information given and avoid making assumptions beyond the provided evidence.
+
+ITER 1
+No
+The post does not mention feeling like a burden to others. It primarily focuses on the desire for nonexistence and engagement in suicidal ideation and behaviors.
+
+Correct
+Keep in mind to carefully evaluate the content of posts without inferring beyond the explicit information provided. Continue to focus on the specific elements that are mentioned, such as suicidal ideation, without assuming other symptoms or feelings not stated, such as perceived burdensomeness, unless clearly indicated.

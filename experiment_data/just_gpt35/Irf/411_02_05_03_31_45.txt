@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I thought everything was fine, we even had plans to hang out that day, she said she loved me, I said I loved her. Then that night she told me she couldn't be in a relationship with me. She left me in the dust with nothing. She was my best friends but also my only friend in my state since I moved. I have no one now and I feel like I lost a part of myself  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of loss, loneliness, and feeling like a part of oneself is missing after the sudden end of a significant relationship. This suggests a potential risk of perceived burdensomeness, as the individual may feel that their worth is diminished and they have no one else in their life.
+

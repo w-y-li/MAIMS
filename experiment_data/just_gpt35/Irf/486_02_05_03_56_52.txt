@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Any other late night r/depression browsers using reddit to avoid going to sleep because of the dread you feel for tomorrow? :)  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a potential risk of thwarted belongingness as the individual is using Reddit to avoid going to sleep due to the dread they feel for the following day. This suggests that they may be experiencing isolation or a lack of social support, leading to feelings of not belonging or feeling disconnected.
+

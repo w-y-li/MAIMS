@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I try so hard to feel happy. I really do. Ive tried the ‚Äúfake it till you make it‚Äù method and it hurts to keep going that way. I really dont know what to do anymore. I try telling my mom and she just says i need to stop thinking im depressed b/c im actually not. Which makes me feel pathetic. I try reaching out for help but when i do, they just make it about themselves and how selfish I am. I have an appointment tomorrow for a psychological evaluation and i am really nervous. Yes i have been diagnosed before and have taken medication. But i was already getting off most of them. And now im falling down again. I just want to get better. I want to feel genuinely happy.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the poster feels like a burden to others when they reach out for help, and that their mother dismisses their feelings of depression. This indicates a risk of perceived burdensomeness, as the individual may feel that they are burdening others with their emotional struggles.
+

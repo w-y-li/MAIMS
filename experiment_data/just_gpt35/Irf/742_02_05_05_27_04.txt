@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Hi all. A few months back I found I have anxiety and severe depression, still trying to find the right combo of meds and the right doctor. Anyway, I'm 21 and work with pastries, and just really need some new friends....  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the poster is feeling lonely and in need of new friends. This suggests a potential risk of thwarted belongingness, which is one of the key components of suicidal ideation and mental health issues.
+

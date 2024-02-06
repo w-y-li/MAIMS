@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Nothing aint fun nomore nothing excites me nomore nothing to look foward to nomore life aint fun nomore so whats the point of staying?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of emptiness, lack of excitement, and lack of purpose in life, which are indicators of potential thwarted belongingness. Thwarted belongingness is a psychological state characterized by a perceived lack of social connection and support, leading to feelings of isolation and a reduced sense of belonging. The poster's statement of 'nothing aint fun anymore' and 'nothing to look forward to anymore' suggests a loss of enjoyment and lack of motivation, which aligns with symptoms associated with thwarted belongingness.
+

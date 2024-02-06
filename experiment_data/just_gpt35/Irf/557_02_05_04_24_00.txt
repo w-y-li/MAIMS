@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I don't know what to do. It won't go unless I go. Been having suicidal thoughts on the daily. I want to leave this place I'm tired of it. Want to run away loose touch with everyone I know and vanish. WHY WON'T IT FUCKING STOP I'm slipping again, but this time it's for good. I want to fuck myself up to the point where I die. To the point where I've had enough. I'm fucking struggling man. I want to scream for help but doing so does nothing. I know that life is balanced with the good and the bad, I understand and accept that, but it's getting out of hand, I see no point in living. Tell me, what is the point of lving? To see your closest friends crumble to dust whilst your trying to stop your self from crumbling? To be given the answers on how to get better yet not being able to do them? I can't hack this life. I'm not even afraid of dying. I can't wait for the other side. I'm going to give myself a month.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of wanting to escape and run away, as well as thoughts of suicide and self-harm. These thoughts could be a manifestation of perceived burdensomeness, a belief that one's existence is a burden on others and that their problems will only be solved by their absence.
+

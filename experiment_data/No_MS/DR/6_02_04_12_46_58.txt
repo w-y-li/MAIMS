@@ -1,0 +1,21 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Anyone want to talk with me tonight? Just lonely, need to get out of my head.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's mention of feeling lonely and wanting to get out of their head suggests they may be experiencing symptoms of depression.
+
+Incorrect
+Avoid overgeneralizing based on limited information. The expression of loneliness and desire for conversation does not necessarily indicate depression. Consider alternative explanations and avoid diagnosing without sufficient evidence.
+
+ITER 1
+No
+The expression of loneliness and desire for conversation does not necessarily indicate depression. It is possible that the poster is simply feeling lonely and looking for someone to talk to, without meeting the diagnostic criteria for depression.
+
+Correct
+Continue to assess posts without jumping to conclusions based on limited information. Ensure to differentiate between temporary emotional states and clinical conditions. Keep focusing on the content provided and avoid overgeneralizing or diagnosing without sufficient evidence.

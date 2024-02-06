@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  So its currently 2 in the morning and i cant sleep-as per usual.My maths exam is in one day and i feel like i dont know anything.I dont want to go to school,but i also dont want to miss the lessons.Im having problems talking about how i feel with my friends and i feel like people are using me. I asked my parents if i could go to therapy,as i think that might help me cope with deppression and lonelyness,but i think im just getting desperate. My dad told me that he thinks therapy doesnt help and its entirely worthless.My mom says she will try and find me a psycologist but i think she is too embarrased to ask anyone. Im currently trying to stay positive but it just feels like im lying to everyone.If anyone even reads this what is your advice?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness, difficulty in expressing emotions to friends, and a sense of being used by others. These experiences suggest a risk of thwarted belongingness, which refers to a feeling of not belonging or lacking meaningful connections with others.
+

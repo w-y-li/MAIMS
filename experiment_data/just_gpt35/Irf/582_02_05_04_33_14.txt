@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Boom clickbait. What‚Äôs like ya know? The easiest quickest to kill yourself? Jumping off a building seems too cliche plus there‚Äôs the social awkwardness of getting past the secretary at a business building to get you to a top floor.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of isolation and a desire to find an easy and quick way to end one's life, which aligns with the concept of thwarted belongingness.
+

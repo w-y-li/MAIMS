@@ -1,0 +1,33 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Called my friends. They're all too busy Called my family. They're all too busy Nobody can be here for me. Just feel like shit and need a fucking hug. Hug my pillow and hope tomorrow is better  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Not at all true for me###The post mentions feeling like shit and needing a hug, which suggests a low mood. However, it doesn't imply that the people in their life would be better off without them."])
+('2', ['not_mention', "Doesn't mention at all.###The post doesn't provide any indication regarding whether the people in their life would be happier without them."])
+('3', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to feeling like a burden on society."])
+('4', ['indirectly_mention', "Somewhat true for me.###The post implies that the person is feeling alone and in need of support. This may suggest that they feel like a burden on others, even though they don't specifically mention it."])
+('5', ['indirectly_mention', "Somewhat true for me###The post suggests that the person feels like nobody can be there for them, which implies a sense of isolation and possibly a belief that people in their life may wish to be rid of them. However, since the post doesn't explicitly state this belief, I chose 'Somewhat true for me' instead of 'Very true for me'. "])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any indication or information about whether the person feels they make things worse for the people in their life. It solely focuses on their need for emotional support and feeling down. "])
+('7', ['not_mention', "Doesn't mention at all.###The post does not specify whether other people care about me or not. It only mentions that friends and family are not available, but it doesn't provide any information about how other people in general feel or care about me."])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information about whether the person feels like they belong or not. It mainly expresses a need for emotional support and feeling down, but it doesn't mention anything about belonging or a sense of connection."])
+('9', ['directly_mention', 'Very true for me###I say that nobody can be here for me, which implies that these days I rarely interact with people who care about me.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to having many caring and supportive friends."])
+('11', ['indirectly_mention', 'Somewhat true for me###Based on the description of feeling like shit and needing a hug, it suggests a state of emotional distress and a desire for comfort and support. This can be indicative of feeling disconnected from other people as one seeks solace in oneself or objects, such as hugging a pillow.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything about social gatherings, so there is no information to suggest feeling like an outsider in such situations."])
+('13', ['indirectly_mention', 'Somewhat true for me###The post implies that the person reached out to friends and family for support, but they were all too busy. This suggests that they normally rely on these people when they are in need, but currently, they are unavailable. Therefore, it can be inferred that there are usually people the person can turn to in times of need, but not in this particular situation.'])
+('14', ['indirectly_mention', 'Not at all true for me###The post suggests that the person is feeling alone and lacks support. They mention that nobody can be there for them and express a strong need for a hug. Therefore, it can be inferred that they do not feel close to other people at the moment.'])
+('15', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to having satisfying interactions every day."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being a burden to others, thinking that their death would be a relief to others, and believing that others wish they could be rid of them. These thoughts suggest a higher risk of perceived burdensomeness.
+

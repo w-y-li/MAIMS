@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I feel so bad for the way I am, I'm sorry, I truly am. It's been a long couple years and I've really tried, 4 therapists, so many medications, daily exercise, diet changes. For some reason something inside me wants me dead. I honestly just can't take anymore.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of isolation and loneliness, as well as expressing a desire to be dead. These are key indicators of thwarted belongingness, which refers to a perceived lack of social connectedness and support.
+

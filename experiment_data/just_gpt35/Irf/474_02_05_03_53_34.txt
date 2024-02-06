@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I just got better a little bit and now i drinking and crying nonstop what should i do beside cutting myself or drinking alcohol?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's mention of drinking and crying nonstop, as well as considering self-harming behaviors such as cutting and drinking alcohol, suggests feelings of intense emotional distress and a lack of support or connection with others. This indicates a potential risk of thwarted belongingness, which is a key factor in understanding suicidal ideation and self-destructive behaviors.
+

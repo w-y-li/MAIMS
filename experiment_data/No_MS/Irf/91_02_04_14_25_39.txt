@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I just don‚Äôt know why I don‚Äôt commit suicide and die Life is full of pain and misery I have done nothing wrong and I have tried so hard but i just cannot find the happiness that I deserve My Lord I ask you for nothing but my happiness  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of worthlessness, pain, and a desire for happiness. This indicates a possible risk of perceived burdensomeness, as the person feels unable to find happiness and may perceive themselves as a burden on others.
+
+Correct
+Ensure when assessing posts for perceived burdensomeness to look for explicit statements of feeling like a burden to others and not infer this from general expressions of distress unless clearly stated.

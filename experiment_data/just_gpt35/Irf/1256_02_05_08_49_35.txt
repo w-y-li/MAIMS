@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  How do I get over my depression? it all started when my ex left any tips?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's mention of their ex leaving and asking for tips to get over depression suggests a possible sense of loss, loneliness, and disconnection, which can be indicative of thwarted belongingness.
+

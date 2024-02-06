@@ -1,0 +1,114 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Feeling nostalgic? Does anyone else obsess over a point of time in their life when they felt like they were truly happy? For me the last time in my life when I felt like I was truly happy was 2013 and 2014 (mostly the summers) Ever since then life has changed so much. My depression got worse than ever. I spend so much time reminiscing on the good times because life is so crappy now. Does it ever get better again or what? I keep telling myself this is just a stage and things will get good again but it just seems to get worse. Nostalgia can be a great feeling but it’s killing me now knowing how good life once was.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###The post mentions that their depression has gotten worse, and they spend a lot of time reminiscing on the good times, indicating a persistent feeling of sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The post mentions that they keep telling themselves that this is just a stage and things will get good again, but it seems to get worse. This indicates a sense of discouragement about the future.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The poster mentions that their depression got worse and they spend a lot of time reminiscing on the good times. This suggests a sense of dissatisfaction with their current life and a comparison to a past time when they felt truly happy. However, the post does not directly mention failure, but the self-perception of not being as happy as they once were implies a belief of personal failure compared to the average person.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The poster explicitly mentions that ever since a specific period in their life (2013 and 2014), their depression got worse and life became crappy. This indicates a loss of pleasure in their current life compared to the past. Although the post does not directly mention the exact options provided for this question, the description of how life has changed and their longing for the good times suggests a decrease in enjoyment of activities they used to find pleasurable.'])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###The poster mentions that they spend a lot of time reminiscing on the good times and feeling nostalgic. This suggests that they may feel guilty for not being able to experience that level of happiness in their current life.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or hints related to punishment feelings."])
+('7', ['directly_mention', 'dislike myself###In the post, I mentioned that I spend so much time reminiscing on the good times because life is so crappy now. This suggests that I have a negative view of myself and dislike the current state of my life.'])
+('8', ['indirectly_mention', 'more self-critical or blaming than usual###Although the post does not explicitly mention self-accusations, it does indicate that my depression has worsened since the time when I felt truly happy. This suggests that I may be more self-critical or blaming myself for the negative changes in my life.'])
+('9', ['directly_mention', "I have thoughts of killing myself, but I would not carry them out.###The post mentions having depression and feeling nostalgic about a time when life was better. This indicates a level of emotional distress and dissatisfaction with the current state of life. Although the post doesn't specifically mention suicidal thoughts or wishes, the statement 'My depression got worse than ever' suggests that the individual has thoughts of killing themselves, although they do not intend to carry them out."])
+('10', ['indirectly_mention', "I cry more than I used to.###The post mentions feeling nostalgic and spending a lot of time reminiscing on the good times. This suggests that the individual may have heightened emotions and a sense of longing for happier times. While the post doesn't directly mention crying, the statement 'My depression got worse than ever' implies a significant emotional distress, which could be associated with increased crying."])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The post mentions feeling agitated and restless due to reminiscing on past happy times and the current state of life being crappy. This suggests a higher level of restlessness and agitation.'])
+('12', ['directly_mention', 'I have lost most of my interest in other people or things.###The post explicitly states that the person spends a lot of time reminiscing on the past and feels that life is now crappy. This indicates a loss of interest in current people and activities and a strong focus on past memories.'])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The poster mentions that their depression has gotten worse, which can impact decision-making abilities. They also express uncertainty about whether things will ever get better, which suggests difficulty in making decisions.'])
+('14', ['directly_mention', 'I do not consider myself as worthwhile and useful as I used to.###The poster mentions feeling nostalgic and reminiscing about the past when they were truly happy. This suggests a contrast between their current feelings of worthlessness and how they used to view themselves.'])
+('15', ['directly_mention', "I have less energy than I used to have.###The post mentions that the poster's depression has gotten worse. Depression often leads to a loss of energy, so it can be inferred that the poster has less energy than they used to have."])
+('16', ['directly_mention', 'I have not experienced any change in my sleeping pattern.###The post explicitly states that the poster spends a lot of time reminiscing on the good times, suggesting that their sleeping pattern has not been affected.'])
+('17', ['indirectly_mention', "I am more irritable than usual.###The post mentions that the poster's depression has gotten worse and they spend a lot of time reminiscing about the past. These can be indicators of increased irritability."])
+('18', ['indirectly_mention', "My appetite is somewhat less than usual.###The post indicates that the poster's depression has worsened, which can often lead to changes in appetite such as a decrease in desire for food."])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###The post mentions that the person spends a lot of time reminiscing on the good times, which implies difficulty in concentrating on present tasks.'])
+('20', ['directly_mention', "I am too tired or fatigued to do most of the things I used to do.###The post mentions that the person's depression got worse, and they feel tired and fatigued, which indicates a higher level of fatigue compared to before."])
+('21', ['indirectly_mention', "I am less interested in sex than I used to be.###The post mentions the person's depression, which can often lead to a decreased interest in sex. The poster also talks about how life has changed and become worse since 2013 and 2014, so it's likely that their interest in sex has also decreased during this time."])
+Do MS Check Record:
+('1', ['Correct', "Continue to use direct information from the post to determine the poster's current emotional state, while ensuring to avoid inferring emotions not explicitly expressed."])
+('2', ['Correct', "Maintain the use of both direct and indirect cues from the post to understand the poster's outlook, being careful not to attribute emotions or beliefs that aren't supported by the text."])
+('3', ['Correct', 'Ensure to maintain this level of careful reading of the posts. However, be cautious not to overstate feelings that are not explicitly mentioned, such as a sense of failure, unless the context of the post strongly implies it.'])
+('4', ['Correct', "Good job on inferring the loss of pleasure based on the poster's expression of not enjoying life as much anymore. Make sure to always look for explicit or strongly suggested feelings related to the mental scale questions before drawing a conclusion."])
+('5', ['Incorrect', 'Revisit the post and analyze if there are any subtle cues that the poster feels guilty about their current emotions or situation. Avoid forming assumptions not directly supported by the content.'])
+('6', ['Correct', 'Continue to not infer emotions or feelings that are not evident in the post. Maintain an objective approach to answering questions that are not mentioned.'])
+('7', ['Incorrect', 'Analyze the content more thoroughly for evidence of self-dislike without assuming. The post expresses unhappiness with life currently, not directly with the self.'])
+('8', ['Correct', 'Ensure to differentiate between general life dissatisfaction and direct self-accusations. In this case, recognizing the indirect indication of self-criticism is appropriate.'])
+('9', ['Incorrect', 'Avoid assuming thoughts or behaviors that are not explicitly stated in the post. Focus on the content provided and look for direct or indirect evidence that pertains to the question. Do not infer suicidal thoughts unless there is a clear indication.'])
+('10', ['Incorrect', "Refrain from inferring specific behaviors like crying without textual evidence. Use the information given to answer the question as accurately as possible, and avoid making assumptions about the poster's actions."])
+('11', ['Incorrect', 'Review the post and identify verifiable information before implying emotions like agitation. Avoid making assumptions not directly supported by the text.'])
+('12', ['Correct', 'Good job identifying loss of interest. Continue to look for explicit cues in the text to support your assessments while avoiding overgeneralizations.'])
+('13', ['Correct', 'Continue analyzing the implicit content of posts and linking them to psychological states appropriately. Remember the importance of context in interpreting statements related to mental scales.'])
+('14', ['Incorrect', 'Avoid assuming feelings of worthlessness solely based on nostalgia and the contrast with happier times. Look for more explicit expressions or indications of self-perceived worthlessness before drawing such conclusions.'])
+('15', ['Correct', 'Continue to connect the symptoms mentioned in the post with psychological concepts such as the link between depression and loss of energy, but ensure to clarify it as an inference when explicit details are not provided.'])
+('16', ['Incorrect', 'Avoid assuming details that are not present in the post. Reminiscing about the past does not directly indicate an unchanged sleeping pattern. Explore the possibility of changes in sleep related to depressive symptoms.'])
+('17', ['Incorrect', "Avoid assuming symptoms like irritability unless they are explicitly mentioned or strongly implied by the post's content. Focus on the information provided and avoid overgeneralizing or inferring too much from it."])
+('18', ['Incorrect', 'Do not project symptoms such as changes in appetite without clear evidence from the post. If the post does not directly reference eating habits, refrain from making assumptions about them.'])
+('19', ['Incorrect', 'Be cautious not to assume direct mention without explicit evidence in the post. Instead, infer concentration difficulties from observed behaviors, such as a preoccupation with the past, which may imply an impact on focusing on current tasks.'])
+('20', ['Correct', 'Continue to correlate emotional states with potential physical symptoms, such as fatigue, which can be a common consequence of depression, as described in the post.'])
+('21', ['Correct', 'Consider exploring other aspects of change mentioned in the post to strengthen your response, but avoid making unfounded inferences.'])
+
+ITER 1
+Do MS Record:
+('5', ['directly_mention', "I feel quite guilty most of the time.###The post mentions feeling guilty about the present circumstances, stating that life is 'crappy now' and that they spend a lot of time reminiscing about the good times. This suggests a sense of guilt or regret about the current state of their life."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not provide any information or clues related to self-dislike. It primarily focuses on feelings of nostalgia and depression, without expressing personal dislike or disappointment in oneself."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to suicidal thoughts or wishes."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to crying."])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The poster mentions having depression and feeling agitated, which suggests that they may feel more restless or wound up than usual.'])
+('14', ['indirectly_mention', 'I do not consider myself as worthwhile and useful as I used to.###The poster expresses feelings of nostalgia and laments how life has changed, which indicates a decrease in self-perceived worth. However, the post does not explicitly mention feeling utterly worthless.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in sleeping pattern."])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post mentions feeling depressed and experiencing a worsening of depression. While it does not explicitly mention irritability, irritability is often associated with depression and can be inferred from the context of the post.'])
+('18', ['indirectly_mention', 'I cannot concentrate as well as usual.###The post mentions that the individual spends a lot of time reminiscing on the good times and states that life is so crappy now. This preoccupation with the past and dissatisfaction with the present suggests difficulty in concentrating on current tasks.'])
+('19', ['not_mention', "Doesn't mention at all.###The post does not provide any information about changes in appetite. Therefore, I cannot make any deduction or provide an answer for this question."])
+Do MS Check Record:
+('5', ['Incorrect', 'While the post does discuss feeling worse over time, there is no specific mention of guilt. Be careful not to assume emotions that are not explicitly stated. Instead, focus on the emotions that are directly expressed or strongly implied by the content of the post.'])
+('7', ['Correct', 'Good observation. The post does not mention self-dislike. Continue to distinguish between explicitly stated feelings and those that are not mentioned. Avoid reading into the post emotions or traits that are not present.'])
+('9', ['Incorrect', 'Look deeper into the emotional context of the post. Depression can be associated with suicidal thoughts or wishes. Carefully analyze the sentiment behind the expressed emotions and consider the broader implications of the described feelings.'])
+('10', ['Incorrect', 'Consider that expressions of intense sadness and a longing for happier times could imply behaviors associated with such emotions, like crying. Assess the emotional tone of the post for potential cues that might indicate such behaviors.'])
+('11', ['Correct', 'Continue to apply careful analysis of the emotional states that can be indirectly inferred from posts. Ensure that you maintain an evidence-based approach to avoid overgeneralization and maintain accuracy in your assessments.'])
+('14', ['Correct', 'Well done on noting the difference between indirect statements and explicit expressions of worthlessness. Keep refining your skill to read between the lines without making unwarranted leaps in reasoning.'])
+('16', ['Incorrect', "The post does not explicitly provide information about changes in sleeping patterns. Avoid assumptions and focus solely on the information given. If a detail is not mentioned, it is safer to respond with 'no information' or 'not applicable'."])
+('17', ['Correct', "The inference that the poster's depression includes symptoms such as irritability is a reasonable one, given the context of the post. However, be cautious with inferences and make sure they are based on commonly associated symptoms of mentioned conditions."])
+('18', ['Incorrect', 'Revisit the post and assess it for any indirect signs that may suggest changes in appetite; the preoccupation with the past could potentially affect eating habits as a symptom of depression.'])
+('19', ['Correct', "Good job in not inferring information that isn't present in the post; continue to carefully analyze each post for relevant details before responding."])
+
+ITER 2
+Do MS Record:
+('5', ['indirectly_mention', 'I feel quite guilty most of the time.###While the post does not directly mention feeling guilty, the emphasis on the worsening depression and spending time reminiscing on the good times suggests a potential underlying feeling of guilt. Guilt is commonly associated with depression, and the constant focus on past happiness can indicate regret or guilt for not being able to recreate those joyful moments.'])
+('9', ['indirectly_mention', "I have thoughts of killing myself, but I would not carry them out.###The mention of worsening depression and feeling like life is so crappy now provides a strong indication of the person's emotional state. While they do not explicitly mention suicidal thoughts or wishes, the combination of depression and despair suggests that they may have thoughts of killing themselves. However, the language used indicates that they do not have immediate plans or intentions to follow through with these thoughts."])
+('10', ['indirectly_mention', "I cry more than I used to.###The post mentions that the person's depression has gotten worse since 2013 and 2014. The mention of feeling nostalgic and reminiscing on the good times may imply a sense of sadness and longing, which could lead to increased crying."])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information about changes in sleeping patterns."])
+('18', ['indirectly_mention', "My appetite is much less than before.###The post mentions that the person's depression has gotten worse and they spend a lot of time reminiscing about the good times. Changes in appetite, such as a decrease in appetite, can be a symptom of depression."])
+Do MS Check Record:
+('5', ['Incorrect', 'Review the original post for explicit mentions of guilt before inferring. Focus on the content provided and avoid making assumptions not supported by the text.'])
+('9', ['Incorrect', "Avoid diagnosing suicidal ideation without explicit evidence. Look for direct mentions or unequivocal signs in the post that align with the question's theme."])
+('10', ['Correct', 'Keep considering the implicit emotional content of posts when inferring behaviors related to those emotions, such as crying.'])
+('16', ['Correct', 'Continue to recognize when information is not present in a post and avoid making assumptions that are not supported by the content.'])
+('18', ['Correct', "Good analysis of the post's content regarding the poster's emotions and how these may affect physical symptoms such as changes in appetite. Just ensure not to overextend assumptions beyond what is suggested in the post."])
+
+ITER 3
+Do MS Record:
+('5', ['indirectly_mention', "###The post mentions 'my depression got worse than ever' which indicates some negative emotions. However, there is no explicit mention of guilt, so I cannot provide a specific answer."])
+('9', ['not_mention', "Doesn't mention at all.###There is no mention or hint regarding thoughts of killing myself in the post."])
+Do MS Check Record:
+('5', ['Incorrect', 'Revisit the post and consider the implicit emotional content. While there is no explicit mention of guilt, the feelings of nostalgia and worsening depression could be associated with guilt over perceived lost time or opportunities. Reflect on more subtle indications of emotional states.'])
+('9', ['Correct', 'Your answer is appropriate as there is no direct or indirect indication of suicidal thoughts in the post. Ensure to maintain this level of careful analysis without over-inferencing when evaluating posts.'])
+
+ITER 4
+Do MS Record:
+('5', ['indirectly_mention', "I feel guilty all of the time.###While the post doesn't explicitly mention guilt, the feeling of nostalgia and the mention of how life has changed and gotten worse may imply a sense of guilt over perceived lost opportunities or regrets about the past. The individual expresses spending a lot of time reminiscing on the good times, which could suggest feelings of guilt for not being able to recreate those happy moments."])
+Do MS Check Record:
+('5', ['Incorrect', 'Review the post and avoid inferring emotions or states that are not directly mentioned or reasonably implied. Assess whether feelings of guilt are explicitly stated or can be logically inferred from the content of the post, focusing on evidence within the text.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers on the mental scale indicate symptoms of depression, including feelings of sadness, pessimism, past failure, loss of pleasure, self-critical or blaming thoughts, increased crying, agitation, loss of interest, difficulty making decisions, worthlessness, decreased energy, increased irritability, decreased appetite, tiredness or fatigue, and decreased interest in sex. These symptoms align with the diagnostic criteria for depression.
+
+Correct
+Continue to analyze the provided evidence carefully without making assumptions beyond the available information. Ensure to differentiate between the perspective of the poster and others potentially mentioned in future posts.

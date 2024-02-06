@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I feel nothing. I feel emotionless. My friends think that my depression is me trying to be edgy. What great friends, right? I can't write anymore. I can't draw anymore. I've opened up to my family about this but all I got was a pat on the back and a  you'll be okay . I feel like not even opening up to anyone anymore. How do people do this? I feel like I'm wasting my life. I'm trying to make my parents proud but they act like I'm not even here. What am I doing? Everything seems pointless. It feels like there's no hope for me anymore. I've given up on myself and so has the world. And I know what you're thinking,  stop having a pity party. if you're so tired of feeling like this then do something about it . And I have. I've tried every thing anyone has ever told me about getting past this or at least trying to cope with it. I'm a lost cause. I just need something, anything. How do people do this? How do I get through this before I finally and totally give up on my life and end it? What's wrong with me?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of worthlessness, hopelessness, and a desire to give up on life, suggesting a risk of perceived burdensomeness.
+

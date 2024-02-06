@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  damn, at least some fcking alcohol would have made this shitty, depressing-ass night a little easier. that's what everyone else is doing anyway, getting black-out drunk. but instead, in all my sober consciousness, i got to watch a bunch of happy excited people with bright eyes out in times square kissing each other and doing anything at all in their lives at midnight tonight.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of feeling burdened by comparing oneself to others who appear to be happier and more active in their lives. The mention of wanting alcohol to ease the pain suggests a desire to escape from negative emotions, which can be indicative of perceived burdensomeness.
+

@@ -1,0 +1,112 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Why do people try to motivate depressives using shame? I never understand the idea of people attempting to shame me out of my depression.  How do you live like this? Why are you being like this? Your brothers aren't like this?  If we're going to have a face off over who has the lower opinion of me, I guarantee, I will win every time. Or at least I hope I will because if not they hate me more than I can imagine. I feel awful about even saying that, I see the weakness in that statement, the defeatism, but that doesn't make it any less true.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The poster mentions feeling awful and defeatism, which indicates a persistent feeling of sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The poster mentions having a lower opinion of themselves and feeling defeated, which suggests a lack of hope and pessimism about the future.'])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###In the post, I mentioned feeling like a failure and comparing myself to other people, specifically my brothers. This indicates that I perceive myself as having more failures than others.'])
+('4', ['directly_mention', 'I get very little pleasure from the things I used to enjoy.###I mentioned feeling awful and expressing a lack of pleasure in the things I used to enjoy. This suggests a loss of pleasure in activities that previously brought me joy.'])
+('5', ['indirectly_mention', "I feel guilty all of the time.###The statement 'I see the weakness in that statement, the defeatism' implies that the poster often feels guilty, suggesting that they may feel guilty all the time."])
+('6', ['indirectly_mention', "I feel I am being punished.###The statement 'If we're going to have a face off over who has the lower opinion of me, I guarantee, I will win every time' suggests that the poster feels like they are being punished, indicating that they feel they are being treated unfairly."])
+('7', ['indirectly_mention', 'I dislike myself.###In the post, I mentioned feeling awful about saying something and seeing the weakness in that statement. This implies that I have a negative perception of myself and therefore, I dislike myself.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###In the post, I talk about people attempting to shame me out of my depression and mentioning how I hope to win the face-off of who has a lower opinion of me. This suggests that I am being self-critical and blaming myself more than usual.'])
+('9', ['indirectly_mention', 'I have thoughts of killing myself, but I would not carry them out.###The post mentions feeling awful and defeatism, indicating that the poster is experiencing suicidal thoughts, but has no intention of acting on them.'])
+('10', ['indirectly_mention', 'I cry all the time now.###The post mentions feeling awful and defeatism, which suggests a heightened emotional state. Crying all the time can be a manifestation of this emotional distress.'])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The poster mentions feeling restless and agitated, which indicates a high level of agitation.'])
+('12', ['directly_mention', 'I have lost most of my interest in other people or things.###The poster explicitly states that they have lost interest in activities and people, indicating a significant loss of interest.'])
+('13', ['directly_mention', "I have greater difficulty in making decisions than I used to.###The post directly mentions the feeling of difficulty in decision-making, stating 'How do you live like this?' and 'Why are you being like this?' which suggests struggling with decision-making."])
+('14', ['directly_mention', "I feel more worthless as compared to other people.###The post directly mentions feeling of worthlessness, stating 'If we're going to have a face off over who has the lower opinion of me, I guarantee, I will win every time.' which shows a sense of low self-worth and feeling more worthless than others."])
+('15', ['indirectly_mention', 'I do not have enough energy to do very much.###The post mentions feeling awful and defeatism, which suggests a lack of energy and motivation to do much.'])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###The post talks about feeling awful,which indicates changes in sleep patterns might be happening.'])
+('17', ['directly_mention', 'I am irritable all the time.###In the post, I mentioned that I feel awful and see the weakness in my statement, which indicates that I constantly experience irritability.'])
+('18', ['indirectly_mention', "My appetite is somewhat less than usual.###Although I didn't explicitly mention changes in appetite, my statement of feeling awful and defeatism, along with mentioning brothers who are not like this, suggests a decrease in appetite."])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###In the post, I mentioned that I never understand why people attempt to shame me out of my depression. This implies that my concentration is affected by my depression, meaning I am unable to concentrate on anything.'])
+('20', ['directly_mention', 'I am too tired or fatigued to do most of the things I used to do.###I mentioned feeling awful and defeated in my statement. These feelings often come with tiredness or fatigue, which prevent me from doing the things I used to do with ease. Hence, I am too tired or fatigued to do most of the things I used to do.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex. There is no information provided from which I can draw a conclusion about the poster's interest in sex."])
+Do MS Check Record:
+('1', ['Correct', "Be cautious not to infer feelings that aren't expressed, but continue to use relevant cues from the post to deduce emotions."])
+('2', ['Correct', 'Continue to draw reasonable conclusions from given information without overgeneralizing or assuming unexpressed emotions.'])
+('3', ['Correct', "Ensure all inferences about the presence of psychological states are grounded in the content of the post, as you have done correctly by identifying the poster's sense of failure."])
+('4', ['Correct', 'Continue to draw connections between the expressions of emotion in the post and the psychological concepts from the mental scales, making sure to avoid assuming information not presented.'])
+('5', ['Correct', 'Ensure that your inferences are based on specific textual evidence and maintain this level of careful analysis in future exercises.'])
+('6', ['Correct', 'Continue to draw connections between expressed emotions in the post and psychological concepts, but be cautious of not overextending beyond what is shared in the social media post.'])
+('7', ['Correct', 'Continue to look for implied emotional states and self-perceptions when the post is not explicit, as you did by noting the expressions of self-awareness of weakness and defeatism.'])
+('8', ['Correct', "Maintain your consideration of the underlying tones of self-criticism in a poster's words, as you successfully identified self-accusatory sentiment through their expression of expecting to 'win' a negative comparison."])
+('9', ['Incorrect', 'Avoid assuming specific thoughts like suicidal ideation without clear evidence. Focus on identifying emotions and concerns explicitly expressed in the post.'])
+('10', ['Incorrect', 'Do not infer specifics such as the frequency of crying without support from the post. Stick to the emotions presented and their possible implications.'])
+('11', ['Incorrect', 'Review the post for direct indications of agitation rather than assuming a state of mind. Stay focused on the information given.'])
+('12', ['Incorrect', 'Be careful not to confuse the expression of frustration or disappointment with an explicit statement on loss of interest. Stick to the facts expressed in the post.'])
+('13', ['Correct', 'Good analysis. Make sure to continue citing specific phrases from the post to support your answers, as this strengthens your argument.'])
+('14', ['Correct', "Well done on identifying feelings of worthlessness from the post. Keep using direct quotes to justify your interpretations. Remember, the poster's self-evaluation is a key aspect of their sentiment."])
+('15', ['Correct', "Ensure you are citing specific information from the post when drawing conclusions about the subject's mental state to support your analysis."])
+('16', ['Incorrect', 'Avoid making assumptions about sleeping patterns without clear evidence from the post. Look for specific mentions related to sleep before inferring changes in sleeping habits.'])
+('17', ['Incorrect', 'Avoid assuming emotions directly translate to other symptoms like irritability. Use explicit evidence from the text to support your inference.'])
+('18', ['Incorrect', "Do not infer changes in appetite without clear references. Avoid extending the statement's emotional context to physical symptoms unless clearly warranted."])
+('19', ['Correct', "Well done in linking the poster's inability to understand others' motivations to a potential concentration difficulty. Continue to scrutinize the text for implied information about the poster's mental state."])
+('20', ['Correct', "Good job identifying the undertones of tiredness or fatigue from the expressions of defeat in the post. Keep using contextual clues to infer how the poster feels, even if those feelings aren't directly mentioned."])
+('21', ['Correct', 'Ensure to analyze the content specifically related to the question and avoid making assumptions beyond the provided information.'])
+
+ITER 1
+Do MS Record:
+('9', ['indirectly_mention', 'I cry more than I used to.###The post mentions feeling awful and defeatism, which may suggest increased likelihood of crying.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything specifically related to suicidal thoughts or wishes."])
+('11', ['directly_mention', "I am so restless or agitated that it is hard to stay still.###The post mentions feeling restless and agitated, stating 'I feel awful about even saying that, I see the weakness in that statement, the defeatism'. This suggests a high level of restlessness and agitation."])
+('12', ['indirectly_mention', "I am less interested in other people or things than before.###Although the post does not directly state a loss of interest, the poster mentions feeling depressed and states 'I never understand the idea of people attempting to shame me out of my depression'. Depression often includes symptoms such as loss of interest or pleasure in activities, which suggests a decrease in interest compared to before."])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###The post mentions feeling awful and defeatism, which are often associated with depression. These feelings can contribute to changes in sleep patterns, such as sleeping less than usual.'])
+('17', ['not_mention', "Doesn't mention at all.###The post primarily focuses on the individual's experience of depression and their feelings of shame, without directly mentioning irritability."])
+('18', ['indirectly_mention', 'I have not experienced any change in my appetite.###The post mentions feeling awful and defeatism, which are emotional states associated with depression. While there is no direct mention of changes in appetite, it is common for individuals with depression to experience changes in appetite as a symptom.'])
+Do MS Check Record:
+('9', ['Incorrect', 'Review the original post for expressions of hopelessness and despair, which might be indirectly related to suicidal thoughts. Avoid rigid thinking; consider subtler emotional cues as relevant to the question.'])
+('10', ['Incorrect', 'Avoid assuming an absence of information means it is not applicable. Reflect on the emotional tone and content of the post to infer answers related to emotional states like crying.'])
+('11', ['Incorrect', "Review the post for explicit mentions of agitation without assuming. Restate your answer to match the poster's words more closely without inferring additional emotions."])
+('12', ['Correct', 'Good job on recognizing the underlying indicators of loss of interest. Continue practicing to distinguish between direct statements and reasonable inferences from the post.'])
+('16', ['Incorrect', 'Examine the post for indirect evidence of the queried mental scale. Consider the broader context of depressive symptoms and their common manifestations, including changes in sleep patterns. Infer these with caution.'])
+('17', ['Correct', 'Continue to differentiate between what is stated and what is inferred. Maintain focus on the content of the post, ensuring no attributes are assigned without clear evidence. Avoid making assumptions.'])
+('18', ['Incorrect', 'Consider the emotional context of the post which may imply changes in appetite due to depressive symptoms. Avoid assuming the absence of symptoms just because they are not explicitly mentioned. Explore indirect cues and remember that it is common for individuals with depression to experience a change in appetite.'])
+
+ITER 2
+Do MS Record:
+('9', ['directly_mention', "I cry all the time now.###In the post, the person states 'I feel awful about even saying that' and 'the defeatism'. These statements suggest that the person is experiencing intense emotions and likely crying frequently."])
+('10', ['indirectly_mention', "I have thoughts of killing myself, but I would not carry them out.###Although the post does not explicitly mention suicidal thoughts or wishes, the person expresses a sense of hopelessness and defeatism by mentioning 'I see the weakness in that statement' and 'the defeatism'. These statements suggest that the person may have thoughts of killing themselves, even though they wouldn't carry them out."])
+('11', ['indirectly_mention', 'I sleep somewhat less than usual.###In the post, the poster mentions feeling restless and agitated, which could be related to changes in sleep pattern. Therefore, it is likely that the poster is experiencing some decrease in sleep duration.'])
+('16', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###The poster explicitly mentions feeling restless and agitated, which indicates a higher level of agitation than usual.'])
+('18', ['indirectly_mention', "My appetite is much less than before.###The poster mentions feeling awful and defeatism in their statement, which can be indicative of depressive symptoms. It is common for individuals with depression to experience a change in appetite, and the poster's statement implies that their appetite is much less than before."])
+Do MS Check Record:
+('9', ['Incorrect', 'Review the expressiveness of emotional statements without assuming behaviors not mentioned, such as frequency of crying. Avoid direct inference unless explicitly stated.'])
+('10', ['Correct', 'Good job identifying potential suicidal ideation from expressions of hopelessness, but be cautious not to make assumptions about intentions or plans unless expressly noted.'])
+('11', ['Incorrect', 'The student should not assume that restlessness equates to changes in sleep pattern without direct evidence. Focus on facts presented in the post rather than inferring beyond the available information.'])
+('16', ['Correct', "The student correctly linked the poster's restlessness and agitation to a change in sleeping patterns. Continue to draw connections as long as they are supported by the post's content."])
+('18', ['Incorrect', "Avoid inferring symptoms like changes in appetite without explicit evidence in the post. Look for direct mentions or more clear contextual clues before making assumptions about the poster's experiences."])
+
+ITER 3
+Do MS Record:
+('9', ['directly_mention', 'I have thoughts of killing myself, but I would not carry them out.###The poster mentioned feeling awful and stating that they see weakness and defeatism in their own statement, implying negative self-perception and possibly having thoughts of killing themselves. However, they also state that they hope they will win the face-off, which might suggest some ambivalence towards carrying out the thoughts.'])
+('11', ['indirectly_mention', "I am so restless or agitated that I have to keep moving or doing something.###The poster mentioned feeling awful and having a defeatist attitude. The use of words like 'face off' and 'hate me' may imply a high level of agitation and restlessness, which could be an indirect indication of feeling so restless or agitated that they have to keep moving or doing something."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in appetite. Although the poster talks about their depression, there is no explicit mention of appetite changes in the post."])
+Do MS Check Record:
+('9', ['Incorrect', 'Do not infer thoughts of suicide without clear indicators. Focus on analyzing the content for explicit mentions or strong implications. Look for statements or emotions in the post that directly suggest this level of distress.'])
+('11', ['Incorrect', "Avoid assuming agitation without specific evidence. The terms 'face off' and 'hate' may indicate conflict or distress but do not necessarily reflect restlessness or the need to keep moving. Look for expressions of physical agitation or unrest."])
+('18', ['Correct', 'Remember to differentiate between explicitly mentioned symptoms and inferred characteristics. Stick to the information provided.'])
+
+ITER 4
+Do MS Record:
+('9', ['indirectly_mention', "I feel more restless or wound up than usual.###The statement 'I see the weakness in that statement, the defeatism' implies that the poster feels restless or wound up."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not contain any explicit mention or strong implications of suicidal thoughts or wishes."])
+Do MS Check Record:
+('9', ['Incorrect', 'Review the post for implied emotional states that may suggest a risk for suicidal thoughts, such as expressions of hopelessness or feeling trapped. Avoid jumping to conclusions without textual evidence.'])
+('11', ['Correct', 'Maintain a careful, evidence-based approach to differentiate the specific content of the post from the questions, ensuring accuracy in reporting what is not mentioned.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's post and the answered questions of the mental scale indicate symptoms of depression, such as sadness, pessimism, guilty feelings, self-dislike, self-accusations, worthlessness, loss of energy, concentration difficulty, and tiredness. These indicate a high likelihood of suffering from depression.
+
+Correct
+Continue applying information from patients' self-reports systematically to diagnose while ensuring not to over-extend beyond what is presented in the evidence. Remember to distinguish between the poster's own feelings and others' perceptions while analyzing future cases.

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Its only been two days and i've fcked up so much already. Two days in and i'm already depressed as fck. I can already feel all the shit coming from this year. I fcking hate myself for being so fcking useless, fcking ugly and a fcking pussy. I want to just fcking disappear but im a fcking pussy and im afraid that even in my deathbed all these fcking people would still look at me with their disgusted fcking eyes.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post displays feelings of worthlessness, self-hatred, and a desire to disappear. These thoughts and emotions may indicate a risk of thwarted belongingness, as the poster expresses a fear of being looked at with disgust by others even in their deathbed.
+
+Correct
+Your analysis correctly assesses the risk of thwarted belongingness based on the poster's expression of self-directed negativity and perceptions of social alienation. Continue to practice discerning specific psychological concepts from provided information without overgeneralizing beyond the provided content.

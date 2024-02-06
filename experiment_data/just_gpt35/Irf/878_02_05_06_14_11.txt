@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I have completely isolated myself since I was 13. Im 18 now. Just stopped talking to the few friends i had. My whole life just fell before my eyes. I thought I was gonna have a good happy life, go to college, have a girlfriend by now and be having kids within a few years. I literally have only one friend. I gave up a long time ago. I forgot what happiness is, and the ability to have a social life. I have a social job but thats it - im so unhappy and hopeless. I feel like i have no options. I really want to have the life I always thought i would. More importantly, I want the motivation to have a normal life. But I dont know how to get it back. Please help me.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person has completely isolated themselves, has few friends, and feels lonely and unhappy. This suggests a lack of social connection and a potential risk of thwarted belongingness.
+

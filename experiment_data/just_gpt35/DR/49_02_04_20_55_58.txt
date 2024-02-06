@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Does anyone else get droopy face When i feel extra crap (half the time) my face and eyelids feel heavy. I'm sure it's the mood cos i don't get it when I'm feeling ok. I used to get my whole body feeling like that when i was super depressed...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling 'extra crap', having a heavy face and eyelids when feeling down, and experiencing a similar physical sensation in their body when super depressed. These symptoms suggest a connection between low mood and physical sensations, which align with the symptoms of depression.
+

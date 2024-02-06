@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  The thought of existing like this for the next 60-70 years is absolutely crushing  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a sense of feeling overwhelmed and crushed by the idea of existing for the next several decades. This suggests a risk of perceived burdensomeness, indicating a potential mental health problem
+

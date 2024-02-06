@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Today’s my birthday, and no one remembered. I wish I could skip today so I wouldn’t have to feel so terrible. No one ever notices me. I could never hold a candle to anyone else. I’m just going to go to sleep. Edit: I didn’t expect so many people to care about me and it honestly made me feel a lot better about myself today. Thank you so much for all the wishes.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's feelings of worthlessness, sadness, and desire to skip the day are indicative of depressive symptoms. Additionally, the feeling of not being noticed and comparing oneself negatively to others further supports the presence of depression.
+

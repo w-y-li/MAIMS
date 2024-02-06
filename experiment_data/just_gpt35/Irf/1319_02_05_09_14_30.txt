@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Whenever my girlfriend goes clubbing with her friends I get super anxious and depressed, I mean who‚Äôs gonna tell me if she does anything? Her? Her friends? No way. Does anyone else get this?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a high level of anxiety and concern about the partner's activities while clubbing. The poster expresses fear of not being informed about any potential infidelity or wrongdoing, indicating a possible perception of burdensomeness in the relationship.
+

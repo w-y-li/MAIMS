@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  And so, I have 5 years, 30 minutes till I kill myself. I don't like celebrating my birthday anymorex, not since I was 19. But I'm living with my parents and they insist on taking me for lunch tomorrow, with my grandma. I dont wanna go to school either. We'll be buying cake for me and another girl whose birthday was earlier this week but it makes me extremely anxious just to have ppl know it is my birthday because I just don't enjoy living anymore, I have no friends in this city, I isolate myself more and more everyday, and I feel that makes me look pathetic and sad before everyone's eyes. Only good thing, found put my mom bought some bluetooth earphones as my gift. I'm so fucking tired.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the poster feels isolated, lacks friends, and feels pathetic and sad before everyone's eyes. These feelings of isolation and lack of belongingness are indicative of a risk of thwarted belongingness.
+

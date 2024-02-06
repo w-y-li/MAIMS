@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Feeling nostalgic? Does anyone else obsess over a point of time in their life when they felt like they were truly happy? For me the last time in my life when I felt like I was truly happy was 2013 and 2014 (mostly the summers) Ever since then life has changed so much. My depression got worse than ever. I spend so much time reminiscing on the good times because life is so crappy now. Does it ever get better again or what? I keep telling myself this is just a stage and things will get good again but it just seems to get worse. Nostalgia can be a great feeling but it’s killing me now knowing how good life once was.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "I feel sad much of the time.###The post directly mentions feeling sad and mentions that the poster's depression has gotten worse."])
+('2', ['directly_mention', 'I feel discouraged about my future.###The post directly mentions feeling discouraged about the future and questioning if things will ever get better again.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The poster mentions that life has changed so much and their depression has gotten worse. This suggests that the poster may feel like they have failed more than others, as they are comparing their current state to a previous time when they felt happy.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The poster mentions spending a lot of time reminiscing on the good times and feeling nostalgic. This implies that they do not currently enjoy things as much as they used to, as they are longing for the past happiness.'])
+('5', ['directly_mention', 'I feel guilty a good part of the time.###The post states that the person spends a lot of time reminiscing on the good times and feeling nostalgic. This suggests that they may feel guilty for not being able to feel happiness in the present and dwelling on the past.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to punishment feelings, nor does it indicate any feelings of being punished."])
+('7', ['directly_mention', "I dislike myself.###The post explicitly states 'I dislike myself' in the sentence 'Nostalgia can be a great feeling but it’s killing me now knowing how good life once was.'"])
+('8', ['indirectly_mention', "I am more self-critical or blaming than usual.###The post mentions 'My depression got worse than ever' and 'I spend so much time reminiscing on the good times because life is so crappy now.' These statements indicate a higher level of self-criticism and self-blaming than usual."])
+('9', ['directly_mention', "I have thoughts of killing myself, but I would not carry them out.###The post mentions 'My depression got worse than ever.' This suggests that I am experiencing depressive symptoms which can include having thoughts of suicide but not intending to act on them."])
+('10', ['indirectly_mention', "I cry all the time now.###The post mentions 'life is so crappy now' and 'Nostalgia...it's killing me now'. These statements suggest that I am experiencing distress and sadness, which can be accompanied by increased crying."])
+('11', ['directly_mention', "I feel more restless or wound up than usual.###The post states that the person's depression has gotten worse, which can cause feelings of restlessness or agitation."])
+('12', ['directly_mention', "I have lost most of my interest in other people or things.###The post mentions that the person spends a lot of time reminiscing on the good times because life is currently 'crappy,' indicating a loss of interest in present activities and people."])
+('13', ['directly_mention', "I have greater difficulty in making decisions than I used to.###The post mentions 'Ever since then life has changed so much. My depression got worse than ever.' This implies that the person is experiencing significant changes in their life and their mental state, which could lead to greater difficulty in making decisions."])
+('14', ['indirectly_mention', "I feel more worthless as compared to other people.###Although the post does not directly mention worthlessness, the statement 'life is so crappy now' indicates a negative and unsatisfying perception of life. This suggests a decrease in self-esteem and a possible feeling of worthlessness compared to others."])
+('15', ['indirectly_mention', "I have less energy than I used to have.###The post mentions that the person's depression got worse, and they spend a lot of time reminiscing on the good times. This suggests a loss of energy as they are unable to engage in activities and feel drained."])
+('16', ['indirectly_mention', "I sleep somewhat less than usual.###The post states that the person's depression got worse, and they spend a lot of time reminiscing on the good times. This indicates that their sleep might be affected, resulting in sleeping somewhat less than usual."])
+('17', ['indirectly_mention', 'I am much more irritable than usual.###In the post, I mentioned that my depression got worse than ever. Depression often causes irritability, so it can be inferred that I am experiencing more irritability than usual.'])
+('18', ['indirectly_mention', 'My appetite is much less than before.###In the post, I mentioned that life has changed so much since 2013 and 2014, and my depression has worsened. Depression can often lead to changes in appetite, including a decrease in appetite. Therefore, it can be inferred that my appetite is much less than it used to be.'])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###The poster mentions that their depression got worse and they spend so much time reminiscing on the good times. This indicates a difficulty in concentrating on the present as they are constantly looking back at happier times.'])
+('20', ['directly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The poster mentions that life has changed so much since 2013-2014 and their depression has worsened. They also state that they feel tired and fatigued, indicating a decrease in energy levels. Additionally, they mention that life is crappy now, which implies a lack of motivation and energy to engage in activities that they used to enjoy.'])
+('21', ['indirectly_mention', "I am less interested in sex than I used to be.###The post mentions that the poster's depression got worse and they spend a lot of time reminiscing about the good times. Depression can often decrease one's interest in sex, so it is likely that the poster is less interested in sex now compared to the time they mentioned feeling truly happy in 2013 and 2014."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's answers to the mental scale questions indicate symptoms of depression, such as feeling sad much of the time, feeling discouraged about the future, not enjoying things as much as before, feeling guilty, self-dislike, being self-critical or blaming, having thoughts of killing oneself (without carrying them out), crying all the time, feeling restless or wound up, losing interest in people or things, difficulty in making decisions, feeling more worthless compared to others, having less energy, sleeping less, being much more irritable than usual, having much less appetite, difficulty in concentration, feeling tired or fatigued to do most things, and being less interested in sex. These symptoms suggest a depressive mood and the likelihood of depression.
+

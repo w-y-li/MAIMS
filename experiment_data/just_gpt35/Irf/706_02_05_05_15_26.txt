@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I‚Äôm 17, and I‚Äôve been feeling this way ever since I was 15. I have no friends, social anxiety and I‚Äôve been homeschooled since I was 5. And to top it all off, I have asperger‚Äôs syndrome. I‚Äôd give away everything I have just to have at least one real friend who understands me and just to be normal. My anxiety has gotten so bad that I can barely even go out anymore. I for some reason have a huge fear of kids around my age. I almost had a panic attack just for checking out my new college with my mum. I don‚Äôt think I‚Äôll ever make it there. I like a lot of stuff that I‚Äôm sure no one my age likes and I get angry at my relatives for no reason. I hate being a teen. Why do hormones exist? Why is everything so complicated? Why am I losing my mind? I never used to have to worry about any of this shit as a little kid. I wish I could go back in time and undo whatever the fuck it was that made me this way. I come from a good family, so it‚Äôs not family related. Only thing I do is isolate myself from the entire world + my family by just staying in my room playing games and watching videos. I can‚Äôt do anything else. The only thing keeping me alive is my family. I cry or feel like crying whenever I picture them looking in horror at me taking my life.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of isolation, social anxiety, and a desire for social connection. The poster expresses a strong desire for a friend who understands them, indicating a sense of not belonging. Additionally, the mention of a fear of kids around their age and difficulty going out suggests social discomfort and avoidance, which are indicators of thwarted belongingness.
+

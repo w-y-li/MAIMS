@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Hi, I'm new to all of this. It's been a bad day for my girlfriend. We've been together for almost a year. She has these times where it seems that shes just so out of it that she can't do anything and she wont talk to me about it. She just kind of shuts me and everything else off but I know shes trying her damnedest. She tells me she has an old soul and that as we are together longer it'll only get worse. (Like I'll see more and how bad it gets.) I want to make her feel so much better. I try to give her my EVERYTHING and I try to make it through the day and show her that the next day will be better but it just gets worse it seems like. I hate the place that shes in and I can't change it for the life of me. I know you can't get rid of depression and she'll always be with it. Shes told me that but I still want to try my everything in any way I can to make everyday a better one. I just need advice on how to do all of this because sometimes I feel like I'm not worthy of making her feel better. I feel like everything I do amounts to nothing. Please I need everyone's advice on how I can just make the best of what I can.... Thank you...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of not being worthy and feeling like everything they do amounts to nothing, which are indicators of perceived burdensomeness.
+

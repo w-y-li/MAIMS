@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Alright I‚Äôm done for real. I‚Äôm deleting this account. Sick of people ignoring me  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of frustration with people ignoring the individual, suggesting a feeling of being excluded or left out. This aligns with the concept of thwarted belongingness, which refers to a perceived lack of social connection and support, potentially increasing the risk for mental health concerns.
+

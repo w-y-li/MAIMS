@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  It feels like every other moment is spent worrying or being depressed, sometimes without a direct reason at all. I'll just start feeling terrible for no reason. Sometimes I have to ask myself,  Why am I feeling this way? Am I actually in any kind of danger?  And the vast majority of the time the answer is no. I'm already on meds, and yet I'm still so bad.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post expresses feelings of worrying, depression, and feeling terrible without a direct reason. This may indicate a sense of disconnection or alienation from others, which aligns with the concept of thwarted belongingness.
+

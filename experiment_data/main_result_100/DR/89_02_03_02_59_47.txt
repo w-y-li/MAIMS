@@ -1,0 +1,116 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  There is a big chance that I will become a millionaire in a year or 2 I got involved in Bitcoin 2 years ago, bought a lot when it was 500 600 dollars. And based on my bitcoin increasing from trading altcoins and the increasing value in general I believe I can seriously become a millionaire in a year or 2. I am depressed though. I want to figure out how I can reinvest that money. Not for the purpose to make more but how I can make other aspects of my life better. I'd really like to hear what people think. And also I don't really know how to feel about this. I think it's important to be humble and I never want that to change about me. But I am going to become very wealthy. I have a certain perspective on money. Money isn't evil, it is a resource. It's power, you can use it for good or bad. I want to become a billionaire. You can save and dramatically change 1,000s of peoples of lives with that amount of money. I'd rather have that power than someone who doesn't have that perspective. Does this make sense? I just feel this way about money. I feel like people think it's evil and pursuing money is evil. But you can do good things with money. And I want to do that. How should I feel and think about this? What do you think? I am going to have money and power but I don't know how to use it to help myself.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to sadness."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to pessimism."])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###The post mentions that the poster is depressed and wants to figure out how to reinvest money to make other aspects of their life better. This suggests a feeling of past failure and a desire to improve their current situation.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post mentions that the poster is depressed and unsure of how to feel about their future wealth. This uncertainty and lack of enjoyment suggests a possible loss of pleasure in the things they used to enjoy.'])
+('5', ['indirectly_mention', 'I do not feel guilty###The post mentions that the poster feels depressed, but there is no specific mention of feeling guilty. However, feeling guilty is not mentioned in relation to the topic of money or wealth, so I can infer that the poster does not feel guilty.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information or clues related to punishment feelings. There is no mention of feeling punished or expecting punishment, so it is not possible to make a deduction about the poster's punishment feelings based on the given information."])
+('7', ['indirectly_mention', 'I dislike myself.###The post mentions that the person is depressed and wants to figure out how they can make other aspects of their life better, indicating a potential self-dislike.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indications about self-accusations."])
+('9', ['indirectly_mention', 'I do not have any thoughts of killing myself.###The post mentions that the poster is depressed, but there is no mention of any thoughts or wishes of killing themselves.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to crying or changes in crying frequency."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to agitation. "])
+('12', ['indirectly_mention', 'I am less interested in other people or things than before.###The post states that the poster is depressed and wants to figure out how to make other aspects of their life better. This could suggest a decrease in interest in other people and activities.'])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post mentions that the person is depressed and wants to figure out how to reinvest the money. This indicates that they are struggling with decision-making, as they are unsure about how to proceed with their newfound wealth.'])
+('14', ['indirectly_mention', 'I feel more worthless as compared to other people.###The post expresses a conflict regarding the perception of money and pursuing wealth, suggesting a sense of worthlessness compared to others who may have different perspectives on money. This indicates that the person may feel inadequate or less valuable in relation to others based on their desire for wealth and the perceived negative attitudes towards it.'])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###In the post, I mention that I am depressed. Depression often comes with symptoms of low energy and fatigue, which indicates a loss of energy.'])
+('16', ['indirectly_mention', "I sleep somewhat less than usual.###I mentioned that I am depressed, and changes in sleeping patterns are common in individuals experiencing depression. Therefore, it is likely that my sleep is affected, although I didn't provide specific details about the changes."])
+('17', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to irritability."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in appetite."])
+('19', ['directly_mention', 'It is hard to keep my mind on anything for very long.###I mentioned that I am depressed and I want to figure out how I can reinvest my money to make other aspects of my life better. This suggests difficulty in concentration.'])
+('20', ['directly_mention', 'I am too tired or fatigued to do a lot of the things I used to do.###I mentioned that I am depressed and I want to figure out how I can reinvest my money to make other aspects of my life better. This suggests tiredness or fatigue.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+('1', ['Incorrect', "Review the post carefully to identify any expressions that may indicate feelings related to sadness. The statement 'I am depressed though' explicitly mentions a mood that is associated with sadness. Incorporate this into your analysis and response."])
+('2', ['Correct', 'Ensure that you are not inferring emotions or traits that are not evident in the post. The poster does not express pessimism; rather, they discuss future goals and intentions, which display a forward-looking and potentially optimistic perspective.'])
+('3', ['Incorrect', "Avoid assuming feelings of failure where there is no explicit evidence. Focus on what the post provides and consider the poster's stated beliefs and experiences. Reassess the connection between the poster's expression of depression and the concept of past failure without over-inference."])
+('4', ['Correct', 'Continue to draw inferences where relevant, but ensure they are grounded in the content of the post. The depression mentioned could be associated with anhedonia, a symptom characterized by the loss of pleasure, but always qualify your statements to show that they are interpretations and not facts.'])
+('5', ['Incorrect', 'Re-examine the post for implicit emotional content. The mention of depression might imply guilt about something, possibly linked to the feeling that pursing money could be considered evil by others. Explore the nuances of the emotional state being shared.'])
+('6', ['Correct', 'Good job on not inferring emotions that are not evidenced in the post. Continue to be cautious in not over-interpreting the content when it comes to emotions that have not been expressed or implied by the poster.'])
+('7', ['Incorrect', "Encourage thorough analysis of the post's content and emotional undertones. Consider the author's expression of wanting to improve their life and their acknowledgement of depression as indirect evidence of self-dislike. Avoid overlooking such cues."])
+('8', ['Correct', 'Good observation regarding the absence of explicit self-accusations in the post. Continue focusing on what is present in the text but remain open to implicit sentiments that may relate to the question.'])
+('9', ['Correct', 'Good work on being cautious not to infer beyond the post. Continue to carefully assess the content for any implied or explicit mention of relevant topics related to the mental scale questions.'])
+('10', ['Correct', "You've done well to recognize the absence of information about crying in the post. Keep focusing on the information that is actually provided and avoid making assumptions about unmentioned topics."])
+('11', ['Incorrect', 'Do not hastily conclude the absence of information. Carefully analyze the emotional content, such as the expressed depression, to infer related feelings like agitation.'])
+('12', ['Correct', 'Continue to carefully analyze the underlying emotional context and make inferences based on implicit information, like the expressed need to improve life aspects potentially indicating a loss of interest.'])
+('13', ['Incorrect', "Review the post carefully for explicit statements or clear implications about indecisiveness. Avoid making assumptions that are not directly supported by the content. Focus on the poster's own words about their feelings and decisions."])
+('14', ['Incorrect', "Avoid inferring worthlessness when the post does not express this sentiment directly. Instead, consider the poster's attitude towards wealth and the potential impact they wish to have, which reflects a sense of purpose and ambition rather than worthlessness."])
+('15', ['Correct', 'Continue to carefully analyze the implications of emotional states like depression on different aspects of functioning, connecting them to relevant symptoms such as loss of energy.'])
+('16', ['Correct', 'Keep considering the symptoms associated with psychological states mentioned in the posts. However, ensure that any inference about specific behaviors, like sleep patterns, is cautiously framed as hypothetical if not directly stated in the post.'])
+('17', ['Correct', "Good observation. Sometimes, posts will not contain explicit mentions of the mental scale question. It's key to avoid making assumptions without evidence."])
+('18', ['Correct', "Well done for not inferring information that isn't present in the post. Continue to analyze each post for specific details related to the questions."])
+('19', ['Incorrect', 'Assess the post more carefully for explicit mentions of concentration issues. The mention of depression and reinvestment is not sufficient to infer difficulty in concentration.'])
+('20', ['Incorrect', 'Do not assume symptoms like tiredness or fatigue based on a single statement about depression. Look for specific mentions or context suggesting a lack of energy.'])
+('21', ['Correct', "Ensure to always closely analyze posts for any implied or explicit mentions related to the questions before concluding. If a post does not provide information to answer a question, stating 'Doesn't mention at all' is appropriate."])
+
+ITER 1
+Do MS Record:
+('1', ['directly_mention', "I feel sad much of the time###The post explicitly states 'I am depressed though' which indicates a mood associated with sadness."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not provide any explicit information or indications regarding past failures."])
+('5', ['not_mention', "Doesn't mention at all.###"])
+('7', ['indirectly_mention', 'I feel guilty a good part of the time.###The post mentions feeling depressed, which could be linked to guilt about pursuing money and becoming wealthy, as some people may perceive this as evil. It suggests that the poster wants to figure out how to reinvest the money to improve other aspects of their life, which indicates some level of guilt tied to their financial success.'])
+('11', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The poster mentions feeling indecisive about how to reinvest the money and use it to improve their life. This implies a greater difficulty in making decisions than usual.'])
+('13', ['indirectly_mention', 'I feel more restless or wound up than usual.###The poster mentions feeling depressed and unsure about how to feel and think about their future wealth. These feelings of depression can often be accompanied by restlessness or agitation.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention feelings of worthlessness. The poster primarily expresses their ambition and desire to use their wealth for good purposes."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not directly or indirectly mention concentration difficulties. The mention of depression and reinvestment does not provide enough information to infer difficulties in concentration."])
+('20', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything about tiredness or fatigue. There is no specific mention or context suggesting a lack of energy."])
+Do MS Check Record:
+('1', ['Correct', 'Continue to reference specific phrases or sentiments from the post when answering related questions. Maintain the differentiation between feelings mentioned in the post and general assumptions.'])
+('3', ['Correct', 'Continue to avoid making inferences when the post does not provide information related to the question. Stay focused on the explicit content of the post.'])
+('5', ['Incorrect', 'Examine the content for explicit expressions of guilt; absence of such expressions means you should not infer guilt.'])
+('7', ['Incorrect', "Avoid assuming emotions not clearly stated; focus on the poster's explicit feelings about wealth and their intentions, rather than inferring self-dislike."])
+('11', ['Incorrect', "Review the original post for explicit statements related to agitation. Avoid drawing conclusions not directly supported by the content and focus on what is explicitly mentioned about the poster's emotional state."])
+('13', ['Incorrect', 'Carefully differentiate between restlessness and indecisiveness. The post mentions depression and a desire to use money positively, but does not clearly indicate feelings of restlessness. Anchor your responses to the information given.'])
+('14', ['Correct', 'Continue to evaluate the content of the post without making assumptions beyond the given information.'])
+('19', ['Correct', 'Maintain focus on direct information from the post and avoid inferring psychological states that are not clearly expressed.'])
+('20', ['Correct', 'Consider whether any implicit information might hint at symptoms related to the question, but in this case, your assessment is accurate as there is no explicit or implicit information about fatigue.'])
+
+ITER 2
+Do MS Record:
+('5', ['not_mention', "Doesn't mention at all.###The post does not contain any explicit expression of guilt."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not contain any explicit expression of self-dislike."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention or provide any information that can help deduce the answer to question 11 (agitation)."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention or provide any information that can help deduce the answer to question 13 (indecisiveness)."])
+Do MS Check Record:
+('5', ['Incorrect', "Review the post for emotional content related to guilt, such as the poster's feelings about becoming wealthy and their desire to remain humble. This could indicate an internal conflict that might manifest as guilt."])
+('7', ['Incorrect', "Consider the poster's expressions of depression and uncertainty about how to use money properly, as these could suggest underlying self-dislike or dissatisfaction. Reflect these sentiments in your answer."])
+('11', ['Incorrect', 'Review the post carefully for emotional cues and evidence of agitation, which may be inferred from expressions of distress or restlessness.'])
+('13', ['Incorrect', "Examine the poster's concerns and hesitation about how to reinvest and use money as a potential indicator of indecisiveness."])
+
+ITER 3
+Do MS Record:
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###The poster mentions being depressed, wanting to be humble, and feeling uncertain about how to use their money. These emotions could signify a sense of internal conflict and guilt.'])
+('7', ['indirectly_mention', 'I am disappointed in myself.###The poster expresses uncertainty about how to use their money to help themselves and mentions feeling depressed. These feelings might indicate self-dislike or dissatisfaction.'])
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###Although the post does not directly mention agitation, the poster does express feelings of depression and restlessness. This suggests that the poster may be experiencing increased agitation.'])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The poster mentions being unsure about how to reinvest and use the money, which indicates hesitation and difficulty in making decisions. This suggests that the poster may be experiencing increased indecisiveness.'])
+Do MS Check Record:
+('5', ['Incorrect', 'Avoid assuming emotions not directly expressed in the text. Focus on analyzing the content for explicit mentions or clear implications of guilt. In this case, the poster does not directly express feelings of guilt.'])
+('7', ['Incorrect', "Ensure that inferences about self-dislike are supported by the post. The poster exhibits concerns and desires for self-improvement, not necessarily self-dislike. Answer should be more aligned with the poster's expressed sentiments and concerns."])
+('11', ['Correct', 'Continue to look for subtle cues in the text that indicate the emotional state of the poster. Remember to balance your inferences with the explicit content provided.'])
+('13', ['Correct', 'Good job recognizing indirect expressions of indecisiveness. Be cautious not to over-interpret, but here the linkage is sensible. Keep focusing on relevant details in the post to support your conclusions.'])
+
+ITER 4
+Do MS Record:
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling guilty."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not indicate any self-dislike."])
+Do MS Check Record:
+('5', ['Correct', "Ensure to consider the presence or absence of implicit emotional states implied by the post's context, but in this case, there was no direct or indirect indication of guilty feelings, so your assessment was appropriate."])
+('7', ['Correct', 'You correctly identified that the post did not exhibit signs of self-dislike. Always remain vigilant for subtle cues that may suggest otherwise, but for this question, your analysis was accurate.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of sadness, loss of pleasure, restlessness, decreased interest in people or things, difficulty in making decisions, decreased energy, and changes in sleeping patterns, which are all indicative of symptoms of depression.
+
+Correct
+Your analysis correctly identifies several symptoms that align with depression, such as persistent sadness, loss of interest, agitation, and changes in sleep. However, remember to avoid overgeneralizing based on limited information. It is important to approach each case with a balance of clinical knowledge and an awareness of the individual's unique context. Given the evidence, your conclusion seems reasonable, but always consider the full breadth of information and the possibility of co-occurring conditions or alternative explanations for the behavior. Encourage individuals to seek professional assessment for an accurate diagnosis.

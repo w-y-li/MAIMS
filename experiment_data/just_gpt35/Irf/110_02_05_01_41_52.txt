@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I feel like garbage every night. I think,  Another day wasted doing absolutely nothing.  School is starting again soon and I don't know how I'm going to get through it. My grades have already been terrible this year, and I'm afraid I'm just going to make it worse. I have absolutely no motivation. Getting out of bed every day is a struggle. I hate myself so much. I have no friends. I think I've been depressed for almost 5 years, and I'm just recently realizing it's depression. My dad put me under the impression that I was just being lazy and useless. I'm only 17 and I already want to die. I see no purpose in going on anymore. I just need a close friend who I can talk to and have meaningful conversations with. The only friend I have is someone who I met online who lives soo far away from me. I look at him and wonder how he is so successful. He glorifies working hard, and I wish I had the same drive. I just want to cry, but I cant.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of loneliness and isolation, stating that they have no friends and desire a close friend to have meaningful conversations with. This indicates a potential risk of thwarted belongingness, as they feel disconnected and long for social connection and support.
+

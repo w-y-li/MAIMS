@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I feel so betrayed by people in my life I can't take it anymore I can't trust people I only had one true friend in my life and he was killed in front of me I ended up getting ptsd therapy isn't working anymore I feel alone my depression worse I just had two deaths in the family so there goes my support in my family it's all so dark I feel suppressed alone scared and weak I feel like I was just burned because every friend I try to be nice to treats me like dirt or lies and I catch them I would die tomorrow if it meant fixing my life so I could be happy again my entire life has been nothing but pain and torture emotionally I intend on ending my life tonight since no one seems to get how I feel or care  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong sense of betrayal, loneliness, and lack of trust in others. The poster mentions the loss of a true friend and recent deaths in the family, which further contributes to feelings of isolation and lack of support. The language used in the post also suggests a high level of emotional distress and thoughts of self-harm, indicating a potential risk of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Do you have an animal to help you with anxiety and depression? I have been finding myself gravitate towards wanting to get an animal to help myself with anxiety and depression. I have two boys ages 6 and 11 and I think an animal would do them well too, my youngest is the biggest animal lover ever and my oldest has always wanted one. Do you find them to help with your depression and anxiety? How do? And what do you own? Thanks.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of perceived burdensomeness. The poster is seeking advice and support regarding getting an animal to help with anxiety and depression, and mentions their children's desire for an animal as well.
+

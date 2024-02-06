@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I've taken the first step to getting help, but it seems that nowhere is taking new patients right now. The psychiatrists that are accepting appointments are booking several months out. Starting this process has been pretty nerve-wracking, and now it seems like I will never get help. This entire process seems impossible. Does anyone have advice for how to book my first appointment? Should I just bite the bullet and wait until April/May to be seen by someone?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of hopelessness and frustration due to difficulty in finding a psychiatrist who can provide timely help. The mention of the process seeming impossible indicates a sense of burden and despair.
+

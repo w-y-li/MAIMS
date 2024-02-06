@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I can't write about my depression because it is so much a part of me that it can't be explained. Or at least that's what it feels like. For starters, I haven't been diagnosed and I'm only 15. I have been living in this washed up state of grey for a few years now. I have sucessfully managed to push away all of my  friends , I have created this paralyzing reputation for myself as sad and apathetic and stupid and not hardworking and selfish. I haven't felt a positive emotion in so long and when I do it will go away within an hour. I cried for 45 minutes during class today and nobody even noticed and if they did they didn't find it strange or worrisome. It hurts inside to smile and I could never pretend to be happy because it would kill me. I am so stuck in all of this mental illness (that possibly could not even be real because I haven't been diagnosed or seen a doctor) I don't know why I'm writing or posting this, sorry.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a feeling of isolation and pushing away friends, which suggests a sense of thwarted belongingness.
+

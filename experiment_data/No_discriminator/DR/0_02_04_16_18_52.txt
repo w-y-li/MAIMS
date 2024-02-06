@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Dini ticaret haline getirenler  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about sadness or any related emotions."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything about pessimism or any related emotions."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to past failures or feeling like a failure as a person."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of pleasure or lack of enjoyment in activities."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not talk about guilt or punishment feelings, it is about a topic unrelated to mental scales."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not talk about guilt or punishment feelings, it is about a topic unrelated to mental scales."])
+('7', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to self-dislike or self-accusations."])
+('8', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to self-dislike or self-accusations."])
+('9', ['not_mention', "Doesn't mention at all.###"])
+('10', ['not_mention', "Doesn't mention at all.###"])
+('11', ['indirectly_mention', "I am so restless or agitated that it is hard to stay still.###The post mentions 'dini ticaret haline getirenler', which can be translated as 'those who turn religion into business'. This phrase implies that these people are driven or agitated by the pursuit of profit, suggesting a higher level of restlessness or agitation."])
+('12', ['indirectly_mention', "I have lost most of my interest in other people or things.###The post mentions 'dini ticaret haline getirenler', which can be translated as 'those who turn religion into business'. This phrase implies that these people have shifted their focus solely to profit-making, suggesting a significant loss of interest in other people or activities."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to indecisiveness."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to worthlessness."])
+('15', ['directly_mention', "I have less energy than I used to have.###The post mentions 'Dini ticaret haline getirenler,' which could imply that the poster is experiencing a significant change or stress in their life. This change may be contributing to a decrease in their energy levels."])
+('16', ['indirectly_mention', "I have not experienced any change in my sleeping pattern.###Although the post doesn't explicitly mention changes in sleeping pattern, the fact that the poster refers to 'Dini ticaret haline getirenler' suggests a topic related to religious commerce. This topic may not directly relate to sleep patterns, so it can be inferred that the poster's sleeping pattern remains unchanged."])
+('17', ['not_mention', "Doesn't mention at all.###The post does not provide any information or context related to irritability. It is not mentioned or implied in any way."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information or context related to changes in appetite. It is not mentioned or implied in any way."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention concentration difficulty nor tiredness or fatigue. It does not contain any relevant information that can help deduce an answer to these questions."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention concentration difficulty nor tiredness or fatigue. It does not contain any relevant information that can help deduce an answer to these questions."])
+('21', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to changes in interest in sex, nor does it provide any information that can help me deduce the answer to the question."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the answers provided for the mental scale questions, the poster indicates symptoms of restlessness/agitation, loss of interest in other people or things, and a decrease in energy. These symptoms, along with the absence of problems in other areas, suggest that the poster may be suffering from depression.
+

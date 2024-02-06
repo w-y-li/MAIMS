@@ -1,0 +1,143 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I feel sad for myself when I see a couple walking holding hands or kissing.. I don't want to feel that way.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'Not at all true for me###The post indicates that I feel sad for myself when I see couples, but it does not suggest that people in my life would be better off if I were gone.'])
+('2', ['directly_mention', "Somewhat true for me###The post expresses that I don't want to feel sad when seeing couples, which suggests that people in my life might be happier without me."])
+('3', ['indirectly_mention', "Not at all true for me###The post mentions feeling sad when seeing couples, but it does not directly indicate a feeling of being a burden on society or thinking about one's death. However, feeling sad in this context may imply a lack of self-worth or loneliness, which could indirectly relate to feeling like a burden on society or thinking about one's death. Hence, the feeling of sadness can indirectly suggest a lower sense of self-value and worth, which could lead to thoughts about being a burden on society or thinking that one's death would be a relief to others in their life."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not contain any direct or indirect mention of thinking that my death would be a relief to the people in my life. The focus of the post is on feeling sad when seeing couples, and there is no indication of considering one's death as a relief."])
+('5', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling sad when seeing a couple holding hands or kissing. This suggests a possible feeling of being unwanted or unloved, which could lead to the belief that people in their life wish they could be rid of them.'])
+('6', ['indirectly_mention', 'Somewhat true for me###The post indicates not wanting to feel sad when seeing couples, which implies that the person believes they make things worse for the people in their life.'])
+('7', ['indirectly_mention', 'Not at all true for me###The post expresses a feeling of sadness, which might imply a lack of feeling cared for or a sense of not belonging. Since the post mentions feeling sad when seeing couples in public, it indirectly suggests that other people might not care about the poster and that the poster might not feel like they belong.'])
+('8', ['indirectly_mention', 'Not at all true for me###The post mentions wanting to avoid feeling sad when seeing couples together. This implies that the poster does not feel like they belong or have a sense of connection to others, hence indicating a lack of feeling like they belong.'])
+('9', ['directly_mention', 'Somewhat true for me###I feel sad for myself when I see a couple walking holding hands or kissing, so it implies that I rarely interact with people who care about me.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to having caring and supportive friends."])
+('11', ['indirectly_mention', "Somewhat true for me###In the post, I mentioned feeling sad when seeing a couple holding hands or kissing. This suggests that I have some level of emotional disconnection or feelings of being left out. Although I didn't explicitly state feeling disconnected from other people or feeling like an outsider in social gatherings, my reaction to seeing couples could indicate that I feel disconnected and like an outsider in romantic relationships or social settings."])
+('12', ['directly_mention', 'Very true for me###In the post, I explicitly mentioned not wanting to feel sad when seeing a couple walking holding hands or kissing. This could suggest that I often feel like an outsider in social gatherings and experience a strong sense of disconnection from others.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not address feeling supported by other people and doesn't provide any information for answering this question."])
+('14', ['indirectly_mention', 'Somewhat true for me.###The post indicates that the poster feels sad when seeing couples, which suggests a longing for companionship. This suggests that they may have a desire to be closer to other people, but it is unclear how close they actually are to others in their current state.'])
+('15', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling sad when seeing a couple holding hands or kissing, which suggests a desire for satisfying interactions. Therefore, it is likely that the poster does have some satisfying interactions, but not every day and not to a very high degree.'])
+Do MS Check Record:
+('1', ['Incorrect', 'Review the content of the post for any indications of self-deprecation that might imply the poster believes others would be better off without them. Avoid assumptions unbacked by the post.'])
+('2', ['Incorrect', "Do not infer that someone's personal feelings of sadness when seeing couples suggests they believe others would be happier without them. Correlation between these sentiments is not clear from the post."])
+('3', ['Incorrect', 'Consider the underlying emotions expressed and how they may connect to broader feelings of self-worth. Avoid jumping to conclusions but explore potential subtle indications within the post.'])
+('4', ['Correct', 'Continue to distinguish between the explicit content of a post and assumptions that are not supported by the evidence presented. Remain cautious in inferring severe thoughts like a consideration of death unless directly indicated.'])
+('5', ['Incorrect', "Avoid making assumptions about the poster's relationships with others based on their feelings about couples. Focus on finding evidence within the post for feelings of causing burden or being unwanted."])
+('6', ['Incorrect', 'Do not infer that feeling sad about romance implies a negative impact on others. Look for direct expressions of guilt or burdening others in the post to answer such questions.'])
+('7', ['Incorrect', 'Avoid assuming that the expression of sadness implies a wider range of unmentioned feelings, such as being uncared for. Focus on what is explicitly stated and avoid overgeneralizing based on the sentiment expressed.'])
+('8', ['Incorrect', 'Do not infer a broad sense of belonging or connection based solely on sadness related to a specific situation. Distinguish between situational emotions and general feelings of belonging.'])
+('9', ['Incorrect', "Carefully analyze the post for any indirect clues about the poster's social interactions, rather than assuming the absence of information equates to a lack of social care. Avoid overgeneralization based on limited information."])
+('10', ['Correct', 'Continue to differentiate between the presence and absence of information when answering questions, ensuring that you do not infer details that are not suggested in the post.'])
+('11', ['Incorrect', 'Consider distinguishing between a specific emotional reaction to a situation (seeing a couple) and a more general state of disconnection from others. The post does not provide clear evidence of a general feeling of disconnection.'])
+('12', ['Incorrect', 'Refrain from making direct inferences about feeling like an outsider in all social gatherings based on the specific context of romantic situations. The post does not confirm feeling like an outsider in situations beyond observing couples.'])
+('13', ['Incorrect', 'Review the post and infer subtle cues about social support without assuming lack of mention equates to absence of insight.'])
+('14', ['Correct', 'Good inference on the longing for companionship; continue to look for indirect cues while avoiding assumptions without evidence.'])
+('15', ['Incorrect', 'Revisit the post and avoid assuming details not provided. Focus on what is explicitly mentioned—feeling sad upon seeing couples—which might indicate a lack of satisfying personal interactions, not necessarily daily ones. Be careful not to make inferences without support.'])
+
+ITER 1
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me###The poster expresses feeling sad when seeing a couple, which can indicate a longing for a romantic relationship rather than a belief that others would be better off without them.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not suggest that the people in the poster's life would be happier without them. The post only expresses the poster's own feelings of sadness when observing couples."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post expresses feeling sad when seeing couples, which suggests a sense of longing or desire for romantic connection. This feeling could possibly stem from feeling like a burden on society or fearing that people in their life wish they could be rid of them.'])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling like a burden on society or thinking that the people in their life wish they could be rid of them. It focuses on feeling sad when seeing couples and not wanting to feel that way."])
+('6', ['indirectly_mention', 'Not at all true for me###The post indicates feeling sad when seeing couples, but there is no mention of making things worse for others in my life. Therefore, I can infer that it is not true for me.'])
+('7', ['indirectly_mention', 'Not at all true for me###The post expresses feeling sad about witnessing romantic displays, but does not address how others care about me. Hence, I cannot make an accurate inference regarding whether other people care about me based solely on this post.'])
+('8', ['indirectly_mention', 'Not at all true for me###The post suggests feelings of sadness when seeing couples, which may indicate a lack of belonging or connection in romantic relationships. However, it does not provide any information about belonging in other aspects of life or general feelings of belonging.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not provide any information about the frequency of interactions with people who care about the poster. It solely focuses on the emotions experienced when seeing couples in romantic situations."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention feeling disconnected from other people."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention feeling like an outsider in social gatherings beyond observing couples."])
+('13', ['directly_mention', 'Somewhat true for me###The post mentions feeling sad for oneself when seeing couples, which could suggest a lack of satisfying personal interactions.'])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention having people to turn to in times of need."])
+Do MS Check Record:
+('1', ['Incorrect', "Carefully analyze the post for any subtle cues about the poster's view of their own worth to others. Avoid assuming that sadness due to lack of a relationship equates to feelings of being a burden."])
+('2', ['Correct', "Continue to differentiate between the expressed emotions about personal experiences and broader statements about the poster's perceived value to others."])
+('3', ['Incorrect', "Avoid assuming that feelings of sadness related to personal situations extend to broader social perceptions like being 'a burden on society'. Stick more closely to the information given in the post and be cautious not to overgeneralize based on limited information."])
+('5', ['Correct', 'Ensure to assess the content of the post accurately and avoid making inferences that are not supported by the text. Keep focusing on the emotions directly expressed within the post and continue to recognize when information is not mentioned.'])
+('6', ['Incorrect', "Do not assume the absence of information about affecting others' lives means it cannot be true. Consider contextual cues and potential implications about interpersonal relationships."])
+('7', ['Correct', 'Good job on not making assumptions beyond the information given in the post. However, be open to exploring indirect cues about social support in the content.'])
+('8', ['Incorrect', 'Avoid assuming a total absence of belonging based on a specific context; consider exploring whether other indicators of belonging are present outside the observed romantic context.'])
+('9', ['Correct', 'Continue to distinguish between mentioned and unmentioned information; avoid inferring details not provided in the post, but remain open to subtle cues that might imply an answer.'])
+('11', ['Incorrect', 'Consider the emotional content of the post, which reflects a sense of sadness related to social situations involving couples. Use this to infer a possible feeling of disconnection in similar social contexts.'])
+('12', ['Incorrect', 'Reflect on the sentiment expressed about feeling sad when observing intimate couple behavior; this may suggest a sense of isolation or feeling like an outsider in romantic social gatherings.'])
+('13', ['Incorrect', 'Analyze the emotions expressed in the post to infer the potential need or lack of supportive relationships, rather than assuming direct mention is required.'])
+('15', ['Incorrect', 'Examine the underlying emotions of the post to infer about daily interactions instead of dismissing it due to lack of explicit mention.'])
+
+ITER 2
+Do MS Record:
+('1', ['indirectly_mention', "Not at all true for me###The post mentions feeling sad when seeing couples, but it does not directly address the question of whether the people in the poster's life would be better off if they were gone. Based on the limited information provided, it would be an overgeneralization to assume that feeling sad about not being in a relationship equates to thoughts of self-worth or being a burden on others."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not address the question of whether the poster believes they are a burden on society. It focuses solely on the feeling of sadness when seeing couples and does not provide any information or context related to societal burden."])
+('6', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling sad when seeing couples, which suggests a sense of not belonging or feeling left out. This could lead to making things worse for people in their life as a result of these negative emotions.'])
+('8', ['indirectly_mention', 'Not at all true for me###The post expresses feeling sad and not wanting to feel that way when seeing couples. This implies a lack of feeling like they belong, which may contribute to a sense of not belonging.'])
+('11', ['indirectly_mention', 'Somewhat true for me###The post expresses sadness when seeing couples engaging in romantic behavior, which can indicate a feeling of disconnection from others.'])
+('12', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling sad when observing couples, which implies a sense of being an outsider in social gatherings involving romantic relationships.'])
+('13', ['indirectly_mention', 'Very true for me###The post expresses feeling sad when seeing couples holding hands or kissing, which suggests a desire for romantic connection and intimacy. This implies a potential need for supportive relationships, and therefore it is likely that the individual has people they can turn to in times of need.'])
+('15', ['indirectly_mention', "Not at all true for me###The post indicates feeling sad when observing romantic displays of affection. This suggests a lack of satisfying interactions and potentially limited positive social interactions in the individual's daily life."])
+Do MS Check Record:
+('1', ['Incorrect', 'Do not infer extremities from unrelated content; focus on what is specifically mentioned.'])
+('3', ['Correct', 'Continue to differentiate between mentioned topics and unrelated self-judgments.'])
+('6', ['Incorrect', 'Avoid assuming that feeling sad automatically leads to making things worse for others. Look for explicit indications of interpersonal impact before inferring this.'])
+('8', ['Correct', 'Continue to use the emotional tone of the post to infer related feelings, but be cautious not to overextend beyond what the information supports.'])
+('11', ['Correct', 'Continue to carefully analyze the post to infer psychological states that are not directly mentioned, without making assumptions beyond what is suggested.'])
+('12', ['Incorrect', 'Avoid equating the general feeling of sadness at seeing couples to feeling like an outsider in social gatherings, as this may not be a direct correlation. Stick closer to the information given.'])
+('13', ['Incorrect', 'Focus on the explicit content of the post without assuming facts not presented. Avoid inferring relationships or support systems when the information is not apparent.'])
+('15', ['Incorrect', 'Do not assume the absence of satisfying interactions based solely on an expression of sadness related to a specific trigger. Consider a more nuanced approach that does not overgeneralize from a single sentiment.'])
+
+ITER 3
+Do MS Record:
+('1', ['indirectly_mention', "Somewhat true for me###The post mentions feeling sad when seeing couples showing affection. This suggests a negative emotional state. Although the post doesn't directly state that the person believes others would be better off without them, feeling sad for oneself can indicate a lack of self-worth and potentially contribute to such thoughts."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information that can help me answer this question."])
+('12', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling sad when seeing a couple walking holding hands or kissing. This suggests a potential feeling of loneliness or being an outsider. While the post does not directly mention feeling like an outsider in social gatherings, it implies a sense of disconnection and longing for companionship, which can contribute to feeling like an outsider.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to having people to turn to in times of need."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to the frequency or satisfaction of daily interactions. It only expresses sadness in a specific context."])
+Do MS Check Record:
+('1', ['Incorrect', 'Consider the underlying emotions expressed in the post to infer potential thoughts. While direct evidence for the statement is not present, the expressed sadness may correlate with thoughts about self-worth. Avoid making assumptions, but explore the possibility that the sadness could extend to feelings about the self in relation to others.'])
+('6', ['Correct', 'Maintain objectivity and avoid inferring information not present in the post. If there is no explicit mention of the impact on others, refrain from filling in gaps without evidence. Continue to differentiate between your own interpretations and what the post actually conveys.'])
+('12', ['Correct', 'You made a reasonable inference based on the content of the post. Continue to carefully consider implied emotions and relationship dynamics when answering these types of questions.'])
+('13', ['Incorrect', 'Avoid making assumptions that are not supported by the content. While the post doesn’t directly reference support networks, it does express a feeling of sadness related to relationships, which could suggest an underlying need or desire for support. Consider the broader emotional context when answering questions like these.'])
+('15', ['Incorrect', "Review the post for emotional cues that may indirectly suggest the frequency and quality of social interactions. Avoid assuming information is absent just because it isn't explicitly mentioned. Consider how feelings of sadness in social situations could influence daily interactions."])
+
+ITER 4
+Do MS Record:
+('1', ['indirectly_mention', 'Somewhat true for me###The post expresses sadness and a desire to not feel a certain way when seeing couples. This suggests potential thoughts about self-worth and a possible belief that others are better off without the poster around.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to having people to turn to in times of need, so it cannot be inferred whether the statement is true or not."])
+('15', ['directly_mention', 'Not at all true for me###The post mentions feeling sad when seeing a couple walking holding hands or kissing, which suggests a lack of satisfying interactions every day.'])
+Do MS Check Record:
+('1', ['Incorrect', "Avoid assuming the post provides insight into feelings of self-worth or the impact of one's absence on others. Only infer from explicit content and context provided."])
+('13', ['Correct', 'Well done on not inferring information about social support that is not evident in the post. Continue focusing on the context given.'])
+('15', ['Incorrect', "Focus on the explicit content of the social media post without assuming it provides complete insight into the poster's daily experiences. Avoid jumping to conclusions and instead provide an answer that remains true to the information given."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's response to the questions of the mental scale indicates a high level of perceived burdensomeness. They often feel like they make things worse for the people in their life, believe that their death would be a relief to others, and feel disconnected from and like an outsider in social gatherings. This suggests that they may have a perception that they are a burden on society and that others wish they could be rid of them.
+
+Incorrect
+Review the answered questions carefully to avoid overstating responses that the individual did not actually indicate. Focus specifically on evidence from the subject's answers rather than on assumptions. The subject stated not feeling like they're a burden or problematic to others. Analyze the social connection responses more closely; perceived burdensomeness was not affirmed in their answers.
+
+ITER 1
+No
+The subject's answers do not indicate a risk of perceived burdensomeness. They stated that they do not think they are a burden on society or that their death would be a relief to others. Additionally, they did not endorse feeling disconnected from other people or feeling like an outsider in social gatherings.
+
+Incorrect
+Review the definitions of perceived burdensomeness and overgeneralization. Do not ignore the poster's expressions of not feeling like they belong or feeling disconnected, which can contribute to perceived burdensomeness.
+
+ITER 2
+Yes
+The post shows signs of perceived burdensomeness, as the poster expresses feeling sad and not wanting to feel that way when they see couples together. Additionally, the poster's responses on the mental scale indicate a lack of feeling cared about, a sense of disconnection from others, and feeling like an outsider in social gatherings, all of which contribute to perceived burdensomeness.
+
+Incorrect
+Review the scale answer responses and post content to distinguish between perceived burdensomeness and feelings of loneliness or social disconnection. The poster shows signs of feeling disconnected and lacking a sense of belonging, which is not indicative of perceived burdensomeness. Focus specifically on the provided answers to questions about being a burden; they indicate the poster does not see themselves as burdensome. Reevaluate the evidence before determining perceived burdensomeness.
+
+ITER 3
+No
+The post does not show signs of perceived burdensomeness based on the provided answers to the scale questions. The poster does not believe they are a burden on society, think their death would be a relief to others, or feel that the people in their life wish they could be rid of them. The feelings of sadness in response to seeing couples may indicate loneliness or a sense of disconnection, but it doesn't directly suggest perceived burdensomeness.
+
+Correct
+Continue to differentiate between feelings of sadness and perceived burdensomeness, and make sure that interpretations align with the direct answers provided from the mental health scale.

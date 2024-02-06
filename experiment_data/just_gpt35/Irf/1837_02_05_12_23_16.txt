@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  This is my first NYE being 21, and I'm sick as fuck. I have a terrible stomach flu and all I wanted was to go downtown in a nice outfit and do drinking things. But instead, I'm sick, I'm alone, I'm supposed to work tomorrow, I'm in hell. New Year's is the only holiday besides Halloween that I care about, and I'm suffering on it. I had such a nice plan to see a friend I haven't seen in months. We were going to go out with a group and come back to her place and smoke. I'm a very lowkey kind of person, but I was looking forward to not being myself on New Year's and going out and actually letting go and that's not happening. It's all just the icing on the shit cake that's been this month and especially this year.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates that the person is feeling burdened by their illness, being alone on New Year's, and having to work the next day. They express disappointment and frustration about not being able to enjoy the holiday as planned, which suggests a perception of burdensomeness.
+

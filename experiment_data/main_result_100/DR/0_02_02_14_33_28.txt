@@ -1,0 +1,94 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  Ancestry.com - is it safe? Hello!: ) I'm a new user so if this post ends up in a weird place/thread, pls bear w me. Has anyone used Ancestry.com lately? They offer a two week trial but still require your credit card information. Is this suspicious? It doesn't cost anything for the first two weeks, and then you can end the trial so you don't have to pay anything even then, but I just feel a little uncomfortable dialing my credit card information on there online.... Am I being too doubtfull? Share your experiences? Thank you! If my English isn't perfect, that's because I'm not a native speaker.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel discouraged about my future###The poster mentions feeling uncomfortable about providing credit card information online, which indicates a level of pessimism and concern about the future.'])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to sadness, so there is no information to answer this question."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention or provide any information related to past failures or feeling like a failure."])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention or provide any information related to loss of pleasure or enjoyment in activities."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to guilty feelings or punishment feelings."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to guilty feelings or punishment feelings."])
+('7', ['indirectly_mention', 'I feel the same about myself as ever.###Although the post does not directly mention self-dislike, the poster mentions feeling uncomfortable and doubtful about providing credit card information online. This suggests a lack of trust or confidence, which could indicate some level of self-dislike.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention self-accusations, nor does it provide any information that would allow for a deduction regarding self-accusations."])
+('9', ['directly_mention', 'I do not cry any more than usual.###The post mentions that the poster feels uncomfortable giving credit card information online, which does not indicate an increase in crying.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to suicidal thoughts or wishes."])
+('11', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything related to agitation or restlessness."])
+('12', ['directly_mention', 'I have not lost interest in other people or activities.###The post directly states that the user has not lost interest in other people or activities.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention or provide any information related to indecisiveness."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention or provide any information related to worthlessness."])
+('15', ['indirectly_mention', "I have less energy than I used to have.###The poster mentions feeling uncomfortable about inputting their credit card information online, which suggests a sense of worry or doubt. This could be an indicator of a decrease in energy, as the act of worrying can drain one's energy levels."])
+('16', ['indirectly_mention', 'I have not experienced any change in my sleeping pattern.###The poster does not mention anything particular about changes in their sleeping pattern. Therefore, it can be inferred that they have not experienced any change in their sleeping pattern as they do not express any concerns or observations regarding their sleep.'])
+('17', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to irritability or changes in appetite."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to irritability or changes in appetite."])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###The post mentions that the user feels uncomfortable giving their credit card information online, which suggests that they may have trouble concentrating on the task at hand or may feel distracted by doubts and concerns.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do a lot of the things I used to do.###The post mentions that the user feels uncomfortable dialing their credit card information online, which may indicate a lack of energy or motivation to engage in the trial or online activity, possibly due to fatigue or tiredness.'])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex. It focuses on concerns about Ancestry.com and credit card information."])
+Do MS Check Record:
+('1', ['Incorrect', "Consider the emotional context of the post. The expression of discomfort and doubt can be linked to a mild sense of anxiety or concern, rather than sadness. Analyze the words indicating emotions to make more accurate inferences about the poster's feelings."])
+('2', ['Correct', 'Good job on recognizing that the post does not directly indicate pessimism about broader life aspects. However, remain open to subtle cues in the text that may suggest more general attitudes or emotions of the poster.'])
+('3', ['Correct', 'Ensure to provide any contextual clues if available that might indirectly point to past failures, even when they are not explicitly mentioned.'])
+('4', ['Correct', 'Look for subtle cues in the post that could indicate changes in mood or pleasure, though remember that their absence means such inferences should not be made.'])
+('5', ['Correct', 'Keep focusing on what is explicitly mentioned in the post. If guilt feelings are not referenced, your approach is appropriate.'])
+('6', ['Correct', 'Good job on not inferring punishment feelings that are not indicated. Continue to assess only the information given.'])
+('7', ['Incorrect', 'Be cautious not to infer emotions or states that are not evident from the post. Focus on the actual content and do not introduce unrelated psychological concepts.'])
+('8', ['Correct', 'Good job identifying that the post does not mention self-accusations. Continue to be objective and base your answers strictly on the content provided in the post.'])
+('9', ['Incorrect', "Focus on the specific content of the post and avoid assumptions that are not based on any information given. The poster's discomfort with sharing credit card info does not directly correlate to having suicidal thoughts or wishes."])
+('10', ['Correct', 'Continue to base your answers strictly on the information provided in the social media post. There is no indication of crying behavior, so stating that the post does not mention it at all is appropriate.'])
+('11', ['Incorrect', "The response doesn't demonstrate analysis of the post's content concerning agitation. Review the post for emotional tone or concerns that might imply feelings of unrest or nervousness, then incorporate such insights into the answer."])
+('12', ['Incorrect', "The post does not mention a loss of interest; the student's conclusion is unsupported. Carefully differentiate between the specific details provided and inferences about the poster's experiences or feelings. Respond only to the content given."])
+('13', ['Correct', 'Good work on staying objective and not inferring indecisiveness from the post. Continue to focus on the information provided and do not make assumptions beyond it.'])
+('14', ['Correct', 'You correctly noted the post did not mention worthlessness. Remember to avoid over-inference and stick to what is explicitly stated or can be reasonably inferred from the post. Keep analyzing the content critically without adding subjective interpretations.'])
+('15', ['Incorrect', 'Avoid making assumptions not supported by the text. Focus on the content provided instead of inferring psychological states that are not directly related to the context.'])
+('16', ['Correct', 'Good job on not inferring information beyond what is presented. Continue to base your answers solely on the content that is explicitly mentioned or can be reasonably deduced.'])
+('17', ['Correct', 'Continue to analyze the content of the posts carefully for relevant information before deciding if a question can be answered.'])
+('18', ['Correct', 'Maintain an objective stance when analyzing the post. If information about a topic like changes in appetite is not present, stating that it is not mentioned is appropriate.'])
+('19', ['Incorrect', "Focus on the specific content of the post without inferring unmentioned issues like concentration difficulties. The post doesn't provide evidence for such issues, so stick to the information given."])
+('20', ['Incorrect', "Avoid assuming emotions or states such as tiredness or fatigue that aren't explicitly stated in the post. Your answer should reflect only the information the poster has provided."])
+('21', ['Correct', 'Your answer is accurate given the content of the post does not discuss sexual interest. Keep focusing on the information provided without making assumptions.'])
+
+ITER 1
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to sadness."])
+('7', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to self-dislike."])
+('9', ['directly_mention', "I don't have any thoughts of killing myself.###The post specifically mentions that the user is uncomfortable sharing credit card information online, which is unrelated to having suicidal thoughts or wishes."])
+('11', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about feeling restless or agitated."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of interest. The discussion is focused on concerns about Ancestry.com and the credit card information required."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to loss of energy. The discussion is primarily about the safety and discomfort of providing credit card information on Ancestry.com."])
+('19', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to concentration difficulty."])
+('20', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to tiredness or fatigue."])
+Do MS Check Record:
+('1', ['Incorrect', "Examine the tone and words used. The expressiveness, hesitancy, and concern about security could be signs of discomfort which can be associated with mild sadness or anxiety. Reflect on those aspects rather than stating it's not mentioned at all."])
+('7', ['Correct', 'Maintain the objectivity demonstrated here as the post indeed does not provide any basis to infer self-dislike. Continue to distinguish between direct information and assumptions.'])
+('9', ['Correct', "Good job on recognizing the post doesn't suggest suicidal thoughts; remember to carefully read and gauge content for any subtle cues related to mental health issues."])
+('11', ['Correct', 'Correctly noted the lack of agitation-related information; continue to approach each question with a nuanced understanding of the content and context of the post.'])
+('12', ['Correct', 'You accurately assessed that the post does not mention loss of interest. Keep focusing on the content when answering questions to remain objective and avoid assumptions.'])
+('15', ['Correct', 'Your interpretation that the post does not reference loss of energy is valid, as it only discusses concerns about online safety. Continue to analyze the given information without inferring beyond what is provided.'])
+('19', ['Correct', 'Continue to focus on the specifics of what is mentioned in a post and not infer beyond the provided information.'])
+('20', ['Correct', 'Keep up with the careful analysis of the content and avoid drawing conclusions not supported by the post.'])
+
+ITER 2
+Do MS Record:
+('1', ['indirectly_mention', 'I feel a little uncomfortable dialing my credit card information on there online.###The poster expresses discomfort and uneasiness about providing credit card information online, which can be associated with mild sadness or anxiety.'])
+Do MS Check Record:
+('1', ['Incorrect', 'Avoid inferring emotions not directly linked to the content. Focus only on the information given without adding assumptions.'])
+
+ITER 3
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to sadness. The focus is on the safety and doubts about using Ancestry.com."])
+Do MS Check Record:
+('1', ['Correct', "Remember, it's important to stay directly relevant to the content in the post. Avoid adding emotions or thoughts that are not clearly expressed by the original poster."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+Based on the answers provided, the poster does not exhibit symptoms of depression. They do not report any problems related to sadness, pessimism, past failure, loss of pleasure, guilty feelings, punishment feelings, self-dislike, self-accusations, suicidal thoughts or wishes, crying, agitation, loss of interest, indecisiveness, worthlessness, loss of energy, changes in sleeping pattern, irritability, changes in appetite, concentration difficulty, tiredness or fatigue, or changes in interest in sex.
+
+Correct
+Ensure to remain objective and base your conclusions strictly on the evidence provided without adding assumptions or inferences not supported by the data. Continue to differentiate between descriptions of the poster's behavior and that of others to avoid misattributing mental health issues.

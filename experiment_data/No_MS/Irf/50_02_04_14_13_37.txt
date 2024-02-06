@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  (48M) I've dealt with depression and suicidal thoughts for probably \~35 years now. I've been on pretty much all the different meds, had 2 rounds of TMS (30 sessions each), and have had therapy. Nothing has made me feel any better. I don't remember any other way to feel but sad, hopeless and suicidal. I don't know how much longer I can keep going on.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a long history of depression, suicidal thoughts, and unsuccessful treatment. The individual expresses feelings of sadness, hopelessness, and thoughts of suicide. These symptoms suggest a sense of disconnection and lack of belongingness, which may contribute to their elevated suicide risk.
+
+Correct
+Continue to carefully assess posts for indicators of mental health issues such as thwarted belongingness by identifying key phrases and feelings expressed by the poster. Remember to base your assessments on the information provided and avoid making assumptions beyond the evidence given in the post.

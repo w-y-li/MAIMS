@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Am I surrounding myself with people who will positively influence me? Am I going to be fucked over in this relationship like the one before? What's going to happen to me I almost don't really want to find out  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of isolation or disconnection as the individual questions whether they are surrounding themselves with positively influential people. Additionally, the fear of being hurt in a relationship and the reluctance to find out what will happen indicates a potential risk of thwarted belongingness, which refers to the perception that one does not have satisfying interpersonal relationships.
+

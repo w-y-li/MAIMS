@@ -1,0 +1,162 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  It sucks because a flaw about your personality can easily be fixed and I doubt it has a strong impact. Being reminded constantly of body flaws is the worse in my opinion because that can just ruin someone completely. It just hits you in the heart because that's what everyone views you as. What sucks even more is that, you can be confident in your own skin and as soon as someone points out a flaw, that thought stays with you forever and will never escape your mind. All these insecurities build up and it's just horrible.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'Not at all true for me###The post mentions insecurities and the impact of being constantly reminded of body flaws, which suggests that the person may have low self-esteem or negative thoughts about themselves. However, it does not directly address the question of whether the people in their life would be better off if they were gone. Based on the information given, it is possible that their insecurities and negative self-image contribute to feelings of self-doubt, but it does not specifically state that the people in their life would be better off without them.'])
+('2', ['indirectly_mention', 'Somewhat true for me###The post discusses the impact of being constantly reminded of body flaws and how it can ruin someone completely. This suggests that the person may have feelings of inadequacy and self-doubt, which could lead to the belief that the people in their life would be happier without them. However, the post does not directly state whether the people in their life would actually be happier without them. Therefore, it is only inferred that it may be somewhat true for the person based on their thoughts about the impact of their perceived flaws on their relationships.'])
+('3', ['indirectly_mention', "Not at all true for me###Although the post doesn't directly mention feeling like a burden on society, it does talk about insecurities and flaws in one's personality. This suggests the person may have negative thoughts about themselves and may be prone to self-criticism. Based on this, I would say that feeling like a burden on society is not true for me."])
+('4', ['indirectly_mention', "Not at all true for me###While the post doesn't explicitly mention thoughts of death as a relief to others, it does discuss insecurities and how flaws can impact someone's self-image. This suggests the person may have a low self-esteem but there is no indication of feeling like their death would be a relief to others. Therefore, I would answer 'Not at all true for me.'"])
+('5', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the question."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the question."])
+('7', ['directly_mention', "Somewhat true for me###The post mentions that being reminded constantly of body flaws can ruin someone completely. This suggests that other people's opinions can have a strong impact on me."])
+('8', ['not_mention', "Doesn't mention at all###The post does not provide any information about feeling like I belong, so it doesn't mention this question."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to interacting with people who care about me."])
+('10', ['directly_mention', 'Not at all true for me.###The post mentions the feeling of being reminded constantly of body flaws and how it can ruin someone completely. This indicates that the poster is likely not interacting with people who care about them.'])
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything that can be used to answer this question."])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything that can be used to answer this question."])
+('13', ['indirectly_mention', 'Very true for me###The post mentions feeling insecurities and the impact of negative perceptions from others. This suggests the need for support, which can be obtained from other people.'])
+('14', ['indirectly_mention', 'Somewhat true for me###The post talks about the impact of being reminded constantly of body flaws and how it can ruin someone. It implies a desire for closeness and support from others to counteract these negative experiences.'])
+('15', ['indirectly_mention', "Not at all true for me###Although the post doesn't directly mention having satisfying interactions, it does talk about insecurities and how negative comments can impact someone. This suggests that the person may not have satisfying interactions on a regular basis, which leads me to believe that the statement 'Not at all true for me' would likely reflect their experience."])
+Do MS Check Record:
+('1', ['Incorrect', 'Focus on the direct language of the original post; do not extrapolate or infer information that is not present. The original post expresses feelings of insecurity due to comments on physical appearance but does not connect these feelings to the idea of others being better off. Stick to the evidence provided.'])
+('2', ['Incorrect', "Avoid making assumptions about the poster's beliefs regarding how others in their life feel about them. The post discusses personal insecurities, but it does not link these with the happiness of others. Aim to discern between directly stated sentiments and hypothetical interpretations."])
+('3', ['Incorrect', "Assess the post's content more closely for any explicit or implicit information that relates to feeling like a 'burden on society'. Avoid making unwarranted inferences about self-criticism that are not supported by the content."])
+('4', ['Correct', 'Continue to differentiate between feeling insecure or self-conscious and having thoughts about death as a relief. Your analysis is grounded in the content of the post without making unfounded assumptions.'])
+('5', ['Incorrect', 'Analyze the emotions conveyed in the post such as feelings of insecurity and how these might affect social relationships. Reflect these emotions when interpreting how the poster may feel about their impact on others.'])
+('6', ['Incorrect', "Consider the poster's expressed insecurities and their potential viewpoint regarding self-worth. Answer by inferring how these insecurities might lead to feelings of being a burden to others."])
+('7', ['Correct', 'Cross-reference the emotional tone of the post with the mental scale question to ensure alignment. Keep on using the content to infer subtle cues about emotional states.'])
+('8', ['Incorrect', "Avoid absolutes like 'doesn't mention at all' if the post reveals any emotional states linked to social dynamics. Infer cautiously by connecting the effect of others' opinions on self-perception to the sense of belonging."])
+('9', ['Incorrect', 'Consider the emotional state the post reveals. Although it discusses feelings of insecurity, it does not address current social interactions. Avoid assumptions and focus on information provided.'])
+('10', ['Incorrect', 'Be cautious with direct inferences. The post discusses the impact of criticism on self-esteem, not necessarily the presence of supportive friends. Assess without adding information not present in the original post.'])
+('11', ['Incorrect', 'Analyze the emotional content of the post to infer about social connections. The feelings of insecurity and concern about being judged by others can suggest a sense of disconnection.'])
+('12', ['Incorrect', "Consider the implications of heightened sensitivity to others' perceptions when inferring about feelings in social situations. The expressed insecurities may lead to feeling like an outsider."])
+('13', ['Incorrect', 'Avoid assuming emotions or needs not explicitly mentioned in the post. Focus on what is directly stated about social support, rather than inferring it.'])
+('14', ['Incorrect', 'Do not imply a desire for closeness based on the content about body flaws. Directly refer to any expressions of social relationships or lack thereof.'])
+('15', ['Incorrect', 'Carefully analyze the post for explicit statements related to satisfying interactions. Avoid assumptions that may arise solely from discussions of insecurities. Focus on textually supported inferences.'])
+
+ITER 1
+Do MS Record:
+('1', ['not_mention', "Doesn't mention at all.###The post does not mention anything about whether the people in the poster's life would be better off if they were gone."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything about whether the people in the poster's life would be happier without them."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post mentions insecurities building up, which implies a negative self-perception that may align with feeling like a burden on society.'])
+('5', ['indirectly_mention', "Somewhat true for me###The post talks about being constantly reminded of body flaws and how it affects one's confidence. This can lead to a belief that people in their life wish they could be rid of them."])
+('6', ['directly_mention', 'Very true for me###The post mentions feeling constantly reminded of body flaws and how that can ruin someone completely. This suggests that the person may feel like they make things worse for the people in their life as they are constantly preoccupied with their flaws.'])
+('8', ['indirectly_mention', 'Somewhat true for me###The post discusses insecurities and how they can build up, which implies that the person may not feel a strong sense of belonging. The constant reminder of flaws and the impact it has on self-perception could contribute to the person feeling somewhat disconnected from others.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything about interacting with people who care about me."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention anything about having caring and supportive friends."])
+('11', ['indirectly_mention', "Somewhat true for me###The post expresses feelings of being constantly reminded of body flaws and how it can ruin someone completely. This suggests a heightened sensitivity to others' judgment and a potential sense of disconnection from other people."])
+('12', ['indirectly_mention', "Somewhat true for me###The post talks about being confident in one's own skin but as soon as someone points out a flaw, it stays with them forever. This implies feeling like an outsider in social gatherings due to the fear of being judged and the impact of constant reminders of flaws on one's self-perception."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything about turning to people in times of need."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything about being close to other people."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything about satisfying interactions. It focuses on flaws and insecurities, but there is no direct or indirect mention of satisfying interactions."])
+Do MS Check Record:
+('1', ['Incorrect', 'Revisit the post and focus on the emotional tone conveyed. The poster expresses feelings of being affected by flaws being pointed out, hinting at possible self-esteem issues. Use this to infer potential impacts on their perception of self-worth in relation to others.'])
+('2', ['Incorrect', "Analyze the underlying sentiments of the post, particularly the expression of insecurities and how they affect the poster. Although the post doesn't directly answer the question, you can infer how these insecurities might affect the poster's beliefs about their impact on others' happiness."])
+('3', ['Incorrect', 'Revisit the post and identify concrete evidence that speaks to the specific question. Avoid assuming emotions or beliefs not clearly expressed by the poster.'])
+('5', ['Incorrect', 'Focus on analyzing the specific content, avoid extending the scope beyond what the poster has communicated. Do not infer additional negative feelings without clear support from the post.'])
+('6', ['Incorrect', "Avoid assuming emotions not clearly stated in the post. Focus on what is directly mentioned, such as the impact of body flaws on self-perception, rather than inferring a broader impact on relationships with others. Use the post's content to guide your answer to the mental scale question without over extrapolating."])
+('8', ['Incorrect', 'Do not infer a sense of belonging or the lack thereof based solely on statements about personal insecurities. Look for explicit clues in the post regarding social connectedness or isolation. Instead of assuming feelings of belonging from insecurities, use direct evidence to support your answer.'])
+('9', ['Incorrect', 'Re-examine the post looking for any indirect implications about social interactions; focus on emotional context.'])
+('10', ['Incorrect', "Consider the emotional tone of the post and implications it may have on the poster's social relationships; don't overlook subtle cues."])
+('11', ['Correct', "Keep practicing empathetically placing yourself in the poster's mindset and considering the implicit emotional context present in the social media post as you have done successfully here."])
+('12', ['Correct', "Continue to identify the underlying emotions and potential social implications in the poster's message that relate to the mental scale questions, as you appropriately did in this case."])
+('13', ['Incorrect', 'Reflect on the emotional tone of the post and consider if the described insecurities might affect social support systems.'])
+('14', ['Incorrect', 'Analyze the implications of self-esteem issues on social connections, even if not explicitly mentioned.'])
+('15', ['Incorrect', 'Analyze the emotional tone of the post to infer the likelihood of satisfying daily interactions. The focus on flaws and insecurities may affect social engagement.'])
+
+ITER 2
+Do MS Record:
+('1', ['indirectly_mention', 'Somewhat true for me###Based on the emotional tone and expression of insecurities in the post, it suggests that the person may feel that their presence negatively impacts the people in their life to some extent. However, it is important to note that this is a subjective interpretation and may vary for each individual.'])
+('2', ['indirectly_mention', "Somewhat true for me###Although the post doesn't directly address the question, the mention of insecurities and the belief that flaws can ruin someone's self-perception hints at a potential belief that the people in their life would be happier without them. This inference is based on the underlying sentiments expressed in the post."])
+('3', ['indirectly_mention', 'Not at all true for me###In the post, the poster mentioned that being reminded constantly of body flaws is the worst and can ruin someone completely. This suggests that the poster may have insecurities about their physical appearance, but it does not provide clear evidence that they feel like a burden on society.'])
+('5', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indications about whether the people in the poster's life wish they could be rid of them. There is no mention or discussion about other people's feelings towards the poster."])
+('6', ['directly_mention', 'Not at all true for me###The post mentions feeling insecure about body flaws and how it can ruin someone completely. However, it does not mention anything about making things worse for people in their life.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not mention anything about feeling like I belong or not."])
+('9', ['directly_mention', 'Not at all true for me###The post mentions that being reminded constantly of body flaws can ruin someone completely, implying that the poster does not frequently interact with people who care about them.'])
+('10', ['indirectly_mention', "Somewhat true for me###The post talks about how insecurities build up and it's just horrible, which implies that the poster may not have many caring and supportive friends. However, the level of truthfulness is uncertain, so I chose 'Somewhat true for me' as the answer."])
+('13', ['indirectly_mention', 'Not at all true for me###The post mentions feeling constantly reminded of body flaws which can ruin someone completely. This implies that the person may not feel supported by others in times of need when it comes to dealing with body image insecurities.'])
+('14', ['directly_mention', "Not at all true for me###The post states that as soon as someone points out a flaw, the thought stays with you forever and will never escape your mind. This suggests a lack of closeness to other people as it affects the person's self-perception and confidence."])
+('15', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to having satisfying interactions on a daily basis."])
+Do MS Check Record:
+('1', ['Incorrect', "Be cautious of overgeneralizing emotions in a post to notions of self-worth or desire for non-existence. Stick to information provided, and avoid assuming the poster's beliefs about their impact on others' well-being unless explicitly mentioned."])
+('2', ['Incorrect', "Avoid inferring extreme feelings or consequences like 'people being happier without me' from expressions of insecurity. Distinguish between personal dissatisfaction with self and perceived satisfaction of others with one's existence."])
+('3', ['Incorrect', "Reexamine the post for any potential implications of being a burden, considering the feelings of insecurity and impact on one's perception."])
+('5', ['Correct', 'Continue to avoid over-inference and maintain a focus on the information provided in the post.'])
+('6', ['Incorrect', "Carefully consider the underlying emotions in the post which may hint at relational dynamics with others. Reflect on how feelings of insecurity can impact interactions with people in one's life and consider providing a nuanced answer that may not be explicitly mentioned in the post."])
+('8', ['Correct', 'Good observation on the post not mentioning a sense of belonging. However, elaborate subtly by inferring potential feelings of belonging related to body image issues and self-confidence as described in the post.'])
+('9', ['Incorrect', 'Avoid assumptions not supported by the text. Focus on analyzing the explicit content; do not infer a lack of social support without evidence.'])
+('10', ['Incorrect', 'Guard against negative bias and overgeneralization. Base answers on the specific context provided, not on assumptions about insecurities.'])
+('13', ['Incorrect', 'Avoid making assumptions about support systems based on body image concerns. Analyze the post for explicit indicators of social support or lack thereof before making interpretations.'])
+('14', ['Incorrect', 'Do not extend the impact of body image issues to assumptions about closeness with others without clear evidence. Look for specific mentions of relationships with others in the post.'])
+('15', ['Incorrect', 'Consider the emotional tone of the post to infer the likelihood of satisfying interactions rather than looking for explicit mentions.'])
+
+ITER 3
+Do MS Record:
+('1', ['indirectly_mention', "Not at all true for me###The post indirectly mentions the question by expressing feelings of being viewed negatively and being constantly reminded of flaws, which could lead to thoughts of being better off gone. However, it is important to note that these are just perceptions and not necessarily a reflection of the reality of the impact on others' lives."])
+('2', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to the question of whether people in the poster's life would be happier without them."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post discusses insecurities, feeling like a burden on society can be a part of those insecurities.'])
+('6', ['indirectly_mention', 'Somewhat true for me###The post mentions being reminded constantly of body flaws and states that it can ruin someone completely. Feeling like you make things worse for people in your life can be related to the insecurities mentioned in the post.'])
+('9', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything about interacting with people who care about me."])
+('10', ['indirectly_mention', 'Somewhat true for me.###The post talks about being reminded constantly of body flaws and how it can ruin someone completely. This suggests that the person may not have many caring and supportive friends.'])
+('13', ['indirectly_mention', 'Not at all true for me###The post mentions feeling constantly reminded of body flaws, which can ruin someone completely. This suggests a lack of support or people to turn to in times of need.'])
+('14', ['indirectly_mention', "Not at all true for me###The post emphasizes the negative impact of insecurities and mentions how being confident in one's own skin can be shattered by someone pointing out a flaw. This implies a lack of closeness to others."])
+('15', ['indirectly_mention', 'Not at all true for me###The poster talks about insecurities and negative self-perception, which suggests that the person may not have satisfying interactions on a daily basis.'])
+Do MS Check Record:
+('1', ['Incorrect', "Avoid assuming that expressions of self-insecurity automatically equate to thoughts of worthlessness or a desire to be absent from others' lives. Focus on what is explicitly stated and explore the implications without adding assumptions."])
+('2', ['Correct', "Good attention to the absence of direct mention regarding the impact on others' happiness in the post. Continue to differentiate between the poster's feelings about themselves and assumptions about others' feelings."])
+('3', ['Incorrect', 'Focus on the specific content of the post without assuming or extrapolating feelings not explicitly stated. The post refers to insecurities related to body image, not necessarily being a burden on society.'])
+('6', ['Incorrect', 'Avoid inferring feelings or thoughts that are not clearly connected to the content of the post. The post talks about body flaws affecting self-perception, not about causing harm or worsening the lives of others.'])
+('9', ['Incorrect', 'Avoid assuming the post contains no relevant information. Look for clues about emotions or attitudes that could relate to interactions with others. The mention of insecurities suggests the possibility of needing support, which should influence your inference about interactions.'])
+('10', ['Incorrect', "Be cautious of overgeneralizing based on limited information. The post suggests vulnerability, but it doesn't directly indicate a lack of caring or supportive friends. Consider the possibility of support existing despite the insecurities expressed."])
+('13', ['Incorrect', 'Carefully differentiate between the expressed emotions and the actual presence of a support system. The post does reflect feelings of vulnerability and insecurity, but it does not specifically indicate that there are no people to turn to. Avoid assuming lack of support purely based on the emotional content.'])
+('14', ['Incorrect', "Do not conflate the expression of insecurity with an absolute lack of closeness to others. The post discusses the impact of criticism, which doesn't necessarily mean one isn't close to others. Focus on the explicit content of the post and avoid making assumptions beyond the provided information."])
+('15', ['Incorrect', 'Do not assume that discussing personal insecurities necessarily means the absence of satisfying interactions. Instead, focus on the content for any explicit mention of interpersonal dynamics and avoid making assumptions beyond the available information.'])
+
+ITER 4
+Do MS Record:
+('1', ['directly_mention', "Somewhat true for me###The post mentions that being reminded constantly of body flaws can ruin someone completely and that it hits you in the heart because that's how everyone views you. This suggests that the person feels negatively about themselves and may believe that the people in their life would be better off without them, although it is not explicitly stated."])
+('3', ['not_mention', "Doesn't mention at all.###The post does not mention anything about being a burden on society. It mainly focuses on the negative impact of body flaws and insecurities."])
+('6', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling constantly reminded of body flaws, which can ruin someone completely. This suggests that the person may feel that they make things worse for the people in their life, although it is not explicitly stated in the post.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not provide any information or indication about the frequency of the person's interactions with people who care about them. Hence, I cannot deduce the answer to this question based on the post."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not discuss or indicate anything about having caring and supportive friends."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not discuss or indicate anything about having people to turn to in times of need."])
+('14', ['indirectly_mention', "Somewhat true for me###The post discusses insecurities and the impact of criticism, which indicates a certain level of insecurity and vulnerability. This suggests that the person may not feel completely close to others, but they still have some level of connection and interaction with people around them, making the statement 'Somewhat true for me'."])
+('15', ['indirectly_mention', "Somewhat true for me###The post talks about being constantly reminded of body flaws and the impact it has on an individual, indicating that the person may not have satisfying interactions every day. However, since the post does not explicitly mention having satisfying interactions, I can deduce that the person still has at least one satisfying interaction every day, although it may be affected by their insecurities. Hence, the answer would be 'Somewhat true for me'."])
+Do MS Check Record:
+('1', ['Incorrect', "Do not assume the post contains explicit mention of the question topic. Perform a deeper analysis to infer the emotional state and potential beliefs of the poster based on the context provided. Consider the poster's expression of their experiences with insecurities and how it could relate to self-worth and the perspective about their impact on others' lives."])
+('3', ['Correct', 'Continue to distinguish between content that is directly related to the question and content that is not. Avoid making inferences that are not supported by the information given in the post.'])
+('6', ['Incorrect', 'While the post speaks to personal insecurities, there is no direct correlation with making things worse for others. Consider not inferring beyond available information, focus on what is explicitly mentioned or can be reasonably deduced.'])
+('9', ['Correct', 'Good job identifying the lack of information related to social interactions. Maintain a critical approach without overreaching when the post does not provide relevant data on the subject.'])
+('10', ['Incorrect', "The post suggests a sensitivity to criticism and a struggle with insecurities, which could imply a need for support. When addressing questions about support systems, seek subtle cues in the emotional tone of the post that may hint at the poster's level of social support."])
+('13', ['Incorrect', "Although the post doesn't explicitly mention having people to turn to, the emotional content and concerns about being judged might suggest a reliance on others for validation. Infer possible dynamics in the poster's social network based on the context and sentiments expressed."])
+('14', ['Incorrect', 'Avoid assuming any indirect information about social interactions. Focus on analyzing only the explicit content related to the question.'])
+('15', ['Incorrect', 'Do not infer satisfying interactions from a post about insecurities without clear evidence. Stick to the information given without making assumptions about daily interactions.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of being constantly reminded of flaws, insecurities building up, and the impact of others pointing out flaws. These thoughts and experiences contribute to a sense of burden and a perception of oneself as a burden on others.
+
+Incorrect
+Assess the post content and the answered questions separately. Avoid inferring burdensomeness without direct evidence. Look for explicit statements of feeling like a burden from the answered questions, as these will help you form an accurate conclusion about perceived burdensomeness.
+
+ITER 1
+Yes
+The post expresses feelings of being constantly reminded of flaws and insecurities, which can lead to a belief of being a burden on others. The answered questions also indicate some level of feeling disconnected and like an outsider in social gatherings.
+
+Incorrect
+Avoid overinterpreting the information provided. The post deals with the individual's concerns about body image and the impact of others' comments on self-confidence. However, the answered questions clearly indicate the individual does not see themselves as a burden, with answers like 'Not at all true for me' concerning death being a relief to others. Focus on the evidence presented rather than assumptions not supported by the data. Weigh the relevance of the post content against the clear self-assessments provided in the mental scale responses.
+
+ITER 2
+No
+The individual's self-assessments from the mental scale indicate they do not see themselves as a burden or believe that others would be relieved by their death. Though they express insecurities about body flaws, this does not necessarily indicate a risk of perceived burdensomeness.
+
+Correct
+Continue to examine the content of posts and scale responses carefully to avoid overgeneralization or misattribution. Be cautious not to infer negative characteristics without clear evidence. Keep factoring in specific responses to relevant mental health scale questions to ground your analysis in the individual’s reported experiences.

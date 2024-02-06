@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Why can‚Äôt I just feel hungry when I‚Äôm hungry and tired when I‚Äôm tired and feel fine the rest of the time? :-/  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of perceived burdensomeness. This statement seems to express frustration and confusion about not feeling hungry and tired at appropriate times, but it does not indicate a perception of being a burden to others.
+

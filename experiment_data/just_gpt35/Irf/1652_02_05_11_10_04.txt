@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm very lonely lately, I'd like to find someone who can feel like I do and help me through it all. I'd like to exchange private messages, as there's no real life people I can really turn to with my problem. So feel free to pm me, I appreciate all help.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a strong desire for connection and companionship, expressing feelings of loneliness and the need for someone to understand and support them. This suggests a potential risk of thwarted belongingness, which refers to feeling disconnected or alienated from others.
+

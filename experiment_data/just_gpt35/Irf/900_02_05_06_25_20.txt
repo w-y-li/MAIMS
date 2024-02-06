@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Human interaction is exhausting, talking is exhausting , so is eating and cleaning. I just want to stay in my bed all day and hide and sleep. I wish people would leave me alone.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests feelings of exhaustion and a desire to isolate oneself from others. This can indicate a lack of fulfilling social connections and a sense of thwarted belongingness.
+

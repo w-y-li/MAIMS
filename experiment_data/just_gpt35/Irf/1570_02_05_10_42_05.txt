@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Living is not fun anymore. Stuck in a shitty abusive relationship, always cold, nobody likes me nor do they care about me. 2017 was a shit year like the past 4 years. Please me down. I never asked to be born.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of isolation and lack of belonging, as the poster expresses feeling unliked and uncared for. They also mention being stuck in an abusive relationship, which further emphasizes the absence of a supportive social network.
+

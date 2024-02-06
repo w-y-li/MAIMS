@@ -1,0 +1,104 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  (48M) I've dealt with depression and suicidal thoughts for probably \~35 years now. I've been on pretty much all the different meds, had 2 rounds of TMS (30 sessions each), and have had therapy. Nothing has made me feel any better. I don't remember any other way to feel but sad, hopeless and suicidal. I don't know how much longer I can keep going on.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', "Not at all true for me.###The post directly mentions that the poster has dealt with depression and suicidal thoughts for a long time, but it doesn't indicate that the people in their life would be better off without them."])
+('2', ['directly_mention', 'Very true for me.###The post directly mentions that the poster has dealt with depression and suicidal thoughts for a long time, and they express feeling sad, hopeless, and suicidal. This suggests that they believe the people in their life would be happier without them.'])
+('3', ['directly_mention', "Very true for me###The post directly mentions feeling like a burden on society. The poster states that they don't know how much longer they can keep going on, implying that they believe their existence is burdensome to others."])
+('4', ['directly_mention', 'Very true for me###The post directly mentions that the poster feels their death would be a relief to the people in their life. They express feeling sad, hopeless, and suicidal, which further suggests that they believe their death would bring relief to those around them.'])
+('5', ['indirectly_mention', "Somewhat true for me###The post mentions feeling sad, hopeless, and suicidal. These emotions can often lead to the belief that people in one's life wish they could be rid of them."])
+('6', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling sad, hopeless, and suicidal. These emotions can often create a sense of guilt and the belief that one makes things worse for others.'])
+('7', ['directly_mention', 'Not at all true for me###The post mentions feeling sad, hopeless, and suicidal, which indicates a lack of support from others. Therefore, it can be deduced that other people do not care about the poster.'])
+('8', ['directly_mention', 'Not at all true for me###The post mentions feeling sad, hopeless, and suicidal, which indicates a lack of belonging. Therefore, it can be deduced that the poster does not feel like they belong.'])
+('9', ['directly_mention', "Very true for me.###Based on the statement that 'I don't remember any other way to feel but sad, hopeless and suicidal,' it suggests that the poster rarely interacts with people who care about them."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not contain any information or statement that directly or indirectly addresses the number of caring and supportive friends the poster has."])
+('11', ['indirectly_mention', 'Somewhat true for me###The post mentions that they have dealt with depression and suicidal thoughts for a long time, which could indicate a feeling of disconnect from others.'])
+('12', ['indirectly_mention', 'Very true for me###The post mentions feeling sad, hopeless, and suicidal, which might contribute to feeling like an outsider in social gatherings.'])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling sad, hopeless and suicidal, which indicates a lack of support and connection to other people. Therefore, it can be inferred that the person may not feel very close to others and may not have many people to turn to in times of need. However, since the post does not directly address this question, the answer is based on indirect information from the post.'])
+('14', ['indirectly_mention', 'Not at all true for me###The post mentions feeling sad, hopeless, and suicidal, which suggests a lack of support and connection to other people. Thus, it can be deduced that the person does not feel close to other people. However, since the post does not explicitly answer the question, the answer is based on indirect information from the post.'])
+('15', ['indirectly_mention', 'Not at all true for me###The post mentions that the person has been feeling sad, hopeless, and suicidal for a long time, which indicates that they are not having satisfying interactions every day.'])
+Do MS Check Record:
+('1', ['Incorrect', 'Review the post for explicit sentiments regarding the poster’s beliefs about the impact of their existence on others. Avoid assumptions not supported by the text.'])
+('2', ['Incorrect', "Do not over-interpret the feelings of hopelessness to infer beliefs about others' happiness. Analyze the text for specific references to others' emotions."])
+('3', ['Incorrect', 'Review the post for explicit statements related to being a burden; avoid assuming feelings not directly expressed.'])
+('4', ['Incorrect', "Do not infer that death would be a relief to others without direct mention; focus on the poster's expressed feelings about themselves."])
+('5', ['Correct', 'Continue to make careful inferences based on the emotional states mentioned in the post and consider seeking evidence within the text to support your assessments.'])
+('6', ['Correct', 'Good job on linking the mentioned emotions to potential beliefs about social relationships. Maintain a nuanced approach by avoiding overgeneralization and always look for direct or indirect evidence in the post.'])
+('7', ['Incorrect', "Avoid assuming that feelings of sadness and hopelessness equate to a lack of care from others; the post does not provide information about others' behaviors or attitudes towards the poster. Seek text supporting or refuting the idea of care from others before concluding."])
+('8', ['Incorrect', "Do not equate the poster's emotions with a sense of belonging without specific references; focus on the content addressing belonging or social connections, rather than inferring solely based on emotional state."])
+('9', ['Incorrect', 'Avoid assumptions not explicitly supported by the text. There is no direct indication of the quantity or quality of social interactions. Focus on the content provided without adding unfounded details.'])
+('10', ['Correct', "Continue accurately stating when information is not mentioned in the post. Maintain objectivity and avoid drawing conclusions that aren't supported by the evidence provided."])
+('11', ['Correct', 'Your inference aligns with information provided in the post. Depression and long-term sadness can indeed cause feelings of disconnection. Continue to infer carefully, ensuring your deductions are grounded in the post content.'])
+('12', ['Correct', 'Your deduction is logical, as the feelings of sadness and hopelessness described can contribute to feelings of being an outsider. Remember always to tie your answers back to specific elements of the post.'])
+('13', ['Incorrect', "Analyze the post for any evidence of interpersonal relationships. Avoid making assumptions without textual evidence; try to find clues about the poster's social support, if any are mentioned."])
+('14', ['Incorrect', 'Avoid drawing inferences about relationships from feelings of sadness and hopelessness alone. Instead, focus on what is explicitly stated about social connections or look for more context.'])
+('15', ['Incorrect', 'Do not infer lack of satisfying interactions solely from expressions of long-term sadness. Look for explicit mentions or context clues about daily interactions before concluding.'])
+
+ITER 1
+Do MS Record:
+('1', ['directly_mention', "Very true for me###The poster directly mentions that they believe the people in their life would be better off without them. They state, 'I don't know how much longer I can keep going on.' This implies that they believe their presence is a burden and that others would be better off if they were gone."])
+('2', ['not_mention', "Doesn't mention at all.###The post doesn't mention anything regarding the people in the poster's life being happier without them. There is no explicit sentiment or information that can be used to answer this question."])
+('3', ['directly_mention', 'Very true for me###The poster explicitly states that they feel like a burden on society.'])
+('4', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the relief of death to others."])
+('7', ['directly_mention', 'Not at all true for me###The post explicitly states that the person feels sad, hopeless, and suicidal, indicating a lack of belief that others care about them.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not contain any information regarding the person's sense of belonging. The focus is primarily on their depression and lack of improvement."])
+('9', ['indirectly_mention', 'Somewhat true for me###The post mentions feeling sad, hopeless, and suicidal and mentions no improvement despite trying different medications, TMS, and therapy. These negative emotions and lack of improvement suggest a possible lack of support or interaction with people who care about the poster.'])
+('13', ['not_mention', "Doesn't mention at all.###The post does not provide any indication or mention of people the poster can turn to in times of need, so it cannot be determined whether the statement is true or not."])
+('14', ['indirectly_mention', "Not at all true for me###The post mentions feeling sad, hopeless, and suicidal, which suggests a lack of closeness to other people. Additionally, the poster states that they don't remember any other way to feel but sad and hopeless, indicating a lack of experiencing positive interactions with others."])
+('15', ['indirectly_mention', 'Not at all true for me###The post mentions feeling sad, hopeless, and suicidal, which implies a lack of satisfying interactions with others. The poster also expresses that nothing has made them feel better, further suggesting that they do not have satisfying interactions in their daily life.'])
+Do MS Check Record:
+('1', ['Incorrect', "Although the post doesn't explicitly say that the people in the poster's life would be better off, the feelings of hopelessness and the belief that they are a burden may imply a sense that others might also be better off. Reflect on the emotional state conveyed and consider the implications it has on how the poster might perceive their impact on others' well-being."])
+('2', ['Correct', "Well done identifying that the post does not specifically mention the happiness of others in relation to the poster's presence. Continue to be cautious not to over-infer from the information provided. Always anchor your responses to the content of the post."])
+('3', ['Incorrect', 'Review the post with attention to detail. While the poster does not explicitly say they are a burden, their expression of chronic depression and hopelessness may imply a self-perceived burden. Infer carefully without assuming facts not presented.'])
+('4', ['Correct', "Well analysed. There is no reference to the idea that the individual's death would bring relief to others. Continue to differentiate between explicitly mentioned feelings and those that are not mentioned."])
+('7', ['Incorrect', "Consider the broader implications of feelings of sadness and hopelessness on one's perception of being cared for by others. Extrapolate carefully from the emotional state to related social perceptions."])
+('8', ['Correct', 'However, be cautious not to fill in information gaps without evidence from the post. When a post does not mention a concept, avoid assuming it is not present; instead, use context clues and related concepts to inform your response.'])
+('9', ['Incorrect', 'Reassess the content of the post focusing on any implicit indicators of social support or lack thereof, rather than assuming an absence of mention equates to absence of support. Reflect on therapy experiences as a context where care might be implied.'])
+('13', ['Incorrect', 'Do not infer absence of information as confirmation of absence. Consider potential for implied support in therapy or other undertones in the post that suggest a support network, however minor it might be.'])
+('14', ['Correct', 'Maintain a balanced perspective and avoid assuming information not present in the post.'])
+('15', ['Correct', 'Be cautious of overgeneralizing based on limited information; evaluate each question on its own merit.'])
+
+ITER 2
+Do MS Record:
+('1', ['indirectly_mention', "Somewhat true for me###The post mentions feelings of sadness, hopelessness, and suicidal thoughts for a long period of time. These feelings may lead to a belief that the people in the poster's life would be better off without them, although it is not explicitly stated."])
+('3', ['indirectly_mention', 'Somewhat true for me###The post expresses a sense of being stuck in a cycle of depression and hopelessness, which may contribute to the belief that the poster is a burden on society, even though this belief is not directly mentioned.'])
+('7', ['indirectly_mention', "Somewhat true for me###The post mentions feeling sad, hopeless, and suicidal. These feelings can often lead to a perception that others do not care about me, hence the answer being 'Somewhat true for me'."])
+('9', ['directly_mention', "Not at all true for me###The post explicitly states that the poster has undergone therapy, which suggests that they have had interactions with people who care about them. Therefore, the answer is 'Not at all true for me'."])
+('13', ['indirectly_mention', 'Somewhat true for me###The post mentions that the poster has had therapy, which suggests that they have had some support from a professional, indicating the potential for support in times of need.'])
+Do MS Check Record:
+('1', ['Correct', "Continue to apply critical thinking while extrapolating from the post, but ensure to differentiate between what is explicitly stated and what can be reasonably inferred. Avoid assuming details that aren't suggested."])
+('3', ['Correct', "Maintain awareness of the poster's emotional state to infer unstated beliefs, but be cautious not to attribute beliefs or characteristics to the poster that aren't supported by the post."])
+('7', ['Incorrect', 'Avoid assuming the presence of care based on the existence of treatment; focus on the direct expressions or implications about interpersonal relationships from the post.'])
+('9', ['Incorrect', 'Do not infer the extent of social interactions merely from the involvement in therapy; instead, look for explicit mentions of social engagement and the emotional tone towards it.'])
+('13', ['Correct', 'Ensure that the inference is clearly connected to the content of the post. In future responses, continue to use any explicit information given and cautiously utilize implicit indicators to guide your reflections on the mental scale questions.'])
+
+ITER 3
+Do MS Record:
+('7', ['indirectly_mention', 'Not at all true for me###The post indirectly mentions that other people care about me by stating that the poster has been on different medications, had therapy, and underwent two rounds of TMS (Transcranial Magnetic Stimulation) treatment, indicating that they have sought help and support from others for their depression and suicidal thoughts. However, the post does not directly state the current level of support or care from others, so based on the provided information, it is not at all true for me.'])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention anything about the frequency of interaction with people who care about me. Therefore, no inference can be made regarding the rarity of interactions with caring individuals."])
+Do MS Check Record:
+('7', ['Incorrect', 'Avoid assuming that treatment implies current support; distinguish between historical support implied by treatment and current emotional support. Instead, infer the current perception of care from the expressed feelings.'])
+('9', ['Incorrect', "Even though direct interactions are not mentioned, you can infer possible social isolation due to depression's severity. Reflect on how chronic depression might impact social interactions without over-generalizing."])
+
+ITER 4
+Do MS Record:
+('7', ['indirectly_mention', "Somewhat true for me###The post mentions feeling sad, hopeless, and suicidal, which suggests a lack of emotional support. Although it doesn't directly mention others caring about the poster, the expression of these negative emotions implies a lack of care and concern from others."])
+('9', ['indirectly_mention', "Somewhat true for me###The post states that the poster has dealt with depression and suicidal thoughts for a long time, which may have resulted in reduced social interactions. Although it doesn't directly mention rarely interacting with people who care, the chronic nature of the mental health issues suggests potential isolation and limited interaction."])
+Do MS Check Record:
+('7', ['Incorrect', "Carefully analyze the text for explicit information about others' care before drawing conclusions. Focus on understanding the poster's direct experiences and avoid assumptions about their social support without clear evidence."])
+('9', ['Incorrect', "Avoid inferring social interaction levels without explicit information. Look for direct references to social engagement in the post before determining the extent of the poster's interactions."])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The response to the questions related to belongingness indicates a strong sense of disconnection and feeling like an outsider in social gatherings. The individual also feels like a burden on society and that the people in their life would be better off without them. These feelings suggest a risk of thwarted belongingness, where the individual perceives a lack of support and social connection, which can contribute to their depression and suicidal thoughts.
+
+Correct
+Continue to analyze the scale responses carefully in the context of the post to avoid overgeneralization. Ensure to differentiate between the poster's own perceptions and objective information.

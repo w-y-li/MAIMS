@@ -1,0 +1,108 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  How do you decide to live for yourself? I can't do anything for myself. I don't mean I can't dress myself or shower etc, I mean I don't care to progress my career, I don't care to try and be a better person and all that. I'm finding that I'm putting off whatever I want to do (study for career progression, do martial arts, try harder with photography etc), in place of  being support  for my girlfriend. Emotional or otherwise. I put her above me, so I don't do anything. This is wrong, because it leaves me bitter with myself and my choices, because I want to be better for her etc. But wtf do I do? How do I do it?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['indirectly_mention', 'I feel sad much of the time.###The poster mentions feeling bitter with themselves and their choices, indicating a negative emotional state of sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The poster expresses a lack of motivation to progress their career and be a better person, suggesting a pessimistic outlook about their future.'])
+('3', ['directly_mention', 'I do not feel like a failure###The post mentions that the person feels bitter with themselves and their choices because they want to be better for their girlfriend. However, there is no mention of feeling like a complete failure or having a lot of failures in life.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to###The post indicates that the person is putting off doing things they want to do and prioritizing supporting their girlfriend. This suggests a possible decrease in pleasure from activities they used to enjoy. However, the post does not explicitly state that they get very little pleasure or cannot get any pleasure from these activities.'])
+('5', ['directly_mention', 'I feel quite guilty most of the time.###The poster states that they feel bitter with themselves and their choices, indicating that they feel guilty about not being able to progress their career and be a better person for their girlfriend.'])
+('6', ['indirectly_mention', "I feel I may be punished.###Although the post doesn't directly mention punishment feelings, the poster expresses that they are putting off their own desires and goals in favor of supporting their girlfriend. This could lead them to feel that they may be punished in some way for not prioritizing themselves."])
+('7', ['indirectly_mention', 'I dislike myself.###The poster mentions feeling bitter with themselves and their choices, which implies a sense of self-dislike.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual.###The poster talks about putting their girlfriend above themselves and not doing anything for their own self-progress, which suggests a tendency towards self-accusations and self-criticism.'])
+('9', ['indirectly_mention', 'I cry all the time now.###The poster mentions feeling bitter with themselves and their choices, as well as wanting to be better for their girlfriend. This suggests emotional distress, which could manifest as crying all the time.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to suicidal thoughts or wishes. There is no mention of the poster having such thoughts."])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###In the post, I mentioned that I am putting off things I want to do and prioritizing being a support for my girlfriend. This suggests that I am restless and agitated because I am not fulfilling my own goals and desires.'])
+('12', ['directly_mention', "I have lost most of my interest in other people or things.###I mentioned that I don't care to progress my career, be a better person, or engage in activities like martial arts or photography. This indicates that I have lost most of my interest in other people or things."])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The poster expresses indecisiveness when discussing how they struggle to decide what to do with their life and how to balance their personal goals and being there for their girlfriend.'])
+('14', ['indirectly_mention', "I do not consider myself as worthwhile and useful as I used to.###The poster indicates feelings of worthlessness when discussing how they prioritize their girlfriend's needs over their own and subsequently feel bitter and dissatisfied with themselves and their choices."])
+('15', ['indirectly_mention', "I have less energy than I used to have.###In the post, I mentioned that I don't have enough energy to do anything and I feel bitter with myself and my choices. This indicates a decrease in energy level."])
+('16', ['indirectly_mention', 'I sleep somewhat less than usual.###I mentioned that I put off doing things I want to do, such as studying, martial arts, and photography, in order to support my girlfriend emotionally. This suggests that my sleeping pattern may have changed due to the emotional burden I am carrying.'])
+('17', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to irritability."])
+('18', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in appetite."])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###In the post, I mentioned that I am putting off whatever I want to do and that I am not progressing in my career or trying to be a better person. This indicates a difficulty in concentrating on these goals, leading to a sense of being unable to concentrate on anything.'])
+('20', ['directly_mention', "I am too tired or fatigued to do a lot of the things I used to do.###I mentioned that I don't do anything for myself and put all my focus on supporting my girlfriend, which can be seen as an indicator of tiredness or fatigue. This is further supported by my feeling of bitterness towards myself and my choices, which could be a result of feeling exhausted and lacking the energy to pursue my own interests."])
+('21', ['directly_mention', 'I have lost interest in sex completely.###The post mentions that the person is putting off things they want to do, including studying, pursuing martial arts, and photography, in order to support their girlfriend. This suggests that the person is prioritizing their girlfriend over their own interests, and not taking care of their own needs and desires. Since they are not focusing on their own happiness and fulfillment, it is likely that their interest in sex has diminished or disappeared completely.'])
+Do MS Check Record:
+('1', ['Correct', "Maintain your careful analysis of the emotional cues given in the post, as you have accurately inferred the poster's feeling of sadness."])
+('2', ['Correct', "Good job identifying the undertones of pessimism in the post. Continue to utilize context clues to assess the poster's outlook on their future."])
+('3', ['Incorrect', 'Consider the language used and the overall sentiment of the post. Reflect on the possible implications of feeling bitter and if that could be construed as a sense of failure. Explore how self-neglect could indicate a feeling of failure.'])
+('4', ['Correct', 'Good analysis of the subtle indications of lost interest. Continue to differentiate between a decrease in pleasure and complete anhedonia, and base your interpretations on the level of detail provided.'])
+('5', ['Correct', 'Ensure to always ground your interpretations in the textual evidence from the post, as you did here by identifying the expression of bitterness as indicative of guilt.'])
+('6', ['Incorrect', 'Be cautious not to infer feelings that are not suggested by the post. Focus on what is explicitly stated or closely implied. Instead of assuming punishment feelings, consider whether the poster feels self-imposed consequences for their actions, without overextending the interpretation.'])
+('7', ['Correct', "Ensure that your interpretation of self-dislike is always supported by specific evidence from the post. Continue to look for subtle cues that reflect the poster's emotions and self-perceptions."])
+('8', ['Correct', "Keep grounding your analysis in the text. Self-accusations may not always be overt; they can be identified through the poster's expressions of regret or dissatisfaction with self, as done here. Be mindful of distinguishing between self-criticism and constructive self-evaluation."])
+('9', ['Incorrect', "Avoid over-interpreting the post. There's no direct indication of suicidal thoughts or wishes. Stick to the evidence provided."])
+('10', ['Incorrect', "Review the post for emotional content that may imply crying, but do not assume it if it's not explicitly mentioned."])
+('11', ['Incorrect', 'Carefully distinguish between the emotions described and the terms used in psychological scales. The poster describes putting off personal activities in order to support someone else, which may reflect conflict or prioritization but does not necessarily indicate agitation. Focus on textual evidence that could illustrate agitation, such as mentions of restlessness or difficulty remaining still.'])
+('12', ['Correct', "Good job identifying the loss of interest based on the poster's statement about not caring to progress in various areas. Continue to use direct quotes from the posts to support your answers on mental scales."])
+('13', ['Correct', "Continue to interpret the subtleties of the posts by identifying implicit expressions of the individual's feelings, but make sure to base your interpretations on specific statements to avoid over-inference."])
+('14', ['Incorrect', 'Be cautious about attributing feelings like worthlessness without clear evidence from the post. Look for more definitive language that indicates such a strong self-assessment.'])
+('15', ['Incorrect', 'Focus on direct evidence from the post without assuming unmentioned feelings. Understand that a lack of motivation does not directly equate to a loss of energy.'])
+('16', ['Incorrect', 'Do not infer changes in sleeping patterns without explicit information from the post. Avoid making assumptions based on indirect information.'])
+('17', ['Correct', 'Continue to analyze posts carefully, ensuring that answers are based on explicit information provided in the text.'])
+('18', ['Correct', 'Maintain focus on the content of the post without making assumptions beyond the presented information.'])
+('19', ['Correct', 'Good job analyzing the text for signs of concentration difficulty. Continue to use direct evidence from the posts to support your answers. Ensure to always distinguish between lack of motivation and true concentration issues for accuracy.'])
+('20', ['Correct', "You've correctly identified signs of fatigue from the context of the post. Keep focusing on the expressed feelings and behaviors to infer mental states. Be careful not to conflate emotional exhaustion with physical tiredness unless clearly indicated."])
+('21', ['Incorrect', 'While the poster does mention neglecting personal activities, they do not directly state their interest in sex has changed. Avoid making unfounded assumptions. Investigate how the post might reflect more subtly on the aspect in question.'])
+
+ITER 1
+Do MS Record:
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The poster mentions that they are bitter with themselves and their choices, indicating a sense of failure. Although they do not explicitly state feeling like a failure, the sentiment suggests that they believe they have failed more than others.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not contain any explicit or implicit information that could help determine the answer to this question."])
+('9', ['not_mention', "Doesn't mention at all.###The post does not mention any thoughts or wishes of killing oneself."])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention any specific information about crying."])
+('11', ['indirectly_mention', '###The post indirectly mentions agitation. The poster describes putting off personal activities and feeling bitter with themselves and their choices. Although they do not directly mention feeling agitated, these behaviors and emotions could be indicative of restlessness or agitation. However, without more explicit evidence, it is difficult to determine the level of agitation experienced by the poster.'])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention worthlessness. The poster discusses their lack of motivation to progress their career or be a better person but does not explicitly mention feeling worthless or comparing themselves to others."])
+('15', ['indirectly_mention', 'I have less energy than I used to have.###The post mentions that the person is putting off doing things they want to do, such as studying, doing martial arts, and trying harder with photography. This suggests a lack of motivation and potentially a decrease in energy levels.'])
+('16', ['not_mention', "Doesn't mention at all.###The post does not provide any information about changes in sleeping patterns. Therefore, it does not mention the question at all."])
+('21', ['indirectly_mention', "I have lost interest in sex completely.###The poster mentions that they are neglecting personal activities and that they don't care to try and be a better person. This suggests a lack of interest and motivation in various areas of their life, including possibly their sex life. While the post does not directly state a change in interest in sex, the overall tone and the mentioned lack of progress in different areas could imply a loss of interest in sex."])
+Do MS Check Record:
+('3', ['Correct', 'Continue analyzing the emotional content of posts to deduce feelings of failure, even when not stated explicitly. However, be cautious not to overgeneralize based on limited information.'])
+('6', ['Correct', 'Good job recognizing when the post does not provide enough information to infer about punishment feelings. Preserve this level of objective analysis for future tasks.'])
+('9', ['Correct', 'While your response is accurate as the post does not explicitly mention suicidal thoughts, remember to carefully consider any underlying emotions or implications in the text that may hint at a deeper psychological state.'])
+('10', ['Correct', "You correctly identified that the post doesn't mention crying. Ensure to maintain close attention to the emotional state the poster might be in, which could provide indirect clues about their propensity to cry."])
+('11', ['Incorrect', 'Review the post for emotional indicators; notice the expressions of putting off personal growth and feeling bitter. These can imply underlying agitation. Refine analysis to capture implicit emotional content.'])
+('14', ['Incorrect', "Avoid overlooking potential feelings of worthlessness. The poster's lack of self-care and prioritizing others possibly hints at low self-esteem. Consider broader implications of the poster's words on their self-perception."])
+('15', ['Incorrect', 'While the post does indicate a lack of motivation, do not assume a decrease in energy levels without evidence. Focus on the presented facts and avoid making inferences not supported by the text.'])
+('16', ['Correct', 'Good job on not making assumptions beyond the information provided in the post. Continue to be cautious in your interpretation and apply this careful approach to all aspects of analysis.'])
+('21', ['Incorrect', 'Avoid making assumptions not directly supported by the text. The post does not mention changes in interest in sex explicitly. Focus on information given and infer carefully without overgeneralization.'])
+
+ITER 2
+Do MS Record:
+('11', ['directly_mention', 'I feel more restless or wound up than usual.###The poster mentions feeling restless and agitated, suggesting increased agitation.'])
+('14', ['indirectly_mention', 'I do not consider myself as worthwhile and useful as I used to.###The poster expresses not caring to progress their career, be a better person, or engage in activities they enjoy. This implies a decreased sense of self-worth and worthlessness compared to their previous state.'])
+('15', ['directly_mention', "I do not have enough energy to do very much.###The post mentions that the person doesn't care to progress their career or try harder in other areas of life. This lack of motivation indicates a lack of energy to engage in these activities."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex. There is no evidence to support any assumptions in this regard."])
+Do MS Check Record:
+('11', ['Incorrect', 'Re-examine the original post for explicit statements related to agitation without assuming that the mention of restlessness correlates directly with increased agitation. Look for specific descriptions or examples provided by the poster that would clearly indicate a change in agitation levels.'])
+('14', ['Correct', 'Good job on recognizing the indirect cues in the post that imply a sense of worthlessness, such as not caring to progress and putting off personal goals. Continue to use careful analysis to find subtle hints that relate to the mental scale in question.'])
+('15', ['Correct', 'Ensure to maintain the focus on available information in posts for answers and continue being cautious of not making inferences without evidence.'])
+('21', ['Correct', 'Good job identifying the absence of information. Continue to answer only when the post provides clear evidence and avoid making unwarranted inferences.'])
+
+ITER 3
+Do MS Record:
+('11', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to agitation or restlessness. There is no explicit statement or description provided by the poster that would indicate a change in agitation levels."])
+Do MS Check Record:
+('11', ['Incorrect', "Carefully analyze the underlying emotions conveyed in the post. The feeling of being 'bitter with oneself' may imply an internal sense of frustration, which can be a form of agitation. Reassess the post for any indicators of emotional unrest that could point to agitation."])
+
+ITER 4
+Do MS Record:
+('11', ['indirectly_mention', 'I feel more restless or wound up than usual.###The post mentions feeling bitter with oneself and wanting to be better. This indicates a level of dissatisfaction and unrest, which can be interpreted as feeling more restless or wound up than usual.'])
+Do MS Check Record:
+('11', ['Correct', 'Be mindful of the emotional state conveyed in posts. Recognize the indications of dissatisfaction and unrest as potentially linked to psychological states like agitation.'])
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+Based on the answers to the mental scale questions, the poster demonstrates symptoms commonly associated with depression. They express feelings of sadness, pessimism, guilt, self-dislike, self-accusations, and worthlessness. They also mention a loss of interest, decreased energy, difficulty concentrating, and a lack of motivation to engage in activities they once enjoyed. These symptoms indicate a likelihood of depression.
+
+Correct
+Ensure that your analysis of a person's mental health is always grounded in observable evidence and clear responses to validated scales, as you have done here. Avoid making assumptions beyond the provided data. Continue to vigilantly differentiate between the poster's own experiences and those of others mentioned in their communications to maintain accuracy in your assessments.

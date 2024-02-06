@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I hate my job, but I need to keep having income so that I can support myself. But is starting to become so hard to get out of bed that I am continuously late to work. Should I just quit? Has anyone else had a similar experience?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of thwarted belongingness. The individual is expressing dissatisfaction with their job and experiencing difficulty in getting out of bed due to this. They are seeking advice on whether to quit but do not mention feelings of isolation or disconnection from others.
+

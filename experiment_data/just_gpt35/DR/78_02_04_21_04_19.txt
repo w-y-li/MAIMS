@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  Do you use nostalgia to escape the present or uncertainty of the future? I have been on a nostalgic trip for awhile and it makes me feel better, but then sad again when I come back to the present. I have had quite an uncertain year since graduating, so maybe it is that quarter-life crisis. Have you been through this phase?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions that they feel better when they engage in nostalgic trips but feel sad when they come back to the present. This pattern of feeling better temporarily and then returning to sadness is consistent with symptoms of depression.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Home life is really bad at the moment, both parents are alcoholics and recently their drinking had been getting a lot worse. It's cause both sides of my family to argue due to my parents lack of care over my younger sister. I want to move out but I do not have the money, I don't really have anywhere to go, I want to call social services on my parents (again) but I can't as I'll be kicked out and have my belongings potentially trashed. My parents have never been there for me, I didn't have the best childhood, which has caused me to have an unfortunate array of mental disorders and depression. But now I'm starting to think I'll win the lottery of 1 million and everything will be okay, I keep thinking I'm going to win money and then I can move out and give me and my sister a better life for both of us. It's getting to the point that I'm daydreaming constantly of winning a large sum of money, and that I can get my own place and my sister will be okay. Ive started to genuinely think I'm a millionare. I'm that depressed I'm having unrealistic dreams and thoughts of the future so I don't think of what's happening at home and I don't know what to do. I don't get a lot of money to my self, I cannot get a job due to health/mental health reasons, even though I'd like to work. Everything is getting worse again and it feels like my brain is struggling on ways to cope with it.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a lack of support and care from the poster's parents, resulting in feelings of isolation and disconnectedness. The desire to win a large sum of money to improve their living situation and provide a better life for themselves and their sister suggests a longing for belongingness that is not being fulfilled in their current home environment.
+

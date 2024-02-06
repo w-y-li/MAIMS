@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Whenever I have a crush in someone I feel depressed. Do you feel the same? Note: we temporary live in two different countries.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests that the individual feels depressed whenever they have a crush on someone, indicating a potential risk of thwarted belongingness. This feeling of sadness and despair in relation to romantic feelings could be a sign of a deeper emotional struggle with connecting and maintaining close relationships.
+

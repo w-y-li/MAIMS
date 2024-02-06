@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  How would you describe your life at this point? I literally feel like my life is a complete crap! I’ve been holding my feelings in(self doubt, emotionally unstable) it’s been rough! I just quit my job because it was causing more panic attacks ...so now I’m without a job and still depressed! Basically life sucks for me!!!!  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster mentions feeling like their life is a complete crap, holding in their feelings, being emotionally unstable, experiencing panic attacks, and feeling depressed. These symptoms indicate potential depressive symptoms.
+
+Correct
+Continue to analyze posts carefully without over inferring, ensuring that evidence in the text supports your conclusions about mental health conditions like depression.

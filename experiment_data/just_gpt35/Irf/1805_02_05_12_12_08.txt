@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I sometimes have this strange feeling that I cant seem to place. Its like the room expands and turns black. Whether Im alone or in with people doesnt seem to matter. At that moment Im alone in a large dark room. The question here is, does anybody know what this might be? (Yeahyeah I know professional hell blabla)  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The feeling of being alone in a large dark room, regardless of the presence of others, can indicate a sense of isolation or perceived burdensomeness. This may suggest a risk of perceived burdensomeness, which is a factor associated with certain mental health problems like depression and suicidal ideation.
+

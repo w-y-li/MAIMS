@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  (48M) I've dealt with depression and suicidal thoughts for probably \~35 years now. I've been on pretty much all the different meds, had 2 rounds of TMS (30 sessions each), and have had therapy. Nothing has made me feel any better. I don't remember any other way to feel but sad, hopeless and suicidal. I don't know how much longer I can keep going on.  
+
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a long history of depression and suicidal thoughts, with no improvement despite trying various medications, TMS, and therapy. The mention of feeling sad, hopeless, and suicidal suggests a significant level of distress and burden, indicating a risk of perceived burdensomeness.
+
+Correct
+Continue to carefully examine the information presented in posts without inferring beyond what is stated. Look for clear indicators of mental health issues, such as expressions of hopelessness and references to suicidal thoughts, as these suggest perceived burdensomeness. Always base your conclusions on explicit content within the post.

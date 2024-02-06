@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	No
+Post:
+  100% always try to be a nice friend but sometimes i dont want to, am i mean im in grad school. it will be way to long to explain the details but whenever i go out with a group of friends, this girl always texts me when she hears about it or sees pics, of why i didn't invite her. the thing is i know she's not exactly on good terms with them and i dont know how much they get a long. am i always obligated to ask her for when we go out.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The poster's post does not provide sufficient information to determine if they suffer from depression. They express feelings of conflict and uncertainty in their friendships, but it is not indicative of depression alone.
+

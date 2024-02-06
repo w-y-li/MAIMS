@@ -1,0 +1,14 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  I'm so lonely, but I'm not alone. I don't have anyone who I can truly feel comfortable being myself around, or telling the truth about how I feel. I have friends, they're not superficial, in fact they're wonderful people. I just can't let go from this facade that I have created - of this happy, easy going person. I know they wouldn't abandon me, yet it's a fear that aches constantly.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of loneliness, having difficulty being themselves, a fear of abandonment, and constantly feeling achy. These are common symptoms associated with depression, indicating that the poster may be suffering from depression.
+

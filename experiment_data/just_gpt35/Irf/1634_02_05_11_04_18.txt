@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  My brothers build computer for a living, my sister is great at coding, my cousins are engineers, and I can barely get a mini drone to work. The only things I can do is play games, D&amp;D (not as good as my siblings, might I add), and debate religion/ethics, all three of which are taken up completely on youtube so I wouldn't even get seen by anyone, and both were hit by adpocalypse so even if I were to get popular I would be demonetized instantly.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a feeling of not being as good as their siblings and cousins and feeling inadequate in comparison. This indicates a potential risk of thwarted belongingness, as they may feel excluded or disconnected from others who excel in areas they struggle with.
+

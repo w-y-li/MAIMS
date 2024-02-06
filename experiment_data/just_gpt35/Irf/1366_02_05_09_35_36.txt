@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  I am depressed and wanna die my own family puts me down! I am trying to grow my youtube channel and nothing works! What to do? I am losing interest in all my favourite things I just wanna die!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The individual expresses feelings of being put down by their own family and the lack of success in growing their YouTube channel, which could lead to a sense of social isolation and thwarted belongingness.
+

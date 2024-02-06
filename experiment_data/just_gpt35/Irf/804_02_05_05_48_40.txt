@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  All types of depression fucking suck. Mine feels like a daily battle and a war of attrition. But what I really want in life is to love someone again or to make people laugh. Will you go look in your mirror (or use the camera on your phone) and just make a silly face or a smile, please? For one depressed person to another? (Don't take a picture or anything). Just make a silly face or smile. I understand if you don't want to and no need for an explanation, but you are physically able to do so. Love to you all.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post suggests a desire for connection and love, which indicates a potential experience of thwarted belongingness. The poster expresses a longing for emotional connection and the need to make people laugh, which can be indicators of feeling isolated and disconnected from others.
+

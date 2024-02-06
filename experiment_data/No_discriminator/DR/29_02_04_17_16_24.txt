@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  When will this inescapable wait ever end? I feel as though this is never ending and nothing good will ever come out of it. I’m underserving. I have both a long-term mental illness and a long-term physical illness. One’s willpower is limited. I struggle everyday both physically and mentally/emotionally. It’s been years. My physical illness affects my mental illness and vice versa but they are offend uncontrollable! I suffer from chronic low self-esteem due to my illnesses. I don’t know I just feel hopeless and helpless. My willpower feels drained. I don’t know how much longer I can keep holding on. It’s not holding on that’s difficult. What’s difficult is holding on when there may be no meaning to it. What if I hold on with all my will and I find out there’s nothing to it. My whole life would’ve just been meaningless suffering. I keep trying but sometimes it’s really hard and I’m scared and lonely.  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time###The post explicitly states that the person feels sadness and mentions feeling hopeless, helpless, scared, and lonely. These emotions indicate a continuous state of sadness.'])
+('2', ['directly_mention', 'I feel the future is hopeless and that things cannot improve###The post explicitly states that the person feels hopeless about the future and mentions struggling with their illnesses for years, which indicates a pessimistic outlook on their future.'])
+('3', ['indirectly_mention', 'I feel I have failed more than the average person.###The post mentions chronic low self-esteem due to illnesses, which suggests a sense of failure compared to others.'])
+('4', ['indirectly_mention', 'I do not enjoy things as much as I used to.###The post expresses feelings of hopelessness and helplessness, which often accompany a loss of pleasure in previously enjoyed activities.'])
+('5', ['directly_mention', 'I feel quite guilty most of the time.###The post mentions chronic low self-esteem due to my illnesses, feeling hopeless and helpless, and feeling scared and lonely, all of which are indicators of guilt.'])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to punishment feelings."])
+('7', ['indirectly_mention', 'I dislike myself###The post mentions suffering from chronic low self-esteem due to illnesses which indicates a dislike towards oneself.'])
+('8', ['indirectly_mention', 'I am more self-critical or blaming than usual###The post mentions feeling hopeless, helpless, and drained, which suggests increased self-criticism and blaming.'])
+('9', ['directly_mention', "I have thoughts of killing myself, but I would not carry them out.###The post mentions feeling hopeless and helpless, as well as stating that the person doesn't know how much longer they can keep holding on. These statements indicate that the person has thoughts of killing themselves, although they do not mention carrying out the thoughts."])
+('10', ['directly_mention', 'I cry more than I used to.###The post mentions struggling physically and mentally/emotionally, feeling scared and lonely, and having chronic low self-esteem. These emotional struggles may lead to increased crying as a form of emotional release.'])
+('11', ['directly_mention', 'I feel more restless or wound up than usual.###The post mentions that the person is struggling physically and mentally every day, which can contribute to feelings of restlessness and agitation.'])
+('12', ['not_mention', "Doesn't mention at all.###The post does not mention anything about loss of interest in other people or activities."])
+('13', ['directly_mention', "I have greater difficulty in making decisions than I used to.###The post mentions that one's willpower is limited and the poster struggles everyday physically and mentally/emotionally. This indicates that the poster is having difficulty making decisions."])
+('14', ['directly_mention', 'I feel utterly worthless.###The post mentions that the poster suffers from chronic low self-esteem due to their illnesses. This suggests that they feel utterly worthless.'])
+('15', ['indirectly_mention', 'I do not have enough energy to do anything.###The post mentions that the poster has both a long-term mental illness and a long-term physical illness, which they struggle with every day. They also mention feeling hopeless, helpless, and having drained willpower. These symptoms suggest a loss of energy, indicating that the poster does not have enough energy to do anything.'])
+('16', ['indirectly_mention', "I wake up 1-2 hours early and can not get back to sleep.###The post mentions struggling both physically and mentally/emotionally, as well as feeling scared and lonely. These symptoms could potentially disrupt the poster's sleep pattern. Additionally, the post mentions a sense of hopelessness, which may lead to difficulty in falling or staying asleep. Based on these clues, it suggests that the poster wakes up 1-2 hours early and is unable to get back to sleep."])
+('17', ['directly_mention', 'I am much more irritable than usual.###The post mentions feeling hopeless, helpless, scared, and lonely, which indicates heightened emotions and irritability.'])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###The post mentions struggling physically and emotionally, which could lead to a decrease in appetite.'])
+('19', ['indirectly_mention', 'I find I can not concentrate on anything.###The post mentions that the person struggles everyday both physically and mentally/emotionally and suffers from chronic low self-esteem due to their illnesses. These factors can greatly impact concentration abilities, indicating that they may find it hard to concentrate on anything.'])
+('20', ['indirectly_mention', 'I am too tired or fatigued to do most of the things I used to do.###The post mentions that the person has both a long-term mental illness and a long-term physical illness and that their physical illness affects their mental illness and vice versa. It is also mentioned that they struggle every day both physically and mentally/emotionally. These factors can contribute to a higher level of fatigue and tiredness, making them too tired or fatigued to do most of the things they used to do.'])
+('21', ['directly_mention', 'I have lost interest in sex completely.###The post mentions that one of the struggles the poster faces is chronic low self-esteem due to their illnesses. Since chronic illness can often lead to physical and emotional exhaustion, it is plausible that the poster has lost interest in sex completely.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster exhibits several symptoms commonly associated with depression. They express feelings of sadness, hopelessness, and worthlessness, along with experiencing a loss of pleasure, low self-esteem, fatigue, and concentration difficulties. Additionally, they mention thoughts of holding on without meaning and feelings of being scared and lonely. All these symptoms point to a high likelihood of depression.
+

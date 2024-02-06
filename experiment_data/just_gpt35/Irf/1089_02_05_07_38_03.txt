@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  There isn't anything i like about myself. I hate my skin color, i hate my body, i hate how i cant lose weight, i hate how anti-social i am, i hate how dumb i am, i hate my anxiety, i hate how i can make other people laugh but not myself, i hate how lonely i am. There isn't a damn thing i like about myself. Its like when i was being created, i was given all the bad things in life. I just want a new life.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a strong indication of perceived burdensomeness as the individual expresses deep self-hatred, dissatisfaction with various aspects of their life, and a desire for a completely new life.
+

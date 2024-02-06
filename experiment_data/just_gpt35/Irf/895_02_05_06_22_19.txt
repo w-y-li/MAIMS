@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  something big happened recently, i slipped up and told someone, and i assume they told other people. now some people are trying to help me but it only makes me feel worse feeling like im a burden to them. i dont know what to do with myself anymore. i prefer not talking to people but it gets lonely, and when i do talk to people it just sets me off and i feel like they hate me for literally no reason.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of burdensomeness, as the person believes that they are a burden to others and that others may hate them for no reason.
+

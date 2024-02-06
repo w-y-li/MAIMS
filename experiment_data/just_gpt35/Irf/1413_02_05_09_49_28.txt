@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Got married at 25 to my ex (then 23) after four years of dating back in 2014. She called it quits by March 2015 after less than a year of marriage. She moved out in April 2015, and I've had very little contact since last Summer. She finally got around to having us exchange divorce paperwork a few months back, and on Jan 12 we'll be having a quick trial for a no-fault divorce. This was never a separation I wanted. I went from marriage counseling directly to weekly individual therapy last year, though I had found it unhelpful and stopped going after a few months. I feel like I annoy my friends when I try to talk to them about this, and there's always stuff going on in the back of my mind about this. I just want out of this mess, but I know in two weeks that even though there may be some legal closure, emotionally I'm not optimistic that things will be final. As a 28 year old guy, I hate that so much time has past and I still feel stuck and like shit. How do I get through this?  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster expresses feelings of annoyance towards friends when trying to talk about their situation, and mentions feeling stuck and like shit even after several years. This suggests a risk of perceived burdensomeness, as they feel as though their problems may burden others and they may not receive the support they need.
+

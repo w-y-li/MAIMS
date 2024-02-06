@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  Sometimes I get the feeling where I want to HAVE the strong urge to die. I'm such a failure and I get so much hate from those who are supposed to be close to me. I have no real friends, no one to  lean  on or speak to...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of social isolation, lack of support, and feeling of being a burden on others, which are indicative of thwarted belongingness.
+

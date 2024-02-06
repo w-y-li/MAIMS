@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Just told him about my depression and suicide attempt 2 months ago. It was so difficult to talk about but I feel like a weight is lifted of my shoulders. Let‚Äôs step into 2018 stronger, braver, happier and better! I love you all brothers and sisters and wish you all the best!  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows risk of thwarted belongingness as the individual expresses feelings of depression, suicide attempt, and the difficulty in discussing these issues. They also seek support and express love towards others, implying a need for connection and belonging.
+

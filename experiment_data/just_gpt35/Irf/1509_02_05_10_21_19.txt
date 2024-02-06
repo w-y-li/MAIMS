@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  I woke up early this morning in order to do research and perform a workout but ended up breaking down and crying instead. I feel like I‚Äôm slowly losing the mental fortitude to do most tasks that would supposedly ‚Äúimprove‚Äù my wellbeing. Does anyone know how I‚Äôm supposed to break through this. Every single thing I do is accompanied with a bad memory or thought that just discourages me from doing it and sends me into a depressed state. Please help me, I‚Äôm not sure how I‚Äôm supposed to do things anymore.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a perception of being a burden to others as the person feels discouraged from doing tasks and refers to a depressed state. They express a sense of losing mental fortitude and ask for help in figuring out how to do things.
+

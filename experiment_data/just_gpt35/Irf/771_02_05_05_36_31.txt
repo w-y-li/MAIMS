@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  Hey everyone, I've been lurking for awhile now and since its 2017, I want to start fresh. 2016 was my lowest point and I still feel so lonely and depressed. I've been seeking happiness in someone and it just seems like she is getting colder and colder. I just feel so lost and there seems to be nothing I can do. Some days I just feel so unloved after trying so hard to start a conversation with her. I should be happy since I have all I need but I just feel so depressed and horrible. But anyways how do I love myself and find happiness with me or from within? How do I finally find a way to not rely on others for the key to happiness? Thanks for the reply in advance.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of loneliness, depression, and reliance on others for happiness. These feelings suggest a potential risk of perceived burdensomeness, where the individual may believe that they are a burden to others or that their presence is unwanted.
+

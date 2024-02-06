@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	No
+Post:
+  Is this depression or am I just a weak coward cause I'm not too sure  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not exhibit any signs of thwarted belongingness. The individual is questioning whether their feelings indicate depression or weakness but does not mention feeling disconnected or lacking a sense of belonging.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  :) was a mistake not to kill myself last christmas.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The presence of suicidal thoughts and regret for not ending one's life suggests a risk of perceived burdensomeness, where the person may feel that they are a burden to others and believe that their death would have relieved that burden.
+

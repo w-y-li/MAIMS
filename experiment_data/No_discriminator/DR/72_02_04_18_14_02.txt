@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  How do you decide to live for yourself? I can't do anything for myself. I don't mean I can't dress myself or shower etc, I mean I don't care to progress my career, I don't care to try and be a better person and all that. I'm finding that I'm putting off whatever I want to do (study for career progression, do martial arts, try harder with photography etc), in place of  being support  for my girlfriend. Emotional or otherwise. I put her above me, so I don't do anything. This is wrong, because it leaves me bitter with myself and my choices, because I want to be better for her etc. But wtf do I do? How do I do it?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###The poster expresses feeling bitter with themselves and their choices, indicating a persistent state of sadness.'])
+('2', ['indirectly_mention', 'I feel discouraged about my future.###The poster mentions not caring to progress their career or try to be a better person. This suggests a lack of motivation and potential pessimism about their future.'])
+('3', ['directly_mention', 'I feel I have failed more than the average person.###In the post, I mentioned that I am bitter with myself and my choices, which suggests that I feel like a failure. I also mentioned that I want to be better for my girlfriend, indicating that I have feelings of inadequacy in terms of personal success and achievement.'])
+('4', ['indirectly_mention', "I do not enjoy things as much as I used to.###Although I didn't directly mention a loss of pleasure, I did mention that I don't care to progress my career or try harder with my hobbies like martial arts and photography. This suggests a lack of interest or enjoyment in activities that I used to find pleasure in. Additionally, my overall tone conveys a sense of dissatisfaction and frustration, which may indicate a loss of pleasure."])
+('5', ['indirectly_mention', 'I feel guilty a good part of the time.###In the post, I mentioned that I am putting off things that I want to do for the sake of being support for my girlfriend. This implies that I prioritize her needs over mine, which can lead to feelings of guilt. However, I did not explicitly state that I feel guilty, but based on the information provided, it is likely that I experience guilty feelings a good part of the time.'])
+('6', ['indirectly_mention', 'I feel I am being punished.###Although I did not directly mention punishment feelings, I do express dissatisfaction and bitterness towards myself and my choices. This indicates that I may perceive my current situation as a form of punishment. The fact that I want to be better for my girlfriend but feel unable to do so suggests a sense of being punished for not living up to my own expectations. Therefore, I feel I am being punished.'])
+('7', ['indirectly_mention', 'I am disappointed in myself.###In the post, I mentioned that I am bitter with myself and my choices, which suggests that I am disappointed in myself.'])
+('8', ['not_mention', "Doesn't mention at all.###The post does not provide any information that relates to self-accusations."])
+('9', ['indirectly_mention', 'I cry more than I used to.###The post mentions that the person is finding themselves bitter with their choices and wants to be better for their girlfriend. This suggests that they may experience intense emotions, potentially leading to an increase in crying.'])
+('10', ['not_mention', "Doesn't mention at all.###The post does not mention any thoughts of killing oneself or suicidal wishes explicitly."])
+('11', ['directly_mention', 'I am so restless or agitated that it is hard to stay still.###In the post, I mentioned that I am putting off whatever I want to do and I am bitter with myself and my choices. This suggests that I am feeling restless and agitated, as it is hard for me to stay still and be content with my current situation.'])
+('12', ['directly_mention', "I have lost most of my interest in other people or things.###I mentioned that I don't care to progress my career, try to be a better person, or engage in activities such as studying, martial arts, or photography. This indicates a significant loss of interest in various aspects of my life."])
+('13', ['indirectly_mention', 'I find it more difficult to make decisions than usual.###The post indicates that the person is indecisive as they mention putting off things they want to do and prioritizing their girlfriend. This suggests difficulty in making decisions for themselves.'])
+('14', ['indirectly_mention', "I do not consider myself as worthwhile and useful as I used to.###The post reflects feelings of worthlessness as the person states that they don't care to progress their career, be a better person, and feel bitter about their choices. This suggests a decrease in self-worth and a sense of being less valuable than before."])
+('15', ['directly_mention', "I do not have enough energy to do very much.###The poster mentions that they don't care to progress their career or be a better person, suggesting a lack of motivation and energy to do much."])
+('16', ['directly_mention', 'I sleep a lot less than usual.###The poster mentions putting off things they want to do to support their girlfriend, which may be causing them to sleep less than usual.'])
+('17', ['indirectly_mention', 'I am more irritable than usual.###The post mentions that the person feels bitter with themselves and their choices. This bitterness suggests that they are feeling more irritable than usual.'])
+('18', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to changes in appetite."])
+('19', ['directly_mention', 'I find I can not concentrate on anything.###In the post, I mentioned that I am putting off things I want to do, such as studying for career progression, doing martial arts, and trying harder with photography. This implies that I am having difficulty concentrating and staying focused on these activities.'])
+('20', ['directly_mention', "I am too tired or fatigued to do most of the things I used to do.###I explicitly mentioned that I don't do anything for myself and put all my energy into supporting my girlfriend emotionally or otherwise. This suggests that I am experiencing high levels of tiredness or fatigue that prevent me from engaging in activities that I used to enjoy."])
+('21', ['indirectly_mention', 'I am less interested in sex than I used to be.###The post mentions that the poster is putting off their own desires, including pursuing their career and hobbies, in order to be there for their girlfriend. This suggests a shift in priorities and a diminished interest in personal pursuits, which may also extend to a decrease in interest in sex.'])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster exhibits several symptoms of depression based on their responses to the mental scale. They express feelings of sadness, discouragement about their future, guilt, disappointment in themselves, and feeling worthless and useless. They also report a loss of interest in activities, difficulty making decisions, lack of energy and concentration, changes in sleeping patterns, irritability, and decreased interest in sex. These symptoms are consistent with the criteria for diagnosing depression.
+

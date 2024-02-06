@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  When I'm at work, I talk, laugh, and hide behind my shield. When I'm with family, I'm a little more vulnerable, but I'm mostly still silent about the things that are working hard against me to bring me down. However, when I'm alone...that's when it hits me. When my kids aren't home and I'm left to my own devices, that's when I'm the most afraid. It's not that I don't think anyone would miss me, it's the fact that I don't honestly care if they would or wouldn't. I feel like if they knew the extreme pain and mental anguish I'm in from the events my life has drug me through, they would understand my want for release. The constant cheating of exes, the constant deception and pain from being tossed away over and over again. The uselessness I feel of getting out of bed because the same vicious cycle awaits me every single day of my life! I'm tired. I'm tired of giving myself to others, putting myself out there and making myself vulnerable, just to wash, rinse, and repeat a thousand times more. Is it time for me to go? Does it matter? I want to know if in death I will find release. I want to know if separation from this world allows me to find peace once again. One thing is sure, I am scared...but also...not.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post demonstrates a sense of isolation, longing for connection, and a lack of care for the potential impact of their absence on others. These feelings suggest a risk of thwarted belongingness, which is a psychological state often associated with suicidal ideation.
+

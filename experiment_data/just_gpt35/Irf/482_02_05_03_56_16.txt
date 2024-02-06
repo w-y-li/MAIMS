@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I don't want to work, I don't want to travel, I don't want to go back to college, learn new things, go out, meet people, date, exercise, cook, read books, write, eat, or anything else. I have nothing to live for and I don't think that's going to change. The only thing I can honestly say I want to do is to be dead.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a significant lack of interest and desire for various activities and a feeling of having nothing to live for, which is indicative of a potential sense of thwarted belongingness.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	Yes
+Post:
+  Dude I just want death. I‚Äôve never actually wanted to die before but I just really really don‚Äôt want to be here at all. Everyone hates me and I honestly just hate everyone, I just want to die  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a desire for death due to feeling disliked by everyone and a hatred towards others. This suggests a possible internalization of a belief that the individual is a burden to others, which is a characteristic of perceived burdensomeness. This perception contributes to suicidal ideation and increases the risk of self-harm or suicidal behavior.
+

@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  That sad part is that things could be worse and probably will be in 2018. Happy New Years everyone! Best of luck to everyone that's trapped in their own mind.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates a sense of being trapped in one's own mind and mentions the possibility of things getting worse in the future, which suggests a potential risk of perceived burdensomeness.
+

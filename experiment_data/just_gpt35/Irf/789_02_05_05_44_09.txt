@@ -1,0 +1,14 @@
+Question: Does the post show risk of perceived burdensomeness?
+True Label:	No
+Post:
+  I've had about three interviews and a couple phone interviews and nothing yet. I know it's the holidays and no one is hiring en masse yet. But, God, sitting around the house sucks. I miss just buying things without having to do quick mental math to see if I could afford it. I intend on joining the plumbers union, but God help me if I don't get in.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post indicates feelings of frustration and self-doubt regarding job interviews and financial constraints. The mention of feeling burdensome if the poster doesn't get accepted into the plumber's union suggests a perceived burden on others if their plan does not work out.
+

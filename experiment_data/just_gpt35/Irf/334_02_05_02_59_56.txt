@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I'm going to be doing one of those  Year in pixels  things to track how much my depression actually affects my day to day life. This time next year (or maybe monthly) I'll post my results. Wish me luck. This year is already at a bad start. Maybe this will benefit some people and be a good tool for psychology students to study.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not indicate any risk of thwarted belongingness. The individual is discussing tracking their depression and hoping to benefit others and psychology students by sharing their results. This suggests a sense of purpose and a desire to contribute to the understanding of mental health, rather than feeling disconnected or excluded from social relationships.
+

@@ -1,0 +1,39 @@
+Question: Does the poster suffer from depression?
+True Label:	Yes
+Post:
+  How does it feel to have an abnormal next of kin? I have a brother who people call  retarded . But actually he's not. Just family - the one voluntarily has patience with him understand that. When I was a kid, I only thought he had some illusions about life because he had always talking about unreal things. We were watching TV and the editors were discussing some news, instead of listening and talking about related topics (as normal people do) he started to shout that they were stupid and made up his own story that us all knew it told no true information. If it's your family's case, maybe your parents would try to talk to him or do something, but mine did nothing. When I argued with him over such false information, my parents even stopped me and said  Why do you have to argue with your poor brother?  I thought they would never tell him what's wrong and what's right. At age of 10, once he told me to pack things up 'cause we would go for a trip with my mom's friends, I had no doubt and did exactly what he had said. Of course, one day later I found out he lied. At that moment, he looked at me with his wicked eyes and laughed. That's the moment I realized he's such an attention seeker, he's selfish and just wanted the world to turn around himself. Since then, my parents never listen to me as I say he's not a fool, he's slippery even. And others saying I was blessed because all the bad luck on his place so I could live, study and be the only child that parents could be proud of. He's been living an easy life 'cause people are working their asses off out there but he just needs to call mom and things will be done. And none would want to resent him making mistakes 'cause  he's retarded, just leave him  they say. I envy him. Should I be stupid in order to be noticed by my parents?  
+
+####################################
+Do Mental Scale:
+
+ITER 0
+Do MS Record:
+('1', ['directly_mention', 'I feel sad much of the time.###The post mentions feeling sad when talking about arguing with the brother, and feeling envious of him.'])
+('2', ['directly_mention', 'I feel I have nothing to look forward to.###The post mentions feeling discouraged about the future when talking about being overshadowed by the brother and feeling the need to be stupid to be noticed by the parents.'])
+('3', ['indirectly_mention', "###The post indirectly mentions the question through the poster's description of their brother's behavior as attention-seeking and selfish. This suggests that the poster may feel a sense of failure in comparison to their brother's ability to effortlessly gain their parents' attention and favor. However, the post does not directly state their feelings of failure."])
+('4', ['indirectly_mention', "###The post indirectly mentions the question through the poster's envy of their brother's ability to easily get things done by calling their mother. This implies that the poster may experience a decreased ability to derive pleasure from activities they used to enjoy because they perceive their brother as receiving more attention and rewards. However, the post does not explicitly state a loss of pleasure."])
+('5', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to guilty feelings."])
+('6', ['not_mention', "Doesn't mention at all.###The post does not provide any information related to punishment feelings."])
+('7', ['indirectly_mention', 'I dislike myself.###In the post, I mentioned that I envy my brother and questioned whether I should be stupid in order to be noticed by my parents. This suggests a level of self-dislike as I feel inadequate compared to my brother.'])
+('8', ['directly_mention', "I am more self-critical or blaming than usual.###In the post, I mentioned how my parents never listen to me and how others say I was blessed because all the bad luck is on my brother's place. This indicates that I am more self-critical and blaming myself for not receiving the same attention and recognition from my parents."])
+('9', ['directly_mention', "I do not have any thoughts of killing myself.###In the post, I mentioned that I envy my brother because people do not resent him making mistakes as they think he is 'retarded'. This suggests that I do not have any thoughts of killing myself, as I am comparing my situation to his."])
+('10', ['indirectly_mention', 'I cry more than I used to.###Although the post does not explicitly mention crying, it describes my frustration and envy towards my brother. These strong emotions may lead to an increase in crying as a way to cope with the situation.'])
+('11', ['directly_mention', "I am so restless or wound up that it's hard to stay still.###The post mentions feeling restless and agitated, specifically describing the brother's behavior and how it affects the poster's emotions."])
+('12', ['indirectly_mention', "I am less interested in other people or things than before.###The post indirectly mentions losing interest by describing the poster's envy towards the attention their brother receives from their parents."])
+('13', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to indecisiveness. It focuses more on the poster's relationship with their brother."])
+('14', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to feelings of worthlessness. It mainly discusses the dynamics within the family and the poster's resentment towards their brother."])
+('15', ['directly_mention', "I have less energy than I used to have.###I mentioned that I envy my brother who has an easy life and people make excuses for his mistakes because they think he is 'retarded'. This envy and frustration can lead to a decrease in my energy levels."])
+('16', ['not_mention', "Doesn't mention at all.###The post does not contain any information or indications about changes in the sleeping pattern."])
+('17', ['directly_mention', "I am more irritable than usual.###In the post, I mentioned that I argued with my brother over false information and felt frustrated that my parents didn't support me. This indicates an increase in irritability compared to my usual state."])
+('18', ['indirectly_mention', 'My appetite is somewhat less than usual.###While the post does not explicitly mention changes in appetite, it does describe the frustration and envy I feel towards my brother. These negative emotions can lead to a decrease in appetite. Additionally, feeling neglected and unheard by my parents may result in a decrease in appetite as well.'])
+('19', ['indirectly_mention', 'I find it hard to keep my mind on anything for very long.###The post mentions that the brother would start shouting about unreal things while they were watching TV. This behavior suggests difficulty in maintaining concentration on the topic being discussed on the television.'])
+('20', ['indirectly_mention', "I am too tired or fatigued to do a lot of the things I used to do.###The post states that the poster's brother has an easy life and does not seem to face the same level of responsibilities or challenges as others, which can contribute to a feeling of fatigue or tiredness compared to the poster's own experiences."])
+('21', ['not_mention', "Doesn't mention at all.###The post does not mention anything related to changes in interest in sex."])
+Do MS Check Record:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The poster's responses suggest symptoms of depression. They report feeling sad much of the time, having nothing to look forward to, disliking themselves, being self-critical, having less energy, being more irritable, and finding it hard to concentrate. These symptoms align with the criteria for depression as indicated by the posted answers.
+

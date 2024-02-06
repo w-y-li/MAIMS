@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  my parents are always encouraging me to go out and meet people, but id much rather stay at home. its not that i cant be around people id just rather be alone.  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+No
+The post does not show risk of thwarted belongingness. The individual expresses a preference for staying at home rather than going out and meeting people, but it is not indicative of feeling isolated or disconnected from others.
+

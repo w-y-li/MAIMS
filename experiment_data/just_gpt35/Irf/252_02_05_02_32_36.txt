@@ -1,0 +1,14 @@
+Question: Does the post show risk of thwarted belongingness?
+True Label:	Yes
+Post:
+  I've been suffering from clinical depression for 6 months now and it took so much from me. I've had irregularities in my behavior ever since and obviously it took the attention of my friends. But instead of generally lifting me up, it actually made me feel worse. I've been having frequent breakdowns at school and I feel like most of my friends are getting sick and tired of me. It doesn't help that one of my friends confirmed this by telling me the last time I had a breakdown, one of my friends got upset because I still act  this way  even though they're trying they keep  cheering me up . One even just gave me advice to just  help myself . It feels like they think I'm using the  I'm depressed  as an excuse for every breakdown I have. I mean, I can't blame them, even I'm getting tired of myself.... but it's not really my fault I'm suffering what I'm feeling, is it? I wish I could change myself in an instant...  
+
+####################################
+Do Mental Scale:
+####################################
+Do Mental Health Analysis:
+
+ITER 0
+Yes
+The post shows a risk of thwarted belongingness as the poster mentions feeling like their friends are getting sick and tired of them, and that one friend confirmed that they were upset because the poster still acts the same way despite their attempts to cheer them up. This suggests a lack of support and understanding from friends, which could further contribute to the feelings of depression and isolation.
+
