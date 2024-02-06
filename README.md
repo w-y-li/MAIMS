@@ -1,6 +1,8 @@
 # Zero-shot-Mental-Health-Analysis-on-Social-Media-by-incorporating-Mental-Health-Scales
 This is the appendix of paper.
 
+![image](https://github.com/lightxxxshadow/Zero-shot-Mental-Health-Analysis-on-Social-Media-by-incorporating-Mental-Health-Scales/assets/93126839/99ca65e8-6c67-47a1-a611-855f1efdb5d9)
+
 # Abstract:
 Traditional discriminative approaches in mental health analysis are known for their strong capacity but lack interpretability. On the other hand, generative approaches, such as those based on large language models (LLMs), have the potential to provide explanations.
 However, their capabilities still fall short compared to discrimina-tive approaches, and their explanations may be unreliable due to the fact that the generation of explanation is a black-box process.
