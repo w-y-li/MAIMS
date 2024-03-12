@@ -9,4 +9,4 @@ However, their capabilities still fall short compared to discrimina-tive approac
 In line with the psychological assessment practice of using scales to evaluate mental states, our method incorporates two procedures via LLMs. First, the patient completes mental health questionnaires,and second, the psychologist interprets the collected information from the mental health questions and makes informed decisions.
 Experimental results show that our method outperforms other zero-shot methods. Our method can generate more rigorous explanation based on the outputs of mental questionnaires
 
-### We have only show the former 100 results of the main experiment for example,if you want the whole data,please email to wenyulilwy@qq.com for them.
+### We have only shown the former 100 results of the main experiment for example,if you want the whole data,please email to wenyulilwy@qq.com for them.
