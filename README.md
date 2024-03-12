@@ -1,4 +1,4 @@
-# Zero-shot-Mental-Health-Analysis-on-Social-Media-by-incorporating-Mental-Health-Scales
+# Zero-shot Mental Health Analysis on Social Media by incorporating Mental Health Scales
 This is the appendix of paper.
 
 ![image](https://github.com/lightxxxshadow/Zero-shot-Mental-Health-Analysis-on-Social-Media-by-incorporating-Mental-Health-Scales/assets/93126839/99ca65e8-6c67-47a1-a611-855f1efdb5d9)
