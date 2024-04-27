@@ -5,7 +5,7 @@ import time
 from sklearn.metrics import f1_score, accuracy_score
 import math
 from tqdm import trange
-from ms import MS
+from mental_scale.Mental_Scale import MS
 from datetime import datetime
 from openai import OpenAI
 
